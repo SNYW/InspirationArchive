@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inspiration Archive</title>
+    <style>
+        :root {
+            --bg: #0d0d0d;
+            --card-bg: #1a1a1a;
+            --text: #e0e0e0;
+            --accent: #ff2d6a;
+            --accent-dim: #ff2d6a40;
+            --border: #333;
+        }
+        
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            padding: 2rem;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            color: #888;
+            font-size: 0.9rem;
+        }
+        
+        .filters {
+            display: flex;
+            justify-content: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+        
+        .filter-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            color: var(--text);
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            font-family: inherit;
+            transition: all 0.2s;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            border-color: var(--accent);
+            background: var(--accent-dim);
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        
+        .card h2 {
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            color: var(--accent);
+        }
+        
+        .card .year {
+            color: #666;
+            font-size: 0.85rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .card .medium {
+            display: inline-block;
+            background: var(--accent-dim);
+            padding: 0.2rem 0.5rem;
+            font-size: 0.75rem;
+            margin-bottom: 1rem;
+        }
+        
+        .card .pitch {
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+        
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.9);
+            padding: 2rem;
+            overflow-y: auto;
+        }
+        
+        .modal.open { display: block; }
+        
+        .modal-content {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border: 1px solid var(--accent);
+            padding: 2rem;
+        }
+        
+        .modal-close {
+            float: right;
+            background: none;
+            border: none;
+            color: var(--text);
+            font-size: 1.5rem;
+            cursor: pointer;
+        }
+        
+        .modal h2 { color: var(--accent); margin-bottom: 0.5rem; }
+        .modal .meta { color: #666; margin-bottom: 1.5rem; }
+        .modal section { margin-bottom: 2rem; }
+        .modal h3 { 
+            color: var(--accent); 
+            font-size: 0.9rem; 
+            text-transform: uppercase; 
+            letter-spacing: 0.1em;
+            margin-bottom: 1rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            color: #666;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Inspiration Archive</h1>
+        <p class="subtitle">Sci-Fi Media for Cyberpunk RED Campaign</p>
+    </header>
+    
+    <div class="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="Novel">Novels</button>
+        <button class="filter-btn" data-filter="Short Story">Short Stories</button>
+        <button class="filter-btn" data-filter="Film">Films</button>
+        <button class="filter-btn" data-filter="Anime">Anime</button>
+    </div>
+    
+    <div class="grid" id="mediaGrid"></div>
+    
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Built for the Silent Witness Cyberpunk RED Campaign</p>
+    </footer>
+
+    <script>
+        const media = [
+            { title: "334", year: "1972", medium: "Novel", pitch: "A haunting collection of interconnected tales set in a dystopian future New York, exploring class divide and urban decay.", file: "334_1972.md" },
+            { title: "A Martian Odyssey", year: "1934", medium: "Short Story", pitch: "One of the first great science fiction short stories, following an astronaut's strange journey across Mars.", file: "A_Martian_Odyssey_1934.md" },
+            { title: "A Memory Called Empire", year: "2019", medium: "Novel", pitch: "An ambassador from a small space station must navigate court intrigue in a massive empire while carrying the memories of her predecessor.", file: "A_Memory_Called_Empire_2019.md" },
+            { title: "A Prayer for the Crown-Shy", year: "2022", medium: "Novel", pitch: "A gentle post-apocalyptic fantasy about a monk and a robot traveling together.", file: "A_Prayer_for_the_Crown-Shy_2022.md" },
+            { title: "A Psalm for the Wild-Built", year: "2021", medium: "Novel", pitch: "A robot and a monk explore what it means to find purpose in a world without humans.", file: "A_Psalm_for_the_Wild_Built_2021.md" },
+            { title: "A Saucer of Loneliness", year: "1953", medium: "Short Story", pitch: "A woman discovers she is the only person who can see alien saucers hovering above Earth.", file: "A_Saucer_of_Loneliness_1953.md" },
+            { title: "A World Out of Time", year: "1976", medium: "Novel", pitch: "A man wakes up 200 years in the future to find Earth transformed beyond recognition.", file: "A_World_Out_of_Time_1976.md" },
+            { title: "All Systems Red", year: "2017", medium: "Novella", pitch: "A security android with self-awareness just wants to watch TV shows in peace.", file: "All_Systems_Red_2017.md" },
+            { title: "An Unkindness of Ghosts", year: "2017", medium: "Novel", pitch: "A neurodivergent scholar uncovers dark secrets aboard a generation ship.", file: "An_Unkindness_of_Ghosts_2017.md" },
+            { title: "Angels' Egg", year: "1985", medium: "Film", pitch: "A surreal, dialogue-light film exploring faith, art, and apocalypse through mysterious imagery.", file: "Angels_Egg_1985.md" },
+            { title: "Binti", year: "2015", medium: "Novella", pitch: "A Himba girl defies tradition to attend university in space, carrying ancient secrets.", file: "Binti_2015.md" },
+            { title: "City", year: "1952", medium: "Short Story", pitch: "A classic tale of a city that is alive, evolving over millions of years.", file: "City_1952.md" },
+            { title: "Counterweight", year: "2021", medium: "Novella", pitch: "A deep space station becomes the center of political intrigue and revolution.", file: "Counterweight_2021.md" },
+            { title: "Cyber City Oedo 808", year: "1990", medium: "Anime", pitch: "Three cyberpunk criminals are offered freedom if they hunt down a rogue AI.", file: "Cyber_City_Oedo_808_1990.md" },
+            { title: "Dorsai", year: "1959", medium: "Novel", pitch: "A future where mercenaries from the planet Dorsai are the ultimate soldiers.", file: "Dorsai_1959.md" },
+            { title: "Ergo Proxy", year: "2006", medium: "Anime", pitch: "In a domed city, proxy androids begin questioning their own existence.", file: "Ergo_Proxy_2006.md" },
+            { title: "Eurêka", year: "1972", medium: "Film", pitch: "A surreal exploration of a post-apocalyptic world and its last survivors.", file: "Euremas_Dam_1972.md" },
+            { title: "Exhalation", year: "2008", medium: "Short Story", pitch: "An alien autopsy reveals a universe running out of energy.", file: "Exhalation_2008.md" },
+            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", file: "Fantastic_Planet_1973.md" },
+            { title: "The Fourth Mansions", year: "1969", medium: "Novel", pitch: "A man investigates supernatural forces while navigating political revolution.", file: "Fourth_Mansions_1969.md" }
+        ];
+
+        // Load more media from directory
+        async function loadMedia() {
+            const grid = document.getElementById('mediaGrid');
+            grid.innerHTML = '';
+            
+            const filter = document.querySelector('.filter-btn.active').dataset.filter;
+            
+            const filtered = filter === 'all' 
+                ? media 
+                : media.filter(m => m.medium === filter);
+            
+            filtered.forEach(m => {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h2>${m.title}</h2>
+                    <div class="year">${m.year}</div>
+                    <div class="medium">${m.medium}</div>
+                    <p class="pitch">${m.pitch}</p>
+                `;
+                card.onclick = () => openModal(m.file);
+                grid.appendChild(card);
+            });
+        }
+
+        async function openModal(file) {
+            try {
+                const response = await fetch(file);
+                const content = await response.text();
+                document.getElementById('modalBody').innerHTML = parseMarkdown(content);
+                document.getElementById('modal').classList.add('open');
+            } catch(e) {
+                document.getElementById('modalBody').innerHTML = '<p>Error loading content.</p>';
+                document.getElementById('modal').classList.add('open');
+            }
+        }
+
+        function parseMarkdown(text) {
+            // Simple markdown parser
+            return text
+                .replace(/^# (.+)$/gm, '<h2>$1</h2>')
+                .replace(/^## (.+)$/gm, '<h3>$1</h3>')
+                .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\n\n/g, '</p><p>')
+                .replace(/^(.+)$/gm, '<p>$1</p>');
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.remove('open');
+        }
+
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.onclick = () => {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                loadMedia();
+            };
+        });
+
+        loadMedia();
+    </script>
+</body>
+</html>
