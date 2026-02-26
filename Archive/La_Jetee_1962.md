@@ -1,5 +1,7 @@
 # La Jetée (1962)
 
+**Tags:** 🌍 France | 🎭 Melancholic | 📚 Post-Apocalypse | 🧬 Memory, Time-Travel
+
 **Medium:** Short Film / Featurette
 **Creator/Author:** Chris Marker
 
