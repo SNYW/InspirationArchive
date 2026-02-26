@@ -1,5 +1,7 @@
 # A Prayer for the Crown-Shy (2022)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia, Science-Fantasy | 🧬 Sentience, Exploration, Ecology
+
 **Medium:** Novella
 **Creator/Author:** Becky Chambers
 
