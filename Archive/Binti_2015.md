@@ -1,5 +1,7 @@
 # Binti (2015)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Science-Fantasy | 🧬 Aliens, Exploration
+
 **Medium:** Novella
 **Creator/Author:** Nnedi Okorafor
 
