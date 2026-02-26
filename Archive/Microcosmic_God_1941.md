@@ -1,5 +1,7 @@
 # Microcosmic God (1941)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Science-Fantasy | 🧬 Sentience, Evolution, Religion
+
 **Medium:** Short Story / Novelette
 **Author:** Theodore Sturgeon
 
