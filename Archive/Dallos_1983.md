@@ -1,5 +1,7 @@
 # Dallos (1983)
 
+**Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Dystopia, Science-Fantasy | 🧬 Rebellion, Megacorps, Isolation
+
 **Medium:** OVA (Original Video Animation)
 **Creator/Author:** Hisayuki Toriumi (Concept), Mamoru Oshii (Co-director)
 
