@@ -1,4 +1,5 @@
 # The Fifth Head of Cerberus (1972)
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Cloning, Sentience, Memory
 
 **Medium:** Novella/Collection
 **Author:** Gene Wolfe

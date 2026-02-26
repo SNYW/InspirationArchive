@@ -1,4 +1,5 @@
 # The Death of Grass (1956)
+**Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Pandemic, Ecology
 
 **Medium:** Novel
 **Creator/Author:** John Christopher (pen name of Sam Youd)

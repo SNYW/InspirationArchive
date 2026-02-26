@@ -1,4 +1,5 @@
 # The Deep (2019)
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Evolution
 
 **Medium:** Novella
 **Creator/Author:** Rivers Solomon (with Daveed Diggs, William Hutson, Jonathan Snipes)

@@ -1,4 +1,5 @@
 # The Einstein Intersection (1967)
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Evolution, Sentience
 
 **Medium:** Novel
 **Creator/Author:** Samuel R. Delany

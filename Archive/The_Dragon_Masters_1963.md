@@ -1,4 +1,5 @@
 # The Dragon Masters (1963)
+**Tags:** 🌍 USA | 🎭 Tense | 📚 Space-Opera | 🧬 Aliens, Evolution, Military
 
 **Medium:** Novella/Short Story
 **Creator/Author:** Jack Vance

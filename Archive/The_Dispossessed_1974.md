@@ -1,4 +1,5 @@
 # The Dispossessed (1974)
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Utopia | 🧬 Rebellion
 
 **Medium:** Novel
 **Creator/Author:** Ursula K. Le Guin

@@ -1,4 +1,5 @@
 # The First Men (1960)
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Evolution, Transhumanism
 
 **Medium:** Short Story
 **Creator/Author:** Howard Fast

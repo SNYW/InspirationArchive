@@ -1,4 +1,5 @@
 # The Fever in Urbicande (La Fièvre d'Urbicande) (1985)
+**Tags:** 🌍 France | 🎭 Cerebral | 📚 Utopia | 🧬 Rebellion, Ecology
 
 **Medium:** Graphic Novel / Bande Dessinée
 **Creator/Author:** François Schuiten (artist), Benoît Peeters (writer)

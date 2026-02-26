@@ -1,4 +1,5 @@
 # The Dead Mountaineer's Inn (1970)
+**Tags:** 🌍 Czechoslovakia | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Aliens, Sentience
 
 **Medium:** Novel
 **Creator/Author:** Arkady and Boris Strugatsky
