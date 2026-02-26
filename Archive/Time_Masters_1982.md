@@ -1,5 +1,7 @@
 # Time Masters (1982)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera | 🧬 Time-Travel, Exploration
+
 **Medium:** Animated Film
 **Creator/Author:** René Laloux (Director), Mœbius (Art Designer)
 

@@ -1,5 +1,7 @@
 # The World Inside (1971)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Dystopia | 🧬 Ecology, Isolation, Transhumanism
+
 **Medium:** Novel
 **Creator/Author:** Robert Silverberg
 

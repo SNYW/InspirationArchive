@@ -1,5 +1,7 @@
 # The Word for World is Forest (1976)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia | 🧬 Ecology, Rebellion
+
 **Medium:** Novella
 **Author:** Ursula K. Le Guin
 

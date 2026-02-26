@@ -1,5 +1,7 @@
 # Think Blue, Count Two (1963)
 
+**Tags:** 🌍 USA | 🎭 Tense | 📚 Hard-SF | 🧬 Isolation, Evolution
+
 **Medium:** Short Story
 **Creator/Author:** Cordwainer Smith
 

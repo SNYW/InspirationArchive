@@ -1,5 +1,7 @@
 # Time Considered as a Helix of Semi-Precious Stones (1968)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Noir | 🧬 Memory
+
 **Medium:** Short Story
 **Creator/Author:** Samuel R. Delany
 

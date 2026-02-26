@@ -1,5 +1,7 @@
 # The Witches of Karres (1966)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera | 🧬 Transhumanism, Aliens
+
 **Medium:** Novel
 **Creator/Author:** James H. Schmitz
 

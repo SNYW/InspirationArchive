@@ -1,5 +1,7 @@
 # The War of the Worlds: Next Century (1981)
 
+**Tags:** 🌍 Poland | 🎭 Satirical | 📚 Dystopia | 🧬 Rebellion
+
 **Medium:** Film
 **Creator/Author:** Piotr Szulkin (Director/Writer)
 

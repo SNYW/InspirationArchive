@@ -1,5 +1,7 @@
 # The World Well Lost (1953)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Aliens
+
 **Medium:** Short Story
 **Creator/Author:** Theodore Sturgeon
 

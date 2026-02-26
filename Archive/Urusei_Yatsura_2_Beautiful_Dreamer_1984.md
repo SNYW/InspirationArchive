@@ -1,5 +1,7 @@
 # Urusei Yatsura 2: Beautiful Dreamer (1984)
 
+**Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 VR, Memory
+
 **Medium:** Anime Film
 **Creator:** Mamoru Oshii (Director), Rumiko Takahashi (Original Manga)
 
