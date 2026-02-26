@@ -39,6 +39,12 @@
             color: #888;
             font-size: 0.9rem;
         }
+        .loading {
+            text-align: center;
+            color: #666;
+            font-size: 1.2rem;
+            padding: 3rem;
+        }
         .filters {
             display: flex;
             justify-content: center;
@@ -152,7 +158,6 @@
         }
         .card:hover img {
             opacity: 0.3;
-            /* Darker image on hover for better text readability */
         }
         .card-title-bar {
             position: absolute;
@@ -254,45 +259,22 @@
             color: #666;
             font-size: 0.8rem;
         }
-        /* ========================================================= MOBILE OPTIMIZATIONS ========================================================= */
+        /* Mobile */
         @media (max-width: 768px) {
             body { padding: 1rem; }
             h1 { font-size: 1.8rem; }
-            /* Force Grid into 2 Columns */
             .grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
-            /* Make Hero Stack Vertically */
-            .hero-container {
-                flex-direction: column;
-                padding: 1.5rem;
-                align-items: center;
-                text-align: center;
-            }
+            .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; }
             .hero-poster { width: 160px; }
             .hero-info h2 { font-size: 1.8rem; }
             .hero-info .meta { font-size: 0.9rem; margin-bottom: 1rem; }
             .hero-info .pitch { font-size: 0.95rem; }
             .hero-tag { align-self: center; }
-            /* Fix Mobile Tap/Hover Overlay */
             .card-title-bar { padding: 2rem 0.5rem 0.5rem; }
             .card-title-bar h2 { font-size: 0.85rem; }
-            .card-hover-content {
-                padding: 0.75rem;
-                background: rgba(0, 0, 0, 0.85);
-                /* Darker backdrop */
-                backdrop-filter: blur(4px);
-                /* Sleek blur to make text pop */
-                justify-content: flex-start;
-            }
+            .card-hover-content { padding: 0.75rem; background: rgba(0,0,0,0.85); backdrop-filter: blur(4px); justify-content: flex-start; }
             .card .medium { font-size: 0.65rem; margin-bottom: 0.5rem; }
-            .card .pitch {
-                font-size: 0.75rem;
-                line-height: 1.3;
-                /* Clamp text to prevent overflow on small screens */
-                display: -webkit-box;
-                -webkit-line-clamp: 6;
-                -webkit-box-orient: vertical;
-                overflow: hidden;
-            }
+            .card .pitch { font-size: 0.75rem; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; overflow: hidden; }
         }
     </style>
 </head>
@@ -310,7 +292,9 @@
         <button class="filter-btn" data-filter="Film">Films</button>
         <button class="filter-btn" data-filter="Anime">Anime</button>
     </div>
-    <div class="grid" id="mediaGrid"></div>
+    <div id="mediaGrid">
+        <div class="loading">Loading archive...</div>
+    </div>
     <div class="modal" id="modal">
         <div class="modal-content">
             <button class="modal-close" onclick="closeModal()">&times;</button>
@@ -321,43 +305,97 @@
         <p>Built for the Silent Witness Cyberpunk RED Campaign</p>
     </footer>
     <script>
-        const media = [
-            { title: "334", year: "1972", medium: "Novel", pitch: "A haunting collection of interconnected tales set in a dystopian future New York, exploring class divide and urban decay.", file: "334_1972.md" },
-            { title: "A Martian Odyssey", year: "1934", medium: "Short Story", pitch: "One of the first great science fiction short stories, following an astronaut's strange journey across Mars.", file: "A_Martian_Odyssey_1934.md" },
-            { title: "A Memory Called Empire", year: "2019", medium: "Novel", pitch: "An ambassador from a small space station must navigate court intrigue in a massive empire while carrying the memories of her predecessor.", file: "A_Memory_Called_Empire_2019.md" },
-            { title: "A Prayer for the Crown-Shy", year: "2022", medium: "Novel", pitch: "A gentle post-apocalyptic fantasy about a monk and a robot traveling together.", file: "A_Prayer_for_the_Crown-Shy_2022.md" },
-            { title: "A Psalm for the Wild-Built", year: "2021", medium: "Novel", pitch: "A robot and a monk explore what it means to find purpose in a world without humans.", file: "A_Psalm_for_the_Wild_Built_2021.md" },
-            { title: "A Saucer of Loneliness", year: "1953", medium: "Short Story", pitch: "A woman discovers she is the only person who can see alien saucers hovering above Earth.", file: "A_Saucer_of_Loneliness_1953.md" },
-            { title: "A World Out of Time", year: "1976", medium: "Novel", pitch: "A man wakes up 200 years in the future to find Earth transformed beyond recognition.", file: "A_World_Out_of_Time_1976.md" },
-            { title: "All Systems Red", year: "2017", medium: "Novella", pitch: "A security android with self-awareness just wants to watch TV shows in peace.", file: "All_Systems_Red_2017.md" },
-            { title: "An Unkindness of Ghosts", year: "2017", medium: "Novel", pitch: "A neurodivergent scholar uncovers dark secrets aboard a generation ship.", file: "An_Unkindness_of_Ghosts_2017.md" },
-            { title: "Angels' Egg", year: "1985", medium: "Film", pitch: "A surreal, dialogue-light film exploring faith, art, and apocalypse through mysterious imagery.", file: "Angels_Egg_1985.md", image: "Images/Angels_Egg_1985.jpg" },
-            { title: "Arzach", year: "1975", medium: "Graphic Novel", pitch: "A wordless French sci-fi comic by Moebius - surreal short stories of a warrior on a pterodactyl across bizarre landscapes.", file: "Archive/Arzach_1975.md" },
-            { title: "Binti", year: "2015", medium: "Novella", pitch: "A Himba girl defies tradition to attend university in space, carrying ancient secrets.", file: "Binti_2015.md" },
-            { title: "City", year: "1952", medium: "Short Story", pitch: "A classic tale of a city that is alive, evolving over millions of years.", file: "City_1952.md" },
-            { title: "Counterweight", year: "2021", medium: "Novella", pitch: "A deep space station becomes the center of political intrigue and revolution.", file: "Counterweight_2021.md" },
-            { title: "Cyber City Oedo 808", year: "1990", medium: "Anime", pitch: "Three cyberpunk criminals are offered freedom if they hunt down a rogue AI.", file: "Cyber_City_Oedo_808_1990.md", image: "Images/Cyber_City_Oedo_808_1990.jpg" },
-            { title: "Dorsai", year: "1959", medium: "Novel", pitch: "A future where mercenaries from the planet Dorsai are the ultimate soldiers.", file: "Dorsai_1959.md" },
-            { title: "Ergo Proxy", year: "2006", medium: "Anime", pitch: "In a domed city, proxy androids begin questioning their own existence.", file: "Ergo_Proxy_2006.md", image: "Images/Ergo_Proxy_2006.jpg" },
-            { title: "Eurêka", year: "1972", medium: "Short Story", pitch: "What if being too stupid to learn simple tasks actually made you a genius? A wild, whimsical celebration of neurodiversity.", file: "Euremas_Dam_1972.md" },
-            { title: "Exhalation", year: "2008", medium: "Short Story", pitch: "An alien autopsy reveals a universe running out of energy.", file: "Exhalation_2008.md" },
-            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", file: "Fantastic_Planet_1973.md", image: "Images/Fantastic_Planet_1973.jpg" },
-            { title: "The Fourth Mansions", year: "1969", medium: "Novel", pitch: "A man investigates supernatural forces while navigating political revolution.", file: "Fourth_Mansions_1969.md" },
-            { title: "The Last Man on Earth", year: "1964", medium: "Film", pitch: "Vincent Price stars as the last human in this obscure adaptation of 'I Am Legend' - a melancholy post-apocalyptic classic.", file: "Archive/The_Last_Man_on_Earth_1964.md", image: "Images/The_Last_Man_on_Earth_1964.jpg" },
-        ];
+        let media = [];
+        
+        // Parse markdown file to extract metadata
+        function parseMarkdownFile(filename, content) {
+            const lines = content.split('\n');
+            let title = filename.replace('.md', '').replace(/_/g, ' ');
+            let year = '';
+            let medium = 'Unknown';
+            let pitch = '';
+            
+            // Extract title and year from first heading
+            const titleMatch = content.match(/^#\s+(.+?)\s*\((\d{4})\)/m);
+            if (titleMatch) {
+                title = titleMatch[1];
+                year = titleMatch[2];
+            }
+            
+            // Extract medium
+            const mediumMatch = content.match(/\*\*Medium:\*\*\s*(.+)/);
+            if (mediumMatch) {
+                medium = mediumMatch[1].trim();
+            }
+            
+            // Extract pitch (first paragraph of The Pitch section)
+            const pitchMatch = content.match(/##\s*The\s+Pitch.*?\n\n(.+?)(?=\n##|\n#$)/s);
+            if (pitchMatch) {
+                pitch = pitchMatch[1].trim().substring(0, 200);
+                // Clean up the pitch
+                pitch = pitch.replace(/\n+/g, ' ').substring(0, 200);
+            }
+            
+            return {
+                title: title,
+                year: year,
+                medium: medium,
+                pitch: pitch || 'No description available.',
+                file: 'Archive/' + filename,
+                image: 'Images/' + filename.replace('.md', '.jpg')
+            };
+        }
+        
+        // Fetch all markdown files from Archive folder
+        async function loadMediaList() {
+            try {
+                // Fetch the archive directory listing via GitHub API
+                const response = await fetch('https://api.github.com/repos/SNYW/InspirationArchive/contents/Archive');
+                const files = await response.json();
+                
+                // Filter for markdown files and sort alphabetically
+                const mdFiles = files
+                    .filter(f => f.name.endsWith('.md'))
+                    .sort((a, b) => a.name.localeCompare(b.name));
+                
+                // Fetch each file content in parallel
+                const mediaPromises = mdFiles.map(async (file) => {
+                    try {
+                        const contentResponse = await fetch(file.download_url);
+                        const content = await contentResponse.text();
+                        return parseMarkdownFile(file.name, content);
+                    } catch (e) {
+                        console.error('Error loading', file.name, e);
+                        return null;
+                    }
+                });
+                
+                media = (await Promise.all(mediaPromises)).filter(m => m !== null);
+                
+                // Hide loading, show content
+                document.querySelector('.loading').style.display = 'none';
+                
+                // Initialize the UI
+                loadMedia();
+                
+            } catch (error) {
+                console.error('Error loading media list:', error);
+                document.getElementById('mediaGrid').innerHTML = '<div class="loading">Error loading archive. Please refresh.</div>';
+            }
+        }
+        
         // --- HERO HIGHLIGHT LOGIC ---
         let heroInterval;
         function updateHero() {
             const heroSection = document.getElementById('heroSection');
-            // Check if hero is hidden (because a filter is active), if so, do nothing.
             if (heroSection.classList.contains('hidden')) return;
-            // Trigger CSS fade out
+            
             heroSection.classList.add('fade-out');
-            // Wait for fade out to complete before changing content
             setTimeout(() => {
                 const randomMedia = media[Math.floor(Math.random() * media.length)];
-                const imgPath = 'Images/' + randomMedia.file.replace('.md', '.jpg');
-                const fallbackImg = randomMedia.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(randomMedia.title);
+                const imgPath = randomMedia.image;
+                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(randomMedia.title);
+                
                 heroSection.innerHTML = `
                     <img class="hero-poster" src="${imgPath}" onerror="this.src='${fallbackImg}'" alt="${randomMedia.title} Poster">
                     <div class="hero-info">
@@ -367,32 +405,41 @@
                         <p class="pitch">${randomMedia.pitch}</p>
                     </div>
                 `;
-                // Clicking the hero opens the modal just like a regular card
-                heroSection.onclick = () => openModal('Archive/' + randomMedia.file);
-                // Fade back in
+                heroSection.onclick = () => openModal(randomMedia.file);
                 heroSection.classList.remove('fade-out');
-            }, 500); // 500ms matches the CSS transition time
+            }, 500);
         }
+        
         // --- MAIN GRID LOGIC ---
         async function loadMedia() {
             const grid = document.getElementById('mediaGrid');
             const heroSection = document.getElementById('heroSection');
+            
+            if (media.length === 0) return;
+            
+            // Clear grid (remove loading if present)
+            const loading = grid.querySelector('.loading');
+            if (loading) loading.style.display = 'none';
             grid.innerHTML = '';
+            
             const filter = document.querySelector('.filter-btn.active').dataset.filter;
-            // Handle Hero Visibility: Only show on "All"
+            
             if (filter === 'all') {
                 heroSection.classList.remove('hidden');
-                updateHero(); // Instantly update when returning to 'All'
             } else {
                 heroSection.classList.add('hidden');
             }
+            
             const filtered = filter === 'all' ? media : media.filter(m => m.medium === filter);
+            
             filtered.forEach(m => {
                 const card = document.createElement('div');
                 card.className = 'card';
-                const imgPath = 'Images/' + m.file.replace('.md', '.jpg');
+                const imgPath = m.image;
+                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(m.title);
+                
                 card.innerHTML = `
-                    <img src="${imgPath}" alt="${m.title} Cover Art" onerror="this.src='${m.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(m.title)}'">
+                    <img src="${imgPath}" alt="${m.title} Cover Art" onerror="this.src='${fallbackImg}'">
                     <div class="card-hover-content">
                         <span class="medium">${m.medium}</span>
                         <p class="pitch">${m.pitch}</p>
@@ -401,29 +448,30 @@
                         <h2>${m.title} (${m.year})</h2>
                     </div>
                 `;
-                card.onclick = () => openModal('Archive/' + m.file);
+                card.onclick = () => openModal(m.file);
                 grid.appendChild(card);
             });
         }
+        
         // --- MODAL & UTILS ---
         async function openModal(file) {
             try {
                 const response = await fetch(file);
                 if (!response.ok) throw new Error("File not found");
                 const content = await response.text();
-                document.getElementById('modalBody').innerHTML = parseMarkdown(content);
+                document.getElementById('modalBody').innerHTML = parseMarkdownForModal(content);
                 document.getElementById('modal').classList.add('open');
             }
             catch(e) {
                 document.getElementById('modalBody').innerHTML = `
                     <h2>File Unavailable</h2>
                     <p style="color: #888;">Could not load <code>${file}</code>.</p>
-                    <p style="margin-top: 1rem; font-size: 0.9rem;"><em>Note: If you are opening this HTML file directly in your browser (file://), your browser's security settings block the script from fetching local Markdown files. Run a local development server to load them!</em></p>
                 `;
                 document.getElementById('modal').classList.add('open');
             }
         }
-        function parseMarkdown(text) {
+        
+        function parseMarkdownForModal(text) {
             return text
                 .replace(/^# (.+)$/gm, '<h2>$1</h2>')
                 .replace(/^## (.+)$/gm, '<h3>$1</h3>')
@@ -431,14 +479,15 @@
                 .replace(/\n\n/g, '</p><p>')
                 .replace(/^(.+)$/gm, '<p>$1</p>');
         }
+        
         function closeModal() {
             document.getElementById('modal').classList.remove('open');
         }
+        
         document.getElementById('modal').addEventListener('click', function(e) {
-            if (e.target === this) {
-                closeModal();
-            }
+            if (e.target === this) closeModal();
         });
+        
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.onclick = () => {
                 document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -446,9 +495,11 @@
                 loadMedia();
             };
         });
-        // Initialize Hero and Grid
-        loadMedia();
-        // Auto-rotate Hero every 60 seconds (60000 ms)
+        
+        // Initialize - load media from GitHub
+        loadMediaList();
+        
+        // Auto-rotate Hero every 60 seconds
         heroInterval = setInterval(updateHero, 60000);
     </script>
 </body>
