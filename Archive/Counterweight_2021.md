@@ -1,5 +1,7 @@
 # Counterweight (2021)
 
+**Tags:** 🌍 South-Korea | 🎭 Cerebral | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Memory, Transhumanism
+
 **Medium:** Novel
 **Creator/Author:** Djuna (Korean: 듀나)
 
