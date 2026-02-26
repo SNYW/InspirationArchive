@@ -1,5 +1,7 @@
 # Eurema's Dam (1972)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Sentience, Exploration, Evolution
+
 **Medium:** Short Story
 **Creator/Author:** R.A. Lafferty
 
