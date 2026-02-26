@@ -1,5 +1,7 @@
 # A Saucer of Loneliness (1953)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Aliens, Isolation, Sentience
+
 **Medium:** Short Story
 **Creator/Author:** Theodore Sturgeon
 
