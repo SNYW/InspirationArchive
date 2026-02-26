@@ -1,5 +1,7 @@
 # Cyber City Oedo 808 (1990-1991)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Sentience, Megacorps, Cybernetics
+
 **Medium:** OVA (Original Video Animation) / Anime
 **Creator/Author:** Yoshiaki Kawajiri (Director), Madhouse (Studio)
 
