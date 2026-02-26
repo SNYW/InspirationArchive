@@ -1,5 +1,7 @@
 # The Big Time (1958)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Time-Travel | 🧬 Time-Travel, Exploration
+
 **Medium:** Novella
 **Creator/Author:** Fritz Leiber
 

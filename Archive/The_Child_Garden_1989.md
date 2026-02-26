@@ -1,5 +1,7 @@
 # The Child Garden (1989)
 
+**Tags:** 🌍 Canada | 🎭 Cerebral | 📚 Hard-SF, Biopunk | 🧬 Evolution, Memory, Sentience
+
 **Medium:** Novel
 **Creator/Author:** Geoff Ryman
 

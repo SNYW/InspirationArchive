@@ -1,5 +1,7 @@
 # The Dead Lady of Clown Town (1964)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Rebellion, Sentience, Religion
+
 **Medium:** Novella / Short Story
 **Creator/Author:** Cordwainer Smith
 

@@ -1,5 +1,7 @@
 # The Dandelion Girl (1961)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Time-Travel, Science-Fantasy | 🧬 Time-Travel, Memory
+
 **Medium:** Short Story
 **Author:** Robert F. Young
 

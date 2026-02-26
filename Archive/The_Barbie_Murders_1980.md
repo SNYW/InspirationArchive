@@ -1,5 +1,7 @@
 # The Barbie Murders (1980)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Noir | 🧬 Sentience, VR, Memory
+
 **Medium:** Short Story Collection
 **Creator/Author:** John Varley
 

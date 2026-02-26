@@ -1,5 +1,7 @@
 # The Ballad of Lost C'Mell (1962)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Sentience, Rebellion, Cloning
+
 **Medium:** Novella / Short Story
 **Creator/Author:** Cordwainer Smith (Paul Linebarger)
 

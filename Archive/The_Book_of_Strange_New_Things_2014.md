@@ -1,5 +1,7 @@
 # The Book of Strange New Things (2014)
 
+**Tags:** 🌍 UK | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Aliens, Religion, Ecology
+
 **Medium:** Novel
 **Author:** Michel Faber
 

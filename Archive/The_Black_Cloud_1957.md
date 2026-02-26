@@ -1,5 +1,7 @@
 # The Black Cloud (1957)
 
+**Tags:** 🌍 UK | 🎭 Cerebral | 📚 Hard-SF | 🧬 Aliens, Sentience
+
 **Medium:** Novel
 **Creator/Author:** Fred Hoyle
 

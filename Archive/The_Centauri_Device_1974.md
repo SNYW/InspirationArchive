@@ -1,5 +1,7 @@
 # The Centauri Device (1974)
 
+**Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Space-Opera | 🧬 Exploration, Megacorps, Memory
+
 **Medium:** Novel
 **Creator/Author:** M. John Harrison
 

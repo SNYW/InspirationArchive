@@ -1,5 +1,7 @@
 # Texhnolyze (2003)
 
+**Tags:** 🌍 Japan | 🎭 Tense | 📚 Cyberpunk, Biopunk | 🧬 Cybernetics, Transhumanism, Evolution
+
 **Medium:** Anime (TV Series)
 **Creator/Author:** Hiroshi Hamasaki (Director), Chiaki J. Konaka (Writer), Yoshitoshi Abe (Character Design)
 
