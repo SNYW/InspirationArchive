@@ -1,5 +1,7 @@
 # A Psalm for the Wild-Built (2021)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Sentience, Religion
+
 **Medium:** Novella
 **Creator/Author:** Becky Chambers
 
