@@ -1,5 +1,7 @@
 # Arzach (1975)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Aliens, Exploration, Evolution
+
 **Medium:** Graphic Novel / Comic
 **Creator/Author:** Jean "Moebius" Giraud
 
