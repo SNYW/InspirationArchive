@@ -1,5 +1,7 @@
 # Fourth Mansions (1969)
 
+**Tags:** 🌍 USA | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Religion, Pandemic, Isolation
+
 **Medium:** Novel
 **Creator/Author:** R.A. Lafferty
 
