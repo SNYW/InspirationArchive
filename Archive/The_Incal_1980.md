@@ -1,5 +1,7 @@
 # The Incal (1980-2014)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera, Science-Fantasy | 🧬 Religion, Aliens
+
 **Medium:** Graphic Novel / Bande Dessinée
 **Creator/Author:** Alejandro Jodorowsky (Writer), Jean Giraud/Mœbius (Original Artist), Zoran Janjetov (Before the Incal), José Ladrönn (Final Incal)
 

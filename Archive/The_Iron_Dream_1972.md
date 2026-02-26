@@ -1,5 +1,7 @@
 # The Iron Dream (1972)
 
+**Tags:** 🌍 USA | 🎭 Gritty, Satirical | 📚 Post-Apocalypse | 🧬 Rebellion
+
 **Medium:** Novel
 **Author:** Norman Spinrad
 

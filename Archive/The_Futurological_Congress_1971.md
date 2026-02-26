@@ -1,5 +1,7 @@
 # The Futurological Congress (1971)
 
+**Tags:** 🌍 Poland | 🎭 Satirical, Surreal | 📚 Dystopia | 🧬 Ecology, VR
+
 **Medium:** Novel
 **Creator/Author:** Stanisław Lem
 

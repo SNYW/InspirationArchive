@@ -1,5 +1,7 @@
 # The Girl Who Was Plugged In (1973)
 
+**Tags:** 🌍 USA | 🎭 Cerebral, Tense | 📚 Cyberpunk | 🧬 VR, Transhumanism
+
 **Medium:** Short Story
 **Creator/Author:** James Tiptree Jr. (Alice Sheldon)
 

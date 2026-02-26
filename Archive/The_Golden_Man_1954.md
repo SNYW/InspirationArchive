@@ -1,5 +1,7 @@
 # The Golden Man (1954)
 
+**Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Dystopia | 🧬 Evolution, Transhumanism
+
 **Medium:** Short Story
 **Creator/Author:** Philip K. Dick
 

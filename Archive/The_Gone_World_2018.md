@@ -1,5 +1,7 @@
 # The Gone World (2018)
 
+**Tags:** 🌍 USA | 🎭 Gritty, Eerie, Pessimistic | 📚 Noir, Time-Travel | 🧬 Time-Travel
+
 **Medium:** Novel
 **Creator/Author:** Tom Sweterlitsch
 

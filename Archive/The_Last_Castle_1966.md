@@ -1,5 +1,7 @@
 # The Last Castle (1966)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Utopia | 🧬 Evolution, Isolation
+
 **Medium:** Novella / Short Story
 **Creator/Author:** Jack Vance
 

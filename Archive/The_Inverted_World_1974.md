@@ -1,5 +1,7 @@
 # The Inverted World (1974)
 
+**Tags:** 🌍 UK | 🎭 Cerebral, Tense | 📚 Dystopia | 🧬 Isolation, Rebellion
+
 **Medium:** Novel
 **Creator/Author:** Christopher Priest
 
