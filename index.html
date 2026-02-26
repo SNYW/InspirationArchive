@@ -422,10 +422,12 @@
             setTimeout(() => {
                 const randomMedia = media[Math.floor(Math.random() * media.length)];
                 const imgPath = randomMedia.image;
-                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(randomMedia.title);
+                // FIX: Safely encode apostrophes
+                const safeTitle = encodeURIComponent(randomMedia.title).replace(/'/g, "%27");
+                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + safeTitle;
                 
                 heroSection.innerHTML = `
-                    <img class="hero-poster" src="${imgPath}" onerror="this.src='${fallbackImg}'" alt="${randomMedia.title} Poster">
+                    <img class="hero-poster" src="${imgPath}" onerror="this.onerror=null; this.src='${fallbackImg}'" alt="${randomMedia.title} Poster">
                     <div class="hero-info">
                         <span class="hero-tag">Featured ${randomMedia.medium}</span>
                         <h2>${randomMedia.title}</h2>
@@ -465,10 +467,12 @@
                 const card = document.createElement('div');
                 card.className = 'card';
                 const imgPath = m.image;
-                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(m.title);
+                // FIX 1: Safely encode apostrophes so they don't break the HTML string
+                const safeTitle = encodeURIComponent(m.title).replace(/'/g, "%27");
+                const fallbackImg = 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + safeTitle;
                 
                 card.innerHTML = `
-                    <img src="${imgPath}" alt="${m.title} Cover Art" onerror="this.src='${fallbackImg}'">
+                    <img src="${imgPath}" alt="${m.title} Cover Art" onerror="this.onerror=null; this.src='${fallbackImg}'">
                     <div class="card-hover-content">
                         <span class="medium">${m.medium}</span>
                         <p class="pitch">${m.pitch}</p>
