@@ -1,5 +1,7 @@
 # Kin-dza-dza! (1986)
 
+**Tags:** 🌍 Russia | 🎭 Satirical | 📚 Dystopia | 🧬 Rebellion, Ecology
+
 **Medium:** Film
 **Creator/Author:** Georgiy Daneliya (Director), Revaz Gabriadze (Writer)
 
