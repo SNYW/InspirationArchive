@@ -1,5 +1,7 @@
 # Megazone 23 (1985)
 
+**Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 Sentience, VR, Memory
+
 **Medium:** Anime (OVA)
 **Creator/Author:** Noboru Ishiguro (Director), Hiroyuki Hoshiyama (Writer)
 
