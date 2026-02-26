@@ -1,5 +1,7 @@
 # Strange Days (1995)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 VR, Megacorps
+
 **Medium:** Film
 **Director:** Kathryn Bigelow
 

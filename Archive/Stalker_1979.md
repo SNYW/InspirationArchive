@@ -1,5 +1,7 @@
 # Stalker (1979)
 
+**Tags:** 🌍 Russia | 🎭 Cerebral | 📚 Dystopia | 🧬 Religion, Memory
+
 **Medium:** Film
 **Creator/Author:** Andrei Tarkovsky (Director), Arkady & Boris Strugatsky (Writers)
 

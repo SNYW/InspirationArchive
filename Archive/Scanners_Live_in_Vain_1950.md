@@ -1,5 +1,7 @@
 # Scanners Live in Vain (1950)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Isolation, Memory
+
 **Medium:** Short Story
 **Creator/Author:** Cordwainer Smith (pen name of Paul Linebarger)
 

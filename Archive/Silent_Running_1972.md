@@ -1,5 +1,7 @@
 # Silent Running (1972)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Space-Opera | 🧬 Ecology, Isolation, Sentience
+
 **Medium:** Film
 **Creator/Author:** Douglas Trumbull (Director), Michael Cimino, Deric Washburn, Steven Bochco (Screenplay)
 

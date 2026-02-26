@@ -1,5 +1,7 @@
 # Serial Experiments Lain (1998)
 
+**Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 VR, Transhumanism, Religion
+
 **Medium:** Anime (TV Series)
 **Creator/Author:** Yasuyuki Ueda (Creator), Chiaki J. Konaka (Writer), Ryūtarō Nakamura (Director)
 

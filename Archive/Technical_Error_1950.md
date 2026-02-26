@@ -1,5 +1,7 @@
 # Technical Error (1950)
 
+**Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Hard-SF | 🧬 Isolation
+
 **Medium:** Short Story
 **Creator/Author:** Arthur C. Clarke
 

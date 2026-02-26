@@ -1,5 +1,7 @@
 # Royal Space Force: The Wings of Honnêamise (1987)
 
+**Tags:** 🌍 Japan | 🎭 Optimistic | 📚 Space-Opera | 🧬 Exploration, Religion
+
 **Medium:** Anime Film
 **Creator/Author:** Hiroyuki Yamaga (Writer/Director)
 
@@ -13,7 +15,7 @@ The film takes place in the Kingdom of Honnêamise, an alternate-Earth nation lo
 
 Riquinni believes humanity stole the "fire" of knowledge and is eternally cursed for this transgression. She lives with a sullen orphan named Manna and survives through her faith. When a fellow astronaut dies in training, Riquinni's inspire Shirotsugh to volunteer for the Space Force's desperate attempt to launch the world's first astronaut into orbit—a project that has been plagued by failure and public apathy.
 
-As Shirotsugh undergoes training, he faces countless obstacles: technological difficulties, overwhelming public scrutiny, and the machinations of a corrupt government. General Khaidenn, commander of the Royal Space Force, rallies support by lying that they are building a "space warship." When the chief engineer is killed in an accident, controversy erupts over the project's expense during a time of national poverty.
+As Shirotsugh undergoes training, he faces countless obstacles: technological difficulties, overwhelming public scrutiny, and the machinations of a corrupt government. General Khaidenn, commander of the Royal Space Force, rallies support by lying that they are building a "space warship." When the chief engineer is killed in an accident, controversy erup expense during a timets over the project's of national poverty.
 
 Shirotsugh's journey parallels his coming of age. He visits Riquinni frequently, and she gives him a holy book to read. In a dark moment, Shirotsugh almost assaults Riquinni while she undresses—he stops himself, but she denies the incident ever happened. Later, Riquinni's house is foreclosed, forcing her and Manna to live in a church-provided shack.
 

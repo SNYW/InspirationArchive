@@ -1,5 +1,7 @@
 # Sailboat (1967)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Exploration, Time-Travel
+
 **Medium:** Short Story
 **Creator/Author:** R.A. Lafferty
 

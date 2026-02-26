@@ -1,5 +1,7 @@
 # Tetsuo: The Iron Man (1989)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk | 🧬 Cybernetics, Transhumanism
+
 **Medium:** Film
 **Creator/Author:** Shinya Tsukamoto
 

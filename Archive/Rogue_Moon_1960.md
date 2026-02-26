@@ -1,5 +1,7 @@
 # Rogue Moon (1960)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Exploration, Memory
+
 **Medium:** Novel
 **Creator/Author:** Algis Budrys
 
