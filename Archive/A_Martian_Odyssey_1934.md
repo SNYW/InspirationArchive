@@ -1,11 +1,13 @@
 # A Martian Odyssey (1934)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Aliens, Sentience, Exploration
+
 **Medium:** Short Story
 **Creator/Author:** Stanley G. Weinbaum
 
 ## The Pitch (Non-Spoiler Breakdown)
 
-In 2137 AD, astronaut Dick Jarvis lands on Mars as part of an exploratory expedition, expecting a barren world. Instead, he discovers a vibrant, alien civilization hidden in the planet's desert regions. While exploring the Martian landscape, Jarvis encounters Tweel—a sentient, cactus-like creature who communicates through a strange language of mental images. What begins as a cautious encounter evolves into an unlikely cross-species friendship as Jarvis realizes Tweel possesses intelligence, emotion, and a culture far removed from human understanding. The story explores the fundamental question of how two completely alien species might communicate and find common ground.
+In 2137 AD, astronaut Dick Jarvis lands on Mars as part of an exploratory expedition, expecting a barren world. Instead, he discovers a vibrant, alien civilization hidden in the planet's desert regions. While exploring the Martian landscape, he encounters Tweel—a sentient, cactus-like creature who communicates through a strange language of mental images. What begins as a cautious encounter evolves into an unlikely cross-species friendship as Jarvis realizes Tweel possesses intelligence, emotion, and a culture far removed from human understanding. The story explores the fundamental question of how two completely alien species might communicate and find common ground.
 
 ## The Truth (Full Story Breakdown)
 
