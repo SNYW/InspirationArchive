@@ -1,5 +1,7 @@
 # Hard to Be a God (1964)
 
+**Tags:** 🌍 Russia | 🎭 Pessimistic | 📚 Hard-SF, Dystopia | 🧬 Religion, Evolution, Isolation
+
 **Medium:** Novel
 **Creator/Author:** Arkady & Boris Strugatsky
 
