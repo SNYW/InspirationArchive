@@ -1,5 +1,7 @@
 # The Prize of Peril (1960)
 
+**Tags:** 🌍 USA | 🎭 Satirical, Tense | 📚 Dystopia | 🧬 Megacorps, Rebellion
+
 **Medium:** Short Story
 **Creator/Author:** Robert Sheckley
 

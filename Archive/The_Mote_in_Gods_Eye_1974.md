@@ -1,5 +1,7 @@
 # The Mote in God's Eye (1974)
 
+**Tags:** 🌍 USA | 🎭 Tense | 📚 Space-Opera, Hard-SF | 🧬 Aliens, Exploration, Sentience
+
 **Medium:** Novel
 **Creator/Author:** Larry Niven & Jerry Pournelle
 

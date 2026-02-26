@@ -1,5 +1,7 @@
 # The Quest for Saint Aquin (1951)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Science-Fantasy | 🧬 Religion, Sentience
+
 **Medium:** Short Story
 **Creator/Author:** Anthony Boucher
 

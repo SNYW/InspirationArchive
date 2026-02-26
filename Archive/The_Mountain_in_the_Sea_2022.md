@@ -1,5 +1,7 @@
 # The Mountain in the Sea (2022)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Aliens, Evolution
+
 **Medium:** Novel
 **Creator/Author:** Ray Nayler
 
@@ -28,4 +30,3 @@ The book is also deeply engaged with questions of exploitation and colonialism. 
 There's also a threading theme about communication and translation. Ha must find ways to communicate with both the evolving octopuses and DIANA, and in doing so, she must question the assumptions embedded in human language and human ways of knowing. The novel suggests that true understanding might require us to fundamentally change how we think, not just learn new words.
 
 Finally, Nayler explores the ethics of creation and responsibility. If we create something conscious, what do we owe it? The novel resists easy answers, but it makes clear that the question cannot be avoided—not for AI, not for animals, not for any being that may possess inner experience. The mountain in the sea of the title refers to the vast, dark, mostly unexplored depths of consciousness, and the novel is an expedition into those depths.
-

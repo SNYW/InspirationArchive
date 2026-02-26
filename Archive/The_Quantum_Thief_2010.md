@@ -1,5 +1,7 @@
 # The Quantum Thief (2010)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Cyberpunk, Hard-SF | 🧬 Sentience, Megacorps, Transhumanism, VR
+
 **Medium:** Novel
 **Creator/Author:** Hannu Rajaniemi
 

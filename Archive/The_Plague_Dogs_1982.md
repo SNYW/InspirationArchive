@@ -1,5 +1,7 @@
 # The Plague Dogs (1982)
 
+**Tags:** 🌍 UK | 🎭 Gritty, Melancholic | 📚 Post-Apocalypse | 🧬 Ecology, Evolution
+
 **Medium:** Animated Film
 **Creator/Author:** Martin Rosen (Director/Writer), based on novel by Richard Adams
 

@@ -1,5 +1,7 @@
 # The Ones Who Walk Away from Omelas (1973)
 
+**Tags:** 🌍 USA | 🎭 Melancholic, Cerebral | 📚 Dystopia | 🧬 Sentience, Poverty
+
 **Medium:** Short Story
 **Creator/Author:** Ursula K. Le Guin
 

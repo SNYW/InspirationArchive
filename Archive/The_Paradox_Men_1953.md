@@ -1,5 +1,7 @@
 # The Paradox Men (1953)
 
+**Tags:** 🌍 USA | 🎭 Cerebral, Tense | 📚 Space-Opera, Time-Travel | 🧬 Time-Travel, Sentience
+
 **Medium:** Novel
 **Creator/Author:** Charles L. Harness
 

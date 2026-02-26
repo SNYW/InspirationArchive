@@ -1,5 +1,7 @@
 # The Nine Billion Names of God (1953)
 
+**Tags:** 🌍 UK | 🎭 Cerebral, Surreal | 📚 Hard-SF | 🧬 Religion, Nanotech
+
 **Medium:** Short Story
 **Creator/Author:** Arthur C. Clarke
 

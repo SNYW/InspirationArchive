@@ -1,5 +1,7 @@
 # The Paper Menagerie (2011)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Isolation
+
 **Medium:** Short Story
 **Creator/Author:** Ken Liu
 
