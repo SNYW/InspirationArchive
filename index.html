@@ -330,8 +330,9 @@
             let medium = 'Unknown';
             let pitch = 'No description available.';
             
-            // Extract title and year from first heading
-            const titleMatch = content.match(/^#\s+(.+?)\s*(?:\((\d{4})\))?/m);
+            // FIX: Added \s*$ to the end of the regex.
+            // This forces it to read the whole line instead of stopping at the first letter.
+            const titleMatch = content.match(/^#\s+(.+?)(?:\s+\((\d{4})\))?\s*$/m);
             if (titleMatch) {
                 title = titleMatch[1].trim();
                 if (titleMatch[2]) year = titleMatch[2];
@@ -344,7 +345,6 @@
             }
             
             // Extract pitch (first paragraph of The Pitch section)
-            // Using a more forgiving regex in case of weird line breaks
             const pitchMatch = content.match(/##\s*The\s+Pitch\s*(.+?)(?=##|#|$)/is);
             if (pitchMatch) {
                 pitch = pitchMatch[1].replace(/\n+/g, ' ').trim().substring(0, 200);
@@ -356,7 +356,7 @@
                 year: year,
                 medium: medium,
                 pitch: pitch,
-                content: content, // Store the content in memory so the modal doesn't need to re-fetch it!
+                content: content,
                 image: 'Images/' + filename.replace('.md', '.jpg')
             };
         }
