@@ -1,4 +1,6 @@
 # The Silver Crown (1968)
+**Tags:** 🌍 USA | 🎭 Tense, Surreal | 📚 Science-Fantasy | 🧬 Rebellion, Religion
+
 
 **Medium:** Novel/Children's Science Fiction
 **Creator/Author:** Robert C. O'Brien

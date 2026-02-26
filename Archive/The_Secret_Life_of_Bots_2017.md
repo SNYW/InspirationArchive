@@ -1,4 +1,6 @@
 # The Secret Life of Bots (2017)
+**Tags:** 🌍 USA | 🎭 Optimistic, Cerebral | 📚 Hard-SF | 🧬 Sentience, Memory
+
 
 **Medium:** Short Story
 **Author:** Suzanne Palmer

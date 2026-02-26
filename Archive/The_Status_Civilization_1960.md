@@ -1,4 +1,6 @@
 # The Status Civilization (1960)
+**Tags:** 🌍 USA | 🎭 Satirical, Pessimistic | 📚 Dystopia | 🧬 Rebellion
+
 
 **Medium:** Novel
 **Creator/Author:** Robert Sheckley

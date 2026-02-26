@@ -1,4 +1,6 @@
 # The Time Ships (1995)
+**Tags:** 🌍 UK | 🎭 Cerebral, Melancholic | 📚 Hard-SF, Space-Opera | 🧬 Time-Travel, Evolution
+
 
 **Medium:** Novel
 **Creator/Author:** Stephen Baxter

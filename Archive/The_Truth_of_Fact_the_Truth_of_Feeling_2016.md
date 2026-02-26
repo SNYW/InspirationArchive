@@ -1,4 +1,6 @@
 # The Truth of Fact, the Truth of Feeling (2016)
+**Tags:** 🌍 USA | 🎭 Cerebral, Melancholic | 🧬 Memory
+
 
 **Medium:** Short Story
 **Creator/Author:** Ted Chiang

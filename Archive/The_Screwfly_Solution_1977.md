@@ -1,4 +1,6 @@
 # The Screwfly Solution (1977)
+**Tags:** 🌍 USA | 🎭 Pessimistic, Gritty | 📚 Dystopia, Horror | 🧬 Pandemic, Rebellion, Religion
+
 
 **Medium:** Novella
 **Creator/Author:** Raccoona Sheldon (Alice Sheldon)

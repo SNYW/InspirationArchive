@@ -1,4 +1,6 @@
 # The Ship Who Sang (1969)
+**Tags:** 🌍 USA | 🎭 Melancholic, Cerebral | 📚 Space-Opera | 🧬 Sentience, Isolation, Cybernetics
+
 
 **Medium:** Novel / Short Story Collection
 **Creator/Author:** Anne McCaffrey

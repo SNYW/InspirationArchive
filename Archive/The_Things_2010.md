@@ -1,4 +1,6 @@
 # The Things (2010)
+**Tags:** 🌍 Canada | 🎭 Pessimistic, Eerie, Cerebral | 📚 Horror | 🧬 Aliens
+
 
 **Medium:** Short Story
 **Creator/Author:** Peter Watts

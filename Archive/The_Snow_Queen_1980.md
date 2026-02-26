@@ -1,4 +1,6 @@
 # The Snow Queen (1980)
+**Tags:** 🌍 USA | 🎭 Melancholic, Surreal | 📚 Science-Fantasy | 🧬 Memory, Evolution, Sentience
+
 
 **Medium:** Novel
 **Creator/Author:** Joan D. Vinge

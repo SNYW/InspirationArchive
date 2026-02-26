@@ -1,4 +1,6 @@
 # The Sword of Rhiannon (1949)
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Religion
+
 
 **Medium:** Novel
 **Creator/Author:** Leigh Brackett
