@@ -1,5 +1,7 @@
 # Exhalation (2008)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Memory, Evolution
+
 **Medium:** Short Story
 **Creator/Author:** Ted Chiang
 
