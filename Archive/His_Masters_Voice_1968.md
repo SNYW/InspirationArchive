@@ -1,5 +1,7 @@
 # His Master's Voice (1968)
 
+**Tags:** 🌍 Poland | 🎭 Cerebral | 📚 Hard-SF | 🧬 Aliens, Sentience, Exploration
+
 **Medium:** Novel
 **Creator/Author:** Stanisław Lem (Polish)
 

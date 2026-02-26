@@ -1,11 +1,13 @@
 # Ikarie XB-1 (1963)
 
+**Tags:** 🌍 Czechoslovakia | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Exploration, Isolation, Aliens
+
 **Medium:** Film
 **Creator/Author:** Jindřich Polák (Director), Based on the novel "The Magellanic Cloud" by Stanisław Lem
 
 ## The Pitch (Non-Spoiler Breakdown)
 
-Ikarie XB-1 is a 1963 Czechoslovak science fiction film that stands as one of the most sophisticated and underrated太空探索电影s of its era. Directed by Jindřich Polák and loosely based on Stanisław Lem's novel "The Magellanic Cloud," this film predates and influenced Stanley Kubrick's 2001: A Space Odyssey. Set in 2163, the film follows a multinational crew aboard the starship Ikarie XB-1 on a 28-month journey to the mysterious "White Planet" orbiting Alpha Centauri. The film is notable for its thoughtful, character-driven approach to hard science fiction, exploring the psychological and sociological challenges of long-duration space travel with remarkable prescience. While the US release (heavily edited and retitled "Voyage to the End of the Universe") sanitized much of its complexity, the original Czech version remains a gripping, intelligent piece of cinema that deserves far greater recognition.
+Ikarie XB-1 is a 1963 Czechoslovak science fiction film that stands as one of the most sophisticated and underrated太空探索电影s of its era. Directed by Jindřich Polák and loosely based on Stanisław Lem's novel "The Magellanic Cloud," this film predates and influences Stanley Kubrick's 2001: A Space Odyssey. Set in 2163, the film follows a multinational crew aboard the starship Ikarie XB-1 on a 28-month journey to the mysterious "White Planet" orbiting Alpha Centauri. The film is notable for its thoughtful, character-driven approach to hard science fiction, exploring the psychological and sociological challenges of long-duration space travel with remarkable prescience. While the US release (heavily edited and retitled "Voyage to the End of the Universe") sanitized much of its complexity, the original Czech version remains a gripping, intelligent piece of cinema that deserves far greater recognition.
 
 ## The Truth (Full Story Breakdown)
 

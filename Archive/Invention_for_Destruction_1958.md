@@ -1,5 +1,7 @@
 # Invention for Destruction (1958)
 
+**Tags:** 🌍 Czechoslovakia | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Technology, Rebellion
+
 **Medium:** Film
 **Creator/Author:** Karel Zeman
 
