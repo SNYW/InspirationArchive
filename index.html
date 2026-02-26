@@ -163,16 +163,28 @@ function getMoodColorVar(mood) { const m = mood.toLowerCase(); if (['optimistic'
 function getMoodHexForPlaceholder(mood) { const map = {'optimistic':'ffd700','pessimistic':'ff4a4a','melancholic':'4169e1','surreal':'d255ff','tense':'ff8800','gritty':'b87333','satirical':'ccff00','cerebral':'00e5ff','eerie':'a3ccaa'}; return map[mood.toLowerCase()] || '555555'; }
 function getMediumColorVar(medium) { const m = medium.toLowerCase(); if (m.includes('novel') || m.includes('story')) return 'var(--med-written)'; if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)'; if (m.includes('comic') || m.includes('graphic')) return 'var(--med-comic)'; if (m.includes('film') || m.includes('movie')) return 'var(--med-film)'; return 'var(--text)'; }
 function parseMarkdownFile(filename, content) {
-let title = filename.replace('.md','').replace(/_/g,' '), year = '', medium = 'Unknown', pitch = 'No description available.', tags = {country:[],mood:[],genre:[],topic:[]};
+let title = filename.replace('.md', '').replace(/_/g, ' ');
+let year = '';
+let medium = 'Unknown';
+let pitch = 'No description available.';
+let tags = { country: [], mood: [], genre: [], topic: [] };
 const titleMatch = content.match(/^#\s+(.+?)(?:\s+\((\d{4})\))?\s*$/m);
-if (titleMatch) { title = titleMatch[1].trim(); if (titleMatch[2]) year = '(' + titleMatch[2] + ')'; }
+if (titleMatch) { title = titleMatch[1].trim(); if (titleMatch[2]) year = `(${titleMatch[2]})`; }
 const mediumMatch = content.match(/\*\*Medium:\*\*\s*(.+)/i);
 if (mediumMatch) medium = mediumMatch[1].trim();
-const tagsMatch = content.match(/\*\*Tags:\*\:(.+?)$/m);
-if (tagsMatch) { tagsMatch[1].split('|').map(s=>s.trim()).forEach(cat => { const cleanCat = cat.replace(/^[^\w]+/,'').trim(); const tagList = cleanCat.split(',').map(t=>t.trim()).filter(t=>t); if (cat.includes('🌍')) {tags.country=tagList; tagList.forEach(t=>uniqueCountries.add(t));} else if(cat.includes('🎭')){tags.mood=tagList;tagList.forEach(t=>uniqueMoods.add(t));} else if(cat.includes('📚')){tags.genre=tagList;tagList.forEach(t=>uniqueGenres.add(t));} else if(cat.includes('🧬')){tags.topic=tagList;tagList.forEach(t=>uniqueTopics.add(t));} }); }
+const tagsMatch = content.match(/\*\*Tags?[\*:\s]*(.+?)$/im);
+if (tagsMatch) {
+const categories = tagsMatch[1].split('|').map(s => s.trim());
+categories.forEach((cat, index) => {
+const cleanCat = cat.replace(/^[^a-zA-Z0-9]+/, '').trim();
+const tagList = cleanCat.split(',').map(t => t.trim()).filter(t => t);
+if (cat.includes('🌍') || index === 0) { tags.country = tagList; tagList.forEach(t => uniqueCountries.add(t)); }
+else if (cat.includes('🎭') || index === 1) { tags.mood = tagList; tagList.forEach(t => uniqueMoods.add(t)); }
+else if (cat.includes('📚') || index === 2) { tags.genre = tagList; tagList.forEach(t => uniqueGenres.add(t)); }
+else if (cat.includes('🧬') || index === 3) { tags.topic = tagList; tagList.forEach(t => uniqueTopics.add(t)); } }); }
 const pitchMatch = content.match(/##\s*The\s+Pitch\s*(.+?)(?=##|#|$)/is);
-if (pitchMatch) { pitch = pitchMatch[1].replace(/\n+/g,' ').replace(/\(Non-Spoiler Breakdown\)/gi,'').trim().substring(0,180); if (pitch.length>=175) pitch+='...'; }
-return {title,year,medium,pitch,tags,content,image:'Images/'+filename.replace('.md','.jpg')}; }
+if (pitchMatch) { pitch = pitchMatch[1].replace(/\n+/g, ' ').replace(/\(Non-Spoiler Breakdown\)/gi, '').trim().substring(0, 180); if (pitch.length >= 175) pitch += "..."; }
+return { title: title, year: year, medium: medium, pitch: pitch, tags: tags, content: content, image: 'Images/' + filename.replace('.md', '.jpg') }; }
 function populateDropdowns() { const populate = (s,id) => { const sel = document.getElementById(id); Array.from(s).sort().forEach(t => { const opt = document.createElement('option'); opt.value = t; opt.textContent = t; sel.appendChild(opt); }); }; populate(uniqueCountries,'countryFilter'); populate(uniqueMoods,'moodFilter'); populate(uniqueGenres,'genreFilter'); populate(uniqueTopics,'topicFilter'); }
 function buildSiteMosaic() { const c = document.getElementById('siteBg'); if(!c||media.length===0)return; let list=[]; while(list.length<100) list=list.concat([...media].sort(()=>0.5-Math.random())); list.slice(0,100).forEach(m => { const img = document.createElement('img'); img.src = m.image; img.onerror = function(){this.onerror=null;this.src='https://placehold.co/120x180/'+getMoodHexForPlaceholder(m.tags.mood[0]||'Unknown')+'/000000?text='+encodeURIComponent(m.title).replace(/'/g,"%27");}; c.appendChild(img); }); }
 async function loadMediaList() { const g = document.getElementById('mediaGrid'); try { const r = await fetch('https://api.github.com/repos/SNYW/InspirationArchive/contents/Archive'); const f = await r.json(); if(!Array.isArray(f)) throw new Error(f.message||"Could not read repo"); const md = f.filter(x=>x.name.endsWith('.md')).sort((a,b)=>a.name.localeCompare(b.name)); media = (await Promise.all(md.map(async x=>{try{const res=await fetch(x.download_url);return parseMarkdownFile(x.name,await res.text());}catch{return null}}))).filter(x=>x); if(!media.length){g.innerHTML='<div class="loading error-message">Archive is empty.</div>';return;} currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); loadMedia(); }catch(e){g.innerHTML='<div class="loading error-message">Connection Error:<br>'+e.message+'</div>';} }
