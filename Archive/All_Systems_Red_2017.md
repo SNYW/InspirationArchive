@@ -1,5 +1,7 @@
 # All Systems Red (2017)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Hard-SF | 🧬 Sentience, Cybernetics, Megacorps
+
 **Medium:** Novella
 **Author:** Martha Wells
 
