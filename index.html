@@ -13,24 +13,21 @@
             --accent-dim: #ff2d6a40;
             --border: #333;
         }
-        
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        
         body {
             font-family: 'Courier New', monospace;
             background: var(--bg);
             color: var(--text);
             line-height: 1.6;
             padding: 2rem;
+            overflow-x: hidden;
         }
-        
         header {
             text-align: center;
             margin-bottom: 3rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid var(--border);
         }
-        
         h1 {
             font-size: 2.5rem;
             color: var(--accent);
@@ -38,20 +35,17 @@
             letter-spacing: 0.2em;
             margin-bottom: 0.5rem;
         }
-        
         .subtitle {
             color: #888;
             font-size: 0.9rem;
         }
-        
         .filters {
             display: flex;
             justify-content: center;
             gap: 0.5rem;
             flex-wrap: wrap;
-            margin-bottom: 2rem;
+            margin-bottom: 3rem;
         }
-        
         .filter-btn {
             background: var(--card-bg);
             border: 1px solid var(--border);
@@ -60,57 +54,96 @@
             cursor: pointer;
             font-family: inherit;
             transition: all 0.2s;
+            border-radius: 4px;
         }
-        
         .filter-btn:hover, .filter-btn.active {
             border-color: var(--accent);
             background: var(--accent-dim);
         }
-        
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            /* Adjusted grid sizing for Netflix-style posters */
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 1.5rem;
+            padding: 1rem;
         }
-        
         .card {
             background: var(--card-bg);
             border: 1px solid var(--border);
-            padding: 1.5rem;
+            border-radius: 6px;
             cursor: pointer;
-            transition: all 0.2s;
+            position: relative;
+            overflow: hidden;
+            aspect-ratio: 2 / 3;
+            /* Movie poster ratio */
+            transition: transform 0.3s ease, border-color 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.5);
         }
-        
         .card:hover {
             border-color: var(--accent);
-            transform: translateY(-2px);
+            transform: scale(1.05);
+            z-index: 10;
         }
-        
-        .card h2 {
+        .card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            transition: opacity 0.3s ease;
+        }
+        .card:hover img {
+            opacity: 0.4;
+            /* Dims the image when hovering so text is readable */
+        }
+        .card-title-bar {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 3rem 1rem 1rem;
+            background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
+            pointer-events: none;
+        }
+        .card-title-bar h2 {
             font-size: 1.1rem;
-            margin-bottom: 0.5rem;
-            color: var(--accent);
+            margin: 0;
+            color: #fff;
+            text-shadow: 1px 1px 3px #000;
         }
-        
-        .card .year {
-            color: #666;
-            font-size: 0.85rem;
-            margin-bottom: 0.5rem;
+        /* The hover overlay content */
+        .card-hover-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            padding: 1.5rem;
+            opacity: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            transition: opacity 0.3s ease;
+            pointer-events: none;
         }
-        
+        .card:hover .card-hover-content {
+            opacity: 1;
+        }
         .card .medium {
             display: inline-block;
-            background: var(--accent-dim);
+            background: var(--accent);
+            color: #fff;
             padding: 0.2rem 0.5rem;
             font-size: 0.75rem;
             margin-bottom: 1rem;
+            align-self: flex-start;
+            border-radius: 3px;
         }
-        
         .card .pitch {
             font-size: 0.9rem;
-            color: #aaa;
+            color: #e0e0e0;
+            text-shadow: 1px 1px 2px #000;
         }
-        
+        /* Modal Styles Remain Mostly Unchanged */
         .modal {
             display: none;
             position: fixed;
@@ -118,43 +151,52 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0,0,0,0.9);
+            background: rgba(0,0,0,0.95);
             padding: 2rem;
             overflow-y: auto;
+            z-index: 100;
         }
-        
-        .modal.open { display: block; }
-        
+        .modal.open {
+            display: block;
+        }
         .modal-content {
             max-width: 800px;
             margin: 0 auto;
             background: var(--card-bg);
             border: 1px solid var(--accent);
             padding: 2rem;
+            position: relative;
         }
-        
         .modal-close {
-            float: right;
+            position: absolute;
+            top: 1rem;
+            right: 1.5rem;
             background: none;
             border: none;
             color: var(--text);
-            font-size: 1.5rem;
+            font-size: 2rem;
             cursor: pointer;
         }
-        
-        .modal h2 { color: var(--accent); margin-bottom: 0.5rem; }
-        .modal .meta { color: #666; margin-bottom: 1.5rem; }
-        .modal section { margin-bottom: 2rem; }
-        .modal h3 { 
-            color: var(--accent); 
-            font-size: 0.9rem; 
-            text-transform: uppercase; 
+        .modal h2 {
+            color: var(--accent);
+            margin-bottom: 0.5rem;
+        }
+        .modal .meta {
+            color: #666;
+            margin-bottom: 1.5rem;
+        }
+        .modal section {
+            margin-bottom: 2rem;
+        }
+        .modal h3 {
+            color: var(--accent);
+            font-size: 0.9rem;
+            text-transform: uppercase;
             letter-spacing: 0.1em;
             margin-bottom: 1rem;
             border-bottom: 1px solid var(--border);
             padding-bottom: 0.5rem;
         }
-        
         footer {
             text-align: center;
             margin-top: 4rem;
@@ -170,7 +212,6 @@
         <h1>Inspiration Archive</h1>
         <p class="subtitle">Sci-Fi Media for Cyberpunk RED Campaign</p>
     </header>
-    
     <div class="filters">
         <button class="filter-btn active" data-filter="all">All</button>
         <button class="filter-btn" data-filter="Novel">Novels</button>
@@ -178,83 +219,82 @@
         <button class="filter-btn" data-filter="Film">Films</button>
         <button class="filter-btn" data-filter="Anime">Anime</button>
     </div>
-    
     <div class="grid" id="mediaGrid"></div>
-    
     <div class="modal" id="modal">
         <div class="modal-content">
             <button class="modal-close" onclick="closeModal()">&times;</button>
             <div id="modalBody"></div>
         </div>
     </div>
-    
     <footer>
         <p>Built for the Silent Witness Cyberpunk RED Campaign</p>
     </footer>
-
     <script>
+        // Note the new "image" property added to your data array!
         const media = [
-            { title: "334", year: "1972", medium: "Novel", pitch: "A haunting collection of interconnected tales set in a dystopian future New York, exploring class divide and urban decay.", file: "334_1972.md" },
-            { title: "A Martian Odyssey", year: "1934", medium: "Short Story", pitch: "One of the first great science fiction short stories, following an astronaut's strange journey across Mars.", file: "A_Martian_Odyssey_1934.md" },
-            { title: "A Memory Called Empire", year: "2019", medium: "Novel", pitch: "An ambassador from a small space station must navigate court intrigue in a massive empire while carrying the memories of her predecessor.", file: "A_Memory_Called_Empire_2019.md" },
-            { title: "A Prayer for the Crown-Shy", year: "2022", medium: "Novel", pitch: "A gentle post-apocalyptic fantasy about a monk and a robot traveling together.", file: "A_Prayer_for_the_Crown-Shy_2022.md" },
-            { title: "A Psalm for the Wild-Built", year: "2021", medium: "Novel", pitch: "A robot and a monk explore what it means to find purpose in a world without humans.", file: "A_Psalm_for_the_Wild_Built_2021.md" },
-            { title: "A Saucer of Loneliness", year: "1953", medium: "Short Story", pitch: "A woman discovers she is the only person who can see alien saucers hovering above Earth.", file: "A_Saucer_of_Loneliness_1953.md" },
-            { title: "A World Out of Time", year: "1976", medium: "Novel", pitch: "A man wakes up 200 years in the future to find Earth transformed beyond recognition.", file: "A_World_Out_of_Time_1976.md" },
-            { title: "All Systems Red", year: "2017", medium: "Novella", pitch: "A security android with self-awareness just wants to watch TV shows in peace.", file: "All_Systems_Red_2017.md" },
-            { title: "An Unkindness of Ghosts", year: "2017", medium: "Novel", pitch: "A neurodivergent scholar uncovers dark secrets aboard a generation ship.", file: "An_Unkindness_of_Ghosts_2017.md" },
-            { title: "Angels' Egg", year: "1985", medium: "Film", pitch: "A surreal, dialogue-light film exploring faith, art, and apocalypse through mysterious imagery.", file: "Angels_Egg_1985.md" },
-            { title: "Binti", year: "2015", medium: "Novella", pitch: "A Himba girl defies tradition to attend university in space, carrying ancient secrets.", file: "Binti_2015.md" },
-            { title: "City", year: "1952", medium: "Short Story", pitch: "A classic tale of a city that is alive, evolving over millions of years.", file: "City_1952.md" },
-            { title: "Counterweight", year: "2021", medium: "Novella", pitch: "A deep space station becomes the center of political intrigue and revolution.", file: "Counterweight_2021.md" },
-            { title: "Cyber City Oedo 808", year: "1990", medium: "Anime", pitch: "Three cyberpunk criminals are offered freedom if they hunt down a rogue AI.", file: "Cyber_City_Oedo_808_1990.md" },
-            { title: "Dorsai", year: "1959", medium: "Novel", pitch: "A future where mercenaries from the planet Dorsai are the ultimate soldiers.", file: "Dorsai_1959.md" },
-            { title: "Ergo Proxy", year: "2006", medium: "Anime", pitch: "In a domed city, proxy androids begin questioning their own existence.", file: "Ergo_Proxy_2006.md" },
-            { title: "Eurêka", year: "1972", medium: "Film", pitch: "A surreal exploration of a post-apocalyptic world and its last survivors.", file: "Euremas_Dam_1972.md" },
-            { title: "Exhalation", year: "2008", medium: "Short Story", pitch: "An alien autopsy reveals a universe running out of energy.", file: "Exhalation_2008.md" },
-            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", file: "Fantastic_Planet_1973.md" },
-            { title: "The Fourth Mansions", year: "1969", medium: "Novel", pitch: "A man investigates supernatural forces while navigating political revolution.", file: "Fourth_Mansions_1969.md" }
+            { title: "334", year: "1972", medium: "Novel", pitch: "A haunting collection of interconnected tales set in a dystopian future New York, exploring class divide and urban decay.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=334", file: "334_1972.md" },
+            { title: "A Martian Odyssey", year: "1934", medium: "Short Story", pitch: "One of the first great science fiction short stories, following an astronaut's strange journey across Mars.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=A+Martian+Odyssey", file: "A_Martian_Odyssey_1934.md" },
+            { title: "A Memory Called Empire", year: "2019", medium: "Novel", pitch: "An ambassador from a small space station must navigate court intrigue in a massive empire while carrying the memories of her predecessor.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=A+Memory+Called+Empire", file: "A_Memory_Called_Empire_2019.md" },
+            { title: "A Prayer for the Crown-Shy", year: "2022", medium: "Novel", pitch: "A gentle post-apocalyptic fantasy about a monk and a robot traveling together.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Crown-Shy", file: "A_Prayer_for_the_Crown-Shy_2022.md" },
+            { title: "A Psalm for the Wild-Built", year: "2021", medium: "Novel", pitch: "A robot and a monk explore what it means to find purpose in a world without humans.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Wild-Built", file: "A_Psalm_for_the_Wild_Built_2021.md" },
+            { title: "A Saucer of Loneliness", year: "1953", medium: "Short Story", pitch: "A woman discovers she is the only person who can see alien saucers hovering above Earth.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Saucer+of+Loneliness", file: "A_Saucer_of_Loneliness_1953.md" },
+            { title: "A World Out of Time", year: "1976", medium: "Novel", pitch: "A man wakes up 200 years in the future to find Earth transformed beyond recognition.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=World+Out+Of+Time", file: "A_World_Out_of_Time_1976.md" },
+            { title: "All Systems Red", year: "2017", medium: "Novella", pitch: "A security android with self-awareness just wants to watch TV shows in peace.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=All+Systems+Red", file: "All_Systems_Red_2017.md" },
+            { title: "An Unkindness of Ghosts", year: "2017", medium: "Novel", pitch: "A neurodivergent scholar uncovers dark secrets aboard a generation ship.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Ghosts", file: "An_Unkindness_of_Ghosts_2017.md" },
+            { title: "Angels' Egg", year: "1985", medium: "Film", pitch: "A surreal, dialogue-light film exploring faith, art, and apocalypse through mysterious imagery.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Angels'+Egg", file: "Angels_Egg_1985.md" },
+            { title: "Binti", year: "2015", medium: "Novella", pitch: "A Himba girl defies tradition to attend university in space, carrying ancient secrets.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Binti", file: "Binti_2015.md" },
+            { title: "City", year: "1952", medium: "Short Story", pitch: "A classic tale of a city that is alive, evolving over millions of years.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=City", file: "City_1952.md" },
+            { title: "Counterweight", year: "2021", medium: "Novella", pitch: "A deep space station becomes the center of political intrigue and revolution.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Counterweight", file: "Counterweight_2021.md" },
+            { title: "Cyber City Oedo 808", year: "1990", medium: "Anime", pitch: "Three cyberpunk criminals are offered freedom if they hunt down a rogue AI.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Oedo+808", file: "Cyber_City_Oedo_808_1990.md" },
+            { title: "Dorsai", year: "1959", medium: "Novel", pitch: "A future where mercenaries from the planet Dorsai are the ultimate soldiers.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Dorsai", file: "Dorsai_1959.md" },
+            { title: "Ergo Proxy", year: "2006", medium: "Anime", pitch: "In a domed city, proxy androids begin questioning their own existence.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Ergo+Proxy", file: "Ergo_Proxy_2006.md" },
+            { title: "Eurêka", year: "1972", medium: "Film", pitch: "A surreal exploration of a post-apocalyptic world and its last survivors.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Eureka", file: "Euremas_Dam_1972.md" },
+            { title: "Exhalation", year: "2008", medium: "Short Story", pitch: "An alien autopsy reveals a universe running out of energy.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Exhalation", file: "Exhalation_2008.md" },
+            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Fantastic+Planet", file: "Fantastic_Planet_1973.md" },
+            { title: "The Fourth Mansions", year: "1969", medium: "Novel", pitch: "A man investigates supernatural forces while navigating political revolution.", image: "https://placehold.co/400x600/1a1a1a/ff2d6a?text=Fourth+Mansions", file: "Fourth_Mansions_1969.md" }
         ];
-
-        // Load more media from directory
         async function loadMedia() {
             const grid = document.getElementById('mediaGrid');
             grid.innerHTML = '';
-            
             const filter = document.querySelector('.filter-btn.active').dataset.filter;
-            
-            const filtered = filter === 'all' 
-                ? media 
-                : media.filter(m => m.medium === filter);
-            
+            const filtered = filter === 'all' ? media : media.filter(m => m.medium === filter);
             filtered.forEach(m => {
                 const card = document.createElement('div');
                 card.className = 'card';
+                // Inject the image, hover content, and fixed title bar
                 card.innerHTML = `
-                    <h2>${m.title}</h2>
-                    <div class="year">${m.year}</div>
-                    <div class="medium">${m.medium}</div>
-                    <p class="pitch">${m.pitch}</p>
+                    <img src="${m.image}" alt="${m.title} Cover Art">
+                    <div class="card-hover-content">
+                        <span class="medium">${m.medium}</span>
+                        <p class="pitch">${m.pitch}</p>
+                    </div>
+                    <div class="card-title-bar">
+                        <h2>${m.title} (${m.year})</h2>
+                    </div>
                 `;
                 card.onclick = () => openModal('Archive/' + m.file);
                 grid.appendChild(card);
             });
         }
-
         async function openModal(file) {
             try {
-                const response = await fetch('Archive/' + file);
+                const response = await fetch(file);
+                if (!response.ok) throw new Error("File not found");
                 const content = await response.text();
                 document.getElementById('modalBody').innerHTML = parseMarkdown(content);
                 document.getElementById('modal').classList.add('open');
-            } catch(e) {
-                document.getElementById('modalBody').innerHTML = '<p>Error loading content.</p>';
+            }
+            catch(e) {
+                // Failsafe message if you don't have a local server running
+                document.getElementById('modalBody').innerHTML = `
+                    <h2>File Unavailable</h2>
+                    <p style="color: #888;">Could not load <code>${file}</code>.</p>
+                    <p style="margin-top: 1rem; font-size: 0.9rem;"><em>Note: If you are opening this HTML file directly in your browser (file://), your browser's security settings will block the script from fetching local Markdown files. You will need to run a local development server (like VS Code's Live Server) to load them!</em></p>
+                `;
                 document.getElementById('modal').classList.add('open');
             }
         }
-
         function parseMarkdown(text) {
-            // Simple markdown parser
             return text
                 .replace(/^# (.+)$/gm, '<h2>$1</h2>')
                 .replace(/^## (.+)$/gm, '<h3>$1</h3>')
@@ -262,11 +302,15 @@
                 .replace(/\n\n/g, '</p><p>')
                 .replace(/^(.+)$/gm, '<p>$1</p>');
         }
-
         function closeModal() {
             document.getElementById('modal').classList.remove('open');
         }
-
+        // Close modal when clicking outside of the modal content
+        document.getElementById('modal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closeModal();
+            }
+        });
         document.querySelectorAll('.filter-btn').forEach(btn => {
             btn.onclick = () => {
                 document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -274,7 +318,6 @@
                 loadMedia();
             };
         });
-
         loadMedia();
     </script>
 </body>
