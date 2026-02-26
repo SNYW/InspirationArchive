@@ -1,5 +1,7 @@
 # Angel's Egg (1985)
 
+**Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Religion, Memory, Isolation
+
 **Medium:** Animated Film (OVA)
 **Creator/Author:** Mamoru Oshii (Director/Writer), Yoshitaka Amano (Artist)
 
