@@ -1,5 +1,7 @@
 # A Memory Called Empire (2019)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Memory, Sentience, Aliens
+
 **Medium:** Novel
 **Creator/Author:** Arkady Martine
 
