@@ -1,5 +1,7 @@
 # Fantastic Planet (1973)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Rebellion, Religion, Evolution
+
 **Medium:** Animated Film
 **Creator/Author:** René Laloux (Director), Roland Topp (Animation Director)
 
