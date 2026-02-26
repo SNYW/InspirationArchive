@@ -1,5 +1,7 @@
 # A World Out of Time (1976)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Dystopia, Hard-SF | 🧬 Rebellion, Transhumanism, Sentience
+
 **Medium:** Novel
 **Author:** Larry Niven
 
