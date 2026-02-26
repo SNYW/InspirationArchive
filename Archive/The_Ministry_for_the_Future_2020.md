@@ -1,5 +1,7 @@
 # The Ministry for the Future (2020)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Dystopia | 🧬 Ecology, Pandemic
+
 **Medium:** Novel
 **Creator/Author:** Kim Stanley Robinson
 

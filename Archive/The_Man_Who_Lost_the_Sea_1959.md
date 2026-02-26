@@ -1,5 +1,7 @@
 # The Man Who Lost the Sea (1959)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Memory, Isolation
+
 **Medium:** Short Story
 **Creator/Author:** Theodore Sturgeon
 

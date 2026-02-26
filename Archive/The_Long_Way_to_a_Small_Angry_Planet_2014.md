@@ -1,5 +1,7 @@
 # The Long Way to a Small, Angry Planet (2014)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Utopia | 🧬 Exploration, Sentience, Aliens
+
 **Medium:** Novel
 **Creator/Author:** Becky Chambers
 

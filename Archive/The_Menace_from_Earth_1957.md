@@ -1,5 +1,7 @@
 # The Menace from Earth (1957)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Exploration, Aliens
+
 **Medium:** Short Story
 **Creator/Author:** Robert A. Heinlein
 

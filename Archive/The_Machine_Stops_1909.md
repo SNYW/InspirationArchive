@@ -1,5 +1,7 @@
 # The Machine Stops (1909)
 
+**Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Dystopia | 🧬 Ecology, Isolation
+
 **Medium:** Short Story
 **Creator/Author:** E. M. Forster
 

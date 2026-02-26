@@ -1,5 +1,7 @@
 # The Man Who Never Grew Old (1952)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Transhumanism, Isolation
+
 **Medium:** Short Story
 **Creator/Author:** C.M. Kornbluth
 

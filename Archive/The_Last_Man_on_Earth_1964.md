@@ -1,5 +1,7 @@
 # The Last Man on Earth (1964)
 
+**Tags:** 🌍 Multinational | 🎭 Melancholic | 📚 Post-Apocalypse, Horror | 🧬 Pandemic, Isolation
+
 **Medium:** Film
 **Creator/Author:** Ubaldo Ragona & Sidney Salkow (Directors), Richard Matheson (Novel Source)
 

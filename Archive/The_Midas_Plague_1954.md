@@ -1,5 +1,7 @@
 # The Midas Plague (1954)
 
+**Tags:** 🌍 USA | 🎭 Satirical | 📚 Dystopia | 🧬 Poverty
+
 **Medium:** Novella / Short Novel
 **Creator/Author:** Frederik Pohl
 

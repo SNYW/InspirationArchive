@@ -1,5 +1,7 @@
 # The Last Starship from Earth (1968)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Dystopia, Time-Travel | 🧬 Religion, Time-Travel
+
 **Medium:** Novel
 **Author:** John Boyd
 

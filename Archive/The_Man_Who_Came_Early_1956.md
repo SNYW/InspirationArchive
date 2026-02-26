@@ -1,5 +1,7 @@
 # The Man Who Came Early (1956)
 
+**Tags:** 🌍 USA | 🎭 Satirical | 📚 Time-Travel | 🧬 Time-Travel
+
 **Medium:** Short Story
 **Author:** Poul Anderson
 
