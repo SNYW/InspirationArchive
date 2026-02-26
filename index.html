@@ -24,7 +24,7 @@
         }
         header {
             text-align: center;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
             padding-bottom: 2rem;
             border-bottom: 1px solid var(--border);
         }
@@ -44,7 +44,7 @@
             justify-content: center;
             gap: 0.5rem;
             flex-wrap: wrap;
-            margin-bottom: 3rem;
+            margin-bottom: 2rem;
         }
         .filter-btn {
             background: var(--card-bg);
@@ -60,12 +60,72 @@
             border-color: var(--accent);
             background: var(--accent-dim);
         }
+        /* --- HERO HIGHLIGHT SECTION --- */
+        .hero-container {
+            display: flex;
+            gap: 2rem;
+            background: linear-gradient(135deg, var(--card-bg), #000);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+            transition: opacity 0.5s ease;
+            cursor: pointer;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+        }
+        .hero-container:hover {
+            border-color: var(--accent);
+        }
+        .hero-container.hidden { display: none; }
+        .hero-container.fade-out { opacity: 0; }
+        .hero-poster {
+            width: 240px;
+            flex-shrink: 0;
+            border-radius: 6px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.9);
+            aspect-ratio: 2 / 3;
+            object-fit: cover;
+        }
+        .hero-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .hero-info h2 {
+            font-size: 3rem;
+            color: #fff;
+            margin-bottom: 0.2rem;
+            line-height: 1.1;
+            text-transform: uppercase;
+        }
+        .hero-info .meta {
+            color: #aaa;
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+        }
+        .hero-info .pitch {
+            font-size: 1.1rem;
+            color: var(--text);
+            max-width: 800px;
+        }
+        .hero-tag {
+            display: inline-block;
+            background: var(--accent);
+            color: #fff;
+            padding: 0.2rem 0.6rem;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+            align-self: flex-start;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: bold;
+        }
+        /* --- MAIN GRID --- */
         .grid {
             display: grid;
-            /* Adjusted grid sizing for Netflix-style posters */
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 1.5rem;
-            padding: 1rem;
         }
         .card {
             background: var(--card-bg);
@@ -75,7 +135,6 @@
             position: relative;
             overflow: hidden;
             aspect-ratio: 2 / 3;
-            /* Movie poster ratio */
             transition: transform 0.3s ease, border-color 0.3s ease;
             box-shadow: 0 4px 6px rgba(0,0,0,0.5);
         }
@@ -92,8 +151,8 @@
             transition: opacity 0.3s ease;
         }
         .card:hover img {
-            opacity: 0.4;
-            /* Dims the image when hovering so text is readable */
+            opacity: 0.3;
+            /* Darker image on hover for better text readability */
         }
         .card-title-bar {
             position: absolute;
@@ -101,7 +160,7 @@
             left: 0;
             right: 0;
             padding: 3rem 1rem 1rem;
-            background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
+            background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0) 100%);
             pointer-events: none;
         }
         .card-title-bar h2 {
@@ -110,7 +169,6 @@
             color: #fff;
             text-shadow: 1px 1px 3px #000;
         }
-        /* The hover overlay content */
         .card-hover-content {
             position: absolute;
             top: 0;
@@ -143,7 +201,7 @@
             color: #e0e0e0;
             text-shadow: 1px 1px 2px #000;
         }
-        /* Modal Styles Remain Mostly Unchanged */
+        /* --- MODAL --- */
         .modal {
             display: none;
             position: fixed;
@@ -156,9 +214,7 @@
             overflow-y: auto;
             z-index: 100;
         }
-        .modal.open {
-            display: block;
-        }
+        .modal.open { display: block; }
         .modal-content {
             max-width: 800px;
             margin: 0 auto;
@@ -181,13 +237,6 @@
             color: var(--accent);
             margin-bottom: 0.5rem;
         }
-        .modal .meta {
-            color: #666;
-            margin-bottom: 1.5rem;
-        }
-        .modal section {
-            margin-bottom: 2rem;
-        }
         .modal h3 {
             color: var(--accent);
             font-size: 0.9rem;
@@ -205,6 +254,46 @@
             color: #666;
             font-size: 0.8rem;
         }
+        /* ========================================================= MOBILE OPTIMIZATIONS ========================================================= */
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            h1 { font-size: 1.8rem; }
+            /* Force Grid into 2 Columns */
+            .grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
+            /* Make Hero Stack Vertically */
+            .hero-container {
+                flex-direction: column;
+                padding: 1.5rem;
+                align-items: center;
+                text-align: center;
+            }
+            .hero-poster { width: 160px; }
+            .hero-info h2 { font-size: 1.8rem; }
+            .hero-info .meta { font-size: 0.9rem; margin-bottom: 1rem; }
+            .hero-info .pitch { font-size: 0.95rem; }
+            .hero-tag { align-self: center; }
+            /* Fix Mobile Tap/Hover Overlay */
+            .card-title-bar { padding: 2rem 0.5rem 0.5rem; }
+            .card-title-bar h2 { font-size: 0.85rem; }
+            .card-hover-content {
+                padding: 0.75rem;
+                background: rgba(0, 0, 0, 0.85);
+                /* Darker backdrop */
+                backdrop-filter: blur(4px);
+                /* Sleek blur to make text pop */
+                justify-content: flex-start;
+            }
+            .card .medium { font-size: 0.65rem; margin-bottom: 0.5rem; }
+            .card .pitch {
+                font-size: 0.75rem;
+                line-height: 1.3;
+                /* Clamp text to prevent overflow on small screens */
+                display: -webkit-box;
+                -webkit-line-clamp: 6;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+            }
+        }
     </style>
 </head>
 <body>
@@ -212,6 +301,8 @@
         <h1>Inspiration Archive</h1>
         <p class="subtitle">Sci-Fi Media for Cyberpunk RED Campaign</p>
     </header>
+    <div id="heroSection" class="hero-container">
+    </div>
     <div class="filters">
         <button class="filter-btn active" data-filter="all">All</button>
         <button class="filter-btn" data-filter="Novel">Novels</button>
@@ -230,7 +321,6 @@
         <p>Built for the Silent Witness Cyberpunk RED Campaign</p>
     </footer>
     <script>
-        // Note the new "image" property added to your data array!
         const media = [
             { title: "334", year: "1972", medium: "Novel", pitch: "A haunting collection of interconnected tales set in a dystopian future New York, exploring class divide and urban decay.", file: "334_1972.md" },
             { title: "A Martian Odyssey", year: "1934", medium: "Short Story", pitch: "One of the first great science fiction short stories, following an astronaut's strange journey across Mars.", file: "A_Martian_Odyssey_1934.md" },
@@ -250,19 +340,56 @@
             { title: "Ergo Proxy", year: "2006", medium: "Anime", pitch: "In a domed city, proxy androids begin questioning their own existence.", file: "Ergo_Proxy_2006.md" },
             { title: "Eurêka", year: "1972", medium: "Film", pitch: "A surreal exploration of a post-apocalyptic world and its last survivors.", file: "Euremas_Dam_1972.md" },
             { title: "Exhalation", year: "2008", medium: "Short Story", pitch: "An alien autopsy reveals a universe running out of energy.", file: "Exhalation_2008.md" },
-            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", file: "Fantastic_Planet_1973.md", image: "Images/Fantastic_Planet_1973.jpg" },
+            { title: "Fantastic Planet", year: "1973", medium: "Animated Film", pitch: "A surreal French animated film about giant Oms and their rulers the Draags.", file: "Fantastic_Planet_1973.md" },
             { title: "The Fourth Mansions", year: "1969", medium: "Novel", pitch: "A man investigates supernatural forces while navigating political revolution.", file: "Fourth_Mansions_1969.md" }
+            { title: "The Last Man on Earth", year: "1964", medium: "Film", pitch: "Vincent Price stars as the last human in this obscure adaptation of 'I Am Legend' - a melancholy post-apocalyptic classic.", file: "Archive/The_Last_Man_on_Earth_1964.md" },
         ];
+        // --- HERO HIGHLIGHT LOGIC ---
+        let heroInterval;
+        function updateHero() {
+            const heroSection = document.getElementById('heroSection');
+            // Check if hero is hidden (because a filter is active), if so, do nothing.
+            if (heroSection.classList.contains('hidden')) return;
+            // Trigger CSS fade out
+            heroSection.classList.add('fade-out');
+            // Wait for fade out to complete before changing content
+            setTimeout(() => {
+                const randomMedia = media[Math.floor(Math.random() * media.length)];
+                const imgPath = 'Images/' + randomMedia.file.replace('.md', '.jpg');
+                const fallbackImg = randomMedia.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(randomMedia.title);
+                heroSection.innerHTML = `
+                    <img class="hero-poster" src="${imgPath}" onerror="this.src='${fallbackImg}'" alt="${randomMedia.title} Poster">
+                    <div class="hero-info">
+                        <span class="hero-tag">Featured ${randomMedia.medium}</span>
+                        <h2>${randomMedia.title}</h2>
+                        <div class="meta">Released: ${randomMedia.year}</div>
+                        <p class="pitch">${randomMedia.pitch}</p>
+                    </div>
+                `;
+                // Clicking the hero opens the modal just like a regular card
+                heroSection.onclick = () => openModal('Archive/' + randomMedia.file);
+                // Fade back in
+                heroSection.classList.remove('fade-out');
+            }, 500); // 500ms matches the CSS transition time
+        }
+        // --- MAIN GRID LOGIC ---
         async function loadMedia() {
             const grid = document.getElementById('mediaGrid');
+            const heroSection = document.getElementById('heroSection');
             grid.innerHTML = '';
             const filter = document.querySelector('.filter-btn.active').dataset.filter;
+            // Handle Hero Visibility: Only show on "All"
+            if (filter === 'all') {
+                heroSection.classList.remove('hidden');
+                updateHero(); // Instantly update when returning to 'All'
+            } else {
+                heroSection.classList.add('hidden');
+            }
             const filtered = filter === 'all' ? media : media.filter(m => m.medium === filter);
             filtered.forEach(m => {
                 const card = document.createElement('div');
                 card.className = 'card';
                 const imgPath = 'Images/' + m.file.replace('.md', '.jpg');
-                // Inject the image, hover content, and fixed title bar
                 card.innerHTML = `
                     <img src="${imgPath}" alt="${m.title} Cover Art" onerror="this.src='${m.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(m.title)}'">
                     <div class="card-hover-content">
@@ -277,6 +404,7 @@
                 grid.appendChild(card);
             });
         }
+        // --- MODAL & UTILS ---
         async function openModal(file) {
             try {
                 const response = await fetch(file);
@@ -286,11 +414,10 @@
                 document.getElementById('modal').classList.add('open');
             }
             catch(e) {
-                // Failsafe message if you don't have a local server running
                 document.getElementById('modalBody').innerHTML = `
                     <h2>File Unavailable</h2>
                     <p style="color: #888;">Could not load <code>${file}</code>.</p>
-                    <p style="margin-top: 1rem; font-size: 0.9rem;"><em>Note: If you are opening this HTML file directly in your browser (file://), your browser's security settings will block the script from fetching local Markdown files. You will need to run a local development server (like VS Code's Live Server) to load them!</em></p>
+                    <p style="margin-top: 1rem; font-size: 0.9rem;"><em>Note: If you are opening this HTML file directly in your browser (file://), your browser's security settings block the script from fetching local Markdown files. Run a local development server to load them!</em></p>
                 `;
                 document.getElementById('modal').classList.add('open');
             }
@@ -306,7 +433,6 @@
         function closeModal() {
             document.getElementById('modal').classList.remove('open');
         }
-        // Close modal when clicking outside of the modal content
         document.getElementById('modal').addEventListener('click', function(e) {
             if (e.target === this) {
                 closeModal();
@@ -319,7 +445,10 @@
                 loadMedia();
             };
         });
+        // Initialize Hero and Grid
         loadMedia();
+        // Auto-rotate Hero every 60 seconds (60000 ms)
+        heroInterval = setInterval(updateHero, 60000);
     </script>
 </body>
 </html>
