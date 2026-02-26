@@ -1,5 +1,7 @@
 # Yokohama Kaidashi Kikou (1998)
 
+**Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Ecology, Isolation
+
 **Medium:** OVA Anime (Manga source)
 **Creator/Author:** Hitoshi Ashinano (Manga), Takashi Annō/Tomomi Mochizuki (OVA Direction)
 

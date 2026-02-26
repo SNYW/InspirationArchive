@@ -1,5 +1,7 @@
 # World on a Wire (1973)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 VR, Sentience
+
 **Medium:** Film (TV Miniseries)
 **Creator/Author:** Rainer Werner Fassbinder (Director), based on the novel "Simulacron-3" by Daniel F. Galouye
 

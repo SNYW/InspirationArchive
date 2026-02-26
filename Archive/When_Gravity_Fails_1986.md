@@ -1,5 +1,7 @@
 # When Gravity Fails (1986)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 Cybernetics, Sentience, VR
+
 **Medium:** Novel
 **Author:** George Alec Effinger
 
@@ -23,7 +25,7 @@ The investigation forces Audran into an unbearable position. To catch the killer
 
 The killer turns out to be using moddies to become some of history's most fearsome serial killers—transforming himself into manifestations of pure sadistic violence. He begins stalking Audran specifically, viewing the investigation as a game. Audran eventually confronts and overpowers the modified killer, but the threat isn't over.
 
-An important middleman in the Budayeen turns out to be behind some of the murders. When Audran confronts him, he's nearly killed and must use a special "daddy" that triggers a berserker rage. In the resulting frenzy, Audran kills the murderer but also slaughters a captured policeman and mutilates both bodieshorrifically.
+An important middleman in the Budayeen turns out to be behind some of the murders. When Audran confronts him, he's nearly killed and must use a special "daddy" that triggers a berserker rage. In the resulting frenzy, Audran kills the murderer but also slaughters a captured policeman and mutilated both bodieshorrifically.
 
 The aftermath seals Audran's fate. His former acquaintances in the Budayeen—already uneasy about his becoming Friedlander Bey's investigator—now view him with disgust and suspicion. In the final cruel twist, Bey makes Audran one of his lieutenants, a middleman between the criminal underworld and the police. Everyone now views Audran with distrust, and he ends the novel practically alone, his relationships destroyed by both the violence he was forced to commit and his transformation into the very thing he despised.
 

@@ -1,5 +1,7 @@
 # When It Changed (1972)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Rebellion, Exploration
+
 **Medium:** Short Story
 **Creator/Author:** Joanna Russ
 
@@ -7,6 +9,7 @@
 On the far-off planet Whileaway, a plague wiped out men centuries ago, leaving women to build a peaceful, rational society free from the hierarchies and violence of the old world. When a ship from Earth finally arrives—carrying men who want to "resettle" the planet and reclaim it for humanity—the women of Whileaway face an existential choice. This Nebula Award-winning short story is a sharp, subversive examination of gender, power, and what "civilization" truly means. Joanna Russ writes with incisive wit and fierce intelligence, turning the conventions of space colonization science fiction inside out.
 
 ## The Truth (Full Story Breakdown)
+
 The story is told through the perspective of Janet, a woman living on Whileaway who works as a "computer woman"—essentially maintaining the planetary networks that keep their society functioning. The society is small (only 3,000 people), isolated, and has developed over centuries without men. The women of Whileaway have created a culture that values reason, equality, and cooperation. They have eliminated many of the constructs Earth still holds dear: competitive hierarchies, property disputes, and gender-based dynamics power.
 
 When the spaceship arrives from Earth, carrying a team of "Founders" meant to re-establish human civilization on Whileaway, the equilibrium shatters. The Founders include both women and men—the first men the Whileawayans have ever seen. The Whileawayans are initially curious and welcoming, but tensions quickly emerge.
