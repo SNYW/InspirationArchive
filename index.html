@@ -69,15 +69,9 @@
             border-radius: 8px;
             padding: 2rem;
             margin-bottom: 3rem;
-            transition: opacity 0.5s ease;
             cursor: pointer;
             box-shadow: 0 10px 30px rgba(0,0,0,0.8);
         }
-        .hero-container:hover {
-            border-color: var(--accent);
-        }
-        .hero-container.hidden { display: none; }
-        .hero-container.fade-out { opacity: 0; }
         .hero-poster {
             width: 240px;
             flex-shrink: 0;
@@ -345,32 +339,28 @@
             { title: "The Last Man on Earth", year: "1964", medium: "Film", pitch: "Vincent Price stars as the last human in this obscure adaptation of 'I Am Legend' - a melancholy post-apocalyptic classic.", file: "Archive/The_Last_Man_on_Earth_1964.md", image: "Images/The_Last_Man_on_Earth_1964.jpg" },
         ];
         // --- HERO HIGHLIGHT LOGIC ---
-        let heroInterval;
+        // Show the last entry in the media array (most recently added)
         function updateHero() {
             const heroSection = document.getElementById('heroSection');
             // Check if hero is hidden (because a filter is active), if so, do nothing.
             if (heroSection.classList.contains('hidden')) return;
-            // Trigger CSS fade out
-            heroSection.classList.add('fade-out');
-            // Wait for fade out to complete before changing content
-            setTimeout(() => {
-                const randomMedia = media[Math.floor(Math.random() * media.length)];
-                const imgPath = 'Images/' + randomMedia.file.replace('.md', '.jpg');
-                const fallbackImg = randomMedia.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(randomMedia.title);
-                heroSection.innerHTML = `
-                    <img class="hero-poster" src="${imgPath}" onerror="this.src='${fallbackImg}'" alt="${randomMedia.title} Poster">
-                    <div class="hero-info">
-                        <span class="hero-tag">Featured ${randomMedia.medium}</span>
-                        <h2>${randomMedia.title}</h2>
-                        <div class="meta">Released: ${randomMedia.year}</div>
-                        <p class="pitch">${randomMedia.pitch}</p>
-                    </div>
-                `;
-                // Clicking the hero opens the modal just like a regular card
-                heroSection.onclick = () => openModal('Archive/' + randomMedia.file);
-                // Fade back in
-                heroSection.classList.remove('fade-out');
-            }, 500); // 500ms matches the CSS transition time
+            
+            // Get the last entry in the media array (most recently added)
+            const recentMedia = media[media.length - 1];
+            const imgPath = 'Images/' + recentMedia.file.replace('.md', '.jpg');
+            const fallbackImg = recentMedia.image || 'https://placehold.co/400x600/1a1a1a/ff2d6a?text=' + encodeURIComponent(recentMedia.title);
+            
+            heroSection.innerHTML = `
+                <img class="hero-poster" src="${imgPath}" onerror="this.src='${fallbackImg}'" alt="${recentMedia.title} Poster">
+                <div class="hero-info">
+                    <span class="hero-tag">Recently Added</span>
+                    <h2>${recentMedia.title}</h2>
+                    <div class="meta">Released: ${recentMedia.year}</div>
+                    <p class="pitch">${recentMedia.pitch}</p>
+                </div>
+            `;
+            // Clicking the hero opens the modal just like a regular card
+            heroSection.onclick = () => openModal('Archive/' + recentMedia.file);
         }
         // --- MAIN GRID LOGIC ---
         async function loadMedia() {
@@ -381,7 +371,6 @@
             // Handle Hero Visibility: Only show on "All"
             if (filter === 'all') {
                 heroSection.classList.remove('hidden');
-                updateHero(); // Instantly update when returning to 'All'
             } else {
                 heroSection.classList.add('hidden');
             }
@@ -447,8 +436,6 @@
         });
         // Initialize Hero and Grid
         loadMedia();
-        // Auto-rotate Hero every 60 seconds (60000 ms)
-        heroInterval = setInterval(updateHero, 60000);
     </script>
 </body>
 </html>
