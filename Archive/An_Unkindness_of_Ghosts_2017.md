@@ -1,5 +1,7 @@
 # An Unkindness of Ghosts (2017)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Hard-SF, Dystopia | 🧬 Rebellion, Memory, Poverty
+
 **Medium:** Novel
 **Creator/Author:** Rivers Solomon
 
@@ -31,7 +33,7 @@ An Unkindness of Ghosts is a profound exploration of several interconnected them
 
 **The Legacy of Slavery:** The ship Matilda being named for the Clotilda is deliberate—Solomon drags up the "falsehoods and broken memories of a nightmare past" to interrogate them. The novel vivisects pervasive stereotypes and examines how trauma from slavery echoes through generations.
 
-**Afrofuturism:** The novel centers Black and Brown experiences in a sci-fi setting, reimagining who gets to tell space stories and who gets to be the heroes. It asks: what would happen if the descendants of enslaved people built a future among the stars?
+**Afrofuturism:** The novel centers Black and Brown experiences in a sci-fi setting, reimagining who gets to tell space stories and who gets to be the heroes. It asks: what would happen if the descendants of enslaved people built a future among the stars.
 
 **Queerness and Neurodiversity:** All central characters are gender-variant and neurodivergent. Aster's inability to understand figurative language becomes a strength—she cannot be gaslit or manipulated through doublespeak. The novel disrupts typical SF adventure tropes by centering characters who don't fit binary categories.
 

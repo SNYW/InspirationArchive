@@ -9,15 +9,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            /* Base Theme */
             --bg: #09090b;
             --card-bg: #121216;
             --text: #e0e0e0;
             --border: #2a2a35;
-            /* Default Accents */
             --accent: #ff2d6a;
             --accent-dim: rgba(255, 45, 106, 0.15);
-            /* Data-Driven Mood Palette */
             --mood-optimistic: #ffd700;
             --mood-pessimistic: #ff2a2a;
             --mood-melancholic: #4169e1;
@@ -28,7 +25,6 @@
             --mood-cerebral: #00ffff;
             --mood-eerie: #8fbc8f;
             --mood-unknown: #555555;
-            /* Data-Driven Medium Palette */
             --med-written: #00e5ff;
             --med-film: #ff2d6a;
             --med-animated: #39ff14;
@@ -40,95 +36,69 @@
         ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #444; }
         body {
-            /* NEW: Sleek Space Grotesk font replaces Courier New */
             font-family: 'Space Grotesk', sans-serif;
             background-color: var(--bg);
-            background-image: linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
-            background-size: 30px 30px;
             color: var(--text);
             line-height: 1.6;
             padding: 2rem;
             overflow-x: hidden;
-        }
-
-        /* --- REDESIGNED HEADER --- */
-        header {
             position: relative;
-            text-align: center;
-            margin-bottom: 3rem;
-            padding: 6rem 2rem;
-            border-bottom: 1px solid var(--border);
-            border-radius: 12px;
-            background: linear-gradient(to bottom, rgba(18,18,22,0.3), transparent);
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
         }
-
-        /* The dynamic poster mosaic background */
-        .header-bg {
-            position: absolute;
-            top: -50%;
-            left: -10%;
-            width: 120%;
-            height: 200%;
+        .site-bg {
+            position: fixed;
+            top: -20vh;
+            left: -20vw;
+            width: 140vw;
+            height: 140vh;
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
             align-content: center;
             gap: 1rem;
-            opacity: 0.25;
-            z-index: 0;
-            transform: rotate(-5deg); /* Slight angle for a dynamic, uneasy feel */
+            opacity: 0.15;
+            z-index: -1;
+            transform: rotate(-5deg);
             pointer-events: none;
-            /* Fades the images out smoothly in a circle from the center */
-            mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 10%, rgba(0,0,0,0) 60%);
-            -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 10%, rgba(0,0,0,0) 60%);
         }
-
-        .header-bg img {
-            width: 100px;
-            height: 150px;
+        .site-bg img {
+            width: 110px;
+            height: 165px;
             object-fit: cover;
             border-radius: 6px;
             box-shadow: 0 0 15px rgba(0,0,0,0.8);
-            filter: grayscale(30%) contrast(120%);
+            filter: grayscale(60%) contrast(110%);
         }
-
-        .header-content {
-            position: relative;
-            z-index: 1; /* Keeps text above the mosaic */
+        header {
+            text-align: center;
+            margin-bottom: 2rem;
+            padding: 4rem 2rem;
         }
-
         h1 {
-            /* NEW: Wide, corporate Blade Runner font */
             font-family: 'Michroma', sans-serif;
             font-size: 3.5rem;
             color: #fff;
-            text-shadow: 0 4px 25px rgba(255, 45, 106, 0.6), 0 0 10px rgba(0,0,0,0.8);
+            text-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 40px #000, 0 0 80px #000, 0 4px 25px rgba(255, 45, 106, 0.8);
             text-transform: uppercase;
             letter-spacing: 0.15em;
             margin: 0;
+            display: inline-block;
         }
-
-        /* -------------------------- */
-
         .loading {
             text-align: center;
             color: #666;
             font-size: 1.2rem;
             padding: 3rem;
             grid-column: 1 / -1;
+            text-shadow: 0 0 10px #000;
         }
-
         .error-message {
             color: var(--mood-pessimistic);
             border: 1px solid var(--mood-pessimistic);
             background: rgba(255, 42, 42, 0.1);
             padding: 1rem;
             border-radius: 6px;
+            backdrop-filter: blur(5px);
         }
-
-        /* --- FILTERS --- */
         .filters {
             display: flex;
             justify-content: center;
@@ -136,9 +106,8 @@
             flex-wrap: wrap;
             margin-bottom: 1.5rem;
         }
-
         .filter-btn {
-            background: var(--card-bg);
+            background: rgba(18, 18, 22, 0.85);
             border: 1px solid var(--border);
             color: var(--text);
             padding: 0.5rem 1rem;
@@ -147,14 +116,12 @@
             transition: all 0.2s;
             border-radius: 4px;
             font-weight: 600;
+            backdrop-filter: blur(4px);
         }
-
         .filter-btn:hover, .filter-btn.active {
             border-color: var(--text);
-            background: rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.15);
         }
-
-        /* --- TAG DROPDOWNS --- */
         .tag-filters {
             display: flex;
             justify-content: center;
@@ -162,18 +129,16 @@
             flex-wrap: wrap;
             margin-bottom: 3rem;
             padding: 1rem;
-            background: rgba(18, 18, 22, 0.8);
+            background: rgba(18, 18, 22, 0.85);
             border-radius: 8px;
             border: 1px solid var(--border);
             backdrop-filter: blur(4px);
         }
-
         .tag-select-group {
             display: flex;
             flex-direction: column;
             gap: 0.25rem;
         }
-
         .tag-select-group label {
             font-size: 0.75rem;
             color: #888;
@@ -181,7 +146,6 @@
             letter-spacing: 0.1em;
             font-weight: 600;
         }
-
         .tag-select {
             background: #000;
             color: var(--text);
@@ -194,16 +158,13 @@
             min-width: 150px;
             transition: border-color 0.2s;
         }
-
         .tag-select:focus {
             border-color: var(--accent);
         }
-
-        /* --- HERO HIGHLIGHT SECTION --- */
         .hero-container {
             display: flex;
             gap: 2rem;
-            background: linear-gradient(135deg, var(--card-bg), #000);
+            background: linear-gradient(135deg, rgba(18,18,22,0.9), rgba(0,0,0,0.95));
             border: 1px solid var(--border);
             border-top: 3px solid var(--theme-mood);
             border-radius: 8px;
@@ -211,11 +172,11 @@
             margin-bottom: 3rem;
             transition: all 0.5s ease;
             cursor: pointer;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+            box-shadow: 0 20px 50px rgba(0,0,0,0.9);
             position: relative;
             overflow: hidden;
+            backdrop-filter: blur(10px);
         }
-
         .hero-container::before {
             content: '';
             position: absolute;
@@ -226,18 +187,15 @@
             background: radial-gradient(circle at top right, var(--theme-mood-dim), transparent 70%);
             pointer-events: none;
         }
-
         .hero-container:hover {
             border-color: var(--theme-mood);
             transform: translateY(-2px);
         }
-
         .hero-container.hidden { display: none; }
         .hero-container.fade-out {
             opacity: 0;
             transform: scale(0.98);
         }
-
         .hero-poster {
             width: 240px;
             flex-shrink: 0;
@@ -247,34 +205,32 @@
             object-fit: cover;
             z-index: 1;
         }
-
         .hero-info {
             display: flex;
             flex-direction: column;
             justify-content: center;
             z-index: 1;
         }
-
         .hero-info h2 {
             font-size: 3rem;
             color: #fff;
             margin-bottom: 0.2rem;
             line-height: 1.1;
             font-weight: 700;
+            text-shadow: 0 2px 10px #000;
         }
-
         .hero-info .meta {
             color: #aaa;
             margin-bottom: 1.5rem;
             font-size: 1.1rem;
+            text-shadow: 0 2px 5px #000;
         }
-
         .hero-info .pitch {
             font-size: 1.1rem;
             color: var(--text);
             max-width: 800px;
+            text-shadow: 0 2px 5px #000;
         }
-
         .medium-badge {
             display: inline-block;
             background: var(--theme-med);
@@ -289,16 +245,13 @@
             font-weight: bold;
             box-shadow: 0 0 10px var(--theme-med-dim);
         }
-
-        /* --- MAIN GRID --- */
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 1.5rem;
         }
-
         .card {
-            background: var(--card-bg);
+            background: rgba(18,18,22,0.9);
             border: 1px solid var(--border);
             border-top: 3px solid var(--theme-mood);
             border-radius: 6px;
@@ -307,16 +260,15 @@
             overflow: hidden;
             aspect-ratio: 2 / 3;
             transition: all 0.3s ease;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.8);
+            backdrop-filter: blur(5px);
         }
-
         .card:hover {
             border-color: var(--theme-mood);
             transform: scale(1.05);
             z-index: 10;
             box-shadow: 0 10px 30px var(--theme-mood-dim);
         }
-
         .card img {
             width: 100%;
             height: 100%;
@@ -324,12 +276,10 @@
             display: block;
             transition: opacity 0.3s ease;
         }
-
         .card:hover img {
             opacity: 0.2;
             filter: grayscale(50%);
         }
-
         .card-title-bar {
             position: absolute;
             bottom: 0;
@@ -339,14 +289,12 @@
             background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0) 100%);
             pointer-events: none;
         }
-
         .card-title-bar h2 {
             font-size: 1.1rem;
             margin: 0;
             color: #fff;
             text-shadow: 1px 1px 3px #000;
         }
-
         .card-hover-content {
             position: absolute;
             top: 0;
@@ -362,11 +310,9 @@
             pointer-events: none;
             background: linear-gradient(to bottom, var(--theme-mood-dim) 0%, transparent 50%);
         }
-
         .card:hover .card-hover-content {
             opacity: 1;
         }
-
         .card .tag-display {
             font-size: 0.7rem;
             color: #fff;
@@ -374,15 +320,12 @@
             font-weight: bold;
             opacity: 0.8;
         }
-
         .card .pitch {
             font-size: 0.95rem;
             color: #fff;
             text-shadow: 1px 1px 3px #000;
             line-height: 1.4;
         }
-
-        /* --- MODAL --- */
         .modal {
             display: none;
             position: fixed;
@@ -390,17 +333,15 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(0,0,0,0.95);
+            background: rgba(0,0,0,0.85);
             padding: 2rem;
             overflow-y: auto;
             z-index: 100;
-            backdrop-filter: blur(5px);
+            backdrop-filter: blur(8px);
         }
-
         .modal.open {
             display: block;
         }
-
         .modal-content {
             max-width: 800px;
             margin: 0 auto;
@@ -411,7 +352,6 @@
             position: relative;
             box-shadow: 0 20px 50px rgba(0,0,0,0.8);
         }
-
         .modal-close {
             position: absolute;
             top: 1rem;
@@ -423,18 +363,15 @@
             cursor: pointer;
             transition: color 0.2s;
         }
-
         .modal-close:hover {
             color: #fff;
         }
-
         .modal h2 {
             color: #fff;
             margin-bottom: 0.5rem;
             font-size: 2.5rem;
             font-weight: 700;
         }
-
         .modal h3 {
             color: var(--text);
             font-size: 0.9rem;
@@ -445,13 +382,11 @@
             padding-bottom: 0.5rem;
             margin-top: 2rem;
         }
-
         .modal p {
             font-size: 1.05rem;
             color: #ccc;
             margin-bottom: 1rem;
         }
-
         footer {
             text-align: center;
             margin-top: 4rem;
@@ -459,12 +394,11 @@
             border-top: 1px solid var(--border);
             color: #555;
             font-size: 0.8rem;
+            text-shadow: 0 0 5px #000;
         }
-
-        /* Mobile */
         @media (max-width: 768px) {
             body { padding: 1rem; }
-            header { padding: 4rem 1rem; }
+            header { padding: 2rem 1rem; }
             h1 { font-size: 2rem; }
             .grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
             .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; }
@@ -483,11 +417,9 @@
     </style>
 </head>
 <body>
+    <div id="siteBg" class="site-bg"></div>
     <header>
-        <div id="headerBg" class="header-bg"></div>
-        <div class="header-content">
-            <h1>Inspiration Archive</h1>
-        </div>
+        <h1>Inspiration Archive</h1>
     </header>
     <div id="heroSection" class="hero-container hidden"></div>
     <div class="filters">
@@ -537,6 +469,7 @@
     </footer>
     <script>
         let media = [];
+        let currentFilteredMedia = []; // NEW: Tracks the currently filtered list
         let heroInterval;
 
         const uniqueCountries = new Set();
@@ -544,7 +477,6 @@
         const uniqueGenres = new Set();
         const uniqueTopics = new Set();
 
-        // --- HELPER FUNCTIONS FOR COLOR CODING ---
         function getMoodColorVar(mood) {
             const m = mood.toLowerCase();
             if (['optimistic', 'pessimistic', 'melancholic', 'surreal', 'tense', 'gritty', 'satirical', 'cerebral', 'eerie'].includes(m)) {
@@ -648,24 +580,24 @@
             populate(uniqueTopics, 'topicFilter');
         }
 
-        // --- NEW: DYNAMIC HEADER MOSAIC ---
-        function buildHeaderMosaic() {
-            const bgContainer = document.getElementById('headerBg');
+        function buildSiteMosaic() {
+            const bgContainer = document.getElementById('siteBg');
             if (!bgContainer || media.length === 0) return;
             bgContainer.innerHTML = '';
-
-            // Shuffle and pick 24 random posters to build the texture
-            const shuffled = [...media].sort(() => 0.5 - Math.random());
-            const selected = shuffled.slice(0, 24);
-
-            selected.forEach(m => {
+            const targetCount = 200;
+            let displayList = [];
+            while (displayList.length < targetCount) {
+                const shuffled = [...media].sort(() => 0.5 - Math.random());
+                displayList = displayList.concat(shuffled);
+            }
+            displayList = displayList.slice(0, targetCount);
+            displayList.forEach(m => {
                 const img = document.createElement('img');
                 img.src = m.image;
-                // Fallback logic in case the image hasn't been downloaded by your agent yet
                 const primaryMood = m.tags.mood[0] || 'Unknown';
                 const placeholderHex = getMoodHexForPlaceholder(primaryMood);
                 const safeTitle = encodeURIComponent(m.title).replace(/'/g, "%27");
-                const fallbackImg = `https://placehold.co/100x150/${placeholderHex}/000000?text=${safeTitle}`;
+                const fallbackImg = `https://placehold.co/120x180/${placeholderHex}/000000?text=${safeTitle}`;
                 img.onerror = function() {
                     this.onerror=null;
                     this.src = fallbackImg;
@@ -698,24 +630,26 @@
                     return;
                 }
 
+                currentFilteredMedia = [...media]; // Initialize the filtered state
                 populateDropdowns();
-                buildHeaderMosaic(); // Call the new mosaic generator
-                grid.innerHTML = '';
+                buildSiteMosaic();
+                grid.innerHTML = ''; // Initialize the grid and hero
                 loadMedia();
-                if (heroInterval) clearInterval(heroInterval);
-                heroInterval = setInterval(updateHero, 60000);
             } catch (error) {
                 grid.innerHTML = `<div class="loading error-message"><strong>Error connecting to GitHub:</strong><br>${error.message}</div>`;
             }
         }
 
+        // --- UPDATED: Hero now strictly uses the filtered array ---
         function updateHero() {
             const heroSection = document.getElementById('heroSection');
-            if (media.length === 0 || heroSection.classList.contains('hidden')) return;
+            // If the filtered array is empty, do nothing
+            if (currentFilteredMedia.length === 0) return;
             heroSection.classList.add('fade-out');
 
             setTimeout(() => {
-                const r = media[Math.floor(Math.random() * media.length)];
+                // Pick randomly from the FILTERED list, not the global list
+                const r = currentFilteredMedia[Math.floor(Math.random() * currentFilteredMedia.length)];
 
                 const primaryMood = r.tags.mood[0] || 'Unknown';
                 const moodColor = getMoodColorVar(primaryMood);
@@ -756,13 +690,7 @@
             const genreFilter = document.getElementById('genreFilter').value;
             const topicFilter = document.getElementById('topicFilter').value;
 
-            if (mediumFilter === 'all' && countryFilter === 'all' && moodFilter === 'all' && genreFilter === 'all' && topicFilter === 'all') {
-                heroSection.classList.remove('hidden');
-                updateHero();
-            } else {
-                heroSection.classList.add('hidden');
-            }
-
+            // Generate the new filtered array
             const filtered = media.filter(m => {
                 if (mediumFilter !== 'all' && !m.medium.includes(mediumFilter)) return false;
                 if (countryFilter !== 'all' && !m.tags.country.includes(countryFilter)) return false;
@@ -772,9 +700,22 @@
                 return true;
             });
 
+            // Update the global state so the Hero knows what to look at
+            currentFilteredMedia = filtered;
+
             if (filtered.length === 0) {
+                // If there are zero results, hide the hero section and show a message
+                heroSection.classList.add('hidden');
                 grid.innerHTML = '<div class="loading">No media matches those specific filters.</div>';
                 return;
+            } else {
+                // Keep the hero section visible
+                heroSection.classList.remove('hidden');
+                // Immediately force the hero to update so it displays something from the new search
+                updateHero();
+                // Reset the interval timer so it doesn't rotate away 2 seconds after you click
+                if (heroInterval) clearInterval(heroInterval);
+                heroInterval = setInterval(updateHero, 60000);
             }
 
             filtered.forEach(m => {
@@ -846,6 +787,7 @@
             };
         });
 
+        // Boot up!
         loadMediaList();
     </script>
 </body>
