@@ -1,5 +1,7 @@
 # Ergo Proxy (2006)
 
+**Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk, Science-Fantasy | 🧬 Sentience, Evolution, Transhumanism
+
 **Medium:** Anime Television Series
 **Creator/Author:** Directed by Shūkō Murase, Written by Dai Satō
 
