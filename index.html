@@ -4,48 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inspiration Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
             /* Base Theme */
-            --bg: #09090b; /* Slightly cooler dark bg */
+            --bg: #09090b;
             --card-bg: #121216;
             --text: #e0e0e0;
             --border: #2a2a35;
-
             /* Default Accents */
             --accent: #ff2d6a;
             --accent-dim: rgba(255, 45, 106, 0.15);
-
-            /* --- DATA-DRIVEN MOOD PALETTE --- */
-            --mood-optimistic: #ffd700; /* Gold */
-            --mood-pessimistic: #ff2a2a; /* Crimson */
-            --mood-melancholic: #4169e1; /* Royal Blue */
-            --mood-surreal: #b026ff; /* Neon Purple */
-            --mood-tense: #ff6600; /* Warning Orange */
-            --mood-gritty: #a0522d; /* Rust / Brown */
-            --mood-satirical: #ccff00; /* Acid Green */
-            --mood-cerebral: #00ffff; /* Cyan */
-            --mood-eerie: #8fbc8f; /* Pale Sickly Green */
-            --mood-unknown: #555555; /* Grey for untagged */
-
-            /* --- DATA-DRIVEN MEDIUM PALETTE --- */
-            --med-written: #00e5ff; /* Novels, Short Stories */
-            --med-film: #ff2d6a; /* Live Action Film */
-            --med-animated: #39ff14; /* Anime, Animation */
-            --med-comic: #ffaa00; /* Graphic Novels */
+            /* Data-Driven Mood Palette */
+            --mood-optimistic: #ffd700;
+            --mood-pessimistic: #ff2a2a;
+            --mood-melancholic: #4169e1;
+            --mood-surreal: #b026ff;
+            --mood-tense: #ff6600;
+            --mood-gritty: #a0522d;
+            --mood-satirical: #ccff00;
+            --mood-cerebral: #00ffff;
+            --mood-eerie: #8fbc8f;
+            --mood-unknown: #555555;
+            /* Data-Driven Medium Palette */
+            --med-written: #00e5ff;
+            --med-film: #ff2d6a;
+            --med-animated: #39ff14;
+            --med-comic: #ffaa00;
         }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-
-        /* Custom Scrollbar for Chrome/Edge/Safari */
         ::-webkit-scrollbar { width: 8px; }
         ::-webkit-scrollbar-track { background: var(--bg); }
         ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #444; }
-
         body {
-            font-family: 'Courier New', monospace;
+            /* NEW: Sleek Space Grotesk font replaces Courier New */
+            font-family: 'Space Grotesk', sans-serif;
             background-color: var(--bg);
-            /* Subtle grid background to give it an archival/terminal feel */
             background-image: linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
             background-size: 30px 30px;
             color: var(--text);
@@ -54,26 +51,66 @@
             overflow-x: hidden;
         }
 
+        /* --- REDESIGNED HEADER --- */
         header {
+            position: relative;
             text-align: center;
-            margin-bottom: 2rem;
-            padding-bottom: 2rem;
+            margin-bottom: 3rem;
+            padding: 6rem 2rem;
             border-bottom: 1px solid var(--border);
+            border-radius: 12px;
+            background: linear-gradient(to bottom, rgba(18,18,22,0.3), transparent);
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        /* The dynamic poster mosaic background */
+        .header-bg {
+            position: absolute;
+            top: -50%;
+            left: -10%;
+            width: 120%;
+            height: 200%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-content: center;
+            gap: 1rem;
+            opacity: 0.25;
+            z-index: 0;
+            transform: rotate(-5deg); /* Slight angle for a dynamic, uneasy feel */
+            pointer-events: none;
+            /* Fades the images out smoothly in a circle from the center */
+            mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 10%, rgba(0,0,0,0) 60%);
+            -webkit-mask-image: radial-gradient(ellipse at center, rgba(0,0,0,1) 10%, rgba(0,0,0,0) 60%);
+        }
+
+        .header-bg img {
+            width: 100px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 6px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.8);
+            filter: grayscale(30%) contrast(120%);
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 1; /* Keeps text above the mosaic */
         }
 
         h1 {
-            font-size: 2.5rem;
-            color: var(--text);
-            text-shadow: 0 0 10px rgba(255,255,255,0.2);
+            /* NEW: Wide, corporate Blade Runner font */
+            font-family: 'Michroma', sans-serif;
+            font-size: 3.5rem;
+            color: #fff;
+            text-shadow: 0 4px 25px rgba(255, 45, 106, 0.6), 0 0 10px rgba(0,0,0,0.8);
             text-transform: uppercase;
-            letter-spacing: 0.2em;
-            margin-bottom: 0.5rem;
+            letter-spacing: 0.15em;
+            margin: 0;
         }
 
-        .subtitle {
-            color: #888;
-            font-size: 0.9rem;
-        }
+        /* -------------------------- */
 
         .loading {
             text-align: center;
@@ -109,6 +146,7 @@
             font-family: inherit;
             transition: all 0.2s;
             border-radius: 4px;
+            font-weight: 600;
         }
 
         .filter-btn:hover, .filter-btn.active {
@@ -141,6 +179,7 @@
             color: #888;
             text-transform: uppercase;
             letter-spacing: 0.1em;
+            font-weight: 600;
         }
 
         .tag-select {
@@ -166,7 +205,7 @@
             gap: 2rem;
             background: linear-gradient(135deg, var(--card-bg), #000);
             border: 1px solid var(--border);
-            border-top: 3px solid var(--theme-mood); /* Inherits mood color */
+            border-top: 3px solid var(--theme-mood);
             border-radius: 8px;
             padding: 2rem;
             margin-bottom: 3rem;
@@ -177,7 +216,6 @@
             overflow: hidden;
         }
 
-        /* A subtle ambient glow behind the hero text based on mood */
         .hero-container::before {
             content: '';
             position: absolute;
@@ -222,7 +260,7 @@
             color: #fff;
             margin-bottom: 0.2rem;
             line-height: 1.1;
-            text-transform: uppercase;
+            font-weight: 700;
         }
 
         .hero-info .meta {
@@ -237,7 +275,6 @@
             max-width: 800px;
         }
 
-        /* The Medium Badge */
         .medium-badge {
             display: inline-block;
             background: var(--theme-med);
@@ -263,7 +300,7 @@
         .card {
             background: var(--card-bg);
             border: 1px solid var(--border);
-            border-top: 3px solid var(--theme-mood); /* The colored line indicating Mood */
+            border-top: 3px solid var(--theme-mood);
             border-radius: 6px;
             cursor: pointer;
             position: relative;
@@ -277,7 +314,7 @@
             border-color: var(--theme-mood);
             transform: scale(1.05);
             z-index: 10;
-            box-shadow: 0 10px 30px var(--theme-mood-dim); /* Glows with the mood color */
+            box-shadow: 0 10px 30px var(--theme-mood-dim);
         }
 
         .card img {
@@ -323,7 +360,6 @@
             justify-content: center;
             transition: opacity 0.3s ease;
             pointer-events: none;
-            /* Subtle gradient tint based on Mood */
             background: linear-gradient(to bottom, var(--theme-mood-dim) 0%, transparent 50%);
         }
 
@@ -340,8 +376,6 @@
         }
 
         .card .pitch {
-            /* Changed to Sans-serif for readability in small sizes */
-            font-family: system-ui, -apple-system, sans-serif;
             font-size: 0.95rem;
             color: #fff;
             text-shadow: 1px 1px 3px #000;
@@ -397,7 +431,8 @@
         .modal h2 {
             color: #fff;
             margin-bottom: 0.5rem;
-            font-size: 2rem;
+            font-size: 2.5rem;
+            font-weight: 700;
         }
 
         .modal h3 {
@@ -412,7 +447,6 @@
         }
 
         .modal p {
-            font-family: system-ui, -apple-system, sans-serif;
             font-size: 1.05rem;
             color: #ccc;
             margin-bottom: 1rem;
@@ -430,7 +464,8 @@
         /* Mobile */
         @media (max-width: 768px) {
             body { padding: 1rem; }
-            h1 { font-size: 1.8rem; }
+            header { padding: 4rem 1rem; }
+            h1 { font-size: 2rem; }
             .grid { grid-template-columns: repeat(2, 1fr); gap: 0.75rem; }
             .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; }
             .hero-poster { width: 160px; }
@@ -449,8 +484,10 @@
 </head>
 <body>
     <header>
-        <h1>Inspiration Archive</h1>
-        <p class="subtitle">Sci-Fi Media for Cyberpunk RED Campaign</p>
+        <div id="headerBg" class="header-bg"></div>
+        <div class="header-content">
+            <h1>Inspiration Archive</h1>
+        </div>
     </header>
     <div id="heroSection" class="hero-container hidden"></div>
     <div class="filters">
@@ -508,7 +545,6 @@
         const uniqueTopics = new Set();
 
         // --- HELPER FUNCTIONS FOR COLOR CODING ---
-
         function getMoodColorVar(mood) {
             const m = mood.toLowerCase();
             if (['optimistic', 'pessimistic', 'melancholic', 'surreal', 'tense', 'gritty', 'satirical', 'cerebral', 'eerie'].includes(m)) {
@@ -517,7 +553,6 @@
             return 'var(--mood-unknown)';
         }
 
-        // Specifically formats a hex code for the placeholder API (removes the #)
         function getMoodHexForPlaceholder(mood) {
             const map = {
                 'optimistic': 'ffd700',
@@ -539,10 +574,8 @@
             if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)';
             if (m.includes('comic') || m.includes('graphic')) return 'var(--med-comic)';
             if (m.includes('film') || m.includes('movie')) return 'var(--med-film)';
-            return 'var(--text)'; // Fallback
+            return 'var(--text)';
         }
-
-        // ------------------------------------------
 
         function parseMarkdownFile(filename, content) {
             let title = filename.replace('.md', '').replace(/_/g, ' ');
@@ -615,6 +648,32 @@
             populate(uniqueTopics, 'topicFilter');
         }
 
+        // --- NEW: DYNAMIC HEADER MOSAIC ---
+        function buildHeaderMosaic() {
+            const bgContainer = document.getElementById('headerBg');
+            if (!bgContainer || media.length === 0) return;
+            bgContainer.innerHTML = '';
+
+            // Shuffle and pick 24 random posters to build the texture
+            const shuffled = [...media].sort(() => 0.5 - Math.random());
+            const selected = shuffled.slice(0, 24);
+
+            selected.forEach(m => {
+                const img = document.createElement('img');
+                img.src = m.image;
+                // Fallback logic in case the image hasn't been downloaded by your agent yet
+                const primaryMood = m.tags.mood[0] || 'Unknown';
+                const placeholderHex = getMoodHexForPlaceholder(primaryMood);
+                const safeTitle = encodeURIComponent(m.title).replace(/'/g, "%27");
+                const fallbackImg = `https://placehold.co/100x150/${placeholderHex}/000000?text=${safeTitle}`;
+                img.onerror = function() {
+                    this.onerror=null;
+                    this.src = fallbackImg;
+                };
+                bgContainer.appendChild(img);
+            });
+        }
+
         async function loadMediaList() {
             const grid = document.getElementById('mediaGrid');
             try {
@@ -640,6 +699,7 @@
                 }
 
                 populateDropdowns();
+                buildHeaderMosaic(); // Call the new mosaic generator
                 grid.innerHTML = '';
                 loadMedia();
                 if (heroInterval) clearInterval(heroInterval);
@@ -657,17 +717,14 @@
             setTimeout(() => {
                 const r = media[Math.floor(Math.random() * media.length)];
 
-                // Color Logic
                 const primaryMood = r.tags.mood[0] || 'Unknown';
                 const moodColor = getMoodColorVar(primaryMood);
                 const medColor = getMediumColorVar(r.medium);
                 const placeholderHex = getMoodHexForPlaceholder(primaryMood);
 
                 const safeTitle = encodeURIComponent(r.title).replace(/'/g, "%27");
-                // The placeholder API dynamically generates an image matching the Mood color!
                 const fallbackImg = `https://placehold.co/400x600/${placeholderHex}/000000?text=${safeTitle}`;
 
-                // Injecting CSS Variables inline so the components color themselves
                 heroSection.style.setProperty('--theme-mood', moodColor);
                 heroSection.style.setProperty('--theme-mood-dim', `color-mix(in srgb, ${moodColor} 20%, transparent)`);
                 heroSection.style.setProperty('--theme-med', medColor);
@@ -724,7 +781,6 @@
                 const card = document.createElement('div');
                 card.className = 'card';
 
-                // Color Logic
                 const primaryMood = m.tags.mood[0] || 'Unknown';
                 const moodColor = getMoodColorVar(primaryMood);
                 const medColor = getMediumColorVar(m.medium);
