@@ -549,7 +549,7 @@
 
             const pitchMatch = content.match(/##\s*The\s+Pitch\s*(.+?)(?=##|#|$)/is);
             if (pitchMatch) {
-                pitch = pitchMatch[1].replace(/\n+/g, ' ').trim().substring(0, 200);
+                pitch = pitchMatch[1].replace(/\n+/g, ' ').replace(/\(Non-Spoiler Breakdown\)/gi, '').trim().substring(0, 200);
                 if (pitch.length === 200) pitch += "...";
             }
 
