@@ -236,14 +236,14 @@
                     <div class="medium">${m.medium}</div>
                     <p class="pitch">${m.pitch}</p>
                 `;
-                card.onclick = () => openModal(m.file);
+                card.onclick = () => openModal('Archive/' + m.file);
                 grid.appendChild(card);
             });
         }
 
         async function openModal(file) {
             try {
-                const response = await fetch(file);
+                const response = await fetch('Archive/' + file);
                 const content = await response.text();
                 document.getElementById('modalBody').innerHTML = parseMarkdown(content);
                 document.getElementById('modal').classList.add('open');
