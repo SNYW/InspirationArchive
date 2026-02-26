@@ -1,5 +1,7 @@
 # Phase IV (1974)
 
+**Tags:** 🌍 USA | 🎭 Tense | 📚 Horror | 🧬 Evolution, Aliens, Ecology
+
 **Medium:** Film
 **Creator/Author:** Saul Bass (Director), based on a story by Ronald B. Harvey
 

@@ -1,5 +1,7 @@
 # News from Nowhere (1890)
 
+**Tags:** 🌍 UK | 🎭 Optimistic | 📚 Utopia | 🧬 Ecology
+
 **Medium:** Novel
 **Creator/Author:** William Morris
 

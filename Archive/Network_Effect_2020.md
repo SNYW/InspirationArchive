@@ -1,5 +1,7 @@
 # Network Effect (2020)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Hard-SF | 🧬 Sentience, Aliens
+
 **Medium:** Novel
 **Creator/Author:** Martha Wells
 

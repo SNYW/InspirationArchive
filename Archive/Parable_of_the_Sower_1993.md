@@ -1,5 +1,7 @@
 # Parable of the Sower (1993)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Post-Apocalypse | 🧬 Ecology, Rebellion
+
 **Medium:** Novel
 **Creator/Author:** Octavia E. Butler
 

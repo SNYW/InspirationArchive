@@ -1,5 +1,7 @@
 # Norstrilia (1975)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Dystopia | 🧬 Megacorps, Poverty, Evolution
+
 **Medium:** Novel
 **Creator/Author:** Cordwainer Smith (Paul Linebarger)
 

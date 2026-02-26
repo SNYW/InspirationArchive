@@ -1,10 +1,12 @@
 # Mind Game (2004)
 
+**Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, Isolation
+
 **Medium:** Anime Film
 **Creator/Author:** Masaaki Yuasa (Director), Robin Nishi (Original Manga)
 
 ## The Pitch (Non-Spoiler Breakdown)
-Mind Game is a 2004 Japanese adult-animated experimental comedy-drama that tells the story of Nishi, a 20-year-old aspiring manga artist from Osaka who reunites with his childhood crush Myon. What begins as an awkward dinner at her family's yakitori restaurant takes a dark turn when yakuza storm in seeking revenge. After a violent encounter leaves Nishi dead, he finds himself in a surreal limbo where he meets God—a being whose form shifts constantly—who gives him a chance to return to life. The film then transforms into a fantastical survival story as Nishi, Myon, and her sister Yan escape inside the belly of an enormous whale, where they forge an unexpected community. Visually stunning and tonally unpredictable, the film weaves through radically different animation styles as it tells one continuous story of embracing life against impossible odds.
+Mind Game is a 2004 Japanese adult-animated experimental comedy-drama that tells the story of Nishi, a 20-year-old aspiring manga artist from Osaka who reunites with his childhood crush Myon. What begins as an awkward dinner at her family's yakitori restaurant takes a dark turn when yakuza storm in seeking revenge. After a violent encounter leaves Nishi dead, he finds himself in a surreal limbo where he meets God—a being whose form shifts constantly—who gives him a chance to return to life. The film then transforms into a fantastical survival story as Nishi, Myon, and her sister Yan escape inside the belly of an enormous whale, where they forge an unexpected community. Visually stunning and tonally unpredictable, the film weaves through wildly different animation styles as it tells one continuous story of embracing life against impossible odds.
 
 ## The Truth (Full Story Breakdown)
 Nishi is a 20-year-old NEET from Osaka who dreams of becoming a comic book artist but has never taken action on his ambitions. One evening, he unexpectedly runs into Myon, his childhood crush, on the subway. She recognizes him and invites him to her family's yakitori restaurant, where he meets her father, her elder sister Yan, and her fiancé Ryo.

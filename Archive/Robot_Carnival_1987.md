@@ -1,5 +1,7 @@
 # Robot Carnival (1987)
 
+**Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience
+
 **Medium:** Anime / OVA Film
 **Creator/Author:** Multiple Directors (Katsuhiro Otomo, Koji Morimoto, Hidetoshi Ōmori, and others)
 

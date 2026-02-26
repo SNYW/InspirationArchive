@@ -1,5 +1,7 @@
 # Roadside Picnic (1972)
 
+**Tags:** 🌍 Russia | 🎭 Gritty | 📚 Dystopia | 🧬 Aliens, Exploration, Memory
+
 **Medium:** Novel
 **Creator/Author:** Arkady and Boris Strugatsky
 

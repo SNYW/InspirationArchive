@@ -1,5 +1,7 @@
 # Permutation City (1994)
 
+**Tags:** 🌍 Australia | 🎭 Cerebral | 📚 Hard-SF | 🧬 VR, Transhumanism, Evolution
+
 **Medium:** Novel
 **Creator/Author:** Greg Egan (Australian)
 

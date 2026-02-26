@@ -1,5 +1,7 @@
 # Quintet (1979)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬
+
 **Medium:** Film
 **Creator/Author:** Robert Altman
 
