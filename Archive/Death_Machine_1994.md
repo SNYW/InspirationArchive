@@ -1,5 +1,7 @@
 # Death Machine (1994)
 
+**Tags:** 🌍 Multinational | 🎭 Gritty | 📚 Cyberpunk, Horror | 🧬 Megacorps, Cybernetics, Rebellion
+
 **Medium:** Film
 **Creator/Author:** Stephen Norrington (Director/Writer)
 
@@ -18,4 +20,4 @@ Dante broadcasts his demands, wanting reinstatement and "regular interface" with
 In the climax, Dante is trapped in Vault 10 with his own creation—the Warbeast—which begins hunting him down. Cale and the remaining survivor escape as Dante meets his demise at the hands of his weapon.
 
 ## The Core (Themes & Meaning)
-Death Machine explores the dangers of unchecked corporate power and the moral bankruptcy of the military-industrial complex. The film critiques how corporations hide behind national security to commit atrocities, and how weapons designers become detached from humanity. The character of Dante represents the archetypal mad scientist—brilliant but psychologically unhinged, creating death machines without regard for human life. The film also touches on themes of corporate espionage, whistleblowing, and the price of technological advancement. With its Cyberpunk aesthetic and practical effects, it stands as a relic of early 90s sci-fi horror—a time when filmmakers could still explore dark technological themes without the CGI saturation that would later dominate the genre.
+Death Machine explores the dangers of unchecked corporate power and the moral bankruptcy of the military-industrial complex. The film critiques how corporations hide behind national security to commit atrocities, and how weapons designers become detached from humanity. The character of Dante represents the archetypal mad scientist—brilliant but psychologically unhinged, creating death machines without regard for human life. The film also touches on corporate espionage, whistleblowing, and the price of technological advancement. With its Cyberpunk aesthetic and practical effects, it stands as a relic of early 90s sci-fi horror—a time when filmmakers could still explore dark technological themes without the CGI saturation that would later dominate the genre.
