@@ -1,5 +1,7 @@
 # The Man Who Haunted Himself (1970)
 
+**Tags:** 🌍 UK | 🎭 Tense, Cerebral | 📚 Science-Fantasy | 🧬 Sentience, Memory, Isolation
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Basil Dearden; Based on the novel "The Strange Case of Mr Pelham" by Anthony Armstrong
@@ -12,7 +14,7 @@ When business executive Harold Pelham survives a near-fatal car crash, he return
 
 Harold Pelham is a successful director at Freeman, Pelham & Dawson, a marine technology company. One day, while driving home from his London office, he suddenly imagines himself in a different car and crashes horrifically. On the operating table, he briefly dies, and the monitor shows two heartbeats before he is revived.
 
-After recovering, Harold notices odd things happening—people act strangely around him, and he finds himself accused of behavior he can't recall. His wife mentions a mysterious silver car parked outside their home. At work, he discovers he's been secretly supporting a merger he now opposes. Friends and colleagues claim they've seen him at places he never visited, doing things he has no memory of.
+After recovering, Harold notices odd things happening—people act strangely around him, and he finds himself accused of behavior he can't recall. His wife mentions a mysterious silver car parked outside their home. At work, he's been secretly supporting a merger he now opposes. Friends and colleagues claim they've seen him at places he never visited, doing things he has no memory of.
 
 Harold confronts an executive from the rival company, who reminds him of three secret meetings they supposedly had—including at the London Planetarium and in a boat on The Serpentine. Someone is masquerading as him, conducting clandestine affairs and business dealings.
 
