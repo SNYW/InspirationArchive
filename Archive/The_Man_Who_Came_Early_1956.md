@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Satirical | 📚 Time-Travel | 🧬 Time-Travel
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 50
 **Author:** Poul Anderson
 
 ## The Pitch (Non-Spoiler Breakdown)

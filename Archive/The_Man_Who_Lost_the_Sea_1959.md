@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Memory, Isolation
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 50
 
 **Creator/Author:** Theodore Sturgeon
 

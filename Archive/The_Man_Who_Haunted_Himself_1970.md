@@ -3,8 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Tense, Cerebral | 📚 Science-Fantasy | 🧬 Sentience, Memory, Isolation
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 50
 
 **Creator/Author:** Directed by Basil Dearden; Based on the novel "The Strange Case of Mr Pelham" by Anthony Armstrong
 
