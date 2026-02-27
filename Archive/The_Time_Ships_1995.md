@@ -3,6 +3,8 @@
 
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Stephen Baxter
 
 ## The Pitch (Non-Spoiler Breakdown)

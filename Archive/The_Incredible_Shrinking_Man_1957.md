@@ -1,7 +1,10 @@
 # The Incredible Shrinking Man (1957)
 
-**Medium:** Film
+**Tags:** 🌍 USA | 🎭 Philosophical | 📚 Science-Fantasy | 🧬 Isolation, Sentience
 
+**Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Jack Arnold (Director), Richard Matheson (Screenplay/Novel)
 
 ## The Pitch
