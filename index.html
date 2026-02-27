@@ -37,6 +37,7 @@
             --med-film: #ff4a8a;
             --med-animated: #39ff14;
             --med-comic: #ffaa00;
+            --med-game: #b829ff; /* Added Game Color (Neon Purple) */
         }
         
         [data-theme="light"] {
@@ -57,6 +58,7 @@
             --med-film: #d9004c;
             --med-animated: #009900;
             --med-comic: #cc6600;
+            --med-game: #720e9e; /* Added Game Color Light */
         }
         
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -210,6 +212,7 @@
                 <button class="filter-btn" data-filter="Manga">Manga</button>
                 <button class="filter-btn" data-filter="Film">Films</button>
                 <button class="filter-btn" data-filter="Anime">Anime</button>
+                <button class="filter-btn" data-filter="Game">Games</button>
             </div>
             <div class="tag-filters">
                 <div class="tag-select-group"><label>Origin</label><select id="countryFilter" class="tag-select" onchange="loadMedia()"><option value="all">Global</option></select></div>
@@ -282,12 +285,15 @@ const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new S
 
 function getMoodColorVar(mood) { const m = mood.toLowerCase(); if (['optimistic','pessimistic','melancholic','surreal','tense','gritty','satirical','cerebral','eerie'].includes(m)) return 'var(--mood-' + m + ')'; return 'var(--mood-unknown)'; }
 function getMoodHexForPlaceholder(mood) { const map = {'optimistic':'ffd700','pessimistic':'ff4a4a','melancholic':'4169e1','surreal':'d255ff','tense':'ff8800','gritty':'b87333','satirical':'ccff00','cerebral':'00e5ff','eerie':'a3ccaa'}; return map[mood.toLowerCase()] || '555555'; }
+
 function getMediumColorVar(medium) { 
     const m = medium.toLowerCase(); 
     if (m.includes('manga') || m.includes('comic') || m.includes('graphic')) return 'var(--med-comic)'; 
     if (m.includes('novel') || m.includes('story')) return 'var(--med-written)'; 
     if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)'; 
     if (m.includes('film') || m.includes('movie')) return 'var(--med-film)'; 
+    // Added Support for Game Media Colors
+    if (m.includes('game') || m.includes('interactive')) return 'var(--med-game)'; 
     return 'var(--accent)'; 
 }
 
@@ -466,7 +472,7 @@ function loadMedia() {
             if (mf === 'Novel') {
                 if (!m.medium.includes('Novel') || m.medium.includes('Graphic') || m.medium.includes('Visual')) return false;
             } else {
-                if (!m.medium.includes(mf)) return false;
+                if (!m.medium.includes(mf)) return false; 
             }
         }
         
