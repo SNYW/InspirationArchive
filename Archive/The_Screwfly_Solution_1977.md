@@ -3,6 +3,8 @@
 
 
 **Medium:** Novella
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Raccoona Sheldon (Alice Sheldon)
 
 ## The Pitch (Non-Spoiler Breakdown)

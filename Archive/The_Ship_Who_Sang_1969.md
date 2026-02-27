@@ -3,6 +3,8 @@
 
 
 **Medium:** Novel / Short Story Collection
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Anne McCaffrey
 
 ## The Pitch (Non-Spoiler Breakdown)

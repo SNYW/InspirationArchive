@@ -1,5 +1,7 @@
 # Wicked City (1987)
 
+**Tags:** 🌍 Japan | 🎭 Gritty, Tense | 📚 Noir, Science-Fantasy | 🧬 Identity, Rebellion, Violence
+
 **Medium:** Anime (OVA)
 
 **Creator/Author:** Yoshiaki Kawajiri (Director), Based on "Wicked City: Black Guard" by Hideyuki Kikuchi

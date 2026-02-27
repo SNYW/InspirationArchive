@@ -3,6 +3,8 @@
 
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Author:** Suzanne Palmer
 
 ## The Pitch (Non-Spoiler Breakdown)

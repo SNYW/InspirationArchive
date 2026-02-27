@@ -3,6 +3,8 @@
 **Tags:** 🌍 Multinational | 🎭 Melancholic | 📚 Post-Apocalypse | 🧬 Isolation, Exploration
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Geoff Murphy (Director), Based on novel by Craig Harrison
 
 ## The Pitch (Non-Spoiler Breakdown)
