@@ -126,12 +126,12 @@
         
         .hero-info-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
         .hero-info-header .year { color: var(--text-muted); font-size: 1.1rem; font-weight: 600; }
-        .hero-info h2 { font-family: 'Michroma', sans-serif; font-size: 2.8rem; color: var(--text); margin-bottom: 1rem; line-height: 1.1; }
+        .hero-info h2 { font-family: 'Michroma', sans-serif; font-size: 2.8rem; color: var(--text); margin-bottom: 0.5rem; line-height: 1.1; }
         
         .hero-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
         .hero-tag { background: var(--glass-bg); border: 1px solid var(--border); color: var(--text-muted); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; backdrop-filter: blur(4px); }
         
-        .hero-info .pitch { font-size: 1.15rem; color: var(--text); max-width: 800px; font-weight: 300;}
+        .hero-info .pitch { font-size: 1.15rem; color: var(--text); max-width: 800px; font-weight: 300; margin-top: 0.5rem;}
         
         /* --- GRID CARDS --- */
         .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 2rem; }
@@ -159,7 +159,7 @@
         .modal-close { position: absolute; top: 1.5rem; right: 2rem; background: var(--border); border: none; color: var(--text); width: 40px; height: 40px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; z-index: 10; }
         .modal-close:hover { background: var(--accent); color: #fff; transform: scale(1.1); }
         .modal h2 { font-family: 'Michroma', sans-serif; color: var(--text); margin-bottom: 0.5rem; font-size: 2.2rem; line-height: 1.2;}
-        .modal h3 { color: var(--accent); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 1rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; margin-top: 2.5rem; }
+        .modal h3 { color: var(--accent); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 1rem; padding-bottom: 0.5rem; margin-top: 2.5rem; }
         .modal p { font-size: 1.05rem; color: var(--text-muted); margin-bottom: 1.5rem; font-weight: 300; line-height: 1.7;}
         .modal strong { color: var(--text); font-weight: 600; }
 
@@ -265,14 +265,12 @@ function initTheme() { const saved = localStorage.getItem('archive-theme') || 'd
 function toggleTheme() { const current = document.documentElement.getAttribute('data-theme'); if (current === 'light') { document.documentElement.removeAttribute('data-theme'); localStorage.setItem('archive-theme', 'dark'); document.getElementById('themeBtn').innerText = '☀ Light Mode'; } else { document.documentElement.setAttribute('data-theme', 'light'); localStorage.setItem('archive-theme', 'light'); document.getElementById('themeBtn').innerText = '☾ Dark Mode'; } }
 initTheme();
 
-// Handle Collapsible Filters
 function toggleFilters() {
     const collapsible = document.getElementById('filterCollapsible');
     const btn = document.getElementById('filterToggleBtn');
     collapsible.classList.toggle('collapsed');
     btn.classList.toggle('active');
 }
-// Auto-collapse on small screens
 if (window.innerWidth <= 768) {
     document.getElementById('filterCollapsible').classList.add('collapsed');
 } else {
@@ -296,7 +294,7 @@ function getMediumColorVar(medium) {
 function generateMetricsHtml(m) {
     if (m.rating === null && m.ratingsCount === null) return ''; 
     
-    let html = '<div class="badge-row">';
+    let html = '<div class="badge-row" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">';
     if (m.rating !== null) {
         html += `<span class="metric-badge"><span class="metric-icon">★</span> ${m.rating.toFixed(1)}</span>`;
     }
@@ -422,19 +420,19 @@ function updateHero() {
         
         let allTags = [...r.tags.country,...r.tags.mood,...r.tags.genre,...r.tags.topic]; 
         allTags = [...new Set(allTags)]; 
-        let tagsHtml = '<div class="hero-tags">' + allTags.map(t => '<span class="hero-tag">'+t+'</span>').join('') + '</div>'; 
+        let tagsHtml = allTags.length > 0 ? '<div class="hero-tags" style="margin-top: 0.5rem; margin-bottom: 1rem;">' + allTags.map(t => '<span class="hero-tag">'+t+'</span>').join('') + '</div>' : ''; 
         
         h.innerHTML=`
             <img class="hero-poster" src="${r.image}" onerror="this.onerror=null;this.src='${fb}'" alt="${r.title} Poster">
             <div class="hero-info">
                 <div class="hero-info-header">
-                    <span class="medium-badge">${r.medium}</span>
+                    <span class="medium-badge" style="margin-bottom:0;">${r.medium}</span>
                     <span class="year">${r.year}</span>
                 </div>
-                <h2>${r.title}</h2>
+                <h2 style="margin-top: 0.5rem; margin-bottom: 0;">${r.title}</h2>
                 ${generateMetricsHtml(r)}
                 ${tagsHtml}
-                <p class="pitch">${r.pitch}</p>
+                <p class="pitch" style="margin-top: 0.5rem;">${r.pitch}</p>
             </div>
         `; 
         h.onclick=()=>openModal(r); h.classList.remove('fade-out'); 
@@ -511,14 +509,33 @@ function openModal(mObj) {
     const m=document.getElementById('modal'),i=document.getElementById('modalImg'),s=encodeURIComponent(mObj.title).replace(/'/g,"%27"),mdC=getMediumColorVar(mObj.medium); 
     m.style.setProperty('--theme-med',mdC); m.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)'); 
     i.src=mObj.image; const pm=mObj.tags.mood[0]||'Unknown'; i.onerror=function(){this.onerror=null;this.src='https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;}; 
-    let t=mObj.content.replace(/^# (.+)$/gm,'<h2>$1</h2>').replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
+    
+    // Scrub the duplicate data out of the raw markdown text so it doesn't render twice!
+    let cleanContent = mObj.content
+        .replace(/^#\s+.+$/gm, '') // Strip H1 title
+        .replace(/\*\*Medium:\*\*\s*.+/gi, '') // Strip Medium
+        .replace(/\*\*Raw Score:\*\*\s*.+/gi, '') // Strip Raw Score
+        .replace(/\*\*Total Ratings:\*\*\s*.+/gi, '') // Strip Ratings
+        .replace(/\*\*Tags?[\*:\s]*(.+?)$/gmi, '') // Strip Tags
+        .trim();
+
+    let t=cleanContent.replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
+    
+    let allTags = [...mObj.tags.country,...mObj.tags.mood,...mObj.tags.genre,...mObj.tags.topic]; 
+    allTags = [...new Set(allTags)]; 
+    let tagsHtml = allTags.length > 0 ? '<div class="hero-tags" style="margin-top: 0.5rem; margin-bottom: 0;">' + allTags.map(tag => '<span class="hero-tag">'+tag+'</span>').join('') + '</div>' : '';
     
     document.getElementById('modalBody').innerHTML=`
-        <div class="badge-row">
+        <div class="hero-info-header" style="margin-bottom: 0.5rem;">
             <span class="medium-badge" style="margin-bottom:0;">${mObj.medium}</span>
-            ${generateMetricsHtml(mObj)}
+            <span class="year" style="color: var(--text-muted); font-weight: 600;">${mObj.year}</span>
         </div>
-        ${t}
+        <h2 style="margin-top: 0; margin-bottom: 0.25rem;">${mObj.title}</h2>
+        ${generateMetricsHtml(mObj)}
+        ${tagsHtml}
+        <div style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
+            ${t}
+        </div>
     `; 
     m.classList.add('open'); 
 }
