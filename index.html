@@ -158,10 +158,12 @@
     
     <div class="control-center">
         <div class="search-container"><input type="text" id="searchInput" class="search-input" placeholder="Search the archive..." onkeyup="loadMedia()"></div>
-        <div class="filters">
+       <div class="filters">
             <button class="filter-btn active" data-filter="all">All Visions</button>
             <button class="filter-btn" data-filter="Novel">Novels</button>
             <button class="filter-btn" data-filter="Short Story">Short Stories</button>
+            <button class="filter-btn" data-filter="Graphic Novel">Graphic Novels</button>
+            <button class="filter-btn" data-filter="Manga">Manga</button>
             <button class="filter-btn" data-filter="Film">Films</button>
             <button class="filter-btn" data-filter="Anime">Anime</button>
         </div>
@@ -202,7 +204,15 @@ const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new S
 
 function getMoodColorVar(mood) { const m = mood.toLowerCase(); if (['optimistic','pessimistic','melancholic','surreal','tense','gritty','satirical','cerebral','eerie'].includes(m)) return 'var(--mood-' + m + ')'; return 'var(--mood-unknown)'; }
 function getMoodHexForPlaceholder(mood) { const map = {'optimistic':'ffd700','pessimistic':'ff4a4a','melancholic':'4169e1','surreal':'d255ff','tense':'ff8800','gritty':'b87333','satirical':'ccff00','cerebral':'00e5ff','eerie':'a3ccaa'}; return map[mood.toLowerCase()] || '555555'; }
-function getMediumColorVar(medium) { const m = medium.toLowerCase(); if (m.includes('novel') || m.includes('story')) return 'var(--med-written)'; if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)'; if (m.includes('comic') || m.includes('graphic')) return 'var(--med-comic)'; if (m.includes('film') || m.includes('movie')) return 'var(--med-film)'; return 'var(--accent)'; }
+function getMediumColorVar(medium) { 
+    const m = medium.toLowerCase(); 
+    // Check for visual mediums first!
+    if (m.includes('manga') || m.includes('comic') || m.includes('graphic')) return 'var(--med-comic)'; 
+    if (m.includes('novel') || m.includes('story')) return 'var(--med-written)'; 
+    if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)'; 
+    if (m.includes('film') || m.includes('movie')) return 'var(--med-film)'; 
+    return 'var(--accent)'; 
+}
 
 function parseMarkdownFile(filename, content) {
     let title = filename.replace('.md', '').replace(/_/g, ' '), year = '', medium = 'Unknown', pitch = 'No description available.', tags = { country: [], mood: [], genre: [], topic: [] };
@@ -280,11 +290,21 @@ function loadMedia() {
     const cf = document.getElementById('countryFilter').value, uf = document.getElementById('moodFilter').value, gf = document.getElementById('genreFilter').value, tf = document.getElementById('topicFilter').value; 
     const sq = document.getElementById('searchInput').value.toLowerCase(); 
     const fl = media.filter(m => { 
-        if(mf!=='all'&&!m.medium.includes(mf))return false; if(cf!=='all'&&!m.tags.country.includes(cf))return false; 
-        if(uf!=='all'&&!m.tags.mood.includes(uf))return false; if(gf!=='all'&&!m.tags.genre.includes(gf))return false; 
+        if(mf !== 'all') {
+            if (mf === 'Novel') {
+                // Strict check: It must contain 'Novel' but NOT 'Graphic' or 'Visual'
+                if (!m.medium.includes('Novel') || m.medium.includes('Graphic') || m.medium.includes('Visual')) return false;
+            } else {
+                if (!m.medium.includes(mf)) return false;
+            }
+        }
+        if(cf!=='all'&&!m.tags.country.includes(cf))return false; 
+        if(uf!=='all'&&!m.tags.mood.includes(uf))return false; 
+        if(gf!=='all'&&!m.tags.genre.includes(gf))return false; 
         if(tf!=='all'&&!m.tags.topic.includes(tf))return false; 
-        if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; return true; 
-    }); 
+        if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
+        return true; 
+    });
     currentFilteredMedia=fl; 
     if(!fl.length){h.classList.add('hidden');g.innerHTML='<div class="loading">No visions match these parameters.</div>';return;} 
     if(sq.length>0)h.classList.add('hidden'); else{h.classList.remove('hidden');updateHero();if(heroInterval)clearInterval(heroInterval);heroInterval=setInterval(updateHero,60000);} 
