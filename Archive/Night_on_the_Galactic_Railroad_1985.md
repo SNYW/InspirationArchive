@@ -1,5 +1,7 @@
 # Night on the Galactic Railroad (1985)
 
+**Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Religion, Exploration
+
 **Medium:** Animated Film
 
 **Creator/Author:** Gisaburo Sugii (Director), based on the novel by Kenji Miyazawa
@@ -26,6 +28,6 @@ Night on the Galactic Railroad is a profound exploration of Buddhist and Christi
 
 The film transforms the human characters into anthropomorphic cats—a stylistic choice that simultaneously distances and universalizes the story. The Esperanto text throughout (an homage to Miyazawa, who was a proponent of the language) creates a dreamlike, universal atmosphere.
 
-The central theme revolves around Giovanni's coming-of-age understanding that true happiness comes not from personal gain or reunion with his father, but from the willingness to sacrifice oneself for others—mirroring the scorpion's eternal flame in Scorpius. The ambiguous ending suggests Campanella has achieved transcendence through his act of sacrifice, while Giovanni must carry forward the lessons of their journey by living a life dedicated to others' happiness.
+The central theme revolves on Giovanni's coming-of-age understanding that true happiness comes not from personal gain or reunion with his father, but from the willingness to sacrifice oneself for others—mirroring the scorpion's eternal flame in Scorpius. The ambiguous ending suggests Campanella has achieved transcendence through his act of sacrifice, while Giovanni must carry forward the lessons of their journey by living a life dedicated to others' happiness.
 
 The film also explores the nature of reality versus dream, as Giovanni's galactic journey may be interpreted as a mystical experience, a death fantasy, or a literal otherworldly adventure—never fully resolving which interpretation is "correct."
