@@ -3,6 +3,8 @@
 
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Leigh Brackett
 
 ## The Pitch (Non-Spoiler Breakdown)

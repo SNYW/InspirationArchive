@@ -3,6 +3,8 @@
 
 
 **Medium:** Novel/Children's Science Fiction
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Robert C. O'Brien
 
 ## The Pitch (Non-Spoiler Breakdown)

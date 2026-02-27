@@ -1,6 +1,8 @@
 # Koi... Mil Gaya (2003)
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Rakesh Roshan (Director/Producer), Story by Rakesh Roshan
 
