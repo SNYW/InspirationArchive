@@ -1,5 +1,7 @@
 # Bubblegum Crisis (1987)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Cybernetics, Rebellion
+
 **Medium:** Anime
 
 **Creator/Author:** Toshimichi Suzuki
