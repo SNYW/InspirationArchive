@@ -2,8 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Evolution, Sentience
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.55
+**Total Ratings:** 6318
 **Creator/Author:** Samuel R. Delany
 
 ## The Pitch (Non-Spoiler Breakdown)
