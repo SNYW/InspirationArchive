@@ -1,5 +1,7 @@
 # The World of Edena (1983)
 
+**Tags:** 🌍 France | 🎭 Cerebral | 📚 Space-Opera | 🧬 Exploration, Evolution, Sentience
+
 **Medium:** Graphic Novel / Bande Dessinée
 
 **Creator/Author:** Jean "Mœbius" Giraud

@@ -1,5 +1,7 @@
 # Threads (1984)
 
+**Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Ecology, Isolation, Pandemic
+
 **Medium:** Film
 **Creator/Author:** Directed by Mick Jackson, Written by Barry Hines
 

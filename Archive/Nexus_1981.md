@@ -1,5 +1,7 @@
 # Nexus (1981)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Science-Fantasy | 🧬 Sentience, Rebellion, Isolation
+
 **Medium:** Graphic Novel
 
 **Creator/Author:** Mike Baron (Writer) & Steve Rude (Artist)
