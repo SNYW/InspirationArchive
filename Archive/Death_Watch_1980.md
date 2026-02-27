@@ -1,5 +1,7 @@
 # Death Watch (1980)
 
+**Tags:** 🌍 France | 🎭 Gritty | 📚 Dystopia | 🧬 Megacorps, Cybernetics, Isolation
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Bertrand Tavernier; Based on "The Unsleeping Eye" (1973) by David G. Compton
