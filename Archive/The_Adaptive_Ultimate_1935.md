@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Science-Fantasy | 🧬 Evolution, Transhumanism, Isolation
 
 **Medium:** Short Story
-**Raw Score:** N/A
+**Raw Score:** 3.0/5
 **Total Ratings:** 3
 **Creator/Author:** Stanley G. Weinbaum
 

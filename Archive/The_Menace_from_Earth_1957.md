@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Exploration, Aliens
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 50
 
 **Creator/Author:** Robert A. Heinlein
 

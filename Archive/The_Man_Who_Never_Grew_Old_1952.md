@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Transhumanism, Isolation
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 25
 
 **Creator/Author:** C.M. Kornbluth
 

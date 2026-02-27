@@ -2,8 +2,8 @@
 **Tags:** 🌍 France | 🎭 Cerebral | 📚 Utopia | 🧬 Rebellion, Ecology
 
 **Medium:** Graphic Novel / Bande Dessinée
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 200
 **Creator/Author:** François Schuiten (artist), Benoît Peeters (writer)
 
 ## The Pitch (Non-Spoiler Breakdown)

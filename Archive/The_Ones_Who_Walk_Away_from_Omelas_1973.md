@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Melancholic, Cerebral | 📚 Dystopia | 🧬 Sentience, Poverty
 
 **Medium:** Short Story
-**Raw Score:** N/A
+**Raw Score:** 4.0/5
 **Total Ratings:** 0
 **Creator/Author:** Ursula K. Le Guin
 
