@@ -1,5 +1,7 @@
 # Scanners (1981)
 
+**Tags:** 🌍 Canada | 🎭 Gritty | 📚 Hard-SF, Horror | 🧬 Evolution, Megacorps, Transhumanism
+
 **Medium:** Film
 **Raw Score:** N/A
 **Total Ratings:** 0

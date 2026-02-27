@@ -1,5 +1,7 @@
 # Koi... Mil Gaya (2003)
 
+**Tags:** 🌍 India | 🎭 Optimistic | 📚 Hard-SF | 🧬 Aliens, Sentience, Isolation
+
 **Medium:** Film
 **Raw Score:** N/A
 **Total Ratings:** 0
