@@ -1,8 +1,8 @@
 # The Technopriests (1998)
 
 **Medium:** Graphic Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 100
 **Creator/Author:** Alejandro Jodorowsky (Writer), Zoran Janjetov (Artist)
 
 **Tags:** 🌍 France | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Transhumanism, Religion, Evolution

@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia, Time-Travel | 🧬 Megacorps, Evolution, Rebellion
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 500
 **Creator/Author:** Directed by Henning Schellerup | Based on the novel by H.G. Wells
 
 ## The Pitch

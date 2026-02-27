@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Rebellion, Exploration
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 500
 
 **Creator/Author:** Joanna Russ
 

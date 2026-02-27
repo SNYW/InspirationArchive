@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia | 🧬 Ecology, Rebellion
 
 **Medium:** Novella
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 500
 
 **Author:** Ursula K. Le Guin
 

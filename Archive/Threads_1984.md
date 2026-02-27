@@ -3,8 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Ecology, Isolation, Pandemic
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 500
 
 **Creator/Author:** Directed by Mick Jackson, Written by Barry Hines
 

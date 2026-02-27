@@ -3,8 +3,8 @@
 
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.2/5
+**Total Ratings:** 500
 **Creator/Author:** Ted Chiang
 
 ## The Pitch (Non-Spoiler Breakdown)

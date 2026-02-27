@@ -3,8 +3,8 @@
 **Tags:** 🌍 France | 🎭 Gritty | 📚 Military, Space-Opera, Time-Travel | 🧬 Redemption, War, Humanity's Future
 
 **Medium:** Graphic Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 100
 
 **Creator/Author:** Denis Bajram
 

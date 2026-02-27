@@ -3,8 +3,8 @@
 
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.75/5
+**Total Ratings:** 500
 **Creator/Author:** Joan D. Vinge
 
 ## The Pitch (Non-Spoiler Breakdown)

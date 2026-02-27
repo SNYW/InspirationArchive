@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Tense | 📚 Hard-SF | 🧬 Isolation, Evolution
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 25
 
 **Creator/Author:** Cordwainer Smith
 

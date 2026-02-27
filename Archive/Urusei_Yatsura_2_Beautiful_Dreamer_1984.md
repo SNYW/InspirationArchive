@@ -3,8 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 VR, Memory
 
 **Medium:** Anime Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 200
 
 **Creator:** Mamoru Oshii (Director), Rumiko Takahashi (Original Manga)
 

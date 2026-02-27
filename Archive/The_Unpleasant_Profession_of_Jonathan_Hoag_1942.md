@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 VR, Memory, Religion
 
 **Medium:** Short Story / Novella
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.0/5
+**Total Ratings:** 100
 
 **Creator/Author:** Robert A. Heinlein (as "John Riverside")
 

@@ -3,8 +3,8 @@
 **Tags:** 🌍 Multinational | 🎭 Gritty | 📚 Post-Apocalypse | 🧬 Religion, Ecology
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.0/5
+**Total Ratings:** 50
 
 **Creator/Author:** Enzo G. Castellari (Director), Tito Carpi (Writer)
 

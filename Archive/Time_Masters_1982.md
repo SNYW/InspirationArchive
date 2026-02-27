@@ -3,8 +3,8 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera | 🧬 Time-Travel, Exploration
 
 **Medium:** Animated Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 100
 
 **Creator/Author:** René Laloux (Director), Mœbius (Art Designer)
 

@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Dystopia | 🧬 Ecology, Isolation, Transhumanism
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 100
 
 **Creator/Author:** Robert Silverberg
 
