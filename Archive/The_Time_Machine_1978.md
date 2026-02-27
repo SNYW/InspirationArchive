@@ -1,5 +1,7 @@
 # The Time Machine (1978)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia, Time-Travel | 🧬 Megacorps, Evolution, Rebellion
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Henning Schellerup | Based on the novel by H.G. Wells
