@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 VR, Megacorps
 
 **Medium:** Film
+**Raw Score:** 7.2/10
+**Total Ratings:** 85000
 **Director:** Kathryn Bigelow
 
 ## The Pitch (Non-Spoiler Breakdown)

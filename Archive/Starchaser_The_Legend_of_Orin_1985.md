@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Science-Fantasy | 🧬 Technology, Rebellion
 
 **Medium:** Animated Film
+**Raw Score:** 6.5/10
+**Total Ratings:** 2800
 
 **Creator/Author:** Steven Hahn (Director), Jeffrey Scott (Writer)
 
