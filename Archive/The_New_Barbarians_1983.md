@@ -1,5 +1,7 @@
 # The New Barbarians (1983)
 
+**Tags:** 🌍 Multinational | 🎭 Gritty | 📚 Post-Apocalypse | 🧬 Religion, Ecology
+
 **Medium:** Film
 
 **Creator/Author:** Enzo G. Castellari (Director), Tito Carpi (Writer)
