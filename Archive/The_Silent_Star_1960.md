@@ -1,8 +1,8 @@
 # The Silent Star (1960)
 
+**Tags:** 🌍 Poland | 🎭 Tense | 📚 Space-Opera | 🧬 Aliens, Exploration, Evolution
+
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
 
 **Creator/Author:** Kurt Maetzig (Director)
 
