@@ -399,9 +399,18 @@ async function loadMediaList() {
         const r = await fetch('https://api.github.com/repos/SNYW/InspirationArchive/contents/Archive'); 
         const f = await r.json(); 
         if(!Array.isArray(f)) throw new Error(f.message||"Could not read repo"); 
-        const md = f.filter(x=>x.name.endsWith('.md')).sort((a,b)=>a.name.localeCompare(b.name)); 
+        
+        const md = f.filter(x=>x.name.endsWith('.md')); 
         media = (await Promise.all(md.map(async x=>{try{const res=await fetch(x.download_url);return parseMarkdownFile(x.name,await res.text());}catch{return null}}))).filter(x=>x); 
+        
         if(!media.length){g.innerHTML='<div class="loading error-message">Archive is empty.</div>';return;} 
+        
+        // Randomize the load order!
+        for (let i = media.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [media[i], media[j]] = [media[j], media[i]];
+        }
+        
         currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); loadMedia(); 
     }catch(e){g.innerHTML='<div class="loading error-message">Connection Error:<br>'+e.message+'</div>';} 
 }
@@ -510,7 +519,7 @@ function openModal(mObj) {
     m.style.setProperty('--theme-med',mdC); m.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)'); 
     i.src=mObj.image; const pm=mObj.tags.mood[0]||'Unknown'; i.onerror=function(){this.onerror=null;this.src='https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;}; 
     
-    // Scrub the duplicate data out of the raw markdown text so it doesn't render twice!
+    // Scrub the duplicate data out of the raw markdown text
     let cleanContent = mObj.content
         .replace(/^#\s+.+$/gm, '') // Strip H1 title
         .replace(/\*\*Medium:\*\*\s*.+/gi, '') // Strip Medium
