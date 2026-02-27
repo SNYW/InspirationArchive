@@ -2,6 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Evolution, Transhumanism
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Howard Fast
 
 ## The Pitch (Non-Spoiler Breakdown)

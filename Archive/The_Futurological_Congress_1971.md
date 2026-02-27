@@ -3,6 +3,8 @@
 **Tags:** 🌍 Poland | 🎭 Satirical, Surreal | 📚 Dystopia | 🧬 Ecology, VR
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Stanisław Lem
 
 ## The Pitch (Non-Spoiler Breakdown)
@@ -25,7 +27,7 @@ Tichy awakens in the year 2039—a world that appears genuinely utopian. Money n
 
 When Tichy confides his discomfort to professor Trottelreiner, he learns that the hallucinogens he's tired of are nothing compared to "mascons"—powerful drugs that mask entire swaths of reality. The professor gives him "up'n'at'm," a powerful countersomniac that allows the user to see reality as it truly is.
 
-With his first sniff, Tichy watches his gilded restaurant surroundings evaporate into a dingy concrete bunker. Through successive doses, he sees the horrifying truth: the beautiful future world is an illusion. People don't drive cars or use elevators—they run in streets and climb elevator shafts because the buildings are empty concrete shells. Robots that appear to maintain order are actually humans convinced they're robots. The temperature has dropped four degrees—glaciers are advancing, and the elite are hiding this from everyone.
+With his first sniff, Tichy watches his gilded restaurant surroundings evaporate into a dingy concrete bunker. Through successive doses, he sees the horrifying truth: the beautiful future world is an illusion. People don't drive cars or use elevators—they run in streets and climb elevator shafts empty concrete shells. because the buildings are Robots that appear to maintain order are actually humans convinced they're robots. The temperature has dropped four degrees—glaciers are advancing, and the elite are hiding this from everyone.
 
 In the final revelation, Tichy learns that the world has 69 billion inhabitants "legally registered" and approximately 26 billion "in hiding." The glaciers are coming, and the only solution the powers that be have found is to keep everyone drugged and delusional.
 

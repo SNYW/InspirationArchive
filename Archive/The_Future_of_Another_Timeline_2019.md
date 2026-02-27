@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Tense, Cerebral | 📚 Time-Travel, Dystopia | 🧬 Time-Travel, Rebellion
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Annalee Newitz
 
 ## The Pitch (Non-Spoiler Breakdown)

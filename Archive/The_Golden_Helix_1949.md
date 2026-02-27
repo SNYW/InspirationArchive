@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy, Biopunk | 🧬 Evolution, Aliens
 
 **Medium:** Novella
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Theodore Sturgeon
 
 ## The Pitch (Non-Spoiler Breakdown)
