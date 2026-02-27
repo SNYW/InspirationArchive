@@ -1,5 +1,7 @@
 # Sukeban Deka (1991)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Noir, Dystopia | 🧬 Rebellion, Isolation, Poverty
+
 **Medium:** OVA (Original Video Animation) / Anime
 
 **Creator/Author:** Based on manga by Shinji Wada; Directed by Hirota Takeshi; Produced by Kazuyoshi Hirose; Studio: Sido Limited
