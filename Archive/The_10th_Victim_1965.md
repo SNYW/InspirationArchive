@@ -1,5 +1,7 @@
 # The 10th Victim (1965)
 
+**Tags:** 🌍 Italy | 🎭 Satirical | 📚 Dystopia | 🧬 Violence as Entertainment, Media Critique, Corporate Sponsorship, Love vs System
+
 **Medium:** Film
 
 **Creator/Author:** Elio Petri (Director), based on "Seventh Victim" by Robert Sheckley
