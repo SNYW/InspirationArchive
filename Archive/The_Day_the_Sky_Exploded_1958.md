@@ -1,5 +1,7 @@
 # The Day the Sky Exploded (1958)
 
+**Tags:** 🌍 Italy | 🎭 Pessimistic | 📚 Hard-SF, Dystopia | 🧬 Exploration, Ecology, Religion
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Paolo Heusch and Mario Bava
