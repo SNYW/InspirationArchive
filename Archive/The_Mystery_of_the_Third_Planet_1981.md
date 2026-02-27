@@ -3,6 +3,8 @@
 **Tags:** 🌍 Russia | 🎭 Optimistic | 📚 Space-Opera | 🧬 Exploration, Aliens
 
 **Medium:** Animated Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Directed by Roman Kachanov; Based on "Alisa's Travel" by Kir Bulychev
 

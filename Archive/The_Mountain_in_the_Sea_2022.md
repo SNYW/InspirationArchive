@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Aliens, Evolution
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Ray Nayler
 
 ## The Pitch (Non-Spoiler Breakdown)

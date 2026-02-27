@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Dystopia | 🧬 Ecology, Pandemic
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Kim Stanley Robinson
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Satirical | 📚 Dystopia | 🧬 Poverty
 
 **Medium:** Novella / Short Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Frederik Pohl
 
 ## The Pitch (Non-Spoiler Breakdown)
