@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Tense | 📚 Hard-SF | 🧬 Rebellion, Sentience
 
 **Medium:** Graphic Novel
+**Raw Score:** 4.09/5
+**Total Ratings:** 64
 
 **Creator/Author:** Bryan Talbot
 

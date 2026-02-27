@@ -3,6 +3,8 @@
 **Tags:** 🌍 Russia | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Aliens, Exploration, Isolation
 
 **Medium:** Film
+**Raw Score:** 5.5/10
+**Total Ratings:** 10385
 
 **Creator/Author:** Yevgeni Sherstobitov (Director), Ivan Yefremov (Novel Source)
 

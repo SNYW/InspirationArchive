@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Noir | 🧬 Sentience, VR, Memory
 
 **Medium:** Short Story Collection
+**Raw Score:** 4.08/5
+**Total Ratings:** 575
 **Creator/Author:** John Varley
 
 ## The Pitch (Non-Spoiler Breakdown)

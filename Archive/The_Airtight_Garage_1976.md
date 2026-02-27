@@ -3,6 +3,8 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 VR, Time-Travel, Exploration
 
 **Medium:** Graphic Novel / Comic
+**Raw Score:** 4.16/5
+**Total Ratings:** 1457
 **Creator/Author:** Jean "Moebius" Giraud
 
 ## The Pitch (Non-Spoiler Breakdown)
