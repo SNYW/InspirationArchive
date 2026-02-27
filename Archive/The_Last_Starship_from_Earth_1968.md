@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Dystopia, Time-Travel | 🧬 Religion, Time-Travel
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Author:** John Boyd
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Philosophical | 📚 Science-Fantasy | 🧬 Memory, Isolation, Identity
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Stanley Donen (Director), Alan Jay Lerner (Screenplay), Antoine de Saint-Exupéry (Original Book)
 

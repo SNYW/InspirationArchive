@@ -3,6 +3,8 @@
 **Tags:** 🌍 Australia | 🎭 Philosophical, Surreal | 📚 Science-Fantasy | 🧬 Religion, Colonialism, Identity
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Peter Weir (Director), Tony Morphett, Petru Popescu (Screenplay)
 
