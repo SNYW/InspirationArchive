@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Aliens, Religion, Ecology
 
 **Medium:** Novel
+**Raw Score:** 3.61/5
+**Total Ratings:** 1898
 **Author:** Michel Faber
 
 ## The Pitch (Non-Spoiler Breakdown)

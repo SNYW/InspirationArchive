@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Cerebral | 📚 Hard-SF | 🧬 Aliens, Sentience
 
 **Medium:** Novel
+**Raw Score:** 3.90/5
+**Total Ratings:** 3237
 **Creator/Author:** Fred Hoyle
 
 ## The Pitch (Non-Spoiler Breakdown)

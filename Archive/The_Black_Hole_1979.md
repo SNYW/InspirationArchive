@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Space-Opera, Horror | 🧬 Sentience, Isolation, Technology
 
 **Medium:** Film
+**Raw Score:** 5.9/10
+**Total Ratings:** 30000
 
 **Creator/Author:** Directed by Gary Nelson
 

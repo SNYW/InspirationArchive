@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Time-Travel | 🧬 Time-Travel, Exploration
 
 **Medium:** Novella
+**Raw Score:** 3.23/5
+**Total Ratings:** 4460
 **Creator/Author:** Fritz Leiber
 
 ## The Pitch (Non-Spoiler Breakdown)

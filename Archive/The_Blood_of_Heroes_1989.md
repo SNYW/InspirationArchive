@@ -3,6 +3,8 @@
 **Tags:** 🌍 Australia | 🎭 Gritty, Optimistic | 📚 Post-Apocalypse | 🧬 Rebellion, Power, Violence as Entertainment
 
 **Medium:** Film
+**Raw Score:** 6.3/10
+**Total Ratings:** 8200
 
 **Creator/Author:** David Webb Peoples (Writer/Director)
 
