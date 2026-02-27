@@ -1,5 +1,7 @@
 # Neo Tokyo (1987)
 
+**Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, VR
+
 **Medium:** Anime Film
 
 **Creator/Author:** Directed by Rintaro, Yoshiaki Kawajiri, and Katsuhiro Otomo
