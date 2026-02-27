@@ -2,6 +2,8 @@
 
 **Medium:** Anime Film
 
+**Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Hard-SF | 🧬 Religion, Redemption, Space Exploration
+
 **Creator/Author:** Hiroyuki Yamaga (Director), Gainax (Studio)
 
 ## The Pitch

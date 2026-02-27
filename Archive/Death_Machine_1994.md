@@ -3,6 +3,8 @@
 **Tags:** 🌍 Multinational | 🎭 Gritty | 📚 Cyberpunk, Horror | 🧬 Megacorps, Cybernetics, Rebellion
 
 **Medium:** Film
+**Raw Score:** 5.6/10
+**Total Ratings:** 5300
 **Creator/Author:** Stephen Norrington (Director/Writer)
 
 ## The Pitch (Non-Spoiler Breakdown)
