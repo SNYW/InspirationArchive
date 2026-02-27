@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Tense | 📚 Space-Opera, Political-Thriller | 🧬 Rebellion, Authoritarianism, Identity, Power
 
 **Medium:** Anime Television Series
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Yoshiyuki Tomino (Creator/Director), Mamoru Nagano (Character & Mecha Design)
 

@@ -1,5 +1,7 @@
 # The Last Wave (1977)
 
+**Tags:** 🌍 Australia | 🎭 Philosophical, Surreal | 📚 Science-Fantasy | 🧬 Religion, Colonialism, Identity
+
 **Medium:** Film
 
 **Creator/Author:** Peter Weir (Director), Tony Morphett, Petru Popescu (Screenplay)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 Poland | 🎭 Cerebral | 📚 Hard-SF | 🧬 Aliens, Sentience, Exploration
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Stanisław Lem (Polish)
 
 ## The Pitch (Non-Spoiler Breakdown)

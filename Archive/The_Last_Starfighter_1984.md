@@ -1,5 +1,7 @@
 # The Last Starfighter (1984)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Adventure | 🧬 Destiny, Belonging, Coming-of-Age
+
 **Medium:** Film
 
 **Creator/Author:** Jonathan R. Betuel (Writer), Nick Castle (Director)

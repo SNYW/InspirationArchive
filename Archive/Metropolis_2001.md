@@ -2,6 +2,8 @@
 
 **Medium:** Anime Film
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Sentience, Rebellion, Megacorps, Identity
+
 **Creator/Author:** Rintaro (Director), Katsuhiro Otomo (Screenplay), Osamu Tezuka (Original Manga)
 
 ## The Pitch
