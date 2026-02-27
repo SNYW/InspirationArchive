@@ -1,5 +1,7 @@
 # Wizards (1977)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Rebellion, Religion, Ecology
+
 **Medium:** Animated Film
 
 **Creator/Author:** Ralph Bakshi
@@ -14,9 +16,9 @@ Earth has been devastated by nuclear war. It takes two million years for the rad
 
 Queen Delia of the fairies gives birth to twin wizards: the kindhearted Avatar and his evil, mutated brother Blackwolf. After Delia's death, Blackwolf attempts to usurp leadership but is defeated in a magical duel by Avatar and exiled from Montagar.
 
-Three thousand years later, Blackwolf leads the dark land of Scortch, where he and his army of mutants salvage and restore ancient technology. He discovers old Nazi propaganda films from World War II and uses them as psychological warfare to inspire his troops and terrorize the enemy.
+Three thousand years later, Blackwolf leads the dark land of Scortch, where he and his army of mutants salvage and restore ancient technology. He discovers old Nazi propaganda films from World War II and uses them as psychological warfare to inspireize the enemy.
 
-Meanwhile, in Montagar, Avatar trains President King's daughter Elinore to become a fairy. The President is assassinated by Necron 99, a robot sent by Blackwolf. Avatar defeats the robot and renames it "Peace," reprogramming it for nonviolence.
+Meanwhile, in Mont his troops and terroragar, Avatar trains President King's daughter Elinore to become a fairy. The President is assassinated by Necron 99, a robot sent by Blackwolf. Avatar defeats the robot and renames it "Peace," reprogramming it for nonviolence.
 
 When Blackwolf's "dream machine"—a projector playing propaganda footage—threatens Montagar, Avatar, Elinore, Peace, and the elf warrior Weehawk set out to destroy it. Their journey leads them through fairy sanctuaries, snowy mountains, and eventually to the heart of Blackwolf's domain.
 
