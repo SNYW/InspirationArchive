@@ -3,6 +3,8 @@
 **Tags:** 🌍 Russia | 🎭 Cerebral | 📚 Dystopia | 🧬 Religion, Memory
 
 **Medium:** Film
+**Raw Score:** 8.0/10
+**Total Ratings:** 156000
 **Creator/Author:** Andrei Tarkovsky (Director), Arkady & Boris Strugatsky (Writers)
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Science-Fantasy | 🧬 Identity, Megacorps, Regret
 
 **Medium:** Film
+**Raw Score:** 7.6/10
+**Total Ratings:** 25000
 
 **Creator/Author:** John Frankenheimer (Director), Lewis John Carlino (Screenplay), David Ely (Novel)
 

@@ -1,12 +1,16 @@
 # Brüsel (1992)
 
+**Tags:** 🌍 Belgium | 🎭 Melancholic | 📚 Dystopia | 🧬 Bureaucracy, Rebellion, Memory
+
 **Medium:** Graphic Novel / Bande Dessinée
+**Raw Score:** 3.65/5
+**Total Ratings:** 20
 
 **Creator/Author:** François Schuiten (artist), Benoît Peeters (writer)
 
 ## The Pitch
 
-In the平行 world of the Obscure Cities, the Brussels-like metropolis of Brüsel faces a terrifying threat: urban renewal. Flower shop owner Constant Abeels awakens one day to find himself at the center of a bureaucratic nightmare—the city has marked his block for demolition to make way for a grand development project. As he fights to save his shop and neighborhood, Abeels discovers that Brüsel itself may hold secrets that connect it to other cities in this mysterious alternate world—secrets that certain powerful forces will kill to protect.
+In the平行世界 of the Obscure Cities, the Brussels-like metropolis of Brüsel faces a terrifying threat: urban renewal. Flower shop owner Constant Abeels awakens one day to find himself at the center of a bureaucratic nightmare—the city has marked his block for demolition to make way for a grand development project. As he fights to save his shop and neighborhood, Abeels discovers that Brüsel itself may hold secrets that connect it to other cities in this mysterious alternate world—secrets that certain powerful forces will kill to protect.
 
 This is steampunk at its most elegant: a visually breathtaking exploration of architecture, nostalgia, and the battle between progress and preservation. Schuiten's intricate artwork renders Brussels in stunning Art Nouveau detail, while Peeters weaves a tale that's part mystery, part political satire, and wholly enchanting.
 

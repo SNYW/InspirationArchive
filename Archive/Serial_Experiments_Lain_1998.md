@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 VR, Transhumanism, Religion
 
 **Medium:** Anime (TV Series)
+**Raw Score:** 8.1/10
+**Total Ratings:** 351223
 **Creator/Author:** Yasuyuki Ueda (Creator), Chiaki J. Konaka (Writer), Ryūtarō Nakamura (Director)
 
 ## The Pitch (Non-Spoiler Breakdown)
