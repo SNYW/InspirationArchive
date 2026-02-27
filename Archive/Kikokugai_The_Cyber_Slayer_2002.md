@@ -2,7 +2,7 @@
 
 Tags: 🌍 Japan | 🎭 Tense | 📚 Cyberpunk, Science-Fantasy | 🧬 Cybernetics, Megacorps, Rebellion
 
-**Medium:** Visual Novel
+**Medium:** Video Game
 **Raw Score:** 3.86/5
 **Total Ratings:** 35
 **Creator/Author:** Nitroplus (Developer), Gen Urobuchi (Writer)
