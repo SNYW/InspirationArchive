@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Religion, Memory, Isolation
 
 **Medium:** Animated Film (OVA)
+**Raw Score:** 7.71/10
+**Total Ratings:** 71138
 **Creator/Author:** Mamoru Oshii (Director/Writer), Yoshitaka Amano (Artist)
 
 ## The Pitch (Non-Spoiler Breakdown)

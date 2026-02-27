@@ -1,5 +1,7 @@
 # The Incredible Melting Man (1977)
 
+**Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Horror | 🧬 Evolution, Isolation, Technology
+
 **Medium:** Film
 
 **Creator/Author:** William Sachs (Director/Writer)

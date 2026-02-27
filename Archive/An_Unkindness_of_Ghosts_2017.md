@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Hard-SF, Dystopia | 🧬 Rebellion, Memory, Poverty
 
 **Medium:** Novel
+**Raw Score:** 3.95/5
+**Total Ratings:** 17601
 **Creator/Author:** Rivers Solomon
 
 ## The Pitch (Non-Spoiler Breakdown)
