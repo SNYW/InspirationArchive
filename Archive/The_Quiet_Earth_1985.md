@@ -1,5 +1,7 @@
 # The Quiet Earth (1985)
 
+**Tags:** 🌍 Multinational | 🎭 Melancholic | 📚 Post-Apocalypse | 🧬 Isolation, Exploration
+
 **Medium:** Film
 **Creator/Author:** Geoff Murphy (Director), Based on novel by Craig Harrison
 

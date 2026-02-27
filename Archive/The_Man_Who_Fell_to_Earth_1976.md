@@ -1,5 +1,7 @@
 # The Man Who Fell to Earth (1976)
 
+**Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Aliens, Megacorps, Isolation
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Nicolas Roeg; Based on the novel by Walter Tevis

@@ -1,5 +1,7 @@
 # The Adaptive Ultimate (1935)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Science-Fantasy | 🧬 Evolution, Transhumanism, Isolation
+
 **Medium:** Short Story
 **Creator/Author:** Stanley G. Weinbaum
 

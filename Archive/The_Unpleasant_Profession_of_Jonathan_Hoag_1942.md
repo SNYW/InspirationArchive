@@ -1,5 +1,7 @@
 # The Unpleasant Profession of Jonathan Hoag (1942)
 
+**Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 VR, Memory, Religion
+
 **Medium:** Short Story / Novella
 
 **Creator/Author:** Robert A. Heinlein (as "John Riverside")
