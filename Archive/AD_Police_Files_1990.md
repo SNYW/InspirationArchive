@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Noir | 🧬 Identity, Transhumanism, Corporate Conspiracy
 
 **Medium:** OVA (Original Video Animation)
+**Raw Score:** 6.9/10
+**Total Ratings:** 183
 
 **Creator/Author:** Directed by Takamasa Ikegami and Akira Nishimori; Written by Shō Aikawa and Tony Takezaki; Studio: Artmic and AIC
 
