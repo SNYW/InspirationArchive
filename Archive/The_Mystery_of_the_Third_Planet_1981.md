@@ -1,5 +1,7 @@
 # The Mystery of the Third Planet (1981)
 
+**Tags:** 🌍 Russia | 🎭 Optimistic | 📚 Space-Opera | 🧬 Exploration, Aliens
+
 **Medium:** Animated Film
 
 **Creator/Author:** Directed by Roman Kachanov; Based on "Alisa's Travel" by Kir Bulychev
