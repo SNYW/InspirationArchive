@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Sentience, Megacorps, Cybernetics
 
 **Medium:** OVA (Original Video Animation) / Anime
+**Raw Score:** 7.5/10
+**Total Ratings:** 2800
 **Creator/Author:** Yoshiaki Kawajiri (Director), Madhouse (Studio)
 
 ## The Pitch (Non-Spoiler Breakdown)
