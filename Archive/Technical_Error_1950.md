@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Hard-SF | 🧬 Isolation
 
 **Medium:** Short Story
+**Raw Score:** 4.0/5
+**Total Ratings:** 33
 **Creator/Author:** Arthur C. Clarke
 
 ## The Pitch (Non-Spoiler Breakdown)

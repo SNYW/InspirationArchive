@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk | 🧬 Cybernetics, Transhumanism
 
 **Medium:** Film
+**Raw Score:** 6.9/10
+**Total Ratings:** 29000
 **Creator/Author:** Shinya Tsukamoto
 
 ## The Pitch (Non-Spoiler Breakdown)

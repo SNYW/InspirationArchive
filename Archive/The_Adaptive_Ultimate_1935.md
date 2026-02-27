@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Science-Fantasy | 🧬 Evolution, Transhumanism, Isolation
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 3
 **Creator/Author:** Stanley G. Weinbaum
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 Italy | 🎭 Satirical | 📚 Dystopia | 🧬 Violence as Entertainment, Media Critique, Corporate Sponsorship, Love vs System
 
 **Medium:** Film
+**Raw Score:** 6.6/10
+**Total Ratings:** 4402
 
 **Creator/Author:** Elio Petri (Director), based on "Seventh Victim" by Robert Sheckley
 
