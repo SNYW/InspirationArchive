@@ -1,5 +1,7 @@
 # The Eternaut (1957)
 
+**Tags:** 🌍 Multinational | 🎭 Pessimistic | 📚 Post-Apocalypse, Hard-SF | 🧬 Aliens, Rebellion, Time-Travel
+
 **Medium:** Graphic Novel
 
 **Creator/Author:** Héctor Germán Oesterheld (writer), Francisco Solano López (artist)
