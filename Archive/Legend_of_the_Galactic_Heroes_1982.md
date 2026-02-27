@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Philosophical | 📚 Space-Opera, Political-Thriller | 🧬 Power, Democracy, Ambition, War
 
 **Medium:** Novel / Anime / Manga
+**Raw Score:** 9.02/10
+**Total Ratings:** 86922
 
 **Creator/Author:** Yoshiki Tanaka (Novel), Katsumi Michihara (Manga)
 
