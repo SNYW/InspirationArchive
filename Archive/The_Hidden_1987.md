@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Hard-SF, Horror | 🧬 Aliens, Identity, Humanity, Violence
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 14000
 
 **Creator/Author:** Directed by Jack Sholder, Written by Jim Kouf
 

@@ -3,8 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Dystopia | 🧬 Ecology, Isolation
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.07/5
+**Total Ratings:** 15030
 **Creator/Author:** E. M. Forster
 
 ## The Pitch (Non-Spoiler Breakdown)

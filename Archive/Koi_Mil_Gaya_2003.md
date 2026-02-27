@@ -3,8 +3,8 @@
 **Tags:** 🌍 India | 🎭 Optimistic | 📚 Hard-SF | 🧬 Aliens, Sentience, Isolation
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.6/5
+**Total Ratings:** 15000
 
 **Creator/Author:** Rakesh Roshan (Director/Producer), Story by Rakesh Roshan
 

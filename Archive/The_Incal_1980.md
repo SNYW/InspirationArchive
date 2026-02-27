@@ -3,8 +3,8 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera, Science-Fantasy | 🧬 Religion, Aliens
 
 **Medium:** Graphic Novel / Bande Dessinée
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.04/5
+**Total Ratings:** 1315
 **Creator/Author:** Alejandro Jodorowsky (Writer), Jean Giraud/Mœbius (Original Artist), Zoran Janjetov (Before the Incal), José Ladrönn (Final Incal)
 
 ## The Pitch (Non-Spoiler Breakdown)

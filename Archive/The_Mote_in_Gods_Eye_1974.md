@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Tense | 📚 Space-Opera, Hard-SF | 🧬 Aliens, Exploration, Sentience
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.10/5
+**Total Ratings:** 3411
 **Creator/Author:** Larry Niven & Jerry Pournelle
 
 ## The Pitch (Non-Spoiler Breakdown)

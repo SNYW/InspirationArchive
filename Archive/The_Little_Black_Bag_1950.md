@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Satirical | 📚 Hard-SF | 🧬 Megacorps, Transhumanism, VR
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 200
 
 **Creator/Author:** Cyril M. Kornbluth
 

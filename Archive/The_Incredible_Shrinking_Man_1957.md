@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Philosophical | 📚 Science-Fantasy | 🧬 Isolation, Sentience
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.8/5
+**Total Ratings:** 22000
 **Creator/Author:** Jack Arnold (Director), Richard Matheson (Screenplay/Novel)
 
 ## The Pitch

@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Dystopia | 🧬 Evolution, Transhumanism
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.75/5
+**Total Ratings:** 907
 **Creator/Author:** Philip K. Dick
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Surreal, Philosophical | 📚 Science-Fantasy, Post-Apocalypse | 🧬 Identity, Transhumanism, Religion
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 2.7/5
+**Total Ratings:** 1300
 
 **Creator/Author:** Directed by Robert Fuest, based on the novel by Michael Moorcock
 

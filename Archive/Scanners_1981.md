@@ -3,8 +3,8 @@
 **Tags:** 🌍 Canada | 🎭 Gritty | 📚 Hard-SF, Horror | 🧬 Evolution, Megacorps, Transhumanism
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.35/5
+**Total Ratings:** 67000
 
 **Creator/Author:** Written and directed by David Cronenberg
 

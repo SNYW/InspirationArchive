@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty, Eerie, Pessimistic | 📚 Noir, Time-Travel | 🧬 Time-Travel
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.05/5
+**Total Ratings:** 2860
 **Creator/Author:** Tom Sweterlitsch
 
 ## The Pitch (Non-Spoiler Breakdown)

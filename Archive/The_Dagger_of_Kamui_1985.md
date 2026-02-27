@@ -3,8 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Evolution, Exploration
 
 **Medium:** Anime Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.45/5
+**Total Ratings:** 500
 
 **Creator/Author:** Tetsu Yano (novel), Moribi Murano (illustrator), Rintaro (director)
 

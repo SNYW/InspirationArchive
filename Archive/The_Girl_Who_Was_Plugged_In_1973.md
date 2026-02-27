@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral, Tense | 📚 Cyberpunk | 🧬 VR, Transhumanism
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.55/5
+**Total Ratings:** 2260
 **Creator/Author:** James Tiptree Jr. (Alice Sheldon)
 
 ## The Pitch (Non-Spoiler Breakdown)

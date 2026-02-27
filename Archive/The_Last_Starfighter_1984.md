@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Adventure | 🧬 Destiny, Belonging, Coming-of-Age
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.35/5
+**Total Ratings:** 55000
 
 **Creator/Author:** Jonathan R. Betuel (Writer), Nick Castle (Director)
 

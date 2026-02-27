@@ -3,8 +3,8 @@
 **Tags:** 🌍 Multinational | 🎭 Melancholic | 📚 Post-Apocalypse, Horror | 🧬 Pandemic, Isolation
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.35/5
+**Total Ratings:** 20035
 **Creator/Author:** Ubaldo Ragona & Sidney Salkow (Directors), Richard Matheson (Novel Source)
 
 ## The Pitch (Non-Spoiler Breakdown)

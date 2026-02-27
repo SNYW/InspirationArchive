@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Isolation
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.36/5
+**Total Ratings:** 28476
 **Creator/Author:** Ken Liu
 
 ## The Pitch (Non-Spoiler Breakdown)

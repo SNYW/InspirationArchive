@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Aliens, Megacorps, Isolation
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.3/5
+**Total Ratings:** 28000
 
 **Creator/Author:** Directed by Nicolas Roeg; Based on the novel by Walter Tevis
 

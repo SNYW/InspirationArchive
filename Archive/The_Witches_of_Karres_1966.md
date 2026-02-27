@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera | 🧬 Transhumanism, Aliens
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.16/5
+**Total Ratings:** 2903
 
 **Creator/Author:** James H. Schmitz
 

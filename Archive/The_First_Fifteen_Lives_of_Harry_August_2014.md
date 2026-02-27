@@ -2,8 +2,8 @@
 **Tags:** 🌍 UK | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Time-Travel, Memory
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.03/5
+**Total Ratings:** 42599
 **Author:** Claire North (pseudonym of Catherine Webb)
 
 ## The Pitch (Non-Spoiler Breakdown)

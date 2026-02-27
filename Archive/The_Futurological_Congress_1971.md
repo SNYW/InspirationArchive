@@ -3,8 +3,8 @@
 **Tags:** 🌍 Poland | 🎭 Satirical, Surreal | 📚 Dystopia | 🧬 Ecology, VR
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.17/5
+**Total Ratings:** 15001
 **Creator/Author:** Stanisław Lem
 
 ## The Pitch (Non-Spoiler Breakdown)

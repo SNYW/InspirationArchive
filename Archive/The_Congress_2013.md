@@ -1,8 +1,8 @@
 # The Congress (2013)
 
 **Medium:** Animated Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.2/5
+**Total Ratings:** 6000
 
 **Tags:** 🌍 France | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Identity, Virtual Reality, Corporate Conspiracy, Memory
 

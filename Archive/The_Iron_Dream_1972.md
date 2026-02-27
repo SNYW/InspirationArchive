@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty, Satirical | 📚 Post-Apocalypse | 🧬 Rebellion
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.57/5
+**Total Ratings:** 1794
 **Author:** Norman Spinrad
 
 ## The Pitch (Non-Spoiler Breakdown)
