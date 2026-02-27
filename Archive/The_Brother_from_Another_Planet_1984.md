@@ -1,5 +1,7 @@
 # The Brother from Another Planet (1984)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Aliens, Isolation, Rebellion
+
 **Medium:** Film
 
 **Creator/Author:** John Sayles (Writer/Director)
@@ -22,6 +24,6 @@ In the climax, the men in black capture him, but other alien refugees arrive to 
 
 The Brother from Another Planet works as both a sci-fi story and an allegory for the immigrant experience and Black American life in 1980s New York. The alien's inability to speak mirrors the way marginalized voices are often silenced or unheard. His assimilation struggles—learning to navigate employment, housing, social services—parallel immigrant experiences.
 
-Sayles uses the sci-fi premise to comment on slavery (the Brother is literally an escaped slave), racism (he passes as Black in Harlem), and the treatment of outsiders in America. The "men in black" hunters represent both government surveillance and the fear of the unknown.
+Sayles uses the sci-fi premise to comment on slavery (the Brother is literally an escaped slave), racism (he passes for Black in Harlem), and the treatment of outsiders in America. The "men in black" hunters represent both government surveillance and the fear of the unknown.
 
 The film's low-budget aesthetic and Joe Morton's silent, expressive performance create something genuinely unique in American cinema—a gentle, humanistic sci-fi that prioritizes community and compassion over action and spectacle.
