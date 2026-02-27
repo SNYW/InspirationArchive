@@ -2,8 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Tense | 📚 Space-Opera | 🧬 Aliens, Evolution, Military
 
 **Medium:** Novella/Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.5/5
+**Total Ratings:** 100
 **Creator/Author:** Jack Vance
 
 ## The Pitch (Non-Spoiler Breakdown)

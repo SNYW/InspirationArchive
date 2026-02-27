@@ -3,8 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Post-Apocalypse, Cyberpunk | 🧬 Transhumanism, Identity, Rebellion, Isolation
 
 **Medium:** OVA (Original Video Animation)
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 2.7/5
+**Total Ratings:** 500
 
 **Creator/Author:** Hayato Ikeda (Director), Riku Sanjō (Writer), Production Wave Studio
 

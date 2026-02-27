@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Time-Travel, Science-Fantasy | 🧬 Time-Travel, Memory
 
 **Medium:** Short Story
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.4/5
+**Total Ratings:** 603
 **Author:** Robert F. Young
 
 ## The Pitch (Non-Spoiler Breakdown)
