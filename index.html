@@ -82,13 +82,20 @@
         .loading { text-align: center; color: var(--text-muted); font-size: 1.2rem; padding: 3rem; grid-column: 1 / -1; }
         .error-message { color: var(--mood-pessimistic); border: 1px solid var(--mood-pessimistic); background: rgba(255, 42, 42, 0.05); padding: 1rem; border-radius: 8px; backdrop-filter: blur(5px); }
         
+        /* --- CONTROL CENTER & COLLAPSIBLE FILTERS --- */
         .control-center { position: sticky; top: 0.25rem; z-index: 50; background: var(--glass-panel); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border: 1px solid var(--border); border-radius: 16px; padding: 1.5rem; margin-bottom: 3rem; box-shadow: 0 10px 40px var(--glass-shadow); transition: all 0.3s ease; }
-        .search-container { display: flex; justify-content: center; margin-bottom: 1.5rem; }
-        .search-input { width: 100%; max-width: 600px; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 0.8rem 1.5rem; border-radius: 30px; font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem; outline: none; transition: all 0.3s ease; }
+        .search-container { display: flex; justify-content: center; gap: 0.75rem; align-items: center; margin-bottom: 1rem; }
+        .search-input { flex: 1; max-width: 600px; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 0.8rem 1.5rem; border-radius: 30px; font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem; outline: none; transition: all 0.3s ease; }
         .search-input:focus { border-color: var(--accent); box-shadow: 0 0 15px var(--accent-dim); }
         .search-input::placeholder { color: var(--text-muted); font-weight: 300; }
         
-        .filters { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+        .toggle-filters-btn { background: var(--bg); border: 1px solid var(--border); color: var(--text-muted); padding: 0.8rem 1.2rem; border-radius: 30px; cursor: pointer; font-family: 'Space Grotesk', sans-serif; font-size: 0.95rem; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; transition: all 0.3s ease; outline: none; }
+        .toggle-filters-btn:hover, .toggle-filters-btn.active { border-color: var(--accent); color: var(--text); box-shadow: 0 0 10px var(--accent-dim); }
+        
+        .filter-collapsible { overflow: hidden; max-height: 500px; opacity: 1; transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+        .filter-collapsible.collapsed { max-height: 0; opacity: 0; pointer-events: none; margin-top: -1rem; }
+        
+        .filters { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; padding-top: 0.5rem;}
         .filter-btn { background: transparent; border: 1px solid transparent; color: var(--text-muted); padding: 0.5rem 1.2rem; cursor: pointer; font-family: inherit; transition: all 0.2s; border-radius: 20px; font-weight: 600; }
         .filter-btn:hover { color: var(--text); background: var(--border); }
         .filter-btn.active { background: var(--text); color: var(--bg); border-color: var(--text); }
@@ -172,7 +179,7 @@
         footer { text-align: center; margin-top: 4rem; padding-top: 2rem; color: var(--text-muted); font-size: 0.85rem; font-weight: 300;}
         
         @media (max-width: 900px) { .modal-content { flex-direction: column; max-height: 90vh; } .modal-gallery { flex: none; height: 300px; } .modal-text-area { padding: 2rem; } .stats-grid { grid-template-columns: 1fr; gap: 2rem; } }
-        @media (max-width: 768px) { body { padding: 0 1rem 2rem 1rem; } header { padding: 6rem 1rem 2rem 1rem; } h1 { font-size: 2rem; } .top-controls { top: 1rem; right: 1rem; flex-direction: column; gap: 0.5rem; } .top-btn { font-size: 0.75rem; padding: 0.4rem 0.8rem; justify-content: center;} .control-center { padding: 1rem; } .grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; } .hero-poster { width: 180px; } .hero-info h2 { font-size: 1.8rem; } .card-title-bar { padding: 2rem 0.75rem 0.75rem; } .card-title-bar h2 { font-size: 0.9rem; } .card-hover-content { padding: 1rem 1rem 4rem 1rem; } .card .tag-display { font-size: 0.6rem; margin-bottom: 0.5rem; } .card .pitch { font-size: 0.75rem; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; } .stats-content { padding: 2rem 1.5rem; } .total-count-box .number { font-size: 3.5rem; } .stat-label { width: 90px; font-size: 0.75rem;} }
+        @media (max-width: 768px) { body { padding: 0 1rem 2rem 1rem; } header { padding: 6rem 1rem 2rem 1rem; } h1 { font-size: 2rem; } .top-controls { top: 1rem; right: 1rem; flex-direction: column; gap: 0.5rem; } .top-btn { font-size: 0.75rem; padding: 0.4rem 0.8rem; justify-content: center;} .control-center { padding: 1rem; } .grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; } .hero-poster { width: 180px; } .hero-info h2 { font-size: 1.8rem; } .card-title-bar { padding: 2rem 0.75rem 0.75rem; } .card-title-bar h2 { font-size: 0.9rem; } .card-hover-content { padding: 1rem 1rem 4rem 1rem; } .card .tag-display { font-size: 0.6rem; margin-bottom: 0.5rem; } .card .pitch { font-size: 0.75rem; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; } .stats-content { padding: 2rem 1.5rem; } .total-count-box .number { font-size: 3.5rem; } .stat-label { width: 90px; font-size: 0.75rem;} .search-container { flex-wrap: wrap; } .toggle-filters-btn { width: 100%; justify-content: center; } .filter-collapsible { max-height: 1000px; } }
     </style>
 </head>
 <body>
@@ -186,41 +193,50 @@
     <header><h1>All Futures Archive</h1></header>
     
     <div class="control-center">
-        <div class="search-container"><input type="text" id="searchInput" class="search-input" placeholder="Search the archive..." onkeyup="loadMedia()"></div>
-        <div class="filters">
-            <button class="filter-btn active" data-filter="all">All Visions</button>
-            <button class="filter-btn" data-filter="Novel">Novels</button>
-            <button class="filter-btn" data-filter="Short Story">Short Stories</button>
-            <button class="filter-btn" data-filter="Graphic Novel">Graphic Novels</button>
-            <button class="filter-btn" data-filter="Manga">Manga</button>
-            <button class="filter-btn" data-filter="Film">Films</button>
-            <button class="filter-btn" data-filter="Anime">Anime</button>
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search the archive..." onkeyup="loadMedia()">
+            <button class="toggle-filters-btn" id="filterToggleBtn" onclick="toggleFilters()">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+                Filters
+            </button>
         </div>
-        <div class="tag-filters">
-            <div class="tag-select-group"><label>Origin</label><select id="countryFilter" class="tag-select" onchange="loadMedia()"><option value="all">Global</option></select></div>
-            <div class="tag-select-group"><label>Mood</label><select id="moodFilter" class="tag-select" onchange="loadMedia()"><option value="all">Any Emotion</option></select></div>
-            <div class="tag-select-group"><label>Sub-Genre</label><select id="genreFilter" class="tag-select" onchange="loadMedia()"><option value="all">All Genres</option></select></div>
-            <div class="tag-select-group"><label>Topic</label><select id="topicFilter" class="tag-select" onchange="loadMedia()"><option value="all">All Concepts</option></select></div>
-            
-            <div class="tag-select-group">
-                <label>Min Rating</label>
-                <select id="ratingFilter" class="tag-select" onchange="loadMedia()">
-                    <option value="all">Any Score</option>
-                    <option value="4">★★★★☆ (4+)</option>
-                    <option value="3">★★★☆☆ (3+)</option>
-                    <option value="2">★★☆☆☆ (2+)</option>
-                </select>
+        
+        <div id="filterCollapsible" class="filter-collapsible">
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all">All Visions</button>
+                <button class="filter-btn" data-filter="Novel">Novels</button>
+                <button class="filter-btn" data-filter="Short Story">Short Stories</button>
+                <button class="filter-btn" data-filter="Graphic Novel">Graphic Novels</button>
+                <button class="filter-btn" data-filter="Manga">Manga</button>
+                <button class="filter-btn" data-filter="Film">Films</button>
+                <button class="filter-btn" data-filter="Anime">Anime</button>
             </div>
-            <div class="tag-select-group">
-                <label>Obscurity</label>
-                <select id="obscurityFilter" class="tag-select" onchange="loadMedia()">
-                    <option value="all">All Levels</option>
-                    <option value="mainstream">Mainstream (< 30%)</option>
-                    <option value="cult">Cult Classic (30-60%)</option>
-                    <option value="deep">Deep Cut (60-90%)</option>
-                    <option value="outer">Outer Rim (> 90%)</option>
-                    <option value="ghost">Ghost Data (Unknown)</option>
-                </select>
+            <div class="tag-filters">
+                <div class="tag-select-group"><label>Origin</label><select id="countryFilter" class="tag-select" onchange="loadMedia()"><option value="all">Global</option></select></div>
+                <div class="tag-select-group"><label>Mood</label><select id="moodFilter" class="tag-select" onchange="loadMedia()"><option value="all">Any Emotion</option></select></div>
+                <div class="tag-select-group"><label>Sub-Genre</label><select id="genreFilter" class="tag-select" onchange="loadMedia()"><option value="all">All Genres</option></select></div>
+                <div class="tag-select-group"><label>Topic</label><select id="topicFilter" class="tag-select" onchange="loadMedia()"><option value="all">All Concepts</option></select></div>
+                
+                <div class="tag-select-group">
+                    <label>Min Rating</label>
+                    <select id="ratingFilter" class="tag-select" onchange="loadMedia()">
+                        <option value="all">Any Score</option>
+                        <option value="4">★★★★☆ (4+)</option>
+                        <option value="3">★★★☆☆ (3+)</option>
+                        <option value="2">★★☆☆☆ (2+)</option>
+                    </select>
+                </div>
+                <div class="tag-select-group">
+                    <label>Obscurity</label>
+                    <select id="obscurityFilter" class="tag-select" onchange="loadMedia()">
+                        <option value="all">All Levels</option>
+                        <option value="mainstream">Mainstream (< 30%)</option>
+                        <option value="cult">Cult Classic (30-60%)</option>
+                        <option value="deep">Deep Cut (60-90%)</option>
+                        <option value="outer">Outer Rim (> 90%)</option>
+                        <option value="ghost">Ghost Data (Unknown)</option>
+                    </select>
+                </div>
             </div>
         </div>
     </div>
@@ -249,6 +265,20 @@ function initTheme() { const saved = localStorage.getItem('archive-theme') || 'd
 function toggleTheme() { const current = document.documentElement.getAttribute('data-theme'); if (current === 'light') { document.documentElement.removeAttribute('data-theme'); localStorage.setItem('archive-theme', 'dark'); document.getElementById('themeBtn').innerText = '☀ Light Mode'; } else { document.documentElement.setAttribute('data-theme', 'light'); localStorage.setItem('archive-theme', 'light'); document.getElementById('themeBtn').innerText = '☾ Dark Mode'; } }
 initTheme();
 
+// Handle Collapsible Filters
+function toggleFilters() {
+    const collapsible = document.getElementById('filterCollapsible');
+    const btn = document.getElementById('filterToggleBtn');
+    collapsible.classList.toggle('collapsed');
+    btn.classList.toggle('active');
+}
+// Auto-collapse on small screens
+if (window.innerWidth <= 768) {
+    document.getElementById('filterCollapsible').classList.add('collapsed');
+} else {
+    document.getElementById('filterToggleBtn').classList.add('active');
+}
+
 let media = [], currentFilteredMedia = [], heroInterval;
 const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new Set(), uniqueTopics = new Set();
 
@@ -264,22 +294,18 @@ function getMediumColorVar(medium) {
 }
 
 function generateMetricsHtml(m) {
-    if (m.rating === null && m.ratingsCount === null) return ''; // Hide if metrics haven't been processed
+    if (m.rating === null && m.ratingsCount === null) return ''; 
     
     let html = '<div class="badge-row">';
-    
-    // Rating Badge
     if (m.rating !== null) {
         html += `<span class="metric-badge"><span class="metric-icon">★</span> ${m.rating.toFixed(1)}</span>`;
     }
     
-    // Obscurity Badge
     if (m.obscurityTier === 'ghost') {
         html += `<span class="metric-badge ghost"><span class="metric-icon">👁</span> GHOST DATA</span>`;
     } else if (m.obscurityPct !== null) {
         html += `<span class="metric-badge"><span class="metric-icon">👁</span> ${m.obscurityPct}% Obscure</span>`;
     }
-    
     html += '</div>';
     return html;
 }
@@ -287,7 +313,6 @@ function generateMetricsHtml(m) {
 function parseMarkdownFile(filename, content) {
     let title = filename.replace('.md', '').replace(/_/g, ' '), year = '', medium = 'Unknown', pitch = 'No description available.', tags = { country: [], mood: [], genre: [], topic: [] };
     
-    // Basic Extractions
     const titleMatch = content.match(/^#\s+(.+?)(?:\s+\((\d{4})\))?\s*$/m);
     if (titleMatch) { title = titleMatch[1].trim(); if (titleMatch[2]) year = `(${titleMatch[2]})`; }
     const mediumMatch = content.match(/\*\*Medium:\*\*\s*(.+)/i);
@@ -306,7 +331,6 @@ function parseMarkdownFile(filename, content) {
         }); 
     }
 
-    // --- METRICS EXTRACTION ---
     let rating = null;
     let ratingsCount = null;
     let obscurityTier = null;
@@ -336,10 +360,9 @@ function parseMarkdownFile(filename, content) {
             ratingsCount = parseInt(r);
             if (isNaN(ratingsCount)) ratingsCount = 0;
         } else {
-            ratingsCount = 0; // Treat N/A as 0 for ghost data
+            ratingsCount = 0; 
         }
         
-        // Calculate Obscurity Tiers and Percentages
         if (ratingsCount >= 100000) { obscurityTier = 'mainstream'; obscurityPct = Math.max(0, 30 - Math.floor(ratingsCount/100000)); }
         else if (ratingsCount >= 10000) { obscurityTier = 'cult'; obscurityPct = Math.max(30, 60 - Math.floor(ratingsCount/2500)); }
         else if (ratingsCount >= 1000) { obscurityTier = 'deep'; obscurityPct = Math.max(60, 90 - Math.floor(ratingsCount/300)); }
@@ -422,7 +445,6 @@ function loadMedia() {
     const g = document.getElementById('mediaGrid'), h = document.getElementById('heroSection'); 
     if(!media.length)return; g.innerHTML=''; 
     
-    // Filters
     const mf = document.querySelector('.filter-btn.active').dataset.filter; 
     const cf = document.getElementById('countryFilter').value;
     const uf = document.getElementById('moodFilter').value;
@@ -433,7 +455,6 @@ function loadMedia() {
     const sq = document.getElementById('searchInput').value.toLowerCase(); 
     
     const fl = media.filter(m => { 
-        // Medium Filter
         if(mf !== 'all') {
             if (mf === 'Novel') {
                 if (!m.medium.includes('Novel') || m.medium.includes('Graphic') || m.medium.includes('Visual')) return false;
@@ -442,20 +463,17 @@ function loadMedia() {
             }
         }
         
-        // Tags
         if(cf!=='all'&&!m.tags.country.includes(cf))return false; 
         if(uf!=='all'&&!m.tags.mood.includes(uf))return false; 
         if(gf!=='all'&&!m.tags.genre.includes(gf))return false; 
         if(tf!=='all'&&!m.tags.topic.includes(tf))return false; 
         
-        // Metric Filters
         if (rf !== 'all') {
-            if (m.rating === null) return false; // Hide unrated if searching by rating
+            if (m.rating === null) return false; 
             if (m.rating < parseFloat(rf)) return false;
         }
         if (of !== 'all' && m.obscurityTier !== of) return false;
         
-        // Search
         if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
         return true; 
     });
@@ -507,7 +525,6 @@ function openModal(mObj) {
 function closeModal() { document.getElementById('modal').classList.remove('open'); }
 document.getElementById('modal').addEventListener('click',function(e){if(e.target===this)closeModal();});
 
-// --- STATS TELEMETRY LOGIC ---
 function openStats() {
     if(!media.length) return;
     const statsModal = document.getElementById('statsModal');
