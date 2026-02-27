@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia | 🧬 Rebellion, Memory, Isolation
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Stephen R. Donaldson
 
 ## The Pitch (Non-Spoiler Breakdown)

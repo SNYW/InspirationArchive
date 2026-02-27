@@ -3,6 +3,9 @@
 **Tags:** 🌍 Poland | 🎭 Satirical | 📚 Dystopia | 🧬 Rebellion
 
 **Medium:** Film
+**Raw Score:** 6.9/10
+**Total Ratings:** 1400
+
 **Creator/Author:** Piotr Szulkin (Director/Writer)
 
 ## The Pitch (Non-Spoiler Breakdown)
