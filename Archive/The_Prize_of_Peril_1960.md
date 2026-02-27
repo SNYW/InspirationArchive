@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Satirical, Tense | 📚 Dystopia | 🧬 Megacorps, Rebellion
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Robert Sheckley
 
 ## The Pitch (Non-Spoiler Breakdown)

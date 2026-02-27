@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral, Tense | 📚 Space-Opera, Time-Travel | 🧬 Time-Travel, Sentience
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Charles L. Harness
 
 ## The Pitch (Non-Spoiler Breakdown)

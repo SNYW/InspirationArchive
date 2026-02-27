@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Cyberpunk, Hard-SF | 🧬 Sentience, Megacorps, Transhumanism, VR
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Hannu Rajaniemi
 
 ## The Pitch (Non-Spoiler Breakdown)

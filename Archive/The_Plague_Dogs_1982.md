@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Gritty, Melancholic | 📚 Post-Apocalypse | 🧬 Ecology, Evolution
 
 **Medium:** Animated Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Martin Rosen (Director/Writer), based on novel by Richard Adams
 
 ## The Pitch (Non-Spoiler Breakdown)

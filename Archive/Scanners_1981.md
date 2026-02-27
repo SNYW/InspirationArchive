@@ -1,6 +1,8 @@
 # Scanners (1981)
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Written and directed by David Cronenberg
 
