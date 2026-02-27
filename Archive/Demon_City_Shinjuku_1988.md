@@ -1,8 +1,6 @@
 # Demon City Shinjuku (1988)
 
 **Medium:** OVA (Original Video Animation)
-**Raw Score:** N/A
-**Total Ratings:** 0
 
 **Creator/Author:** Directed by Yoshiaki Kawajiri; Based on the novel by Hideyuki Kikuchi; Studio: Madhouse
 
