@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Sentience, Exploration, Evolution
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** R.A. Lafferty
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Religion, Pandemic, Isolation
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** R.A. Lafferty
 
 ## The Pitch (Non-Spoiler Breakdown)
