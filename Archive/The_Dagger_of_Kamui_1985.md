@@ -1,5 +1,7 @@
 # The Dagger of Kamui (1985)
 
+**Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Evolution, Exploration
+
 **Medium:** Anime Film
 
 **Creator/Author:** Tetsu Yano (novel), Moribi Murano (illustrator), Rintaro (director)

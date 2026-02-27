@@ -1,5 +1,7 @@
 # The Little Black Bag (1950)
 
+**Tags:** 🌍 USA | 🎭 Satirical | 📚 Hard-SF | 🧬 Megacorps, Transhumanism, VR
+
 **Medium:** Short Story
 
 **Creator/Author:** Cyril M. Kornbluth

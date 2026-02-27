@@ -1,5 +1,7 @@
 # The Metabarons (1992)
 
+**Tags:** 🌍 France | 🎭 Dark | 📚 Space Opera | 🧬 Dynasty, Cyborgs, Violence, Power, Tragic Heroes
+
 **Medium:** Graphic Novel
 
 **Creator/Author:** Alejandro Jodorowsky (Writer), Juan Giménez (Artist)

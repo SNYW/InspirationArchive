@@ -1,5 +1,7 @@
 # The Andromeda Nebula (1967)
 
+**Tags:** 🌍 Russia | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Aliens, Exploration, Isolation
+
 **Medium:** Film
 
 **Creator/Author:** Yevgeni Sherstobitov (Director), Ivan Yefremov (Novel Source)

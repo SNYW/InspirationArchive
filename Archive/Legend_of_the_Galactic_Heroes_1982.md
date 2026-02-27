@@ -1,5 +1,7 @@
 # Legend of the Galactic Heroes (1982)
 
+**Tags:** 🌍 Japan | 🎭 Philosophical | 📚 Space-Opera, Political-Thriller | 🧬 Power, Democracy, Ambition, War
+
 **Medium:** Novel / Anime / Manga
 
 **Creator/Author:** Yoshiki Tanaka (Novel), Katsumi Michihara (Manga)

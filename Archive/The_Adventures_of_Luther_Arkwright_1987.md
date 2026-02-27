@@ -1,5 +1,7 @@
 # The Adventures of Luther Arkwright (1987-1989)
 
+**Tags:** 🌍 UK | 🎭 Tense | 📚 Hard-SF | 🧬 Rebellion, Sentience
+
 **Medium:** Graphic Novel
 
 **Creator/Author:** Bryan Talbot
