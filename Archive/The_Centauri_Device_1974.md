@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Space-Opera | 🧬 Exploration, Megacorps, Memory
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** M. John Harrison
 
 ## The Pitch (Non-Spoiler Breakdown)

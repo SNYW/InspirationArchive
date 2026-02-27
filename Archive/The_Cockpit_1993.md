@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 War | 🧬 War, Sacrifice, Memory
 
 **Medium:** Anime
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Leiji Matsumoto (Original Manga), Yoshiaki Kawajiri, Takashi Imanishi, Ryōsuke Takahashi (Directors)
 

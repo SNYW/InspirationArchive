@@ -3,6 +3,8 @@
 **Tags:** 🌍 Canada | 🎭 Cerebral | 📚 Hard-SF, Biopunk | 🧬 Evolution, Memory, Sentience
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Geoff Ryman
 
 ## The Pitch (Non-Spoiler Breakdown)
