@@ -2,6 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Cloning, Sentience, Memory
 
 **Medium:** Novella/Collection
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Author:** Gene Wolfe
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Sentience, Memory, Isolation
 
 **Medium:** Anime Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Osamu Tezuka (Original Manga), Toshio Hirata (Director), Masaki Tsuji (Writer), Madhouse Studios (Animation)
 
