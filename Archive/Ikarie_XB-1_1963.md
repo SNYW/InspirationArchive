@@ -3,6 +3,8 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Exploration, Isolation, Aliens
 
 **Medium:** Film
+**Raw Score:** 6.9/10
+**Total Ratings:** 103300
 **Creator/Author:** Jindřich Polák (Director), Based on the novel "The Magellanic Cloud" by Stanisław Lem
 
 ## The Pitch (Non-Spoiler Breakdown)

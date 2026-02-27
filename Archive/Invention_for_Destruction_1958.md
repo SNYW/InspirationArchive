@@ -3,6 +3,8 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Technology, Rebellion
 
 **Medium:** Film
+**Raw Score:** 7.5/10
+**Total Ratings:** 103100
 **Creator/Author:** Karel Zeman
 
 ## The Pitch (Non-Spoiler Breakdown)

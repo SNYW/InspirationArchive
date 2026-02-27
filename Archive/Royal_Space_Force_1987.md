@@ -1,12 +1,14 @@
 # Royal Space Force: The Wings of Honnêamise (1987)
 
+**Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Religion, Exploration, Rebellion, Humanity
+
 **Medium:** Anime
 
 **Creator/Author:** Hiroyuki Yamaga (Director), Gainax
 
 ## The Pitch
 
-In an alternate world bearing an uncanny resemblance to Earth, a disengaged young man named Shirotsugh Lhadatt has given up on his dreams of becoming a fighter pilot and instead drifts through life in the Royal Space Force—a fledgling space program demoralized by repeated failures. Everything changes when he meets Riquinni, a devout young woman who preaches on the streets about humanity's fallen nature and the stolen fire of knowledge. Inspired by her quiet conviction, Shirotsugh volunteers for humanity's first orbital mission, becoming the pilot of a desperate last-ditch attempt to launch a person into space. Set against a backdrop of government corruption, war, and public indifference, this is a deeply human story about finding meaning beyond oneself.
+In an alternate world bearing an uncanny resemblance to Earth, a disengaged young man named Shirotsugh Lhadatt has given up on his dreams of becoming a fighter pilot and instead drifts through his life in the Royal Space Force—a fledgling space program demoralized by repeated failures. Everything changes when he meets Riquinni, a devout young woman who preaches on the streets about humanity's fallen nature and the stolen fire of knowledge. Inspired by her quiet conviction, Shirotsugh volunteers for humanity's first orbital mission, becoming the pilot of a desperate last-ditch attempt to launch a person into space. Set against a backdrop of government corruption, war, and public indifference, this is a deeply human story about finding meaning beyond oneself.
 
 ## The Truth
 
@@ -16,7 +18,7 @@ Riquinni's genuine faith and concern for the marginalized moves Shirotsugh in wa
 
 Shirotsugh experiences a crisis of faith and goes AWOL, staying with Riquinni. During this time, he almost assaults her while she is undressing, but stops himself—an incident she later refuses to acknowledge. When Shirotsugh returns to the city, he survives an assassination attempt by the Republic. Before departing for the launch, he finally connects with Manna and says goodbye to Riquinni.
 
-The launch occurs in a demilitarized zone, with the government hoping the Republic into attacking. rocket will provoke the Though Khaidenn pushes the launch forward, the Republic invades. Shirotsugh, already in the capsule, refuses to abort and convinces the ground crew to proceed. The spectacular launch shocks both nations into stillness.
+The launch occurs in a demilitarized zone, with the government hoping the rocket will provoke the Republic into attacking. Though Khaidenn pushes the launch forward, the Republic invades. Shirotsugh, already in the capsule, refuses to abort and convinces the ground crew to proceed. The spectacular launch shocks both nations into stillness.
 
 As Shirotsugh orbits the planet, he broadcasts a prayer for humanity's forgiveness. His capsule enters sunlight, and a montage shows his life, his world's history, and achievements. On the surface, Riquinni witnesses the first snow fall and gazes upward.
 
