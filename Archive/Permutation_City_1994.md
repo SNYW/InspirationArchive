@@ -3,6 +3,8 @@
 **Tags:** 🌍 Australia | 🎭 Cerebral | 📚 Hard-SF | 🧬 VR, Transhumanism, Evolution
 
 **Medium:** Novel
+**Raw Score:** 4.06/5
+**Total Ratings:** 9650
 **Creator/Author:** Greg Egan (Australian)
 
 ## The Pitch (Non-Spoiler Breakdown)

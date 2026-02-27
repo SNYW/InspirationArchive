@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Tense | 📚 Horror | 🧬 Evolution, Aliens, Ecology
 
 **Medium:** Film
+**Raw Score:** 6.4/10
+**Total Ratings:** 11000
 **Creator/Author:** Saul Bass (Director), based on a story by Ronald B. Harvey
 
 ## The Pitch (Non-Spoiler Breakdown)

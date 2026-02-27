@@ -3,6 +3,8 @@
 **Tags:** 🌍 Russia | 🎭 Gritty | 📚 Dystopia | 🧬 Aliens, Exploration, Memory
 
 **Medium:** Novel
+**Raw Score:** 3.98/5
+**Total Ratings:** 5107
 **Creator/Author:** Arkady and Boris Strugatsky
 
 ## The Pitch (Non-Spoiler Breakdown)

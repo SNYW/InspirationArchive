@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬
 
 **Medium:** Film
+**Raw Score:** 5.0/10
+**Total Ratings:** 3900
 **Creator/Author:** Robert Altman
 
 ## The Pitch (Non-Spoiler Breakdown)
