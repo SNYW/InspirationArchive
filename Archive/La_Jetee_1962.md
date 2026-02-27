@@ -3,8 +3,6 @@
 **Tags:** 🌍 France | 🎭 Melancholic | 📚 Post-Apocalypse | 🧬 Memory, Time-Travel
 
 **Medium:** Short Film / Featurette
-**Raw Score:** 8.2/10
-**Total Ratings:** 40000
 **Creator/Author:** Chris Marker
 
 ## The Pitch (Non-Spoiler Breakdown)

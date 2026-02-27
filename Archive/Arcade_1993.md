@@ -3,8 +3,6 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 Virtual Reality, Technology
 
 **Medium:** Film
-**Raw Score:** 4.6/10
-**Total Ratings:** 2100
 **Creator/Author:** Directed by Albert Pyun, Written by David S. Goyer
 
 ## The Pitch

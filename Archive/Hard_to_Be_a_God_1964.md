@@ -3,8 +3,6 @@
 **Tags:** 🌍 Russia | 🎭 Pessimistic | 📚 Hard-SF, Dystopia | 🧬 Religion, Evolution, Isolation
 
 **Medium:** Novel
-**Raw Score:** N/A
-**Total Ratings:** 0
 **Creator/Author:** Arkady & Boris Strugatsky
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,10 +3,6 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 Sentience, VR, Memory
 
 **Medium:** Anime (OVA)
-**Raw Score:** 6.6/10
-**Total Ratings:** 9939
-**Raw Score:** 6.6/10
-**Total Ratings:** 9939
 **Creator/Author:** Noboru Ishiguro (Director), Hiroyuki Hoshiyama (Writer)
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,6 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Rebellion, Religion, Evolution
 
 **Medium:** Animated Film
-**Raw Score:** 7.6/10
-**Total Ratings:** 42000
 **Creator/Author:** René Laloux (Director), Roland Topp (Animation Director)
 
 ## The Pitch (Non-Spoiler Breakdown)

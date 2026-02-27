@@ -3,8 +3,6 @@
 **Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Dystopia, Science-Fantasy | 🧬 Rebellion, Megacorps, Isolation
 
 **Medium:** OVA (Original Video Animation)
-**Raw Score:** N/A
-**Total Ratings:** 0
 **Creator/Author:** Hisayuki Toriumi (Concept), Mamoru Oshii (Co-director)
 
 ## The Pitch (Non-Spoiler Breakdown)

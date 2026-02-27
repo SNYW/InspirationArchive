@@ -3,8 +3,6 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Aliens, Exploration, Evolution
 
 **Medium:** Graphic Novel / Comic
-**Raw Score:** N/A
-**Total Ratings:** 0
 **Creator/Author:** Jean "Moebius" Giraud
 
 ## The Pitch (Non-Spoiler Breakdown)

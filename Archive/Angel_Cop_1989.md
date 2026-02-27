@@ -3,8 +3,6 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk | 🧬 Rebellion, Religion, Megacorps, Transhumanism
 
 **Medium:** OVA (Original Video Animation)
-**Raw Score:** 6.9/10
-**Total Ratings:** 75
 
 **Creator/Author:** Created and directed by Ichirō Itano; Written by Shō Aikawa and Ichirō Itano
 

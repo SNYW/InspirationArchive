@@ -3,8 +3,6 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Science-Fantasy | 🧬 Aliens, Exploration
 
 **Medium:** Novella
-**Raw Score:** N/A
-**Total Ratings:** 0
 **Creator/Author:** Nnedi Okorafor
 
 ## The Pitch (Non-Spoiler Breakdown)

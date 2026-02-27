@@ -3,8 +3,6 @@
 **Tags:** 🌍 France | 🎭 Gritty | 📚 Dystopia | 🧬 Megacorps, Cybernetics, Isolation
 
 **Medium:** Film
-**Raw Score:** 6.5/10
-**Total Ratings:** 3800
 
 **Creator/Author:** Directed by Bertrand Tavernier; Based on "The Unsleeping Eye" (1973) by David G. Compton
 

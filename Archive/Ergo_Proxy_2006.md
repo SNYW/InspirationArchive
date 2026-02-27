@@ -3,8 +3,6 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk, Science-Fantasy | 🧬 Sentience, Evolution, Transhumanism
 
 **Medium:** Anime Television Series
-**Raw Score:** 7.9/10
-**Total Ratings:** 19000
 **Creator/Author:** Directed by Shūkō Murase, Written by Dai Satō
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,6 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Sentience, Religion
 
 **Medium:** Novella
-**Raw Score:** N/A
-**Total Ratings:** 0
 **Creator/Author:** Becky Chambers
 
 ## The Pitch (Non-Spoiler Breakdown)
