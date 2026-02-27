@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Surreal | 📚 Post-Apocalypse | 🧬 Immortality, Rebellion, Transhumanism
 
 **Medium:** Film
+**Raw Score:** 5.8/10
+**Total Ratings:** 27000
 
 **Creator/Author:** John Boorman
 

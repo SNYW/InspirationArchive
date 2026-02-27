@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Ecology, Isolation
 
 **Medium:** OVA Anime (Manga source)
+**Raw Score:** 7.44/10
+**Total Ratings:** 17089
 **Creator/Author:** Hitoshi Ashinano (Manga), Takashi Annō/Tomomi Mochizuki (OVA Direction)
 
 ## The Pitch (Non-Spoiler Breakdown)
