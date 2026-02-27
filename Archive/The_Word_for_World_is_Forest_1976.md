@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Dystopia | 🧬 Ecology, Rebellion
 
 **Medium:** Novella
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Author:** Ursula K. Le Guin
 
 ## The Pitch (Non-Spoiler Breakdown)

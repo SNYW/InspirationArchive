@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Dystopia | 🧬 Ecology, Isolation, Transhumanism
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Robert Silverberg
 
 ## The Pitch (Non-Spoiler Breakdown)

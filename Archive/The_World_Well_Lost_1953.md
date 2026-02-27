@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Aliens
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Theodore Sturgeon
 
 ## The Pitch (Non-Spoiler Breakdown)

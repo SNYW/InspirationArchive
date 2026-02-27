@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera | 🧬 Transhumanism, Aliens
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** James H. Schmitz
 
 ## The Pitch (Non-Spoiler Breakdown)
