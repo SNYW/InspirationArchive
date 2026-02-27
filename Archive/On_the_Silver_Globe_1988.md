@@ -3,6 +3,8 @@
 **Tags:** 🌍 Poland | 🎭 Surreal, Cerebral | 📚 Science-Fantasy, Dystopia | 🧬 Religion, Evolution, Isolation, Aliens
 
 **Medium:** Film
+**Raw Score:** 7.1/10
+**Total Ratings:** 6100
 **Creator:** Andrzej Żuławski
 
 ## The Pitch (Non-Spoiler Breakdown)

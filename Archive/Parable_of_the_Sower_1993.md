@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Post-Apocalypse | 🧬 Ecology, Rebellion
 
 **Medium:** Novel
+**Raw Score:** 4.14/5
+**Total Ratings:** 5578
 **Creator/Author:** Octavia E. Butler
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Dystopia | 🧬 Megacorps, Poverty, Evolution
 
 **Medium:** Novel
+**Raw Score:** 3.99/5
+**Total Ratings:** 2831
 **Creator/Author:** Cordwainer Smith (Paul Linebarger)
 
 ## The Pitch (Non-Spoiler Breakdown)
