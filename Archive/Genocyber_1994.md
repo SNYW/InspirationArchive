@@ -1,5 +1,7 @@
 # Genocyber (1994)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Horror | 🧬 Megacorps, Sentience, Cybernetics
+
 **Medium:** OVA (Original Video Animation)
 
 **Creator/Author:** Tony Takezaki (Manga), Koichi Ohata (Director)
