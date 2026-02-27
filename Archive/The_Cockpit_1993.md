@@ -1,5 +1,7 @@
 # The Cockpit (1993)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 War | 🧬 War, Sacrifice, Memory
+
 **Medium:** Anime
 
 **Creator/Author:** Leiji Matsumoto (Original Manga), Yoshiaki Kawajiri, Takashi Imanishi, Ryōsuke Takahashi (Directors)
