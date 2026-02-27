@@ -4,6 +4,8 @@
 
 **Creator/Author:** Alejandro Jodorowsky (Writer), Zoran Janjetov (Artist)
 
+**Tags:** 🌍 France | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Transhumanism, Religion, Evolution
+
 ## The Pitch
 
 In a distant future where technology and spirituality have merged into an all-consuming religion, three brothers are born from a priestess violated by space pirates. Albino, the youngest, rejects his mother's cheese-making empire to pursue his dream of becoming a video game creator—but fate propels him instead into the ranks of the Technopriests, a cosmic order of tech-practicing monks. As he rises through the ranks toward becoming the Supreme Technopriest, Albino must navigate a universe where scientific advancement threatens to eclipse human connection, all while dictating his memoirs aboard a spaceship carrying half a million young acolytes to a promised galaxy.

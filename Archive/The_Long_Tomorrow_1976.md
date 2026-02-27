@@ -4,6 +4,8 @@
 
 **Creator/Author:** Dan O'Bannon (writer), Moebius (Jean Giraud) (illustrator)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk, Noir | 🧬 Megacorps, Rebellion
+
 ## The Pitch
 
 Set in a dystopian, crime-ridden future New York City in 2031, this graphic novel follows a cynical taxicab driver named Harry Canyon who navigates the mean streets in his disintegrator-equipped cab. When a red-haired woman fleeing gangsters seeks his help, Harry finds himself tangled in a deadly game involving the Loc-Nar—a green crystalline sphere that contains "the sum of all evils." Written by Dan O'Bannon and illustrated by Moebius, this was one of the first true cyberpunk stories, a pioneering work that influenced the visual designs of Blade Runner, Alien, Tron, and The Abyss. The story is a love letter to film noir and hardboiled crime fiction, transplanted into a bleak science fiction future.
