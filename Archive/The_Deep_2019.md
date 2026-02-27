@@ -2,6 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Evolution
 
 **Medium:** Novella
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Rivers Solomon (with Daveed Diggs, William Hutson, Jonathan Snipes)
 
 ## The Pitch (Non-Spoiler Breakdown)

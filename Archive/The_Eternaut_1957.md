@@ -3,6 +3,8 @@
 **Tags:** 🌍 Multinational | 🎭 Pessimistic | 📚 Post-Apocalypse, Hard-SF | 🧬 Aliens, Rebellion, Time-Travel
 
 **Medium:** Graphic Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Héctor Germán Oesterheld (writer), Francisco Solano López (artist)
 

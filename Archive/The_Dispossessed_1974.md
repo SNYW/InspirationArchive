@@ -2,6 +2,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Utopia | 🧬 Rebellion
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Ursula K. Le Guin
 
 ## The Pitch (Non-Spoiler Breakdown)
