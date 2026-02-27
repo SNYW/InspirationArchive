@@ -1,5 +1,7 @@
 # The Black Hole (1979)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Space-Opera, Horror | 🧬 Sentience, Isolation, Technology
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Gary Nelson
