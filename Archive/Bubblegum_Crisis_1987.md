@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Cybernetics, Rebellion
 
 **Medium:** Anime
+**Raw Score:** 7.301/10
+**Total Ratings:** 18360
 
 **Creator/Author:** Toshimichi Suzuki
 

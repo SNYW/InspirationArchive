@@ -3,6 +3,8 @@
 **Tags:** 🌍 South-Korea | 🎭 Cerebral | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Memory, Transhumanism
 
 **Medium:** Novel
+**Raw Score:** 3.04/5
+**Total Ratings:** 1752
 **Creator/Author:** Djuna (Korean: 듀나)
 
 ## The Pitch (Non-Spoiler Breakdown)

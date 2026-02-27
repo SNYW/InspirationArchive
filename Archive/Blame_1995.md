@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Isolation, VR
 
 **Medium:** Graphic Novel / Manga
+**Raw Score:** 4.19/5
+**Total Ratings:** 20185
 **Creator/Author:** Tsutomu Nihei
 
 ## The Pitch (Non-Spoiler Breakdown)
