@@ -302,7 +302,7 @@ function generateMetricsHtml(m) {
     
     let html = '<div class="badge-row" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">';
     if (m.rating !== null) {
-        html += `<span class="metric-badge"><span class="metric-icon">★</span> ${m.rating.toFixed(1)}</span>`;
+        html += `<span class="metric-badge"><span class="metric-icon">★</span> ${m.rating.toFixed(1)}/5</span>`;
     }
     
     if (m.obscurityTier === 'ghost') {
