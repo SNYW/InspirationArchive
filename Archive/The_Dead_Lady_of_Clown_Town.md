@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Rebellion, Sentience, Religion
 
 **Medium:** Novella / Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Cordwainer Smith
 
 ## The Pitch (Non-Spoiler Breakdown)

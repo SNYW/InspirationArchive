@@ -3,6 +3,8 @@
 **Tags:** 🌍 Italy | 🎭 Pessimistic | 📚 Hard-SF, Dystopia | 🧬 Exploration, Ecology, Religion
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Directed by Paolo Heusch and Mario Bava
 

@@ -2,6 +2,8 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Aliens, Sentience
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Arkady and Boris Strugatsky
 
 ## The Pitch (Non-Spoiler Breakdown)

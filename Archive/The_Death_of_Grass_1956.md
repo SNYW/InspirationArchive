@@ -2,6 +2,8 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Pandemic, Ecology
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** John Christopher (pen name of Sam Youd)
 
 ## The Pitch (Non-Spoiler Breakdown)
