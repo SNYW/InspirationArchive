@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Aliens, Isolation, Sentience
 
 **Medium:** Short Story
+**Raw Score:** 4.0/5
+**Total Ratings:** 51
 **Creator/Author:** Theodore Sturgeon
 
 ## The Pitch (Non-Spoiler Breakdown)

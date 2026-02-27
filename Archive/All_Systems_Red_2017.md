@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Hard-SF | 🧬 Sentience, Cybernetics, Megacorps
 
 **Medium:** Novella
+**Raw Score:** 4.27/5
+**Total Ratings:** 48166
 **Author:** Martha Wells
 
 ## The Pitch (Non-Spoiler Breakdown)

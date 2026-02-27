@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Dystopia, Hard-SF | 🧬 Rebellion, Transhumanism, Sentience
 
 **Medium:** Novel
+**Raw Score:** 3.79/5
+**Total Ratings:** 5782
 **Author:** Larry Niven
 
 ## The Pitch (Non-Spoiler Breakdown)
