@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Science-Fantasy | 🧬 Sentience, Evolution, Religion
 
 **Medium:** Short Story / Novelette
+**Raw Score:** 4.13/5
+**Total Ratings:** 287
 **Author:** Theodore Sturgeon
 
 ## The Pitch (Non-Spoiler Breakdown)
