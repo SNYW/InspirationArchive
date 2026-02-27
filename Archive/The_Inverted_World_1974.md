@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Cerebral, Tense | 📚 Dystopia | 🧬 Isolation, Rebellion
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Christopher Priest
 
 ## The Pitch (Non-Spoiler Breakdown)

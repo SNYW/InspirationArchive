@@ -3,6 +3,8 @@
 **Tags:** 🌍 Canada | 🎭 Gritty, Tense | 📚 Dystopia | 🧬 Rebellion, Technology, Isolation
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Martyn Burke (Director/Writer)
 
