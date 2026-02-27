@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Exploration, Memory
 
 **Medium:** Novel
+**Raw Score:** 3.5/5
+**Total Ratings:** 3309
 **Creator/Author:** Algis Budrys
 
 ## The Pitch (Non-Spoiler Breakdown)

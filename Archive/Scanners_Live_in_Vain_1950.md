@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Isolation, Memory
 
 **Medium:** Short Story
+**Raw Score:** 4.0/5
+**Total Ratings:** 569
 **Creator/Author:** Cordwainer Smith (pen name of Paul Linebarger)
 
 ## The Pitch (Non-Spoiler Breakdown)

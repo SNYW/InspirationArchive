@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 Religion, Exploration, Rebellion, Humanity
 
 **Medium:** Anime
+**Raw Score:** 7.5/10
+**Total Ratings:** 18540
 
 **Creator/Author:** Hiroyuki Yamaga (Director), Gainax
 
