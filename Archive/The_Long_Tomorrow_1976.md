@@ -1,6 +1,8 @@
 # The Long Tomorrow (1976)
 
 **Medium:** Graphic Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Dan O'Bannon (writer), Moebius (Jean Giraud) (illustrator)
 
