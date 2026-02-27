@@ -1,5 +1,7 @@
 # Alphaville (1965)
 
+**Tags:** 🌍 France | 🎭 Cerebral | 📚 Dystopia, Noir | 🧬 Sentience, Rebellion, Isolation
+
 **Medium:** Film
 **Creator/Author:** Jean-Luc Godard (Director), based on characters by Peter R. Ioll
 
