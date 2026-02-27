@@ -3,6 +3,8 @@
 **Tags:** 🌍 France | 🎭 Dark | 📚 Space Opera | 🧬 Dynasty, Cyborgs, Violence, Power, Tragic Heroes
 
 **Medium:** Graphic Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Alejandro Jodorowsky (Writer), Juan Giménez (Artist)
 

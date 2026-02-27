@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Exploration, Aliens
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Robert A. Heinlein
 
 ## The Pitch (Non-Spoiler Breakdown)

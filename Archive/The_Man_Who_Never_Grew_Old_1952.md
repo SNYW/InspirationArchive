@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Hard-SF | 🧬 Transhumanism, Isolation
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** C.M. Kornbluth
 
 ## The Pitch (Non-Spoiler Breakdown)
