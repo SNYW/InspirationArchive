@@ -1,5 +1,7 @@
 # Universal War One (2008)
 
+**Tags:** 🌍 France | 🎭 Gritty | 📚 Military, Space-Opera, Time-Travel | 🧬 Redemption, War, Humanity's Future
+
 **Medium:** Graphic Novel
 
 **Creator/Author:** Denis Bajram

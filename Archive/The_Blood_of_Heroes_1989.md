@@ -1,5 +1,7 @@
 # The Blood of Heroes (1989)
 
+**Tags:** 🌍 Australia | 🎭 Gritty, Optimistic | 📚 Post-Apocalypse | 🧬 Rebellion, Power, Violence as Entertainment
+
 **Medium:** Film
 
 **Creator/Author:** David Webb Peoples (Writer/Director)

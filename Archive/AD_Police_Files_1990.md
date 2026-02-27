@@ -1,5 +1,7 @@
 # AD Police Files (1990)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Noir | 🧬 Identity, Transhumanism, Corporate Conspiracy
+
 **Medium:** OVA (Original Video Animation)
 
 **Creator/Author:** Directed by Takamasa Ikegami and Akira Nishimori; Written by Shō Aikawa and Tony Takezaki; Studio: Artmic and AIC
