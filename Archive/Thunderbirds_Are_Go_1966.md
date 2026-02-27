@@ -3,7 +3,7 @@
 Tags: 🌍 UK | 🎭 Optimistic | 📚 Space-Opera | 🧬 Aliens, Exploration, Technology
 
 **Medium:** Film
-**Raw Score:** 2.65/5
+**Raw Score:** 2.65
 **Total Ratings:** 130
 **Creator/Author:** Directed by David Lane; Produced by Gerry & Sylvia Anderson
 
