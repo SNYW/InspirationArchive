@@ -1,5 +1,7 @@
 # The Hidden (1987)
 
+**Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Hard-SF, Horror | 🧬 Aliens, Identity, Humanity, Violence
+
 **Medium:** Film
 
 **Creator/Author:** Directed by Jack Sholder, Written by Jim Kouf
