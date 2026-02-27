@@ -1,5 +1,7 @@
 # Heavy Metal L-Gaim (1984)
 
+**Tags:** 🌍 Japan | 🎭 Tense | 📚 Space-Opera, Political-Thriller | 🧬 Rebellion, Authoritarianism, Identity, Power
+
 **Medium:** Anime Television Series
 
 **Creator/Author:** Yoshiyuki Tomino (Creator/Director), Mamoru Nagano (Character & Mecha Design)

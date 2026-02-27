@@ -129,7 +129,7 @@
         .modal strong { color: var(--text); font-weight: 600; }
 
         /* --- STATS DASHBOARD CSS --- */
-        .stats-content { max-width: 800px; flex-direction: column; padding: 4rem 3rem; }
+        .stats-content { max-width: 800px; flex-direction: column; padding: 4rem 3rem; overflow-y: auto; }
         .total-count-box { text-align: center; margin-bottom: 3rem; }
         .total-count-box .label { font-size: 1rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.2em; margin-bottom: 0.5rem;}
         .total-count-box .number { font-size: 5rem; font-family: 'Michroma', sans-serif; line-height: 1; text-shadow: 0 0 30px var(--accent-dim); color: var(--text); }
@@ -327,7 +327,7 @@ function openStats() {
     // Sort Descending
     const sortObj = obj => Object.entries(obj).sort((a,b) => b[1] - a[1]);
     let sm = sortObj(mediums);
-    let smo = sortObj(moods);
+    let smo = sortObj(moods).slice(0, 8);
     let sg = sortObj(genres).slice(0, 8); // Top 8 Genres to save space
     
     // Find maximums to calculate bar width percentages
@@ -352,7 +352,7 @@ function openStats() {
                     </div>
                 `).join('')}
                 
-                <h3 style="margin-top: 3rem;">By Vibration (Mood)</h3>
+                <h3 style="margin-top: 3rem;">Top Vibrations (Moods)</h3>
                 ${smo.map(x => `
                     <div class="stat-row">
                         <div class="stat-label">${x[0]}</div>
