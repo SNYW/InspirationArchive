@@ -1,5 +1,7 @@
 # Zardoz (1974)
 
+**Tags:** 🌍 UK | 🎭 Surreal | 📚 Post-Apocalypse | 🧬 Immortality, Rebellion, Transhumanism
+
 **Medium:** Film
 
 **Creator/Author:** John Boorman
