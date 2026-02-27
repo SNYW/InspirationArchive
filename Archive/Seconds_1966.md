@@ -1,5 +1,7 @@
 # Seconds (1966)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Science-Fantasy | 🧬 Identity, Megacorps, Regret
+
 **Medium:** Film
 
 **Creator/Author:** John Frankenheimer (Director), Lewis John Carlino (Screenplay), David Ely (Novel)

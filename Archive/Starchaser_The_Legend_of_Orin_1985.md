@@ -1,5 +1,7 @@
 # Starchaser: The Legend of Orin (1985)
 
+**Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Science-Fantasy | 🧬 Technology, Rebellion
+
 **Medium:** Animated Film
 
 **Creator/Author:** Steven Hahn (Director), Jeffrey Scott (Writer)

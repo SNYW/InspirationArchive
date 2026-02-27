@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, Isolation
 
 **Medium:** Anime Film
+**Raw Score:** 7.7/10
+**Total Ratings:** 11800
 **Creator/Author:** Masaaki Yuasa (Director), Robin Nishi (Original Manga)
 
 ## The Pitch (Non-Spoiler Breakdown)
