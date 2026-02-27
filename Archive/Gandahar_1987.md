@@ -1,5 +1,7 @@
 # Gandahar (1987)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy, Dystopia | 🧬 Time-Travel, Transhumanism, Rebellion
+
 **Medium:** Animated Film
 **Creator/Author:** René Laloux (Director), Jean-Pierre Andrevon (Original Novel)
 
