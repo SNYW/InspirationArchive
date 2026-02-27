@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty, Tense | 📚 Horror | 🧬 Evolution, Isolation, Technology
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** William Sachs (Director/Writer)
 
