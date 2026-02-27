@@ -1,6 +1,10 @@
 # M.D. Geist (1986)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Post-Apocalypse, Cyberpunk | 🧬 Transhumanism, Identity, Rebellion, Isolation
+
 **Medium:** OVA (Original Video Animation)
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Hayato Ikeda (Director), Riku Sanjō (Writer), Production Wave Studio
 

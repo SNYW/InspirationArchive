@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic, Cerebral | 📚 Dystopia | 🧬 Sentience, Poverty
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Ursula K. Le Guin
 
 ## The Pitch (Non-Spoiler Breakdown)

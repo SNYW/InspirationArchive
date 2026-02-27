@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Cerebral, Surreal | 📚 Hard-SF | 🧬 Religion, Nanotech
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Arthur C. Clarke
 
 ## The Pitch (Non-Spoiler Breakdown)
