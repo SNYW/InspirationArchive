@@ -3,6 +3,8 @@
 **Tags:** 🌍 UK | 🎭 Optimistic | 📚 Utopia | 🧬 Ecology
 
 **Medium:** Novel
+**Raw Score:** 3.31/5
+**Total Ratings:** 324
 **Creator/Author:** William Morris
 
 ## The Pitch (Non-Spoiler Breakdown)

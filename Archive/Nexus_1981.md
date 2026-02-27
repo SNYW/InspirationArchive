@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Science-Fantasy | 🧬 Sentience, Rebellion, Isolation
 
 **Medium:** Graphic Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Mike Baron (Writer) & Steve Rude (Artist)
 

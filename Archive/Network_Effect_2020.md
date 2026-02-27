@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Hard-SF | 🧬 Sentience, Aliens
 
 **Medium:** Novel
+**Raw Score:** 4.43/5
+**Total Ratings:** 92464
 **Creator/Author:** Martha Wells
 
 ## The Pitch (Non-Spoiler Breakdown)

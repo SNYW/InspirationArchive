@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Horror | 🧬 Isolation, Religion
 
 **Medium:** Film
+**Raw Score:** 6.9/10
+**Total Ratings:** 49000
 
 **Creator/Author:** Kathryn Bigelow (Director), Eric Red (Writer)
 
