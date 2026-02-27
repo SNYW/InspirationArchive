@@ -1,5 +1,7 @@
 # Blame! (1995)
 
+**Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Isolation, VR
+
 **Medium:** Graphic Novel / Manga
 **Creator/Author:** Tsutomu Nihei
 

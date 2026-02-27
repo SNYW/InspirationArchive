@@ -1,5 +1,7 @@
 # The Airtight Garage (1976)
 
+**Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 VR, Time-Travel, Exploration
+
 **Medium:** Graphic Novel / Comic
 **Creator/Author:** Jean "Moebius" Giraud
 
