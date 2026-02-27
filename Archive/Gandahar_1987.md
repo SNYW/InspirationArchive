@@ -3,6 +3,8 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy, Dystopia | 🧬 Time-Travel, Transhumanism, Rebellion
 
 **Medium:** Animated Film
+**Raw Score:** 6.9/10
+**Total Ratings:** 6300
 **Creator/Author:** René Laloux (Director), Jean-Pierre Andrevon (Original Novel)
 
 ## The Pitch (Non-Spoiler Breakdown)

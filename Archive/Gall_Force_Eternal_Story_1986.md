@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Space-Opera, Military | 🧬 Rebellion, Evolution, Aliens
 
 **Medium:** OVA (Original Video Animation)
+**Raw Score:** 6.371/10
+**Total Ratings:** 3153
 
 **Creator/Author:** Katsuhito Akiyama (Director), Hideki Kakinuma (Writer), Kenichi Sonoda (Character Design)
 

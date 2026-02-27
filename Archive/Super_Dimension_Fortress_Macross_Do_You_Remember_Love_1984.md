@@ -1,5 +1,7 @@
 # The Super Dimension Fortress Macross: Do You Remember Love? (1984)
 
+**Tags:** 🌍 Japan | 🎭 Optimistic | 📚 Space-Opera | 🧬 Aliens, Sentience, Art
+
 **Medium:** Anime Film
 
 **Creator/Author:** Shōji Kawamori (Creator), Noboru Ishiguro (Director)

@@ -3,6 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Horror | 🧬 Megacorps, Sentience, Cybernetics
 
 **Medium:** OVA (Original Video Animation)
+**Raw Score:** 5.801/10
+**Total Ratings:** 13475
 
 **Creator/Author:** Tony Takezaki (Manga), Koichi Ohata (Director)
 
