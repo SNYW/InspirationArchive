@@ -1,5 +1,7 @@
 # Near Dark (1987)
 
+**Tags:** 🌍 USA | 🎭 Gritty | 📚 Horror | 🧬 Isolation, Religion
+
 **Medium:** Film
 
 **Creator/Author:** Kathryn Bigelow (Director), Eric Red (Writer)
