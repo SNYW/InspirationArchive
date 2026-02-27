@@ -1,5 +1,7 @@
 # On the Silver Globe (1988)
 
+**Tags:** 🌍 Poland | 🎭 Surreal, Cerebral | 📚 Science-Fantasy, Dystopia | 🧬 Religion, Evolution, Isolation, Aliens
+
 **Medium:** Film
 **Creator:** Andrzej Żuławski
 
