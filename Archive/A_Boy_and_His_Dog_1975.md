@@ -1,5 +1,7 @@
 # A Boy and His Dog (1975)
 
+**Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Isolation, Rebellion
+
 **Medium:** Film
 
 **Creator/Author:** L.Q. Jones (Director), Based on novella by Harlan Ellison
