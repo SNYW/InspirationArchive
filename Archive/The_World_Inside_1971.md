@@ -5,6 +5,7 @@
 **Medium:** Novel
 **Raw Score:** N/A
 **Total Ratings:** 0
+
 **Creator/Author:** Robert Silverberg
 
 ## The Pitch (Non-Spoiler Breakdown)
@@ -41,7 +42,7 @@ The novel explores how humanity adapted to extreme conditions but in doing so be
 
 ## The Core (Themes & Meaning)
 
-**Population and Utopia:** Silverberg presents a chilling counter-thought experiment. What if humanity actually embraced population growth rather than trying to control it? The result is neither paradise nor apocalypse but something stranger—a society that has eliminated traditional problems (war, hunger, crime) only to create new ones (loss of privacy, forced sexuality, brutal justice, and the dehumanization of the farmer underclass).
+**Population and Utopia:** Silverberg presents a chilling counter-thought experiments. What if humanity actually embraced population growth rather than trying to control it? The result is neither paradise nor apocalypse but something stranger—a society that has eliminated traditional problems (war, hunger, crime) only to create new ones (loss of privacy, forced sexuality, brutal justice, and the dehumanization of the farmer underclass).
 
 **Privacy vs. Communal Survival:** The novel interrogates how much privacy is worth sacrificing for collective survival. In the Urbmon, individual identity dissolves into the collective; even sexual encounters are communal obligations rather than intimate choices. Silverberg asks whether a society that eliminates loneliness and want is worth the cost of eliminating solitude and personal choice.
 

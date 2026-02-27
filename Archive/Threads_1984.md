@@ -3,6 +3,9 @@
 **Tags:** 🌍 UK | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Ecology, Isolation, Pandemic
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Directed by Mick Jackson, Written by Barry Hines
 
 ## The Pitch

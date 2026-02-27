@@ -1,6 +1,10 @@
 # The Congress (2013)
 
 **Medium:** Animated Film
+**Raw Score:** N/A
+**Total Ratings:** 0
+
+**Tags:** 🌍 France | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Identity, Virtual Reality, Corporate Conspiracy, Memory
 
 **Creator/Author:** Ari Folman (Director), based on Stanisław Lem's "The Futurological Congress"
 

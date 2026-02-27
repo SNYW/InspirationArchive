@@ -3,6 +3,8 @@
 **Tags:** 🌍 Poland | 🎭 Tense | 📚 Space-Opera | 🧬 Aliens, Exploration, Evolution
 
 **Medium:** Film
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Kurt Maetzig (Director)
 

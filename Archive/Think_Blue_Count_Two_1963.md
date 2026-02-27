@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Tense | 📚 Hard-SF | 🧬 Isolation, Evolution
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Cordwainer Smith
 
 ## The Pitch (Non-Spoiler Breakdown)

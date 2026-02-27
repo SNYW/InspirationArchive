@@ -3,6 +3,9 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera | 🧬 Time-Travel, Exploration
 
 **Medium:** Animated Film
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** René Laloux (Director), Mœbius (Art Designer)
 
 ## The Pitch (Non-Spoiler Breakdown)

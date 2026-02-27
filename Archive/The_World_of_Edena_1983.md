@@ -3,6 +3,8 @@
 **Tags:** 🌍 France | 🎭 Cerebral | 📚 Space-Opera | 🧬 Exploration, Evolution, Sentience
 
 **Medium:** Graphic Novel / Bande Dessinée
+**Raw Score:** N/A
+**Total Ratings:** 0
 
 **Creator/Author:** Jean "Mœbius" Giraud
 

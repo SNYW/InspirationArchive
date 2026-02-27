@@ -5,6 +5,7 @@
 **Medium:** Novel
 **Raw Score:** N/A
 **Total Ratings:** 0
+
 **Creator/Author:** James H. Schmitz
 
 ## The Pitch (Non-Spoiler Breakdown)
@@ -29,7 +30,7 @@ Through cleverness, courage, and the witches' psionic powers, Pausert and his co
 
 ## The Core (Themes & Meaning)
 
-The Witches of Karres stands out as a remarkable piece of science fiction for several reasons. First, Schmitz presents a more optimistic, tolerant universe than was common in 1960s space opera. His galaxies are places where humans and aliens can coexist, where ordinary people can live viable lives beyond the constant threat of existential monsters.
+The Witches of Karres stands out as a remarkable piece of science fiction for several reasons. First, Schmitz presents a more optimistic, tolerant universe than was commons space opera. His galaxies are places in 1960 where humans and aliens can coexist, where ordinary people can live viable lives beyond the constant threat of existential monsters.
 
 The novel features remarkably progressive characterization for its era. Schmitz was decades ahead of the curve in portraying strong female characters. The witches—particularly Goth—are competent, resourceful, and completely equal to their male counterparts without relying on sexual role-playing clichés. This was groundbreaking at a time when female characters in adventure fiction were typically relegated to damsel-in-distress roles.
 

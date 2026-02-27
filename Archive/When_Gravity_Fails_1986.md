@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 Cybernetics, Sentience, VR
 
 **Medium:** Novel
+**Raw Score:** 3.90/5
+**Total Ratings:** 8184
+
 **Author:** George Alec Effinger
 
 ## The Pitch (Non-Spoiler Breakdown)

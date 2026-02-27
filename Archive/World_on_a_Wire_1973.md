@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 VR, Sentience
 
 **Medium:** Film (TV Miniseries)
+**Raw Score:** 7.7/10
+**Total Ratings:** 7300
+
 **Creator/Author:** Rainer Werner Fassbinder (Director), based on the novel "Simulacron-3" by Daniel F. Galouye
 
 ## The Pitch (Non-Spoiler Breakdown)

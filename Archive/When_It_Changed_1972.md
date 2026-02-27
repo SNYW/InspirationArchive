@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Rebellion, Exploration
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Joanna Russ
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,6 +3,9 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Noir | 🧬 Memory
 
 **Medium:** Short Story
+**Raw Score:** N/A
+**Total Ratings:** 0
+
 **Creator/Author:** Samuel R. Delany
 
 ## The Pitch (Non-Spoiler Breakdown)
