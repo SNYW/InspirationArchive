@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Memory, Evolution
 
 **Medium:** Short Story
+**Raw Score:** 4.26/5
+**Total Ratings:** 4958
 **Creator/Author:** Ted Chiang
 
 ## The Pitch (Non-Spoiler Breakdown)
