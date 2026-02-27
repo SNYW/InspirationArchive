@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Utopia | 🧬 Sentience, Religion
 
 **Medium:** Novella
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Becky Chambers
 
 ## The Pitch (Non-Spoiler Breakdown)
@@ -17,7 +19,7 @@ What follows is a tender, contemplative road trip through a rewilding world, as 
 
 ## The Truth (Full Story Breakdown)
 
-In A-Built, Becky Chambers presents Psalm for the Wild a gently utopian vision of a post-technological future. The story is set on Panga, a moon where humanity once built an advanced industrial civilization powered by AI and robots. These machines—sentient AIs and robot workers—eventually chose to leave human society, withdrawing into the untamed wilderness. Humanity, forced to adapt, developed a sustainable, agrarian solarpunk culture centered on small communities, organic farming, and renewable energy.
+In A Psalm for the Wild-Built, Becky Chambers presents a gently utopian vision of a post-technological future. The story is set on Panga, a moon where humanity once built an advanced industrial civilization powered by AI and robots. These machines—sentient AIs and robot workers—eventually chose to leave human society, withdrawing into the untamed wilderness. Humanity, forced to adapt, developed a sustainable, agrarian solarpunk culture centered on small communities, organic farming, and renewable energy.
 
 The protagonist is Dex, a member of a monastic order that serves communities through the ancient art of tea. Traveling from town to town, Dex custom-blends teas tailored to each person's physical and emotional needs—using the intimate act of tea preparation as a conduit for deeper human connection. It's a role that combines craft, spirituality, and counseling.
 

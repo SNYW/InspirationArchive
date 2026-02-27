@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Aliens, Sentience, Exploration
 
 **Medium:** Short Story
+**Raw Score:** 3.77/5
+**Total Ratings:** 1658
 **Creator/Author:** Stanley G. Weinbaum
 
 ## The Pitch (Non-Spoiler Breakdown)

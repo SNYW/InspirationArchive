@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Space-Opera, Hard-SF | 🧬 Memory, Sentience, Aliens
 
 **Medium:** Novel
+**Raw Score:** N/A
+**Total Ratings:** 0
 **Creator/Author:** Arkady Martine
 
 ## The Pitch (Non-Spoiler Breakdown)
