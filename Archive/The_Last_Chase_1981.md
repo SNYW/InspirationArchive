@@ -1,5 +1,7 @@
 # The Last Chase (1981)
 
+**Tags:** 🌍 Canada | 🎭 Gritty, Tense | 📚 Dystopia | 🧬 Rebellion, Technology, Isolation
+
 **Medium:** Film
 
 **Creator/Author:** Martyn Burke (Director/Writer)
