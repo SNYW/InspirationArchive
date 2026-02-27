@@ -1,5 +1,7 @@
 # Gall Force: Eternal Story (1986)
 
+**Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Space-Opera, Military | 🧬 Rebellion, Evolution, Aliens
+
 **Medium:** OVA (Original Video Animation)
 
 **Creator/Author:** Katsuhito Akiyama (Director), Hideki Kakinuma (Writer), Kenichi Sonoda (Character Design)
