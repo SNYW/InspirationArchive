@@ -113,6 +113,13 @@
         .medium-badge { display: inline-flex; align-items: center; width: fit-content; max-width: max-content; background: var(--theme-med-dim); color: var(--theme-med); border: 1px solid color-mix(in srgb, var(--theme-med) 50%, transparent); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.15em; font-weight: 700; backdrop-filter: blur(4px); box-shadow: 0 4px 15px var(--theme-med-dim); }
         
         .metric-badge { display: inline-flex; align-items: center; gap: 0.3rem; background: rgba(255, 255, 255, 0.05); border: 1px solid var(--border); padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: var(--text); backdrop-filter: blur(4px); }
+        .star-filled { color: var(--accent); }
+        .star-half { color: var(--accent); opacity: 0.5; }
+        .star-empty { color: var(--text-muted); opacity: 0.3; }
+        .rating-num { color: var(--text-muted); font-size: 0.7rem; margin-left: 0.25rem; }
+        .star-empty { color: var(--text-muted); opacity: 0.3; }
+        .rating-num { color: var(--text-muted); font-size: 0.7rem; margin-left: 0.25rem; }
+
         .metric-icon { color: var(--accent); font-size: 0.9rem; line-height: 1; }
         .metric-badge.ghost { color: var(--accent); border-color: var(--accent); text-shadow: 0 0 8px var(--accent-dim); box-shadow: 0 0 10px var(--accent-dim); animation: pulse 2s infinite alternate; }
         @keyframes pulse { from { opacity: 0.8; } to { opacity: 1; transform: scale(1.02); } }
@@ -302,7 +309,19 @@ function generateMetricsHtml(m) {
     
     let html = '<div class="badge-row" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">';
     if (m.rating !== null) {
-        html += `<span class="metric-badge"><span class="metric-icon">★</span> ${m.rating.toFixed(1)} / 5</span>`;
+function generateStars(rating) {
+    if (rating === null) return "";
+    const fullStars = Math.floor(rating);
+    const hasHalf = rating % 1 >= 0.5;
+    let stars = "";
+    for (let i = 0; i < 5; i++) {
+        if (i < fullStars) stars += '<span class="star-filled">★</span>';
+        else if (i === fullStars && hasHalf) stars += '<span class="star-half">★</span>';
+        else stars += '<span class="star-empty">★</span>';
+    }
+    return stars + ' <span class="rating-num">' + rating.toFixed(1) + '</span>';
+}
+        html += `<span class="metric-badge">${generateStars(m.rating)}</span>`;
     }
     
     if (m.obscurityTier === 'ghost') {
