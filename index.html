@@ -289,11 +289,8 @@ function toggleFilters() {
     collapsible.classList.toggle('collapsed');
     btn.classList.toggle('active');
 }
-if (window.innerWidth <= 768) {
-    document.getElementById('filterCollapsible').classList.add('collapsed');
-} else {
-    document.getElementById('filterToggleBtn').classList.add('active');
-}
+// Always start with filters collapsed
+document.getElementById('filterCollapsible').classList.add('collapsed');
 
 let media = [], currentFilteredMedia = [], heroInterval;
 const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new Set(), uniqueTopics = new Set();
