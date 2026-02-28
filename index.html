@@ -617,56 +617,85 @@ function closeModal() { document.getElementById('modal').classList.remove('open'
 document.getElementById('modal').addEventListener('click',function(e){if(e.target===this)closeModal();});
 
 function openStats() {
-    if(!media.length) return;
     const statsModal = document.getElementById('statsModal');
     
-    let total = media.length;
-    let mediums = {}, moods = {}, genres = {};
-    media.forEach(m => {
-        mediums[m.medium] = (mediums[m.medium] || 0) + 1;
-        if(m.tags.mood) m.tags.mood.forEach(x => moods[x] = (moods[x] || 0) + 1);
-        if(m.tags.genre) m.tags.genre.forEach(x => genres[x] = (genres[x] || 0) + 1);
-    });
+    // Fetch fresh data from JSON
+    fetch('archive_content.json')
+        .then(r => r.json())
+        .then(data => {
+            const allMedia = data.entries;
+            let total = allMedia.length;
+            
+            // Aggregate stats from fresh data
+            let mediums = {}, moods = {}, origins = {};
+            allMedia.forEach(m => {
+                mediums[m.medium] = (mediums[m.medium] || 0) + 1;
+                if(m.mood) m.mood.split(',').forEach(x => { const t = x.trim(); if(t) moods[t] = (moods[t] || 0) + 1; });
+                if(m.origin) m.origin.split(',').forEach(x => { const t = x.trim(); if(t) origins[t] = (origins[t] || 0) + 1; });
+            });
 
-    const sortObj = obj => Object.entries(obj).sort((a,b) => b[1] - a[1]);
-    let sm = sortObj(mediums);
-    let smo = sortObj(moods).slice(0, 8);
-    let sg = sortObj(genres).slice(0, 8); 
-    
-    const maxM = Math.max(...sm.map(x=>x[1])) || 1;
-    const maxMo = Math.max(...smo.map(x=>x[1])) || 1;
-    const maxG = Math.max(...sg.map(x=>x[1])) || 1;
+            const sortObj = obj => Object.entries(obj).sort((a,b) => b[1] - a[1]);
+            let sm = sortObj(mediums);
+            let smo = sortObj(moods).slice(0, 8);
+            let so = sortObj(origins).slice(0, 8);
+            
+            const maxM = Math.max(...sm.map(x=>x[1])) || 1;
+            const maxMo = Math.max(...smo.map(x=>x[1])) || 1;
+            const maxO = Math.max(...so.map(x=>x[1])) || 1;
 
-    let html = `
-        <div class="total-count-box">
-            <div class="label">Total Catalogued Visions</div>
-            <div class="number">${total}</div>
-        </div>
-        <div class="stats-grid">
-            <div class="stat-section">
-                <h3>By Medium</h3>
-                ${sm.map(x => `
-                    <div class="stat-row">
-                        <div class="stat-label">${x[0]}</div>
-                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMediumColorVar(x[0])}; color: ${getMediumColorVar(x[0])};" data-width="${(x[1]/maxM)*100}%"></div></div>
-                        <div class="stat-value">${x[1]}</div>
+            let html = `
+                <div class="total-count-box">
+                    <div class="label">Total Catalogued Visions</div>
+                    <div class="number">${total}</div>
+                </div>
+                <div class="stats-grid">
+                    <div class="stat-section">
+                        <h3>By Medium</h3>
+                        ${sm.map(x => `
+                            <div class="stat-row">
+                                <div class="stat-label">${x[0]}</div>
+                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMediumColorVar(x[0])}; color: ${getMediumColorVar(x[0])};" data-width="${(x[1]/maxM)*100}%"></div></div>
+                                <div class="stat-value">${x[1]}</div>
+                            </div>
+                        `).join('')}
+                        
+                        <h3 style="margin-top: 3rem;">Top Vibrations (Moods)</h3>
+                        ${smo.map(x => `
+                            <div class="stat-row">
+                                <div class="stat-label">${x[0]}</div>
+                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMoodColorVar(x[0])}; color: ${getMoodColorVar(x[0])};" data-width="${(x[1]/maxMo)*100}%"></div></div>
+                                <div class="stat-value">${x[1]}</div>
+                            </div>
+                        `).join('')}
                     </div>
-                `).join('')}
-                
-                <h3 style="margin-top: 3rem;">Top Vibrations (Moods)</h3>
-                ${smo.map(x => `
-                    <div class="stat-row">
-                        <div class="stat-label">${x[0]}</div>
-                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMoodColorVar(x[0])}; color: ${getMoodColorVar(x[0])};" data-width="${(x[1]/maxMo)*100}%"></div></div>
-                        <div class="stat-value">${x[1]}</div>
+                    <div class="stat-section">
+                        <h3>Top Origins</h3>
+                        ${so.map(x => `
+                            <div class="stat-row">
+                                <div class="stat-label">${x[0]}</div>
+                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: #9ca3af;" data-width="${(x[1]/maxO)*100}%"></div></div>
+                                <div class="stat-value">${x[1]}</div>
+                            </div>
+                        `).join('')}
                     </div>
-                `).join('')}
-            </div>
-            <div class="stat-section">
-                <h3>Top Genres</h3>
-                ${sg.map(x => `
-                    <div class="stat-row">
-                        <div class="stat-label">${x[0]}</div>
+                </div>
+            `;
+            
+            document.getElementById('statsBody').innerHTML = html;
+            
+            // Animate bars
+            setTimeout(() => {
+                document.querySelectorAll('.stat-bar-fill').forEach(bar => {
+                    bar.style.width = bar.dataset.width;
+                });
+            }, 100);
+            
+            statsModal.classList.add('open');
+        })
+        .catch(e => {
+            console.error('Failed to load stats:', e);
+        });
+}
                         <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: var(--accent); color: var(--accent);" data-width="${(x[1]/maxG)*100}%"></div></div>
                         <div class="stat-value">${x[1]}</div>
                     </div>
