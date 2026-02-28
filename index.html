@@ -696,23 +696,6 @@ function openStats() {
             console.error('Failed to load stats:', e);
         });
 }
-                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: var(--accent); color: var(--accent);" data-width="${(x[1]/maxG)*100}%"></div></div>
-                        <div class="stat-value">${x[1]}</div>
-                    </div>
-                `).join('')}
-            </div>
-        </div>
-    `;
-    
-    document.getElementById('statsBody').innerHTML = html;
-    statsModal.classList.add('open');
-    
-    setTimeout(() => {
-        document.querySelectorAll('.stat-bar-fill').forEach(bar => {
-            bar.style.width = bar.getAttribute('data-width');
-        });
-    }, 50);
-}
 
 function closeStats() { document.getElementById('statsModal').classList.remove('open'); }
 document.getElementById('statsModal').addEventListener('click',function(e){if(e.target===this)closeStats();});
