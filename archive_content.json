@@ -147,7 +147,7 @@
     {
       "title": "A feladat",
       "year": 1975,
-      "medium": "TV Mini Series",
+      "medium": "TV Series",
       "creator": "G\u00e1bor V\u00e1rkonyi (Director), based on the novel by P\u00e9ter Zsoldos",
       "raw_score": 3.75,
       "total_ratings": 58,
@@ -179,7 +179,7 @@
     {
       "title": "AD Police Files",
       "year": 1990,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Directed by Takamasa Ikegami and Akira Nishimori; Written by Sh\u014d Aikawa and Tony Takezaki; Studio: Artmic and AIC",
       "raw_score": 3.13,
       "total_ratings": 8061,
@@ -275,7 +275,7 @@
     {
       "title": "Angel Cop",
       "year": 1989,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Created and directed by Ichir\u014d Itano; Written by Sh\u014d Aikawa and Ichir\u014d Itano",
       "raw_score": 3.02,
       "total_ratings": 26810,
@@ -291,7 +291,7 @@
     {
       "title": "Angel's Egg",
       "year": 1985,
-      "medium": "Animated Film (OVA)",
+      "medium": "Anime",
       "creator": "Mamoru Oshii (Director/Writer), Yoshitaka Amano (Artist)",
       "raw_score": 3.85,
       "total_ratings": 71138,
@@ -339,7 +339,7 @@
     {
       "title": "Arzach",
       "year": 1975,
-      "medium": "Graphic Novel / Comic",
+      "medium": "Graphic Novel",
       "creator": "Jean \"Moebius\" Giraud",
       "raw_score": 4.01,
       "total_ratings": 90,
@@ -403,7 +403,7 @@
     {
       "title": "Blame!",
       "year": 1995,
-      "medium": "Graphic Novel / Manga",
+      "medium": "Graphic Novel",
       "creator": "Tsutomu Nihei",
       "raw_score": 4.19,
       "total_ratings": 20185,
@@ -435,7 +435,7 @@
     {
       "title": "Br\u00fcsel",
       "year": 1992,
-      "medium": "Graphic Novel / Bande Dessin\u00e9e",
+      "medium": "Graphic Novel",
       "creator": "Fran\u00e7ois Schuiten (artist), Beno\u00eet Peeters (writer)",
       "raw_score": 3.65,
       "total_ratings": 20,
@@ -515,7 +515,7 @@
     {
       "title": "City",
       "year": 1952,
-      "medium": "Novel (Fix-up)",
+      "medium": "Novel",
       "creator": "Clifford D. Simak",
       "raw_score": 4.08,
       "total_ratings": 13859,
@@ -563,7 +563,7 @@
     {
       "title": "Cyber City Oedo 808",
       "year": 1990,
-      "medium": "OVA (Original Video Animation) / Anime",
+      "medium": "Anime",
       "creator": "Yoshiaki Kawajiri (Director), Madhouse (Studio)",
       "raw_score": 3.61,
       "total_ratings": 37309,
@@ -579,7 +579,7 @@
     {
       "title": "Dallos",
       "year": 1983,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Hisayuki Toriumi (Concept), Mamoru Oshii (Co-director)",
       "raw_score": 2.99,
       "total_ratings": 11103,
@@ -627,7 +627,7 @@
     {
       "title": "Demon City Shinjuku",
       "year": 1988,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Directed by Yoshiaki Kawajiri; Based on the novel by Hideyuki Kikuchi; Studio: Madhouse",
       "raw_score": null,
       "total_ratings": null,
@@ -707,7 +707,7 @@
     {
       "title": "Ergo Proxy",
       "year": 2006,
-      "medium": "Anime Television Series",
+      "medium": "Anime",
       "creator": "Directed by Sh\u016bk\u014d Murase, Written by Dai Sat\u014d",
       "raw_score": 3.95,
       "total_ratings": 256734,
@@ -787,7 +787,7 @@
     {
       "title": "Gall Force: Eternal Story",
       "year": 1986,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Katsuhito Akiyama (Director), Hideki Kakinuma (Writer), Kenichi Sonoda (Character Design)",
       "raw_score": 3.19,
       "total_ratings": 3153,
@@ -819,7 +819,7 @@
     {
       "title": "Genocyber",
       "year": 1994,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Tony Takezaki (Manga), Koichi Ohata (Director)",
       "raw_score": 2.9,
       "total_ratings": 13475,
@@ -883,7 +883,7 @@
     {
       "title": "Heavy Metal L-Gaim",
       "year": 1984,
-      "medium": "Anime Television Series",
+      "medium": "Anime",
       "creator": "Yoshiyuki Tomino (Creator/Director), Mamoru Nagano (Character & Mecha Design)",
       "raw_score": 3.4,
       "total_ratings": 1996,
@@ -1091,7 +1091,7 @@
     {
       "title": "La Jet\u00e9e",
       "year": 1962,
-      "medium": "Short Film / Featurette",
+      "medium": "Short Story",
       "creator": "Chris Marker",
       "raw_score": 4.1,
       "total_ratings": 40000,
@@ -1123,7 +1123,7 @@
     {
       "title": "Legend of the Galactic Heroes",
       "year": 1982,
-      "medium": "Novel / Anime / Manga",
+      "medium": "Anime",
       "creator": "Yoshiki Tanaka (Novel), Katsumi Michihara (Manga)",
       "raw_score": 4.51,
       "total_ratings": 86929,
@@ -1155,7 +1155,7 @@
     {
       "title": "M.D. Geist",
       "year": 1986,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Hayato Ikeda (Director), Riku Sanj\u014d (Writer), Production Wave Studio",
       "raw_score": 2.7,
       "total_ratings": 500,
@@ -1187,7 +1187,7 @@
     {
       "title": "Megazone 23",
       "year": 1985,
-      "medium": "Anime (OVA)",
+      "medium": "Anime",
       "creator": "Noboru Ishiguro (Director), Hiroyuki Hoshiyama (Writer)",
       "raw_score": 3.38,
       "total_ratings": 6514,
@@ -1219,7 +1219,7 @@
     {
       "title": "Microcosmic God",
       "year": 1941,
-      "medium": "Short Story / Novelette",
+      "medium": "Novella",
       "creator": "",
       "raw_score": 4.13,
       "total_ratings": 287,
@@ -1475,7 +1475,7 @@
     {
       "title": "Outlanders",
       "year": 1986,
-      "medium": "OVA (Original Video Animation)",
+      "medium": "Anime",
       "creator": "Created by Johji Manabe (manga) | OVA directed by Katsuhisa Yamada | Produced by Tatsunoko Production",
       "raw_score": 2.85,
       "total_ratings": 330,
@@ -1571,7 +1571,7 @@
     {
       "title": "Pumzi",
       "year": 2009,
-      "medium": "Short Film",
+      "medium": "Short Story",
       "creator": "Wanuri Kahiu",
       "raw_score": 3.55,
       "total_ratings": 390,
@@ -1619,7 +1619,7 @@
     {
       "title": "Robot Carnival",
       "year": 1987,
-      "medium": "OVA (Original Video Animation) / Anime",
+      "medium": "Anime",
       "creator": "Multiple Directors (Katsuhiro Otomo, Koji Morimoto, Hidetoshi \u014cmori, Yasuomi Umetsu, Takashi Nakamura, Hiroyuki Kitakubo, Hiroyuki Kitazume, Mao Lamdo)",
       "raw_score": 3.6,
       "total_ratings": 10860,
@@ -1907,7 +1907,7 @@
     {
       "title": "Sukeban Deka",
       "year": 1991,
-      "medium": "OVA (Original Video Animation) / Anime",
+      "medium": "Anime",
       "creator": "Based on manga by Shinji Wada; Directed by Hirota Takeshi; Produced by Kazuyoshi Hirose; Studio: Sido Limited",
       "raw_score": 3.21,
       "total_ratings": 8315,
@@ -2083,7 +2083,7 @@
     {
       "title": "The Airtight Garage",
       "year": 1976,
-      "medium": "Graphic Novel / Comic",
+      "medium": "Graphic Novel",
       "creator": "Jean \"Moebius\" Giraud",
       "raw_score": 4.16,
       "total_ratings": 1457,
@@ -2115,7 +2115,7 @@
     {
       "title": "The Ballad of Lost C'Mell",
       "year": 1962,
-      "medium": "Novella / Short Story",
+      "medium": "Novella",
       "creator": "Cordwainer Smith (Paul Linebarger)",
       "raw_score": 3.79,
       "total_ratings": 222,
@@ -2131,7 +2131,7 @@
     {
       "title": "The Barbie Murders",
       "year": 1980,
-      "medium": "Short Story Collection",
+      "medium": "Short Story",
       "creator": "John Varley",
       "raw_score": 4.08,
       "total_ratings": 575,
@@ -2371,7 +2371,7 @@
     {
       "title": "The Dead Lady of Clown Town",
       "year": 1964,
-      "medium": "Novella / Short Story",
+      "medium": "Novella",
       "creator": "Cordwainer Smith",
       "raw_score": 3.0,
       "total_ratings": 25,
@@ -2451,7 +2451,7 @@
     {
       "title": "The Dragon Masters",
       "year": 1963,
-      "medium": "Novella/Short Story",
+      "medium": "Novella",
       "creator": "Jack Vance",
       "raw_score": 3.5,
       "total_ratings": 100,
@@ -2531,7 +2531,7 @@
     {
       "title": "The Fever in Urbicande (La Fi\u00e8vre d'Urbicande)",
       "year": 1985,
-      "medium": "Graphic Novel / Bande Dessin\u00e9e",
+      "medium": "Graphic Novel",
       "creator": "Fran\u00e7ois Schuiten (artist), Beno\u00eet Peeters (writer)",
       "raw_score": 4.0,
       "total_ratings": 200,
@@ -2547,7 +2547,7 @@
     {
       "title": "The Fifth Head of Cerberus",
       "year": 1972,
-      "medium": "Novella/Collection",
+      "medium": "Novella",
       "creator": "",
       "raw_score": 3.69,
       "total_ratings": 435,
@@ -2755,7 +2755,7 @@
     {
       "title": "The Incal",
       "year": 1980,
-      "medium": "Graphic Novel / Bande Dessin\u00e9e",
+      "medium": "Graphic Novel",
       "creator": "Alejandro Jodorowsky (Writer), Jean Giraud/M\u0153bius (Original Artist), Zoran Janjetov (Before the Incal), Jos\u00e9 Ladr\u00f6nn (Final Incal)",
       "raw_score": 4.04,
       "total_ratings": 1315,
@@ -2835,7 +2835,7 @@
     {
       "title": "The Last Castle",
       "year": 1966,
-      "medium": "Novella / Short Story",
+      "medium": "Novella",
       "creator": "Jack Vance",
       "raw_score": 3.8,
       "total_ratings": 200,
@@ -3123,7 +3123,7 @@
     {
       "title": "The Midas Plague",
       "year": 1954,
-      "medium": "Novella / Short Novel",
+      "medium": "Novella",
       "creator": "Frederik Pohl",
       "raw_score": 3.5,
       "total_ratings": 100,
@@ -3475,7 +3475,7 @@
     {
       "title": "The Silver Crown",
       "year": 1968,
-      "medium": "Novel/Children's Science Fiction",
+      "medium": "Novel",
       "creator": "Robert C. O'Brien",
       "raw_score": 3.5,
       "total_ratings": 50,
@@ -3651,7 +3651,7 @@
     {
       "title": "The Unpleasant Profession of Jonathan Hoag",
       "year": 1942,
-      "medium": "Short Story / Novella",
+      "medium": "Novella",
       "creator": "Robert A. Heinlein (as \"John Riverside\")",
       "raw_score": 4.0,
       "total_ratings": 100,
@@ -3763,7 +3763,7 @@
     {
       "title": "The World of Edena",
       "year": 1983,
-      "medium": "Graphic Novel / Bande Dessin\u00e9e",
+      "medium": "Graphic Novel",
       "creator": "Jean \"M\u0153bius\" Giraud",
       "raw_score": 3.5,
       "total_ratings": 100,
@@ -3987,7 +3987,7 @@
     {
       "title": "Wicked City",
       "year": 1987,
-      "medium": "Anime (OVA)",
+      "medium": "Anime",
       "creator": "Yoshiaki Kawajiri (Director), Based on \"Wicked City: Black Guard\" by Hideyuki Kikuchi",
       "raw_score": 3.35,
       "total_ratings": 12000,
@@ -4019,7 +4019,7 @@
     {
       "title": "World on a Wire",
       "year": 1973,
-      "medium": "Film (TV Miniseries)",
+      "medium": "TV Series",
       "creator": "Rainer Werner Fassbinder (Director), based on the novel \"Simulacron-3\" by Daniel F. Galouye",
       "raw_score": 3.85,
       "total_ratings": 7300,
@@ -4035,7 +4035,7 @@
     {
       "title": "Yokohama Kaidashi Kikou",
       "year": 1998,
-      "medium": "OVA Anime (Manga source)",
+      "medium": "Anime",
       "creator": "Hitoshi Ashinano (Manga), Takashi Ann\u014d/Tomomi Mochizuki (OVA Direction)",
       "raw_score": 3.72,
       "total_ratings": 17089,
