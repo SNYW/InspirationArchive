@@ -402,12 +402,44 @@ function buildSiteMosaic() {
 async function loadMediaList() { 
     const g = document.getElementById('mediaGrid'); 
     try { 
-        const r = await fetch('https://api.github.com/repos/SNYW/InspirationArchive/contents/Archive'); 
-        const f = await r.json(); 
-        if(!Array.isArray(f)) throw new Error(f.message||"Could not read repo"); 
+        // Load from JSON file instead of parsing markdown
+        const r = await fetch('archive_content.json');
+        const data = await r.json();
         
-        const md = f.filter(x=>x.name.endsWith('.md')); 
-        media = (await Promise.all(md.map(async x=>{try{const res=await fetch(x.download_url);return parseMarkdownFile(x.name,await res.text());}catch{return null}}))).filter(x=>x); 
+        // Convert JSON format to expected format
+        media = data.entries.map(entry => {
+            const tags = {
+                country: entry.origin ? entry.origin.split(',').map(t => t.trim()).filter(t => t) : [],
+                mood: entry.mood ? entry.mood.split(',').map(t => t.trim()).filter(t => t) : [],
+                genre: entry.sub_genres ? entry.sub_genres.split(',').map(t => t.trim()).filter(t => t) : [],
+                topic: entry.topics ? entry.topics.split(',').map(t => t.trim()).filter(t => t) : []
+            };
+            
+            // Calculate rating (normalize to 0-5 scale)
+            let rating = entry.raw_score;
+            let ratingsCount = entry.total_ratings || 0;
+            let obscurityTier, obscurityPct;
+            
+            if (ratingsCount >= 100000) { obscurityTier = 'mainstream'; obscurityPct = Math.max(0, 30 - Math.floor(ratingsCount/100000)); }
+            else if (ratingsCount >= 10000) { obscurityTier = 'cult'; obscurityPct = Math.max(30, 60 - Math.floor(ratingsCount/2500)); }
+            else if (ratingsCount >= 1000) { obscurityTier = 'deep'; obscurityPct = Math.max(60, 90 - Math.floor(ratingsCount/300)); }
+            else if (ratingsCount > 0) { obscurityTier = 'outer'; obscurityPct = Math.min(99, 90 + Math.floor((1000-ratingsCount)/100)); }
+            else { obscurityTier = 'ghost'; obscurityPct = 100; }
+            
+            return {
+                title: entry.title,
+                year: entry.year ? `(${entry.year})` : '',
+                medium: entry.medium,
+                pitch: entry.pitch ? entry.pitch.substring(0, 800) : 'No description available.',
+                tags: tags,
+                rating: rating,
+                ratingsCount: ratingsCount,
+                obscurityTier: obscurityTier,
+                obscurityPct: obscurityPct,
+                content: `## The Pitch\n${entry.pitch || ''}\n\n## The Truth\n${entry.truth || ''}\n\n## The Core\n${entry.core || ''}`,
+                image: 'Images/' + entry.image_filename
+            };
+        });
         
         if(!media.length){g.innerHTML='<div class="loading error-message">Archive is empty.</div>';return;} 
         
