@@ -479,6 +479,14 @@ async function loadMediaList() {
             [media[i], media[j]] = [media[j], media[i]];
         }
         
+        // Populate unique filter sets from JSON data
+        data.entries.forEach(entry => {
+            if (entry.origin) entry.origin.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueCountries.add(t));
+            if (entry.mood) entry.mood.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueMoods.add(t));
+            if (entry.sub_genres) entry.sub_genres.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueGenres.add(t));
+            if (entry.topics) entry.topics.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueTopics.add(t));
+        });
+        
         currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); loadMedia(); 
     }catch(e){g.innerHTML='<div class="loading error-message">Connection Error:<br>'+e.message+'</div>';} 
 }
