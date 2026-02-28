@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, Isolation, Technology
 
-**Medium:** OVA (Original Video Animation) / Anime
+**Medium:** Anime
 **Raw Score:** 3.6/5
 **Total Ratings:** 10860
 

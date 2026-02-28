@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 Sentience, VR, Memory
 
-**Medium:** Anime (OVA)
+**Medium:** Anime
 **Raw Score:** 3.38/5
 **Total Ratings:** 6514
 **Creator/Author:** Noboru Ishiguro (Director), Hiroyuki Hoshiyama (Writer)

@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera, Science-Fantasy | 🧬 Religion, Aliens
 
-**Medium:** Graphic Novel / Bande Dessinée
+**Medium:** Graphic Novel
 **Raw Score:** 4.04/5
 **Total Ratings:** 1315
 **Creator/Author:** Alejandro Jodorowsky (Writer), Jean Giraud/Mœbius (Original Artist), Zoran Janjetov (Before the Incal), José Ladrönn (Final Incal)

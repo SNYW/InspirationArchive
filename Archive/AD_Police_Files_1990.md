@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Noir | 🧬 Identity, Transhumanism, Corporate Conspiracy
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 3.13/5
 **Total Ratings:** 8061
 

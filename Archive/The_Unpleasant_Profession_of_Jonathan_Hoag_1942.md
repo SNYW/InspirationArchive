@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Science-Fantasy | 🧬 VR, Memory, Religion
 
-**Medium:** Short Story / Novella
+**Medium:** Novella
 **Raw Score:** 4.0/5
 **Total Ratings:** 100
 

@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Post-Apocalypse, Cyberpunk | 🧬 Transhumanism, Identity, Rebellion, Isolation
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 2.7/5
 **Total Ratings:** 500
 

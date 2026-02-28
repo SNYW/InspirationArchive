@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Megacorps, Isolation, VR
 
-**Medium:** Graphic Novel / Manga
+**Medium:** Graphic Novel
 **Raw Score:** 4.19/5
 **Total Ratings:** 20185
 **Creator/Author:** Tsutomu Nihei

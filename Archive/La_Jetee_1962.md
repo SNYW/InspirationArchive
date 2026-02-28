@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 France | 🎭 Melancholic | 📚 Post-Apocalypse | 🧬 Memory, Time-Travel
 
-**Medium:** Short Film / Featurette
+**Medium:** Short Story
 **Raw Score:** 4.1/5
 **Total Ratings:** 40000
 **Creator/Author:** Chris Marker

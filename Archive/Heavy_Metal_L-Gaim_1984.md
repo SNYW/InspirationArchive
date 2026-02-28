@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Tense | 📚 Space-Opera, Political-Thriller | 🧬 Rebellion, Authoritarianism, Identity, Power
 
-**Medium:** Anime Television Series
+**Medium:** Anime
 **Raw Score:** 3.4/5
 **Total Ratings:** 1996
 

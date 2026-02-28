@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 VR, Sentience
 
-**Medium:** Film (TV Miniseries)
+**Medium:** TV Series
 **Raw Score:** 3.85/5
 **Total Ratings:** 7300
 

@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Horror | 🧬 Megacorps, Sentience, Cybernetics
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 2.9/5
 **Total Ratings:** 13475
 

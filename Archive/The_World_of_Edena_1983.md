@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 France | 🎭 Cerebral | 📚 Space-Opera | 🧬 Exploration, Evolution, Sentience
 
-**Medium:** Graphic Novel / Bande Dessinée
+**Medium:** Graphic Novel
 **Raw Score:** 3.5/5
 **Total Ratings:** 100
 

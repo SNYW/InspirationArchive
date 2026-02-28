@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Space-Opera, Military | 🧬 Rebellion, Evolution, Aliens
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 3.19/5
 **Total Ratings:** 3153
 

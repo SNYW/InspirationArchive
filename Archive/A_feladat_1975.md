@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Hungary | 🎭 Cerebral | 📚 Hard-SF | 🧬 Sentience, Isolation, Evolution
 
-**Medium:** TV Mini Series
+**Medium:** TV Series
 **Raw Score:** 3.75/5
 **Total Ratings:** 58
 **Creator/Author:** Gábor Várkonyi (Director), based on the novel by Péter Zsoldos

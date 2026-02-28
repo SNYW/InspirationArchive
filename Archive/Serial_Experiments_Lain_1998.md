@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk | 🧬 VR, Transhumanism, Religion
 
-**Medium:** Anime (TV Series)
+**Medium:** Anime
 **Raw Score:** 4.05/5
 **Total Ratings:** 351223
 **Creator/Author:** Yasuyuki Ueda (Creator), Chiaki J. Konaka (Writer), Ryūtarō Nakamura (Director)

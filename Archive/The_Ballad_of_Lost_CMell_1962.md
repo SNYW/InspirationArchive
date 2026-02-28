@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Sentience, Rebellion, Cloning
 
-**Medium:** Novella / Short Story
+**Medium:** Novella
 **Raw Score:** 3.79/5
 **Total Ratings:** 222
 **Creator/Author:** Cordwainer Smith (Paul Linebarger)

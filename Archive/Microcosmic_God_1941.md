@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF, Science-Fantasy | 🧬 Sentience, Evolution, Religion
 
-**Medium:** Short Story / Novelette
+**Medium:** Novella
 **Raw Score:** 4.13/5
 **Total Ratings:** 287
 **Author:** Theodore Sturgeon

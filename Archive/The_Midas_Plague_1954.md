@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Satirical | 📚 Dystopia | 🧬 Poverty
 
-**Medium:** Novella / Short Novel
+**Medium:** Novella
 **Raw Score:** 3.5/5
 **Total Ratings:** 100
 **Creator/Author:** Frederik Pohl

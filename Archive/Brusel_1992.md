@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Belgium | 🎭 Melancholic | 📚 Dystopia | 🧬 Bureaucracy, Rebellion, Memory
 
-**Medium:** Graphic Novel / Bande Dessinée
+**Medium:** Graphic Novel
 **Raw Score:** 3.65/5
 **Total Ratings:** 20
 

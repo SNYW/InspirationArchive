@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk | 🧬 Rebellion, Religion, Megacorps, Transhumanism
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 3.02/5
 **Total Ratings:** 26810
 

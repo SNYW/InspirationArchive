@@ -2,7 +2,7 @@
 **Tags:** 🌍 USA | 🎭 Melancholic, Cerebral | 📚 Space-Opera | 🧬 Sentience, Isolation, Cybernetics
 
 
-**Medium:** Novel / Short Story Collection
+**Medium:** Novel
 **Raw Score:** 4.03/5
 **Total Ratings:** 24350
 **Creator/Author:** Anne McCaffrey

@@ -2,7 +2,7 @@
 **Tags:** 🌍 USA | 🎭 Tense, Surreal | 📚 Science-Fantasy | 🧬 Rebellion, Religion
 
 
-**Medium:** Novel/Children's Science Fiction
+**Medium:** Novel
 **Raw Score:** 3.5/5
 **Total Ratings:** 50
 **Creator/Author:** Robert C. O'Brien

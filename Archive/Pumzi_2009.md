@@ -2,7 +2,7 @@
 
 Tags: 🌍 Kenya | 🎭 Melancholy | 📚 Post-Apocalypse | 🧬 Ecology, Isolation
 
-**Medium:** Short Film
+**Medium:** Short Story
 **Raw Score:** 3.55
 **Total Ratings:** 390
 **Creator/Author:** Wanuri Kahiu

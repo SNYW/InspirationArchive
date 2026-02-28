@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Optimistic | 📚 Space-Opera, Science-Fantasy | 🧬 Aliens, Rebellion
 
-**Medium:** OVA (Original Video Animation)
+**Medium:** Anime
 **Raw Score:** 2.85
 **Total Ratings:** 330
 **Creator/Author:** Created by Johji Manabe (manga) | OVA directed by Katsuhisa Yamada | Produced by Tatsunoko Production

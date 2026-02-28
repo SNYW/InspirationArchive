@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Aliens, Exploration, Evolution
 
-**Medium:** Graphic Novel / Comic
+**Medium:** Graphic Novel
 **Raw Score:** 4.01/5
 **Total Ratings:** 90
 **Creator/Author:** Jean "Moebius" Giraud

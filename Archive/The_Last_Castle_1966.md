@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Utopia | 🧬 Evolution, Isolation
 
-**Medium:** Novella / Short Story
+**Medium:** Novella
 **Raw Score:** 3.8/5
 **Total Ratings:** 200
 **Creator/Author:** Jack Vance

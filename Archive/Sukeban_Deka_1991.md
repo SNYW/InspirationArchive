@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Noir, Dystopia | 🧬 Rebellion, Isolation, Poverty
 
-**Medium:** OVA (Original Video Animation) / Anime
+**Medium:** Anime
 **Raw Score:** 3.21/5
 **Total Ratings:** 8315
 

@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Rebellion, Sentience, Religion
 
-**Medium:** Novella / Short Story
+**Medium:** Novella
 **Raw Score:** 3.0/5
 **Total Ratings:** 25
 **Creator/Author:** Cordwainer Smith

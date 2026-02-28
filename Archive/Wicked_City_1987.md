@@ -2,7 +2,7 @@
 
 **Tags:** 🌍 Japan | 🎭 Gritty, Tense | 📚 Noir, Science-Fantasy | 🧬 Identity, Rebellion, Violence
 
-**Medium:** Anime (OVA)
+**Medium:** Anime
 **Raw Score:** 3.35/5
 **Total Ratings:** 12000
 
