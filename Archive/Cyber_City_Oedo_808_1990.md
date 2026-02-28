@@ -1,4 +1,4 @@
-# Cyber City Oedo 808 (1990-1991)
+# Cyber City Oedo 808 (1990)
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Sentience, Megacorps, Cybernetics
 

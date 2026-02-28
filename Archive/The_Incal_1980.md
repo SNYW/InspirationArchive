@@ -1,4 +1,4 @@
-# The Incal (1980-2014)
+# The Incal (1980)
 
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Space-Opera, Science-Fantasy | 🧬 Religion, Aliens
 

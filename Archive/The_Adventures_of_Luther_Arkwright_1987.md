@@ -1,4 +1,4 @@
-# The Adventures of Luther Arkwright (1987-1989)
+# The Adventures of Luther Arkwright (1987)
 
 **Tags:** 🌍 UK | 🎭 Tense | 📚 Hard-SF | 🧬 Rebellion, Sentience
 
