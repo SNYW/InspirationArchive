@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Religion, Memory, Isolation
 
 **Medium:** Animated Film (OVA)
-**Raw Score:** 7.71/10
+**Raw Score:** 3.85/5
 **Total Ratings:** 71138
 **Creator/Author:** Mamoru Oshii (Director/Writer), Yoshitaka Amano (Artist)
 

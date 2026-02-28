@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Pessimistic | 📚 Dystopia, Science-Fantasy | 🧬 Rebellion, Megacorps, Isolation
 
 **Medium:** OVA (Original Video Animation)
-**Raw Score:** 5.981/10
+**Raw Score:** 2.99/5
 **Total Ratings:** 11103
 **Creator/Author:** Hisayuki Toriumi (Concept), Mamoru Oshii (Co-director)
 

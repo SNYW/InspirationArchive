@@ -3,7 +3,7 @@
 **Tags:** 🌍 France | 🎭 Cerebral | 📚 Dystopia, Noir | 🧬 Sentience, Rebellion, Isolation
 
 **Medium:** Film
-**Raw Score:** 7.0/10
+**Raw Score:** 3.5/5
 **Total Ratings:** 30000
 **Creator/Author:** Jean-Luc Godard (Director), based on characters by Peter R. Ioll
 

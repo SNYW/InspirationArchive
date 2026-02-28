@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Love, Identity
 
 **Medium:** Anime Film
-**Raw Score:** 7.8/10
+**Raw Score:** 3.9/5
 **Total Ratings:** 36000
 
 **Creator/Author:** Satoshi Kon (Director), Sadayuki Murai (Screenplay)

@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Tense | 📚 Cyberpunk, Biopunk | 🧬 Cybernetics, Transhumanism, Evolution
 
 **Medium:** Anime (TV Series)
-**Raw Score:** 7.76/10
+**Raw Score:** 3.88/5
 **Total Ratings:** 63155
 **Creator/Author:** Hiroshi Hamasaki (Director), Chiaki J. Konaka (Writer), Yoshitoshi Abe (Character Design)
 

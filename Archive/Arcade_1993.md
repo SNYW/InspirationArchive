@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 Virtual Reality, Technology
 
 **Medium:** Film
-**Raw Score:** 4.5/10
+**Raw Score:** 4.5/5
 **Total Ratings:** 102200
 **Creator/Author:** Directed by Albert Pyun, Written by David S. Goyer
 

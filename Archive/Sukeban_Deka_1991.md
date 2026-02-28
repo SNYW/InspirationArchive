@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Noir, Dystopia | 🧬 Rebellion, Isolation, Poverty
 
 **Medium:** OVA (Original Video Animation) / Anime
-**Raw Score:** 6.43/10
+**Raw Score:** 3.21/5
 **Total Ratings:** 8315
 
 **Creator/Author:** Based on manga by Shinji Wada; Directed by Hirota Takeshi; Produced by Kazuyoshi Hirose; Studio: Sido Limited

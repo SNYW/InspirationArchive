@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Melancholic | 📚 Science-Fantasy | 🧬 Memory, Religion, Exploration
 
 **Medium:** Animated Film
-**Raw Score:** 7.36/10
+**Raw Score:** 3.68/5
 **Total Ratings:** 11008
 
 **Creator/Author:** Gisaburo Sugii (Director), based on the novel by Kenji Miyazawa

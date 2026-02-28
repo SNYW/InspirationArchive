@@ -3,7 +3,7 @@
 **Tags:** 🌍 Multinational | 🎭 Gritty | 📚 Cyberpunk, Post-Apocalypse | 🧬 Cybernetics, Isolation, Ecology
 
 **Medium:** Film
-**Raw Score:** 6.0/10
+**Raw Score:** 3.0/5
 **Total Ratings:** 18000
 **Creator/Author:** Richard Stanley (Director/Writer)
 

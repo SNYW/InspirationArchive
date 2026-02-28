@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Optimistic | 📚 Space-Opera | 🧬 Aliens, Sentience, Art
 
 **Medium:** Anime Film
-**Raw Score:** 7.931/10
+**Raw Score:** 3.97/5
 **Total Ratings:** 24987
 
 **Creator/Author:** Shōji Kawamori (Creator), Noboru Ishiguro (Director)

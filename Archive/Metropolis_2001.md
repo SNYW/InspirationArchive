@@ -1,7 +1,7 @@
 # Metropolis (2001)
 
 **Medium:** Anime Film
-**Raw Score:** 7.52/10
+**Raw Score:** 3.76/5
 **Total Ratings:** 48830
 
 **Tags:** 🌍 Japan | 🎭 Gritty | 📚 Cyberpunk, Dystopia | 🧬 Sentience, Rebellion, Megacorps, Identity

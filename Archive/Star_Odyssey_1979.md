@@ -3,7 +3,7 @@
 **Tags:** 🌍 Italy | 🎭 Gritty | 📚 Space-Opera | 🧬 Aliens, Rebellion
 
 **Medium:** Film
-**Raw Score:** 2.8/10
+**Raw Score:** 2.8/5
 **Total Ratings:** 10833
 **Creator/Author:** Alfonso Brescia (Director)
 

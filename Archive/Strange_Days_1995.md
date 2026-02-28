@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Cyberpunk | 🧬 VR, Megacorps
 
 **Medium:** Film
-**Raw Score:** 7.2/10
+**Raw Score:** 3.6/5
 **Total Ratings:** 85000
 **Director:** Kathryn Bigelow
 

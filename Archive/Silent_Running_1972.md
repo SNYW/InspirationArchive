@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Melancholic | 📚 Space-Opera | 🧬 Ecology, Isolation, Sentience
 
 **Medium:** Film
-**Raw Score:** 6.6/10
+**Raw Score:** 3.3/5
 **Total Ratings:** 33000
 **Creator/Author:** Douglas Trumbull (Director), Michael Cimino, Deric Washburn, Steven Bochco (Screenplay)
 

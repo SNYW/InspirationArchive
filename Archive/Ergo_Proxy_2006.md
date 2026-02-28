@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Cyberpunk, Science-Fantasy | 🧬 Sentience, Evolution, Transhumanism
 
 **Medium:** Anime Television Series
-**Raw Score:** 7.9/10
+**Raw Score:** 3.95/5
 **Total Ratings:** 256734
 **Creator/Author:** Directed by Shūkō Murase, Written by Dai Satō
 

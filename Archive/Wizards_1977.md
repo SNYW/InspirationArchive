@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Post-Apocalypse, Science-Fantasy | 🧬 Rebellion, Religion, Ecology
 
 **Medium:** Animated Film
-**Raw Score:** 6.3/10
+**Raw Score:** 3.15/5
 **Total Ratings:** 14000
 
 **Creator/Author:** Ralph Bakshi

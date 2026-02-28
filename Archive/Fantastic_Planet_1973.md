@@ -3,7 +3,7 @@
 **Tags:** 🌍 France | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Rebellion, Religion, Evolution
 
 **Medium:** Animated Film
-**Raw Score:** 7.6/10
+**Raw Score:** 3.8/5
 **Total Ratings:** 42000
 **Creator/Author:** René Laloux (Director), Roland Topp (Animation Director)
 

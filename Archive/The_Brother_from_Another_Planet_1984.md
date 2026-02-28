@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Aliens, Isolation, Rebellion
 
 **Medium:** Film
-**Raw Score:** 6.8/10
+**Raw Score:** 3.4/5
 **Total Ratings:** 107000
 
 **Creator/Author:** John Sayles (Writer/Director)

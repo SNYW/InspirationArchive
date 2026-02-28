@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Gritty, Tense | 📚 Noir, Science-Fantasy | 🧬 Identity, Rebellion, Violence
 
 **Medium:** Anime (OVA)
-**Raw Score:** 6.7/10
+**Raw Score:** 3.35/5
 **Total Ratings:** 12000
 
 **Creator/Author:** Yoshiaki Kawajiri (Director), Based on "Wicked City: Black Guard" by Hideyuki Kikuchi

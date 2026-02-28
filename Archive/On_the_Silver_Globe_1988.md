@@ -3,7 +3,7 @@
 **Tags:** 🌍 Poland | 🎭 Surreal, Cerebral | 📚 Science-Fantasy, Dystopia | 🧬 Religion, Evolution, Isolation, Aliens
 
 **Medium:** Film
-**Raw Score:** 7.1/10
+**Raw Score:** 3.55/5
 **Total Ratings:** 6100
 **Creator:** Andrzej Żuławski
 

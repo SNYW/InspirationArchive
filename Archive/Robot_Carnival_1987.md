@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, Isolation, Technology
 
 **Medium:** OVA (Original Video Animation) / Anime
-**Raw Score:** 7.2/10
+**Raw Score:** 3.6/5
 **Total Ratings:** 10860
 
 **Creator/Author:** Multiple Directors (Katsuhiro Otomo, Koji Morimoto, Hidetoshi Ōmori, Yasuomi Umetsu, Takashi Nakamura, Hiroyuki Kitakubo, Hiroyuki Kitazume, Mao Lamdo)

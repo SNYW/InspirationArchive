@@ -3,7 +3,7 @@
 **Tags:** 🌍 USA | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Isolation, Rebellion
 
 **Medium:** Film
-**Raw Score:** 6.4/10
+**Raw Score:** 3.2/5
 **Total Ratings:** 21000
 
 **Creator/Author:** L.Q. Jones (Director), Based on novella by Harlan Ellison

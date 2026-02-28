@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, Isolation
 
 **Medium:** Anime Film
-**Raw Score:** 7.8/10
+**Raw Score:** 3.9/5
 **Total Ratings:** 35687
 **Creator/Author:** Masaaki Yuasa (Director), Robin Nishi (Original Manga)
 

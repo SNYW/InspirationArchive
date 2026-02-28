@@ -3,7 +3,7 @@
 **Tags:** 🌍 Japan | 🎭 Surreal | 📚 Science-Fantasy | 🧬 Sentience, VR
 
 **Medium:** Anime Film
-**Raw Score:** 7.05/10
+**Raw Score:** 3.52/5
 **Total Ratings:** 14497
 
 **Creator/Author:** Directed by Rintaro, Yoshiaki Kawajiri, and Katsuhiro Otomo

@@ -3,7 +3,7 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Optimistic | 📚 Science-Fantasy | 🧬 Technology, Rebellion
 
 **Medium:** Film
-**Raw Score:** 7.5/10
+**Raw Score:** 3.75/5
 **Total Ratings:** 103100
 **Creator/Author:** Karel Zeman
 

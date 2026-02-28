@@ -3,7 +3,7 @@
 Tags: 🌍 Multinational | 🎭 Satirical | 📚 Science-Fantasy | 🧬 Time-Travel
 
 **Medium:** Film
-**Raw Score:** 6.7/10
+**Raw Score:** 3.35/5
 **Total Ratings:** 10650
 **Creator/Author:** Directed by Oldřich Lipský; Studio: Czechoslovak Film
 

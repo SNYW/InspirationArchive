@@ -3,7 +3,7 @@
 **Tags:** 🌍 Poland | 🎭 Satirical | 📚 Dystopia | 🧬 Rebellion
 
 **Medium:** Film
-**Raw Score:** 6.9/10
+**Raw Score:** 3.45/5
 **Total Ratings:** 1400
 
 **Creator/Author:** Piotr Szulkin (Director/Writer)

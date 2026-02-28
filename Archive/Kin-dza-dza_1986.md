@@ -3,7 +3,7 @@
 **Tags:** 🌍 Russia | 🎭 Satirical | 📚 Dystopia | 🧬 Rebellion, Ecology
 
 **Medium:** Film
-**Raw Score:** 7.8/10
+**Raw Score:** 3.9/5
 **Total Ratings:** 15000
 **Creator/Author:** Georgiy Daneliya (Director), Revaz Gabriadze (Writer)
 
