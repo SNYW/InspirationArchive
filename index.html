@@ -496,7 +496,7 @@ function loadMedia() {
         }
         if (of !== 'all' && m.obscurityTier !== of) return false;
         
-        if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
+        if(sq&&!m.title.toLowerCase().includes(sq))return false; 
         return true; 
     });
     
