@@ -608,7 +608,7 @@ function openModal(mObj) {
             <span class="year" style="color: var(--text-muted); font-weight: 600;">${mObj.year}</span>
         </div>
         <h2 style="margin-top: 0; margin-bottom: 0.25rem;">${mObj.title}</h2>
-        ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">by ${mObj.creator}</div>` : ''}
+        ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">${mObj.creator}</div>` : ''}
         ${generateMetricsHtml(mObj)}
         ${tagsHtml}
         <div style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
