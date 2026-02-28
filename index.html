@@ -335,7 +335,7 @@ function generateStars(rating) {
     if (m.obscurityTier === 'ghost') {
         html += `<span class="metric-badge ghost"><span class="metric-icon">👁</span> GHOST DATA</span>`;
     } else if (m.obscurityPct !== null) {
-        html += `<span class="metric-badge"><div class="obscurity-bar"><div class="obscurity-track"><div class="obscurity-fill ${m.obscurityTier}" style="width:${m.obscurityPct}%"></div></div><span class="obscurity-text">${m.obscurityPct}%</span></div></span>`;
+        html += `<span class="metric-badge"><div class="obscurity-bar"><span class="obscurity-text">Obscurity:</span><div class="obscurity-track"><div class="obscurity-fill ${m.obscurityTier}" style="width:${m.obscurityPct}%"></div></div></div></span>`;
     }
     html += '</div>';
     return html;
