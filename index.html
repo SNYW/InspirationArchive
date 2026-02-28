@@ -113,6 +113,14 @@
         .medium-badge { display: inline-flex; align-items: center; width: fit-content; max-width: max-content; background: var(--theme-med-dim); color: var(--theme-med); border: 1px solid color-mix(in srgb, var(--theme-med) 50%, transparent); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.15em; font-weight: 700; backdrop-filter: blur(4px); box-shadow: 0 4px 15px var(--theme-med-dim); }
         
         .metric-badge { display: inline-flex; align-items: center; gap: 0.3rem; background: rgba(255, 255, 255, 0.05); border: 1px solid var(--border); padding: 0.25rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: var(--text); backdrop-filter: blur(4px); }
+        .obscurity-bar { display: inline-flex; align-items: center; gap: 0.4rem; }
+        .obscurity-track { width: 50px; height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; }
+        .obscurity-fill { height: 100%; background: var(--accent); border-radius: 3px; transition: width 0.3s ease; }
+        .obscurity-fill.mainstream { background: #4ade80; }
+        .obscurity-fill.cult { background: #facc15; }
+        .obscurity-fill.deep { background: #fb923c; }
+        .obscurity-fill.outer { background: #f87171; }
+        .obscurity-text { font-size: 0.7rem; color: var(--text-muted); }
         .star-filled { color: var(--accent); }
         .star-half { color: var(--accent); opacity: 0.5; }
         .star-empty { color: var(--text-muted); opacity: 0.3; }
@@ -327,7 +335,7 @@ function generateStars(rating) {
     if (m.obscurityTier === 'ghost') {
         html += `<span class="metric-badge ghost"><span class="metric-icon">👁</span> GHOST DATA</span>`;
     } else if (m.obscurityPct !== null) {
-        html += `<span class="metric-badge"><span class="metric-icon">👁</span> ${m.obscurityPct}% Obscure</span>`;
+        html += `<span class="metric-badge"><div class="obscurity-bar"><div class="obscurity-track"><div class="obscurity-fill ${m.obscurityTier}" style="width:${m.obscurityPct}%"></div></div><span class="obscurity-text">${m.obscurityPct}%</span></div></span>`;
     }
     html += '</div>';
     return html;
