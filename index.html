@@ -37,7 +37,7 @@
             --med-film: #ff4a8a;
             --med-animated: #39ff14;
             --med-comic: #ffaa00;
-            --med-game: #b829ff; /* Added Game Color (Neon Purple) */
+            --med-game: #b829ff;
         }
         
         [data-theme="light"] {
@@ -58,7 +58,7 @@
             --med-film: #d9004c;
             --med-animated: #009900;
             --med-comic: #cc6600;
-            --med-game: #720e9e; /* Added Game Color Light */
+            --med-game: #720e9e;
         }
         
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -123,10 +123,31 @@
         .obscurity-fill.deep { background: #fb923c; }
         .obscurity-fill.outer { background: #f87171; }
         .obscurity-text { font-size: 0.7rem; color: var(--text-muted); }
+        
         .star-filled { color: var(--accent); }
-        .star-half { color: var(--accent); opacity: 0.5; }
         .star-empty { color: var(--text-muted); opacity: 0.3; }
-        .rating-num { color: var(--text-muted); font-size: 0.7rem; margin-left: 0.25rem; }
+        
+        /* True Half-Star Implementation */
+        .star-half { 
+            position: relative; 
+            display: inline-block; 
+        }
+        .star-half::before { 
+            content: '★'; 
+            color: var(--text-muted); 
+            opacity: 0.3; 
+        }
+        .star-half::after { 
+            content: '★'; 
+            position: absolute; 
+            left: 0; 
+            top: 0; 
+            color: var(--accent); 
+            width: 50%; /* This precisely cuts the colored star in half */
+            overflow: hidden; 
+        }
+        
+        .rating-num { color: var(--text-muted); font-size: 0.75rem; margin-left: 0.4rem; font-weight: 700; }
 
         .metric-icon { color: var(--accent); font-size: 0.9rem; line-height: 1; }
         .metric-badge.ghost { color: var(--accent); border-color: var(--accent); text-shadow: 0 0 8px var(--accent-dim); box-shadow: 0 0 10px var(--accent-dim); animation: pulse 2s infinite alternate; }
@@ -218,7 +239,7 @@
             </button>
         </div>
         
-        <div id="filterCollapsible" class="filter-collapsible">
+        <div id="filterCollapsible" class="filter-collapsible collapsed">
             <div class="filters">
                 <button class="filter-btn active" data-filter="all">All Visions</button>
                 <button class="filter-btn" data-filter="Novel">Novels</button>
@@ -289,8 +310,6 @@ function toggleFilters() {
     collapsible.classList.toggle('collapsed');
     btn.classList.toggle('active');
 }
-// Always start with filters collapsed
-document.getElementById('filterCollapsible').classList.add('collapsed');
 
 let media = [], currentFilteredMedia = [], heroInterval;
 const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new Set(), uniqueTopics = new Set();
@@ -315,7 +334,7 @@ function generateStars(rating) {
     let stars = "";
     for (let i = 0; i < 5; i++) {
         if (i < fullStars) stars += '<span class="star-filled">★</span>';
-        else if (i === fullStars && hasHalf) stars += '<span class="star-half">★</span>';
+        else if (i === fullStars && hasHalf) stars += '<span class="star-half"></span>';
         else stars += '<span class="star-empty">★</span>';
     }
     return stars + ' <span class="rating-num">' + rating.toFixed(1) + '</span>';
@@ -515,7 +534,6 @@ function openModal(mObj) {
     m.style.setProperty('--theme-med',mdC); m.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)'); 
     i.src=mObj.image; const pm=mObj.tags.mood[0]||'Unknown'; i.onerror=function(){this.onerror=null;this.src='https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;}; 
     
-    // Just format the clean text directly!
     let t = mObj.content.replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
     
     let allTags = [...mObj.tags.country,...mObj.tags.mood,...mObj.tags.genre,...mObj.tags.topic]; 
@@ -603,7 +621,6 @@ function openStats() {
     
     document.getElementById('statsBody').innerHTML = html;
     
-    // Animate bars
     setTimeout(() => {
         document.querySelectorAll('.stat-bar-fill').forEach(bar => {
             bar.style.width = bar.dataset.width;
