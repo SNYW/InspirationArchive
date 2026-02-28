@@ -127,8 +127,6 @@
         .star-half { color: var(--accent); opacity: 0.5; }
         .star-empty { color: var(--text-muted); opacity: 0.3; }
         .rating-num { color: var(--text-muted); font-size: 0.7rem; margin-left: 0.25rem; }
-        .star-empty { color: var(--text-muted); opacity: 0.3; }
-        .rating-num { color: var(--text-muted); font-size: 0.7rem; margin-left: 0.25rem; }
 
         .metric-icon { color: var(--accent); font-size: 0.9rem; line-height: 1; }
         .metric-badge.ghost { color: var(--accent); border-color: var(--accent); text-shadow: 0 0 8px var(--accent-dim); box-shadow: 0 0 10px var(--accent-dim); animation: pulse 2s infinite alternate; }
@@ -309,16 +307,10 @@ function getMediumColorVar(medium) {
     if (m.includes('novel') || m.includes('story')) return 'var(--med-written)'; 
     if (m.includes('anime') || m.includes('animat')) return 'var(--med-animated)'; 
     if (m.includes('film') || m.includes('movie')) return 'var(--med-film)'; 
-    // Added Support for Game Media Colors
     if (m.includes('game') || m.includes('interactive')) return 'var(--med-game)'; 
     return 'var(--accent)'; 
 }
 
-function generateMetricsHtml(m) {
-    if (m.rating === null && m.ratingsCount === null) return ''; 
-    
-    let html = '<div class="badge-row" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">';
-    if (m.rating !== null) {
 function generateStars(rating) {
     if (rating === null) return "";
     const fullStars = Math.floor(rating);
@@ -331,6 +323,12 @@ function generateStars(rating) {
     }
     return stars + ' <span class="rating-num">' + rating.toFixed(1) + '</span>';
 }
+
+function generateMetricsHtml(m) {
+    if (m.rating === null && m.ratingsCount === null) return ''; 
+    
+    let html = '<div class="badge-row" style="margin-top: 0.5rem; margin-bottom: 0.5rem;">';
+    if (m.rating !== null) {
         html += `<span class="metric-badge">${generateStars(m.rating)}</span>`;
     }
     
@@ -341,76 +339,6 @@ function generateStars(rating) {
     }
     html += '</div>';
     return html;
-}
-
-function parseMarkdownFile(filename, content) {
-    let title = filename.replace('.md', '').replace(/_/g, ' '), year = '', medium = 'Unknown', pitch = 'No description available.', tags = { country: [], mood: [], genre: [], topic: [] };
-    
-    const titleMatch = content.match(/^#\s+(.+?)(?:\s+\((\d{4})\))?\s*$/m);
-    if (titleMatch) { title = titleMatch[1].trim(); if (titleMatch[2]) year = `(${titleMatch[2]})`; }
-    const mediumMatch = content.match(/\*\*Medium:\*\*\s*(.+)/i);
-    if (mediumMatch) medium = mediumMatch[1].trim();
-    
-    const tagsMatch = content.match(/\*\*Tags?[\*:\s]*(.+?)$/im);
-    if (tagsMatch) {
-        const categories = tagsMatch[1].split('|').map(s => s.trim());
-        categories.forEach((cat, index) => {
-            const cleanCat = cat.replace(/^[^a-zA-Z0-9]+/, '').trim();
-            const tagList = cleanCat.split(',').map(t => t.trim()).filter(t => t);
-            if (cat.includes('🌍') || index === 0) { tags.country = tagList; tagList.forEach(t => uniqueCountries.add(t)); }
-            else if (cat.includes('🎭') || index === 1) { tags.mood = tagList; tagList.forEach(t => uniqueMoods.add(t)); }
-            else if (cat.includes('📚') || index === 2) { tags.genre = tagList; tagList.forEach(t => uniqueGenres.add(t)); }
-            else if (cat.includes('🧬') || index === 3) { tags.topic = tagList; tagList.forEach(t => uniqueTopics.add(t)); } 
-        }); 
-    }
-
-    let rating = null;
-    let ratingsCount = null;
-    let obscurityTier = null;
-    let obscurityPct = null;
-
-    const scoreMatch = content.match(/\*\*Raw Score:\*\*\s*(.+)/i);
-    if (scoreMatch) {
-        let s = scoreMatch[1].trim();
-        if (s.toLowerCase() !== 'n/a') {
-            let parts = s.split('/');
-            if (parts.length === 2) {
-                let num = parseFloat(parts[0]);
-                let den = parseFloat(parts[1]);
-                if (den === 10) rating = num / 2;
-                else if (den === 5) rating = num;
-                else rating = num; 
-            } else {
-                rating = parseFloat(s);
-            }
-        }
-    }
-
-    const ratingsMatch = content.match(/\*\*Total Ratings:\*\*\s*(.+)/i);
-    if (ratingsMatch) {
-        let r = ratingsMatch[1].trim().replace(/,/g, '');
-        if (r.toLowerCase() !== 'n/a') {
-            ratingsCount = parseInt(r);
-            if (isNaN(ratingsCount)) ratingsCount = 0;
-        } else {
-            ratingsCount = 0; 
-        }
-        
-        if (ratingsCount >= 100000) { obscurityTier = 'mainstream'; obscurityPct = Math.max(0, 30 - Math.floor(ratingsCount/100000)); }
-        else if (ratingsCount >= 10000) { obscurityTier = 'cult'; obscurityPct = Math.max(30, 60 - Math.floor(ratingsCount/2500)); }
-        else if (ratingsCount >= 1000) { obscurityTier = 'deep'; obscurityPct = Math.max(60, 90 - Math.floor(ratingsCount/300)); }
-        else if (ratingsCount > 0) { obscurityTier = 'outer'; obscurityPct = Math.min(99, 90 + Math.floor((1000-ratingsCount)/100)); }
-        else { obscurityTier = 'ghost'; obscurityPct = 100; }
-    }
-
-    const pitchMatch = content.match(/##\s*The\s+Pitch\s*(.+?)(?=##|#|$)/is);
-    if (pitchMatch) { pitch = pitchMatch[1].replace(/\n+/g, ' ').replace(/\(Non-Spoiler Breakdown\)/gi, '').trim().substring(0, 800); if (pitch.length >= 795) pitch += "..."; }
-    
-    return { 
-        title: title, year: year, medium: medium, pitch: pitch, tags: tags, 
-        rating: rating, ratingsCount: ratingsCount, obscurityTier: obscurityTier, obscurityPct: obscurityPct,
-        content: content, image: 'Images/' + filename.replace('.md', '.jpg') 
-    }; 
 }
 
 function populateDropdowns() { 
@@ -431,11 +359,9 @@ function buildSiteMosaic() {
 async function loadMediaList() { 
     const g = document.getElementById('mediaGrid'); 
     try { 
-        // Load from JSON file instead of parsing markdown
         const r = await fetch('archive_content.json');
         const data = await r.json();
         
-        // Convert JSON format to expected format
         media = data.entries.map(entry => {
             const tags = {
                 country: entry.origin ? entry.origin.split(',').map(t => t.trim()).filter(t => t) : [],
@@ -444,7 +370,6 @@ async function loadMediaList() {
                 topic: entry.topics ? entry.topics.split(',').map(t => t.trim()).filter(t => t) : []
             };
             
-            // Calculate rating (normalize to 0-5 scale)
             let rating = entry.raw_score;
             let ratingsCount = entry.total_ratings || 0;
             let obscurityTier, obscurityPct;
@@ -473,13 +398,11 @@ async function loadMediaList() {
         
         if(!media.length){g.innerHTML='<div class="loading error-message">Archive is empty.</div>';return;} 
         
-        // Randomize the load order!
         for (let i = media.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [media[i], media[j]] = [media[j], media[i]];
         }
         
-        // Populate unique filter sets from JSON data
         data.entries.forEach(entry => {
             if (entry.origin) entry.origin.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueCountries.add(t));
             if (entry.mood) entry.mood.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueMoods.add(t));
@@ -595,16 +518,8 @@ function openModal(mObj) {
     m.style.setProperty('--theme-med',mdC); m.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)'); 
     i.src=mObj.image; const pm=mObj.tags.mood[0]||'Unknown'; i.onerror=function(){this.onerror=null;this.src='https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;}; 
     
-    // Scrub the duplicate data out of the raw markdown text
-    let cleanContent = mObj.content
-        .replace(/^#\s+.+$/gm, '') // Strip H1 title
-        .replace(/\*\*Medium:\*\*\s*.+/gi, '') // Strip Medium
-        .replace(/\*\*Raw Score:\*\*\s*.+/gi, '') // Strip Raw Score
-        .replace(/\*\*Total Ratings:\*\*\s*.+/gi, '') // Strip Ratings
-        .replace(/\*\*Tags?[\*:\s]*(.+?)$/gmi, '') // Strip Tags
-        .trim();
-
-    let t=cleanContent.replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
+    // Just format the clean text directly!
+    let t = mObj.content.replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
     
     let allTags = [...mObj.tags.country,...mObj.tags.mood,...mObj.tags.genre,...mObj.tags.topic]; 
     allTags = [...new Set(allTags)]; 
@@ -625,88 +540,80 @@ function openModal(mObj) {
     `; 
     m.classList.add('open'); 
 }
+
 function closeModal() { document.getElementById('modal').classList.remove('open'); }
 document.getElementById('modal').addEventListener('click',function(e){if(e.target===this)closeModal();});
 
 function openStats() {
+    if(!media.length) return;
     const statsModal = document.getElementById('statsModal');
     
-    // Fetch fresh data from JSON
-    fetch('archive_content.json')
-        .then(r => r.json())
-        .then(data => {
-            const allMedia = data.entries;
-            let total = allMedia.length;
-            
-            // Aggregate stats from fresh data
-            let mediums = {}, moods = {}, origins = {};
-            allMedia.forEach(m => {
-                mediums[m.medium] = (mediums[m.medium] || 0) + 1;
-                if(m.mood) m.mood.split(',').forEach(x => { const t = x.trim(); if(t) moods[t] = (moods[t] || 0) + 1; });
-                if(m.origin) m.origin.split(',').forEach(x => { const t = x.trim(); if(t) origins[t] = (origins[t] || 0) + 1; });
-            });
+    let total = media.length;
+    let mediums = {}, moods = {}, origins = {};
+    
+    media.forEach(m => {
+        mediums[m.medium] = (mediums[m.medium] || 0) + 1;
+        if(m.tags.mood) m.tags.mood.forEach(x => moods[x] = (moods[x] || 0) + 1);
+        if(m.tags.country) m.tags.country.forEach(x => origins[x] = (origins[x] || 0) + 1);
+    });
 
-            const sortObj = obj => Object.entries(obj).sort((a,b) => b[1] - a[1]);
-            let sm = sortObj(mediums);
-            let smo = sortObj(moods).slice(0, 8);
-            let so = sortObj(origins).slice(0, 8);
-            
-            const maxM = Math.max(...sm.map(x=>x[1])) || 1;
-            const maxMo = Math.max(...smo.map(x=>x[1])) || 1;
-            const maxO = Math.max(...so.map(x=>x[1])) || 1;
+    const sortObj = obj => Object.entries(obj).sort((a,b) => b[1] - a[1]);
+    let sm = sortObj(mediums);
+    let smo = sortObj(moods).slice(0, 8);
+    let so = sortObj(origins).slice(0, 8);
+    
+    const maxM = Math.max(...sm.map(x=>x[1])) || 1;
+    const maxMo = Math.max(...smo.map(x=>x[1])) || 1;
+    const maxO = Math.max(...so.map(x=>x[1])) || 1;
 
-            let html = `
-                <div class="total-count-box">
-                    <div class="label">Total Catalogued Visions</div>
-                    <div class="number">${total}</div>
-                </div>
-                <div class="stats-grid">
-                    <div class="stat-section">
-                        <h3>By Medium</h3>
-                        ${sm.map(x => `
-                            <div class="stat-row">
-                                <div class="stat-label">${x[0]}</div>
-                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMediumColorVar(x[0])}; color: ${getMediumColorVar(x[0])};" data-width="${(x[1]/maxM)*100}%"></div></div>
-                                <div class="stat-value">${x[1]}</div>
-                            </div>
-                        `).join('')}
-                        
-                        <h3 style="margin-top: 3rem;">Top Vibrations (Moods)</h3>
-                        ${smo.map(x => `
-                            <div class="stat-row">
-                                <div class="stat-label">${x[0]}</div>
-                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMoodColorVar(x[0])}; color: ${getMoodColorVar(x[0])};" data-width="${(x[1]/maxMo)*100}%"></div></div>
-                                <div class="stat-value">${x[1]}</div>
-                            </div>
-                        `).join('')}
+    let html = `
+        <div class="total-count-box">
+            <div class="label">Total Catalogued Visions</div>
+            <div class="number">${total}</div>
+        </div>
+        <div class="stats-grid">
+            <div class="stat-section">
+                <h3>By Medium</h3>
+                ${sm.map(x => `
+                    <div class="stat-row">
+                        <div class="stat-label">${x[0]}</div>
+                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMediumColorVar(x[0])}; color: ${getMediumColorVar(x[0])};" data-width="${(x[1]/maxM)*100}%"></div></div>
+                        <div class="stat-value">${x[1]}</div>
                     </div>
-                    <div class="stat-section">
-                        <h3>Top Origins</h3>
-                        ${so.map(x => `
-                            <div class="stat-row">
-                                <div class="stat-label">${x[0]}</div>
-                                <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: #9ca3af;" data-width="${(x[1]/maxO)*100}%"></div></div>
-                                <div class="stat-value">${x[1]}</div>
-                            </div>
-                        `).join('')}
+                `).join('')}
+                
+                <h3 style="margin-top: 3rem;">Top Vibrations (Moods)</h3>
+                ${smo.map(x => `
+                    <div class="stat-row">
+                        <div class="stat-label">${x[0]}</div>
+                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: ${getMoodColorVar(x[0])}; color: ${getMoodColorVar(x[0])};" data-width="${(x[1]/maxMo)*100}%"></div></div>
+                        <div class="stat-value">${x[1]}</div>
                     </div>
-                </div>
-            `;
-            
-            document.getElementById('statsBody').innerHTML = html;
-            
-            // Animate bars
-            setTimeout(() => {
-                document.querySelectorAll('.stat-bar-fill').forEach(bar => {
-                    bar.style.width = bar.dataset.width;
-                });
-            }, 100);
-            
-            statsModal.classList.add('open');
-        })
-        .catch(e => {
-            console.error('Failed to load stats:', e);
+                `).join('')}
+            </div>
+            <div class="stat-section">
+                <h3>Top Origins</h3>
+                ${so.map(x => `
+                    <div class="stat-row">
+                        <div class="stat-label">${x[0]}</div>
+                        <div class="stat-bar-bg"><div class="stat-bar-fill" style="width: 0%; background: #9ca3af;" data-width="${(x[1]/maxO)*100}%"></div></div>
+                        <div class="stat-value">${x[1]}</div>
+                    </div>
+                `).join('')}
+            </div>
+        </div>
+    `;
+    
+    document.getElementById('statsBody').innerHTML = html;
+    
+    // Animate bars
+    setTimeout(() => {
+        document.querySelectorAll('.stat-bar-fill').forEach(bar => {
+            bar.style.width = bar.dataset.width;
         });
+    }, 100);
+    
+    statsModal.classList.add('open');
 }
 
 function closeStats() { document.getElementById('statsModal').classList.remove('open'); }
