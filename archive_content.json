@@ -1072,6 +1072,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Fire Tripper",
+      "year": 1985,
+      "medium": "OVA",
+      "creator": "Rumiko Takahashi",
+      "raw_score": 3.2,
+      "total_ratings": 3298,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy, Time-Travel ,",
+      "topics": "Memory, Time-Travel",
+      "image_filename": "Fire_Tripper_1985.jpg",
+      "pitch": "Fire Tripper is a 1985 Japanese OVA adapted from Rumiko Takahashi's 1983 manga. The story follows Suzuko, a modern Japanese schoolgirl who suffers a gas explosion and wakes up in feudal Japan during a civil war. There, she encounters a young man named Shukumaru who rescues her from attackers and takes her to his village. As Suzuko navigates this ancient world, she slowly uncovers the truth about her connection to this time period and discovers that fire is the key to time travel. The OVA blends romance, time travel, and historical drama in classic Takahashi style.",
+      "truth": "Suzuko is a regular high school girl in modern Japan who has always had a strange, fragmented memory of being trapped in a burning house as a child. One day, while walking home with her neighbor Sh\u016bhei (a young boy who recently had his appendix removed), a massive gas explosion occurs. \n\nWhen Suzuko awakens, she finds herself on a battlefield in Sengoku period Japan, surrounded by dead bodies. She is nearly assaulted by invading soldiers but is rescued by Shukumaru, a young man who serves as the village protector and occasional thief. Shukumaru takes Suzuko back to his village, where he gives his young sister a bell and announces he intends to marry Suzuko.\n\nSuzuko discovers Sh\u016bhei's shirt among her belongings and realizes he must have traveled through time with her. She searches for him but cannot find him. The villagers gossip about Shukumaru's intentions toward Suzuko, and one night he gets drunk and visits her hut, but only falls asleep.\n\nEventually, Suzuko discovers a shocking truth: she is actually the little girl named Suzu who was born in this era. She realizes she traveled forward in time as a child and was adopted by modern parents, making her Shukumaru's biological sister. Troubled by this revelation, she cannot bear to marry him if they are siblings.\n\nWhen the village is attacked and burnt by the leader Akauma, Suzuko sees her younger self disappear to the future. She then realizes that fire is what enables time travel\u2014this is how she survived the house fire she remembers from childhood and how she arrived in modern times.\n\nBack in the present, Suzuko finds Shukumaru has been transported with her. She cares for his wounds and notices he has a scar on his stomach in exactly the same place as Sh\u016bhei's appendix scar. The truth dawns: Shukumaru IS Sh\u016bhei. When the time switch occurred, Sh\u016bhei was found and raised in the past, making him not her biological brother after all.\n\nThe two use another gas explosion to travel back to Shukumaru's era, where they finally attend their wedding.",
+      "core": "**Time Travel as Memory and Identity:** Fire Tripper explores how our memories shape our sense of self. Suzuko's fragmented childhood memory of a burning house turns out to be the key to understanding her entire existence. The OVA suggests that time is not linear but cyclical\u2014our past lives and future selves are connected through memory and emotion.\n\n**Fate vs. Choice:** The story grapples with whether our lives are predetermined or shaped by choice. Suzuko and Sh\u016bhei are fated to meet across time, yet they ultimately choose to shape their own destiny by traveling back together. The twist\u2014that they are not actually siblings\u2014suggests that apparent barriers to love can be overcome.\n\n**The Nature of Home:** Fire Tripper contrasts modern Japan with feudal Japan, asking what makes a place \"home.\" Suzuko initially wants to return to her time, but having fallen in love with Shukumaru, she chooses to stay in the past. The cyclical nature of time means she can have both.\n\nRumiko Takahashi's signature blend of romance, humor, and emotional depth makes this OVA a charming entry in her early work, demonstrating her talent for transforming simple premises into emotionally resonant stories about connection across time and space.",
+      "created_at": "2026-03-01 15:23:42"
+    },
+    {
       "title": "Fourth Mansions",
       "year": 1969,
       "medium": "Novel",
@@ -5373,5 +5390,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 316
+  "count": 317
 }
