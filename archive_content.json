@@ -1599,6 +1599,23 @@
       "created_at": "2026-03-01 00:42:32"
     },
     {
+      "title": "Krakatit",
+      "year": 1948,
+      "medium": "Film",
+      "creator": "Otakar V\u00e1vra (director), based on the novel by Karel \u010capek",
+      "raw_score": 3.6,
+      "total_ratings": 500,
+      "origin": "Czechoslovakia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Megacorps, Rebellion",
+      "image_filename": "Krakatit_1948.jpg",
+      "pitch": "Krakatit is a 1948 Czechoslovak science fiction mystery film directed by Otakar V\u00e1vra, based on Karel \u010capek's 1922 novel of the same name. The story follows Prokop, a brilliant chemist who awakens in a hospital with severe burns to his hands, suffering from delirium. As his memories gradually return, he recalls inventing \"krakatit\"\u2014a devastating explosive named after the volcano Krakatoa that can be detonated remotely using high-frequency radio signals. His former friend Ji\u0159\u00ed has sold the formula to Balttin Works, a foreign weapons manufacturer, and they coerce Prokop into recreating his invention. The film explores the terrifying power of scientific discovery weaponized for war and the moral responsibility of inventors.",
+      "truth": "The film opens with a barely conscious, unidentified man\u2014the chemist Prokop\u2014receiving intensive care from a doctor and nurse. His hands are badly burned and cut. As he wanders through delirium on the streets, he encounters his old classmate Ji\u0159\u00ed Tome\u0161, who learns that Prokop has invented a powerful explosive called \"krakatit.\"\n\nJi\u0159\u00ed takes Prokop home to recover, but during a fever dream, Prokop reveals the formula for krakatit to a university professor\u2014actually a projection of his own mind. Ji\u0159\u00ed secretly writes down the formula and sells it to Balttin Works, a foreign weapons manufacturer represented by the mysterious Carson.\n\nProkop later recovers at a countryside doctor's home, where he reads newspaper reports about krakatit being promoted by Carson. His memory returns fully\u2014he remembers the explosion in his laboratory. He rushes to confront Carson, who reveals that while they have the formula, they cannot reproduce the explosive without Prokop's expertise. Prokop refuses to help, but is kidnapped and forcibly brought to the Balttin palace to work in their chemical laboratory.\n\nAt Balttin Works, Prokop discovers the terrifying potential of krakatit\u2014it can be detonated remotely from great distances using radio signals. The company plans to use it as a weapon of war. Prokop must decide whether to help them perfect the device or find a way to destroy his invention and prevent its use.",
+      "core": "**The Ethics of Scientific Discovery:** \u010capek's novel, written in 1922, presents a prescient meditation on the responsibility of scientists for their inventions. Prokop's creation of krakatit represents the eternal dilemma of discovery\u2014scientific knowledge itself is neutral, but its application can bring either great benefit or catastrophic harm. The film emphasizes how easily brilliant minds can be coerced or corrupted by those who seek power through technology.\n\n**War and the Military-Industrial Complex:** The Balttin Works represents the military-industrial complex that harnesses scientific discovery for profit and warfare. The film's critique of arms manufacturers who profit from conflict resonated strongly in post-WWII Czechoslovakia and remains relevant today. The remote detonation capability of krakatit foreshadows modern drone warfare and precision weapons.\n\n**Individual Conscience vs. Collective Power:** Prokop stands alone against a powerful corporation and the machinery of war. His struggle represents the individual scientist's confrontation with forces far larger than themselves\u2014corporate interests, governments, and military establishments that would use their discoveries for destruction. The film asks whether one person can resist such overwhelming power.\n\n**Czech Science Fiction Tradition:** Krakatit represents an important moment in Czechoslovak science fiction cinema, connecting to the rich literary tradition of Karel \u010capek\u2014who coined the word \"robot\" in his play R.U.R. The film adaptation of his novel continues \u010capek's exploration of technology's impact on humanity, delivered through the lens of 1940s European anxieties about war and totalitarianism.",
+      "created_at": "2026-03-01 19:25:48"
+    },
+    {
       "title": "La Jet\u00e9e",
       "year": 1962,
       "medium": "Short Story",
@@ -5628,5 +5645,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 331
+  "count": 332
 }
