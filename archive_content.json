@@ -18,6 +18,23 @@
       "created_at": "2026-03-01 18:45:43"
     },
     {
+      "title": "2001 Nights",
+      "year": 1984,
+      "medium": "Manga",
+      "creator": "Yukinobu Hoshino",
+      "raw_score": 4.3,
+      "total_ratings": 30,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Aliens, Sentience",
+      "image_filename": "2001 Nights_1984.jpg",
+      "pitch": "2001 Nights is a scientifically rigorous hard science fiction manga series written and illustrated by Yukinobu Hoshino, originally serialized from 1984 to 1986. The series consists of several loosely connected short stories, all taking place in the same timeline spanning several hundred years of humanity's expansion into space. Rather than focusing on action or spectacle, Hoshino crafts thoughtful, plausible narratives that pay visual homage to classic science fiction novels and films while exploring the profound implications of space exploration, first contact, and human evolution. The manga was adapted into an OVA in 1987 and later received a CGI adaptation in 2009.",
+      "truth": "The series unfolds across multiple interconnected stories, each building upon the achievements of the previous ones. The narrative arc spans centuries, following humanity's progression from early space habitation to interstellar travel and beyond.\n\nThe stories tackle diverse themes including: the ethical dilemmas of first contact with alien species, the psychological effects of prolonged space travel and isolation, the creation of artificial intelligence and its implications for humanity, the transformation of human society through technological advancement, and the vast timescales that define cosmic evolution. Many stories are scientifically grounded, featuring accurate depictions of zero-gravity environments, propulsion systems, and the physical challenges of space colonization.\n\nParticularly notable are the stories that explore symbiotic relationships between humans and alien life forms, as well as elliptical orbital mechanics and the complexities of interstellar navigation. The series concludes with forward-looking narratives that contemplate post-biological existence and the transcendence of human consciousness beyond its physical form.",
+      "core": "**Hard Science Fiction Excellence:** Hoshino demonstrates meticulous attention to scientific accuracy, creating plausible scenarios grounded in real physics and astronomy. The manga stands as a testament to the intellectual tradition of hard SF, demanding engagement from readers while rewarding them with thought-provoking concepts.\n\n**Exploration as Theme:** At its heart, 2001 Nights is about the human drive to explore and understand the cosmos. The series portrays exploration not as adventure but as a gradual, sometimes melancholic process of confronting the vastness of space and humanity's small place within it.\n\n**Humanity's Future:** Through interconnected stories spanning centuries, Hoshino examines how humanity might evolve\u2014both biologically and socially\u2014as we spread beyond Earth. The series considers questions of identity, mortality, and what it means to be human when the boundaries of humanity are expanded.\n\n**Visual Homage:** The manga contains numerous visual references to classic SF works, including Kubrick's 2001: A Space Odyssey, creating a dialogue between Hoshino's work and the broader science fiction canon while establishing its own unique vision.",
+      "created_at": "2026-03-01 22:07:48"
+    },
+    {
       "title": "2009: Lost Memories",
       "year": 2002,
       "medium": "Film",
@@ -5764,5 +5781,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 339
+  "count": 340
 }
