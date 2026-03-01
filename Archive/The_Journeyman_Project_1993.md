@@ -3,8 +3,8 @@
 Tags: 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Time-Travel, Isolation
 
 **Medium:** Video Game
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 7.9
+**Total Ratings:** 100
 **Creator/Author:** Presto Studios
 
 ## The Pitch (Non-Spoiler Breakdown)

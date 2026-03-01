@@ -3,8 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Tense | 📚 Cyberpunk | 🧬 Sentience, Cybernetics, Transhumanism
 
 **Medium:** OVA
-**Raw Score:** 3.45
-**Total Ratings:** 101800
+**Raw Score:** 3.45/5 (6.9/10)
+**Total Ratings:** 8000
 **Creator/Author:** Hiroyuki Ochi / AIC
 
 ## The Pitch (Non-Spoiler Breakdown)

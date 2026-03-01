@@ -3,8 +3,8 @@
 **Tags:** 🌍 Finland | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Ecology, Isolation
 
 **Medium:** Film
-**Raw Score:** 2.25
-**Total Ratings:** 543
+**Raw Score:** 0.6/5 (1.2/10)
+**Total Ratings:** 60
 **Creator/Author:** Mika Kaurismäki
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,8 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Satirical | 📚 Time-Travel | 🧬 Time-Travel
 
 **Medium:** Film
-**Raw Score:** 
-**Total Ratings:** 
+**Raw Score:** 7.1
+**Total Ratings:** 5000
 **Creator/Author:** Jindřich Polák
 
 ## The Pitch (Non-Spoiler Breakdown)

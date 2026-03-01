@@ -3,8 +3,8 @@
 **Tags:** 🌍 Italy | 🎭 Tense | 📚 Horror | 🧬 Aliens, Isolation
 
 **Medium:** Film
-**Raw Score:** 3.1
-**Total Ratings:** 8000
+**Raw Score:** 3.1/5 (6.2/10)
+**Total Ratings:** 12000
 **Creator/Author:** Mario Bava
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,8 @@
 **Tags:** 🌍 Japan | 🎭 Cerebral | 📚 Hard-SF | 🧬 Isolation, Megacorps
 
 **Medium:** Video Game
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 4.2/5
+**Total Ratings:** 180
 **Creator/Author:** Konami / Hideo Kojima
 
 ## The Pitch (Non-Spoiler Breakdown)

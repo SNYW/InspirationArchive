@@ -1,8 +1,10 @@
 # Time Bandits (1981)
 
-Tags: 🌍 UK | 🎭 Satirical | 📚 Science-Fantasy | 🧬 Time-Travel, Religion
+**Tags:** 🌍 UK | 🎭 Satirical | 📚 Science-Fantasy | 🧬 Time-Travel, Religion
 
 **Medium:** Film
+**Raw Score:** 6.9
+**Total Ratings:** 50000
 **Creator/Author:** Terry Gilliam (Director)
 
 ## The Pitch (Non-Spoiler Breakdown)

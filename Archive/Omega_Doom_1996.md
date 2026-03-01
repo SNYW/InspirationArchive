@@ -3,6 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Gritty | 📚 Post-Apocalypse | 🧬 Sentience, Cybernetics, Rebellion
 
 **Medium:** Film
+**Raw Score:** 4.0
+**Total Ratings:** 3000
 **Creator/Author:** Albert Pyun
 
 ## The Pitch (Non-Spoiler Breakdown)
