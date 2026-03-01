@@ -1021,6 +1021,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "F.P.1",
+      "year": 1932,
+      "medium": "Film",
+      "creator": "Karl Hartl",
+      "raw_score": 3.1,
+      "total_ratings": 10350,
+      "origin": "Germany ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration",
+      "image_filename": "FP1_1932.jpg",
+      "pitch": "F.P.1 is a groundbreaking 1932 German science fiction film directed by Karl Hartl, based on the novel by Kurt Siodmak. Set in the near-future, the film centers on F.P.1 (Floating Platform 1)\u2014a massive artificial island stationed in the middle of the Atlantic Ocean that serves as a refueling and repair station for intercontinental aircraft. When radio contact is suddenly lost with the platform, a rescue mission reveals that sabotage has knocked out the crew, and the platform itself is in danger of sinking. The film was notable for being produced in three separate language versions (German, French, and English) with different casts\u2014a remarkable international undertaking for its time. It featured an all-star European cast including Hans Albers, Peter Lorre, and Conrad Veidt.",
+      "truth": "The story follows Lieutenant Droste, who proposes the ambitious F.P.1 project: a permanent air station floating in the Atlantic Ocean to allow pilots on intercontinental flights to refuel and make repairs. With the support of the Lennartz-Werke company and famous pilot Ellissen, the project moves forward. After two years of construction, the massive platform is operational.\n\nDuring a violent storm, all radio contact with F.P.1 is suddenly lost. The last transmission included gunshots and screams. When the weather clears, pilots race toward the platform, but Ellissen\u2014still in a lovesick depression over his relationship with Claire Lennartz\u2014is persuaded by her to fly her to F.P.1. Upon landing, their plane comes under rifle fire and crashes into a railing.\n\nEllissen and Claire discover the entire crew unconscious, knocked out by gas released by a saboteur. Before fleeing in a boat, the saboteur opened the ballast valves, causing the platform to begin sinking. Claire finds the injured Droste and cares for him. Ellissen realizes his priorities have shifted\u2014he takes to the air to summon help, spotting a ship, parachuting down to it, and radioing for assistance. A fleet of ships and planes is dispatched, saving F.P.1 from destruction.\n\nThe film was notable for its massive set construction, with platforms built on the Baltic Sea island of Greifswalder Oie. It was described by Variety as \"UFA's greatest picture of this year\" with first-class photography and sound.",
+      "core": "**Technological Optimism and Futurism:** F.P.1 represents the optimistic technological spirit of early 1930s Europe, imagining a future where aviation connects the world through massive engineering feats. The floating platform is a symbol of human ingenuity and the dream of global connectivity\u2014a visionary concept that predates actual aerial refueling and aircraft carriers.\n\n**International Production:** The film's creation of three separate language versions (German, French, English) with different casts was groundbreaking for 1932-1933. This approach to international distribution was sophisticated for its era and demonstrates the global ambitions of UFA (Universum-Film AG), Germany's major film studio.\n\n**Early Sci-Fi Thriller:** F.P.1 blends science fiction with thriller elements\u2014the mystery of the missing platform, the sabotage plot, and the race against time to save it. This combination influenced later sci-fi adventure films.\n\n**Star Power:** The cast includes legendary actors: Peter Lorre in one of his early German films before fleeing to Hollywood, Hans Albers (who became one of Germany's biggest stars), and Conrad Veidt (who would later star in The Cabinet of Dr. Caligari and Casablanca). The English version features Veidt in the lead role.\n\nF.P.1 remains significant as one of the earliest feature films based on a modern science fiction novel, and a landmark in European science fiction cinema from the early 1930s.",
+      "created_at": "2026-03-01 14:13:46"
+    },
+    {
       "title": "Fantastic Planet",
       "year": 1973,
       "medium": "Animated Film",
@@ -5271,5 +5288,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 310
+  "count": 311
 }
