@@ -611,14 +611,16 @@ function openModal(mObj) {
                 </div>
                 <h2 style="margin-top: 0; margin-bottom: 0.25rem;">${mObj.title}</h2>
             </div>
+        </div>
+        ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">${mObj.creator}</div>` : ''}
+        ${generateMetricsHtml(mObj)}
+        ${tagsHtml}
+        <div style="margin-top: 0.75rem;">
             <button class="share-btn" onclick="copyShareLink(this, '${mObj.slug}')">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
                 Share
             </button>
         </div>
-        ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">${mObj.creator}</div>` : ''}
-        ${generateMetricsHtml(mObj)}
-        ${tagsHtml}
         <div style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
             ${t}
         </div>
