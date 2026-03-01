@@ -1174,6 +1174,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Farscape",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Created by Rockne S. O'Bannon",
+      "raw_score": 3.7,
+      "total_ratings": 25000,
+      "origin": "Australia , USA ,",
+      "mood": "Space Opera , Sci-Fi ,",
+      "sub_genres": "",
+      "topics": "Wormholes",
+      "image_filename": "Farscape_1999.jpg",
+      "pitch": "Farscape is a science fiction television series that aired from 1999 to 2003. It was created by Rockne S. O'Bannon and co-produced by The Jim Henson Company, featuring groundbreaking puppet work and alien prosthetics.\n\nThe series follows astronaut John Crichton, who is flung through a wormhole to a distant part of the galaxy, where he joins a crew of escaped prisoners aboard a living bio-mechanical ship called Moya.",
+      "truth": "Earth astronaut John Crichton accidentally flies into a wormhole near Earth during an experimental space flight, ending up in an unknown part of the Milky Way. He finds himself in the middle of an escape attempt by Moya, a living spaceship, from the militaristic Peacekeepers.\n\nThe crew includes Aeryn Sun (Peacekiller), D'Argo (Luxan warrior), Zhaan (Delvian), Rygel (Hynerian), and later Chiana and others. Crichton becomes obsessed with finding a way home while dealing with the neural clone of antagonist Scorpius in his brain.\n\nThe series combines serialized story arcs with standalone episodes, exploring themes of family, identity, and the search for home.",
+      "core": "**Finding Home:** The central theme of returning home resonates throughout, with Crichton's search for Earth driving much of the plot.\n\n**Chosen Family:** The Moya crew becomes a surrogate family, bound not by blood but by shared experiences.\n\n**The Power of Storytelling:** Uses unique language and world-building to create a distinct sci-fi universe.\n\n**Jim Henson Legacy:** Innovative puppet work and creature design set it apart from other sci-fi series.\n\nDespite being cancelled after 4 seasons, the show developed a devoted fanbase and received a concluding miniseries.",
+      "created_at": "2026-03-01 23:52:36"
+    },
+    {
       "title": "Fire Tripper",
       "year": 1985,
       "medium": "OVA",
@@ -5883,5 +5900,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 346
+  "count": 347
 }
