@@ -4,9 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Futures</title>
+    
+    <meta name="title" content="All Futures | Archive of Tomorrow">
+    <meta name="description" content="Archiving visions of times ahead. A curated database of speculative fiction, cyberpunk aesthetics, and cosmic horror across film, literature, and interactive media.">
+    <meta name="theme-color" content="#00e5ff">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://allfuturesarchive.com/">
+    <meta property="og:title" content="All Futures | Archive of Tomorrow">
+    <meta property="og:description" content="Archiving visions of times ahead. A curated database of speculative fiction, cyberpunk aesthetics, and cosmic horror across film, literature, and interactive media.">
+    <meta property="og:image" content="https://allfuturesarchive.com/og-image.jpg">
+
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://allfuturesarchive.com/">
+    <meta property="twitter:title" content="All Futures | Archive of Tomorrow">
+    <meta property="twitter:description" content="Archiving visions of times ahead. A curated database of speculative fiction, cyberpunk aesthetics, and cosmic horror across film, literature, and interactive media.">
+    <meta property="twitter:image" content="https://allfuturesarchive.com/og-image.jpg">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Michroma&family=Space+Grotesk:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
     <style>
         :root {
             --bg: #050507;
@@ -89,6 +107,10 @@
         /* --- CONTROL CENTER & COLLAPSIBLE FILTERS --- */
         .control-center { position: sticky; top: 0.25rem; z-index: 50; background: var(--glass-panel); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); border: 1px solid var(--border); border-radius: 16px; padding: 1.5rem; margin-bottom: 3rem; box-shadow: 0 10px 40px var(--glass-shadow); transition: all 0.3s ease; }
         .search-container { display: flex; justify-content: center; gap: 0.75rem; align-items: center; margin-bottom: 1rem; }
+        
+        .sort-select { background: var(--bg); border: 1px solid var(--border); color: var(--text-muted); padding: 0.8rem 1.2rem; border-radius: 30px; cursor: pointer; font-family: 'Space Grotesk', sans-serif; font-size: 0.95rem; font-weight: 600; outline: none; transition: all 0.3s ease; appearance: none; -webkit-appearance: none; background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23888899' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 1rem center; background-size: 1em; padding-right: 2.5rem; }
+        .sort-select:hover, .sort-select:focus { border-color: var(--accent); color: var(--text); box-shadow: 0 0 10px var(--accent-dim); }
+
         .search-input { flex: 1; max-width: 600px; background: var(--bg); border: 1px solid var(--border); color: var(--text); padding: 0.8rem 1.5rem; border-radius: 30px; font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem; outline: none; transition: all 0.3s ease; }
         .search-input:focus { border-color: var(--accent); box-shadow: 0 0 15px var(--accent-dim); }
         .search-input::placeholder { color: var(--text-muted); font-weight: 300; }
@@ -223,7 +245,35 @@
         footer { text-align: center; margin-top: 4rem; padding-top: 2rem; color: var(--text-muted); font-size: 0.85rem; font-weight: 300;}
         
         @media (max-width: 900px) { .modal-content { flex-direction: column; max-height: 90vh; } .modal-gallery { flex: none; height: 300px; } .modal-text-area { padding: 2rem; } .stats-grid { grid-template-columns: 1fr; gap: 2rem; } }
-        @media (max-width: 768px) { body { padding: 0 1rem 2rem 1rem; } header { padding: 6rem 1rem 2rem 1rem; } h1 { font-size: 2rem; } .top-controls { top: 1rem; right: 1rem; flex-direction: column; gap: 0.5rem; } .top-btn { font-size: 0.75rem; padding: 0.4rem 0.8rem; justify-content: center;} .control-center { padding: 1rem; } .grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; } .hero-poster { width: 180px; } .hero-info h2 { font-size: 1.8rem; } .card-title-bar { padding: 2rem 0.75rem 0.75rem; } .card-title-bar h2 { font-size: 0.9rem; } .card-hover-content { padding: 1rem 1rem 4rem 1rem; } .card .tag-display { font-size: 0.6rem; margin-bottom: 0.5rem; } .card .pitch { font-size: 0.75rem; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; } .stats-content { padding: 2rem 1.5rem; } .total-count-box .number { font-size: 3.5rem; } .stat-label { width: 90px; font-size: 0.75rem;} .search-container { flex-wrap: wrap; } .toggle-filters-btn { width: 100%; justify-content: center; } .filter-collapsible { max-height: 1000px; } }
+        
+        /* Mobile Layout Tweaks for Search Bar & Sort Menu */
+        @media (max-width: 768px) { 
+            body { padding: 0 1rem 2rem 1rem; } 
+            header { padding: 6rem 1rem 2rem 1rem; } 
+            h1 { font-size: 2rem; } 
+            .top-controls { top: 1rem; right: 1rem; flex-direction: column; gap: 0.5rem; } 
+            .top-btn { font-size: 0.75rem; padding: 0.4rem 0.8rem; justify-content: center;} 
+            .control-center { padding: 1rem; } 
+            
+            .search-container { flex-wrap: wrap; justify-content: space-between; gap: 0.5rem;} 
+            .search-input { width: 100%; max-width: 100%; order: 1; flex: none;}
+            .sort-select { width: 48%; order: 2; padding-left: 0.8rem; padding-right: 2rem; flex: none;}
+            .toggle-filters-btn { width: 48%; order: 3; justify-content: center; flex: none;}
+            
+            .grid { grid-template-columns: repeat(2, 1fr); gap: 1rem; } 
+            .hero-container { flex-direction: column; padding: 1.5rem; align-items: center; text-align: center; } 
+            .hero-poster { width: 180px; } 
+            .hero-info h2 { font-size: 1.8rem; } 
+            .card-title-bar { padding: 2rem 0.75rem 0.75rem; } 
+            .card-title-bar h2 { font-size: 0.9rem; } 
+            .card-hover-content { padding: 1rem 1rem 4rem 1rem; } 
+            .card .tag-display { font-size: 0.6rem; margin-bottom: 0.5rem; } 
+            .card .pitch { font-size: 0.75rem; display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; } 
+            .stats-content { padding: 2rem 1.5rem; } 
+            .total-count-box .number { font-size: 3.5rem; } 
+            .stat-label { width: 90px; font-size: 0.75rem;} 
+            .filter-collapsible { max-height: 1000px; } 
+        }
     </style>
 </head>
 <body>
@@ -238,7 +288,14 @@
     
     <div class="control-center">
         <div class="search-container">
+            <select id="sortFilter" class="sort-select" onchange="loadMedia()">
+                <option value="recent">Sort: Added</option>
+                <option value="year">Sort: Year</option>
+                <option value="title">Sort: Title</option>
+            </select>
+            
             <input type="text" id="searchInput" class="search-input" placeholder="Search the archive..." onkeyup="loadMedia()">
+            
             <button class="toggle-filters-btn" id="filterToggleBtn" onclick="toggleFilters(event)">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
                 Filters
@@ -428,7 +485,6 @@ async function loadMediaList() {
                 year: entry.year ? `(${entry.year})` : '',
                 medium: entry.medium,
                 creator: entry.creator || '',
-                created_at: entry.created_at || null,
                 pitch: entry.pitch ? entry.pitch.substring(0, 800) : 'No description available.',
                 tags: tags,
                 rating: rating,
@@ -436,16 +492,12 @@ async function loadMediaList() {
                 obscurityTier: obscurityTier,
                 obscurityPct: obscurityPct,
                 content: `## The Pitch\n${entry.pitch || ''}\n\n## The Truth\n${entry.truth || ''}\n\n## The Core\n${entry.core || ''}`,
-                image: entry.image_filename ? 'Images/' + entry.image_filename : fallbackUrl
+                image: entry.image_filename ? 'Images/' + entry.image_filename : fallbackUrl,
+                created_at: entry.created_at || '1970-01-01T00:00:00Z' 
             };
         });
         
         if(!media.length){g.innerHTML='<div class="loading error-message">Archive is empty.</div>';return;} 
-        
-        for (let i = media.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [media[i], media[j]] = [media[j], media[i]];
-        }
         
         data.entries.forEach(entry => {
             if (entry.origin) entry.origin.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueCountries.add(t));
@@ -456,7 +508,6 @@ async function loadMediaList() {
         
         currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); loadMedia(); 
 
-        // Deep linking: Auto-open modal if URL has ?v=slug
         const urlParams = new URLSearchParams(window.location.search);
         const viewSlug = urlParams.get('v');
         if (viewSlug) {
@@ -514,6 +565,7 @@ function loadMedia() {
     const rf = document.getElementById('ratingFilter').value;
     const of = document.getElementById('obscurityFilter').value;
     const sq = document.getElementById('searchInput').value.toLowerCase(); 
+    const sortVal = document.getElementById('sortFilter').value;
     
     const fl = media.filter(m => { 
         if(mf !== 'all') {
@@ -538,15 +590,23 @@ function loadMedia() {
         if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
         return true; 
     });
-    
-    currentFilteredMedia=fl; 
-    
-    // Sort by created_at descending (newest first) for "All Visions"
+
+    // Handle dynamic sorting
     fl.sort((a, b) => {
-        if (!a.created_at || !b.created_at) return 0;
-        return new Date(b.created_at) - new Date(a.created_at);
+        if (sortVal === 'year') {
+            // Parse years safely (removes parentheses)
+            const yearA = a.year ? parseInt(a.year.replace(/\D/g, '')) : 0;
+            const yearB = b.year ? parseInt(b.year.replace(/\D/g, '')) : 0;
+            return yearB - yearA; // Newest year first
+        } else if (sortVal === 'title') {
+            return a.title.localeCompare(b.title); // Alphabetical A-Z
+        } else {
+            // Default to 'recent' (created_at database timestamp)
+            return new Date(b.created_at) - new Date(a.created_at);
+        }
     });
     
+    currentFilteredMedia=fl; 
     if(!fl.length){h.classList.add('hidden');g.innerHTML='<div class="loading">No visions match these parameters.</div>';return;} 
     if(sq.length>0)h.classList.add('hidden'); else{h.classList.remove('hidden');updateHero();if(heroInterval)clearInterval(heroInterval);heroInterval=setInterval(updateHero,60000);} 
     
@@ -574,7 +634,6 @@ function loadMedia() {
     }); 
 }
 
-// Fixed share function to be globally accessible
 window.copyShareLink = function(btn, slug) {
     const url = window.location.origin + window.location.pathname + '?v=' + slug;
     navigator.clipboard.writeText(url).then(() => {
@@ -614,7 +673,6 @@ function openModal(mObj) {
     allTags = [...new Set(allTags)]; 
     let tagsHtml = allTags.length > 0 ? '<div class="hero-tags" style="margin-top: 0.5rem; margin-bottom: 0;">' + allTags.map(tag => '<span class="hero-tag">'+tag+'</span>').join('') + '</div>' : '';
     
-    // Updated innerHTML with the corrected globally accessible click handler
     document.getElementById('modalBody').innerHTML=`
         <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
             <div>
