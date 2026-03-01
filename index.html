@@ -191,8 +191,12 @@
         .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); padding: 2rem; overflow-y: auto; z-index: 100; backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px); align-items: center; justify-content: center; }
         .modal.open { display: flex; animation: fadeIn 0.3s ease; }
         .modal-content { display: flex; width: 100%; max-width: 1000px; max-height: 85vh; background: var(--bg); border: 1px solid var(--border); border-radius: 16px; box-shadow: 0 25px 80px rgba(0,0,0,0.5); overflow: hidden; position: relative; }
-        .modal-gallery { flex: 0 0 40%; background: var(--card-bg); position: relative; display: flex; align-items: center; justify-content: center; padding: 2rem; }
-        .modal-gallery img { width: 100%; height: 100%; object-fit: contain; opacity: 0.95; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        
+        /* Updated Gallery CSS with Blur Backdrop */
+        .modal-gallery { flex: 0 0 40%; background: var(--card-bg); position: relative; display: flex; align-items: center; justify-content: center; padding: 2rem; overflow: hidden; }
+        .modal-gallery-backdrop { position: absolute; top: -10%; left: -10%; width: 120%; height: 120%; object-fit: cover; filter: blur(30px) opacity(0.4); z-index: 0; pointer-events: none; }
+        .modal-gallery img.main-art { width: 100%; height: 100%; object-fit: contain; opacity: 0.95; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); z-index: 1; position: relative;}
+        
         .modal-text-area { flex: 1; padding: 3rem; overflow-y: auto; position: relative; }
         .modal-close { position: absolute; top: 1.5rem; right: 2rem; background: var(--border); border: none; color: var(--text); width: 40px; height: 40px; border-radius: 50%; font-size: 1.5rem; cursor: pointer; transition: all 0.2s; display: flex; align-items: center; justify-content: center; z-index: 10; }
         .modal-close:hover { background: var(--accent); color: #fff; transform: scale(1.1); }
@@ -233,7 +237,7 @@
     <div class="control-center">
         <div class="search-container">
             <input type="text" id="searchInput" class="search-input" placeholder="Search the archive..." onkeyup="loadMedia()">
-            <button class="toggle-filters-btn" id="filterToggleBtn" onclick="toggleFilters()">
+            <button class="toggle-filters-btn" id="filterToggleBtn" onclick="toggleFilters(event)">
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
                 Filters
             </button>
@@ -285,7 +289,10 @@
     
     <div class="modal" id="modal">
         <div class="modal-content">
-            <div class="modal-gallery"><img id="modalImg" src="" alt="Cover Art"></div>
+            <div class="modal-gallery">
+                <img id="modalImgBg" class="modal-gallery-backdrop" src="" alt="">
+                <img id="modalImg" class="main-art" src="" alt="Cover Art">
+            </div>
             <div class="modal-text-area"><button class="modal-close" onclick="closeModal()">×</button><div id="modalBody"></div></div>
         </div>
     </div>
@@ -304,12 +311,25 @@ function initTheme() { const saved = localStorage.getItem('archive-theme') || 'd
 function toggleTheme() { const current = document.documentElement.getAttribute('data-theme'); if (current === 'light') { document.documentElement.removeAttribute('data-theme'); localStorage.setItem('archive-theme', 'dark'); document.getElementById('themeBtn').innerText = '☀ Light Mode'; } else { document.documentElement.setAttribute('data-theme', 'light'); localStorage.setItem('archive-theme', 'light'); document.getElementById('themeBtn').innerText = '☾ Dark Mode'; } }
 initTheme();
 
-function toggleFilters() {
+function toggleFilters(e) {
+    if(e) e.stopPropagation();
     const collapsible = document.getElementById('filterCollapsible');
     const btn = document.getElementById('filterToggleBtn');
     collapsible.classList.toggle('collapsed');
     btn.classList.toggle('active');
 }
+
+// Click outside to close filters
+document.addEventListener('click', function(event) {
+    const collapsible = document.getElementById('filterCollapsible');
+    const btn = document.getElementById('filterToggleBtn');
+    const controlCenter = document.querySelector('.control-center');
+    
+    if (!collapsible.classList.contains('collapsed') && !controlCenter.contains(event.target)) {
+        collapsible.classList.add('collapsed');
+        btn.classList.remove('active');
+    }
+});
 
 let media = [], currentFilteredMedia = [], heroInterval;
 const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new Set(), uniqueTopics = new Set();
@@ -396,6 +416,10 @@ async function loadMediaList() {
             else if (ratingsCount > 0) { obscurityTier = 'outer'; obscurityPct = Math.min(99, 90 + Math.floor((1000-ratingsCount)/100)); }
             else { obscurityTier = 'ghost'; obscurityPct = 100; }
             
+            const pm = tags.mood[0] || 'Unknown';
+            const safeTitle = encodeURIComponent(entry.title).replace(/'/g,"%27");
+            const fallbackUrl = 'https://placehold.co/400x600/'+getMoodHexForPlaceholder(pm)+'/000000?text='+safeTitle;
+            
             return {
                 title: entry.title,
                 year: entry.year ? `(${entry.year})` : '',
@@ -408,7 +432,7 @@ async function loadMediaList() {
                 obscurityTier: obscurityTier,
                 obscurityPct: obscurityPct,
                 content: `## The Pitch\n${entry.pitch || ''}\n\n## The Truth\n${entry.truth || ''}\n\n## The Core\n${entry.core || ''}`,
-                image: 'Images/' + entry.image_filename
+                image: entry.image_filename ? 'Images/' + entry.image_filename : fallbackUrl
             };
         });
         
@@ -496,7 +520,7 @@ function loadMedia() {
         }
         if (of !== 'all' && m.obscurityTier !== of) return false;
         
-        if(sq&&!m.title.toLowerCase().includes(sq))return false; 
+        if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
         return true; 
     });
     
@@ -530,9 +554,19 @@ function loadMedia() {
 
 function openModal(mObj) { 
     if(!mObj||!mObj.content)return; 
-    const m=document.getElementById('modal'),i=document.getElementById('modalImg'),s=encodeURIComponent(mObj.title).replace(/'/g,"%27"),mdC=getMediumColorVar(mObj.medium); 
+    const m=document.getElementById('modal'), i=document.getElementById('modalImg'), ibg=document.getElementById('modalImgBg'), s=encodeURIComponent(mObj.title).replace(/'/g,"%27"), mdC=getMediumColorVar(mObj.medium); 
     m.style.setProperty('--theme-med',mdC); m.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)'); 
-    i.src=mObj.image; const pm=mObj.tags.mood[0]||'Unknown'; i.onerror=function(){this.onerror=null;this.src='https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;}; 
+    
+    i.src=mObj.image; 
+    ibg.src=mObj.image;
+    
+    const pm=mObj.tags.mood[0]||'Unknown'; 
+    i.onerror=function(){
+        this.onerror=null;
+        const fallback = 'https://placehold.co/600x900/'+getMoodHexForPlaceholder(pm)+'/000000?text='+s;
+        this.src=fallback;
+        ibg.src=fallback;
+    }; 
     
     let t = mObj.content.replace(/^## (.+)$/gm,'<h3>$1</h3>').replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'</p><p>').replace(/^(.+)$/gm,'<p>$1</p>').replace(/<p><\/p>/g,''); 
     
