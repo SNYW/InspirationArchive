@@ -149,25 +149,9 @@
         .star-filled { color: var(--accent); }
         .star-empty { color: var(--text-muted); opacity: 0.3; }
         
-        /* True Half-Star Implementation */
-        .star-half { 
-            position: relative; 
-            display: inline-block; 
-        }
-        .star-half::before { 
-            content: '★'; 
-            color: var(--text-muted); 
-            opacity: 0.3; 
-        }
-        .star-half::after { 
-            content: '★'; 
-            position: absolute; 
-            left: 0; 
-            top: 0; 
-            color: var(--accent); 
-            width: 50%; /* This precisely cuts the colored star in half */
-            overflow: hidden; 
-        }
+        .star-half { position: relative; display: inline-block; }
+        .star-half::before { content: '★'; color: var(--text-muted); opacity: 0.3; }
+        .star-half::after { content: '★'; position: absolute; left: 0; top: 0; color: var(--accent); width: 50%; overflow: hidden; }
         
         .rating-num { color: var(--text-muted); font-size: 0.75rem; margin-left: 0.4rem; font-weight: 700; }
 
@@ -306,8 +290,8 @@
         <div class="search-container">
             <select id="sortFilter" class="sort-select" onchange="loadMedia()">
                 <option value="recent">Sort: Added</option>
-                <option value="year-newest">Year: Newest</option>
-                <option value="year-oldest">Year: Oldest</option>
+                <option value="year-newest">Year - Newest</option>
+                <option value="year-oldest">Year - Oldest</option>
                 <option value="title">Sort: Title</option>
             </select>
             
@@ -363,6 +347,10 @@
     <div id="heroSection" class="top-picks-container hidden"></div>
     <div class="grid" id="mediaGrid"><div class="loading">Initializing Archive Uplink...</div></div>
     
+    <div id="scrollSentinel" style="padding: 2rem; text-align: center; color: var(--text-muted); display: none;">
+        Loading deeper archives...
+    </div>
+    
     <div class="modal" id="modal">
         <div class="modal-content">
             <div class="modal-gallery">
@@ -395,7 +383,6 @@ function toggleFilters(e) {
     btn.classList.toggle('active');
 }
 
-// Click outside to close filters
 document.addEventListener('click', function(event) {
     const collapsible = document.getElementById('filterCollapsible');
     const btn = document.getElementById('filterToggleBtn');
@@ -408,6 +395,10 @@ document.addEventListener('click', function(event) {
 });
 
 let media = [], currentFilteredMedia = [], heroInterval;
+let currentRenderIndex = 0;
+const ITEMS_PER_PAGE = 24;
+let scrollObserver = null;
+
 const uniqueCountries = new Set(), uniqueMoods = new Set(), uniqueGenres = new Set(), uniqueTopics = new Set();
 
 function getMoodColorVar(mood) { const m = mood.toLowerCase(); if (['optimistic','pessimistic','melancholic','surreal','tense','gritty','satirical','cerebral','eerie'].includes(m)) return 'var(--mood-' + m + ')'; return 'var(--mood-unknown)'; }
@@ -523,7 +514,12 @@ async function loadMediaList() {
             if (entry.topics) entry.topics.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueTopics.add(t));
         });
         
-        currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); loadMedia(); 
+        currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); 
+        
+        // Turn on the IntersectionObserver once everything is initialized
+        setupScrollObserver();
+        
+        loadMedia(); 
 
         const urlParams = new URLSearchParams(window.location.search);
         const viewSlug = urlParams.get('v');
@@ -624,7 +620,11 @@ function updateHero() {
 
 function loadMedia() { 
     const g = document.getElementById('mediaGrid'), h = document.getElementById('heroSection'); 
-    if(!media.length)return; g.innerHTML=''; 
+    if(!media.length)return; 
+    
+    // Reset Grid & Pagination
+    g.innerHTML = ''; 
+    currentRenderIndex = 0;
     
     const mf = document.querySelector('.filter-btn.active').dataset.filter; 
     const cf = document.getElementById('countryFilter').value;
@@ -683,6 +683,7 @@ function loadMedia() {
     if(!fl.length){
         h.classList.add('hidden');
         g.innerHTML='<div class="loading">No visions match these parameters.</div>';
+        document.getElementById('scrollSentinel').style.display = 'none';
         return;
     } 
     
@@ -696,16 +697,34 @@ function loadMedia() {
         heroInterval = setInterval(updateHero, 30000); 
     } 
     
-    fl.forEach((m,i)=>{
-        const c=document.createElement('div');c.className='card';c.style.animationDelay=(i*0.05)+'s';
-        const mC=getMoodColorVar(m.tags.mood[0]||'Unknown'),mdC=getMediumColorVar(m.medium),safe=encodeURIComponent(m.title).replace(/'/g,"%27"),fb='https://placehold.co/400x600/'+getMoodHexForPlaceholder(m.tags.mood[0]||'Unknown')+'/000000?text='+safe;
-        c.style.setProperty('--theme-mood',mC);c.style.setProperty('--theme-mood-dim','color-mix(in srgb,'+mC+' 30%,transparent)');
-        c.style.setProperty('--theme-med',mdC);c.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)');
+    // Instead of rendering all elements, trigger the first batch
+    renderNextBatch();
+}
+
+function renderNextBatch() {
+    const g = document.getElementById('mediaGrid');
+    const nextBatch = currentFilteredMedia.slice(currentRenderIndex, currentRenderIndex + ITEMS_PER_PAGE);
+    
+    nextBatch.forEach((m, i) => {
+        const c = document.createElement('div');
+        c.className = 'card';
+        // Minor stagger animation for newly loaded items
+        c.style.animationDelay = ((i % ITEMS_PER_PAGE) * 0.05) + 's';
         
-        let td=m.tags.genre.length>0||m.tags.mood.length>0?'<div class="tag-display">'+[...m.tags.genre,...m.tags.mood].slice(0,2).join(' • ')+'</div>':'';
+        const mC = getMoodColorVar(m.tags.mood[0]||'Unknown');
+        const mdC = getMediumColorVar(m.medium);
+        const safe = encodeURIComponent(m.title).replace(/'/g,"%27");
+        const fb = 'https://placehold.co/400x600/'+getMoodHexForPlaceholder(m.tags.mood[0]||'Unknown')+'/000000?text='+safe;
         
-        c.innerHTML=`
-            <img src="${m.image}" alt="${m.title}" onerror="this.onerror=null;this.src='${fb}'">
+        c.style.setProperty('--theme-mood',mC);
+        c.style.setProperty('--theme-mood-dim','color-mix(in srgb,'+mC+' 30%,transparent)');
+        c.style.setProperty('--theme-med',mdC);
+        c.style.setProperty('--theme-med-dim','color-mix(in srgb,'+mdC+' 15%,transparent)');
+        
+        let td = m.tags.genre.length > 0 || m.tags.mood.length > 0 ? '<div class="tag-display">'+[...m.tags.genre,...m.tags.mood].slice(0,2).join(' • ')+'</div>' : '';
+        
+        c.innerHTML = `
+            <img src="${m.image}" alt="${m.title}" onerror="this.onerror=null;this.src='${fb}'" loading="lazy">
             <div class="card-hover-content">
                 <div class="badge-row">
                     <span class="medium-badge" style="margin-bottom:0;">${m.medium}</span>
@@ -716,8 +735,39 @@ function loadMedia() {
             </div>
             <div class="card-title-bar"><h2>${m.title} ${m.year}</h2></div>
         `;
-        c.onclick=()=>openModal(m);g.appendChild(c);
-    }); 
+        c.onclick = () => openModal(m);
+        g.appendChild(c);
+    });
+    
+    currentRenderIndex += ITEMS_PER_PAGE;
+    
+    // Manage Sentinel visibility
+    const sentinel = document.getElementById('scrollSentinel');
+    if (currentRenderIndex >= currentFilteredMedia.length) {
+        sentinel.style.display = 'none';
+    } else {
+        sentinel.style.display = 'block';
+    }
+}
+
+function setupScrollObserver() {
+    const sentinel = document.getElementById('scrollSentinel');
+    const options = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+    };
+    
+    scrollObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting && currentRenderIndex < currentFilteredMedia.length) {
+                // Short timeout gives a very smooth, aesthetic feel to the infinite scroll
+                setTimeout(renderNextBatch, 150);
+            }
+        });
+    }, options);
+    
+    scrollObserver.observe(sentinel);
 }
 
 window.copyShareLink = function(btn, slug) {
@@ -760,7 +810,7 @@ function openModal(mObj) {
     let tagsHtml = allTags.length > 0 ? '<div class="hero-tags" style="margin-top: 0.5rem; margin-bottom: 0;">' + allTags.map(tag => '<span class="hero-tag">'+tag+'</span>').join('') + '</div>' : '';
     
     document.getElementById('modalBody').innerHTML=`
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
             <div style="flex: 1;">
                 <div class="hero-info-header" style="margin-bottom: 0.5rem;">
                     <span class="medium-badge" style="margin-bottom:0;">${mObj.medium}</span>
@@ -775,10 +825,12 @@ function openModal(mObj) {
             </button>
         </div>
         
-        ${generateMetricsHtml(mObj)}
-        ${tagsHtml}
+        <div style="margin-bottom: 1.5rem;">
+            ${generateMetricsHtml(mObj)}
+            ${tagsHtml}
+        </div>
         
-        <div style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
+        <div style="border-top: 1px solid var(--border); padding-top: 1.5rem;">
             ${t}
         </div>
     `; 
