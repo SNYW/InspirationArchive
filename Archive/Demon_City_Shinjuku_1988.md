@@ -1,7 +1,7 @@
 # Demon City Shinjuku (1988)
 
 **Medium:** Anime
-**Raw Score:** 6.3
+**Raw Score:** 3.15/5
 **Total Ratings:** 5000
 
 **Creator/Author:** Directed by Yoshiaki Kawajiri; Based on the novel by Hideyuki Kikuchi; Studio: Madhouse

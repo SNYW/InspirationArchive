@@ -1,7 +1,7 @@
 # The Day the Earth Caught Fire (1961)
 
 **Medium:** Film
-**Raw Score:** 7.2
+**Raw Score:** 3.60/5
 **Total Ratings:** 3000
 
 **Creator/Author:** Val Guest (Director), Wolf Mankowitz (Writer)

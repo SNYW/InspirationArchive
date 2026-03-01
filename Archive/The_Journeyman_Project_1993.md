@@ -3,7 +3,7 @@
 Tags: 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Time-Travel, Isolation
 
 **Medium:** Video Game
-**Raw Score:** 7.9
+**Raw Score:** 3.95/5
 **Total Ratings:** 100
 **Creator/Author:** Presto Studios
 

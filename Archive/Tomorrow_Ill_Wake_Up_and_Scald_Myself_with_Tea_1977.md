@@ -3,7 +3,7 @@
 **Tags:** 🌍 Czechoslovakia | 🎭 Satirical | 📚 Time-Travel | 🧬 Time-Travel
 
 **Medium:** Film
-**Raw Score:** 7.1
+**Raw Score:** 3.55/5
 **Total Ratings:** 5000
 **Creator/Author:** Jindřich Polák
 
