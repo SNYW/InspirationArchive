@@ -1922,6 +1922,23 @@
       "created_at": "2026-03-01 13:04:32"
     },
     {
+      "title": "O Homem do Sputnik",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Carlos Manga",
+      "raw_score": 3.65,
+      "total_ratings": 334,
+      "origin": "Brazil ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens",
+      "image_filename": null,
+      "pitch": "O Homem do Sputnik (The Sputnik Man) is a Brazilian comedy film from 1959 about a humble couple, Anast\u00e1cio and Cleci, who run a small egg business in Rio de Janeiro. One night, a mysterious metallic object crashes into their chicken coop. When Anast\u00e1cio discovers the strange globe among his chickens, he initially thinks nothing of it\u2014until Cleci reads in the newspaper about the Soviet Union's recently launched Sputnik satellite. Realizing their find could be worth a fortune, the couple attempts to pawn the \"Sputnik\" but instead becomes embroiled in an international spy thriller. American, Soviet, and French agents descend upon the simple couple, each trying to steal the object for their respective governments. Meanwhile, Anast\u00e1cio and Cleci are thrust into the glamorous world of high society, staying at the luxurious Copacabana Palace and encountering a parade of seductive foreign agents.",
+      "truth": "The film opens with Anast\u00e1cio (Oscarito) and his wife Cleci living a modest life in Rio. One evening, a loud bang shakes their chicken coop. Investigating, Anast\u00e1cio discovers a strange metallic sphere among his hens\u2014the very same week that the world is abuzz with news of Sputnik, the first artificial satellite launched by the Soviet Union.\n\nWhen Cleci sees Sputnik's photograph in the newspaper, she notices a striking resemblance to the object in their coop. Anast\u00e1cio decides to visit a pawnshop, where the employee Dorinha (played by a young actor) calls her journalist boyfriend Nelson. However, the unscrupulous journalist Alberto intercepts the story and rushes to break the news first, claiming the Sputnik has landed in Brazil.\n\nThe story becomes a national sensation. Anast\u00e1cio and Cleci are suddenly famous, invited to stay at the prestigious Copacabana Palace. There, they encounter a rotating cast of foreign agents\u2014Russians, Americans, and French\u2014all eager to acquire the mysterious object. Each nation sends attractive operatives to befriend the simple couple, promising riches and luxuries in exchange for the Sputnik.\n\nThe film satirizes Cold War paranoia and the obsession with space race technology, showing how two ordinary people become unwitting pawns in geopolitical games. The comedy highlights the absurdity of spy mania and the cultural divide between Brazil's emerging modern society and traditional values.",
+      "core": "O Homem do Sputnik stands as a fascinating artifact of Brazilian cinema during a pivotal historical moment. Released in 1959, the film emerged just as the space race was capturing the world's attention following the Soviet Union's launch of Sputnik 1 in October 1957. The movie captures the mix of fascination, anxiety, and humor that the space race inspired in countries outside the two superpowers.\n\nThe film is notable for featuring Norma Bengell, who would later become one of Brazil's most iconic actresses. Her performance includes a parody of Brigitte Bardot, adding to the film's comedic and cultural commentary.\n\nAs a comedy, the film uses the Sputnik incident as a vehicle for social satire, poking fun at Brazilian high society, foreign cultural influences, and the absurdity of Cold War espionage. The characters of Anast\u00e1cio and Cleci represent traditional Brazilian values confronting the modern, technological world\u2014a theme that resonated with Brazil's own period of rapid modernization in the late 1950s and early 1960s.\n\nThe film's lighthearted approach to serious geopolitical themes makes it a unique entry in early science fiction cinema from Latin America, demonstrating how non-superpower nations processed the space age through humor and satire rather than the more serious tones typical of American or Soviet science fiction films of the era.",
+      "created_at": "2026-03-01 13:58:35"
+    },
+    {
       "title": "Omega Doom",
       "year": 1996,
       "medium": "Film",
@@ -5237,5 +5254,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 308
+  "count": 309
 }
