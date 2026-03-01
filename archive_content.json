@@ -5322,6 +5322,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "They Were Eleven",
+      "year": 1975,
+      "medium": "Manga",
+      "creator": "Moto Hagio",
+      "raw_score": 3.5,
+      "total_ratings": 5842,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Isolation, Sentience",
+      "image_filename": "They_Were_Eleven_1975.jpg",
+      "pitch": "They Were Eleven is a groundbreaking 1975 science fiction manga by Moto Hagio that pushed the boundaries of what sh\u014djo manga could achieve. The story follows ten young space cadets who are placed aboard a decommissioned spaceship for their final test\u2014a challenge that will determine whether they can become valued members of their society. Their mission is simple but challenging: survive as long as they can with limited resources. However, upon arriving at the ship, the crew discovers they have gained an eleventh member\u2014and no one can remember the original lineup well enough to identify who doesn't belong.\n\nThis seemingly simple premise evolves into a tense psychological thriller as paranoia mounts, trust erodes, and the cadets must grapple with the terrifying possibility that one of them is an imposter. Beyond the mystery element, the manga explores profound themes of identity, belonging, and what it means to be human. The story won the prestigious 21st Shogakukan Manga Award in 1976 and has inspired multiple adaptations including an anime film in 1986, a live-action television film, and numerous stage plays.",
+      "truth": "The narrative unfolds as the ten cadets\u2014a diverse group from different backgrounds\u2014attempt to complete their final examination aboard the aging spacecraft. They must work together, ration supplies, and maintain the ship's systems while awaiting rescue or completing their mission parameters. The arrival of the mysterious eleventh member throws everything into chaos.\n\nEach cadet has their own reasons for wanting to pass the test and earn their place in society. Some seek acceptance after years of hardship, others carry family expectations, and some simply want to prove themselves. As days pass in the decaying orbit around a dying star, the crew faces not only the external threat of their failing spacecraft but also internal tensions and suspicions.\n\nThe temperature drops as the star's radiation affects their mental state, creating a pressure cooker of fear and mistrust. The eleven cadets must figure out who among them is the genuine article and who is the intruder\u2014and whether the identity of the imposter even matters when survival is at stake. The story explores how group dynamics break down under stress and how the concept of individual identity becomes fluid when everyone's survival is at risk.\n\nThe manga also introduces a sequel series, Zoku J\u016bichinin Iru! (Continued: They Were Eleven), which expands on the universe and explores the aftermath of the original mystery.",
+      "core": "They Were Eleven represents a watershed moment in manga history as one of the first serious science fiction works targeted at young female audiences. Moto Hagio, a founding member of the influential Year 24 Group (a collective of female manga creators who revolutionized sh\u014djo manga), used the science fiction genre to explore themes that went far beyond typical romance narratives.\n\nThe manga's exploration of identity and otherness resonated deeply with readers. The question of who belongs and who doesn't\u2014who is \"real\" and who is an imposter\u2014speaks to broader themes of social membership, acceptance, and the fear of being excluded. For the cadets, the stakes aren't just survival but proving they deserve to exist in their society.\n\nThe work also demonstrates how science fiction could serve as a vehicle for character-driven drama rather than just technological spectacle. Rather than focusing on spaceships or alien worlds, Hagio uses the sci-fi setting to examine human psychology, group dynamics, and the construction of identity. This approach influenced countless creators who followed, helping to legitimize science fiction within the sh\u014djo manga genre.\n\nThe manga's critical acclaim and lasting influence is evident in its multiple adaptations across different media and its continued relevance decades later. It demonstrated that science fiction wasn't just for male audiences and that complex, intellectually demanding stories could find homes in any genre.",
+      "created_at": "2026-03-01 22:24:52"
+    },
+    {
       "title": "Think Blue, Count Two",
       "year": 1963,
       "medium": "Short Story",
@@ -5781,5 +5798,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 340
+  "count": 341
 }
