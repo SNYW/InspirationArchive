@@ -428,6 +428,7 @@ async function loadMediaList() {
                 year: entry.year ? `(${entry.year})` : '',
                 medium: entry.medium,
                 creator: entry.creator || '',
+                created_at: entry.created_at || null,
                 pitch: entry.pitch ? entry.pitch.substring(0, 800) : 'No description available.',
                 tags: tags,
                 rating: rating,
@@ -539,6 +540,13 @@ function loadMedia() {
     });
     
     currentFilteredMedia=fl; 
+    
+    // Sort by created_at descending (newest first) for "All Visions"
+    fl.sort((a, b) => {
+        if (!a.created_at || !b.created_at) return 0;
+        return new Date(b.created_at) - new Date(a.created_at);
+    });
+    
     if(!fl.length){h.classList.add('hidden');g.innerHTML='<div class="loading">No visions match these parameters.</div>';return;} 
     if(sq.length>0)h.classList.add('hidden'); else{h.classList.remove('hidden');updateHero();if(heroInterval)clearInterval(heroInterval);heroInterval=setInterval(updateHero,60000);} 
     
