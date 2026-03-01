@@ -235,6 +235,9 @@
         
         .share-btn { background: rgba(255,255,255,0.05); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-family: inherit; font-size: 0.8rem; font-weight: 600; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.4rem; white-space: nowrap;}
         .share-btn:hover { background: var(--text); color: var(--bg); border-color: var(--text); }
+        
+        .hero-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
+        .hero-tag { background: var(--glass-bg); border: 1px solid var(--border); color: var(--text-muted); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; backdrop-filter: blur(4px); }
 
         /* --- STATS DASHBOARD --- */
         .stats-content { max-width: 800px; flex-direction: column; padding: 4rem 3rem; overflow-y: auto; }
@@ -303,7 +306,8 @@
         <div class="search-container">
             <select id="sortFilter" class="sort-select" onchange="loadMedia()">
                 <option value="recent">Sort: Added</option>
-                <option value="year">Sort: Year</option>
+                <option value="year-newest">Year: Newest</option>
+                <option value="year-oldest">Year: Oldest</option>
                 <option value="title">Sort: Title</option>
             </select>
             
@@ -542,7 +546,6 @@ function updateHero() {
     const container = document.getElementById('heroSection');
     if(!media.length) return; 
     
-    // Create the Top Picks pool (Rating >= 4 and Obscurity >= 60% OR Ghost)
     const topPicksPool = media.filter(m => m.rating >= 4.0 && (m.obscurityPct >= 60 || m.obscurityTier === 'ghost'));
     
     if (topPicksPool.length === 0) {
@@ -550,10 +553,8 @@ function updateHero() {
         return;
     }
 
-    // Trigger the fade out animation
     container.classList.add('fade-out');
     
-    // Wait for fade out to complete before swapping content
     setTimeout(() => {
         const categories = [
             { name: 'Film', filter: m => m.medium.toLowerCase().includes('film') || m.medium.toLowerCase().includes('movie') },
@@ -565,11 +566,9 @@ function updateHero() {
 
         let selectedPicks = [];
         
-        // 1. Try to get one from each category first
         categories.forEach(cat => {
             const available = topPicksPool.filter(cat.filter);
             if (available.length > 0) {
-                // Ensure we don't pick a duplicate title
                 const validOptions = available.filter(item => !selectedPicks.find(p => p.title === item.title));
                 if (validOptions.length > 0) {
                     const randomPick = validOptions[Math.floor(Math.random() * validOptions.length)];
@@ -578,17 +577,15 @@ function updateHero() {
             }
         });
 
-        // 2. If we came up short (less than 5), fill the remaining slots from the general pool
         if (selectedPicks.length < 5) {
             const unusedPicks = topPicksPool.filter(item => !selectedPicks.find(p => p.title === item.title));
-            unusedPicks.sort(() => 0.5 - Math.random()); // Shuffle the remaining items
+            unusedPicks.sort(() => 0.5 - Math.random()); 
             
             while (selectedPicks.length < 5 && unusedPicks.length > 0) {
                 selectedPicks.push(unusedPicks.pop());
             }
         }
 
-        // Randomize the order so mobile users see a different medium featured first each time
         selectedPicks.sort(() => 0.5 - Math.random());
 
         let gridHtml = '';
@@ -663,11 +660,17 @@ function loadMedia() {
         return true; 
     });
 
+    const getSafeYear = (yearStr, fallback) => {
+        if (!yearStr) return fallback;
+        const parsed = parseInt(yearStr.replace(/\D/g, ''));
+        return isNaN(parsed) ? fallback : parsed;
+    };
+
     fl.sort((a, b) => {
-        if (sortVal === 'year') {
-            const yearA = a.year ? parseInt(a.year.replace(/\D/g, '')) : 0;
-            const yearB = b.year ? parseInt(b.year.replace(/\D/g, '')) : 0;
-            return yearB - yearA; 
+        if (sortVal === 'year-newest') {
+            return getSafeYear(b.year, 0) - getSafeYear(a.year, 0);
+        } else if (sortVal === 'year-oldest') {
+            return getSafeYear(a.year, 9999) - getSafeYear(b.year, 9999);
         } else if (sortVal === 'title') {
             return a.title.localeCompare(b.title); 
         } else {
@@ -757,24 +760,24 @@ function openModal(mObj) {
     let tagsHtml = allTags.length > 0 ? '<div class="hero-tags" style="margin-top: 0.5rem; margin-bottom: 0;">' + allTags.map(tag => '<span class="hero-tag">'+tag+'</span>').join('') + '</div>' : '';
     
     document.getElementById('modalBody').innerHTML=`
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
-            <div>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem;">
+            <div style="flex: 1;">
                 <div class="hero-info-header" style="margin-bottom: 0.5rem;">
                     <span class="medium-badge" style="margin-bottom:0;">${mObj.medium}</span>
                     <span class="year" style="color: var(--text-muted); font-weight: 600;">${mObj.year}</span>
                 </div>
-                <h2 style="margin-top: 0; margin-bottom: 0.25rem;">${mObj.title}</h2>
+                <h2 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 2.2rem; line-height: 1.2;">${mObj.title}</h2>
+                ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0;">${mObj.creator}</div>` : ''}
             </div>
-        </div>
-        ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">${mObj.creator}</div>` : ''}
-        ${generateMetricsHtml(mObj)}
-        ${tagsHtml}
-        <div style="margin-top: 0.75rem;">
-            <button class="share-btn" onclick="window.copyShareLink(this, '${mObj.slug}')">
+            <button class="share-btn" onclick="window.copyShareLink(this, '${mObj.slug}')" style="margin-top: 0.5rem;">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
                 Share
             </button>
         </div>
+        
+        ${generateMetricsHtml(mObj)}
+        ${tagsHtml}
+        
         <div style="margin-top: 1.5rem; border-top: 1px solid var(--border); padding-top: 1.5rem;">
             ${t}
         </div>
