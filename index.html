@@ -565,15 +565,28 @@ function updateHero() {
 
         let selectedPicks = [];
         
+        // 1. Try to get one from each category first
         categories.forEach(cat => {
             const available = topPicksPool.filter(cat.filter);
             if (available.length > 0) {
-                const randomPick = available[Math.floor(Math.random() * available.length)];
-                if (!selectedPicks.find(p => p.title === randomPick.title)) {
+                // Ensure we don't pick a duplicate title
+                const validOptions = available.filter(item => !selectedPicks.find(p => p.title === item.title));
+                if (validOptions.length > 0) {
+                    const randomPick = validOptions[Math.floor(Math.random() * validOptions.length)];
                     selectedPicks.push(randomPick);
                 }
             }
         });
+
+        // 2. If we came up short (less than 5), fill the remaining slots from the general pool
+        if (selectedPicks.length < 5) {
+            const unusedPicks = topPicksPool.filter(item => !selectedPicks.find(p => p.title === item.title));
+            unusedPicks.sort(() => 0.5 - Math.random()); // Shuffle the remaining items
+            
+            while (selectedPicks.length < 5 && unusedPicks.length > 0) {
+                selectedPicks.push(unusedPicks.pop());
+            }
+        }
 
         // Randomize the order so mobile users see a different medium featured first each time
         selectedPicks.sort(() => 0.5 - Math.random());
@@ -677,7 +690,7 @@ function loadMedia() {
     } else {
         updateHero();
         if(heroInterval) clearInterval(heroInterval);
-        heroInterval = setInterval(updateHero, 30000); // Rotates every 30 seconds
+        heroInterval = setInterval(updateHero, 30000); 
     } 
     
     fl.forEach((m,i)=>{
