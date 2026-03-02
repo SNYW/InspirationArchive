@@ -69,6 +69,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "2067",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "Seth Larney",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Australia ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Time-Travel ,",
+      "topics": "Ecology, Pandemic",
+      "image_filename": null,
+      "pitch": "2067 is a 2020 Australian science fiction film set in a devastated future where Earth has been ruined by climate change, deforestation, and nuclear war. Only one city in Australia survives, protected by synthetic oxygen\u2014but the oxygen is tainted and causes a deadly affliction called \"The Sickness.\" When scientist Ethan Whyte is contacted by researchers 400 years in the future who need his help to prevent humanity's extinction, he must journey through time to discover the truth about his father's work and the fate of humanity. The film explores themes of environmental collapse, temporal paradoxes, and the desperate hunt for redemption in a world beyond saving.",
+      "truth": "In the year 2067, Earth has been catastrophicallly transformed by climate change, deforestation, and nuclear war. Only one fortified city in the ruins of Australia has survived, protected by synthetic oxygen\u2014but this oxygen is tainted and gradually causes a deadly affliction known as \"The Sickness.\"\n\nEthan Whyte cares for his wife Xanthe, who is afflicted with The Sickness. One day, Ethan is summoned by Regina Jackson, the CTO of Chronicorp, who explains that The Sickness will eventually wipe out humanity. During a test of the \"Chronical,\" a prototype time machine developed by Ethan's late father Richard twenty years earlier, the scientists receive a radio signal from 400 years in the future with a specific message: send Ethan to them.\n\nReluctant at first\u2014Ethan resents his father for abandoning him and his mother\u2014Ethan agrees to the mission after Xanthe and his guardian Jude convince him. After surviving the traumatic time displacement, Ethan arrives in a lush rainforest that has overtaken the ruins of civilization. He discovers evidence of his own death in the future and learns that his father left behind a holographic recording explaining the true purpose of the Chronical project.\n\nThe mission involves reactivating an atmospheric monitoring station to determine if Earth's atmosphere has become breathable again, then transmitting the data back to the past. However, a power failure in 2474 prevents safe time travel until Ethan's wrist device\u2014a DNA analyser specifically made for him\u2014activates the Chronical. As the Chronical's nuclear core threatens to explode, Ethan and Jude discover the horrifying truth: a cure for The Sickness was never found, and Xanthe died in the future timeline. The film ends with Ethan making a desperate choice to prevent the disaster.",
+      "core": "**Environmental Collapse and Ecological Grief:** 2067 belongs to the tradition of cli-fi (climate fiction) that dramatizes humanity's relationship with the planet. The film presents a future where ecological destruction has rendered Earth nearly uninhabitable, with only one city surviving through technological intervention. This theme resonates with contemporary anxieties about climate change and the potential for environmental tipping points.\n\n**Time Travel as Narrative Device:** Rather than using time travel for adventure or paradox exploration, 2067 uses the temporal framework to explore fate, redemption, and the impossibility of changing the past. Ethan's journey reveals that the future he was sent to save has already failed\u2014his presence cannot prevent the catastrophe, only reveal its full scope.\n\n**Paternal Relationships and Legacy:** The film centers on Ethan's complicated relationship with his absent father Richard. Through holographic recordings and discovers in the future timeline, Ethan must reconcile his resentment with his father's scientific legacy. This personal journey mirrors the broader theme of humanity's inheritance\u2014both the environmental damage and the desperate attempts at redemption left by previous generations.\n\n**Australian Post-Apocalyptic Vision:** The film's Australian setting is notable in a genre dominated by American or European futures. It offers a unique perspective on collapse, drawing on Australia's specific environmental vulnerabilities\u2014drought, bushfire, and isolation\u2014to create a distinctive dystopian landscape.\n\nWhile 2067 received mixed reviews and was a box office disappointment, it represents an interesting entry in 2020s dystopian cinema, combining environmental themes with time-travel mechanics in a distinctly Australian context.",
+      "created_at": "2026-03-02 15:29:29"
+    },
+    {
       "title": "334",
       "year": 1972,
       "medium": "Novel",
@@ -2810,8 +2827,8 @@
       "year": 1997,
       "medium": "Film",
       "creator": "Alejandro Amen\u00e1bar (Director), Mateo Gil (Writer)",
-      "raw_score": 4.35,
-      "total_ratings": 45,
+      "raw_score": 3.85,
+      "total_ratings": 77000,
       "origin": "Spain ,",
       "mood": "Surreal ,",
       "sub_genres": "Science-Fantasy ,",
@@ -6852,5 +6869,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 403
+  "count": 404
 }
