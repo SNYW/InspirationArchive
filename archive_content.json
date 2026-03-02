@@ -2942,6 +2942,23 @@
       "created_at": "2026-03-01 13:58:35"
     },
     {
+      "title": "Observer",
+      "year": 2017,
+      "medium": "Video Game",
+      "creator": "Bloober Team",
+      "raw_score": 3.9,
+      "total_ratings": 5000,
+      "origin": "Poland ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk, Horror ,",
+      "topics": "Megacorps, Cybernetics, VR",
+      "image_filename": "Observer_2017.jpg",
+      "pitch": "Observer is a psychological horror video game set in a cyberpunk rendition of 2084 Krak\u00f3w, Poland. Developed by Bloober Team (the same studio behind Layers of Fear), it puts players in the role of Daniel Lazarski, an \"Observer\"\u2014a detective with the ability to hack into people's minds through their neural implants. When Daniel receives a distress call from his estranged son Adam, he enters a Krak\u00f3w plagued by the nanophage, a digital plague that devastated the population and allowed megacorporation Chiron to take control of Poland.\n\nThe game draws heavily from classic cyberpunk influences like Blade Runner, while adding distinctly Eastern European flavor\u2014combining dystopian social commentary with psychological horror. With Rutger Hauer (iconic from Blade Runner) voicing the protagonist, Observer explores themes of surveillance, mind invasion, and the blurred lines between human consciousness and technology.",
+      "truth": "The game opens in 2084 Krak\u00f3w, a city devastated by the \"nanophage\"\u2014a digital plague that killed thousands and led to the rise of Chiron megacorporation, which now controls Poland as the \"Fifth Polish Republic.\" Observers are a police unit empowered to hack citizens' neural implants (\"ComPass\") for interrogation.\n\nDaniel Lazarski receives a call from his son Adam, whose signal traces to a tenement building. There, Daniel discovers a headless body and begins investigating. Through his ability to \"hack\" minds\u2014which manifests as surreal, nightmarish first-person sequences\u2014he uncovers a conspiracy involving Chiron, a mysterious figure called H.N., and his son's involvement with data smuggling.\n\nAs Daniel investigates apartments throughout the building, he experiences visions through the minds of the deceased, including Helena Nowak (a data smuggler working for Adam) and Jack Karnas (a tattoo parlor owner). The investigation leads to a confrontation with Adam himself, revealing that Adam's consciousness has been digitized and transferred to a virtual sanctuary within the building's network.\n\nThe game offers two endings: if Daniel agrees to host Adam's consciousness, Adam takes control of Daniel's body and escapes. If Daniel refuses, Adam transfers Daniel's consciousness into a maintenance drone, and Daniel must fight to reclaim his body before the lockdown lifts\u2014leaving both their fates uncertain.",
+      "core": "Observer stands out in the cyberpunk genre by infusing Eastern European dystopian anxieties into the genre's familiar tropes. Rather than the gleaming megacities of Japanese or American cyberpunk, Bloobacter Team presents a grimy, decaying Krak\u00f3w\u2014tenement buildings filled with drug addicts, holographic advertisements, and omnipresent surveillance. The game's Eastern Bloc heritage shows in its architecture, propaganda, and the lingering trauma of historical oppression.\n\nThe \"Dream Eater\" mechanic\u2014allowing Daniel to hack into minds\u2014serves as both gameplay and thematic core. These hacking sequences are surreal, nightmarish journeys into human consciousness, where memories fragment and reality distorts. They explore questions of privacy, identity, and what remains \"human\" when thoughts can be invaded and read.\n\nThe megacorporation Chiron represents a new form of corporate colonialism, filling the power vacuum left by the nanophage crisis. The game questions whether this corporate control is truly different from the Soviet control that preceded it\u2014 Observer's Krak\u00f3w simply traded one surveillance state for another.\n\nRutger Hauer's involvement is more than stunt casting; his performance as Daniel carries the weight of aging, of being a relic in a changed world. The father-son dynamic between Daniel and Adam provides emotional stakes beyond the procedural investigation, exploring themes of legacy, mortality, and the desire to preserve one's identity in a world where consciousness can be digitized and transferred.\n\nThe game received generally favorable reviews, with particular praise for its atmosphere, world design, and the psychological horror of its hacking sequences, though some criticized the stealth sections and occasional focus on style over substance.",
+      "created_at": "2026-03-02 21:35:49"
+    },
+    {
       "title": "Omega Doom",
       "year": 1996,
       "medium": "Film",
@@ -7243,5 +7260,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 426
+  "count": 427
 }
