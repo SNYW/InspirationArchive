@@ -5152,6 +5152,23 @@
       "created_at": "2026-02-28 23:35:30"
     },
     {
+      "title": "The Lost World",
+      "year": 1925,
+      "medium": "Film",
+      "creator": "Harry O. Hoyt (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration, Evolution",
+      "image_filename": "The_Lost_World_1925.jpg",
+      "pitch": "The Lost World is a 1925 American silent adventure film that holds a special place in cinema history as one of the first adaptations of Arthur Conan Doyle's 1912 novel and a landmark in special effects. Directed by Harry O. Hoyt and pioneering stop-motion animator Willis O'Brien (who would later create King Kong), this film brings to life the story of Professor Challenger and his expedition to a hidden plateau in South America where dinosaurs still roam. The film was a major commercial success upon release and was selected for preservation in the United States National Film Registry in 1998 for its cultural, historical, and aesthetic significance.",
+      "truth": "The film adapts Arthur Conan Doyle's novel about an expedition to a remote plateau in South America where prehistoric creatures have survived. The story begins when Paula White arrives at Professor Challenger's London home with the journal of her father, explorer Maple White, containing sketches of dinosaurs found on a remote plateau. Despite academic ridicule, Challenger convinces a newspaper to fund an expedition to prove dinosaurs still exist.\n\nThe expedition team includes Professor Challenger, Paula White, sportsman Sir John Roxton, reporter Edward Malone (who hopes the expedition will impress his fianc\u00e9e), skeptical Professor Summerlee, and Challenger's butler Austin, along with servant Zambo. Upon reaching the base of the plateau, the explorers face immediate danger when attacked by an Apeman. The conflict escalates when they discover living dinosaurs, including a Pteranodon\u2014proof that Maple White's claims were true.\n\nThe team crosses onto the plateau using a fallen tree as a bridge, encountering various prehistoric creatures. The most memorable sequence involves a climactic battle between a Tyrannosaurus rex and a Triceratops, showcased through O'Brien's groundbreaking stop-motion animation. The film reaches its dramatic conclusion as the explorers must find a way to escape the plateau with their discoveries.",
+      "core": "**Pioneering Special Effects:** The Lost World is historically significant for featuring some of the most impressive stop-motion animation of its era. Willis O'Brien's work on the film established him as a master of the technique and directly led to his employment on King Kong (1933). The dinosaur sequences, though primitive by modern standards, were revolutionary for 1925 and influenced decades of creature features to follow.\n\n**Victorian Adventure Narrative:** The film embodies the early 20th-century adventure genre, drawing from Conan Doyle's literary tradition of intrepid explorers and mysterious lands. It reflects the era's optimism about exploration and scientific discovery, while also tapping into enduring fascinations with lost worlds and living fossils.\n\n**Adaptation and Literary Heritage:** As one of the earliest filmed adaptations of The Lost World novel, the film helped establish the template for future dinosaur media. The story predates Jurassic Park by decades and helped cement the dinosaur adventure narrative in popular culture.\n\nThe Lost World remains significant as a historical artifact that demonstrates the early intersection of science fiction literature and cinema, showcasing how filmmakers began translating speculative fiction into visual storytelling. Its selection for the National Film Registry recognizes its lasting contribution to American cinema and the evolution of special effects in filmmaking.",
+      "created_at": "2026-03-02 14:46:12"
+    },
+    {
       "title": "The Machine Stops",
       "year": 1909,
       "medium": "Short Story",
@@ -6801,5 +6818,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 400
+  "count": 401
 }
