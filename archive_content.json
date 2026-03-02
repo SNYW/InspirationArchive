@@ -4200,6 +4200,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Big Snit",
+      "year": 1985,
+      "medium": "Animated Short",
+      "creator": "Richard Condie",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Canada ,",
+      "mood": "Satirical ,",
+      "sub_genres": ",",
+      "topics": "",
+      "image_filename": "The_Big_Snit_1985.jpg",
+      "pitch": "The Big Snit is a 1985 Canadian animated short that takes darkly comedic aim at human obliviousness and the absurdity of everyday life. A married couple sits peacefully playing Scrabble while the world ends in nuclear war\u2014without either of them noticing. Directed by Richard Condie and produced by the National Film Board of Canada, this 10-minute masterpiece won numerous international awards including the Grand Prize at the Montreal World Film Festival and was nominated for an Academy Award. The film is renowned for its stark visual style and biting satire of mundane concerns eclipsing existential threats.",
+      "truth": "The film opens on an ordinary suburban couple in their front room, happily engaged in a game of Scrabble. The husband struggles to find a word while his wife grows impatient and retreats to vacuum. He turns on his favorite TV show \"Sawing for Teens\" and dozes off. Meanwhile, an emergency broadcast interrupts the programming to announce that nuclear war has broken out worldwide\u2014but the cat chews through the TV's cord and knocks out the television before the husband can see the announcement.\n\nWhen he awakens, he peers out the window to see complete chaos in the streets\u2014people running, cars crashing, general pandemonium\u2014completely unaware of what any of it means. Meanwhile, his wife returns, notices her Scrabble tiles have been moved, and accuses him of cheating. The couple gets into a heated argument, with the wife running off in tears.\n\nFeeling guilty, the husband spots an old photograph of the couple at a fair, triggering memories of happier times. He approaches his wife with a concertina and begins playing. They reconcile and embrace. The cat sits by the door, wanting to go outside. As the husband reaches for the doorknob, a white glow emanates from the keyhole\u2014he has been vaporized. He opens the door anyway, and the chaos outside has been replaced by angels, clouds, and heavenly visions. Completely unaware of the cataclysm that has occurred, the couple marvels at the beautiful scene and decides to return to their Scrabble game.",
+      "core": "The Big Snit is a masterful piece of satirical animation that explores humanity's remarkable capacity for ignoring existential threats. Condie's dark vision suggests that even the apocalypse might be insufficient to disrupt the petty concerns of ordinary life\u2014the argument over cheating at board games, the frustration over household chores, the search for the perfect Scrabble word. The film asks uncomfortable questions about whether humanity deserves to survive when it remains so tragically focused on the trivial.\n\nThe animation style is deliberately stark and minimalist, using limited color palettes and stark compositions to create an eerie, almost post-apocalyptic feel even before the nuclear destruction occurs. This visual approach amplifies the satirical impact\u2014the mundane visual treatment of the mundane contrasts sharply with the extraordinary events (both the world-ending nuclear war and the transcendent finale).\n\nThe film's dark humor operates on multiple levels: the absurdity of the Scrabble argument during apocalypse, the cat's role in \"saving\" the husband from witnessing the announcement, and the ultimate irony of the couple ascending to heaven still oblivious to what happened. Condie suggests that human connection\u2014even when flawed and petty\u2014may be all that truly matters, or perhaps that ignorance truly is bliss.\n\nThe Big Snit remains significant as a landmark in Canadian animation and a biting commentary on human nature. Its themes of obliviousness, petty conflict, and the searched-for meaning in the mundane continue to resonate in an age of constant news cycles and existential anxieties.",
+      "created_at": "2026-03-02 18:17:43"
+    },
+    {
       "title": "The Big Time",
       "year": 1958,
       "medium": "Novella",
@@ -7056,5 +7073,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 415
+  "count": 416
 }
