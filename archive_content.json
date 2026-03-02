@@ -3384,6 +3384,23 @@
       "created_at": "2026-03-02 03:30:28"
     },
     {
+      "title": "Ten Billion Days and One Hundred Billion Nights",
+      "year": 1967,
+      "medium": "Novel",
+      "creator": "Ryu Mitsuse",
+      "raw_score": 3.43,
+      "total_ratings": 494,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Time-Travel, Evolution",
+      "image_filename": null,
+      "pitch": "Ten Billion Days and One Hundred Billion Nights is a landmark Japanese philosophical science fantasy novel that weaves together mythology, religion, and science fiction across cosmic timescales. The story follows three figures\u2014Plato, Buddha, and Jesus Christ\u2014as they are transported through time to witness the end of the world and the ultimate truths of existence. Originally published in Japan in 1967, the novel is considered one of the most influential works of Japanese science fiction, blending Eastern and Western philosophical traditions into a unique cosmic narrative. The book was later adapted into a manga by renowned sh\u014dnen-ai author Moto Hagio in the late 1970s, expanding its cultural impact.",
+      "truth": "The novel opens with the philosopher Plato, who has been tasked with determining the \"true systems of the world\"\u2014a calculation that will take ten billion days (approximately 27 million years) to complete. During his journey through time, Plato encounters various civilizations and witnesses the evolution and decline of humanity multiple times.\n\nMeanwhile, Jesus of Nazareth, Siddhartha Gautama (the Buddha), and the demigod Asura travel together through one hundred billion nights into the far future. Their journey brings them to Earth 5,670,000 years in the future, where they find a desolate planet where humanity has been replaced by evolved cyborg descendants. The trio becomes embroiled in a brutal war between these cybernetic beings, eventually fighting each other on the ruined Earth.\n\nThe narrative explores themes of alien bioengineering of Earth, the lost civilization of Atlantis, and the ultimate fate of human consciousness and evolution. The story tackles questions of divinity, the nature of time, and the cyclical nature of civilization through its interwoven journeys across cosmic epochs.",
+      "core": "**Religious and Philosophical Synthesis:** The novel represents a unique Japanese approach to combining Western and Eastern religious traditions. By placing Plato, Buddha, and Jesus together as travelers through time, Mitsuse creates a dialogue between Greco-Western philosophy, Buddhism, and Christianity\u2014three major wisdom traditions exploring ultimate truths. This syncretic approach was groundbreaking in 1960s Japanese science fiction and influenced later works in the genre.\n\n**Cosmic Scale and Time:** Mitsuse's treatment of time is perhaps the novel's most distinctive feature. The title itself\u2014Ten Billion Days and One Hundred Billion Nights\u2014emphasizes the vast timescales involved. Rather than focusing on near-future technological speculation, the novel embraces a cosmic perspective that places human civilization within the larger context of geological and astronomical time.\n\n**Evolution and Transhumanism:** The novel presciently explores themes of technological evolution and transhumanism. The cyborg inhabitants of the far-future Earth represent humanity's potential evolutionary descendants\u2014beings that have transcended biological limitations but retained traces of their human origins. This theme anticipates later cyberpunk and post-human science fiction.\n\n**Cultural Translation Legacy:** The novel's later adaptation by Moto Hagio as a manga helped introduce its philosophical themes to wider audiences. This cross-media legacy demonstrates how Japanese science fiction often moves fluidly between literary and visual forms, with foundational works being reinterpreted for new generations.",
+      "created_at": "2026-03-02 04:15:46"
+    },
+    {
       "title": "Terror Is a Man",
       "year": 1959,
       "medium": "Film",
@@ -6121,5 +6138,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 360
+  "count": 361
 }
