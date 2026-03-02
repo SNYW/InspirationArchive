@@ -6274,6 +6274,23 @@
       "created_at": "2026-03-01 15:44:32"
     },
     {
+      "title": "The Wandering Earth",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Frant Gwo (Director)",
+      "raw_score": 3.4,
+      "total_ratings": 180000,
+      "origin": "China ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF, Space-Opera ,",
+      "topics": "Ecology, Exploration",
+      "image_filename": null,
+      "pitch": "The Wandering Earth is a 2019 Chinese science fiction film directed by Frant Gwo, loosely based on the 2000 short story by Liu Cixin. Set in 2058, the film presents a future where the Sun has begun to expand and will eventually engulf Earth. Under a world government, humanity has constructed 10,000 massive fusion-powered \"Earth Engines\" to thrust the planet out of the Solar System and migrate to a new home around Alpha Centauri. The film follows astronaut Liu Peiqiang and his son Qi as they fight to save humanity when Earth is thrown off course by Jupiter's gravity. It was China's first full-scale interstellar spectacular and became a massive box office success, grossing over $700 million worldwide.",
+      "truth": "In 2058, scientists discover the Sun is anomalously expanding and will consume Earth within 100 years. Under the United Earth Government, humanity begins constructing 10,000 enormous Earth Engines on the Northern Hemisphere to push Earth away from the Sun. Half of humanity is selected by lottery to move underground, while the rest face death from the resulting cataclysms.\n\nSeventeen years later, Liu Peiqiang is about to return to Earth after serving on the International Space Station. His son Qi, now an adult, has obtained thermal suits to take his foster sister Han Duoduo to see the frozen surface of Earth. They are arrested but escape during a massive earthquake caused by Jupiter's gravity affecting Earth's engines.\n\nAs Earth approaches Jupiter for a gravity assist, a gravitational spike causes devastating earthquakes that disable many Earth Engines, setting Earth on a collision course with Jupiter. The group joins a rescue mission to transport a Lighter Core to restart an engine in Hangzhou. In the frozen ruins of Shanghai, Qi and his companions lose their vehicle but continue on foot, eventually joining another team working to restart the global engine network.\n\nThe final effort requires detonating the engine's blast to push Earth away from Jupiter. Many sacrifice themselves, including Qi and Duoduo's grandfather Han Zi'ang. The combined efforts of rescue teams worldwide succeed in restarting enough engines to push Earth away from Jupiter, saving humanity.",
+      "core": "The Wandering Earth represents China's emergence as a major force in big-budget science fiction filmmaking. The film adapts Liu Cixin's short story, transforming it from a more intimate narrative into a grand scale disaster epic. While the original story focused on individual psychological experiences during the migration, the film emphasizes collective human action and sacrifice.\n\nThe film explores themes of human unity in the face of existential threats, with the entire world working together under a single government to save humanity. This reflects both optimistic views of global cooperation and serves as a commentary on humanity's potential to transcend national boundaries when faced with annihilation. The father-son relationship between Liu Peiqiang and Qi provides the emotional core, with the younger generation inheriting the responsibility to complete the mission their parents began.\n\nThe film also showcases impressive visual effects and production design, depicting a frozen Earth with iconic landmarks like the Great Wall of China and Shanghai Tower encased in ice. While the science has been criticized for impracticality\u2014the scale of the engines relative to Earth, the ability to move a planet, the effects of stopping Earth's rotation\u2014the film prioritizes spectacle and emotional storytelling over hard science. The Wandering Earth launched China's science fiction film renaissance and was followed by a prequel, The Wandering Earth 2, in 2023.",
+      "created_at": "2026-03-02 17:18:30"
+    },
+    {
       "title": "The War of the Worlds: Next Century",
       "year": 1981,
       "medium": "Film",
@@ -7005,5 +7022,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 412
+  "count": 413
 }
