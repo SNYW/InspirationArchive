@@ -817,6 +817,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Bio Hunter",
+      "year": 1995,
+      "medium": "OVA",
+      "creator": "Y\u016bz\u014d Sat\u014d (director), Madhouse",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Horror ,",
+      "topics": "Pandemic, Transhumanism",
+      "image_filename": "Bio_Hunter_1995.jpg",
+      "pitch": "Bio Hunter is a dark, hour-long OVA from Madhouse that blends urban fantasy with body horror. Based on a manga by Fujihiko Hosono and scripted by Yoshiaki Kawajiri (Ninja Scroll), it follows two molecular biologists fighting a demon virus spreading through Japan. When one researcher becomes infected, he must battle his own emerging demonic nature while attempting to find a cure. The animation and themes are distinctly Kawajiri\u2014urban fantasy, dark supernatural elements, and the transformation of the human body into something monstrous.",
+      "truth": "Two molecular biologists, Koshigaya and Komada, are working to distribute a cure for a mysterious demon virus that has been infecting people across Japan. The virus transforms its victims into demonic creatures, losing their humanity in exchange for supernatural powers. As the scientists attempt to help the infected, the situation becomes increasingly complicated when one of them\u2014Koshigaya\u2014becomes infected himself.\n\nNow battling his own emerging demon side, Koshigaya must not only control his transformation but also use his new-found strength to save others. The line between human and monster blurs as he fights against both the virus within and the increasing threat posed by other infected individuals. His colleague Komada continues the mission to distribute the cure, while dealing with the emotional toll of watching his partner become something other than human.\n\nThe OVA explores themes of identity, sacrifice, and the boundaries of humanity when faced with extreme biological transformation.",
+      "core": "Bio Hunter represents a fascinating intersection of 1990s anime horror and the body horror genre. Written by Yoshiaki Kawajiri, it shares DNA with his more famous works like Ninja Scroll and Devilman\u2014urban settings, supernatural threats, and protagonists transformed by forces beyond their control.\n\nThe demon virus serves as both literal plague and metaphorical transformation\u2014exploring what happens when humans are pushed beyond their biological limits. Koshigaya's struggle embodies the theme of maintaining humanity in the face of radical change, whether technological, viral, or supernatural.\n\nWhile less celebrated than Kawajiri's other works, Bio Hunter stands as an interesting artifact of 1990s OVA production\u2014a dark, mature anime that dealt with themes of pandemic and transformation before such concepts became mainstream in Western media.",
+      "created_at": "2026-03-02 20:48:46"
+    },
+    {
       "title": "Biomega",
       "year": 2004,
       "medium": "Manga",
@@ -7209,5 +7226,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 424
+  "count": 425
 }
