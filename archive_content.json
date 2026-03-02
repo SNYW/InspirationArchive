@@ -596,6 +596,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Atomic War Bride",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "Veljko Bulaji\u0107",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Croatia ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "War, Exploration",
+      "image_filename": "Atomic_War_Bride_1960.jpg",
+      "pitch": "Atomic War Bride (Serbo-Croatian: Rat, meaning \"War\") is a 1960 Yugoslav science-fiction drama directed by Veljko Bulaji\u0107. The film tells the story of John, an eternally optimistic young man who marries Maria at a rural church, completely unaware that nuclear war is about to erupt. As the couple exchanges their vows, the world outside descends into atomic apocalypse, transforming Maria into the titular \"Atomic War Bride.\" The film won three Golden Arena awards at the 1960 Pula Film Festival, including Best Director, and was nominated for the Golden Lion at the Venice Film Festival.",
+      "truth": "The narrative unfolds in a pastoral rural setting where John and Maria's wedding takes place in a small church. The ceremony proceeds with joyful celebration, with the couple and their guests entirely unaware of the impending nuclear catastrophe. As the nuclear war begins outside the church walls, the film juxtaposes the intimate, hopeful ceremony with the destruction of the outside world. The title \"Atomic War Bride\" thus carries ironic weight\u2014Maria becomes a bride of war itself, married not just to John but to the atomic age.\n\nThe film is notable for its anti-nuclear stance, reflecting the anxieties of the Cold War era. Director Veljko Bulaji\u0107, known for his work on large-scale productions, crafted this film as a critique of nuclear warfare and the obliviousness of ordinary people to the political tensions surrounding them. The film earned three Golden Arena awards at the 1960 Pula Film Festival: Best Director (Veljko Bulaji\u0107), Best Actor (Antun Vrdoljak), and Best Scenography (Du\u0161ko Jeri\u010devi\u0107). It was also nominated for the Golden Lion at the 21st Venice International Film Festival in 1960.",
+      "core": "**Nuclear Holocaust and Innocent Victims:** The film explores how ordinary life continues oblivious to existential threats, drawing parallels to the broader Cold War anxieties of the era. The wedding ceremony serves as a microcosm of human resilience and hope against overwhelming destructive forces.\n\n**Anti-War Commentary:** As a Yugoslav production from the height of the Cold War, the film represents a nuanced anti-nuclear stance from outside the two superpowers. Yugoslavia, as a non-aligned nation, occupied a unique position to critique nuclear warfare from both Eastern and Western perspectives.\n\n**Cinematic Significance:** The film stands as one of the earliest European science-fiction treatments of nuclear war, predating many similar works from both the East and West. Its success at major European film festivals demonstrates international recognition of its artistic and political messages.",
+      "created_at": "2026-03-02 12:31:35"
+    },
+    {
       "title": "Az id\u00f6 ablakai",
       "year": 1969,
       "medium": "Film",
@@ -6648,5 +6665,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 391
+  "count": 392
 }
