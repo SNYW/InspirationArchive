@@ -1179,7 +1179,7 @@
       "medium": "Animated Film",
       "creator": "Director Im Jeong-gyu",
       "raw_score": 3.05,
-      "total_ratings": 0,
+      "total_ratings": 50,
       "origin": "South-Korea ,",
       "mood": "Optimistic ,",
       "sub_genres": "Science-Fantasy ,",
@@ -1280,8 +1280,8 @@
       "year": 2004,
       "medium": "Animated Short",
       "creator": "",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.5,
+      "total_ratings": 200,
       "origin": "Poland ,",
       "mood": "Surreal ,",
       "sub_genres": "Science-Fantasy ,",
@@ -1382,8 +1382,8 @@
       "year": 2004,
       "medium": "Film",
       "creator": "\u00d6mer Faruk Sorak (Director), Cem Y\u0131lmaz (Writer/Star)",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 4.0,
+      "total_ratings": 71000,
       "origin": "Turkey ,",
       "mood": "Satirical ,",
       "sub_genres": "Space-Opera, Science-Fantasy ,",
@@ -1740,7 +1740,7 @@
       "medium": "Animated Short",
       "creator": "Nikolai Khodataev, Zenon Komissarenko, Yuri Merkulov",
       "raw_score": null,
-      "total_ratings": 0,
+      "total_ratings": 50,
       "origin": "Russia ,",
       "mood": "Satirical ,",
       "sub_genres": "Science-Fantasy ,",
@@ -4234,6 +4234,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Death Ray",
+      "year": 1925,
+      "medium": "Film",
+      "creator": "Lev Kuleshov",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Russia ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Rebellion, Technology",
+      "image_filename": "The_Death_Ray_1925.jpg",
+      "pitch": "The Death Ray (Luch smerti) is a 1925 Soviet science fiction film directed by Lev Kuleshov, one of the founding fathers of Soviet montage cinema. Set in an unspecified Western capitalist country, the film follows a fascist government attempting to suppress a socialist uprising. When revolutionary leader Thomas Lamm is imprisoned, he escapes to the Soviet Union where he meets engineer Podobed, who has invented a powerful \"death ray\" device capable of exploding objects at a distance. The film explores themes of technological power, political conflict, and the struggle between oppression and revolution. Only the middle reels survive; the first and last reels have been lost to history, making this one of cinema's great tragic missing links.",
+      "truth": "The film takes place in a fictional Western capitalist nation under fascist rule. The government has imprisoned Thomas Lamm, a leader of the socialist resistance movement. Lamm manages to escape and flees to the Soviet Union, where he encounters Podobed, a brilliant engineer who has developed a devastating weapon\u2014the death ray. This device can explode targets remotely, representing ultimate military power.\n\nMeanwhile, the fascist government dispatches an agent to track down Lamm and eliminate the threat posed by the revolutionary movement. The agent's mission is to either capture Lamm or ensure he never reaches Soviet territory with the knowledge of the death ray. The film builds toward a confrontation between the forces of fascist oppression and the revolutionary fighters backed by Soviet support.\n\nThe political allegory is unmistakable: the film was made during the mid-1920s, a period of increasing tension between communist and fascist movements in Europe. Kuleshov uses the sci-fi premise to explore how technology would shape modern warfare and political struggle. The death ray represents a powerful equalizer\u2014technology that could shift the balance of power between oppressors and the oppressed.",
+      "core": "**Soviet Science Fiction Cinema:** The Death Ray stands as one of the earliest feature-length science fiction films from the Soviet Union, predating the genre's more famous Cold War iterations. Kuleshov, known for his theoretical work on montage and the \"Kuleshov Effect,\" brought his innovative editing techniques to this genre-bending project. The film demonstrates how Soviet filmmakers used science fiction not for pure entertainment but as ideological vehicle\u2014exploring how technology serves political purposes.\n\n**Technology and Politics:** The death ray functions as both literal weapon and metaphor for revolutionary power. The film's narrative asks whether technological superiority determines political outcomes, and whether the oppressed can harness science to overthrow their captors. This theme resonated deeply in 1920s Europe, where the specter of fascism was rising and communists sought any advantage.\n\n**The Lost Reels:** Only reels 2-4 survive out of an original 2-hour, 5-minute runtime. This loss is particularly tragic because the beginning and end\u2014the setup and resolution\u2014are missing. What remains is the middle portion showing the political intrigue and the development of the death ray weapon. Film historians continue to debate whether the surviving footage represents the film's full thematic arc or is missing crucial narrative elements.\n\n**Kuleshov's Montage Legacy:** Though The Death Ray is less famous than Kuleshov's theoretical works, it demonstrates his belief that meaning emerges from the collision of images. The film's editing creates tension between the fascist agents and the revolutionary heroes, building suspense through rhythmic cutting rather than through individual dramatic performances.",
+      "created_at": "2026-03-02 10:29:48"
+    },
+    {
       "title": "The Death of Grass",
       "year": 1956,
       "medium": "Novel",
@@ -6512,5 +6529,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 383
+  "count": 384
 }
