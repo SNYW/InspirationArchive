@@ -1327,6 +1327,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Europa Report",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Sebasti\u00e1n Cordero (Director)",
+      "raw_score": 3.4,
+      "total_ratings": 45000,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF, Space-Opera ,",
+      "topics": "Aliens, Exploration, Isolation",
+      "image_filename": "Europa_Report_2013.jpg",
+      "pitch": "Europa Report is a 2013 American science fiction film that follows the fictional first crewed mission to Europa, one of Jupiter's four Galilean moons. The film is presented as found footage, chronicling the tragic journey of six astronauts who embark on a privately funded mission to search for extraterrestrial life beneath Europa's icy surface. Directed by Sebasti\u00e1n Cordero and written by Philip Gelatt, the film takes a realistic approach to space exploration, emphasizing scientific accuracy and the dangers of deep space travel.\n\nThe crew includes commander William Xu, pilot Rosa Dasque, chief science officer Daniel Luxembourg, marine biology science officer Katya Petrovna, junior engineer James Corrigan, and chief engineer Andrei Blok. After twenty months of travel, they reach Europa and begin drilling through the ice to reach the subsurface ocean beneath. What they discover will change humanity's understanding of life in the universe\u2014but at a terrible cost.",
+      "truth": "The mission begins hopefully as the Europa One spacecraft journeys toward Jupiter's moon. Six months in, a solar storm knocks out communications with Earth, and during an extravehicular activity to repair the damage, astronaut James Corrigan dies when his suit is coated with hydrazine and he cannot safely re-enter the airlock. His crewmate Andrei Blok attempts to save him but must watch as Corrigan floats away into space.\n\nTwenty months later, the ship enters orbit around Europa. The lander touches down but misses its target zone. The crew drills through the ice and releases a probe into the ocean below. Engineer Andrei Blok, now severely sleep-deprived, sees a mysterious light outside the ship but cannot convince the crew of what he witnessed. The probe is then struck by an unknown luminous object and contact is lost.\n\nDespite these setbacks, the crew presses on. Scientist Katya Petrovna discovers traces of unicellular organisms in the ice samples. She ventures out to investigate a blue light she sees in the distance, but the ice beneath her breaks and she falls through to her death\u2014her camera capturing her final moments as bioluminescent light reflects in her eyes.\n\nThe surviving crew decides to return home, but the lander's engines malfunction. During the crash landing, commander William Xu is killed. Now only engineer Andrei Blok and pilot Rosa Dasque remain. Blok sacrifices himself to re-establish communication with Earth, transmitting all the collected data and images before he too falls through the ice and dies.\n\nIn the final moments, Dasque opens the airlock to flood the ship, allowing her to see the source of the mysterious lights\u2014a massive tentacled, bioluminescent creature rising from the depths. The camera cuts out as she meets her fate. The epilogue confirms that the crew did indeed discover extraterrestrial life on Europa.",
+      "core": "Europa Report stands out in the science fiction genre for its commitment to scientific accuracy. The filmmakers consulted with NASA and JPL to create a plausible depiction of Europa's surface and the challenges of space exploration. The film was shot to feel like a documentary, using found footage conventions to create immediacy and immersion. This approach grounds the fantastical elements in recognizable reality.\n\nThe film explores themes of human sacrifice and the cost of discovery. Each crew member ultimately gives their life in pursuit of knowledge\u2014their deaths becoming increasingly tragic as the mission reveals more about what lies beneath Europa's ice. The film suggests that exploration inherently carries risk, and that the pursuit of scientific truth may demand ultimate sacrifices.\n\nThe found footage format serves the narrative well, limiting information to what the characters themselves know and creating genuine tension through the unknown. We never see what the crew sees until they see it, making each discovery feel immediate and earned. The creature design\u2014combining elements of octopus, squid, and jellyfish\u2014suggests alien yet recognizable life, evoking both wonder and terror.\n\nEuropa Report received generally positive reviews for its atmospheric tension and return to hard science fiction. Critics praised its claustrophobic approach and the way it prioritizes scientific plausibility over spectacle. The film serves as a compelling reminder that the universe still holds mysteries waiting to be discovered\u2014and that some discoveries may come at a price too high to pay.",
+      "created_at": "2026-03-02 14:34:54"
+    },
+    {
       "title": "Exhalation",
       "year": 2008,
       "medium": "Short Story",
@@ -6784,5 +6801,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 399
+  "count": 400
 }
