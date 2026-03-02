@@ -1718,6 +1718,23 @@
       "created_at": "2026-03-02 01:10:30"
     },
     {
+      "title": "Horror Express",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Eugenio Mart\u00edn (Director)",
+      "raw_score": 3.3,
+      "total_ratings": 5000,
+      "origin": "Spain ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Religion",
+      "image_filename": "Horror_Express_1972.jpg",
+      "pitch": "Horror Express is a 1972 Spanish-British science fiction horror film directed by Eugenio Mart\u00edn, starring Christopher Lee and Peter Cushing in iconic roles. Set in 1906, the film follows Professor Sir Alexander Saxton, an anthropologist returning to Europe from Manchuria aboard the Trans-Siberian Railway with a crate containing the frozen remains of a primitive humanoid he believes is a missing link in human evolution. What begins as a scientific treasure becomes a nightmare when the creature defrosts and begins stalking the passengers, absorbing the skills and memories of its victims. The film masterfully blends gothic horror with early science fiction elements, creating a tense atmosphere aboard the snow-bound train.",
+      "truth": "The story unfolds on the Trans-Siberian Express in 1906. Professor Saxton boards the train in Moscow with his precious cargo\u2014a prehistoric humanoid discovered in a Manchurian cave. Also aboard are Dr. Wells (Saxton's rival from the Geological Society), Polish Count Marion Petrovski and his wife Countess Irina, their spiritual advisor Father Pujardov, and Inspector Mirov with soldiers.\n\nWhen the creature escapes its crate, the passengers face a terrifying threat: an alien intelligence that has inhabited the primitive body and can absorb the knowledge and skills of anyone it kills. As bodies pile up, Wells performs an autopsy and discovers the creature's horrifying ability\u2014it takes on the memories and abilities of its victims. The alien, stranded on Earth for millions of years, seeks to rebuild a spaceship using human knowledge.\n\nThe creature's primary target becomes Inspector Mirov, who is possessed and continues the killing spree. When Mirov is killed, the alien transfers to Father Pujardov, who willingly embraces the demonic entity believing it to be Satan. The survivors eventually discover that the alien cannot function in bright light and attempt to use this weakness to destroy it. The film culminates in a desperate escape as the survivors uncouple their car and watch the possessed train crash into a gorge in flames.",
+      "core": "Horror Express represents a unique blend of British horror tradition and Spanish filmmaking, created during the Franco era when Spanish cinema sought international co-productions. The film stands as a precursor to the alien possession horror subgenre that would later flourish in films like The Exorcist. The creature's ability to absorb knowledge and memories prefigures themes explored in later science fiction horror, including versions of The Thing.\n\nThe film explores themes of scientific hubris\u2014Professor Saxton's obsession with his discovery leads to disaster\u2014and the conflict between rational science and supernatural belief. Father Pujardov's religious conviction that the creature is Satan directly contrasts with the scientists' attempts to understand it through rational inquiry. This tension between science and religion remains unresolved as the alien entity proves to be both extra-terrestrial and demonic in nature.\n\nThe Trans-Siberian Railway setting creates perfect claustrophobic isolation, a Gothic device that would be reused countless times in horror cinema. The film's low budget forced creative solutions, including the use of train sets rather than actual locations, yet this limitation contributed to its intimate, claustrophobic atmosphere. Horror Express has achieved cult status as a beloved entry in the Hammer Horror tradition, notable for being one of the few Spanish-produced horror films to achieve international distribution and recognition.",
+      "created_at": "2026-03-02 12:04:38"
+    },
+    {
       "title": "I Killed Einstein, Gentlemen",
       "year": 1970,
       "medium": "Film",
@@ -6614,5 +6631,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 389
+  "count": 390
 }
