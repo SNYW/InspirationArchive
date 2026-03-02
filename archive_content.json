@@ -3248,6 +3248,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "R-Type",
+      "year": 1987,
+      "medium": "Video Game",
+      "creator": "Irem",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera, Military ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "R-Type_1987.jpg",
+      "pitch": "R-Type is a 1987 side-scrolling shoot 'em up arcade game that tasks players with piloting the R-9 \"Arrowhead\" starship to defeat the Bydo, a mysterious alien race threatening humanity. Developed by Irem and known for its striking visuals inspired by H.R. Giger's alien designs and the film Aliens, R-Type became a landmark in the shoot 'em up genre. The game introduced innovative gameplay mechanics, including the \"Force\" system\u2014a detachible orb that serves as both a protective shield and a powerful weapon. Players must navigate through eight challenging levels, memorizing enemy patterns and mastering the ship's various weapons to survive. The game's difficulty was notorious, but its satisfying combat and atmospheric design earned it critical acclaim and a devoted fanbase.",
+      "truth": "The player takes control of the R-9 Arrowhead, a prototype starship equipped with advanced weaponry, sent to battle the Bydo Empire. The Bydo are an enigmatic alien force that has begun systematically destroying human colonies across the galaxy. As the player progresses through eight increasingly difficult levels, they encounter a variety of enemy spacecraft, from small fighters to massive boss ships, each requiring different strategies to defeat.\n\nThe game's signature mechanic is the \"Force\"\u2014a glowing orb that can be attached to the front or back of the player's ship, or detached to fly freely. When attached, the Force provides additional weapon systems beyond the ship's standard rapid-fire gun and powerful Wave Cannon. When detached, the Force can block enemy fire (being indestructible) and damage enemies on contact. Players must master the Force system to survive, as the game offers no mercy for those who fail to utilize all available tools.\n\nThe levels take players through diverse environments\u2014from industrial alien fortresses to organic, biomechanical structures\u2014culminating in encounters with massive boss enemies. Each of the eight stages ends with a formidable boss that tests the player's mastery of the game's mechanics. The Bydo's forces are relentless, and the game provides no continues in its original arcade release, requiring perfect play from start to finish.",
+      "core": "**Visual Design and Atmosphere:** R-Type's art direction drew heavily from H.R. Giger's biomechanical aesthetic and the film Aliens, creating a distinctive look that set it apart from other shooters. The dark, industrial environments and alien organisms created an atmosphere of cosmic dread uncommon in the genre.\n\n**Innovation in Gameplay:** The Force system was revolutionary, adding layers of strategic depth previously unseen in shoot 'em ups. The ability to use the Force as both offense and defense, and to reposition it dynamically, created emergent gameplay possibilities that influenced countless subsequent games.\n\n**Difficulty as Design Philosophy:** R-Type's brutal difficulty was intentional, designed to reward pattern memorization and precise execution. This challenge became a hallmark of the series and the broader bullet hell genre that emerged in Japan.\n\n**Legacy:** R-Type spawned numerous sequels and spin-offs, and is consistently ranked among the greatest video games of all time. Its influence on the shoot 'em up genre and game design philosophy remains evident in modern action games.",
+      "created_at": "2026-03-02 16:17:40"
+    },
+    {
       "title": "Rendezvous with Rama",
       "year": 1984,
       "medium": "Video Game",
@@ -6937,5 +6954,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 408
+  "count": 409
 }
