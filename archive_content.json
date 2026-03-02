@@ -4744,6 +4744,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Fabulous Baron Munchausen",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Karel Zeman",
+      "raw_score": 3.85,
+      "total_ratings": 3529,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration, Time-Travel",
+      "image_filename": "The_Fabulous_Baron_Munchausen_1962.jpg",
+      "pitch": "The Fabulous Baron Munchausen is a 1962 Czechoslovak experimental surrealist adventure film directed by Karel Zeman, renowned for combining live-action with various forms of animation. Based on the tales about Baron Munchausen, the film is highly stylized, evoking the engravings of Gustave Dor\u00e9. It follows a modern astronaut who lands on the Moon and encounters the legendary Baron Munchausen, who takes him on fantastical journeys through space and time\u2014from Ottoman battles to underwater adventures. The film is celebrated as perhaps Zeman's finest work, influencing Terry Gilliam and earning praise from critics like Harlan Ellison and Howard Thompson of The New York Times.",
+      "truth": "The film opens with footsteps leading to a pond, and the camera continually moves upwards to show the flight of butterflies, birds, and a progression of historical aircraft ending with a rocket ship traveling through space and landing on the Moon.\n\nThe astronaut/cosmonaut leaves his spacecraft and discovers other footsteps on the Moon leading him to an old phonograph, then a crashed rocket with a plaque reading Jules Verne's From the Earth to the Moon. Taken to a dinner table, the surprised space traveler meets characters from Verne's book, as well as two other figures associated with fictional Moon voyages: Cyrano de Bergerac and Baron Munchausen. The characters believe the cosmonaut is a man from the Moon and treat him as a child.\n\nThe Baron decides to take him to Earth in a fanciful airship held up by a herd of winged horses. Dressed in 18th-century costume, they land in the Ottoman Empire in Constantinople. Through a series of romantic and fanciful adventures\u2014sword and sea battles with the Turks, being swallowed by a giant fish\u2014the modern scientific space traveler transforms into a hero rivaling the Baron, ultimately resolving the conflict between two warring kingdoms.",
+      "core": "**Surrealist Cinema and Experimental Technique:** The Fabulous Baron Munchausen represents the pinnacle of Karel Zeman's unique approach to filmmaking, combining live-action with various forms of animation in ways that evoke the pioneering work of Georges M\u00e9li\u00e8s. The film's dreamlike quality and fantastical imagery place it firmly within the Czechoslovak New Wave movement, though its genre-defying nature transcends typical categorization.\n\n**Influence on Visual Storytelling:** Terry Gilliam cited Zeman's film as a direct influence when making his own Adventures of Baron Munchausen, stating that Zeman \"did what I'm still trying to do, which is to try and combine live action with animation.\" The film's Dor\u00e9-esque backgrounds and inventive special effects influenced generations of filmmakers seeking to blend practical effects with animation.\n\n**Intertextuality and Literary Heritage:** The film weaves together multiple literary traditions\u2014the original Baron Munchausen stories, Jules Verne's space novels, and Cyrano de Bergerac's fantastical voyages\u2014creating a rich tapestry of adventure literature. This intertextuality reflects the film's thematic concern with the nature of storytelling itself.\n\n**Digital Restoration and Legacy:** A 2016 digital restoration premiered at the Telluride Film Festival, reintroducing the film to new audiences. British magazine Home Cinema Choice voted it the best digitally restored film of 2017, defeating films like The Thing and Mulholland Drive\u2014testament to its enduring visual power and artistic significance.",
+      "created_at": "2026-03-02 19:15:18"
+    },
+    {
       "title": "The Fantastic Adventures of Unico",
       "year": 1981,
       "medium": "Anime Film",
@@ -7124,5 +7141,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 419
+  "count": 420
 }
