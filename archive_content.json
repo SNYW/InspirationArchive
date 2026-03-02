@@ -579,6 +579,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Andromeda Stories",
+      "year": 1982,
+      "medium": "Anime",
+      "creator": "Ryu Mitsuse (manga), Keiko Takemiya (illustrator), Masamitsu Sasaki (director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Evolution, Rebellion",
+      "image_filename": "Andromeda_Stories_1982.jpg",
+      "pitch": "Andromeda Stories is a Japanese space opera manga and anime adaptation set in the distant Andromeda Galaxy. The story follows Prince Ithaca of the Cosmoralian Empire, whose royal wedding to Princess Lilia of Ayodoya is tragically interrupted when sinister mechanical aliens invade their planet Astria. These alien machines seek to eradicate all organic life and terraform the verdant world into a mechanical wasteland populated only by artificial beings. After the King and his ministers are assimilated, Queen Lilia and her newborn son Prince Jimsa must flee Astria. What follows is an epic tale of resistance as the young prince, revealed to be the product of selective breeding by exiles from the enemy planet Murat, leads the fight against the alien machines.",
+      "truth": "On the planet of Astria in the Andromeda Galaxy, the Cosmoralian Empire prepares for the coronation of Prince Ithaca as King Astralta III following his marriage to Princess Lilia. However, the celebration is cut short when mechanical invaders from another world descend on Astria. These aliens, operating under unknown purposes, systematically assimilate organic life and reshape the planet into a mechanical domain.\n\nKing Astralta III and his advisors are among the first victims, their minds controlled and bodies transformed by the alien machines. Queen Lilia escapes with her infant son Prince Jimsa, fleeing into the cosmos to rally resistance against the invasion.\n\nUnbeknownst to the people of Astria, the exiles from the planet Murat have been secretly working for generations to breed the perfect leader through carefully selected royal bloodlines. Prince Jimsa is the culmination of this eugenics program\u2014a child destined to possess the abilities needed to combat the alien threat and lead humanity to victory.\n\nThe story follows Jimsa's journey as he grows into a leader, gathering allies from across the galaxy and developing the strength to challenge the mechanical invaders. The anime adaptation condenses this epic narrative into an 85-minute feature, focusing on the core conflict between organic life and artificial existence.",
+      "core": "Andromeda Stories explores several themes central to early 1980s Japanese science fiction. The conflict between organic life and artificial intelligence predates the later cyberpunk movement, presenting machines as an existential threat to humanity. The manga, written by Ryu Mitsuse and illustrated by Keiko Takemiya, represents the space opera tradition in Japanese manga, emphasizing grand scale conflicts across galaxies.\n\nThe theme of chosen one mythology runs throughout, with Jimsa's destiny written through genetic manipulation by the Murat exiles. This predates similar narratives that would become common in later anime and manga. The series also touches on imperialism and colonization, as the alien machines impose their own order on conquered worlds.\n\nKeiko Takemiya, one of the pioneering creators in the boys' love and science fiction manga genres, brought her distinctive art style to this space epic. The work was originally serialized in Manga Sh\u014dnen Monthly and later collected into three volumes, with an anime television film adaptation released in August 1982 by Toei Animation.\n\nThe series stands as an example of early 1980s anime's engagement with space opera narratives, combining adventure storytelling with themes of identity, destiny, and the nature of consciousness.",
+      "created_at": "2026-03-02 22:30:10"
+    },
+    {
       "title": "Angel Cop",
       "year": 1989,
       "medium": "Anime",
@@ -7311,5 +7328,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 430
+  "count": 431
 }
