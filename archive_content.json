@@ -2789,6 +2789,23 @@
       "created_at": "2026-02-28 19:46:56"
     },
     {
+      "title": "My Beautiful Girl, Mari",
+      "year": 2002,
+      "medium": "Animated Film",
+      "creator": "Lee Sung-gang (Director)",
+      "raw_score": 3.25,
+      "total_ratings": 955,
+      "origin": "South-Korea ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Memory, Isolation",
+      "image_filename": "My_Beautiful_Girl_Mari_2002.jpg",
+      "pitch": "My Beautiful Girl, Mari is a 2002 South Korean animated film that follows Kim Nam-woo, a young boy struggling through life as the people around him constantly leave. His best friend Jun-ho is going to study in Seoul, and his widowed mother is paying more attention to her new boyfriend. To escape his loneliness, Nam-woo retreats into a dream world where he meets a mysterious girl named Mari. The film blends surrealistic fantasy with a sensitive coming-of-age narrative, exploring themes of loss, maturation, and the blurred boundary between dreams and reality. It was South Korea's first feature-length animated film to gain international attention and won the Grand Prix at the Annecy International Animation Film Festival.",
+      "truth": "The story begins with Nam-woo spending his summer vacation in a seaside town, feeling abandoned as everyone important to him prepares to leave. His friend Jun-ho is moving to Seoul for studies, and his mother is increasingly distant due to her new relationship. Feeling invisible and alone, Nam-woo discovers a surreal dream world accessible from the beach.\n\nIn this dreamscape, he encounters Mari\u2014a mysterious, ethereal girl who seems to exist between reality and fantasy. As Nam-woo spends more time with Mari, the lines between his waking life and dreams begin to blur. The film presents sequences that may be literal dreams, metaphorical explorations of his subconscious, or some combination of both.\n\nThroughout his journey, Nam-woo encounters various symbolic figures and scenarios that represent his fears, desires, and growing understanding of loss and change. Adult versions of Nam-woo and Jun-ho also appear in the dream world, offering glimpses of possible futures. The film culminates in Nam-woo's confrontation with his own loneliness and his gradual acceptance that people leaving is a part of life\u2014a necessary step toward maturation.",
+      "core": "**Dreams as Escapism and Self-Discovery:** The film uses surrealistic dream sequences not merely as visual spectacle but as a psychological landscape where the protagonist can confront his fears. Mari herself may represent Nam-woo's idealization of connection or his struggle to maintain childhood innocence in the face of adult responsibilities.\n\n**Isolation and Abandonment:** The central emotional thrust concerns the pain of being left behind. Nam-woo's experience mirrors universal childhood fears of abandonment, rendered through the specific Korean context of rapid modernization and social mobility forcing families to relocate.\n\n**The Annecy Recognition:** Winning the Grand Prix at the prestigious Annecy International Animation Film Festival marked a watershed moment for Korean animation, demonstrating that Korean animators could achieve international artistic standards. The film paved the way for subsequent Korean animated features.\n\n**Visual Poetry:** The film is notable for its distinctive visual style that combines traditional 2D animation with surreal, painterly sequences. Its dream sequences employ experimental techniques that set it apart from conventional animation, creating an atmosphere both haunting and beautiful.\n\nThe film remains significant as a pioneering work that established international recognition for Korean animation, proving that animated films could tackle mature, emotional themes beyond children's entertainment.",
+      "created_at": "2026-03-02 23:45:59"
+    },
+    {
       "title": "Mysterious Island",
       "year": 1941,
       "medium": "Film",
@@ -7396,5 +7413,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 435
+  "count": 436
 }
