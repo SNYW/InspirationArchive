@@ -6478,6 +6478,23 @@
       "created_at": "2026-03-02 05:00:12"
     },
     {
+      "title": "The Year of the Quiet Sun",
+      "year": 1970,
+      "medium": "Novel",
+      "creator": "Wilson Tucker",
+      "raw_score": 3.6,
+      "total_ratings": 762,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Time-Travel ,",
+      "topics": "Time-Travel, Isolation",
+      "image_filename": "The_Year_of_the_Quiet_Sun_1970.jpg",
+      "pitch": "The Year of the Quiet Sun is a 1970 science fiction novel by American writer Wilson Tucker, dealing with the use of forward time travel to ascertain future political and social events. The novel won a retrospective John W. Campbell Memorial Award in 1976 and was nominated for both a Nebula Award and Hugo Award. Set primarily in the late 1970s and spanning into the early 2000s, it follows a team of time travelers who venture forward to learn the outcomes of future elections and events, only to discover that their findings lead to catastrophic unintended consequences.",
+      "truth": "In the summer of 1978, Brian Chaney, a demographer and biblical scholar, is recruited by the federal Bureau of Standards for a secret project involving a \"TDV\" (time displacement vehicle). At a military installation south of Joliet, Illinois, he joins Air Force Major William Moresby and Navy Lieutenant Commander Arthur Saltus for the first mission: a trip two years into the future to discover whether the incumbent president wins the 1980 election.\n\nThe team travels to Thursday after the 1980 election and discovers that President Meeks wins in a landslide due to his handling of ongoing race riots in Chicago. The nation is under martial law after a failed coup attempt by the Joint Chiefs of Staff. The travelers return with this knowledge.\n\nWith the success of the initial mission, the team is authorized to travel further into the future. Moresby travels to July 4, 1999 and emerges in the middle of a racial civil war\u2014Chicago has been attacked with a nuclear bomb launched from China on behalf of black guerrillas. Moresby dies in battle.\n\nSaltus travels to 2000 and finds remnants of the nuclear battle. He is wounded but returns with a tape-recorded report.\n\nDisillusioned Chaney travels further into an indeterminate future, arriving at an abandoned military base where civilization has collapsed. The time travel project led to the president's disastrous decisions, triggering war with China, followed by civil war and societal destruction. Chaney discovers he is black\u2014the only such member of the project\u2014and learns that with the power from the base's nuclear reactor disrupted, he is trapped in the ruined future. The time travelers' attempts to save humanity by knowing the future actually caused the very catastrophe they sought to prevent.",
+      "core": "**Time Travel as Fatalism:** Tucker explores the paradox of foreknowledge\u2014knowing the future should allow prevention, but the attempt to change outcomes creates them. The travelers' mission to help the president makes him confident enough to make decisions that lead to disaster. This is a dark meditation on whether knowledge of catastrophe can ever be neutral.\n\n**Racial Tension and Social Collapse:** The novel explicitly addresses race relations in America, with the future showing a civil war fought along racial lines. Chaney's revelation that he is black\u2014and that this is why the future society fears him\u2014adds a layer of racial commentary about America's trajectory.\n\n**The Bureaucracy of Prediction:** The time travel project is run by military and government, treating the future as intelligence to be gathered and exploited. Tucker critiques how institutional approaches to problems\u2014treating knowledge as power to be leveraged\u2014fail when confronting complex social systems.\n\n**The Individual Against History:** Chaney is ultimately trapped in a future he helped create, his expertise in biblical prophecy and ancient history providing no help against modern apocalypse. The novel suggests that humanity's patterns repeat, and that even with extraordinary tools, individuals cannot redirect the course of civilization.",
+      "created_at": "2026-03-02 18:30:28"
+    },
+    {
       "title": "They Were Eleven",
       "year": 1975,
       "medium": "Manga",
@@ -7073,5 +7090,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 416
+  "count": 417
 }
