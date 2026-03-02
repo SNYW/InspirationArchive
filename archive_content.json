@@ -3027,6 +3027,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Robotrix",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Jamie Luk Kin-ming (Director)",
+      "raw_score": 3.5,
+      "total_ratings": 0,
+      "origin": "Hong-Kong ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Cyberpunk, Biopunk ,",
+      "topics": "Transhumanism, Cybernetics, Memory",
+      "image_filename": "Robotrix_1991.jpg",
+      "pitch": "Robotrix is a 1991 Hong Kong science fiction exploitation film that blends cyberpunk themes with erotic thriller elements. The film follows a psychotic scientist who transfers his mind into a cyborg after killing a female police officer, only for her mind to also be uploaded into a powerful cyborg. The two become entangled in a cat-and-mouse game as the cyborg police officer pursues her tormentor through the neon-lit streets of Hong Kong.\n\nThe film was produced by Golden Harvest and directed by Jamie Luk Kin-ming, featuring Amy Yip in one of her most prominent roles. While primarily an exploitation film known for its adult content, Robotrix has gained recognition as an early example of Hong Kong cyberpunk cinema, exploring themes of identity, consciousness, and the boundaries between human and machine.",
+      "truth": "A criminally insane scientist named Ryuichi Sakamoto develops technology to transfer human consciousness into mechanical bodies. After murdering several women, he transfers his own mind into a powerful cyborg and continues his reign of terror. Among his victims is Selena Lin, a female police officer who is gunned down in the line of duty.\n\nDr. Sara, a brilliant scientist, intervenes and transfers Selena's consciousness into a female cyborg model named Eve-27, giving her enhanced strength and abilities to hunt down Sakamoto. Selena is partnered with Ann, another cyborg assistant, and together they join the police force to bring Sakamoto to justice.\n\nAs the cyborg cops investigate a series of murdered prostitutes, they uncover Sakamoto's pattern of violence. Meanwhile, Sakamoto continues his criminal activities, using his cyborg body to commit further atrocities. The film culminates in an explosive confrontation between Selena/Eve-27 and the monstrous Sakamoto, exploring questions of identity, justice, and what it means to be human when the body becomes merely a vessel for consciousness.\n\nThe film explores themes of mind uploading decades before it became a staple of modern science fiction, presenting an early vision of transhumanist themes through the lens of Hong Kong exploitation cinema.",
+      "core": "**Identity and Consciousness:** The film prefigures contemporary debates about mind uploading and digital consciousness by exploring what happens when the mind is separated from the body. Both Selena and Sakamoto retain their original personalities when transferred to cyborg bodies, suggesting that identity is fundamentally mental rather than physical. However, the film questions whether the transformed individuals remain \"human\" in any meaningful sense.\n\n**Cyberpunk Aesthetics:** Robotrix represents an early example of Hong Kong's contribution to cyberpunk cinema, featuring neon-lit urban environments, advanced technology, and a dark view of future society. The film predates many canonical cyberpunk works and demonstrates how the genre manifested differently in Asian cinema.\n\n**Justice and Revenge:** The blurred line between Selena's mission\u2014justice for the victims versus personal revenge\u2014creates moral ambiguity. As a cyborg, she possesses abilities far beyond human limits, but also loses much of her human connection to the world.\n\n**Exploitation as Innovation:** While the film is undeniably an exploitation product, using nudity and violence as marketing hooks, it also demonstrates creative approaches to science fiction storytelling within the constraints of low-budget Hong Kong cinema. The mind transfer concept and cyborg designs influenced later Hong Kong and international productions.\n\nRobotrix remains a cult classic of Asian cyberpunk cinema, notable for its early exploration of transhumanist themes and its place in the evolution of Hong Kong science fiction film.",
+      "created_at": "2026-03-02 08:49:48"
+    },
+    {
       "title": "Rogue Moon",
       "year": 1960,
       "medium": "Novel",
@@ -6410,5 +6427,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 377
+  "count": 378
 }
