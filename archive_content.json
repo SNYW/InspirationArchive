@@ -6240,6 +6240,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Time Travelers",
+      "year": 1964,
+      "medium": "Film",
+      "creator": "Ib Melchior",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Time-Travel, Post-Apocalypse ,",
+      "topics": "Time-Travel, Exploration, Isolation",
+      "image_filename": "The_Time_Travelers_1964.jpg",
+      "pitch": "The Time Travelers is a 1964 American science fiction film directed by Ib Melchior, featuring Preston Foster, Philip Carey, and Merry Anders. The film follows a group of scientists testing a time-viewing device that suddenly becomes a portal through time, drawing enormous power from the electrical grid. When technician Danny McKee steps through the portal, the others follow to rescue him, only to find themselves stranded in a devastated future where nuclear war has rendered Earth uninhabitable. The survivors must work with the remaining human colony to rebuild their time device while hostile mutants threaten their survival. The film was released by American International Pictures and inspired the TV series \"The Time Tunnel.\"",
+      "truth": "Scientists Dr. Erik von Steiner, Dr. Steve Connors, and Carol White are testing their time-viewing device at a research facility when it begins drawing excessive power. Technician Danny McKee arrives to warn them to shut down, but during the test, odd shadows appear and the screen reveals a stark, barren landscape. Danny discovers the screen has become a \"time portal\" and steps through, disappearing into the future.\n\nThe portal becomes unstable, and the others enter it to rescue Danny. They find themselves in a hostile wasteland, pursued by mutated survivors of nuclear war. They take refuge in an underground city\u2014the last remnants of civilization in the year A.D. 2071. The city's leader, Dr. Varno, explains that Earth can no longer support life, and the colonists are frantically building a spacecraft to flee to a planet orbiting Alpha Centauri.\n\nThe time travelers learn that the mutants, once peaceful, have become increasingly aggressive as resources dwindled. The future humans offer to help rebuild the time portal so the travelers can return home. However, just as they complete the device, the mutants attack and destroy the spacecraft during liftoff. The only escape is to return through the time portal.\n\nBack in their own era, the travelers realize their calibration was off\u2014they're experiencing time at an accelerated rate and will die of old age by day's end. Their only option is to travel to the date the portal had been set to before: over 100,000 years in the future. They enter the portal and find a sunlit, habitable Earth, while their past selves repeat the same actions in an accelerating cycle that ends with a shot of the Andromeda Galaxy.",
+      "core": "The Time Travelers exemplifies 1960s American science fiction's preoccupations with nuclear annihilation and humanity's survival beyond Earth. The film presents a future Earth destroyed by nuclear war\u2014a common trope of the atomic age\u2014but offers an unusual twist: rather than escaping to space, the survivors have been forced underground, and their attempt to colonize another planet fails catastrophically.\n\nThe film's themes explore temporal paradox, humanity's resilience, and the cyclical nature of history. The ending, with its ambiguous suggestion of cyclical time and regeneration, hints at philosophical questions about fate and possibility. The time travelers' choice to face an unknown future rather than remain in their dying present speaks to the human impulse toward hope even in extremis.\n\nDirector Ib Melchior, known for his work in B-movie science fiction, crafted a thoughtful entry in the time travel genre that influenced later productions, including the creation of Irwin Allen's \"The Time Tunnel\" television series. The film's modest budget leads to some creative solutions, including using conjuring tricks for android effects, but the conceptual ambition\u2014depicting multiple time periods and a post-apocalyptic future\u2014demonstrates the era's optimistic faith in science fiction's imaginative possibilities.\n\nThe Time Travelers remains notable for its early treatment of time travel mechanics and post-apocalyptic survival, themes that would become genre staples in subsequent decades.",
+      "created_at": "2026-03-02 18:45:58"
+    },
+    {
       "title": "The Truth of Fact, the Truth of Feeling",
       "year": 2016,
       "medium": "Short Story",
@@ -7090,5 +7107,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 417
+  "count": 418
 }
