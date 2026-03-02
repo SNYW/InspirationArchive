@@ -5968,6 +5968,23 @@
       "created_at": "2026-02-28 20:07:33"
     },
     {
+      "title": "The Substance",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "Coralie Fargeat (Director/Writer)",
+      "raw_score": 3.6,
+      "total_ratings": 400000,
+      "origin": "",
+      "mood": "Body Horror ,",
+      "sub_genres": "Science-Fiction, Satire ,",
+      "topics": "Aging, Identity, Celebrity",
+      "image_filename": "The_Substance_2024.jpg",
+      "pitch": "A fading Hollywood celebrity, dismissed from her aerobics TV show due to her age, turns to a black market drug that creates a younger, more perfect version of herself. But the two versions must switch consciousness every seven days\u2014and pushing the limits has horrifying consequences.",
+      "truth": "The Substance is a wildly ambitious body horror film that uses its grotesque premise as a vehicle for sharp satire about aging in Hollywood, the male gaze, and the impossible standards imposed on women. Demi Moore delivers a career-defining performance as Elisabeth Sparkle, a star fighting to remain relevant in an industry that discards her the moment she ages out of its narrow definition of beauty.\n\nWhen Elisabeth uses \"The Substance,\" she gives birth to Sue (Margaret Qualley)\u2014a younger, more beautiful version of herself. The two must share one body, alternating weekly. But as Sue's fame grows and Elisabeth withers, the balance between them collapses into a nightmare of bodies fighting for dominance.",
+      "core": "Winner of Best Screenplay at Cannes and nominated for an Academy Award, The Substance is not just shock for shock's sake\u2014it's a visceral, often absurd meditation on beauty standards, addiction, and the cost of chasing youth in a world that worships at the altar of the new. Director Coralie Fargeat crafts a film that's part Cronenberg, part Showgirls, and entirely its own beast.",
+      "created_at": "2026-03-02 15:52:05"
+    },
+    {
       "title": "The Super Dimension Fortress Macross: Do You Remember Love?",
       "year": 1984,
       "medium": "Anime Film",
@@ -6903,5 +6920,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 406
+  "count": 407
 }
