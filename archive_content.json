@@ -443,6 +443,23 @@
       "created_at": "2026-03-01 11:14:56"
     },
     {
+      "title": "Ambassador Magma",
+      "year": 1965,
+      "medium": "Manga",
+      "creator": "Osamu Tezuka",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Sentience, Exploration",
+      "image_filename": "Ambassador_Magma_1965.jpg",
+      "pitch": "Ambassador Magma is a groundbreaking manga and tokusatsu television series created by the \"Godfather of Manga\" Osamu Tezuka. The story follows the alien invader Goa, who comes to Earth with plans of conquest, only to be thwarted by Magma\u2014a golden armored giant created by the wizard of Earth who lives deep beneath the planet's surface. Magma, along with his wife Mol and their adopted human companion Gam, defends Earth against Goa's various kaiju monsters. Notably, this series holds the distinction of being Japan's first color tokusatsu television series, premiering just six days before Ultraman. The manga ran from 1965 to 1967 in Sh\u014dnen Gaho magazine and spawned a 52-episode TV series, later dubbed in English as \"The Space Giants\" for American audiences.",
+      "truth": "The alien warlord Goa arrives at Earth and directly confronts the Murakami family\u2014father Atsushi, mother Tomoko, and son Mamoru\u2014warning them of his imminent invasion. To demonstrate his power, Goa transports the family to a prehistoric jungle and destroys a giant dinosaur before their eyes. When the family refuses to surrender, hope arrives in the form of Magma, an enormous golden being with long hair and antennae, created by Earth's ancient wizard who dwells deep underground. Magma and his human-sized wife Mol were sent specifically to protect Earth from Goa's forces.\n\nThe Murakami family becomes instrumental in the defense of Earth. Young Mamoru forms an emotional bond with Magma, who desires a child of his own but cannot have one with Mol. Earth responds by creating Gam, a duplicate of Mamoru who wears a white helmet with built-in antennae. Mamoru is given a magical whistle that can summon Gam (one blow), Mol (two blows), and Magma (three blows) in times of danger. Together, this team of giant heroes fights against Goa's various monsters as they are released one by one.\n\nMagma possesses the unique ability to transform into a giant rocket ship, making him one of the earliest examples of transforming mecha in Japanese media\u2014predating even the iconic Brave Raideen. He can also fire rockets from a panel in his chest and shoot electrical bolts from his antennae. Despite his robot-like appearance, Magma is actually a living being forged from gold.",
+      "core": "Ambassador Magma represents a pivotal moment in the history of Japanese tokusatsu and mecha animation. Created by Osamu Tezuka, the series established many conventions that would define the giant hero genre for decades to come. The concept of alien villains attacking Earth, the transforming mechanical hero, the young protagonist who befriends the giant defender\u2014these elements all originated or were popularized by Ambassador Magma.\n\nThe series also reflects Tezuka's innovative approach to storytelling, blending science fiction with themes of family, protection, and the bond between humans and alien protectors. The relationship between Magma's desire for a child and Earth's creation of Gam explores themes of creation, family, and belonging across species boundaries.\n\nAs the first color tokusatsu series in Japan, Ambassador Magma broke new ground in live-action special effects television, setting the stage for the boom in giant hero shows that would define the 1960s and beyond. Its influence can be seen in subsequent series like Ultraman, Kamen Rider, and the Super Sentai franchise, making it a foundational work in the tokusatsu pantheon.",
+      "created_at": "2026-03-02 12:15:44"
+    },
+    {
       "title": "An Unkindness of Ghosts",
       "year": 2017,
       "medium": "Novel",
@@ -6631,5 +6648,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 390
+  "count": 391
 }
