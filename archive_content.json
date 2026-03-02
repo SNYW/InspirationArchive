@@ -5288,6 +5288,23 @@
       "created_at": "2026-03-01 12:52:24"
     },
     {
+      "title": "The Man from the Future",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Cl\u00e1udio Torres",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Brazil ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy, Time-Travel ,",
+      "topics": "Memory, Time-Travel",
+      "image_filename": "The_Man_from_the_Future_2011.jpg",
+      "pitch": "The Man from the Future (O Homem do Futuro) is a 2011 Brazilian science fiction romantic comedy directed by Cl\u00e1udio Torres. The film stars Wagner Moura as Jo\u00e3o \"Zero\" Henrique, a brilliant but bitter physicist who spends his days brooding over a fateful night 20 years before when he was publicly betrayed and humiliated at a college party by his then-girlfriend Helena. Now heading one of the largest scientific projects in Brazil, Jo\u00e3o's eccentricities have brought him to the verge of being fired. When he finally activates his unfinished time machine, he travels back to 1991 to try to change his fate\u2014only to discover that changing the past creates an alternate timeline with unexpected consequences.",
+      "truth": "In 2011, Jo\u00e3o \"Zero\" is a brilliant physicist whose time machine is finally operational. Thinking of the night Helena humiliated him in 1991, he activates the machine and accidentally travels back 20 years. Arriving in 1991, he encounters his younger self and attempts to prevent the humiliating incident by warning him about Ricardo's drugged champagne. However, his intervention creates an alternate 2011 where Jo\u00e3o is wealthy but morally compromised\u2014he betrayed his best friend Ot\u00e1vio, divorced four times, and had Helena imprisoned for drug possession.\n\nIn this alternate timeline, Jo\u00e3o must navigate a new reality where he succeeded financially but lost everything that mattered. He eventually travels back to 1991 again, this time disguised as a spaceman, to set events back on their original course. The film culminates in a complex temporal loop where multiple versions of Jo\u00e3o interact, ultimately leading to a satisfying resolution where Jo\u00e3o learns that the key to happiness isn't changing the past but embracing it.\n\nThe film explores the butterfly effect through a comedic and romantic lens, featuring Jo\u00e3o's best friend Otav\u00edno and his former roommate Sandra as supporting characters. The time travel mechanics involve both causal loops and alternate timelines, with the resolution revealing that Sandra had been told to invest in Google, making the original timeline the \"correct\" one all along.",
+      "core": "**Time Travel as Self-Acceptance:** Rather than presenting time travel as a means to escape one's mistakes, The Man from the Future suggests that the past shapes us into who we are. Jo\u00e3o's initial desire to change the past stems from shame and resentment, but his journey teaches him that even painful humiliations are part of personal growth. The film argues that running from our pasts\u2014whether through time travel or denial\u2014only creates worse outcomes.\n\n**Brazilian Science Fiction:** The film stands as a notable entry in Brazilian cinema's engagement with science fiction, combining the genre's speculative elements with locally resonant themes of social mobility, scientific ambition, and romantic relationships. The film's Portuguese-language production and Brazilian setting showcase how science fiction can be adapted to non-Anglophone cinematic traditions.\n\n**The Economics of Nostalgia:** With references to investing in Google and the protagonist's scientific ambitions tied to financial success, the film comments on Brazilian aspirations around technology and economic development. Jo\u00e3o's desire to \"fix\" his past is intertwined with material success\u2014showing how economic anxiety underlies even the most personal regrets.\n\n**Romantic Comedy meets Science Fiction:** The film successfully blends genres, using time travel mechanics to drive a romantic narrative rather than relying on action or spectacle. This approach creates a more intimate science fiction experience, focused on character relationships rather than special effects.",
+      "created_at": "2026-03-02 15:01:45"
+    },
+    {
       "title": "The Mechanical Man",
       "year": 1921,
       "medium": "Film",
@@ -6818,5 +6835,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 401
+  "count": 402
 }
