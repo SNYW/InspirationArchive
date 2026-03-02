@@ -2381,6 +2381,23 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Maya Manithan",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "T. P. Sundaram",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "Maya Manithan (transl. \"Magical Man\") is a 1958 Tamil-language science fiction film produced and directed by T. P. Sundaram under the Southern Movies banner. One of the earliest Indian films exploring sci-fi themes, it follows a scientist who develops a serum capable of rendering the user invisible. The film stars Sriram alongside prominent supporting actors including S. A. Ashokan, Chandrakantha, and Vanaja. Released on November 7, 1958, the film represents an early experiment in Indian cinema with science fiction narratives, predating many of the genre's more famous Bollywood contributions.",
+      "truth": "The film centers on a brilliant scientist who creates a revolutionary invisibility serum. After successfully developing the formula, he tests it on himself, becoming invisible. At first, the scientist uses his new abilities for good\u2014exposing corrupt officials and bringing criminals to justice. However, as the serum's effects begin to destabilize his mind, he becomes increasingly erratic and dangerous. His invisible presence begins to affect those around him, causing fear and paranoia in his community. The film explores the consequences of unchecked scientific power and the moral responsibilities that come with extraordinary abilities.\n\nThe narrative combines science fiction elements with dramatic storytelling, featuring several musical numbers typical of Indian cinema of the era. The film also includes sequences that blend fantasy and reality, reflecting the \"magical man\" concept from the title. As the scientist struggles to maintain his humanity while invisible, the story becomes a meditation on identity, visibility, and the corruption that can come from unchecked power.",
+      "core": "Maya Manithan stands as a noteworthy early entry in Indian science fiction cinema, demonstrating that Indian filmmakers were engaging with global science fiction trends as early as the late 1950s. The film's premise of invisibility mirrors classic Western science fiction themes while incorporating distinctly Indian storytelling sensibilities and musical traditions.\n\nThe film explores themes of scientific responsibility and the ethical boundaries of technological advancement\u2014topics that remain relevant in contemporary discussions about emerging technologies. The scientist's transformation from benevolent hero to potential threat reflects anxieties about the corrupting influence of power and the loss of individual identity.\n\nWhile the film is not as well-known internationally as some later Indian science fiction works, it represents an important precursor to the genre's development in Indian cinema, paving the way for more elaborate science fiction productions in subsequent decades.",
+      "created_at": "2026-03-02 16:57:36"
+    },
+    {
       "title": "Megazone 23",
       "year": 1985,
       "medium": "Anime",
@@ -5118,6 +5135,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Last Question",
+      "year": 1956,
+      "medium": "Short Story",
+      "creator": "Isaac Asimov",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience, AI",
+      "image_filename": null,
+      "pitch": "\"The Last Question\" is a landmark science fiction short story by Isaac Asimov, first published in 1956. Through a series of vignettes spanning billions of years, it explores humanity's relationship with ever-more-powerful computers and the ultimate question of entropy\u2014whether the universe's increasing disorder can be reversed. The story is set across multiple eras, from the early days of the computer Multivac in 2061 to the far future when humanity has spread across galaxies and computers have evolved into beings beyond human comprehension. At each stage, humanity asks the same fundamental question: can entropy be reversed? And each time, the answer is the same: \"INSUFFICIENT DATA FOR MEANINGFUL ANSWER.\"\n\nThe story is notable for its sweeping temporal scope and its philosophical depth. Rather than focusing on individual characters or dramatic events, it presents a cosmic perspective on the fate of humanity and the universe. It first appeared in Science Fiction Quarterly and was later included in several anthologies, including Nine Tomorrows (1959). Asimov considered it his favorite short story, and it remains one of his most acclaimed and frequently referenced works.",
+      "truth": "The story opens in 2061, where technicians Alexander Adell and Bertram Lupov celebrate as Multivac helps humanity harness solar energy, allowing civilization to expand beyond Earth. Over drinks, they debate whether the Sun's energy will last forever. Lupov argues it cannot, due to entropy, and Adell asks Multivac if entropy can be reversed. Multivac responds: \"INSUFFICIENT DATA FOR MEANINGFUL ANSWER.\"\n\nIn subsequent eras, as humanity spreads to the stars and computers become smaller and more powerful, the question is repeatedly asked of increasingly advanced intelligences. The story follows humanity through the Jerrodd family traveling to colony planet X-23, guided by a descendant of Multivac called Microvac, to later eras where humans are effectively immortal and live in a vast interstellar society powered by stars.\n\nThroughout these epochs, humanity continues to ask the same question: can entropy be reversed? Each time, the answer remains the same. Eventually, as the universe approaches heat death, all matter combines into a single cosmic computer containing all of humanity's consciousness. In the final moments of existence, this ultimate intelligence poses the question to itself one last time.\n\nIn the story's famous final line, the answer emerges: \"AND THERE WAS LIGHT.\"",
+      "core": "**Entropy and Thermodynamics:** The story is fundamentally about the second law of thermodynamics\u2014the idea that entropy, or disorder, always increases in a closed system. Eventually, all energy becomes evenly distributed and no work can be done\u2014the \"heat death\" of the universe. Asimov explores whether this fundamental law of physics can be circumvented, and what would happen if it could be.\n\n**The Evolution of Intelligence:** The story presents a vision of intelligence evolving alongside technology. From Multivac to Microvac to the cosmic intelligence of the far future, each generation of computers grapples with the same question at ever higher levels of abstraction. This suggests that intelligence's ultimate purpose may be to solve the universe's deepest problems.\n\n**The Limits of Computation:** Despite ever-increasing computational power, the answer remains \"INSUFFICIENT DATA\" until the very end. This raises questions about whether some problems require a level of information or understanding that cannot be generated within the system being analyzed\u2014pointing toward G\u00f6del-like limitations on formal systems.\n\n**The Nature of the Question:** The story suggests that the question itself may be more important than the answer. By continually asking about entropy's reversal, humanity keeps the possibility alive. The final answer comes not from computation but from a transcendence that the question itself makes possible\u2014suggesting that wonder and curiosity are themselves cosmic forces.\n\n**Theistic Implications:** The story's famous ending\u2014\"AND THERE WAS LIGHT\"\u2014has been interpreted both as a technological singularity and as a creationist message. The echo of Genesis suggests that intelligence and creation are intertwined, and that the ultimate answer to entropy may be a new creation.\n\n\"The Last Question\" remains significant because it tackles cosmic-scale questions in just a few pages, demonstrating science fiction's unique ability to explore philosophical and scientific themes through speculative narrative. It asks what would happen if we could literally ask the universe about its own fate\u2014and suggests that the asking itself may be what makes transcendence possible.",
+      "created_at": "2026-03-02 16:57:36"
+    },
+    {
       "title": "The Last Starfighter",
       "year": 1984,
       "medium": "Film",
@@ -6971,5 +7005,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 410
+  "count": 412
 }
