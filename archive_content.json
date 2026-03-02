@@ -970,6 +970,23 @@
       "created_at": "2026-03-01 16:47:36"
     },
     {
+      "title": "Cosmic Voyage",
+      "year": 1936,
+      "medium": "Film",
+      "creator": "Vasili Zhuravlov",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Russia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Hard-SF, Space-Opera ,",
+      "topics": "Exploration",
+      "image_filename": "Cosmic_Voyage_1936.jpg",
+      "pitch": "Cosmic Voyage (Russian: \u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0439\u0441, Kosmicheskiy reys) is a 1936 Soviet silent science fiction film directed by Vasili Zhuravlov and produced by Mosfilm. It was one of the earliest films to depict a realistic spaceflight, including weightlessness, and stands as one of the last Soviet silent era films. The film was initially conceived in 1924 but was not produced until 1932, when the Komsomol recommended creating a film to spur interest in space studies. Zhuravlov consulted with Konstantin Tsiolkovsky, the noted rocket science engineer, on the screenplay\u2014Tsiolkovsky died shortly after the film was completed.\n\nThe film is set in 1946 (later revised to reflect contemporary concerns), where Professor Sedikh plans the first crewed Moon expedition but faces opposition from his rival Professor Karin, who deems him too old and mentally unstable. With his assistant Marina and a youth named Andryusha, Sedikh disregards the authorities and successfully lands on the Moon. After overcoming problems including a damaged oxygen tank and Sedikh becoming trapped under a boulder, the cosmonauts return triumphant to Moscow.",
+      "truth": "The film opens in the year 1946, where Soviet scientists are working on an ambitious crewed Moon expedition. Professor Sedikh, an elderly but brilliant rocket scientist, is the mastermind behind the pioneering spacecraft. However, his rival Professor Karin objects to the mission, arguing that Sedikh is too old and psychologically unstable for such a critical undertaking. The Soviet authorities initially side with Karin, threatening to cancel the mission.\n\nUndeterred, Professor Sedikh, aided by his young assistant Marina (who is actually Karin's assistant but has secret sympathy for Sedikh's mission) and a enthusiastic youth named Andryusha, decide to proceed without official authorization. They steal away to the launch site and blast off for the Moon, becoming the first humans to travel to another celestial body.\n\nThe lunar sequence features innovative stop-motion animation depicting the cosmonauts hopping across the low-gravity surface\u2014a technical achievement that was unfortunately later criticized by Soviet censors as antithetical to socialist realism. The crew encounters challenges including a damaged oxygen tank and Professor Sedikh becomes trapped under a fallen lunar boulder, but they perseverate and complete their mission.\n\nThe return to Earth features another innovation: the cosmonauts spell out \"CCCP\" (the Soviet acronym for the USSR) across the lunar surface using reflective substances to signal their success to Earth. The film concludes with the triumphant return of the spacecraft to Moscow, where the cosmonauts are celebrated as heroes.",
+      "core": "**Pioneering Spaceflight Representation:** Cosmic Voyage is historically significant as one of the first films to realistically depict space travel. Zhuravlov consulted extensively with Konstantin Tsiolkovsky, the father of modern astronautics, ensuring scientific accuracy in the depiction of weightlessness, space suits, and the challenges of lunar exploration. The film's cosmonauts enter liquid-filled chambers to buffer the impact of takeoff and landing\u2014concepts that would later become reality in actual spacecraft design.\n\n**Censorship and Historical Fate:** The film had only a brief release in early 1936 before being removed from circulation by Soviet censors. The authorities objected to the stop-motion animated sequences showing cosmonauts hopping across the lunar surface, believing such depictions contradicted the spirit of socialist realism. The film was considered \"ideologically harmful\" and was not widely seen again until the 1980s, making it a fascinating artifact of both early sci-fi cinema and Soviet cultural politics.\n\n**Pre-WWII Soviet Sci-Fi:** The film represents a unique moment in Soviet cinema\u2014produced during the brief thaw of the mid-1930s when official interest in spectacular propaganda (including science fiction) briefly surged before the Great Purge devastated the film industry. The two spaceships in the film were named after Soviet leaders Joseph Stalin and Kliment Voroshilov, reflecting the propaganda context of the era.\n\n**Comparison to Contemporary Works:** Released the same year as the British epic Things to Come, Cosmic Voyage offers a distinctly Soviet perspective on future space exploration\u2014one grounded in scientific realism rather than Wellsian fantasy. Where Things to Come envisioned futuristic warfare and social upheaval, the Soviet film focused on the technical challenges of space travel and the triumph of scientific endeavor over bureaucratic obstruction.\n\nThe film remains significant as a document of early astronautical imagination, demonstrating that Soviet filmmakers were actively engaging with space travel concepts years before the Space Age. Its suppression and subsequent rediscovery make it a poignant reminder of how political circumstances can shape\u2014and suppress\u2014cultural productions.",
+      "created_at": "2026-03-02 13:15:10"
+    },
+    {
       "title": "Counterweight",
       "year": 2021,
       "medium": "Novel",
@@ -6699,5 +6716,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 394
+  "count": 395
 }
