@@ -783,6 +783,23 @@
       "created_at": "2026-03-01 08:44:15"
     },
     {
+      "title": "Battle Angel Alita",
+      "year": 1990,
+      "medium": "Manga",
+      "creator": "Yukito Kishiro",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Cyberpunk, Post-Apocalypse ,",
+      "topics": "Transhumanism, Cybernetics, Memory",
+      "image_filename": "Battle_Angel_Alita_1990.jpg",
+      "pitch": "Battle Angel Alita (Gunnm) is a groundbreaking Japanese cyberpunk manga set in a post-apocalyptic future where the scraps of civilization cling to existence beneath the floating city of Zalem. When cybernetic doctor Daisuke Ido discovers the disembodied remains of a female cyborg in a junkyard, he resurrects her and names her Alita. Though she has lost all memories of her past, Alita discovers she retains an instinctive mastery of the legendary martial art Panzer Kunst, leading her to become a Hunter-Warrior\u2014a bounty hunter hunting cyborg criminals in the brutal wasteland below.\n\nThe story follows Alita's journey of self-discovery as she navigates a world of cybernetically enhanced humans, floating cities, and the dark secrets of her own forgotten past. Unlike typical action heroes, Alita's strength comes from vulnerability\u2014she is searching for identity in a world where humanity itself has become fluid, where bodies are interchangeable and memory is the only true measure of self.",
+      "truth": "The manga unfolds in the former United States, centuries after an unspecified cataclysm has led to the division between the privileged floating city of Zalem and the impoverished ground-dwellers who scavenge in the Scrapyard. Alita, rebuilt by Ido, takes her name from his deceased cat and begins life as a Hunter-Warrior, killing cyborg criminals for bounty money.\n\nHer skills attract the attention of the enigmatic scientist Desty Nova, who sees potential in her combat abilities. Nova manipulates events to test Alita's limits, revealing that she has connections to events on Mars and to the secret project known as the \"Tiphares\" database. Alita becomes involved in Motorball, a deadly gladiator sport, rising to become a star player while investigating the mysteries of her past.\n\nThe narrative expands through multiple story arcs that reveal: Alita was originally a soldier on Mars involved in a catastrophic war; Zalem is controlled by a corrupt bureaucracy that exploits ground-dwellers; Nova is a brilliant but morally ambiguous scientist who has been exiled from Zalem; and Alita's true identity may be connected to the founding of both Zalem and the Martian civilization. The manga explores themes of identity, memory, humanity's relationship with technology, and the meaning of existence when the boundaries between human and machine have blurred.",
+      "core": "Battle Angel Alita is significant for several reasons that elevate it beyond typical cyberpunk fare. First, it presents a nuanced exploration of transhumanism\u2014not as utopian enhancement but as a messy reality where bodies are commodities, where the wealthy can literally float above the poor, and where the distinction between human and machine has become meaningless. Alita herself embodies this tension: she is more machine than human, yet her search for identity and meaning is deeply human.\n\nSecond, the manga pioneered visual and narrative techniques that influenced later works. Yukito Kishiro's detailed cybernetic designs and action sequences were groundbreaking in 1990, predating many elements that would become standard in cyberpunk media. The world-building\u2014particularly the economic and social stratification between Zalem and the ground\u2014serves as a sharp critique of class division.\n\nThird, the series tackles philosophical questions about consciousness and memory. If all your memories are erased and your body is rebuilt, are you still the same person? Alita's journey is fundamentally about answering this question, and the manga refuses easy answers. Her past on Mars is revealed gradually, and each revelation complicates rather than simplifies her identity.\n\nFourth, Kishiro's world-building extends to the political economy of the post-apocalyptic setting. Zalem exploits ground-dwellers through a system of control that includes bounty hunting, entertainment (Motorball), and the occasional direct intervention. This isn't the flashy cyberpunk of Blade Runner but a grimmer, more materialist vision where survival itself is the daily struggle.\n\nThe manga's influence can be seen in works like The Matrix,blade Runner 2049, and the live-action adaptation Alita: Battle Angel. Its of identity, class, and technology themes remain relevant, making it a cornerstone of the cyberpunk genre.",
+      "created_at": "2026-03-02 23:01:41"
+    },
+    {
       "title": "Battle Beyond the Sun",
       "year": 1959,
       "medium": "Film",
@@ -7345,5 +7362,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 432
+  "count": 433
 }
