@@ -5849,6 +5849,23 @@
       "created_at": "2026-03-01 22:24:52"
     },
     {
+      "title": "Things to Come",
+      "year": 1936,
+      "medium": "Film",
+      "creator": "William Cameron Menzies (director), H.G. Wells (screenplay)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Post-Apocalypse ,",
+      "topics": "Pandemic, Ecology",
+      "image_filename": "Things_to_Come_1936.jpg",
+      "pitch": "Things to Come is a landmark 1936 British science fiction film produced by Alexander Korda, directed by William Cameron Menzies, and written by H.G. Wells himself. Based on Wells' novel \"The Shape of Things to Come,\" it stands as one of the first major screen treatments of a future war and subsequent technological rebirth. The film stars Raymond Massey as John Cabal, a pilot who witnesses the outbreak of a devastating global war in 1940 that spans decades, leading to societal collapse and eventually a utopian reconstruction by the mysterious organization \"Wings Over the World.\"\n\nThe film is notable for its groundbreaking production design, with sets depicting futuristic cities and aircraft that influenced decades of sci-fi cinema. Menzies, who would later win an Academy Award for \"Gone with the Wind,\" created a visual language for futuristic architecture and technology that became foundational to the genre. The film's depiction of aerial warfare proved eerily prescient, released just three years before the real outbreak of World War II.",
+      "truth": "The film opens in 1940, in the fictional city of Everytown in Southern England. Businessman John Cabal (Raymond Massey) and his friends discuss the possibility of war during Christmas dinner. That night, aerial bombing destroys the city, triggering global war that lasts well into the 1960s.\n\nBy 1970, humanity has entered a new dark age. Every city lies in ruins, the economy has collapsed, and a deadly \"wandering sickness\"\u2014a plague spread by aerial bombing\u2014has killed half of humanity. The remaining population lives under warlords, including the brutal \"Boss\" Rudolf, who rules the ruins of Everytown with an iron fist.\n\nOne day, a sleek monoplane lands in Everytown. Its elderly pilot, John Cabal, reveals himself to be the leader of \"Wings Over the World,\" an organization of engineers and scientists based in Basra, Iraq, who have been secretly rebuilding civilization. They offer to free the oppressed population and bring peace and progress.\n\nCabal is taken prisoner by the Boss and forced to repair biplanes. However, he contacts Wings Over the World, who arrive in gigantic flying wing aircraft and use a \"Gas of Peace\" to incapacitate the population. The Boss dies from an allergic reaction to the gas, and Cabal promises a new era of peace.\n\nBy 2036, humanity lives in underground cities devoted to scientific progress. However, a sculptor named Theotocopulos incites unrest against this new order, suggesting that the cycle of history may not be truly broken.",
+      "core": "**Futurist Vision and Historical Prescience:** Things to Come represents H.G. Wells' attempt to visualize his utopian future through the lens of speculative history. Written in the 1930s, the film's depiction of aerial warfare, global conflict, and societal collapse proved tragically accurate. Wells used the film as a vehicle for his progressive political philosophy, arguing that technological civilization would ultimately triumph over barbarism through rational planning.\n\n**The Cycle of Civilization:** The film presents a cyclical view of history\u2014war leads to dark age, which is followed by rebirth through technical knowledge. However, the 2036 ending suggests this cycle may repeat, as Theotocopulos represents the eternal human tendency toward conflict. This ambivalence gives the film its lasting power.\n\n**Production Design Legacy:** Menzies' visual design influenced everything from \"Star Wars\" to \"Blade Runner.\" The flying wing aircraft, Art Deco cityscapes, and sleek technology designs established visual tropes that science fiction cinema would exploit for decades. The film was one of the first to treat futuristic design as a central artistic concern.\n\n**Wells' Political Philosophy:** As both source author and screenwriter, Wells infused the film with his Fabian socialist beliefs. \"Wings Over the World\" represents a technocratic elite that imposes peace from above\u2014a vision that reflects Wells' belief that rational experts should govern. This elite paternalism is both the film's strength and its potential weakness, depending on the viewer's political perspective.\n\nThings to Come remains significant as a foundational work of science fiction cinema, representing the genre's transition from pulp entertainment to serious speculative fiction.",
+      "created_at": "2026-03-02 08:00:04"
+    },
+    {
       "title": "Think Blue, Count Two",
       "year": 1963,
       "medium": "Short Story",
@@ -6359,5 +6376,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 374
+  "count": 375
 }
