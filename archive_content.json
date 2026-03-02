@@ -4948,6 +4948,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The End of the World",
+      "year": 1916,
+      "medium": "Film",
+      "creator": "August Blom",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Denmark ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Disaster ,",
+      "topics": "Aliens, Ecology",
+      "image_filename": "The_End_of_the_World_1916.jpg",
+      "pitch": "The End of the World (Danish: Verdens Undergang) is a 1916 Danish science fiction drama film directed by August Blom, considered one of the earliest science fiction films ever made. Set against the backdrop of World War I and inspired by fears surrounding Halley's Comet, the film depicts a worldwide catastrophe when an errant comet passes near Earth, causing massive natural disasters and social unrest. The film was a massive commercial success in its time, largely due to public anxieties about celestial catastrophes\u2014a fear amplified by the recent passage of Halley's Comet in 1910. Directed by August Blom, one of Denmark's most prolific early filmmakers, The End of the World stands as a pioneering work of European science fiction cinema, notable for its ambitious special effects depicting the comet's devastating impact on civilization.",
+      "truth": "The film follows Frank Stoll (played by Olaf F\u00f8nss), a mine owner who becomes obsessed with studying a comet that astronomers have predicted will pass dangerously close to Earth. As the scientific community debates whether the comet will impact the planet or merely pass by, social unrest spreads across the globe. People react with panic, religious fervor, and moral decay as the potential apocalypse approaches.\n\nFrank's sister Dina (Ebba Thomsen) and her fianc\u00e9 West, a mine foreman, represent the common people caught in the chaos. As the comet draws nearer, the film depicts escalating disasters: massive tidal waves, volcanic eruptions, and firestorms as the celestial object nears Earth. The special effects\u2014created by showering the frame with fiery sparks and using shrouds of smoke\u2014were groundbreaking for their time.\n\nThe narrative explores how humanity responds to impending doom: some turn to religion and prayer, others to vice and hedonism, and still others to scientific solutions. The film ultimately depicts the catastrophic effects of the comet's passing, showing cities in ruins and survivors facing a changed world. The moving picture world praised the film's spectacular sequences, noting that \"the overwhelming calamity depicted in reels five and six\" made a powerful impression, while also acknowledging the compelling story and strong performances, particularly by Olaf F\u00f8nss and Ebba Thomsen.",
+      "core": "The End of the World reflects early 20th-century anxieties about cosmic catastrophe and scientific uncertainty. The film's production in 1916, during the devastation of World War I, clearly resonated with audiences experiencing global upheaval. The timing of the film's release\u2014six years after Halley's Comet's dramatic 1910 passage\u2014exploited lingering public fears about celestial threats.\n\nThe film represents an important early example of the disaster film genre, predating similar Hollywood productions by decades. Its focus on societal collapse rather than individual heroism influenced later disaster cinema. The use of special effects to depict catastrophe was innovative for its time, establishing techniques that would become standard in science fiction filmmaking.\n\nAugust Blom, Denmark's leading director of the silent era, crafted a film that balanced spectacular disaster sequences with human drama. The End of the World stands as a testament to early Danish cinema's ambition and technical capability, ranking alongside Georges M\u00e9li\u00e8s' work as a foundational text in science fiction film history. The film was restored by the Danish Film Institute and released on DVD in 2006, ensuring its preservation as a significant piece of cinematic heritage.",
+      "created_at": "2026-03-02 23:29:43"
+    },
+    {
       "title": "The Eternaut",
       "year": 1957,
       "medium": "Graphic Novel",
@@ -7379,5 +7396,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 434
+  "count": 435
 }
