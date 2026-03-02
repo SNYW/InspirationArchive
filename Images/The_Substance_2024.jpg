@@ -1,35 +1,125 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <title>File Not Found - The Movie Database (TMDb)</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-  <meta http-equiv="cleartype" content="on">
-  <meta charset="utf-8">
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=1120">
-  <style>
-    html {--lightGrey: 227, 227, 227;--tmdbDarkBlue: 3, 37, 65;--tmdbLightBlue: 1, 180, 228;--tmdbLighterGreen: 192, 254, 207;--tmdbLightGreen: 30, 213, 169;--maxPrimaryPageWidth: 1400px;}
-    html, body {width: 100%;height: 100%;font-size: 100%;}
-    body {display: flex;flex-direction: column;min-height: 100%;height: auto;-ms-overflow-style: -ms-autohiding-scrollbar;background-color: rgba(var(--tmdbDarkBlue), 1);color: #000;font-family: 'Source Sans Pro', Arial, sans-serif;font-size: 1em;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing:grayscale;}
-    .page_wrap {display: flex;flex: 1 1 auto;min-height: 100%;height: auto;position: relative;top: 0;left:0;justify-content:center;align-items:center;}
-    .card {box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);border: 1px solid rgba(var(--lightGrey), 1);background-color:#fff;display:flex;flex-wrap:wrap;width:500px;padding:20px;border-radius:20px}
-    .header{width:100%;display:flex;padding-bottom:20px}
-    .card h2 {margin:0;display:inline-flex;align-items:center}
-    .card p:first-of-type{padding-top:8px}
-    .card p:last-child{margin-bottom:0}
-  </style>
+	<base href="/_maint/" />
+	<title>Letterboxd</title>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=1024" />
+	<link rel="shortcut icon" href="https://s.ltrbxd.com/img/errors/favicon.ico">	
+	<style>
+	
+		/* Reset */
+		html, body, div, span, applet, object, iframe,
+		h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+		a, abbr, acronym, address, big, cite, code,
+		del, dfn, em, font, img, ins, kbd, q, s, samp,
+		small, strike, strong, sub, sup, tt, var,
+		dl, dt, dd, ol, ul, li,
+		fieldset, form, label, legend,
+		table, caption, tbody, tfoot, thead, tr, th, td,
+		article, aside, canvas, details, figcaption, figure, 
+		footer, header, hgroup, menu, nav, section, summary,
+		time, mark, audio, video {
+			margin: 0; padding: 0; border: 0; outline: 0;
+			font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit;
+			vertical-align: baseline;
+		}
+		:focus { outline: 0; }
+		body { line-height: 1; color: black; background: white; }
+		ol, ul { list-style: none; }
+		article,aside,canvas,details,figcaption,figure,
+		footer,header,hgroup,menu,nav,section,summary { display:block; }
+		table {	border-collapse: separate; border-spacing: 0; }
+		caption, th, td { text-align: left; font-weight: normal; }
+		blockquote:before, blockquote:after, q:before, q:after { content: ""; }
+		blockquote, q { quotes: "" ""; }
+	
+		body.error {
+			overflow: hidden;
+			font-family: -apple-system, "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+		}
+
+		body.error section.message {
+			position: absolute;	
+		}
+		
+		body.error h1 {
+			width: 480px;
+			height: 80px;
+			margin: 0;
+			background: url("https://s.ltrbxd.com/img/errors/logo-maint.png");
+		}
+		
+		body.error h1 a {
+			display: block;
+			height: 80px;
+			text-indent: 110%;
+			white-space: nowrap;
+			overflow: hidden;
+		}
+		
+		body.error p {
+			margin: 0 0 10px 30px;
+			font-size: 15px;
+			line-height: 1.3;
+		}
+		
+		body.error, body.error a {
+			color: #FFF;
+			color: rgba(255,255,255,0.75);
+		}
+		
+		body.error p strong {
+			font-size: 17px;
+			font-weight: normal;
+		}
+		
+		body.error p a {
+			text-decoration: underline;
+		}
+		
+		body.error p small a {
+			font-size: 11px;
+			text-decoration: none;
+			color: #678;
+		}
+		
+		body.error #bg {
+			position:absolute;
+			z-index: -1;
+		}
+		
+		@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 13/10), only screen and (min-resolution: 120dpi), only screen and (min-resolution: 2dppx) {
+			body.error h1 {
+				background-image: url('https://s.ltrbxd.com/img/errors/logo-maint@2x.png') !important;
+				-webkit-background-size: 480px 80px;
+				   -moz-background-size: 480px 80px;
+				        background-size: 480px 80px;
+			}
+		}
+	</style>
+
+	<script src="https://s.ltrbxd.com/img/errors/jquery-1.6.1.js"></script>
+	<script src="https://s.ltrbxd.com/img/errors/jquery.fullscreenr.js"></script>
 </head>
-<body class="en">
-  <div class="page_wrap">
-    <div class="card">
-      <div class="header">
-        <img src="https://www.themoviedb.org/assets/2/apple-touch-icon-cfba7699efe7a742de25c28e08c38525f19381d31087c69e89d6bcb8e3c0ddfa.png" width="60" height="60">
-      </div>
-      <h2>File Not Found</h2>
-    </div>
-  </div>
+
+<body class="error">
+
+<section class="message">
+	<h1><a href="https://letterboxd.com">Letterboxd</a></h1>
+
+	<p><strong>Sorry, we can’t find the page you’ve requested.</strong><br/>
+	Perhaps you imagined it? Please <a href="https://letterboxd.com/contact/">contact</a> us if the problem persists.</p>
+
+	<p><small><a href="https://letterboxd.com/film/fight-club/">Still from David Fincher’s Fight Club (1999)</a></small></p>
+</section>
+
+<script>
+	$.fn.fullscreenr({width:1934, height:800, bgID:'#bg'});
+</script>
+
+<img src="https://s.ltrbxd.com/img/errors/not-found.jpg" alt="Not Found" id="bg"/>
+
 </body>
+
 </html>
