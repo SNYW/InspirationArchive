@@ -392,6 +392,23 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Algol",
+      "year": 1920,
+      "medium": "Film",
+      "creator": "Hans Werckmeister",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Germany ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Aliens, Megacorps, Exploration",
+      "image_filename": "Algol_1920.jpg",
+      "pitch": "Algol (subtitled \"Tragedy of Power\") is a pioneering 1920 German silent science fiction film that tells the story of Robert Herne, a coal miner who encounters an extraterrestrial being from the star Algol. The alien gifts Herne a revolutionary machine capable of producing unlimited energy, propelling him from humble beginnings to become a powerful industrial dictator over twenty years. Directed by Hans Werckmeister and starring Emil Jannings, the film explores themes of technological power, corruption, and the dangers of unchecked industrial advancement. The film's futuristic sets were designed by Walter Reimann, who also worked on The Cabinet of Dr. Caligari, giving the film a distinctive expressionist aesthetic rare for science fiction of its era.",
+      "truth": "The story follows Robert Herne, a coal miner in the Ruhr region, who befriends Maria Obal, a fellow worker. During a descent into the mine, Herne discovers an alien from the planet orbiting the star Algol. This extraterrestrial being grants Herne a prototype machine that can generate virtually unlimited power, representing a clean energy source that could replace coal mining entirely.\n\nOver the next year, Herne establishes factories to provide this energy to the world. However, rather than simply relieving workers of the grueling task of mining, the technology creates massive economic upheaval throughout the globe\u2014rendering coal reserves worthless and collapsing industries dependent on traditional energy sources.\n\nAs the years pass, Herne accumulates ever more power and influence, but becomes increasingly corrupt and detached from humanity. He loses contact with Maria, who now lives in one region of the world beyond his control. Herne's son Reginald, his chosen successor, attempts a coup to seize control of the machine's secrets for himself.\n\nMeanwhile, Maria's son travels to seek Herne's assistance\u2014his country's coal reserves have been depleted. Herne initially refuses to help, but Maria visits him personally. Confronted with the consequences of his actions, Herne realizes the extent of his corruption. In a final act of redemption, he destroys the machine to prevent his son from gaining power after his death.",
+      "core": "**Technology and Power:** The film presents a meditation on the dual nature of technological advancement\u2014while the Algol machine represents seemingly limitless clean energy, its implementation without consideration for human consequences leads to economic collapse and human suffering. This critique of technological solutionism anticipates debates that would continue throughout the twentieth century and into the present day.\n\n**The Faustian Bargain:** Herne's journey represents a classic Faustian narrative\u2014trading his humanity and integrity for worldly power. The alien's motivations remain ambiguous, suggesting perhaps that the offer of ultimate power is itself a test or a form of cosmic temptation. Herne's eventual destruction of the machine represents both his redemption and the film's warning about the corrupting nature of unchecked power.\n\n**Expressionist Aesthetics:** Working with sets designed by Walter Reimann (production designer of The Cabinet of Dr. Caligari), the film employs the distinctive German Expressionist visual style that would define horror cinema but was rare for science fiction in 1920. The stark lighting, distorted sets, and theatrical compositions create a nightmarish vision of industrial modernity.\n\n**Historical Context:** Released in 1920, Algol emerged from the GermanExpressionist movement and reflects post-WWI anxieties about technology, industrialization, and German industrial power. The film's exploration of energy resources and economic disruption resonates with contemporary concerns about fossil fuels and technological transitions, making it surprisingly relevant a century later.",
+      "created_at": "2026-03-02 15:45:21"
+    },
+    {
       "title": "Alien Death Fuck",
       "year": 2018,
       "medium": "Film",
@@ -6886,5 +6903,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 405
+  "count": 406
 }
