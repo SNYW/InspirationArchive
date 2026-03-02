@@ -4,7 +4,7 @@
 
 **Medium:** Film
 **Raw Score:** N/A
-**Total Ratings:** 0
+**Total Ratings:** 50
 **Creator/Author:** Thomas Lunde
 
 ## The Pitch (Non-Spoiler Breakdown)

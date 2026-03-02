@@ -4,7 +4,7 @@
 
 **Medium:** Video Game
 **Raw Score:** 
-**Total Ratings:** 
+**Total Ratings:**
 **Creator/Author:** Steve Hartford (Saguaro Software)
 
 ## The Pitch

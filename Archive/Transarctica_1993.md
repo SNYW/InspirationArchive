@@ -3,8 +3,8 @@
 **Tags:** 🌍 France | 🎭 Pessimistic | 📚 Post-Apocalypse | 🧬 Ecology, Isolation
 
 **Medium:** Video Game
-**Raw Score:** 
-**Total Ratings:** 
+**Raw Score:** 3.6/5
+**Total Ratings:** 43 
 **Creator/Author:** Silmarils (Developer)
 
 ## The Pitch

@@ -3,8 +3,8 @@
 **Tags:** 🌍 USA | 🎭 Cerebral | 📚 Hard-SF | 🧬 Exploration, Aliens, Sentience
 
 **Medium:** Video Game
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.7/5
+**Total Ratings:** 6
 **Creator/Author:** Telarium
 
 ## The Pitch (Non-Spoiler Breakdown)

@@ -3,8 +3,8 @@
 **Tags:** 🌍 India | 🎭 Tense | 📚 Horror | 🧬 Pandemic, Sentience
 
 **Medium:** Film
-**Raw Score:** N/A
-**Total Ratings:** 0
+**Raw Score:** 3.25/5
+**Total Ratings:**
 **Creator/Author:** Velu Prabhakaran
 
 ## The Pitch (Non-Spoiler Breakdown)

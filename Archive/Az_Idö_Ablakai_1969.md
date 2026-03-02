@@ -4,7 +4,7 @@ Tags: 🌍 Hungary | 🎭 Cerebral | 📚 Hard-SF | 🧬 Memory, Isolation, Time
 
 **Medium:** Film
 **Raw Score:** N/A
-**Total Ratings:** 0
+**Total Ratings:** 50
 **Creator/Author:** Tamás Fejér (Director)
 
 ## The Pitch (Non-Spoiler Breakdown)
