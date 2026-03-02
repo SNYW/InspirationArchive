@@ -4302,6 +4302,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Amazing 3",
+      "year": 1965,
+      "medium": "Anime",
+      "creator": "Osamu Tezuka",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Aliens, Ecology, Sentience",
+      "image_filename": "The_Amazing_3_1965.jpg",
+      "pitch": "The Amazing 3 (Wonder 3) is a Japanese anime television series created by the legendary Osamu Tezuka in 1965. The series follows three alien agents from the Galactic Federation\u2014Bokko, Nokko, and Pukko\u2014who are sent to Earth to determine whether the planet should be destroyed as a potential threat to the universe. Taking on the forms of a rabbit, a horse, and a duck after landing on Earth, the agents befriends a young boy named Shinichi Hoshi and experience humanity firsthand. \n\nThe show was notable for its time tackling mature themes like ecological concerns, poverty, and racial diversity\u2014unusual topics for animated cartoons of that era. The series aired in Japan from June 1965 to June 1966 and was later dubbed for American audiences under the title The Amazing 3.",
+      "truth": "The Galactic Federation grows concerned about the frequency of wars on Planet Earth and dispatches three agents to determine if the planet poses a threat to the universe. They are equipped with a device called an anti-proton bomb (also referred to as a solar bomb or neutron bomb) that could destroy the planet.\n\nThe three agents\u2014Captain Bokko, Nokko, and Pukko\u2014originally humanoid in appearance, take on the animal forms of a rabbit, horse, and duck after capturing these Earth creatures as samples. They travel in a tire-shaped vehicle called the Big Wheel, capable of moving on land, water, and with modifications, through the air.\n\nUpon arriving on Earth, they meet Shinichi Hoshi, a young boy who becomes their ally throughout the series. Shinichi's older brother K\u014dichi is revealed to be a member of Phoenix, a secret intelligence agency dedicated to protecting world peace.\n\nIn the final episodes, the Galactic Council decides mankind is irredeemable and orders Earth's destruction. Bokko ultimately disobeys the council's orders, and Shinichi is given the chance to plead Earth's case before the council. In the end, the council agrees to give Earth more time to develop, and the Wonder 3 return to Earth\u2014with Pukko ashamed of his earlier attitudes toward humans, and Bokko transformed into a human girl so she can remain with Shinichi.",
+      "core": "**Ecological and Humanistic Themes:** The Amazing 3 stands out for its unusually progressive messaging for 1960s television. The series tackles ecological concerns and questions whether humanity deserves to survive\u2014not through violence, but through careful evaluation of human nature. The alien agents gradually come to see humans as worthy of compassion despite their violent tendencies.\n\n**Evaluation of Humanity:** The series presents a unique premise: aliens objectively studying humanity to determine its fate. This frame allows the show to examine human behavior from an outsider's perspective, questioning whether humanity's capacity for violence outweighs its capacity for love and compassion.\n\n**Osamu Tezuka's Vision:** As one of Tezuka's earliest animated works, The Amazing 3 demonstrates the ambitious storytelling that would define his career. The series shows Tezuka's interest in exploring complex moral questions through accessible animation\u2014a hallmark of his later masterpieces like Astro Boy and Kimba the White Lion.\n\n**Cold War Context:** Released during the Cold War era, the series reflects anxieties about global destruction while offering a hopeful message about humanity's potential for growth and change.",
+      "created_at": "2026-03-02 22:00:38"
+    },
+    {
       "title": "The Andromeda Nebula",
       "year": 1967,
       "medium": "Film",
@@ -7277,5 +7294,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 428
+  "count": 429
 }
