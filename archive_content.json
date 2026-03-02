@@ -4302,6 +4302,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Alien",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Satyajit Ray",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": null,
+      "pitch": "The Alien is an unproduced Indian-American science fiction film that was in development in the late 1960s by renowned Indian filmmaker Satyajit Ray. Originally commissioned by Columbia Pictures and written in 1967, the film was never made due to production difficulties and legal complications, but its screenplay has become one of the most famous unmade films in cinema history. The project had originally attached Peter Sellers and Marlon Brando in lead roles before they dropped out. Ray's script, loosely based on his own 1962 Bengali story \"Bankubabur Bandhu,\" follows an alien who lands in a rural Bengali village and encounters the local community. The film has gained legendary status precisely because it was never completed, and its concept reportedly influenced Steven Spielberg's E.T. the Extra-Terrestrial, though Spielberg has denied this.",
+      "truth": "The plot centers on a spaceship that lands in a pond in rural Bengal. The villagers, unfamiliar with such technology, begin worshiping the craft as a temple risen from the depths of the earth. The alien, known as \"Mr Ang,\" establishes contact with a young village boy named Haba (meaning \"Dumb\" in Bengali) through dreams and plays various pranks on the community during its short stay on Earth. The story also involves an Indian businessman, a journalist from Calcutta, and an American engineer who all become part of the alien's experience.\n\nRay wrote the script entirely in English in early 1967. The alien was described in the screenplay as \"a cross between a gnome and a famished refugee child: large head, spindly limbs, a lean torso.\" The concept embodied what Ray's biographer described as ethereal innocence\u2014neither evil nor powerful, but eerie due to its resemblance to a sickly human child.\n\nThe production was plagued by difficulties. Columbia Pictures initially agreed to produce the US-India co-production, and Peter Sellers and Marlon Brando were attached to star. However, Ray discovered that the script had been copyrighted without his knowledge by Michael Wilson, a Colombo-based producer who acted as Ray's representative in Hollywood. Marlon Brando later dropped out, and attempts to replace him with James Coburn failed. Ray became disillusioned and returned to Calcutta. Columbia expressed interest in reviving the project several times in the 1970s and 1980s but nothing came of it.\n\nIn 1982, when E.T. was released, Ray noted similarities to his earlier script. The 2003 Hindi film Koi... Mil Gaya, directed by Rakesh Roshan, appears to be directly based on The Alien, particularly in its premise of an intellectually disabled person befriending a friendly alien.",
+      "core": "The Alien represents a fascinating \"what might have been\" in science fiction cinema\u2014the intersection of Eastern and Western filmmaking visions that never came to fruition. Ray's approach would have been distinctive: rather than the spectacular special effects typical of American sci-fi, his alien would have been a subtle, almost ethereal presence\u2014a gnome-like creature whose power lay in innocence rather than technology.\n\nThe unmade film raises fascinating questions about cultural exchange in cinema and the different ways Eastern and Western traditions might approach the alien encounter narrative. Ray's alien was not a threat but a curious visitor whose presence disrupts and transforms the village simply by being different\u2014a marked contrast to the often hostile or destructive aliens of Western science fiction.\n\nThe project's collapse also illustrates the challenges of cross-cultural filmmaking in an era before globalized production became common. Despite never being produced, The Alien has influenced generations of filmmakers and remains a touchstone in discussions of unrealized cinema projects. Its legacy lives on in the films it influenced, from E.T. to Koi... Mil Gaya, making it one of the most significant \"invisible\" works in science fiction history.",
+      "created_at": "2026-03-02 22:16:03"
+    },
+    {
       "title": "The Amazing 3",
       "year": 1965,
       "medium": "Anime",
@@ -7294,5 +7311,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 429
+  "count": 430
 }
