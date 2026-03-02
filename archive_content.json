@@ -4302,6 +4302,23 @@
       "created_at": "2026-03-01 21:26:37"
     },
     {
+      "title": "The City of Lost Children",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Marc Caro, Jean-Pierre Jeunet",
+      "raw_score": 3.75,
+      "total_ratings": 52000,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Aliens",
+      "image_filename": "The_City_of_Lost_Children_1995.jpg",
+      "pitch": "The City of Lost Children (La Cit\u00e9 des enfants perdus) is a 1995 French-Spanish-German science fantasy film directed by Marc Caro and Jean-Pierre Jeunet. The film is set in a surreal port city where a malevolent being named Krank steals the dreams of children using a dream-extracting machine. When his adopted brother Denr\u00e9e is kidnapped, carnival strongman One must navigate a world of cyborg cults, conjoined twin criminals, and strange scientific creations to rescue the children from Krank's lair on an abandoned oil rig.\n\nThe film combines elements of fantasy, science fiction, and fairy tale to create a darkly whimsical world. It features stunning visuals, elaborate production design by the directors (who also co-wrote the screenplay with Gilles Adrien), and a memorable score by Angelo Badalamenti. The costume design was by Jean-Paul Gaultier. The film was entered into the 1995 Cannes Film Festival and has since gained a cult following for its unique visual style and dreamlike narrative.",
+      "truth": "The story follows Krank, a highly intelligent but malicious being created by a vanished scientist, who is unable to dream\u2014causing him to age prematurely. Living on an abandoned oil rig with six childish clones, a dwarf named Martha, and a brain in a vat named Irvin, Krank uses a dream-extracting machine to steal dreams from kidnapped children.\n\nOne (Ron Perlman), a carnival strongman, is hired by a criminal gang of orphans to help steal a safe. During the heist, he sees Denr\u00e9e, his adopted little brother, being kidnapped by the Cyclops\u2014a cyborg cult who trade children with Krank in exchange for mechanical eyes and ears. One teams up with Miette, an orphan girl, to infiltrate the Cyclops' headquarters, but they are captured and sentenced to execution.\n\nMeanwhile, the Octopus (conjoined twins who run the orphan gang) order circus performer Marcello to return One to them. Using trained fleas that inject a poison causing mindless aggression, Marcello turns the Cyclops guards against each other, allowing One and Miette to escape. However, the Octopus uses the fleas to turn One against Miette, leading to a spectacular chain of events involving a crashing ship.\n\nAn amnesiac diver living beneath the harbor reveals he was the scientist who created Krank and the other creatures. He, One, and Miette converge on the oil rig\u2014the diver to destroy it, and One and Miette to rescue the children. In the climax, Miette enters the dream machine to save Denr\u00e9e, using her imagination to trap Krank in an infinite loop within his own mind. The diver straps himself to the rig's leg with dynamite, sacrificing himself to destroy the facility as everyone escapes.",
+      "core": "**Dreams and Imagination:** The film explores the value of dreams and imagination as essential human qualities. Krank's inability to dream drives his villainy\u2014he seeks to steal others' dreams because he lacks his own. Miette's victory comes not through violence but through her imagination, suggesting that creativity and dreams are more powerful than technological or physical power.\n\n**Surrealism and Visual Storytelling:** The film is a masterwork of surrealist visual storytelling, with images that blur the line between dreams and reality. Jeunet and Caro create a world that feels like a living fairy tale, drawing on influences from Bosch to M\u00e9li\u00e8s to Burton. The production design emphasizes weird angles, elaborate sets, and a darkly whimsical color palette.\n\n**The Role of Family and Community:** The film presents non-traditional families\u2014the orphan gang, the circus performers, the cloned creations\u2014as viable alternatives to conventional family structures. One and Denr\u00e9e's adopted family, the community of orphans, and even Krank's collection of creations each represent different approaches to belonging and connection.\n\n**Technology and Monstrosity:** Krank represents technological creation without soul or imagination. He uses sophisticated machines to steal dreams, but cannot generate his own. His creations\u2014the clones, Martha, Irvin\u2014are also incomplete beings, lacking the imagination that Miette demonstrates. The film suggests that technology without creativity or emotion creates monsters.\n\nThe City of Lost Children remains a unique work in the sci-fi/fantasy canon, combining European artistic sensibility with genre storytelling. It predates Jeunet's later success with Am\u00e9lie but shares that film's attention to whimsical detail and emotional core beneath surreal surfaces.",
+      "created_at": "2026-03-02 16:06:05"
+    },
+    {
       "title": "The Cockpit",
       "year": 1993,
       "medium": "Anime",
@@ -6920,5 +6937,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 407
+  "count": 408
 }
