@@ -341,6 +341,23 @@
       "created_at": "2026-02-28 08:21:00"
     },
     {
+      "title": "Aditya 369",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Time-Travel, Science-Fiction ,",
+      "topics": "Time-Travel, Exploration",
+      "image_filename": "Aditya_369_1991.jpg",
+      "pitch": "Aditya 369 is a 1991 Indian Telugu-language science fiction film that holds the distinction of being the first time-travel film in Indian cinema. Directed by Singeetam Srinivasa Rao and starring Nandamuri Balakrishna, the film blends historical drama with science fiction through the story of Professor Ramdas, who invents a time machine called Aditya 369. When a mischievous boy accidentally activates the machine, he and others are transported to 1526 CE during the reign of Vijayanagara emperor Sri Krishnadevaraya, and later to a post-apocalyptic year 2504 CE. The film explores themes of time travel, history, and future technology while delivering entertainment through its unique narrative structure.",
+      "truth": "The film begins in 1991 with Professor Ramdas working on his time machine, Aditya 369. Meanwhile, the villain Raja Varma steals a diamond from the Salar Jung Museum. During a school excursion, the young Kishore witnesses the theft but no one believes him. Kishore later sneaks into Ramdas's house with hospital friends and accidentally activates the time machine.\n\nIn their attempts to fix the machine, Krishna Kumar (the hero), Hema (Ramdas's daughter), and a police constable get transported to 1526 CE, where they encounter Sri Krishnadevaraya and become embroiled in court intrigue involving the diamond. After escaping the historical period, the machine malfunctions and takes them to 2504 CE\u2014a post-apocalyptic world devastated by radiation from World War III, where survivors live underground and use the diamond for power.\n\nThe heroes eventually return to 1991, where they confront Raja Varma in an action-packed finale. The film ends with Ramdas deciding to abandon the time machine project, citing its lack of \"practical use for society.\"",
+      "core": "**Pioneering Time Travel in Indian Cinema:** Aditya 369 is historically significant as the first Indian film to explore time travel as a central narrative device. The film's innovative premise predates many later Indian sci-fi efforts and established a template for the genre in regional Indian cinema.\n\n**Blending History and Science Fiction:** The film's unique structure combines historical drama (set in 1526 CE during the Vijayanagara Empire) with science fiction (time travel and post-apocalyptic futures). This hybrid approach was groundbreaking for Indian cinema and demonstrated the potential for combining educational historical content with entertainment.\n\n**Technical Achievement:** Made on a budget of approximately \u20b91.60 crore, the film employed three cinematographers to handle different time periods\u2014P. C. Sreeram for present-day scenes, V. S. R. Swamy for historical sequences, and Kabir Lal for the futuristic portions. The film won two Nandi Awards and received critical acclaim for its technical achievements.\n\n**Influence:** The film is regarded as an influential work in Indian science fiction and inspired subsequent filmmakers to explore sci-fi themes in Indian cinema. Its combination of commercial entertainment elements with speculative fiction elements set a precedent for future Indian sci-fi films.",
+      "created_at": "2026-03-02 19:00:43"
+    },
+    {
       "title": "Aelita",
       "year": 1924,
       "medium": "Film",
@@ -7107,5 +7124,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 418
+  "count": 419
 }
