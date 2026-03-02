@@ -1769,6 +1769,23 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Godzilla",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.8,
+      "total_ratings": 45000,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": "Godzilla_1954.jpg",
+      "pitch": "Godzilla (1954) is the groundbreaking Japanese kaiju film that launched one of cinema's most enduring franchises. Directed by Ishir\u014d Honda and produced by Toho, this seminal work introduced audiences to the iconic monster Godzilla\u2014a prehistoric creature awakened and mutated by hydrogen bomb testing. The film debuted in Japan in October 1954 and became a massive commercial success, winning the Japanese Movie Association Award for Best Special Effects. Its innovative \"suitmation\" technique, pioneered by special effects maestro Eiji Tsuburaya, set the template for tokusatsu filmmaking and influenced countless monster movies worldwide. The film also spawned the internationally famous \"Godzilla\" franchise, recognized by Guinness World Records as the longest-running film series in history.",
+      "truth": "In 1954, after the Japanese freighter Eiko-maru is destroyed near Odo Island, another ship\u2014the Bingo-maru\u2014is sent to investigate, only to meet the same fate with few survivors. A fishing boat from Odo is also destroyed, with one survivor. Fishing catches mysteriously drop to zero, and local elders blame an ancient sea creature known as \"Godzilla.\" Reporters arrive on Odo Island to investigate. That evening, a storm strikes the island and Godzilla destroys 17 homes, kills nine people, and kills 20 of the villagers' livestock.\n\nOdo residents travel to Tokyo to demand disaster relief. The government sends paleontologist Kyohei Yamane to investigate the island, where giant radioactive footprints and a trilobite are discovered. Yamane presents his findings in Tokyo, estimating that Godzilla is 50 meters tall and has evolved from an ancient sea creature, becoming terrestrial after being disturbed by underwater hydrogen bomb testing. Debate ensues about notifying the public about the danger.\n\nMeanwhile, Godzilla surfaces from Tokyo Bay and attacks Shinagawa, destroying a passing train. After consulting international experts, the Japan Self-Defense Forces attempt to kill Godzilla using depth charges, but the monster survives. Desperate, Dr. Serizawa develops the \"Oxygen Destroyer\"\u2014a weapon that splits oxygen molecules, suffocating any aquatic life in the area. Despite his initial reluctance, he uses it when Godzilla threatens Tokyo again. The weapon kills Godzilla but also costs Serizawa his life as he drowns along with the monster. The film ends with Yamane's daughter Emiko and her lover Ogata looking out at the sea, wondering if more monsters will rise from the depths.",
+      "core": "**Nuclear Anxieties and Atomic Age Horror:** Godzilla was explicitly conceived as a metaphor for nuclear devastation. The film's creation was directly inspired by the Daigo Fukury\u016b Maru incident, in which a Japanese fishing boat was contaminated by the US hydrogen bomb test at Bikini Atoll in 1954. The monster represents the terrifying power of nuclear weapons and the unseen radiation effects that could strike without warning. The film channeled Japan's unique trauma as the only nation to have experienced atomic warfare, transforming that collective anxiety into a giant monster that could emerge at any moment to devastate civilization.\n\n**The Tragic Monster Trope:** Unlike later entries in the franchise that portrayed Godzilla as a heroic protector, the 1954 original presents the creature as a tragic victim of human technological hubris. Godzilla did not choose to attack humanity\u2014human nuclear testing transformed and awakened it, forcing it to rampage. This tragic dimension gives the film its emotional weight and elevates it beyond simple monster cinema. The final sacrifice of Dr. Serizawa, who uses his devastating weapon to kill the creature he created, adds a layer of tragic heroism.\n\n**Innovation in Special Effects:** The film's pioneering use of \"suitmation\"\u2014where a stunt performer wearing a monster suit interacts with miniature sets\u2014revolutionized special effects filmmaking in Japan and established the tokusatsu aesthetic. Eiji Tsuburaya's innovative work created a visual language for giant monster films that continues to influence filmmakers worldwide. The combination of practical suits, miniatures, and careful compositing created memorable imagery that still resonates.\n\n**Cultural Impact and Legacy:** Godzilla (1954) established not just a franchise but an entire genre of kaiju cinema. The film entered the public domain in the US in 2023, ensuring its continued accessibility. It has been preserved on UNESCO's Memory of the World International Register and is widely regarded as one of the greatest and most influential films ever made. The character's evolution from terrifying metaphor for nuclear destruction to global pop culture icon reflects changing attitudes toward both cinema and atomic age anxieties.",
+      "created_at": "2026-03-02 21:47:08"
+    },
+    {
       "title": "Golem",
       "year": 1979,
       "medium": "Film",
@@ -7260,5 +7277,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 427
+  "count": 428
 }
