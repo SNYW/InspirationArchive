@@ -885,6 +885,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Bokurano",
+      "year": 2003,
+      "medium": "Manga",
+      "creator": "Mohiro Kitoh",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Horror ,",
+      "topics": "Isolation, Rebellion",
+      "image_filename": "Bokurano_2003.jpg",
+      "pitch": "Bokurano: Ours is a Japanese manga series written and illustrated by Mohiro Kitoh, serialized from 2003 to 2009. The story follows 15 children who discover a mysterious cavern containing computers and a giant robot called Zearth. A strange man named Kokopelli persuades them to pilot the robot in battles against alien invaders, presenting it as a game. The children soon realize the terrible truth\u2014each victory costs the pilot's life. As the children take turns piloting Zearth, they must face the impossible choice between defending Earth and sacrificing themselves one by one.",
+      "truth": "During a summer camp, 15 children discover a grotto by the sea with working computers and electronic equipment. A man calling himself Kokopelli introduces himself as a programmer creating a new game where a giant robot must defend Earth against fifteen alien invasions. He persuades the children to test the game and enter into contracts. Fourteen agree, while one is prevented by her older brother.\n\nThat night, two giant robots appear on the beach. A creature called Koyemshi appears as the children's guide and teleports them into the black robot, Zearth. Kokopelli pilots the first battle and defeats the enemy, then tells the children they are on their own and sends them back to shore. The first pilot, Takashi Waku, is accidentally knocked into the sea and dies\u2014the truth being that Zearth runs on the pilot's life force.\n\nAs the series progresses, each child takes turns piloting Zearth. Each victory claims the pilot's life. The children must continue fighting or watch Earth be destroyed. The series explores their psychological deterioration as they face their impending deaths, the secrets of Zearth's origins, and the true nature of their mission.",
+      "core": "**The Cost of Sacrifice:** Bokurano explores the horror of forced sacrifice\u2014children are tricked into a contract where survival is impossible. The series examines how society asks the young to bear the burden of protection, and the psychological toll of knowing one's death is inevitable and necessary.\n\n**Innocence and Corruption:** The children begin as typical middle-schoolers but are rapidly stripped of their innocence. Their transformation reflects how trauma and impossible circumstances force premature adulthood. The adults who set this system in place\u2014the mysterious Kokopelli and the alien conflicts\u2014exploit youth for their own purposes.\n\n**Mecha as Metaphor:** Unlike typical mecha anime where the robot is a power fantasy, Zearth is a death sentence. The series subverts the genre, using giant robot combat to explore themes of expendability, the objectification of children, and the violence hidden beneath protective rhetoric.\n\n**Memory and Identity:** As pilots die, their memories and personalities remain in Zearth, raising questions about consciousness, legacy, and what remains of individuals after death. The series asks whether sacrifice gives meaning to life or merely consumes it.",
+      "created_at": "2026-03-02 20:01:25"
+    },
+    {
       "title": "Br\u00fcsel",
       "year": 1992,
       "medium": "Graphic Novel",
@@ -7175,5 +7192,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 422
+  "count": 423
 }
