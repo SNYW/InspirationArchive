@@ -7311,6 +7311,23 @@
       "created_at": "2026-03-01 15:16:15"
     },
     {
+      "title": "Z.P.G.",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Michael Campus (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": "Z.P.G._1972.jpg",
+      "pitch": "Z.P.G. (Zero Population Growth) is a 1972 British-American dystopian science fiction film directed by Michael Campus, starring Oliver Reed and Geraldine Chaplin. Set in a severely overpopulated and polluted future Earth, the film explores a world where the global government has decreed a 30-year ban on having children, enforced by the death penalty. Couples who long for children are given animatronic robot substitutes to satisfy their maternal instincts. When a couple secretly conceives a child, they must hide the baby from both the authorities and their jealous neighbors in a terrifying world where simply screaming \"baby\" brings the police.",
+      "truth": "In the future, Earth has become severely polluted\u2014the atmosphere is so toxic that people must wear breathing masks outdoors, and all animals have gone extinct. With resources exhausted and the population exceeding 10 billion, the world government implements \"Z.P.G.\" (Zero Population Growth)\u2014a 30-year ban on childbearing. Violators face execution by suffocation under a plastic dome. To fill the void, \"Babyland\" offers lifelike animatronic children to childless couples.\n\nRuss and Carol McNeil work in a museum recreating 20th-century life. Desperate for a real child, Carol conceives in secret. After giving birth, the couple hides the baby while trying to avoid detection by neighbors who would immediately report them for the reward. When their neighbors George and Edna Borden discover the baby, initially offering help, their jealousy turns to conflict\u2014they want the baby for themselves.\n\nThe McNeils are eventually discovered and placed under an execution dome, but they escape through underground tunnels to a remote island. However, the island may be radioactive, having been used as a nuclear waste dump, leaving their fate uncertain.",
+      "core": "Z.P.G. was inspired by Paul R. Ehrlich's 1968 bestseller \"The Population Bomb,\" reflecting contemporary anxieties about overpopulation, resource depletion, and environmental collapse. The film presents a nightmarish vision of bureaucratic totalitarianism where the state controls reproduction through fear and surveillance.\n\nThe movie explores themes of parental instinct, governmental overreach, and the value of human life against the backdrop of ecological collapse. Geraldine Chaplin won Best Actress at the 1972 Sitges Film Festival for her performance. The film's nearly complete reliance on studio sets creates an oppressive, claustrophobic atmosphere that mirrors its themes of confinement and control.\n\nThe film can be seen as a predecessor to later overpopulation dystopias and remains a chilling portrait of reproductive control, environmental despair, and the human cost of political solutions to global crises.",
+      "created_at": "2026-03-02 22:50:18"
+    },
+    {
       "title": "Zardoz",
       "year": 1974,
       "medium": "Film",
@@ -7328,5 +7345,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 431
+  "count": 432
 }
