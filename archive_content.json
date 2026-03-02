@@ -851,6 +851,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Bugonia",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "Yorgos Lanthimos (Director), Will Tracy (Writer)",
+      "raw_score": 3.7,
+      "total_ratings": 150000,
+      "origin": "",
+      "mood": "Dark Comedy ,",
+      "sub_genres": "Science-Fiction ,",
+      "topics": "Conspiracy, Satire",
+      "image_filename": "Bugonia_2025.jpg",
+      "pitch": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "truth": "Bugonia is a darkly satirical sci-fi thriller that explores conspiracy culture and class warfare through the lens of two unstable young men who take extreme measures against a corporate CEO. Directed by Yorgos Lanthimos (The Favourite, Poor Things), the film features intense performances and tackles themes of radicalization, corporate power, and the thin line between paranoia and reality.",
+      "core": "A modern satire that applies Lanthimos' signature bleak humor to contemporary anxieties about technology, wealth, and corporate control. The film has drawn comparisons to Save the Green Planet! and serves as a scathing commentary on modern society's relationship with power and conspiracy thinking.",
+      "created_at": "2026-03-02 15:31:29"
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -6869,5 +6886,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 404
+  "count": 405
 }
