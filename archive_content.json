@@ -2943,6 +2943,23 @@
     },
     {
       "title": "On the Silver Globe",
+      "year": 1903,
+      "medium": "Novel",
+      "creator": "Jerzy \u017bu\u0142awski",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Poland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Religion, Isolation",
+      "image_filename": "On_the_Silver_Globe_1903.jpg",
+      "pitch": "On the Silver Globe is the first volume of Jerzy \u017bu\u0142awski's groundbreaking Lunar Trilogy, written between 1901-1911 and considered one of the earliest works of modern science fiction. The novel tells the story of a disastrous lunar expedition in which a group of astronauts from Earth become stranded on the Moon. After several generations, their descendants lose most of their knowledge and are ruled by a religious cult. Originally written in Polish, this novel predates many classic science fiction works and influenced later writers including Stanis\u0142aw Lem, who called it \"one of the most fascinating and life-changing experiences\" of his youth. The novel is presented as a diary kept by the surviving crew member Jan Korecki, chronicling the founding of the lunar colony and its descent into religious extremism.",
+      "truth": "The narrative follows an ill-fated expedition to the Moon led by Irish astronomer O'Tamor. The ship's crew includes English physician Tomasz Woodbell, the Polish narrator Jan Korecki, Brazilian-Portuguese engineer Piotr Varadol, and Marta, a woman who secretly replaced a German participant who backed out at the last moment. During the landing, O'Tamor and Tomasz are killed, leaving only four survivors stranded on the Moon with no hope of rescue.\n\nAs the survivors struggle to survive on the \"other side\" of the Moon (which has limited oxygen and water), Marta and Piotr eventually become lovers and produce the first generation of children. These offspring are physically stunted from generations of incest, and over time, the colonists lose most of their knowledge of science and technology. A religious cult emerges, worshipping the remaining Earth artifacts as holy objects and eventually crucifying a second visitor from Earth who arrives seeking to restore their knowledge.\n\nThe second volume, Zwyci\u0119zca (The Victor), focuses on this expected Messiah figure who fails to meet the colonists' expectations and is killed in an allegory to the death of Jesus Christ. The third volume, Stara Ziemia (The Old Earth), describes a later visit by Lunar colonists to 27th-century Earth.",
+      "core": "**Pioneering Science Fiction:** \u017bu\u0142awski's Lunar Trilogy is remarkable for its early date\u2014it predates the golden age of science fiction and anticipates many themes that would later become staples of the genre. The novel explores space travel, colonization, and the degeneration of human civilization with remarkable sophistication for its time.\n\n**Religious Critique:** The novel presents a sharp critique of religious fundamentalism, showing how a group of rational scientists eventually becomes ruled by a cult that worships technology they no longer understand. This theme of knowledge lost and myth replacing science resonates with concerns about civilizational decline.\n\n**Colonial Allegory:** The colony's relationship with Earth can be read as an allegory for colonial relationships\u2014the colonists become \"other,\" their culture transformed, their connection to their home world severed. The religious cult that emerges can be seen as a commentary on how colonizing peoples often develop new belief systems distinct from their origins.\n\n**Influence on Polish SF:** Stanis\u0142aw Lem, the most famous Polish science fiction writer, credited On the Silver Globe with inspiring him to become a writer of the fantastic. The trilogy has been translated into Russian, Czech, German, English, and Hungarian, demonstrating its lasting influence on European science fiction.",
+      "created_at": "2026-03-02 20:14:52"
+    },
+    {
+      "title": "On the Silver Globe",
       "year": 1988,
       "medium": "Film",
       "creator": "",
@@ -7192,5 +7209,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 423
+  "count": 424
 }
