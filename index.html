@@ -542,7 +542,7 @@ function updateHero() {
     const container = document.getElementById('heroSection');
     if(!media.length) return; 
     
-    const topPicksPool = media.filter(m => m.rating >= 4.0 && (m.obscurityPct >= 60 || m.obscurityTier === 'ghost'));
+    const topPicksPool = media.filter(m => m.rating >= 3.5 && (m.obscurityPct >= 60 || m.obscurityTier === 'ghost'));
     
     if (topPicksPool.length === 0) {
         container.classList.add('hidden');
