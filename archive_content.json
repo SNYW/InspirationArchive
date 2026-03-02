@@ -2806,6 +2806,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Open Your Eyes",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Alejandro Amen\u00e1bar (Director), Mateo Gil (Writer)",
+      "raw_score": 4.35,
+      "total_ratings": 45,
+      "origin": "Spain ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Memory, VR, Transhumanism",
+      "image_filename": "Open_Your_Eyes_1997.jpg",
+      "pitch": "Open Your Eyes is a 1997 Spanish sci-fi psychological thriller directed by Alejandro Amen\u00e1bar. The film follows C\u00e9sar, a handsome young man whose life unravels after a car accident leaves him horribly disfigured. When he begins experiencing surreal, disorienting dreams that blur the line between reality and fantasy, he discovers a shocking truth about his existence. The film is renowned for its complex narrative structure that intercuts between dream and reality, exploring themes of identity, perception, and what it means to be human. It was critically acclaimed and later remade as the Hollywood film Vanilla Sky (2001).",
+      "truth": "The film opens with C\u00e9sar (Eduardo Noriega) waking up to a female voice telling him to open his eyes. He drives through an empty city, then wakes again beside a woman in his bed. From a prison cell in Madrid, C\u00e9sar tells his story to psychiatrist Antonio.\n\nFlashbacks reveal that C\u00e9sar is a wealthy, womanizing young man who meets Sof\u00eda (Pen\u00e9lope Cruz) at his best friend Pelayo's birthday party. After spending the night with her, C\u00e9sar accepts a ride from his obsessive ex-lover Nuria, who crashes the car intentionally, trying to kill them both. C\u00e9sar survives but is left with severe facial disfigurement. Unable to face the world, he wears a prosthetic mask.\n\nAfter his disfigurement, C\u00e9sar experiences increasingly strange events. One night, drunk on the street, he awakens to find everything has changed\u2014Sof\u00eda now claims to love him, and surgeons have somehow restored his face. But when he makes love to Sof\u00eda, she transforms into Nuria, and he suffocates her in horror. Yet everyone insists Nuria is Sof\u00eda, and he is imprisoned for murder.\n\nIn prison, fragments of his past return like dreams. It is revealed that after the accident, C\u00e9sar signed a contract with \"Life Extension,\" a company specializing in cryonics and virtual reality. He actually committed suicide after the accident and was cryogenically preserved. His experiences since waking on the street have been a Lucid dream\u2014a virtual reality simulation created by Life Extension, set 150 years in the future. At the film's climax, C\u00e9sar chooses to wake by leaping from the company's rooftop, and the film ends ambiguously with a woman telling him to open his eyes.",
+      "core": "Open Your Eyes is a masterful exploration of reality versus perception, drawing comparisons to Calder\u00f3n de la Barca's 1635 play \"Life Is a Dream.\" The film interrogates fundamental questions about identity: If our memories and experiences can be artificially generated, what makes us who we are? The protagonist's journey through layered realities mirrors philosophical debates about solipsism and the nature of consciousness.\n\nThe film also tackles themes of transhumanism and cryonics\u2014the idea that human consciousness could be preserved and experienced through synthetic means. Life Extension represents a future where death is optional, but at the cost of authentic experience. C\u00e9sar's nightmare simulation forces him to question whether any experience, no matter how vivid, has meaning if it's artificial.\n\nThe film's structure, with its unreliable narrator and shifting realities, demands active engagement from the viewer. Amen\u00e1bar crafts a puzzle-box narrative where nothing can be trusted\u2014not C\u00e9sar's memories, not what he sees, not even the faces of people he loves. This uncertainty is the film's greatest strength, creating mounting dread and existential unease.\n\nThe Spanish setting grounds the philosophical abstractness in concrete urban reality\u2014the streets of Madrid become as important as the metaphysical questions. The film's success spawned a Hollywood remake and established Amen\u00e1bar as a rising directorial talent. Open Your Eyes remains a landmark of Spanish cinema and a thought-provoking entry in the sci-fi psychological thriller genre.",
+      "created_at": "2026-03-02 15:18:26"
+    },
+    {
       "title": "Outlanders",
       "year": 1986,
       "medium": "Anime",
@@ -6835,5 +6852,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 402
+  "count": 403
 }
