@@ -7940,6 +7940,23 @@
       "created_at": "2026-03-02 10:46:42"
     },
     {
+      "title": "Timemaster",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "James Glickenhaus",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Time-Travel ,",
+      "topics": "Exploration",
+      "image_filename": "Timemaster_1995.jpg",
+      "pitch": "Timemaster is a 1995 American science fiction adventure film directed by James Glickenhaus. The film stars Jesse Cameron-Glickenhaus (the director's son) as Jesse Adams, a young man who discovers he is Earth's last line of defense against an alien threat. With the help of a wise mentor played by Pat Morita, Jesse must travel through time to different eras\u2014from the Old West to ancient civilizations\u2014battling alien forces that have infiltrated human history. The film also features early appearances by a young Michelle Williams in one of her first film roles.",
+      "truth": "The film follows Jesse Adams, an ordinary teenager who suddenly finds himself thrust into an extraordinary role. He is recruited by a mysterious group known as The Chairman, led by a time-traveling alien adversary. Jesse is trained by Isaiah, a wise mentor played by Pat Morita, who reveals that Earth has been targeted for invasion by aliens who have been manipulating human history from the shadows.\n\nJesse travels through various time periods\u2014from the Old West (where he encounters Billy the Kid and Doc Holliday) to other historical eras\u2014battling alien operatives disguised as historical figures. His mission is to stop The Chairman from altering key moments in history that would allow the alien invasion to succeed.\n\nThe film is notable for its fast-paced, action-oriented approach to time travel, featuring numerous set pieces across different time periods. Jesse must gather allies, outsmart the aliens, and ultimately face The Chairman in a final confrontation that determines humanity's fate.",
+      "core": "Timemaster represents a lesser-known entry in 1990s sci-fi adventure cinema. While critically panned upon release\u2014the plot was criticized as unfocused and the narrative reportedly went wherever sets became available\u2014the film has developed a modest cult following among fans of 90s sci-fi and time travel adventures.\n\nThe film can be seen as a father-son collaboration, with James Glickenhaus writing and directing and casting his own son in the lead role. This personal touch gives the film a certain charm, with some reviewers noting its \"family production\" appeal reminiscent of classic serial adventures.\n\nThe time-travel plot, while derivative of works like Back to the Future and Doctor Who, offers an earnest take on the \"ordinary kid as chosen one\" trope popular in 1980s and 1990s adventure cinema. The film's various historical settings allow for action sequences ranging from Old West gunfights to sci-fi confrontations.\n\nTimemaster remains a obscure but interesting artifact of 1990s independent sci-fi filmmaking, representing a final theatrical release from Shapiro-Glickenhaus Entertainment before the company disbanded in 1995.",
+      "created_at": "2026-03-03 18:32:22"
+    },
+    {
       "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
       "year": 1977,
       "medium": "Film",
@@ -8535,5 +8552,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 502
+  "count": 503
 }
