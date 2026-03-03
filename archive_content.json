@@ -1361,6 +1361,23 @@
       "created_at": "2026-03-03 09:17:09"
     },
     {
+      "title": "Colossal Cave Adventure",
+      "year": 1976,
+      "medium": "Video Game",
+      "creator": "William Crowther, Don Woods",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Memory",
+      "image_filename": null,
+      "pitch": "Colossal Cave Adventure (also known as Adventure or ADVENT) is a groundbreaking text-based adventure game released in 1976 for the PDP-10 mainframe computer. Created by programmer William Crowther and expanded by Don Woods, it is widely recognized as the first well-known interactive fiction game and the progenitor of the entire adventure game genre. Players explore a vast underground cave system by typing natural language commands, interacting with objects, and solving puzzles. The game combines elements of exploration, puzzle-solving, and storytelling in a text-only format that revolutionized gaming and established many conventions still used today.",
+      "truth": "The game casts the player as an explorer investigating a mysterious cave system rumored to be filled with treasure and gold. Based on Crowther's actual caving experiences in Mammoth Cave, Kentucky, the original version featured realistic cave geography with numerous locations to explore.\n\nThe player navigates the cave by typing one or two-word commands that the game's parser interprets. Commands include movement directions (north, south, east, west, up, down), actions (take, drop, open, look, inventory), and interactions with objects found throughout the cave. The parser understands natural language, allowing for flexible problem-solving approaches.\n\nThe original Crowther version (1976) focused on cave exploration with some fantasy elements. Woods' 1977 expansion dramatically increased the game's scope, adding numerous fantasy and mythological elements including a dragon, a magic bridge, a wizard's castle, and various magical items. The expanded game features multiple puzzles requiring careful inventory management and logical sequencing.\n\nKey locations include the cave entrance, various caverns and passages, a depressed troll, a massive treasure chamber, and areas requiring specific items to access. The game rewards thorough exploration and creative thinking, with many puzzles having multiple potential solutions.",
+      "core": "**Birth of Interactive Fiction:** Colossal Cave Adventure established the adventure game genre and interactive fiction as a medium. Its text parser demonstrated that natural language could create immersive gaming experiences, influencing countless games that followed. The concept of \"verb-noun\" command parsing became a standard in adventure games for decades.\n\n**Exploration as Gameplay:** Unlike later games focused on combat or story, Adventure made exploration and discovery its core gameplay loop. The pleasure comes from mapping the cave, finding hidden passages, and gradually uncovering the game's secrets\u2014a design philosophy that influenced everything from text adventures to modern open-world games.\n\n**Player Imagination:** Without graphics, the game relied entirely on descriptive text to create atmosphere and immersion. This forced players to actively imagine the cave system, objects, and encounters, creating a more personal experience than any graphical game could achieve. This tradition of using text to spark player imagination persists in modern interactive fiction.\n\n**Technical Innovation:** The game's development of an English-language parser that could understand simple natural language commands was technically pioneering. It demonstrated that computers could engage in basic natural language processing, opening doors for future applications of AI in gaming and beyond.\n\n**Cultural Impact:** Adventure directly inspired the creation of Zork (1977), Adventureland (1978), Mystery House (1980), and the roguelike genre. In 2019, Colossal Cave Adventure was inducted into the World Video Game Hall of Fame, cementing its status as one of the most influential games in history.",
+      "created_at": "2026-03-03 21:20:39"
+    },
+    {
       "title": "Contract",
       "year": 1985,
       "medium": "Animated Short",
@@ -8671,5 +8688,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 510
+  "count": 511
 }
