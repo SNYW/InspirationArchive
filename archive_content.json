@@ -3010,6 +3010,23 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Max Payne",
+      "year": 2001,
+      "medium": "Video Game",
+      "creator": "Remedy Entertainment",
+      "raw_score": 4.45,
+      "total_ratings": 89,
+      "origin": "Finland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Noir ,",
+      "topics": "Sentience, Megacorps",
+      "image_filename": "Max_Payne_2001.jpg",
+      "pitch": "Max Payne is a neo-noir third-person shooter that tells the story of Max Payne, a New York City police detective turned vigilante after his wife and infant daughter are brutally murdered. Developed by Finnish studio Remedy Entertainment and released in 2001, the game pioneered the use of \"bullet time\" mechanics in action sequences\u2014slowing down time to allow for dramatic gunfights. The game is notable for its distinctive comic-book style cutscenes, its film noir narrative voice, and its deeply personal story of grief, revenge, and descent into darkness.",
+      "truth": "The game follows Max Payne as he returns home one night to discover that his wife Michelle and their baby daughter Coco have been murdered. His partner Alex Balder is also killed, and Max is framed for the murders. Consumed by grief and rage, Max becomes a vigilante, hunting down those responsible for the deaths of his family.\n\nMax soon discovers the murder was connected to a designer drug called Valkyr (or \"V\"), which is being distributed on the streets of New York. His investigation leads him through the city's criminal underworld, pitting him against the Russian mob, the Inner Circle (a secret society), and various other factions. Along the way, Max encounters Mona Sax, a mysterious woman seeking revenge for her own sister's death.\n\nThe story unfolds through Max's internal monologue, delivered in the style of hardboiled detective fiction. The narrative builds to a series of revelations about the conspiracy behind Valkyr and the true reasons for his family's deaths, culminating in Max confronting the key figures responsible\u2014including those within his own department who betrayed him.",
+      "core": "Max Payne represents a pivotal moment in gaming storytelling, demonstrating that video games could deliver mature, cinematic narratives comparable to film and literature. The game's success established the \"bullet time\" mechanic as a genre-defining feature, later popularized in films like The Matrix and games like Strider.\n\nThe game's noir aesthetic\u2014characterized by rain-soaked streets, stark lighting, and melancholic internal monologue\u2014created an atmospheric tone that influenced many subsequent titles. The comic book cutscenes, rendered in a distinctive noir art style, were innovative for their time and helped differentiate Max Payne from other shooters.\n\nBeyond its technical innovations, Max Payne explores themes of loss, redemption, and the moral costs of vigilantism. Max's journey from grieving husband to hardened killer raises questions about justice, revenge, and whether the line between hero and villain is truly fixed. The game's influence extends beyond gaming, having inspired a 2008 film adaptation starring Mark Wahlberg.",
+      "created_at": "2026-03-03 21:03:20"
+    },
+    {
       "title": "Maya Manithan",
       "year": 1958,
       "medium": "Film",
@@ -8654,5 +8671,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 509
+  "count": 510
 }
