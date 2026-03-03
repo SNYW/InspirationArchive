@@ -3282,6 +3282,23 @@
       "created_at": "2026-03-02 15:18:26"
     },
     {
+      "title": "Our Heavenly Bodies",
+      "year": 1925,
+      "medium": "Film",
+      "creator": "Hanns Walter Kornblum",
+      "raw_score": 3.55,
+      "total_ratings": 200,
+      "origin": "Germany ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration",
+      "image_filename": "Our_Heavenly_Bodies_1925.jpg",
+      "pitch": "Our Heavenly Bodies is a groundbreaking 1925 German silent film that attempts to represent everything known about the cosmos at the time. Directed by Hanns Walter Kornblum, this ambitious \"Kulturfilm\" (educational film) combines live-action, special effects, and animation to take viewers on a fantastical journey through the Solar System and beyond to the stars. The film was produced by UFA (Universum-Film AG) and Colonna-film, and stands as a remarkable early example of science fiction cinema that predates many of the genre's more famous later works. It features scientific consultation from prominent astronomers of the era, lending it an unusual degree of accuracy for its time, while also including spectacular imaginative sequences of space travel that would influence decades of science fiction to come.",
+      "truth": "The film is structured as a seven-part journey through the cosmos, combining educational narration with increasingly fantastical space travel sequences.\n\nPart one, \"On the Road to Truth,\" presents a history of cosmology from ancient times to the present. Part two, \"The Night Sky,\" explores the Moon, its motions and phases, tides and eclipses, as well as constellations, stars, comets, and meteors. Part three, \"The Star of Day,\" examines the Sun including sunspots, auroras, and solar eclipses.\n\nThe fourth part, \"A Flight to the Moon,\" introduces a revolutionary concept for the time\u2014a \"fantasy ship\" pulled by \"huge electrical energies,\" essentially an early depiction of a spacecraft. The film shows its launch, discusses the vacuum of space, and depicts the Earth as seen from the Moon. This sequence is considered one of the first depictions of space travel in cinema.\n\nParts five and six take viewers on an imaginary journey through the Solar System, visiting Mercury, Venus, Mars (depicting the then-controversial Martian canals), the asteroids, Jupiter (with a sequence depicting people bouncing in reduced gravity), Saturn (showing its rings from the surface), Uranus, and Neptune. The final leg of the journey travels faster than light to visit binary stars and globular clusters, ultimately leaving the Milky Way.\n\nThe seventh part, \"Becoming and Waning in Outer Space,\" speculates on the future of Earth, showing scenarios of freezing and burning, and depicts the formation of planets from a spiral disk of gas.",
+      "core": "Our Heavenly Bodies represents a pioneering achievement in both scientific documentary and science fiction cinema. The film is notable for its remarkable special effects, which were considered state-of-the-art for 1925, and for its ambitious scope in attempting to visualize astronomical concepts for a mass audience. The scientific consultants\u2014Professors Guthnick, Kopff, Ludendorff, and Solger\u2014ensured the astronomical content was accurate for its time, making the film a unique hybrid of education and entertainment.\n\nThe film has been described by critics as a forerunner of Stanley Kubrick's 2001: A Space Odyssey, sharing a spirit of cosmic wonder and scientific exploration. However, where 2001 would focus on human evolution and artificial intelligence, Our Heavenly Bodies is more closely aligned with the educational ambitions of Carl Sagan's Cosmos series, attempting to convey the breadth of astronomical knowledge to a general audience through spectacular imagery.\n\nThe reconstruction of the film in 2008 by the Munich Film Archive, using materials from the National Audiovisual Institute in Finland and the Deutsche Kinemathek in Berlin, has allowed modern audiences to appreciate this lost classic of early science fiction cinema. The Friedrich-Wilhelm-Murnau Foundation now holds the rights, ensuring the film's preservation.\n\nWhat makes Our Heavenly Bodies particularly significant is its position as one of the first feature-length films to take science fiction seriously, treating its subject matter with ambition and visual sophistication rather than as mere novelty. It established templates for the science fiction film that would be developed throughout the 20th century, from the space operas of the 1950s to the cerebral science fiction of later decades.",
+      "created_at": "2026-03-03 06:45:46"
+    },
+    {
       "title": "Outlanders",
       "year": 1986,
       "medium": "Anime",
@@ -7804,5 +7821,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 459
+  "count": 460
 }
