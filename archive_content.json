@@ -1960,8 +1960,8 @@
       "year": 1984,
       "medium": "Animated Short",
       "creator": "Tim Burton",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.6,
+      "total_ratings": 14000,
       "origin": "USA ,",
       "mood": "Surreal ,",
       "sub_genres": "Horror, Science-Fantasy ,",
@@ -6244,8 +6244,8 @@
       "year": 1956,
       "medium": "Short Story",
       "creator": "Isaac Asimov",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 4.29,
+      "total_ratings": 214879,
       "origin": "USA ,",
       "mood": "Cerebral ,",
       "sub_genres": "Hard-SF ,",
@@ -7906,6 +7906,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Uridium",
+      "year": 1986,
+      "medium": "Video Game",
+      "creator": "Andrew Braybrook (designer), Graftgold (developer)",
+      "raw_score": 4.7,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Uridium_1986.jpg",
+      "pitch": "Uridium is a horizontally scrolling shooter designed by Andrew Braybrook for the Commodore 64 and published by Hewson Consultants in 1986. The game challenges players to destroy fifteen Super-Dreadnoughts orbiting each planet in a galactic sector, each draining mineral resources from planetary cores. Players control a Manta class Space Fighter, navigating through enemy defenses, destroying surface installations, and landing on massive motherships to extract fuel rods before escaping as the Dreadnought explodes. The game is notable for its innovative parallax scrolling technique on the Commodore 64 and was a critical success, winning Best Shooting Game of 1986 and earning a Golden Joystick Award.",
+      "truth": "The galaxy faces an interstellar crisis as enemy Super-Dreadnoughts have been positioned in orbit around each of the fifteen planets in the sector. These massive warships are systematically draining the mineral resources from planetary cores to fuel their interstellar power units. Each Super-Dreadnought targets a different metal for its metal converter, and together they threaten to strip-mine entire solar systems.\n\nThe player assumes the role of a Manta class Space Fighter pilot, transported to each planet in sequence. The mission follows a three-phase structure for each of the fifteen Dreadnoughts:\n\nFirst, the player must breach the defensive screen of enemy fighters that patrol the orbital approaches. These squadrons attack in waves, testing the pilot's reflexes and maneuverability. Only by neutralizing enough of these defenders can the player progress to the next phase.\n\nSecond, the player must strafe the surface installations on the Super-Dreadnought itself. The ship's hull features various defensive structures, weapons emplacements, and flashing ports that release homing mines\u2014mines that cannot be destroyed and must be outflown until they self-detonate. The player must destroy sufficient surface defenses to activate the landing zone.\n\nThird, once the \"Land Now!\" signal appears, the player must slow the Manta to minimum speed and touch down on the sternward landing zone. The pilot then enters the interior of the mothership, navigating its corridors to reach the nuclear reactor and extract fuel rods from the metal converters. After this dangerous boarding operation, the pilot returns to the Manta and takes off as the Dreadnought vaporizes in a dramatic explosion.\n\nLater Dreadnoughts feature increasingly complex wall configurations, with gaps so narrow the Manta must turn sideways to pass through. Each successive level raises the difficulty, requiring ever-greater skill to complete. The final Dreadnought, Uridium (the fictional metallic element), contains the congratulations message for completing the game.",
+      "core": "**Industrial Exploitation and Resource Depletion:** Uridium presents a universe where alien forces treat entire planets as resources to be extracted, foreshadowing real-world concerns about resource depletion and environmental exploitation. The Dreadnoughts are essentially mobile strip-mining operations, converting entire worlds into fuel for war.\n\n**Technological Innovation in Gaming:** The game's technical achievements deserve recognition. Andrew Braybrook's parallax scrolling technique\u2014using the Commodore 64's graphics chip in an unconventional way\u2014created a sense of depth that was remarkable for 1986. The stars appearing stationary while the Dreadnought surface scrolls horizontally required clever character glyph manipulation, demonstrating how constraint-driven design can produce innovation.\n\n**Arcade Excellence:** Unlike narrative-driven games, Uridium pure skill-based design represents a particular kind of elegance. The progression through fifteen levels, each with unique Dreadnought configurations, creates a structured challenge that rewards player mastery. The game embodies the \"easy to learn, difficult to master\" philosophy of classic arcade design.\n\n**The 1980s British Gaming Scene:** Uridium represents the vibrant British microcomputer scene of the mid-1980s. Developed by Graftgold and published by Hewson Consultants, it exemplifies the cottage-industry nature of UK game development during that era. The game topped the Commodore 64 and all-format charts in early 1986, demonstrating the commercial viability of original British IP.",
+      "created_at": "2026-03-03 15:14:36"
+    },
+    {
       "title": "Urusei Yatsura 2: Beautiful Dreamer",
       "year": 1984,
       "medium": "Anime Film",
@@ -8331,5 +8348,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 490
+  "count": 491
 }
