@@ -1973,6 +1973,23 @@
       "created_at": "2026-03-01 09:13:50"
     },
     {
+      "title": "High Treason",
+      "year": 1929,
+      "medium": "Film",
+      "creator": "Maurice Elvey (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Religion",
+      "image_filename": null,
+      "pitch": "High Treason is a 1929 British science fiction drama set in a futuristic 1940 where world peace hangs by a thread. The film depicts a conflict between two massive superpowers\u2014the \"United States of Europe\" (comprising Europe, India, the Middle East, Canada, Africa, and Australasia) and the \"Empire of the Atlantic States\" (the United States and South America). When tensions escalate due to border incidents involving bootleggers, war appears inevitable. However, a sinister terrorist group financed by arms manufacturers orchestrates chaos to profit from conflict. A pacifist Peace League struggles to avert war while the film explores themes of media manipulation, nationalism, and the cost of peace. Notably, this film was produced mid-transition from silent to sound cinema, with both versions existing.",
+      "truth": "In 1940, the world is divided between two rival superpowers: the United States of Europe and the Empire of the Atlantic States. The conflict begins when bootleggers crossing territorial boundaries spark a shoot-out between border guards, resulting in casualties on both sides. As war looms, a terrorist group financed by arms manufacturers deliberately escalates tension by blowing up the Channel Tunnel.\n\nDr. Seymour, leader of the Peace League, works desperately to prevent war. His daughter Evelyn attempts to convince her boyfriend Michael, commander of the European air force, not to fight. Meanwhile, the European President prepares to announce war on television. The terrorists attempt to assassinate Dr. Seymour by bombing the Peace League headquarters, but he survives.\n\nEvelyn leads pacifist demonstrations at the airfield, successfully convincing Michael to delay the attack. Dr. Seymour confronts the President to appeal for peace but is forced to shoot him to prevent the war broadcast. Seymour is put on trial for murder but accepts his fate contentedly when convicted. The film ends with the bombers returning to base, the threat of war apparently averted through sacrifice.\n\nThe production is notable for being converted mid-production from silent to sound film, with Maurice Elvey himself dubbing some minor characters' voices\u2014a significant technical undertaking for the era.",
+      "core": "**Futuristic World-Building:** High Treason presents one of cinema's earliest visions of a bipolar world divided into rival superpowers, presaging the Cold War tensions that would define later decades. The film imagines a unified Europe as a counterweight to American power, with the conflict played out through economic and military competition.\n\n**Influence of Metropolis:** The film is heavily influenced by Fritz Lang's Metropolis (1927), borrowing visual motifs and themes of technological modernity, class division, and the manipulation of masses through media and propaganda. The futuristic sets and themes of orchestrated conflict reflect Lang's vision while applying it to geopolitical concerns specific to Britain.\n\n**Media and Manipulation:** The film anticipates concerns about television as a tool of mass manipulation\u2014the President plans to announce war via television, and terrorists use media to orchestrate conflict for profit. This commentary on information warfare remains relevant.\n\n**Pacifism vs. Duty:** The central tension lies between Evelyn's pacifism and Michael's sense of military duty. The resolution\u2014where Seymour must commit violence (shooting the President) to prevent greater violence\u2014presents a complex moral landscape that questions absolute positions on peace and war.\n\n**Technical Transition:** As one of the last major silent films converted to a partial sound version during production, High Treason represents a pivotal moment in cinema history. Both versions survive, offering a unique window into the transition era of the late 1920s.\n\nThe film remains significant as an early British science fiction work that dared to imagine global conflict in the nuclear age, presaging the geopolitics of the twentieth century with surprising prescience.",
+      "created_at": "2026-03-03 00:19:11"
+    },
+    {
       "title": "Hirak Rajar Deshe",
       "year": 1980,
       "medium": "Film",
@@ -7430,5 +7447,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 437
+  "count": 438
 }
