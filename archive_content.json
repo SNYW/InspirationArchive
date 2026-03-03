@@ -1157,6 +1157,23 @@
       "created_at": "2026-03-02 03:51:28"
     },
     {
+      "title": "Captain Future",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Created by Mort Weisinger & Leo Margulies | Stories by Edmond Hamilton | Animated by Toei Animation",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": "Captain_Future_1978.jpg",
+      "pitch": "Captain Future is a 1978-79 Japanese anime series based on the American pulp magazine hero created in 1940. The series follows Curtis Newton, a brilliant scientist known as Captain Future, who roams the solar system with his robot companion Grag, the android Otho, and the living brain Professor Simon Wright. Together, they travel across the planets solving scientific mysteries and battling villains across the solar system.\n\nThe anime was produced by Toei Animation and originally aired in Japan in 1978-1979, consisting of 53 episodes. It was dubbed into multiple languages including Spanish, French, German, Italian, and Arabic, gaining international popularity. In francophone countries, the series is known as \"Capitaine Flam\" rather than Captain Future.",
+      "truth": "The series adapts various stories from the original Captain Future pulp magazine, which was published from 1940 to 1944 and featured stories written primarily by Edmond Hamilton. The character was created by editors Mort Weisinger and Leo Margulies before the first World Science Fiction Convention in 1939.\n\nIn the original pulp stories, Captain Future's adventures took place throughout the solar system, with each planet and many moons being inhabited by humanoid extraterrestrials. The series features the \"vibration drive,\" a fictional propulsion technology that allows faster-than-light travel within the solar system.\n\nThe anime follows Captain Future and his team as they journey to various planets, encountering alien civilizations, scientific mysteries, and hostile villains. The show combines adventure, science fiction, and educational elements, introducing viewers to concepts of space exploration and scientific problem-solving.\n\nEpisodes often involve Captain Future using his scientific knowledge to solve problems and defeat antagonists, rather than relying on violence. The series emphasizes intellect, teamwork, and peaceful resolution of conflicts.",
+      "core": "The Captain Future franchise represents an important bridge between American pulp science fiction and Japanese anime. The original pulp stories were notable for their optimistic view of space exploration and scientific progress, presenting the solar system as a frontier waiting to be explored and understood.\n\nThe anime adaptation maintained this optimistic tone, presenting science and exploration as fundamentally positive endeavors. Captain Future embodies the ideal of the scientist-hero\u2014someone who uses intelligence and technical knowledge to solve problems rather than force.\n\nThe character's legacy extends beyond the original pulps and anime. Captain Future influenced generations of science fiction writers and helped define the space adventure genre. The anime adaptation introduced the character to international audiences and remains a nostalgic favorite in many countries where it was broadcast.\n\nThe series also reflects the era's optimism about space exploration, being produced shortly after the moon landing and during the height of public interest in space travel.",
+      "created_at": "2026-03-03 13:33:31"
+    },
+    {
       "title": "Cat City",
       "year": 1986,
       "medium": "Film",
@@ -8229,5 +8246,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 484
+  "count": 485
 }
