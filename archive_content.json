@@ -5441,6 +5441,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Iron Giant",
+      "year": 1999,
+      "medium": "Animated Film",
+      "creator": "Brad Bird",
+      "raw_score": 4.0,
+      "total_ratings": 500000,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Hard-SF, Science-Fantasy ,",
+      "topics": "Sentience, Aliens",
+      "image_filename": "The_Iron_Giant_1999.jpg",
+      "pitch": "The Iron Giant is a 1999 animated sci-fi masterpiece from director Brad Bird, set during the Cold War in 1957. When a giant extraterrestrial robot crash-lands off the coast of Rockwell, Maine, nine-year-old Hogarth Hughes discovers the gentle giant and befriends him. With the help of beatnik artist Dean McCoppin, Hogarth attempts to protect his new friend from the paranoid federal agent Kent Mansley and the US military who want to destroy the mysterious visitor from space. Based loosely on Ted Hughes's 1968 novel \"The Iron Man,\" the film explores themes of innocence, friendship, and what it means to be human\u2014all while delivering stunning animation and an unforgettable score by Michael Kamen.",
+      "truth": "The film opens in October 1957, during the height of Cold War paranoia. A 50-foot-tall extraterrestrial robot crash-lands in the waters off Maine. After being freed from some debris, the Giant begins wandering inland, drawn to electrical sources. Nine-year-old Hogarth Hughes discovers the Giant at a substation, initially terrified but soon befriends the curious, childlike robot who calls himself \"the Giant.\"\n\nHogarth keeps the Giant hidden in his barn, feeding him scrap metal and other objects. The Giant demonstrates an innocent, gentle nature\u2014he's fascinated by simple things and has no memory of where he came from or why he came to Earth. Meanwhile, government agent Kent Mansley arrives in town, alerted by power outages caused by the Giant's hunger for electricity. He convinces local businessman Woolar to help him track down the \"weapon.\"\n\nHogarth's mother, Annie, becomes suspicious of her son's secret activities. When she finally discovers the Giant, she's initially terrified but comes to accept his gentle nature. The Giant saves Hogarth from a falling beam at the mill, proving his good intentions to the town.\n\nMansley manipulates the military into attacking, claiming the Giant is a threat to national security. As tanks and soldiers descend on Rockwell, Hogarth tries to lead the Giant to safety. The Giant, realizing the danger he poses to Hogarth and others, makes a heartbreaking choice: he overrides his own programming that forces him to obey commands and instead chooses to sacrifice himself to save the town.\n\nIn the film's iconic climax, the Giant lifts a railway bridge to allow a school bus full of children to escape the advancing military. Hogarth screams at him to \"be who you are,\" and the Giant sacrifices himself, being shot and falling into the ocean. Years later, as an adult, Hogarth reflects on the experience\u2014and the viewer sees that the Giant may have survived, with a final shot showing his eye glowing in the deep.",
+      "core": "**Sentience and Identity:** The film's central theme revolves around whether a machine can possess a soul. The Giant is initially referred to as a \"weapon\" by the military, but through his interactions with Hogarth, he learns to be curious, compassionate, and ultimately, to choose goodness over his programming. The question \"What is the nature of the soul?\" is answered not through exposition but through the Giant's choices.\n\n**Paranoia and Xenophobia:** Set against the Cold War, the film is a pointed critique of American paranoia and the tendency to destroy what we don't understand. Mansley represents the worst of McCarthy-era fear-mongering\u2014seeing threats everywhere and willing to use violence first. The Giant is clearly a metaphor for any \"other\" that a society fears: different, unknown, and therefore dangerous.\n\n**Friendship and Innocence:** Hogarth's pure heart allows him to see past the Giant's terrifying exterior to recognize a kindred spirit. Their relationship models how genuine connection requires vulnerability and trust. The beatnik artist Dean McCoppin provides a counterpoint\u2014he's an adult who still retains some of childhood's wonder and is willing to help without asking questions.\n\n**Sacrifice and Redemption:** The Giant's ultimate choice to sacrifice himself to save the town is the culmination of his journey from \"weapon\" to autonomous being. He proves that he has truly become a person\u2014not through gaining power but through giving it up for others. This is the film's emotional climax and its deepest truth: that love means putting others before yourself.\n\nThe Iron Giant was a box-office failure upon release, earning only $31.7 million against a $50 million budget, due to Warner Bros.' poor marketing. However, it has since become a cult classic and is widely regarded as one of the greatest animated films ever made. Its blend of traditional animation (with CGI for the Giant), its sophisticated themes, and its emotional depth have earned it a place in the sci-fi canon.",
+      "created_at": "2026-03-03 00:48:30"
+    },
+    {
       "title": "The Journeyman Project",
       "year": 1993,
       "medium": "Video Game",
@@ -7464,5 +7481,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 439
+  "count": 440
 }
