@@ -4081,6 +4081,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Sirius",
+      "year": 1942,
+      "medium": "Film",
+      "creator": "Dezs\u0151 \u00c1kos Hamza (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Hungary ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Aliens, Religion",
+      "image_filename": "Sirius_1942.jpg",
+      "pitch": "Sirius is a rare 1942 Hungarian science fiction film, directed by Dezs\u0151 \u00c1kos Hamza and based on Ferenc Herczeg's influential 1894 novel of the same name. Produced during World War II at the Hunnia Studios in Budapest, this film represents one of the earliest examples of Hungarian science fiction cinema. The story centers on a mysterious stranger who arrives in a small town, possessing supernatural knowledge and abilities that challenge the local establishment. Drawing on themes of otherworldly intervention and the conflict between science and superstition, Sirius presents a haunting meditation on faith, knowledge, and the boundaries of human understanding. The film premiered at the wartime 1942 Venice Film Festival\u2014the last held under Mussolini's regime\u2014marking an unusual international presence for Hungarian cinema during this period.",
+      "truth": "The film adapts Herczeg's novel, which tells the story of a mysterious figure known only as Sirius, who appears in a provincial Hungarian town with extraordinary knowledge that appears to transcend normal human understanding. The stranger possesses insights into science, medicine, and human nature that seem impossible for his era, leading the townspeople to debate whether he is a prophet, a madman, or something far more sinister. As tensions rise, the mysterious visitor's true origins and intentions become the subject of intense scrutiny and fear. The narrative explores how communities respond to that which they cannot explain, ultimately revealing the consequences of both blind faith and rigid skepticism in the face of the unknown.",
+      "core": "**Otherness and Fear:** Sirius functions as an allegory for the fear of the unknown, with the mysterious stranger representing an otherworldly presence that disrupts the established order of a conservative Hungarian town. The film's exploration of how communities respond to radical otherness\u2014through suspicion, hostility, or eventual acceptance\u2014resonates with broader themes of xenophobia and intellectual intolerance.\n\n**Science vs. Supersticion:** Set against the backdrop of early 20th-century Hungary, the film dramatizes the tension between emerging scientific thinking and traditional religious beliefs. Sirius's knowledge places him in a liminal space between these worldviews, forcing characters to question their assumptions about the nature of reality and the limits of human comprehension.\n\n**Hungarian National Identity:** The film reflects Hungarian cultural concerns of the era, exploring questions of national identity through the lens of modernity versus tradition. The stranger's ultimate fate serves as a commentary on how societies treat those who do not fit within established paradigms.\n\nAs one of the earliest Hungarian science fiction films, Sirius holds historical significance for establishing Hungary's contribution to the genre during the classic era of European cinema. The film's adaptation of Herczeg's literary work helped cement science fiction as a viable narrative form within Hungarian culture, paving the way for future developments in the country's speculative fiction tradition.",
+      "created_at": "2026-03-03 07:16:44"
+    },
+    {
       "title": "Skeleton on Horseback",
       "year": 1937,
       "medium": "Film",
@@ -7838,5 +7855,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 461
+  "count": 462
 }
