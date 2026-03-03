@@ -5968,6 +5968,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The First Men in the Moon",
+      "year": 1901,
+      "medium": "Novel",
+      "creator": "H. G. Wells",
+      "raw_score": 3.65,
+      "total_ratings": 18723,
+      "origin": "UK ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera, Hard-SF ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "The_First_Men_in_the_Moon_1901.jpg",
+      "pitch": "The First Men in the Moon is a groundbreaking scientific romance by H.G. Wells that tells the story of two Englishmen who travel to the Moon and discover a sophisticated civilization of insect-like creatures called Selenites living in the lunar interior. Narrated by the pragmatic businessman Mr. Bedford, the novel follows his collaboration with the eccentric physicist Mr. Cavor, who has invented \"cavorite\"\u2014a revolutionary substance that can negate gravity. Using this discovery, they construct a spherical spacecraft and embark on what begins as a commercial venture to exploit lunar mineral wealth but becomes instead an extraordinary journey of first contact with an alien civilization.\n\nPublished in 1901, the novel represents Wells at the height of his creative powers, combining adventure narrative with scientific speculation and social satire. The story was originally serialized in The Strand Magazine and The Cosmopolitan before being published in book form. It stands as one of the earliest and most influential works of science fiction to describe space travel with some degree of scientific plausibility, predating humanity's actual lunar missions by nearly seven decades.",
+      "truth": "The novel begins in the countryside of Kent, where businessman Mr. Bedford retreats to write a play and accidentally discovers his reclusive neighbor, physicist Mr. Cavor, has developed cavorite\u2014a material that blocks gravitational force. Recognizing the commercial potential, Bedford persuades Cavor to construct a spherical spacecraft lined with cavorite windows that can be opened and closed to control descent and direction.\n\nUpon landing on the Moon during the lunar dawn, Bedford and Cavor witness the rapid transformation of the landscape as the Sun's heat vaporizes the thin frozen atmosphere, causing alien flora to sprout with staggering speed. While exploring, they become lost in the growing jungle and encounter the Selenites\u2014intelligent, insect-like beings who tend massive \"mooncalf\" creatures. They also hear mysterious booming sounds emanating from beneath the lunar surface.\n\nThe two explorers are eventually captured by the Selenites and taken deep underground to their vast civilization\u2014a complex, technologically advanced society organized in an extremely hierarchical manner, with individuals bred for specific roles. While Bedford eventually escapes back to Earth, Cavor remains behind, having been persuaded by the Selenites that their society represents a superior path for humanity. Bedford returns alone, haunted by the knowledge that his companion chose to remain among the Moon people, and the novel ends with the suggestion that Cavor may eventually return\u2014either as a liberator or an conqueror.",
+      "core": "**Pioneering Hard Science Fiction:** The First Men in the Moon represents an important step in the development of science fiction as a genre that takes scientific possibility seriously. While Jules Verne's lunar journey used a giant cannon, Wells proposed a more scientifically plausible method through gravity-negation. The novel introduced concepts that would become staples of science fiction: gravity-blocking materials, artificial atmospheres, and extraterrestrial ecosystems.\n\n**Social Satire and Specialization:** Wells described the novel as an attempt to \"burlesque the effects of specialisation\" by depicting the Selenite society as an extreme example of a civilization where every individual is bred and trained for a specific function. This satirical element reflects Wells's engagement with contemporary debates about eugenics, socialism, and social engineering\u2014themes he would develop more fully in later works like The Time Machine and Brave New World.\n\n**The Alien as Other:** The Selenites represent one of science fiction's earliest detailed depictions of truly alien intelligence\u2014not merely human-like beings in costume, but a civilization with fundamentally different social structures, biology, and values. Wells's portrayal influenced countless subsequent depictions of alien life in science fiction.\n\n**First Contact Themes:** The novel explores the dynamics of encounter between civilizations of vastly different technological levels, predating the \"first contact\" genre by decades. Bedford's attempts to exploit the Moon for profit versus Cavor's philosophical fascination with the Selenites also anticipate themes that would recur throughout science fiction.",
+      "created_at": "2026-03-03 18:46:16"
+    },
+    {
       "title": "The Future of Another Timeline",
       "year": 2019,
       "medium": "Novel",
@@ -8552,5 +8569,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 503
+  "count": 504
 }
