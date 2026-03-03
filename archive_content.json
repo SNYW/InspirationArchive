@@ -936,6 +936,23 @@
       "created_at": "2026-03-02 11:30:24"
     },
     {
+      "title": "Black Oxen",
+      "year": 1923,
+      "medium": "Film",
+      "creator": "Frank Lloyd (Director), Gertrude Atherton (Novel)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Transhumanism, Memory",
+      "image_filename": "Black_Oxen_1923.jpg",
+      "pitch": "Black Oxen is a 1923 American silent fantasy/romantic drama film starring Corinne Griffith, directed by Frank Lloyd. Based on Gertrude Atherton's controversial best-selling novel, the film explores the theme of rejuvenation through a groundbreaking narrative about a woman who undergoes an experimental medical treatment to restore her youth and beauty. Described as \"subtle science fiction,\" the film takes its title from William Butler Yeats' poem: \"The years like great Black Oxen tread the world.\"\n\nThe story follows Madame Zatianny, a wealthy Austrian woman who has left her former life behind. After submitting to a medical treatment involving glandular therapy and X-ray surgery that restores her youth, she travels to the United States. Young playwright Lee Clavering meets the mysteriously youthful Madame Zatianny and falls in love with her beauty and grace. However, one of her former lovers, Prince Rohenhauer, arrives and convinces her that their relationship would be foolish. In the end, Madame Zatianny returns to Austria, and Lee finds happiness with the youthful Janet Oglethorpe.",
+      "truth": "The film opens with Madame Zatianny (Corinne Griffith) arriving in New York City after undergoing an experimental rejuvenation treatment in Austria. The procedure\u2014using glandular extracts and X-ray surgery\u2014has apparently restored her to youth and beauty, though she retains memories of her previous life.\n\nYoung playwright Lee Clavering (Conway Tearle) encounters the elegant Madame Zatianny at a social gathering and is immediately captivated by her poise and beauty. Despite the significant age gap\u2014he believes her to be young\u2014she does not correct his assumptions. Lee falls deeply in love with her.\n\nMeanwhile, Janet Oglethorpe (Clara Bow in an early role), a spirited flapper, is also in love with Lee but he remains oblivious to her affection. As Lee and Madame Zatianny plan to marry, her former lover Prince Rohenhauer (Alan Hale) arrives from Austria and reveals her true identity and past life.\n\nConvinced by the Prince that pursuing a relationship with Lee would be folly\u2014that she cannot escape her past and that their relationship would be built on deception\u2014Madame Zatianny breaks off her engagement with Lee and returns to Austria.\n\nIn the conclusion, Lee discovers happiness with Janet Oglethorpe as they ride away together in a taxicab, while Madame Zatianny returns to her former life, having sacrificed her chance at love to preserve the truth of her artificial youth.",
+      "core": "Black Oxen represents an early example of science fiction exploring the theme of life extension and the reversal of aging\u2014an idea that would become a staple of the genre. The film's treatment of rejuvenation through medical technology (glandular therapy and X-ray surgery) anticipates later concerns with biotechnology and transhumanism.\n\nThe film also explores themes of identity and deception\u2014Madame Zatianny lives a double life, passing as younger than she truly is while carrying the weight of her past. This tension between appearance and reality, between artificial youth and natural aging, speaks to broader questions about authenticity and selfhood.\n\nAs one of the earliest American films to combine science fiction elements with romantic drama, Black Oxen helped establish the genre's interest in using speculative premises to explore human relationships and societal values. The film's focus on a woman's agency\u2014her choice to sacrifice love to remain truthful\u2014also marks it as somewhat progressive for its era.\n\nThe collaboration between director Frank Lloyd and star Corinne Griffith produced a visually ambitious film that, despite being nearly a century old, remains notable for its imaginative premise and sophisticated treatment of timeless human concerns about mortality, identity, and the price of deception.",
+      "created_at": "2026-03-03 07:02:41"
+    },
+    {
       "title": "Blade Runner",
       "year": 1982,
       "medium": "Film",
@@ -7821,5 +7838,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 460
+  "count": 461
 }
