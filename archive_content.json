@@ -6138,6 +6138,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Man from Beyond",
+      "year": 1922,
+      "medium": "Film",
+      "creator": "Burton L. King",
+      "raw_score": 3.0,
+      "total_ratings": 50,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Time-Travel, Sentience",
+      "image_filename": null,
+      "pitch": "The Man from Beyond is a 1922 American silent mystery film starring Harry Houdini as Howard Hillary, a man found frozen in arctic ice who is brought back to life by a team of explorers. When Howard revives, scientist Dr. Gregory Sinclair decides not to tell him that he is 100 years behind the times, planning to study his reactions as he readjusts to civilization. The film takes an intriguing turn when Howard discovers that his lost love Felice has been reincarnated as a young woman in the present day\u2014creating a poignant tale of love that transcends death and time. Houdini wrote the story himself, and the film represents his attempt to reconcile with his friend Arthur Conan Doyle over their differing views on spiritualism\u2014Doyle was a fervent advocate of the supernatural while Houdini was its most famous critic.",
+      "truth": "The film opens with Dr. Gregory Sinclair and his fellow explorers discovering a man frozen solid in arctic ice. They chop him out and thaw him, bringing Howard Hillary back to life. Howard believes he is still in 1820, where he was a sailor on a ship that suffered a mutiny. He remembers trying to save the captain\u2014Felice's father\u2014when he received a blow to the head and froze.\n\nDr. Sinclair doesn't tell Howard the truth about the century that has passed. Instead, he brings Howard back to civilization to study his reactions. When they return to Sinclair's home, Howard learns that his ward's father, Dr. Crawford Strange, had set out to join the arctic expedition but was lost. It is the wedding day of Sinclair's ward, Felice Strange.\n\nWhen Howard sees Felice, he is stunned\u2014he calls out to her, begging her to recall their love from his past life. Felice shares Howard's memories through some supernatural connection; she is the reincarnation of his lost sweetheart from 1820. The wedding is postponed as Felice begins to remember her past life with Howard.\n\nMeanwhile, Dr. Gilbert Trent, a discarded suitor, has kidnapped Felice's father and is holding him in the cellar of his house. He plans to marry Felice and take her to the arctic. Howard and Sinclair discover a clue\u2014a hat with Dr. Strange's initials\u2014and rescue him. Felice is pursued by Trent's henchman, and Howard follows them to the edge of Niagara Falls. Howard swims the rapids, rescues Felice, and confronts Trent on a cliff where Trent falls to his death. Felice recognizes Howard as her true mate across time.\n\nThe film ends with the words \"You must believe\"\u2014a nod to Doyle's spiritualist beliefs.",
+      "core": "**Reincarnation and Memory:** The Man from Beyond explores the concept of reincarnation, with Felice being the reincarnation of Howard's lost love from 1820. The film suggests that love and memory can transcend death and time, connecting souls across generations.\n\n**Houdini and Spiritualism:** The film is notable in the context of Houdini's public disagreement with Arthur Conan Doyle over spiritualism. While Doyle believed deeply in the supernatural, Houdini made his career exposing fraudulent mediums. The Man from Beyond represents Houdini's attempt to find common ground\u2014he endorsed reincarnation as a concept while maintaining his skepticism about mediums claiming to contact the dead. Doyle praised the film, calling it \"one of the really great contributions to the screen.\"\n\n**Early Sci-Fi Themes:** The film touches on cryonics and suspended animation\u2014Howard is frozen for 100 years and revived, a concept that was groundbreaking in 1922 and remains relevant today. The \"frozen man revived\" premise is one of the earliest examples of cryonics in popular fiction.\n\n**Silent Era Spectacle:** The film delivers visual spectacle, including the opening scene of chopping a frozen man from ice and the dramatic Niagara Falls rescue sequence. Houdini performed all his own stunts, adding authenticity to the action sequences.",
+      "created_at": "2026-03-03 07:45:42"
+    },
+    {
       "title": "The Man from the First Century",
       "year": 1962,
       "medium": "Film",
@@ -7872,5 +7889,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 463
+  "count": 464
 }
