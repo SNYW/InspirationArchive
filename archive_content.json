@@ -7396,6 +7396,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Wing Commander",
+      "year": 1990,
+      "medium": "Video Game",
+      "creator": "Chris Roberts, Origin Systems",
+      "raw_score": 4.5,
+      "total_ratings": 350,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera, Military ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Wing_Commander_1990.jpg",
+      "pitch": "Wing Commander is the seminal space combat simulation that defined a genre and brought the epic scale of Star Wars-style space warfare to personal computers. Released in 1990 by Origin Systems, this groundbreaking game placed players in the cockpit of a fighter spacecraft during an interstellar war between humanity's Terran Confederation and the predatory Kilrathi alien empire. What set Wing Commander apart was its combination of cinematic presentation, branching narrative, and accessible flight mechanics\u2014creating an experience that felt like controlling your own science fiction film. The game was considered a major leap forward for space combat games, featuring graphics, audio, and a story campaign that invited comparison to the Star Wars films. It spawned one of the most successful franchises in gaming history and established many conventions that would define space combat games for decades to come.",
+      "truth": "Set in the year 2654, Wing Commander places players aboard the TCS Tiger's Claw, a Bengal-class Strike Carrier fighting against the Kilrathi\u2014a feline warrior race engaged in an interstellar war of conquest against humanity. Players take on the role of a nameless pilot who quickly rises through the ranks of the flight wing, completing missions and engaging enemy ships in dogfights across various planetary systems.\n\nThe game features a branching, open-ended campaign where player performance determines the narrative path. Succeeding at objectives results in medals, promotions, and progression to missions with better ships. Failing objectives leads to more difficult missions and piloting inferior ships. The mission tree is designed so players on the \"losing\" path could work their way back to the \"winning\" path, and conversely, players on the \"winning\" path could fail subsequent missions and fall into the losing path. This system gave players genuine agency over their story's outcome.\n\nThe Kilrathi are characterized as a proud warrior race, with their society and military culture deeply influenced by their feline nature. The game's narrative drew inspiration from Larry Niven's Known Space universe, particularly the Kzinti, as well as classic World War II combat narratives\u2014Chris Roberts famously described the conflict as \"World War II in space.\"\n\nTwo expansion packs, The Secret Missions and The Secret Missions 2: Crusade, added new missions, ships, and storylines. These expansions explored different facets of the war, including the discovery of devastating new weapons and the political complexities of allied alien species.",
+      "core": "**The Birth of the Space Opera Game:** Wing Commander essentially created the template for cinematic space combat games. Its success forced the entire industry to elevate production values, as larger budgets became necessary to compete. This had lasting effects on game development economics, pushing the industry toward more conservative risk-taking while simultaneously raising player expectations for narrative depth and presentation.\n\n**Narrative Innovation:** The game's branching campaign system was revolutionary for its time, offering players meaningful choices that affected their experience. This approach to reactive storytelling influenced countless games that followed, demonstrating that player agency and compelling narrative could coexist with action gameplay.\n\n**World-Building Excellence:** The Wing Commander universe featured detailed backstories for both human and Kilrathi cultures, with the in-game magazine \"Claw Marks\" providing pilot biographies, ship specifications, and lore. This attention to world-building transformed the game from a simple combat simulation into an immersive fictional universe that spawned novels, feature films, and multiple sequel games.\n\n**Industry Impact:** Wing Commander won Computer Gaming World's Overall Game of the Year award in 1991 and was named one of Time magazine's 100 greatest video games of all time. It directly inspired competing titles like LucasArts' X-Wing and helped establish space combat as a major gaming genre. The game's success demonstrated the commercial viability of narrative-driven games, influencing the trajectory of the entire medium.",
+      "created_at": "2026-03-03 02:18:18"
+    },
+    {
       "title": "Wizards",
       "year": 1977,
       "medium": "Animated Film",
@@ -7549,5 +7566,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 444
+  "count": 445
 }
