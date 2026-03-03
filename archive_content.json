@@ -7141,6 +7141,23 @@
       "created_at": "2026-02-28 19:29:30"
     },
     {
+      "title": "UFO: Enemy Unknown",
+      "year": 1994,
+      "medium": "Video Game",
+      "creator": "Julian Gollop / Mythos Games / MicroProse",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Military, Hard-SF ,",
+      "topics": "Aliens, Rebellion, Isolation",
+      "image_filename": "UFO_Enemy_Unknown_1994.jpg",
+      "pitch": "UFO: Enemy Unknown (also known as X-COM: UFO Defense) is a groundbreaking turn-based strategy video game that defined the alien invasion genre in gaming. Released in 1994 by MicroProse, players take command of X-COM (Extraterrestrial Combat), a secret international organization tasked with defending Earth from alien invasions. The game combines tactical ground combat with resource management and research elements, creating a tense, strategic experience where every decision matters. Players must intercept UFOs, investigate crash sites, capture aliens for research, and develop new weapons and technology to face increasingly sophisticated extraterrestrial threats. The game's difficulty, depth, and atmosphere created a cult classic that influenced countless subsequent strategy and tactics games.",
+      "truth": "Set in 1999, UFO: Enemy Unknown begins when extraterrestrial vessels begin appearing in Earth's skies. A coalition of nations forms X-COM (Extraterrestrial Combat), a clandestine organization tasked with countering the alien threat. As the commander, players oversee all aspects of X-COM operations from a strategic global view.\n\nThe game unfolds in real-time across a geopolitical map where UFO sightings and attacks occur randomly worldwide. Players must allocate resources, maintain funding from the council of nations, and respond to incidents. When a UFO is detected, players deploy interceptors to shoot it down or follow it to learn about alien bases.\n\nGround combat takes place on destructible terrain where players deploy squad members to eliminate aliens and capture specimens. Combat is turn-based, with each unit having limited actions per turn. The tactical depth comes from managing squad positioning, ammunition, and the unique abilities of different alien types. Early encounters are deadly, forcing players to learn through costly trial and error.\n\nResearch and manufacturing form the third pillar. Captured alien technology reverse-engineered into advanced weapons, armor, and craft. Players must balance immediate tactical needs against long-term strategic advantages. The game's progression hinges on efficiently using limited resources to survive the initial alien superiority and eventually turn the tide.\n\nThe alien factions include the Sectoids (telekinetic greys), Snakemen (reptilian soldiers), Mutons (armored warriors), and Chrysallids (biological terror weapons). Each type requires different tactical approaches. As players advance, they face larger invasions and more challenging missions, culminating in assaults on alien bases to ultimately defeat the invasion.",
+      "core": "**Alien Invasion as Global Crisis:** The game pioneered the concept of a unified Earth response to extraterrestrial threat. Unlike previous alien invasion narratives focused on individual heroes, X-COM treats invasion as a systemic, geopolitical challenge requiring international cooperation and resource allocation. This reflects Cold War anxieties about global annihilation and the need for collective security.\n\n**Technology and Human Adaptation:** The core gameplay loop revolves around reverse-engineering alien technology to create human equivalents. This theme of technological adaptation and catch-up mirrors real-world concerns about technological advancement and military capability gaps. Players experience the tension between using alien tech (efficient but risky) and developing human alternatives (slower but more controllable).\n\n**Squad-Level Tactics and Casualty:** X-COM's brutal difficulty and permanent character death created emotional investment in soldiers. The game's approach to squad tactics\u2014positioning, covering fire, fear mechanics\u2014influenced the tactical RPG genre. Each mission carries weight because soldiers don't respawn, reflecting the gravity of actual combat.\n\n**Resource Management Under Pressure:** Players balance multiple competing priorities: funding vs. research, short-term survival vs. long-term capability, global coverage vs. concentrated response. This mirrors real strategic decision-making under resource constraints, reflecting themes of triage and prioritization in crisis situations.\n\n**The Unknown and Tension:** The game masterfully builds tension through information asymmetry. Aliens remain mysterious initially, their capabilities unknown. This horror-of-the-unknown element creates dread with each new encounter, making exploration as frightening as combat.\n\nUFO: Enemy Unknown remains influential for pioneering the turn-based tactical genre, creating a blueprint for alien invasion games, and demonstrating how video games could deliver sophisticated strategic narratives about humanity's response to existential threats.",
+      "created_at": "2026-03-03 01:20:41"
+    },
+    {
       "title": "Universal War One",
       "year": 2008,
       "medium": "Graphic Novel",
@@ -7498,5 +7515,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 441
+  "count": 442
 }
