@@ -5220,6 +5220,23 @@
       "created_at": "2026-02-28 07:31:49"
     },
     {
+      "title": "The Adventures of Pirx",
+      "year": 1973,
+      "medium": "TV Series",
+      "creator": "Istv\u00e1n Kazan, Andr\u00e1s Rajnai",
+      "raw_score": 2.4,
+      "total_ratings": 135,
+      "origin": "Hungary ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF, Space-Opera ,",
+      "topics": "Exploration, Isolation, Sentience",
+      "image_filename": null,
+      "pitch": "The Adventures of Pirx is a Hungarian television mini-series from 1973, based on the acclaimed science fiction short story collection \"Tales of Pirx the Pilot\" by Polish author Stanis\u0142aw Lem. Produced by Magyar Telev\u00edzi\u00f3, this five-episode series follows Pirx, a space pilot trainee and eventual astronaut, through a series of increasingly strange missions and encounters. The series stands as one of the most unique Eastern Bloc adaptations of Lem's work, offering a distinctive take on his philosophical science fiction.\n\nEach episode presents a different adventure: Pirx's space flight exam that turns out to be a simulation, a mysterious investigation at a lunar station, a weekend on Mars, a crisis involving a damaged reactor, and an inquest into unusual space incidents. Unlike typical space adventure fare, the series emphasizes problem-solving, psychological tension, and the small human dramas within the vastness of space.",
+      "truth": "The series consists of five episodes, each loosely adapted from different stories in Lem's Pirx collection. In \"The Diploma Exam,\" Pirx undergoes what appears to be his final space flight examination, only to discover the entire test was a simulated scenario designed to evaluate his decision-making under pressure. The second episode, \"The Mystery of the Galileo Station,\" finds Pirx investigating a series of tragic accidents at a Moon base, where he must piece together clues in a tense psychological mystery.\n\n\"Weekend on Mars\" offers a lighter tale as Pirx enjoys leave on the Red Planet, while \"Terminus, the Crown Witness\" involves him in a complex situation around evidence and testimony. The final episode, \"Action at 127:25,\" is based on \"The Inquest\" and deals with the aftermath of an incident in space.\n\nThe series is notable for its low-budget production, which has become part of its charm\u2014homemade props like lemon squeezers and matchboxes stood in for space station equipment, creating an endearingly amateurish aesthetic. Despite (or because of) these limitations, the series captures Lem's distinctive blend of intellectual curiosity and cosmic mystery.",
+      "core": "**Adaptation Philosophy:** This Hungarian adaptation differs significantly from Lem's source material. While the original Pirx tales featured a shy, emotionally reserved protagonist with virtually no romantic subplots, the Hungarian version introduced Gl\u00f3ria, a budding journalist who serves as a love interest throughout the series. This creative departure reflects the production team's desire to humanize the material for television audiences.\n\n**The Amateur Aesthetic:** Critics have noted that the production's obvious budget constraints inadvertently create a unique atmosphere\u2014the \"green pot with three skimmers\" pretending to be a space station has become iconic among fans of cult science fiction. This DIY approach gives the series a charm that distinguishes it from more polished but less memorable productions.\n\n**Lem's Influence:** Stanislaw Lem's Pirx stories are considered precursors to later astronaut narratives, emphasizing the psychological challenges of space travel rather than action or technological spectacle. The Hungarian adaptation, despite its liberties, preserves this cerebral approach, focusing on Pirx's problem-solving abilities and his growth as a space explorer.\n\n**Cultural Significance:** As one of the lesser-known adaptations of Lem's work, \"The Adventures of Pirx\" represents the Eastern Bloc's engagement with science fiction during the Cold War era. It stands as a testament to the universal appeal of Lem's ideas, adapted for Hungarian television with limited resources but considerable creativity.",
+      "created_at": "2026-03-03 23:01:13"
+    },
+    {
       "title": "The Adventures of the Galaxy Rangers",
       "year": 1986,
       "medium": "TV Series",
@@ -8773,5 +8790,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 516
+  "count": 517
 }
