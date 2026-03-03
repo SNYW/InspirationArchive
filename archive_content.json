@@ -2959,6 +2959,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Neptune Frost",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "Saul Williams, Anisia Uzeyman",
+      "raw_score": 3.8,
+      "total_ratings": 84,
+      "origin": "Multinational ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Rebellion, Ecology, Technology",
+      "image_filename": "Neptune_Frost_2021.jpg",
+      "pitch": "Neptune Frost is a 2021 Afrofuturist science fiction musical co-directed by poet Saul Williams and filmmaker Anisia Uzeyman. Set in a post-civil war Burundi that spans past, future, and present, the film tells the story of Neptune, an intersex runaway, and Matalusa, a coltan miner, whose forbidden love sparks a hacker revolution against the global tech powers that control the world's resources. Produced with Ezra Miller as lead producer and Lin-Manuel Miranda as executive producer, the film premiered at the 2021 Cannes Film Festival in the Directors Fortnight section and received critical acclaim for its unique blend of science fiction, romance, and musical elements.\n\nThe film presents a vision of Africa that rejects colonial narratives, instead imagining a future built from e-waste where Black joy, resistance, and\u6280\u672f\u521b\u65b0 coexist. The story follows Neptune's journey as they discover technokinetic abilities that allow them to spread ideas and philosophies across the world through digital hacks, while Matalusa witnesses his brother die from the toxic effects of coltan mining and begins his own hero's journey toward the \"Unanimous Goldmine\" - a secret community of rebels.",
+      "truth": "The film opens in the coltan mines of Burundi, where Matalusa (Bertrand \"Kaya Free\" Ninteretse) and his brother Tekno labor to extract the precious mineral used in electronics. When Tekno dies from the devastating power of coltan exposure, Matalusa embarks on a journey across the war-torn landscape, driven by visions sent by a mysterious future entity.\n\nMeanwhile, Neptune (Cheryl Isheja / Elvis Ngabo) is an intersex runaway attending their aunt's funeral in another village. There, they join in communal singing to express grief, and begins their own journey after the funeral. Neptune possesses a unique ability - technokinesis - that allows them to interface with technology in extraordinary ways.\n\nThe two lovers' paths converge through visions sent by their future child, drawing them together as they each travel across the country. They eventually find the \"Unanimous Goldmine\" - a hidden community built from discarded computer parts, populated by young rebels who have rejected the digital colonization of their homeland.\n\nThis community, led by Memory (Eliane Umuhire), operates outside the control of global tech powers. Neptune's technokinetic abilities allow them to spread their revolutionary ideas and creed across the world through a series of hacks. When their virus spreads uncontrollably, world powers blame Russia and China, unaware of its true origin in Burundi.\n\nThe film reaches its climax when Memory's brother Innocent, disguised as police, stumbles upon the Unanimous Goldmine. Though Memory urges peace, a drone follows him back to the community, which is destroyed in a military explosion. Neptune, away at the time, survives as the sole survivor and ultimately projects their existence to the world in a powerful final revelation.",
+      "core": "**Afrofuturism and African Futures:** Neptune Frost represents a bold reimagining of African futures that rejects the typically dystopian Western visions of the continent. Instead, director Saul Williams and co-director Anisia Uzeyman create a world where African communities build their own technological futures from e-waste, where traditional music and spirituality merge with sci-fi aesthetics, and where Black bodies are sites of joy, resistance, and transformation rather than suffering alone. The film asks what technology might look like if designed by and for African communities.\n\n**Digital Colonization and Resource Extraction:** The film directly addresses the modern colonial structure of technology - how coltan mining in the Congo and Burundi funds the global electronics industry while poisoning local communities. The \"Unanimous Goldmine\" community represents a rejection of this extraction, building computers from e-waste and creating alternative networks outside corporate control. Neptune's hacks become a form of technological anti-colonial resistance.\n\n**Gender and Identity:** Neptune's portrayal as an intersex protagonist is revolutionary in mainstream cinema. Rather than framing intersex identity as tragedy or confusion, the film presents it as a source of power - Neptune's technokinetic abilities seem connected to their unique embodiment. The film's approach to gender challenges binary frameworks and suggests that futures must be inclusive of diverse bodies and identities.\n\n**Technology and Humanity:** The film explores how technology might serve human connection rather than control. The \"Unanimous Goldmine\" represents a hacker collective using tech for liberation, while the corporate world uses it for exploitation. Neptune's journey shows technology as a tool that can either amplify oppression or enable resistance - the choice depends on who controls it.\n\nNeptune Frost stands as a landmark in Afrofuturist cinema, offering a vision of technological possibility that centers African voices and imagines revolution through love, music, and collective action.",
+      "created_at": "2026-03-03 03:33:28"
+    },
+    {
       "title": "Network Effect",
       "year": 2020,
       "medium": "Novel",
@@ -7634,5 +7651,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 449
+  "count": 450
 }
