@@ -256,6 +256,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "A Trip to the Moon",
+      "year": 1902,
+      "medium": "Film",
+      "creator": "Georges M\u00e9li\u00e8s",
+      "raw_score": 4.05,
+      "total_ratings": 60000,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "A_Trip_to_the_Moon_1902.jpg",
+      "pitch": "A Trip to the Moon is a pioneering 1902 French silent film that revolutionized the science fiction genre and established many conventions that would define the genre for decades to come. Directed by Georges M\u00e9li\u00e8s, a magician-turned-filmmaker, the film adapts elements from Jules Verne's novels \"From the Earth to the Moon\" and \"Around the Moon\" as well as H.G. Wells' \"The First Men in the Moon.\" The film follows a group of astronomers who travel to the Moon in a cannon-propelled capsule, explore its surface, encounter alien Selenites, and ultimately return to Earth with a captive alien. At just 14-18 minutes in length, the film packs an incredible amount of imaginative storytelling and groundbreaking visual effects into a compact runtime, establishing M\u00e9li\u00e8s as one of cinema's first great auteurs.",
+      "truth": "The film opens at a meeting of astronomers where Professor Barbenfouillis proposes an expedition to the Moon. Six astronomers agree to join the adventure, constructing a space capsule shaped like a bullet and building a massive cannon to launch it. After being fired from the cannon, the capsule travels through space and lands in the Moon's eye\u2014an instantly iconic image that has become one of the most recognizable moments in film history.\n\nLanding safely on the lunar surface without space suits or breathing apparatus, the astronomers explore the Moon and eventually fall asleep. They experience surreal visions including a comet, the Big Dipper with human faces, Saturn peering from his ringed planet, and Phoebe, goddess of the Moon. They awaken to find themselves in a cavern filled with giant mushrooms, and when one astronomer opens an umbrella, it takes root and transforms into a giant mushroom.\n\nThe astronomers encounter the Selenites, insectoid alien inhabitants of the Moon. After killing one Selenite (which explodes upon impact), they are soon surrounded and captured. They are taken to the palace of the Selenite King, where one astronomer seizes the King and throws him to the ground, causing him to explode. The astronomers flee back to their capsule, with five managing to get inside. Professor Barbenfouillis uses a rope to tip the capsule off the lunar ledge and into space. A Selenite tries to seize the capsule at the last moment but fails.\n\nThe capsule, along with the stowaway Selenite, falls through space and lands in an ocean on Earth, where they are rescued by a ship and towed ashore. The final sequence depicts a celebratory parade in honor of the travelers' return, including a display of the captive Selenite and the unveiling of a commemorative statue.",
+      "core": "**Birth of Science Fiction Cinema:** A Trip to the Moon is widely considered the first science fiction film ever made, establishing the genre in cinema. M\u00e9li\u00e8s created innovative special effects using stop motion, multiple exposures, and pyrotechnics that were groundbreaking for his time. The film's success established the viability of science fiction as a cinematic subject and inspired generations of filmmakers.\n\n**Influence on the Genre:** The film established many tropes that would become staples of science fiction: space travel, alien encounters, lunar exploration, and the \"return with the alien\" narrative. The image of the capsule landing in the Moon's eye has been endlessly referenced and parodied, including in films like \"France's entry for Best Foreign Language Film at the 2012 Academy Awards\" and countless homages in popular culture.\n\n**M\u00e9li\u00e8s as Auteur:** M\u00e9li\u00e8s was one of cinema's first filmmakers to recognize its potential for narrative and fantastical storytelling. He wrote, directed, produced, designed, and often acted in his films, making him one of the first true auteurs in film history. His background as a magician influenced his theatrical approach to filmmaking, with elaborate sets, costumes, and the sense of wonder that characterized his work.\n\n**Restoration and Rediscovery:** After falling into obscurity following M\u00e9li\u00e8s' retirement, the film was rediscovered around 1930. An original hand-colored print was discovered in 1993 and restored in 2011, allowing modern audiences to experience the film as M\u00e9li\u00e8s intended. The film was ranked 84th among the 100 greatest films of the 20th century by The Village Voice.\n\n**Technical Innovation:** The film's trick photography techniques were revolutionary for 1902. M\u00e9li\u00e8s used innovative methods including multiple exposures, split screens, and stop-motion photography to create effects that captivated early audiences. His Star Film Company produced and distributed the film, with M\u00e9li\u00e8s personally hand-painting the original prints\u2014a labor-intensive process that added to the film's magical quality.",
+      "created_at": "2026-03-03 14:21:39"
+    },
+    {
       "title": "A World Out of Time",
       "year": 1976,
       "medium": "Novel",
@@ -8280,5 +8297,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 487
+  "count": 488
 }
