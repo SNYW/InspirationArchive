@@ -5815,6 +5815,23 @@
       "created_at": "2026-03-02 19:15:18"
     },
     {
+      "title": "The Fabulous World of Jules Verne",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.75,
+      "total_ratings": 3100,
+      "origin": "Czechoslovakia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy, Adventure ,",
+      "topics": "Exploration",
+      "image_filename": "The_Fabulous_World_of_Jules_Verne_1958.jpg",
+      "pitch": "The Fabulous World of Jules Verne (original Czech title: Vyn\u00e1lez zk\u00e1zy, \"Invention for Destruction\") is a 1958 Czechoslovak science fiction adventure film directed by Karel Zeman. Based primarily on Jules Verne's 1896 novel \"Facing the Flag,\" the film tells the story of a team of pirates who kidnap a scientist and his assistant to obtain the secret of a futuristic weapon intended for world domination. The film is renowned for its unique visual style that faithfully recreates the Victorian line engravings from original editions of Verne's novels, combining live actors with various forms of animation including traditional, cut-out, and stop-motion techniques. It is considered the most successful Czech film ever made and was distributed worldwide, including a North American release by Warner Bros. in 1961.",
+      "truth": "The film opens with Professor Roch, an elderly scientist, demonstrating his revolutionary new weapon\u2014a powerful device that could shift the balance of global power\u2014to his assistant Simon Hart aboard a train. However, they are intercepted by the villainous Count Artigas and his gang of pirates, who have been hired by mysterious international interests to acquire the weapon.\n\nSimon manages to escape, but Professor Roch is captured and taken to an island base hidden within a volcano. There, the Count forces the professor to complete his weapon while Simon teams up with the crew of a sympathetic ship, the Amelie, to mount a rescue mission. The adventure takes them undersea, where they encounter giant octopuses and explore the wonders of the deep\u2014homages to Verne's \"Twenty Thousand Leagues Under the Seas.\"\n\nThroughout their journey, Simon and his allies face numerous perils: underwater battles, narrow escapes from the volcanic island, and confrontations with the Count's forces. The film builds toward a climax where Simon must stop the weapon from being used for world domination. The resolution involves both courage and the power of human ingenuity, themes central to Verne's optimistic view of science and progress.",
+      "core": "The Fabulous World of Jules Verne stands as a remarkable tribute to both Verne's literary vision and the pioneering cinema of Georges M\u00e9li\u00e8s. Zeman's revolutionary technique of integrating live-action with animation and special effects created a visual style unlike anything seen in Western cinema at the time. The film's distinctive look\u2014using hard rubber paint rollers to create engraving-like hatching on scenery and costumes\u2014achieved what Zeman described as capturing \"the romantically fantastic adventure spirit\" of Verne's original illustrations.\n\nThe film treats Verne's scientific themes with what critics describe as \"gently satiric affection,\" praising the author's technological imagination while deliberately pointing up the quaintness of Victorian-era science. Yet beneath the playful homage lies a deeper meditation on the responsible use of technology. The weapon at the film's center represents scientific power that can be wielded for destruction or protection\u2014a theme that resonated powerfully during the Cold War era.\n\nZeman's direction intentionally had actors move in a \"decorously stylized fashion,\" with heroes forbidden from natural gestures like sneezing or scratching their heads\u2014each movement adapted to fit the film's unreal, engraving-like surroundings. This creates a dreamlike atmosphere where reality and illustration blur.\n\nThe film won numerous international awards, including the Grand Prix at Expo 58 in Brussels, and remains a landmark in Czech cinema history. Its influence extends to modern filmmakers, with Steven Spielberg citing it as a work of high quality. In 2010, the Czech Ministry of Foreign Affairs estimated it as the most successful film in the history of Czech cinema.",
+      "created_at": "2026-03-03 18:16:56"
+    },
+    {
       "title": "The Falconeer",
       "year": 2020,
       "medium": "Video Game",
@@ -8518,5 +8535,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 501
+  "count": 502
 }
