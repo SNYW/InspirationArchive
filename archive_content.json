@@ -936,6 +936,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Bio Booster Armor Guyver",
+      "year": 1985,
+      "medium": "Manga",
+      "creator": "Yoshiki Takaya",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk, Biopunk ,",
+      "topics": "Transhumanism, Cybernetics, Rebellion",
+      "image_filename": "Bio_Booster_Armor_Guyver_1985.jpg",
+      "pitch": "Bio Booster Armor Guyver is a Japanese manga series that began serialization in 1985, creating a influential entry in the cyberpunk and biopunk genres. The story centers on Sho Fukamachi, a high school student who accidentally becomes the host of a powerful techno-organic device called the Guyver Unit. This symbiotic armor transforms into the powerful being him known as Guyver I, granting him incredible strength, speed, and regenerative abilities while attaching permanently to his body.\n\nThe series stands out for its intense action sequences and complex mythology surrounding the Cronos Corporation, a mysterious organization that created the Guyver units and various genetically enhanced soldiers called Zoanoids. As Sho learns to control his new powers, he must protect his friends and family from Cronos agents who constantly pursue him to reclaim the Guyver unit. The manga explores themes of identity, power, responsibility, and what it means to be human when technology becomes deeply integrated into the body.",
+      "truth": "The story begins when a test type Zoanoid escapes from the Cronos Corporation with three Guyver Units. During the pursuit through a forest, the test type detonates a bomb, scattering the Guyver units. One unit lands near Sho Fukamachi and his friend Tetsuro Segawa, while another is retrieved by Cronos and merges with Oswald A. Lisker to become the second Guyver. The third unit later merges with Agito Makishima, who becomes Guyver III.\n\nSho accidentally activates his unit, which painfully merges with him, transforming him into Guyver I. Unlike other hosts who were unwilling recipients, Sho's activation was accidental but permanent. Over time, he learns that the Guyver armor is virtually indestructible, with only one weak point: the Control Metal. As long as this remains intact, the Guyver can rebuild its host from stored data, but if critically damaged, the host will be consumed by the unit.\n\nCronos, led by the ruthless Dr. Ezra, continues sending increasingly powerful Zoanoids to retrieve the Guyver units. Sho must fight to protect his friends while discovering the dark truth about Cronos's plans for world domination. The organization eventually succeeds in taking over the world, labeling the Guyvers as \"vanguards of alien invaders\" to the public. Agito Makishima leads a resistance group called \"Zeus' Thunderbolts\" against Cronos, with Sho eventually joining the fight.\n\nThroughout the series, the characters face difficult choices about loyalty, power, and humanity. The Guyver units themselves raise questions about identity\u2014if a machine becomes part of your body and mind, are you still fully human?",
+      "core": "**Transhumanism and Body Integrity:** The Guyver transformation raises fundamental questions about what makes us human. Sho's body is permanently modified by technology that enhances every aspect of his physical and mental capabilities, but at the cost of his original human form. The series explores whether someone with such extensive modifications can still be considered human, and whether the benefits of enhancement justify the loss of one's \"natural\" self.\n\n**Corporate Power and Ethics:** Cronos Corporation represents unchecked corporate power pursuing scientific advancement without ethical constraints. Their experiments in genetic modification and creating super-soldiers mirror real-world debates about biotechnology, genetic engineering, and the responsibilities of corporations developing powerful new technologies.\n\n**Friendship and Loyalty:** The bonds between Sho, Tetsuro, and Mizuki drive much of the emotional core of the series. Their willingness to risk everything for each other provides human warmth amid the high-tech action, grounding the fantastical elements in relatable emotional stakes.\n\n**Power and Responsibility:** As Sho grows more powerful, he must grapple with how to use his abilities. The series shows both the temptation of absolute power and the burden of having the ability to help but facing overwhelming enemies.\n\nBio Booster Armor Guyver remains significant as a pioneering work in the biopunk genre, predating and influencing many later cyberpunk works with its focus on biological enhancement and body modification. Its blend of intense action, complex characters, and thoughtful exploration of transhumanist themes has earned it a dedicated following since its debut in 1985.",
+      "created_at": "2026-03-03 13:17:58"
+    },
+    {
       "title": "Bio Hunter",
       "year": 1995,
       "medium": "OVA",
@@ -8212,5 +8229,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 483
+  "count": 484
 }
