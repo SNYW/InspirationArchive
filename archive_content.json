@@ -4098,6 +4098,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Seoul Station",
+      "year": 2016,
+      "medium": "Animated Film",
+      "creator": "Yeon Sang-ho",
+      "raw_score": 3.05,
+      "total_ratings": 8700,
+      "origin": "South-Korea ,",
+      "mood": "Tense ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Pandemic",
+      "image_filename": "Seoul Station_2016.jpg",
+      "pitch": "Seoul Station is a 2016 South Korean adult animated post-apocalyptic zombie horror film and the prequel to the acclaimed Train to Busan. Directed by Yeon Sang-ho (the mastermind behind the Train to Busan franchise), this film explores the onset of a zombie outbreak that spreads through Seoul's busiest transit hub. The story centers on Hye-sun, a young woman who escaped a brothel and now struggles to survive with her boyfriend Ki-woong, and Suk-gyu, her father searching for her\u2014all set against the chaotic first hours of the epidemic. The film earned the Best Animated Feature Film award at the 10th Asian Pacific Screen Awards in 2016.\n\nThe animation depicts the rapid collapse of social order as the infection spreads through crowds of commuters, drawing unflinching parallels to real-world crises like the 2015 MERS outbreak in South Korea. Yeon Sang-ho uses the animated medium to deliver graphic violence that would be difficult to achieve in live-action, creating visceral horror sequences set against the familiar backdrop of Seoul's subway system.",
+      "truth": "The film opens with a homeless man with a bloody wound on his neck wandering through Seoul Station. When he dies and reanimates as a zombie, the infection spreads rapidly through the area. Meanwhile, Hye-sun has left her life as a prostitute and now lives with her boyfriend Ki-woong, who is struggling financially and considers pimping her out again. After a heated argument, they separate just as the chaos erupts.\n\nHye-sun escapes with survivors into a police station, while her supposed father Suk-gyu arrives searching for her with help from Ki-woong. As they make their way through the city, they discover that the authorities are mishandling the crisis\u2014mistaking the zombie outbreak for an insurrection and using military force against survivors. The film culminates in a brutal twist: Suk-gyu was not Hye-sun's father but her former pimp who had been searching for her because she stole back money he was keeping for her. When Hye-sun is scratched by a zombie, she dies before the climax, and Suk-gyu meets his end as she reanimates and attacks him.",
+      "core": "**Social Commentary on Marginalization:** The film sharply critiques the treatment of society's most vulnerable\u2014the homeless, sex workers, and the poor\u2014as disposable. The opening sequence explicitly contrasts the plight of the homeless man with the indifference of authorities, and Hye-sun's backstory as a runaway prostitute foregrounds how society fails those at the margins. The zombie outbreak serves as an allegory for how epidemics expose and amplify existing inequalities.\n\n**Critique of Authority:** Yeon Sang-ho delivers pointed criticism of institutional failures. The police and military response to the outbreak\u2014treating it as a civil insurrection rather than a health crisis\u2014mirrors real-world mismanagement of emergencies. This theme was even more pronounced in the original theatrical cut, which featured even more explicit political commentary (later softened for international release).\n\n**Animation as Vehicle for Horror:** By choosing animation, Yeon Sang-ho could depict extreme gore and violence without the constraints of practical effects or rating concerns. The film pushed boundaries for animated horror, proving that animation could serve adult horror narratives just as effectively as live-action\u2014paving the way for subsequent animated horror projects.\n\n**Connection to Train to Busan:** While Train to Busan focused on hope, sacrifice, and human connection during crisis, Seoul Station offers a bleaker counterpoint. Where the former follows decent people trying to protect each other, the latter emphasizes betrayal, exploitation, and the failure of systems meant to protect citizens. The two films together form a complete picture of how society collapses and who survives.",
+      "created_at": "2026-03-03 10:16:12"
+    },
+    {
       "title": "Serial Experiments Lain",
       "year": 1998,
       "medium": "Anime",
@@ -8008,5 +8025,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 471
+  "count": 472
 }
