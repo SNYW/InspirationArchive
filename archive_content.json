@@ -4659,6 +4659,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Star Raiders II",
+      "year": 1986,
+      "medium": "Video Game",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera, Military ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Star_Raiders_II_1986.jpg",
+      "pitch": "Star Raiders II is a space combat simulator released in 1986 for Atari 8-bit computers, developed by Atari Corporation as a sequel to the classic 1979 title Star Raiders. Originally conceived as a tie-in with the film The Last Starfighter, the game was eventually converted into a standalone sequel when the licensing fell through. The player takes command of a Gunstar spacecraft to defend the Rylan Star League against the invading Ko-Dan armada in a desperate fight across multiple star systems.\n\nThe game combines tactical space combat with strategic resource management. Players must patrol star systems, intercept enemy fleets attempting to breach the Frontier defensive network, and launch attacks on the Ko-Dan's industrial base in their home system. Success requires careful management of ship energy and hull integrity, as well as strategic decisions about where to deploy limited resources across vast distances of space.",
+      "truth": "The player begins in orbit above the planet Rylos, the capital of the Rylan Star League, under attack by Ko-Dan fighters. After defeating the initial assault, the player gains access to a solar system map showing all planets, the Frontier defensive field, and any approaching enemy fleets. Using this tactical overview, players must warp between locations to engage enemies, defend planets, and eventually launch offensives into Ko-Dan space.",
+      "core": "Star Raiders II represents an important artifact in the evolution of space combat games, bridging the gap between early text-based space sims like Star Trek and later graphical masterpieces. Its development history\u2014with the abandoned Last Starfighter tie-in and the subsequent conversion to a Star Raiders sequel\u2014provides fascinating insight into the gaming industry's relationship with film licensing in the 1980s.\n\nThe game emphasizes tactical thinking over reflex-based action, requiring players to analyze fleet movements, prioritize targets, and manage scarce resources across multiple star systems. This cerebral approach to space combat influenced subsequent entries in the genre and demonstrates Atari's commitment to strategy-oriented gaming experiences during a period dominated by arcade-style action titles.\n\nThe title also marks a transitional moment in Atari's history, released during the company's post-1983 crisis period. Star Raiders II stands as a testament to the company's technical capabilities and design philosophy, offering players a complex, challenging space simulation that rewards careful planning over twitch reflexes.",
+      "created_at": "2026-03-03 16:16:14"
+    },
+    {
       "title": "Star Wreck: In the Pirkinning",
       "year": 2005,
       "medium": "Film",
@@ -8382,5 +8399,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 493
+  "count": 494
 }
