@@ -1497,6 +1497,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Elaan",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "K. Ramanlal",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Technology",
+      "image_filename": "Elaan_1971.jpg",
+      "pitch": "Elaan is a 1971 Bollywood science fiction thriller that tells the story of Naresh Kumar Saxena, a freelance photographer and journalist who stumbles upon a dangerous criminal operation on a remote island. While investigating illegal activities for a newspaper editor, Naresh is captured and imprisoned alongside a dying scientist who reveals a groundbreaking invention\u2014an atomic ring that renders its wearer invisible. After the scientist succumbs to his injuries, Naresh uses the ring to escape and finds himself caught in a dangerous game with a criminal underworld determined to recover the device at any cost. Joined by his friend Shyam and later by Mala Mehta\u2014a woman seeking revenge for her father's murder\u2014Naresh must use his newfound invisibility to bring the criminals to justice.",
+      "truth": "The film opens with Naresh Kumar Saxena working as a freelance photographer and journalist in Bombay. He is hired by Mr. Mehta, the editor of a newspaper, to investigate suspicious activities on a remote island. Naresh travels to the island with his friend Shyam, where they discover a criminal gang run by a mysterious Boss and his accomplice Mr. Verma.\n\nDuring their investigation, Naresh and Shyam are captured and imprisoned. In their cell, they meet a dying nuclear scientist who confides in Naresh about his invention\u2014an atomic ring that, when placed in someone's mouth, renders them completely invisible. The scientist dies before revealing more, but Naresh takes the ring and uses it to escape by removing his clothes and becoming invisible.\n\nNews of Naresh's escape spreads through the underworld, and the Boss and Mr. Verma dispatch their henchmen Ram Singh and Lily to Bombay to find and kill Naresh and recover the ring. Naresh and Shyam are placed under police protection, but the criminals murder Mr. Mehta in retaliation. Mala Mehta, the editor's daughter, decides to join the Central Bureau of Investigation (CBI) to seek revenge for her father's death.\n\nNaresh, Shyam, and Mala work together to infiltrate the criminal operation. Through a newspaper advertisement for a club, they identify Lily and go undercover to gather evidence. The rest of the film follows their struggle against the Boss, Verma, Ram Singh, and their gang, with Naresh using the invisibility ring strategically to outwit the criminals and bring the syndicate down.",
+      "core": "Elaan represents an early example of Bollywood's engagement with science fiction themes, specifically the concept of invisibility\u2014a staple of sci-fi that predates the film in Western cinema but was relatively novel for Indian films in the 1970s. The film's fusion of the thriller genre with sci-fi elements demonstrates Bollywood's willingness to experiment with hybrid genres during this era.\n\nThe atomic ring serves as both a plot device and a symbol of the power of technology in the hands of ordinary people. Unlike many sci-fi films where advanced technology is controlled by villainous forces, Elaan places its transformative device with an amateur journalist, suggesting that individual agency and morality determine how technology is used. Naresh uses his powers not for personal gain but to serve justice\u2014a classic Bollywood hero narrative that integrates seamlessly with the sci-fi premise.\n\nThe film also reflects 1970s Bollywood's fascination with crime thrillers and the theme of the underdog taking on organized crime. The invisibility device simply adds a unique twist to this familiar formula. The supporting characters\u2014Mala's transformation from grief-stricken daughter to determined CBI agent, Shyam's loyal friendship\u2014provide emotional anchors within the sci-fi thriller framework.\n\nWhile Elaan may not be as celebrated as later Indian sci-fi films like Koi... Mil Gaya or Enthiran, it stands as a noteworthy precursor that attempted to bring science fiction concepts to Hindi cinema audiences in the early 1970s.",
+      "created_at": "2026-03-03 06:02:24"
+    },
+    {
       "title": "Electronic Man 337",
       "year": 1977,
       "medium": "Animated Film",
@@ -7787,5 +7804,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 458
+  "count": 459
 }
