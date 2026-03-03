@@ -4574,6 +4574,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Starcrash",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Luigi Cozzi (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Italy ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Starcrash_1978.jpg",
+      "pitch": "Starcrash is a 1978 Italian-American space opera film that has achieved cult classic status despite initially receiving negative reviews. Directed by Luigi Cozzi and featuring a score by legendary composer John Barry, the film was created as a direct response to the unprecedented success of Star Wars. Filmed at Rome's Cinecitt\u00e0 studios, it follows smuggler Stella Star and her mentor Akton as they are recruited by the Emperor of the Galaxy to find a secret weapon and rescue the Emperor's son from the evil Count Zarth Arn. The film is known for its lavish production design, colorful costumes, and cheesily spectacular special effects that have made it a beloved entry in the \"so bad it's good\" canon.",
+      "truth": "In a distant galaxy, the starship Avalon searches for the evil Count Zarth Arn. When the ship is attacked by a mysterious weapon that drives the crew insane, three escape pods launch but the ship crashes into a planet's atmosphere and is destroyed.\n\nMeanwhile, smugglers Stella Star and Akton flee from Imperial Space Police led by robot sheriff Elle and Police Chief Thor. After jumping into hyperspace, they discover an escape pod from the destroyed starship containing a disoriented survivor. The police track them down and they are convicted of piracy, sentenced to life imprisonment on separate planets.\n\nStella escapes but is recaptured, then learns her sentence has been canceled. The Emperor contacts her and Akton, thanking them for recovering the survivor and ordering them to find a secret weapon of immense power that Count Zarth Arn has hidden. They are offered clemency if they can also find two missing escape pods and the mothership, one of which may contain the Emperor's only son.\n\nAccompanied by Thor and Elle, Stella and Akton search for the escape pods across various planets. They encounter Amazonian warriors, face betrayal from Thor (who reveals himself as an agent of Zarth Arn), and discover the weapon is an entire planet. After countless battles, Prince Simon rescues Stella, and the Emperor arrives to help defeat Count Zarth Arn through a climactic \"Starcrash\" maneuver\u2014ramming the Floating City into the Count's space station. The Emperor's son is saved and peace is restored.",
+      "core": "Starcrash represents a fascinating artifact of late 1970s cinema culture, when the success of Star Wars spawned countless imitations worldwide. The Italian film industry, renowned for producing speculative fiction through their \"poliziotteschi\" and \"giallo\" genres, applied their sensibilities to space opera, creating a film that feels both inspired by and distinctly apart from American blockbusters.\n\nThe film's production history is notable: despite being an Italian production, it secured Christopher Plummer and John Barry (the latter fresh from scoring multiple James Bond films) to add international appeal. The result is a peculiar hybrid\u2014American distribution and English language, but Italian production values and that distinctive European sci-fi aesthetic of model work and painted backdrops.\n\nStarcrash has endured as a cult film, particularly after being featured on Mystery Science Theater 3000, where its earnest attempt at epic storytelling combined with budget limitations creates an unforgettable viewing experience. It demonstrates how even failed ambitions can produce compelling art, and how international film industries adapted to compete with Hollywood's new dominance in the speculative fiction genre.",
+      "created_at": "2026-03-03 13:03:53"
+    },
+    {
       "title": "Starflight",
       "year": 1986,
       "medium": "Video Game",
@@ -8195,5 +8212,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 482
+  "count": 483
 }
