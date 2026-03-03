@@ -4693,6 +4693,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Star Raiders",
+      "year": 1980,
+      "medium": "Video Game",
+      "creator": "Doug Neubauer (programmer), Atari, Inc. (developer)",
+      "raw_score": 4.5,
+      "total_ratings": 2,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration",
+      "image_filename": "Star_Raiders_1980.jpg",
+      "pitch": "Star Raiders is a pioneering space combat simulation game developed for Atari's 8-bit computer line and released in 1980. Created by programmer Doug Neubauer, it brought the excitement of science fiction dogfights to home computers, offering players the chance to pilot a starship against the invading Zylon fleet. The game was notable for its sophisticated use of the Atari 8-bit's hardware capabilities, including smooth vector graphics and complex gameplay mechanics that were unprecedented in home computer gaming at the time.",
+      "truth": "Star Raiders casts the player as a Star Rider defending the galaxy against the Zylons, an enemy race that has invaded from deep space. The game features several gameplay modes, including galactic exploration, long-range scanning, and real-time combat. Players must manage their ship's energy resources, engage enemy vessels, and complete missions to push back the Zylon invasion.\n\nThe game was originally developed for the Atari 400/800 computers in 1979 and released in 1980. Neubauer was inspired by earlier text-based space combat games and sought to create a more visually immersive experience. The Atari 8-bit hardware's display list interrupts allowed for smooth vector graphics that simulated 3D perspective, a remarkable technical achievement for the period.\n\nStar Raiders was subsequently ported to the Atari 2600, Atari 5200, and Atari ST, making it one of the most widely distributed early Atari titles. The game was influential in the development of the space combat simulation genre and demonstrated the potential for home computers to deliver complex gaming experiences.",
+      "core": "Star Raiders represents an important milestone in video game history as one of the first successful space combat simulations for home computers. Its combination of strategic resource management (energy, fuel, shields) and real-time combat influenced later games in the genre. The game's technical achievements on the Atari 8-bit platform, particularly its pseudo-3D graphics and sophisticated game loop, paved the way for future space simulation games. Star Raiders demonstrates how early game developers pushed hardware limitations to create immersive science fiction experiences that captured the imagination of players interested in space opera and exploration.",
+      "created_at": "2026-03-03 19:48:06"
+    },
+    {
       "title": "Star Raiders II",
       "year": 1986,
       "medium": "Video Game",
@@ -8586,5 +8603,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 505
+  "count": 506
 }
