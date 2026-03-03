@@ -2466,6 +2466,23 @@
       "created_at": "2026-03-02 01:10:30"
     },
     {
+      "title": "Homunculus",
+      "year": 1916,
+      "medium": "Serial Film",
+      "creator": "Otto Rippert",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Germany ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Evolution",
+      "image_filename": "Homunculus_1916.jpg",
+      "pitch": "Homunculus is a landmark 1916 German silent science fiction serial film, one of the most ambitious early sci-fi productions from the World War I era. Directed by Otto Rippert and written by Robert Reinert, the film was originally released in six parts between June 1916 and January 1917, running approximately six hours in total. Notably, Fritz Lang worked as one of Rippert's assistants during filming, later citing this experience as influential in his ownExpressionist and sci-fi works like Metropolis and Dr. Mabuse.\n\nThe story follows a scientist who creates a living creature\u2014called a Homunculus\u2014in his laboratory. Unlike a typical monster, this artificial being possesses human appearance but lacks a soul and the capacity for emotions. When the Homunculus discovers its inability to feel love or connection, it descends into a violent rampage through a nearby German village, leading its creator to hunt down his own creation in an attempt to destroy it.",
+      "truth": "The narrative unfolds across six parts, each approximately one hour in length:\n\n**Part 1: The Birth of the Homunculus (Die Geburt des Homunculus)** - A scientist creates an artificial human being in his laboratory. The creature appears normal but is revealed to lack emotions and a soul.\n\n**Part 2: The Mysterious Book (Das geheimnisvolle Buch)** - The Homunculus struggles to understand its own existence and searches for meaning.\n\n**Part 3: The Love Tragedy of the Homunculus (Die Liebestrag\u00f6die des Homunculus)** - The creature attempts to find love and connection but discovers it cannot feel emotions.\n\n**Part 4: The Revenge of the Homunculus (Die Rache des Homunculus)** - The Homunculus turns violent and begins destroying everything around it.\n\n**Part 5: The Annihilation of Mankind (Die Vernichtung der Menschheit)** - The Homunculus seeks to destroy humanity.\n\n**Part 6: The End of the Homunculus (Das Ende des Homunculus)** - The scientist hunts down his creation to end its reign of terror.\n\nThe film was loosely based on the 1888 epic poem \"Homunculus\" by Robert Hamerling. The theme of an artificially created being turning against its creator echoes Mary Shelley's Frankenstein, and the film shares thematic ground with other German Expressionist works about artificial life, including the Golem films.",
+      "core": "**Artificial Life and the Soul:** The Homunculus represents one of cinema's earliest explorations of what it means to be human and whether consciousness without emotion constitutes true life. The creature's tragedy lies not in its physical form but in its spiritual emptiness\u2014a soulless being capable of reason but incapable of love.\n\n**German Expressionist Roots:** Though formally considered a serial film rather than Expressionist cinema proper, Homunculus paved the way for the movement. Its successor, Robert Wiene's \"The Cabinet of Dr. Caligari\" (1920), would fully realize Expressionist aesthetics, but Homunculus's themes of artificial beings and psychological darkness prefigure that movement.\n\n**Fritz Lang's Influence:** Lang served as assistant director on Homunculus before later directing Metropolis (1927), which features its own artificial being\u2014the robot Maria. The thematic lineage between these films is direct, making Homunculus a crucial precursor to one of sci-fi's most iconic films.\n\n**Legacy:** Only Part 4 and a fragment of Part 5 survive in complete form today, but the film remains significant as one of the first sci-fi serials and as a document of early cinema's engagement with questions of creation, consciousness, and the boundaries between human and artificial life.",
+      "created_at": "2026-03-03 23:46:03"
+    },
+    {
       "title": "Horror Express",
       "year": 1972,
       "medium": "Film",
@@ -8824,5 +8841,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 519
+  "count": 520
 }
