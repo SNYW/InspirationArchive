@@ -1497,6 +1497,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Dreamfall: The Longest Journey",
+      "year": 2006,
+      "medium": "Video Game",
+      "creator": "Funcom / Ragnar T\u00f8rnquist",
+      "raw_score": 3.75,
+      "total_ratings": 45,
+      "origin": "Norway ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "VR, Memory, Isolation",
+      "image_filename": "Dreamfall_The_Longest_Journey_2006.jpg",
+      "pitch": "Dreamfall: The Longest Journey is a 2006 adventure game that continues the story begun in The Longest Journey, spanning two parallel worlds: the technologically advanced Stark and the magical Arcadia. Set in 2219, ten years after the original game, the story follows Zo\u00eb Castillo, a young woman in Casablanca who wakes from a coma to investigate her ex-boyfriend's disappearance and a mysterious global conspiracy involving dream-manipulation technology. The game seamlessly blends cyberpunk corporate intrigue with fantasy elements, exploring themes of identity, consciousness, and the boundaries between reality and dreams.",
+      "truth": "The narrative unfolds across three protagonists: Zo\u00eb Castillo, April Ryan, and Kian Alvane. Zo\u00eb, living in 2219 Casablanca, becomes entangled in Project Alchera\u2014a conspiracy led by Japanese toy manufacturer WatiCorp, which has developed \"dreamer console\" technology capable of inducing lucid dreams for mass brainwashing and even murder. When her ex-boyfriend Reza Temiz disappears while investigating the project, Zo\u00eb discovers she can physically manifest in Arcadia when she falls asleep in Stark\u2014a parallel world of magic and fantasy.\n\nMeanwhile, April Ryan\u2014the protagonist of the original game\u2014battles the theocratic Empire of Azadi in Arcadia, having lost her ability to shift between worlds. Kian Alvane, an Azadi soldier, is sent to assassinate April but begins questioning his loyalty as he witnesses the empire's oppression. The three storylines converge as Zo\u00eb learns that a girl named Faith, used as a test subject for WatiCorp's Morpheus drug, transferred her consciousness to the DreamNet mainframe after a fatal overdose, and now uses \"static\" to disrupt Stark's infrastructure.\n\nThe game presents a post-collapse world: following events in the first game, Stark suffered a catastrophic technological Collapse, while Arcadia saw the rise of the industrial Azadi empire. Zo\u00eb must navigate this fractured reality, discovering connections between the corporate conspiracy on Earth and the magical politics of Arcadia, ultimately bridging both worlds in a tale about the nature of consciousness itself.",
+      "core": "**Consciousness and Dreams:** Dreamfall explores the boundaries between waking life and dreams, particularly through Zo\u00eb's unique ability to exist physically in Arcadia while her body sleeps in Stark. The \"dreamer console\" technology represents a corporate weaponization of consciousness, raising questions about the nature of reality when dreams can be monetized, controlled, and used as weapons.\n\n**Corporate Dystopia:** The game presents a near-future Earth ruled by megacorporations, with WatiCorp's dream technology serving as both product and tool of control. This cyberpunk element grounds the fantasy elements of Arcadia in recognizable anxieties about technological surveillance and manipulation.\n\n**The Twin Worlds Concept:** Stark and Arcadia represent two fundamental approaches to existence\u2014pure technology versus pure magic\u2014separated by Guardians who maintain the Balance. The Collapse in Stark and Azadi's rise in Arcadia suggest these worlds are moving toward convergence or collision, a theme that would be explored further in the sequel Dreamfall Chapters.\n\n**Identity and Memory:** Characters grapple with questions of identity: Zo\u00eb narrates from her coma, uncertain what's real; April struggles with losing her shifting powers; Faith exists as distributed consciousness. The game suggests identity is fluid, constructed from memories and experiences rather than fixed bodies.\n\n**The Cost of Progress:** Both worlds illustrate how progress creates new problems\u2014Stark's technology led to Collapse; Arcadia's magic enabled Azadi's oppression. This theme critiques the idea that advancement automatically means improvement, suggesting every solution generates new challenges.\n\nDreamfall represents a sophisticated blend of cyberpunk and fantasy that transcends simple genre categorization, using parallel worlds to explore universal questions about consciousness, control, and what it means to be real.",
+      "created_at": "2026-03-03 11:00:09"
+    },
+    {
       "title": "Dreamweb",
       "year": 1994,
       "medium": "Video Game",
@@ -8059,5 +8076,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 474
+  "count": 475
 }
