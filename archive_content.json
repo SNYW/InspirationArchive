@@ -5118,6 +5118,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Dark Side of the Moon",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "D.J. Webster",
+      "raw_score": 3.5,
+      "total_ratings": 1,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Isolation, Aliens",
+      "image_filename": "The_Dark_Side_of_the_Moon_1990.jpg",
+      "pitch": "The Dark Side of the Moon is a 1990 direct-to-video science fiction horror film directed by D.J. Webster. Set in the near future, the film follows a maintenance spacecraft orbiting Earth on a routine mission to repair nuclear-armed satellites. When the crew experiences a mysterious and inexplicable power failure, they find themselves drifting toward the dark side of the Moon. There, they discover an abandoned NASA shuttle\u2014the Discovery\u2014which mysteriously disappeared in the Bermuda Triangle decades earlier. As two crew members board the shuttle hoping to salvage parts, they encounter a dead body and realize that a malevolent force has been waiting for them, using the corpse as its host. With their own ship losing power and air, the crew must fight this ancient evil before it claims them one by one.",
+      "truth": "The film opens with the maintenance vessel and its crew\u2014Flynn Harding, Giles Stewart, Paxton Warner, Lesli, Philip Jennings, and Alex McInny\u2014conducting repairs on nuclear-armed satellites in Earth's orbit. Suddenly, the ship experiences a catastrophic power failure. As the vessel drifts helplessly toward the dark side of the Moon, the crew discovers the ancient Discovery shuttle floating in the lunar vicinity. NASA hasn't operated for 30 years, yet here is a shuttle that vanished in the Bermuda Triangle decades ago.\n\nTwo crew members board the Discovery, hoping to salvage components to repair their own ship. Instead, they find the preserved body of one of the original Discovery astronauts. As they investigate further, they realize that the mission records from their own ship indicate the Discovery disappeared in the Bermuda Triangle many years before. The area in space where they found the shuttle corresponds to the earthbound Bermuda Triangle\u2014a cosmic equivalent of that mysterious zone.\n\nThe malevolent entity that has been waiting on the shuttle begins stalking the crew members one by one. It becomes clear they are facing something demonic in nature\u2014a force from beyond, using the dead astronaut's body as its vessel. As the crew members are picked off one at a time, it becomes apparent that this entity has been waiting for victims for decades, using the shuttle as a trap in the void of space.\n\nWith time, air, and power running out, Captain Flynn Harding must make the ultimate sacrifice to stop the entity and save any remaining crew members. The film ends with a confrontation between the remaining survivors and the malevolent force, culminating in a desperate act that either destroys the entity or traps it once again in the darkness of space.",
+      "core": "The Dark Side of the Moon operates as a cosmic horror narrative that combines science fiction and supernatural horror elements. The film draws on classic themes of the unknown and humanity's vulnerability in the face of cosmic forces beyond comprehension. The discovery that the shuttle's location corresponds to the Bermuda Triangle\u2014a zone associated with disappearances and mysteries on Earth\u2014creates a thematic link between terrestrial paranoia about unknown zones and the vast emptiness of space.\n\nThe film also explores themes of isolation and human vulnerability. The crew is literally and figuratively isolated in the cold darkness of space, cut off from help and surrounded by the unknown. The entity itself represents an ancient evil that preys on isolated victims, using their desperation and fear as weapons. This isolation becomes both physical (the spacecraft drifting in the void) and psychological (the crew's growing paranoia and terror).\n\nThe horror elements blend science fiction with supernatural threat. Rather than a purely alien invader, the entity is described as demonic\u2014a devil figure that has inhabited the dead body and uses it to hunt the living. This combination of sci-fi setting with supernatural horror creates a unique atmosphere that distinguishes the film from typical 1980s and 1990s sci-fi horror offerings. The film's practical effects and the claustrophobic setting of the spacecraft contribute to its tense, eerie mood, making effective use of its limited budget to create atmosphere over spectacle.\n\nAs a direct-to-video release, The Dark Side of the Moon represents a particular era of niche science fiction horror that found its audience through home video. The film appeals to fans of obscure sci-fi horror who appreciate atmospheric B-movies that prioritize mood over elaborate special effects.",
+      "created_at": "2026-03-03 08:34:48"
+    },
+    {
       "title": "The Day the Earth Caught Fire",
       "year": 1961,
       "medium": "Film",
@@ -7906,5 +7923,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 465
+  "count": 466
 }
