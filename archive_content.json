@@ -7583,6 +7583,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Visitor",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Italy ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Religion, Aliens",
+      "image_filename": "The_Visitor_1979.jpg",
+      "pitch": "The Visitor is a 1979 Italian-American science fiction horror film directed by Giulio Paradisi. Set in Atlanta, Georgia, the film tells the story of a battle between cosmic forces representing good and evil, fought over the soul of a young girl with telekinetic abilities. The film features an unusual cast including Mel Ferrer, Glenn Ford, Lance Henriksen, John Huston, Sam Peckinpah, and Shelley Winters. Produced as an international co-production between Italian and American companies, it was filmed at Cinecitt\u00e0 Studios in Rome and on location in Atlanta. The film has become a cult classic over the years, known for its unusual premise and surreal imagery.",
+      "truth": "The film opens with Jerzy Colsowicz experiencing a vision of a destructive storm brought about by a young human girl. He learns from a Christ-like figure about a centuries-long cosmic conflict between Zatteen, an evil inter-spatial force with powerful psychic abilities, and his benevolent rival Yahweh. Zatteen escaped to Earth centuries ago and was killed, but his spirit lives on in the minds of humankind, waiting to reemerge.\n\nZatteen had produced dozens of children with human women before his death, and these descendants continue to populate Earth. At a basketball game in Atlanta, home team owner Raymond Armstead is revealed to be in league with a secret group of Satanists who wish to bring about Zatteen's resurgence. Their plan involves using Barbara Collins, whose eight-year-old daughter Katy has displayed psychokinetic abilities, as a conduit to distill Zatteen's powers into a corporeal human form.\n\nColsowicz, who possesses similar powers to Katy, is sent to Earth to stop the Satanists. He attempts to save Katy from the influence of evil while the Satanists attempt to have Raymond father a male child with Barbara, who would then mate with his half-sister to produce the physical embodiment of Zatteen. The film culminates in a battle between the cosmic forces, with Colsowitz intervening to stop the Satanists and save Katy from becoming the vessel for Zatteen's return.",
+      "core": "The Visitor stands as a unique entry in the sci-fi horror genre, blending religious mythology with paranormal themes. The film draws on Abrahamic religious imagery\u2014depicting the cosmic struggle between God and Satan\u2014as the framework for its science fiction premise. This religious science fiction approach was somewhat unusual for the late 1970s, when the genre typically favored either secular alien invasion narratives or purely supernatural horror.\n\nThe film also touches on themes of psychic powers and inherited abilities, predating the surge of similar themes in 1980s cinema. Young Katy Collins represents the \"chosen vessel\" archetype, but with a twist\u2014she is unknowingly aligned with evil forces rather than being a traditional chosen one hero.\n\nThe ensemble cast, featuring several Hollywood legends in unconventional roles, has been a point of discussion among cult film enthusiasts. The film has been noted for its bizarre tone, which shifts between genuine horror sequences and almost absurdist moments. Despite\u2014or perhaps because of\u2014its oddities, The Visitor has developed a cult following, appreciated for its distinctive vision and the way it weaves religious mythology into a sci-fi horror narrative.",
+      "created_at": "2026-03-03 19:32:28"
+    },
+    {
       "title": "The Walking Dead",
       "year": 1936,
       "medium": "Film",
@@ -8569,5 +8586,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 504
+  "count": 505
 }
