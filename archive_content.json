@@ -546,6 +546,23 @@
     },
     {
       "title": "Alraune",
+      "year": 1918,
+      "medium": "Film",
+      "creator": "Michael Curtiz, Edmund Fritz",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Hungary ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Cloning",
+      "image_filename": "Alraune_1918.jpg",
+      "pitch": "Alraune is a 1918 Hungarian sci-fi horror film directed by a young Michael Curtiz (before his Hollywood career) and Edmund Fritz. Based on Hanns Heinz Ewers' 1911 novel, the film tells the story of a mad scientist who creates a demonic, beautiful woman through an experiment involving a mandrake root and the forced union between a woman and the plant, fed by the blood of a hanged man. Little is known about this film as it is believed to be lost, but it stands as one of the earliest examples of Hungarian science fiction cinema and a fascinating early take on the \"created life\" theme that would recur throughout sci-fi history.",
+      "truth": "The plot follows the legend of Alraune (German for mandrake). A professor creates a child\u2014called Alraune\u2014who is the result of a forced union between a woman and a mandrake root. The experiment is fed by the blood of a hanged man, giving Alraune demonic qualities. As she grows, Alraune becomes a beautiful but evil being, causing chaos and destruction around her. The film explores the consequences of playing God and creating life through unnatural means\u2014a theme that would become a staple of science fiction and horror.\n\nThe film is notable as Michael Curtiz's early work before he emigrated to Hollywood and became famous for directing Casablanca (1942). It is considered a lost film, with few surviving details about its specific execution, though its source novel and production context are well-documented.",
+      "core": "**The Frankenstein Parallel:** Like Shelley's Frankenstein, Alraune explores the dangers of scientific Mary hubris\u2014the mad scientist who dares to create life and must face the consequences. This theme was especially potent in 1918 Hungary, during and after World War I, when questions of creation, destruction, and the boundaries of human knowledge were very much in the air.\n\n**Early Biopunk:** The film can be seen as an early example of what would later be called biopunk\u2014science fiction dealing with biological manipulation, genetic experiments, and the creation of life through artificial means. The mandrake root experiment predates modern genetic engineering narratives by decades.\n\n**Lost Cinema History:** Alraune (1918) represents a piece of early Hungarian cinema that has been lost to time, making it a tantalizing artifact for film historians interested in the origins of science fiction cinema outside of the major film-producing nations. Its existence demonstrates that sci-fi was being explored in Hungary nearly a century ago.",
+      "created_at": "2026-03-03 14:46:35"
+    },
+    {
+      "title": "Alraune",
       "year": 1930,
       "medium": "Film",
       "creator": "Richard Oswald (director), based on the novel by Hanns Heinz Ewers",
@@ -8297,5 +8314,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 488
+  "count": 489
 }
