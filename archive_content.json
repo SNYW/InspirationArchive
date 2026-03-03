@@ -1939,6 +1939,23 @@
       "created_at": "2026-03-01 13:34:25"
     },
     {
+      "title": "Half-Life",
+      "year": 1998,
+      "medium": "Video Game",
+      "creator": "Valve Corporation",
+      "raw_score": 4.8,
+      "total_ratings": 96,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk, Horror ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Half-Life_1998.jpg",
+      "pitch": "Half-Life is a groundbreaking 1998 first-person shooter that puts players in the shoes of Gordon Freeman, a theoretical physicist at the Black Mesa Research Facility. When a disastrous experiment triggers a \"resonance cascade\" that opens a portal to an alien dimension, Freeman must fight his way through hostile alien creatures and government soldiers to survive. Unlike other FPS games of its era, Half-Life delivered an uninterrupted, immersive experience without traditional loading screens or cutscenes\u2014players experience the story directly through gameplay. The game pioneered narrative delivery through environmental storytelling and scripted sequences, setting new standards for game design and influencing countless titles that followed.",
+      "truth": "Gordon Freeman, a physicist at the Black Mesa Research Facility in New Mexico, conducts an experiment involving a mysterious crystalline sample. The experiment goes catastrophically wrong, creating a \"resonance cascade\" that tears open a portal to an alien dimension called Xen. Aliens begin streaming through the breach, and the facility descends into chaos.\n\nAs the sole survivor\u2014though not for long\u2014Gordon must navigate the labyrinthine corridors of Black Mesa. Along the way, he encounters various hostile alien species: headcrabs that turn humans into zombies, bullsquids, vortigaunts, and the terrifying Gonarch. But the horror doesn't end there. The U.S. government sends in military forces to \"cover up\" the incident by eliminating both aliens and witnesses.\n\nWith the help of surviving scientists and security guards, Gordon makes his way to the Lambda Complex, a secret research facility within Black Mesa. There, he learns that a powerful alien ruler called the Nihilanth controls the portal to Xen and is using it to invade Earth. Gordon is teleported to Xen itself, where he must battle through alien factories and ultimately defeat the Nihilanth.\n\nIn the game's famous twist ending, Gordon is intercepted by the mysterious G-Man, who offers him employment with his mysterious \"employers.\" Gordon is placed in temporal stasis, setting up the franchise's ongoing narrative.",
+      "core": "Half-Life revolutionized the first-person shooter genre by proving that games could deliver serious narrative without sacrificing gameplay. Rather than the \"shooting gallery\" design common in 1990s FPS games, Valve created an immersive simulation where players felt like they were actually inside the world.\n\nThe game's design philosophy emphasized player agency\u2014Gordon never speaks, keeping the player immersed in the experience. Environmental storytelling revealed the backstory through scattered documents, scientist dialogues, and visual details rather than explicit exposition. This approach influenced game design for decades, establishing the \"environmental storytelling\" technique now ubiquitous in the medium.\n\nThematically, Half-Life explores themes of scientific hubris, government conspiracy, and individual heroism in the face of incomprehensible threats. The Black Mesa disaster serves as a metaphor for the unintended consequences of unchecked scientific advancement. The military's response\u2014killing both aliens and scientists to cover up the truth\u2014adds a layer of government conspiracy that resonated with post-Cold War anxieties.\n\nThe game's impact cannot be overstated. It spawned the Counter-Strike mod, which became one of the most influential multiplayer games ever. Its engine, GoldSrc, became the foundation for countless other titles. Half-Life established Valve as an industry leader and created one of gaming's most iconic silent protagonists in Gordon Freeman.",
+      "created_at": "2026-03-03 05:35:38"
+    },
+    {
       "title": "Hard to Be a God",
       "year": 1964,
       "medium": "Novel",
@@ -7753,5 +7770,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 456
+  "count": 457
 }
