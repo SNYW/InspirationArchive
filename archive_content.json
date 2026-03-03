@@ -7940,6 +7940,23 @@
       "created_at": "2026-03-03 01:20:41"
     },
     {
+      "title": "Ulagam Sutrum Valiban",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "M.G. Ramachandran (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fiction ,",
+      "topics": "Technology, Exploration",
+      "image_filename": "Ulagam_Sutrum_Valiban_1973.jpg",
+      "pitch": "Ulagam Sutrum Valiban (transl. \"Globetrotting Youngster\") is a 1973 Indian Tamil-language science fiction film directed and co-produced by M.G. Ramachandran, one of Tamil cinema's most iconic figures. The film follows Murugan, a brilliant Indian scientist who discovers a method to harness and store the energy from lightning using a revolutionary formula. At an international scientists' conference in Hong Kong, he demonstrates the destructive potential of his discovery\u2014a single pellet-sized object can bring down trees and set surroundings ablaze\u2014but refuses to share it with the world, fearing it will be used for destructive purposes amid rising Cold War tensions.\n\nWhen a wealthy industrialist named Bairavan offers $100 million to sell the research to foreign \"deep state\" agents, Murugan refuses and pretends to burn his notes. He embarks on a world tour with his girlfriend Vimala, actually hiding the notes in a safe location. Pursued by Bairavan and his agents across Singapore, Bangkok, and Japan, Murugan must protect his groundbreaking discovery while navigating betrayal, amnesia-inducing weapons, and international intrigue. His younger brother Raju, a CBCID officer, joins the hunt to find him, leading to an action-packed climax at Expo '70 in Osaka.",
+      "truth": "The film opens in India where scientist Murugan successfully completes his research on storing lightning energy. His assistant Lilly secretly works for the antagonist Bairavan. At the Hong Kong conference, Murugan shocks the scientific community by demonstrating his invention's destructive power but refuses to release it, warning that the world is too unstable for such dangerous technology.\n\nBairavan attempts to bribe Murugan with $100 million to sell to foreign powers. When refused, he follows Murugan and Vimala on their world tour. In Singapore, Bairavan shoots Murugan with a special gun that renders him unconscious and causes amnesia. Vimala is tricked into believing Murugan's own brother tried to kill him.\n\nMeanwhile, Raju arrives searching for his brother and teams up with Lilly, who has had a change of heart. They discover the research notes were split into several parts and hidden with Murugan's contacts across Asia\u2014first in Japan with a Buddhist monk, then in Hong Kong, and finally in Bangkok with a fruit vendor.\n\nThe trio travels through Singapore, Bangkok, and Kyoto, evading Bairavan's henchmen while piecing together clues hidden in lockets and statues. At Expo '70 in Osaka, the final confrontation occurs. Lilly helps Murugan and Vimala escape captivity, and in the ensuing chaos, Bairavan and his doctor accomplice kill each other. The film ends with Murugan reunited with his brother, and Raju marrying both Lily and Ratna (his love interest), as they depart for East Africa on another expedition.",
+      "core": "Ulagam Sutrum Valiban stands as a significant work in Indian science fiction cinema for several reasons. It represents an early example of Tamil-language sci-fi that combined futuristic themes with traditional masala filmmaking elements\u2014action, romance, comedy, and drama. M.G. Ramachandran, already a legendary actor-politician, used the film to explore themes of technological ethics and national pride.\n\nThe film's central theme revolves around the responsible use of scientific discovery. Murugan's refusal to release his dangerous invention, even when offered enormous wealth, reflects concerns about technology falling into wrong hands during the Cold War era. The narrative positions the Indian scientist as morally superior to Western commercial interests, embodying post-colonial anxieties about foreign exploitation of indigenous knowledge.\n\nThe film's production itself was noteworthy\u2014filming at Expo '70 in Osaka was ambitious for its time, and the movie became a major commercial success, running for over 250 days in theaters. Ramachandran won the Filmfare Special Award for Excellent Production Values. The film also marked a transition in Tamil cinema, with Ramachandran firing Jayalalithaa (future Chief Minister) from the project and replacing her with Manjula.\n\nToday, the film is remembered as a cult classic that predicted concerns about technology transfer, intellectual property, and the potential misuse of scientific discoveries that remain relevant in discussions about AI, genetic engineering, and cybersecurity.",
+      "created_at": "2026-03-03 16:31:47"
+    },
+    {
       "title": "Universal War One",
       "year": 2008,
       "medium": "Graphic Novel",
@@ -8399,5 +8416,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 494
+  "count": 495
 }
