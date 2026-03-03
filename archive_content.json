@@ -494,6 +494,23 @@
       "created_at": "2026-03-02 15:45:21"
     },
     {
+      "title": "Alice",
+      "year": 1988,
+      "medium": "Animated Film",
+      "creator": "Jan \u0160vankmajer",
+      "raw_score": 3.7,
+      "total_ratings": 15000,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Dreams",
+      "image_filename": "Alice_1988.jpg",
+      "pitch": "Alice is a 1988 surrealist dark fantasy film that represents director Jan \u0160vankmajer's first feature-length work. The film is a loose adaptation of Lewis Carroll's \"Alice's Adventures in Wonderland,\" but strips away any notion of a children's fairy tale. Instead, \u0160vankmajer transforms Carroll's story into a disturbingly literal dream-logic narrative, combining live-action with his signature stop-motion animation. The result is a haunting meditation on the unconscious mind, where childhood nightmares become viscerally real and the line between dreamer and dreamed dissolves entirely. The film follows young Alice (Krist\u00fdna Kohoutov\u00e1) as she chases a taxidermic white rabbit through a writing desk and into a surreal underworld populated by animate objects, marching playing cards, and grotesque transformations.",
+      "truth": "The film opens with Alice sitting by a brook, throwing rocks into the water\u2014a motif that recurs throughout as she throws rocks into a cup of tea in her sitting room. When a creaking noise draws her attention to a taxidermic White Rabbit in a glass case, the rabbit comes alive, dresses himself, and smashes the case to escape. Alice chases him through a writing desk on a hill, crawling into a drawer that leads to a cellar. She falls backward into a dustbin and finds herself in an elevator ascending past shelves of objects.\n\nThroughout her journey down the rabbit hole, Alice encounters the visual vocabulary of her own unconscious: a key that shrinks her, potions that change her size, a mushroom that allows her to grow and shrink at will, a skull-headed lizard, a stocking-caterpillar, a mechanical tea party hosted by wind-up toys, and finally the King and Queen of Hearts who command an army of playing cards. The film's stop-motion animation brings household objects to life\u2014inkwells attack, scissors become weapons, and the White Bunny wields his scissors to behead anyone who displeases the Queen.\n\nWhen Alice finally reaches the courtroom, she is put on trial for eating the Queen's tarts. The Queen demands her execution, and Alice's head morphs into the heads of all the other characters. Just as the Bunny advances with his scissors, Alice wakes up in her sitting room\u2014surrounded by the objects from her dream, including the empty glass case and the Rabbit's scissors. The final shot suggests the dream may not be over: Alice picks up the scissors and thinks, \"He's late, as usual. I think I'll cut his head off.\"",
+      "core": "\u0160vankmajer's Alice is not a fairy tale\u2014it is a descent into the id. Where Disney sanitized Carroll's darker undertones, \u0160vankmajer excavates them, treating the original text as a document of unconscious desire rather than children's entertainment. The director explicitly stated that while fairy tales work with moral instruction (\"good overcomes evil\"), dreams follow \"the principle of pleasure\" without moral inhibition. His Alice is a realized dream: violent, sexually charged, and amoral.\n\nThe animation technique is crucial here. Unlike traditional stop-motion that creates fantastical worlds, \u0160vankmajer's animation makes the mundane threatening\u2014a fork has teeth, scissors become tools of execution, and ordinary objects take on menace. The film was groundbreaking in its fusion of live-action and stop-motion, creating a seamless nightmare that feels tactile and real. The rotoscope-like close-ups of Alice's mouth voicing every character create an uncanny doubling effect that reinforces the dream-within-dream structure.\n\nThe film won the feature film award at the 1989 Annecy International Animated Film Festival and has been praised by critics for its \"dark undercurrents\" and \"remarkably fluid\" animation. Rotten Tomatoes gives it a 95% rating. \u0160vankmajer's Alice influenced generations of animators and remains a landmark in both animated film and surrealist cinema\u2014it is nightmares made visible, a film that treats Carroll's fantasy as serious art about the unconscious mind.",
+      "created_at": "2026-03-03 15:01:17"
+    },
+    {
       "title": "Alien Death Fuck",
       "year": 2018,
       "medium": "Film",
@@ -8314,5 +8331,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 489
+  "count": 490
 }
