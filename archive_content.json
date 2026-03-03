@@ -7498,6 +7498,23 @@
       "created_at": "2026-02-28 19:29:30"
     },
     {
+      "title": "UFO: Aftermath",
+      "year": 2003,
+      "medium": "Video Game",
+      "creator": "ALTAR Interactive",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czech-Republic ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Military, Post-Apocalypse ,",
+      "topics": "Aliens, Pandemic",
+      "image_filename": "UFO_Aftermath_2003.jpg",
+      "pitch": "UFO: Aftermath is a 2003 real-time tactics/turn-based strategy video game developed by Czech studio ALTAR Interactive. Set in a post-apocalyptic near-future, the game puts players in command of humanity's last remaining military force after alien spores devastate Earth. The title serves as a homage to the classic X-COM series, combining global strategic management with squad-based tactical combat missions. Players must rebuild civilization, research alien technology, and mount a defense against the alien threat that has already wiped out most of humanity.",
+      "truth": "In May 2004, a massive alien spacecraft approaches Earth and releases clouds of spores into the upper atmosphere. These spores rapidly multiply, eventually causing a catastrophic event known as \"Nightfall\" that destroys most higher life forms on the planet. Governments around the world are unable to respond effectively, and humanity is pushed to the brink of extinction.\n\nThe game begins in January 2005, with survivors establishing the Council of Earth from underground bases. The player takes on the role of commander of the Council's military operations. The player must reunite scattered human populations, investigate what happened, and fight back against the alien menace.\n\nThe game alternates between two phases. In the strategic phase, players manage their organization: recruiting and training soldiers, acquiring equipment, building bases, conducting research, and sending interceptors to engage UFOs. Players can convert bases to military, research, or engineering functions. As the game progresses, players must also combat spreading biomass\u2014organic growth caused by alien spores that can consume bases.\n\nIn the tactical phase, players command squads of soldiers in combat missions. Unlike traditional turn-based games, combat plays out in real-time, though players can pause to issue orders. Soldiers have different attributes and skills that develop through experience. The player battles various alien creatures, primarily the Transgenants\u2014mutated life forms created by the alien spores\u2014and eventually faces the alien Greys themselves.\n\nThe player progresses through missions of increasing difficulty, capturing alien technology, and ultimately confronting the alien mothership and its agenda for humanity.",
+      "core": "**Homage and Innovation:** UFO: Aftermath draws clear inspiration from the X-COM series, particularly emulating its blend of global strategy and tactical combat. However, the game introduces innovations, notably its real-time tactical combat system where all units move and act simultaneously rather than in turns. This creates a different tactical dynamic than its influences decision, emphasizing quick-making and squad coordination.\n\n**Post-Apocalyptic Themes:** The game explores familiar post-apocalyptic themes\u2014humanity's survival against overwhelming odds, the loss of civilization, and the struggle to rebuild. The specific mechanism of alien spore-based extinction offers a unique variation on the genre, combining elements of pandemic narrative with alien invasion. The biomass mechanic adds an ever-present environmental threat that must be managed alongside alien combatants.\n\n**Alien Deprecation:** Unlike many alien invasion narratives that portray extraterrestrials as technologically superior beings, the game's primary enemies are initially mutated creatures (Transgenants) created by the spores, with the actual alien Greys appearing later. This inverts typical sci-fi expectations, suggesting that humanity's real enemy may be the ecological transformation wrought by alien biology rather than direct alien aggression.\n\n**Strategic Depth:** The game offers substantial strategic management, requiring players to balance base construction, research priorities, soldier training, and resource allocation while defending against both alien incursions and the spreading biomass. This complexity, combined with the challenging tactical missions, provides substantial gameplay depth for strategy game enthusiasts.\n\nUFO: Aftermath spawned two sequels, UFO: Aftershock (2005) and UFO: Afterlight (2007), forming the UFO series that maintained the X-COM-inspired formula while carving out its own identity in the tactical strategy genre.",
+      "created_at": "2026-03-03 09:02:15"
+    },
+    {
       "title": "UFO: Enemy Unknown",
       "year": 1994,
       "medium": "Video Game",
@@ -7940,5 +7957,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 467
+  "count": 468
 }
