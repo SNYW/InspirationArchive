@@ -2024,6 +2024,23 @@
       "created_at": "2026-03-02 09:33:44"
     },
     {
+      "title": "Forbidden Planet",
+      "year": 1956,
+      "medium": "Film",
+      "creator": "Fred M. Wilcox (Director)",
+      "raw_score": 3.75,
+      "total_ratings": 57000,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Sentience",
+      "image_filename": "Forbidden_Planet_1956.jpg",
+      "pitch": "Forbidden Planet is a landmark 1956 American science-fiction film that pioneered several aspects of the genre. It was the first sci-fi film to depict humans traveling in a human-made, faster-than-light starship, and the first to be set entirely on a planet orbiting another star. The film features the iconic Robby the Robot, one of the first film robots with a distinct personality. Set in the 23rd century, the story follows the United Planets starship C-57D as it arrives at Altair IV to investigate the fate of the Bellerophon, an expedition sent 20 years earlier. What they find is Dr. Edward Morbius and his daughter Altaira, the sole survivors of a expedition wiped out by an invisible planetary force.",
+      "truth": "Commander John J. Adams and his crew arrive at Altair IV to determine what happened to the Bellerophon expedition. They discover Dr. Morbius and his daughter living alone, having survived when all other expedition members were killed one by one by an unseen \"planetary force.\" Morbius reveals he used a Krell intellect enhancer, which doubled his mental capacity but nearly killed him.\n\nWhen the crew begins experiencing attacks from the invisible creature, Morbius warns them. After several crew members are killed, Adams and Ostrow discover the truth: the Krell had a vast underground machine that could create anything by thought. However, they forgot one crucial thing\u2014monsters from the id. The machine gave their subconscious desires free rein with unlimited power, causing their own extinction. Morbius's subconscious has created the creature that now attacks the new visitors.\n\nThe creature eventually attacks the lab where Morbius, Altaira, and Adams have taken shelter. Morbius finally accepts the truth and confronts his other self, but is fatally injured. Before dying, he has Adams activate the planet's self-destruct system. Adams, Altaira, Robby the Robot, and the surviving crew escape to deep space and witness the obliteration of Altair IV.",
+      "core": "Forbidden Planet is widely regarded as one of the great science-fiction films of the 1950s and a precursor to contemporary science-fiction cinema. The film is notable for its groundbreaking electronic musical score by Bebe and Louis Barron\u2014the first entirely electronic film score. The story is considered a loose adaptation of Shakespeare's The Tempest, with characters and an isolated setting that parallel Shakespeare's play.\n\nThe film explores themes of the unconscious mind, the dangers of unlimited power, and the fragility of human rationality. The \"monsters from the id\" concept predates Freud's theories being applied to science fiction and influenced countless later works. The Krell's self-destruction through their own creation serves as a warning about unchecked technological advancement and the dangers of ignoring the darker aspects of human nature.\n\nThe film was nominated for the Academy Award for Best Special Effects and was selected for preservation in the U.S. National Film Registry in 2013 as being culturally, historically, or aesthetically significant. It influenced numerous works, including Star Trek (the starship Enterprise's registration number NCC-1701 is a nod to the C-57D) and The Matrix.",
+      "created_at": "2026-03-03 23:34:47"
+    },
+    {
       "title": "Fourth Mansions",
       "year": 1969,
       "medium": "Novel",
@@ -8807,5 +8824,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 518
+  "count": 519
 }
