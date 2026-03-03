@@ -7550,6 +7550,23 @@
     },
     {
       "title": "The Time Machine",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "George Pal",
+      "raw_score": 3.75,
+      "total_ratings": 48000,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Time-Travel, Evolution",
+      "image_filename": "The_Time_Machine_1960.jpg",
+      "pitch": "The Time Machine is a 1960 American science fiction film based on H.G. Wells' groundbreaking 1895 novella. Directed by George Pal (known for his pioneering stop-motion work), the film stars Rod Taylor as the Time Traveller, with Yvette Mimieux and Alan Young co-starring.\n\nThe story follows an inventor in Victorian England who constructs a machine capable of traveling through time. During a demonstration to his friends on New Year's Eve 1900, he travels forward through time, witnessing the evolution of humanity across millennia. He eventually arrives in the year 802,701, where he discovers two distinct species: the gentle, childlike Eloi who live above ground, and the monstrous Morlocks who dwell underground and prey upon the Eloi.\n\nThe film was notable for its groundbreaking special effects, particularly the time-lapse photography showing the world changing rapidly as the traveller moves through time. It won the Academy Award for Best Special Effects and remains one of the most beloved adaptations of Wells' work.",
+      "truth": "The film begins on January 5, 1900, when the Time Traveller (Rod Taylor) returns to his London home, exhausted and disheveled, to recount his extraordinary journey to his skeptical friends.\n\nEarlier that New Year's Eve, he had demonstrated his time machine to a group including David Filby, Dr. Philip Hillyer, Anthony Bridewell, and Walter Kemp. Skeptical of his claims about time as the fourth dimension, they left\u2014except for Filby, who sensed something was wrong.\n\nThe Time Traveller then embarked on his journey. He first traveled forward in small increments, encountering World War I in 1917 and learning Filby's son died in the war. He then visited 1940 during the Blitz, and finally 1966, where he witnessed people fleeing to fallout shelters before a nuclear detonation destroys London. Traveling far into the future, his machine becomes trapped in lava, and he emerges only when the rock erodes away 800,000 years later.\n\nIn the distant future, he encounters the Eloi, a peaceful, childlike people who live in simplicity. He befriends a woman named Weena, who tells him about the Morlocks\u2014creatures who emerge at night and take Eloi. The Time Traveller discovers the Morlocks actually farm the Eloi as livestock. He also learns from ancient \"talking rings\" that a prolonged war between East and West, involving biological weapons, caused humanity to diverge into these two species.\n\nAfter a climactic battle where he helps the Eloi fight back against the Morlocks, the Time Traveller returns to 1900 to find only three unknown books as evidence of his journey. His housekeeper notices he and the machine have vanished, and Filby speculates he has returned to help the Eloi build a new civilization.",
+      "core": "**Time as the Fourth Dimension:** The film explores Wells' concept that time is simply another dimension through which one can travel. The Time Traveller's scientific explanation to his friends establishes the film's intellectual foundation\u2014that time is not fixed but relative and navigable.\n\n**Evolution and Divergence:** The Eloi and Morlocks represent a chilling vision of human evolution driven by social stratification. The upper-class Eloi became dependent and fragile, while the working-class Morlocks evolved into hunter-prey. This can be read as commentary on class division and the dangers of societal simplification.\n\n**The Arrow of Time:** The time machine's one-way journey (until the final return) emphasizes the irreversibility of change. The Time Traveller witnesses the literal destruction and rebirth of civilization, suggesting history moves in patterns rather than linearly.\n\n**Victorian Optimism vs. Future Despair:** The film contrasts the curious, scientific optimism of Victorian England with the bleak future where humanity has regressed. This reflects anxieties about progress\u2014whether technological advancement leads to salvation or destruction.\n\nGeorge Pal's direction emphasizes wonder and horror in equal measure. The time-lapse sequences showing the world rushing past are still impressive, while the Morlock sequences carry genuine dread. The film's Oscar-winning effects pioneered techniques that influenced decades of science fiction cinema.\n\nThe Time Machine remains a landmark in science fiction cinema, faithfully adapting Wells' themes while creating its own memorable imagery. It helped establish the genre as suitable for literary adaptation and serious treatment.",
+      "created_at": "2026-03-03 21:33:09"
+    },
+    {
+      "title": "The Time Machine",
       "year": 1978,
       "medium": "Film",
       "creator": "Directed by Henning Schellerup | Based on the novel by H.G. Wells",
@@ -8688,5 +8705,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 511
+  "count": 512
 }
