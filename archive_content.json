@@ -7431,6 +7431,23 @@
     },
     {
       "title": "The Tunnel",
+      "year": 1915,
+      "medium": "Film",
+      "creator": "William Wauer (director), Bernhard Kellermann (novel)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Germany ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration",
+      "image_filename": "The_Tunnel_1915.jpg",
+      "pitch": "The Tunnel is a 1915 German silent science fiction film, one of the earliest feature-length sci-fi movies ever made. Directed by William Wauer, it adapts Bernhard Kellermann's 1913 novel about an ambitious engineering project that captures the world's imagination: the construction of a massive tunnel under the Atlantic Ocean connecting Europe and America. The film survives today\u2014a rare feat for silent era cinema\u2014and was restored in 2010, allowing modern audiences to witness this pioneering work of speculative fiction. Notably, Adolf Hitler reportedly found the film and novel influential, seeing in them a demonstration of how oratory and mass persuasion could shape historical events.",
+      "truth": "The film follows the story of the construction of the Atlantic Tunnel, an enormous engineering endeavor that promises to revolutionize global connectivity by connecting Europe and America via an underwater passage. The project becomes a global sensation, with massive public interest, political debates, and the mobilization of unprecedented resources.\n\nThe narrative focuses on the challenges faced by the engineers and workers as they attempt to bore through the ocean floor, dealing with geological obstacles, financial difficulties, and the immense psychological toll of working in such an unprecedented environment. The tunnel represents not just an engineering achievement but a symbol of human ambition and the desire to conquer nature.\n\nAs the project progresses, it attracts the attention of governments, financiers, and the public worldwide. The film depicts the social and political implications of such a project\u2014international cooperation, competition between nations, and the transformation of global commerce and communication.\n\nThe story also explores the human drama surrounding the tunnel: the lives of workers, the families waiting for their return, and the visionaries who believed in the impossible. The film was notable for its elaborate sets and special effects for the era, depicting the tunnel boring machines and the underwater construction in ways that must have seemed miraculous to 1915 audiences.",
+      "core": "**Pioneering Spirit and Technological Optimism:** The Tunnel represents early cinema's fascination with technological progress. At a time when major engineering projects like the Panama Canal were capturing global attention, the film tapped into contemporary optimism about what human ingenuity could accomplish. The tunnel becomes a metaphor for human achievement against seemingly impossible odds.\n\n**International Cooperation and Competition:** The transatlantic tunnel would fundamentally reshape global relations, and the film explores how such a project affects international politics. It reflects early 20th-century debates about globalization, national competitiveness, and the promise of technology to bring nations together\u2014or create new divisions.\n\n**The Power of Vision and Persuasion:** The historical note about Hitler's reaction to the film is significant\u2014it suggests the film was understood even in its own time as a work about the power of grand visions to mobilize masses. The tunnel is not just infrastructure but a symbol that can inspire, unify, or manipulate populations.\n\n**Survival and Restoration:** The fact that this film survived while so many others from the era have been lost makes its existence itself meaningful. Its 2010 restoration ensures that this piece of sci-fi cinema history remains accessible, allowing us to see how early filmmakers imagined the future.\n\nThe Tunnel stands as a foundational work in science fiction cinema\u2014a silent era speculation about technological ambition that resonates with modern discussions about mega-projects, global connectivity, and the dreams (and dangers) of engineering the impossible.",
+      "created_at": "2026-03-03 17:14:22"
+    },
+    {
+      "title": "The Tunnel",
       "year": 1933,
       "medium": "Film",
       "creator": "Curtis Bernhardt",
@@ -8450,5 +8467,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 497
+  "count": 498
 }
