@@ -3503,6 +3503,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Paranoia Agent",
+      "year": 2004,
+      "medium": "Anime",
+      "creator": "Satoshi Kon (Director), Seishi Minakami (Writer)",
+      "raw_score": 3.83,
+      "total_ratings": 179375,
+      "origin": "Japan ,",
+      "mood": "Cerebral, Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Isolation, Memory",
+      "image_filename": "Paranoia_Agent_2004.png",
+      "pitch": "Paranoia Agent is a 2004 Japanese anime television series created by the renowned director Satoshi Kon and produced by Madhouse. The series explores a mysterious social phenomenon in Musashino, Tokyo, where a juvenile serial assailant known as \"Lil' Slugger\" (or Sh\u014dnen Batto) attacks citizens with his golden baseball bat. The show follows a complex web of characters affected by this phenomenon, including Tsukiko Sagi, a shy character designer who created the popular pink dog Maromi, and two detectives assigned to solve the case. Known for its psychological depth, the series blurs the lines between reality and delusion, examining how rumors and fear can manifest as physical threats in society.",
+      "truth": "The story begins with Tsukiko Sagi, a character designer who has created the hit character Maromi, facing pressure to replicate her success. One night, she is attacked by an elementary school boy on inline skates wielding a golden baseball bat. Two detectives, Keiichi Ikari and Mitsuhiro Maniwa, are assigned to investigate. Initially suspecting Tsukiko may be lying about the attack, their suspicions change when more victims surface.\n\nAs the series progresses, Lil' Slugger becomes associated with a series of street assaults in Tokyo. Each victim provides similar descriptions: golden inline skates, a baseball cap, and a bent golden baseball bat\u2014yet no one can recall the boy's face. The detectives discover that Lil' Slugger appears to target people who are mentally pushed into a corner, those at their psychological breaking point.\n\nThe series reveals that Lil' Slugger is not actually human but rather a mysterious entity that grows stronger through rumor and speculation. Ultimately, it is revealed that Tsukiko unconsciously created Lil' Slugger as a child to avoid blame for her dog's death. The dog Maromi was based on her real dog, which was killed after wandering away and being hit by a car. Young Tsukiko fabricated the story of a boy with a bat to protect herself from her father's wrath, and this imagined entity eventually manifested as the real-world assailant.\n\nThe show features an ensemble cast, with many characters referred to by animal names, reflecting their psychological states and personalities. The narrative explores themes of trauma, memory, and the power of collective belief to create reality.",
+      "core": "Paranoia Agent is widely regarded as a masterwork of psychological anime, exploring themes of collective hysteria, the nature of reality, and how societies construct enemies to project their fears onto. The series examines how rumors spread and take on lives of their own\u2014Lil' Slugger becomes real precisely because people believe in him, illustrating the power of collective consciousness.\n\nThe show also delves into the pressures of modern life in Japan, particularly the expectations placed on creative workers and the psychological toll of success and failure. Tsukiko's creation of Maromi represents the sanitized, wholesome content demanded by society, while Lil' Slugger represents the repressed violence and trauma that lurks beneath the surface.\n\nSatoshi Kon's direction creates a unsettling atmosphere where the supernatural and psychological bleed together, challenging viewers to question what is real and what is imagined. The series serves as a commentary on media, fear-mongering, and how societies create bogeymen to explain their anxieties. Its open-ended approach invites multiple interpretations, making it a cerebral experience that rewards repeated viewing and analysis.",
+      "created_at": "2026-03-03 11:34:42"
+    },
+    {
       "title": "Paranoia!",
       "year": 1995,
       "medium": "Video Game",
@@ -8093,5 +8110,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 476
+  "count": 477
 }
