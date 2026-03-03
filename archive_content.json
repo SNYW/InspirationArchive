@@ -4166,6 +4166,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Shadow of the Comet",
+      "year": 1993,
+      "medium": "Video Game",
+      "creator": "Infogrames",
+      "raw_score": 5.0,
+      "total_ratings": 1,
+      "origin": "France ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Religion, Isolation",
+      "image_filename": "Shadow_of_the_Comet_1993.jpg",
+      "pitch": "Shadow of the Comet is a 1993 point-and-click adventure game developed and published by French studio Infogrames, later repackaged as Call of Cthulhu: Shadow of the Comet. Set in 1910, the game follows British photographer John Parker as he travels to the isolated New England town of Illsmouth to photograph Halley's Comet. Parker discovers that in 1834, during the comet's previous appearance, Lord Boleskine observed the comet from Illsmouth and went insane under mysterious circumstances. With only three days until the comet arrives again, Parker must uncover the dark secrets of Illsmouth and survive the cosmic horror that awaits. The game is based on H.P. Lovecraft's Cthulhu Mythos, incorporating elements from \"The Dunwich Horror\" and \"The Shadow Over Innsmouth.\"",
+      "truth": "John Parker arrives in Illsmouth, a decrepit coastal town shrouded in fog and secrets. His investigation leads him to discover the journals of Lord Boleskine, who came to Illsmouth in 1834 to observe Halley's Comet under optimal viewing conditions near a natural phenomenon. Instead, Boleskine encountered something that drove him insane. As Parker delves deeper into the town's dark history, he finds that the townspeople are hiding a sinister conspiracy tied to the comet's passage.\n\nThe gameplay involves exploring the town, interacting with NPCs, collecting items, and solving puzzles. Parker must gather evidence about what happened in 1834, discover the connection between the comet and the town's cult-like inhabitants, and ultimately survive until dawn on the third night when Halley's Comet reaches its peak. The game features multiple endings depending on the player's actions and timing.",
+      "core": "**Lovecraftian Horror in Interactive Form:** Shadow of the Comet represents one of the earliest attempts to translate Lovecraft's cosmic horror into the adventure game format. The game emphasizes atmosphere and dread over action, creating a sense of mounting dread as the comet approaches. The 1910 setting adds a period piece quality that contrasts with the eldritch horror, evoking early 20th-century Gothic traditions.\n\n**Cometary Apocalyptic Themes:** The game explores the idea of cosmic events as triggers for supernatural awakening. Halley's Comet's periodic returns create a rhythm of dread\u2014the knowledge that every 76 years, something stirs in Illsmouth. This ties into Lovecraft's broader themes of ancient, cosmic entities whose cycles dwarf human history.\n\n**Isolation and Insanity:** Parker's investigation leaves him increasingly isolated in a hostile town, cut off from help, as his sanity is challenged by what he discovers. The game captures the Lovecraftian theme of knowledge as curse\u2014understanding the truth about the universe and humanity's insignificance is fundamentally destabilizing.\n\nThe game received praise for its plot, writing, and dark humor, though criticized for lack of mouse support. It remains a cult classic among Lovecraft-themed games and is considered a precursor to later Call of Cthulhu adventure games.",
+      "created_at": "2026-03-03 10:47:13"
+    },
+    {
       "title": "Shikari",
       "year": 1963,
       "medium": "Film",
@@ -8042,5 +8059,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 473
+  "count": 474
 }
