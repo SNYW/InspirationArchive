@@ -2517,6 +2517,23 @@
       "created_at": "2026-02-28 10:50:24"
     },
     {
+      "title": "Le avventure straordinarissime di Saturnino Farandola",
+      "year": 1913,
+      "medium": "Film",
+      "creator": "Directed by Marcel Fabre; based on the novel by Albert Robida",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Italy ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration",
+      "image_filename": "Le_avventure_straordinarissime_di_Saturnino_Farandola_1913.jpg",
+      "pitch": "Le avventure straordinarissime di Saturnino Farandola (The Extraordinary Adventures of Saturnino Farandola) is an Italian silent film from 1913 that critics have cited as one of the first expressions of European science fiction cinema. Directed by Marcel Fabre and produced by Societ\u00e0 Anonima Ambrosio of Turin, this pioneering film adapts Albert Robida's 1879 novel \"Voyages tr\u00e8s extraordinaires de Saturnin Farandoul.\" The film spans 57 minutes divided into four episodic adventures, featuring early special effects techniques inspired by Georges M\u00e9li\u00e8s but applied in a more dynamic, action-oriented setting with aerial battles and innovative visual tricks. The film was shot using four main colors: ochre, green, blue, and brown\u2014a remarkable technical achievement for the period.",
+      "truth": "The film tells the story of Saturnino Farandola, born during a maritime disaster and raised by apes on a remote island. After being rejected by the apes due to his human nature, Saturnino becomes a sailor and eventually captain of his own vessel. The first episode, \"L'isola delle scimmie\" (Island of the Apes), follows his upbringing among the primates and his subsequent journey to become a sea captain.\n\nIn the second episode, \"Alla ricerca dell'elefante bianco\" (In Search of the White Elephant), Saturnino and his wife Misora embark on a quest to find a stolen white elephant belonging to the Siamese King. This adventure takes them through Bangkok and involves battles against pirates and Mandarin guards, featuring early examples of chloroform bombs and pneumatic aspirators as weapons.\n\nThe third episode, \"La regina dei Makalolos\" (The Queen of the Makalolos), sees Saturnino and Misora traveling to the Nile where they rescue two young girls who are queens of the Makalolos tribe from various dangers, including a formidable gorilla.\n\nThe final episode, \"Farandola contro Fileas-Fogg\" (Farandola versus Fileas-Fogg), features Saturnino in a conflict involving moving the Niagara Falls, aerial battles in hot air balloons armed with machine guns, and a final confrontation with his rival Fileas-Fogg. The film concludes with Saturnino returning triumphantly to the Island of the Apes.",
+      "core": "**Early European Science Fiction:** This film holds a significant place in cinema history as one of the earliest examples of European science fiction films. While influenced by the French tradition of Georges M\u00e9li\u00e8s, Fabre created something distinctly Italian\u2014combining fantastic adventure with technical innovation. The film demonstrates how early filmmakers adapted literary science fiction and fantastic voyages for the screen.\n\n**The Fantastic Voyage Genre:** The episodic structure follows the tradition of \"voyages extraordinaires\" inspired by Jules Verne, featuring exotic locations, scientific gadgets, and heroic adventure. The film's portrayal of futuristic weapons like chloroform bombs and pneumatic aspirators reflects the early 20th-century fascination with technological advancement.\n\n**Technical Innovation:** The use of hand-painted color and sophisticated stop-motion techniques for the period positions this film as a technical achievement in early cinema. The dynamic action sequences with aerial battles set it apart from the more static magic trick films of M\u00e9li\u00e8s.\n\n**Adventure and Heroism:** Unlike later dystopian sci-fi, this film embraces an optimistic, swashbuckling vision of adventure. Saturnino represents a heroic everyman who overcomes challenges through courage and ingenuity, embodying the frontier spirit transposed to global and even extraterrestrial settings.\n\nThis film remains significant as a historical artifact demonstrating the international development of science fiction cinema beyond the more famous French and American pioneers.",
+      "created_at": "2026-03-03 07:33:45"
+    },
+    {
       "title": "Legend of the Galactic Heroes",
       "year": 1982,
       "medium": "Anime",
@@ -7855,5 +7872,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 462
+  "count": 463
 }
