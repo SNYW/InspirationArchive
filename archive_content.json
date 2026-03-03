@@ -936,6 +936,23 @@
       "created_at": "2026-03-02 11:30:24"
     },
     {
+      "title": "Blade Runner",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Ridley Scott (Director)",
+      "raw_score": 3.97,
+      "total_ratings": 14735,
+      "origin": "USA ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Cyberpunk, Dystopia ,",
+      "topics": "Sentience, Megacorps, Isolation",
+      "image_filename": "Blade_Runner_1982.jpg",
+      "pitch": "In 2019 Los Angeles, synthetic humans known as replicants are bio-engineered by the powerful Tyrell Corporation to work on off-world colonies. When a fugitive group of advanced replicants escapes back to Earth, former police officer Rick Deckard is reluctantly recruited to hunt them down. Blade Runner is a visually stunning neo-noir adaptation of Philip K. Dick's novel \"Do Androids Dream of Electric Sheep?\" that explores what it means to be human through the lens of artificial consciousness.",
+      "truth": "Deckard is brought out of retirement by his former supervisor Bryant to retire four Nexus-6 replicants who have returned to Earth illegally: the violent leader Roy Batty, Leon Kowalski, Zhora, and the deceptive Pris. During his investigation, Deckard discovers that Rachael, an employee at the Tyrell Corporation, is actually a replicant who believes she is human\u2014she has been implanted with false memories from Tyrell's niece to provide her with an \"emotional cushion.\"\n\nAs Deckard tracks down the replicants, he kills Zhora and Leon, while Rachabel saves his life. Meanwhile, Roy and Pris seek help from J.F. Sebastian, a genetic designer who works with Tyrell. When Roy learns that replicants have only a four-year lifespan due to a built-in premature aging gene, he confronts Tyrell, killing him in a desperate plea for more life. In the climactic rooftop chase, Roy spares Deckard's life despite his own failing body. Before dying, Roy delivers the iconic \"tears in rain\" monologue, lamenting that his memories \"will be lost in time.\"",
+      "core": "Blade Runner is widely regarded as one of the greatest science fiction films ever made and a foundational work of the cyberpunk genre. Its themes explore the nature of humanity and consciousness\u2014what separates humans from artificial beings, and whether synthetic memories and emotions constitute genuine feeling or identity.\n\nThe film also presents a vision of a dystopian future where megacorporations hold power over governments, where flying cars coexist with decaying urban environments, and where natural animals are extinct (replaced by synthetic ones). The \"blade runner\" concept itself\u2014a specialized police unit that \"retires\" replicants\u2014raises questions about law enforcement, ethics, and the treatment of artificial beings.\n\nVisually, the film is renowned for its production design, creating a hauntingly beautiful vision of a rain-soaked, neon-lit Los Angeles that has influenced countless films, video games, and anime. The combination of Vangelis's electronic score with the film's noir aesthetics created a new visual and sonic language for science fiction cinema.",
+      "created_at": "2026-03-03 05:50:49"
+    },
+    {
       "title": "Blame!",
       "year": 1995,
       "medium": "Graphic Novel",
@@ -7770,5 +7787,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 457
+  "count": 458
 }
