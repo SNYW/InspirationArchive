@@ -7549,6 +7549,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Wolf's Hole",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "V\u011bra Chytilov\u00e1",
+      "raw_score": 3.4,
+      "total_ratings": 26,
+      "origin": "Czechoslovakia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Wolf's Hole_1986.jpg",
+      "pitch": "Wolf's Hole is a 1986 Czechoslovak science fiction horror film directed by the renowned V\u011bra Chytilov\u00e1, best known for her groundbreaking Czech New Wave masterpiece Daisies. The film was entered into the 37th Berlin International Film Festival and was nominated for the Golden Bear for Best Film. Set in the snowy Czech mountains, the film combines elements of sci-fi, horror, and psychological thriller to create a disturbing allegory about normalization and totalitarian control.\n\nA group of eleven teenagers is invited to a remote skiing workshop in the mountains. Without explanation, they find themselves cut off from the outside world. The camp supervisors insist there are twelve participants, not eleven\u2014and that one of them is an \"intruder.\" As strange events escalate, the supervisors begin fostering hostility among the teenagers, urging them to turn against each other and even kill. The disturbing truth emerges: the supervisors are extraterrestrials who demand that one of the group be sacrificed.",
+      "truth": "The film opens with a group of teenagers receiving mysterious invitations to a skiing workshop in the mountains. They arrive at an isolated cottage, eager for what seems like an adventure. However, from the beginning, things feel wrong\u2014the supervisors are cold, evasive, and seem to be watching the teenagers far too closely.\n\nThe supervisors insist there are supposed to be only ten participants, not eleven, and that one person among them is an imposter. This seeds paranoia within the group as the teenagers begin to suspect each other. The supervisors systematically isolate the teens, creating an atmosphere of mistrust and fear.\n\nAs the situation intensifies, the true nature of the supervisors is revealed\u2014they are extraterrestrials who have brought the teenagers to this remote location for a specific purpose: to demand a human sacrifice. The aliens explain that one of the group must be given up to them.\n\nRefusing to comply with this horrific demand, the teenagers make a desperate escape. In the chaos, they set fire to the cottage and flee together on a timber transport lift, leaving no one behind. The film ends with their narrow escape from this terrifying ordeal, but the psychological wounds and the meaning of what transpired remain open to interpretation.\n\nThe film can be read as an allegory for the normalization period in communist Czechoslovakia following the Soviet invasion of 1968, where citizens were encouraged to inform on each other and maintain a climate of suspicion and fear.",
+      "core": "**Alienation and Paranoia:** Wolf's Hole masterfully builds tension through psychological manipulation, showing how authority figures can turn ordinary people against each other. The extraterrestrial supervisors represent an oppressive force that maintains control through division and fear, mirroring totalitarian regimes that thrive on citizen suspicion and informing.\n\n**Normalization as Horror:** The film is widely interpreted as an allegory for the \"normalization\" period in Czechoslovakia (1968-1989), when the Soviet-backed government suppressed dissent and encouraged citizens to inform on each other. The aliens' demand for sacrifice reflects the way authoritarian systems require victims to maintain their power.\n\n**Youth and Vulnerability:** The teenagers represent innocence and vulnerability, making their manipulation and potential sacrifice even more disturbing. Chytilov\u00e1 uses the horror genre to explore how the young are exploited by corrupt systems.\n\n**Genre Blending:** The film seamlessly blends science fiction and horror conventions, using the isolated mountain setting to create claustrophobic tension. The snowy, austere cinematography adds to the sense of dread and unnaturalness.\n\nChytilov\u00e1's direction earned international recognition, with the film's nomination for the Golden Bear cementing its place as a significant work of Eastern European speculative cinema.",
+      "created_at": "2026-03-03 04:16:24"
+    },
+    {
       "title": "Woman in the Moon",
       "year": 1929,
       "medium": "Film",
@@ -7685,5 +7702,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 452
+  "count": 453
 }
