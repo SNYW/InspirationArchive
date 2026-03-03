@@ -1446,6 +1446,23 @@
       "created_at": "2026-03-01 22:45:08"
     },
     {
+      "title": "Cyborg 009",
+      "year": 1968,
+      "medium": "TV Series",
+      "creator": "Shotaro Ishinomori (manga), Toei Animation (animation)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Rebellion, Sentience",
+      "image_filename": "Cyborg_009_1968.jpg",
+      "pitch": "Cyborg 009 is a groundbreaking Japanese anime television series that inaugurated the genre of superhero anime. Based on the manga by Shotaro Ishinomori, the series follows nine individuals from around the world who are kidnapped by the evil Black Ghost organization and transformed into cyborgs with superhuman abilities. Each cyborg possesses unique powers\u2014telepathy, super speed, strength, underwater capability, and more\u2014that they must learn to control and deploy against their former captors. The series premiered on April 5, 1968, becoming Japan's first color TV anime featuring superheroes, and ran for 26 episodes until September 1968. It established many tropes that would define the superhero anime genre for decades to come, including teams of enhanced heroes, mad scientist villains, and themes of friendship and redemption.",
+      "truth": "The story begins in World War II, where nine children from various nations are rescued from death by Professor Isaac Gilmore, a scientist who opposes the war. He gives them numbers from 001 to 009 and transforms them into cyborgs to save their lives. However, the sinister organization Black Ghost, led by the tyrannical Skull, tracks them down and forces them to become weapons of mass destruction for his evil plans.\n\nProfessor Gilmore helps the nine cyborgs escape from Black Ghost's control, and they band together to fight against the organization and prevent Skull from starting World War III. Each member of the team possesses distinct abilities: 001 has telekinetic powers, 002 has supersonic speed, 003 has perfect hearing and vision, 004 has superhuman strength, 005 can swim at incredible speeds and breathe underwater, 006 has flamethrowers in his hands, 007 is an expert marksman, 008 can transform into any shape, and 009 has telepathic abilities.\n\nThroughout the series, the cyborgs face various threats from Black Ghost's agents, including the Monster Island arc, where they battle giant monsters, and confrontations with rival cyborgs created by the organization. The team must also deal with the emotional trauma of their transformation and learn to work together despite their different backgrounds and personalities. Their journey takes them across the globe as they work to dismantle Black Ghost's operations and protect innocent people from the organization's schemes.",
+      "core": "Cyborg 009 represents a pivotal moment in anime history as one of the first major superhero anime series. The show introduced the concept of cyborg superheroes to Japanese animation and established template elements that would become genre conventions: the team of enhanced individuals with complementary powers, the scientist mentor figure, the evil organization with global ambitions, and the ongoing battle between good and evil. Shotaro Ishinomori's creation also reflected post-war Japanese anxieties about technology and its potential misuse, with the cyborgs representing both the dangers of scientific experimentation and the potential for redemption through heroic action.\n\nThe series explores themes of identity and humanity\u2014despite their mechanical enhancements, the protagonists retain their human emotions and moral compass, continually questioning what it means to be human when part of you is machine. The international composition of the team (nine individuals from different countries) also reflects Ishinomori's vision of global cooperation and peace following World War II. The cyborgs' struggle against Black Ghost can be read as an allegory for overcoming fascism and militarism, with the team representing a multinational force for peace and justice.",
+      "created_at": "2026-03-03 15:33:05"
+    },
+    {
       "title": "Dallos",
       "year": 1983,
       "medium": "Anime",
@@ -8348,5 +8365,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 491
+  "count": 492
 }
