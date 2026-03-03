@@ -427,6 +427,23 @@
     },
     {
       "title": "Akira",
+      "year": 1982,
+      "medium": "Manga",
+      "creator": "Katsuhiro Otomo",
+      "raw_score": 4.4,
+      "total_ratings": 200000,
+      "origin": "Japan ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Cyberpunk, Post-Apocalypse ,",
+      "topics": "Megacorps, Rebellion, Evolution",
+      "image_filename": "Akira_1982.jpg",
+      "pitch": "Akira is a landmark Japanese cyberpunk manga that ran from 1982 to 1990, Set in a post-apocalyptic Neo-Tokyo more than three decades after a mysterious explosion destroyed the original city, it follows teenage biker gang leader Shotaro Kaneda and his mentally unstable childhood friend Tetsuo Shima, whose psychic powers awaken after a traumatic accident. As Tetsuo's abilities spiral out of control, threatening to awaken the legendary entity known as \"Akira,\" the story unfolds into a complex tale of political intrigue, social collapse, and the destructive potential of unchecked power. The manga is widely credited with pioneering the Japanese cyberpunk genre and introducing anime and manga to global audiences.",
+      "truth": "The story begins in 2019 Neo-Tokyo, a city built on artificial islands in Tokyo Bay after the 1982 destruction of Tokyo by a mysterious explosion (later revealed to be Akira). The city is gripped by terrorism, gang violence, and political unrest as it prepares for the upcoming Olympic Games.\n\nWhen Tetsuo's motorcycle crashes after encountering a mysterious child Esper named Takashi, he awakens immense psychic powers. Recruited by the military's secret project led by Colonel Shikishima, Tetsuo becomes increasingly unstable as his powers grow. His inferiority complex toward Kaneda intensifies, leading him to violently seize control of rival gangs and challenge the military.\n\nMeanwhile, Kaneda becomes involved with Kei, a member of an anti-government terrorist group. As Neo-Tokyo descends into chaos, the military attempts to control Tetsuo and contains the secrets of Project Akira\u2014the government's experiments with psychic children. Tetsuo eventually frees Akira, a seemingly ordinary child whose immense powers destroyed Tokyo once before.\n\nThe second half of the manga expands the scope dramatically: Neo-Tokyo is destroyed in Akira's psychic blast, and the story follows survivors in a ruined city split between two factions\u2014the cult of Lady Miyako and the \"Great Tokyo Empire\" led by a god-like Tetsuo. Colonel Shikishima leads military forces against Tetsuo's empire, while Kaneda and Kei rally resistance fighters. The climax involves international military intervention, Tetsuo's transformation into a monstrous entity, and a final confrontation where Akira and Tetsuo ascend to another dimension.",
+      "core": "**Cyberpunk as Social Critique:** Akira exemplifies cyberpunk's fusion of high technology with low life, depicting a futuristic city plagued by poverty, corruption, and infrastructure decay beneath its neon surfaces. Otomo uses the genre conventions to explore themes of generational conflict, youth alienation, and the dehumanizing effects of bureaucracy and military control.\n\n**Power and Responsibility:** The manga presents a sustained meditation on the dangers of unchecked power\u2014both governmental and individual. Akira (the entity) and Tetsuo represent different fates for those who acquire god-like abilities: one who has become an empty vessel for raw power, and another whose psychological wounds twist his abilities into destructive force.\n\n**Influence and Legacy:** Akira is considered one of the most influential works in anime and manga history. It popularized cyberpunk in Japan, influenced countless works globally, and its 1988 anime adaptation became a watershed moment for Japanese media in the West. The manga's detailed artwork, complex narrative structure, and mature themes elevated the medium's international reputation.\n\n**Narrative Innovation:** Otomo's storytelling introduced non-linear plotting, multiple anti-heroes, and ambiguous moralities to mainstream manga. The manga's scope\u2014spanning decades and encompassing military coups, teen gangs, and cosmic-level phenomena\u2014demonstrated the medium's capacity for epic storytelling.",
+      "created_at": "2026-03-03 12:05:50"
+    },
+    {
+      "title": "Akira",
       "year": 1988,
       "medium": "Anime Film",
       "creator": "Katsuhiro Otomo (Director), Izo Hashimoto (Screenplay)",
@@ -8127,5 +8144,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 478
+  "count": 479
 }
