@@ -7005,6 +7005,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Solar Wind",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Timo Linnasalo (Director), Kullervo Kukkasj\u00e4rvi (Based on novel)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Finland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": "The_Solar_Wind_1980.jpg",
+      "pitch": "The Solar Wind is a 1980 Finnish science fiction drama that tells the haunting story of Erik Rankamaa, a gravity scientist who died in 1970 and is brought back to life in 1999 through cryonic preservation. Awakened in a world devastated by eco-catastrophe, Erik finds himself a stranger in a dystopian future where birds are dying, trees must be sheltered from acid rain, and his old acquaintance Fabian's daughter suffers from leukemia caused by environmental poisoning. The film explores themes of resurrection, existential dread, and humanity's relationship with nature through the lens of one man's difficult reintegration into a dying world.",
+      "truth": "Erik Rankamaa (Paavo Piskonen) was a promising gravity researcher who died in 1970 at the height of his career. Thirty years later, in 1999, he is resurrected through cryonic technology at a research institute. His awakening coincides with a world transformed by environmental collapse\u2014birds vanishing, trees requiring shelter from poisonous rain, and radiation-related illnesses plaguing the population.\n\nDuring his recovery, Erik encounters his old colleague Fabian (Erkki Pajala), now an elderly alcoholic working as a janitor. Fabian's daughter Helena (Marja-Leena Keski-Kuha) is dying of leukemia contracted from environmental toxins, while his other daughter Laura (Lilga Kovanko) works at the institute where Erik was revived and is married to Dr. Paul (Antti Litja), who oversees Erik's care.\n\nThe institute gives Laura two weeks to prove that Erik's revival has scientific value. As Erik struggles to adapt to this new world and grapples with his own mortality\u2014he is told he has only two weeks to live\u2014he develops a relationship with Laura. Meanwhile, the eco-catastrophe continues to unfold around them: bodies collect on the streets, and the natural world deteriorates further.\n\nAfter Helena dies, the depressed Fabian suggests suicide. Erik, having fallen in love with Laura but feeling useless and doomed, agrees. The two men depart together to end their lives at Erik's dilapidated cabin. The film ends with Laura mourning at Erik's grave beside a landfill, comforted by her son who tells her \"Erik died a long time ago.\"",
+      "core": "**Environmental Dystopia:** The Solar Wind stands as a prescient ecological warning from the late Cold War era, depicting a world where environmental destruction has rendered the planet nearly uninhabitable. The film portrays a Finland suffering from acid rain, radiation, and ecological collapse\u2014themes that resonate with contemporary concerns about climate change and environmental catastrophe.\n\n**Cryonics and Resurrection:** The film explores the ethics and existential horror of cryonic resurrection, questioning whether bringing someone back to a dying world is an act of hope or cruelty. Erik's return is not a miracle but a burden; he awakens to find his knowledge obsolete, his body failing, and his world beyond saving.\n\n**Isolation and Alienation:** Erik is fundamentally alone in this future world\u2014his contemporaries are dead, his field of expertise is obsolete, and his brief resurrection only highlights his powerlessness. The film captures the alienation of being out of time, unable to connect with a society he no longer understands.\n\n**Finnish Sci-Fi:** This film represents a rare entry in the canon of Finnish science fiction cinema, bringing European art-house sensibilities to the genre. The film's melancholic tone and focus on human relationships over spectacle aligns with broader Finnish cinematic traditions of quiet, contemplative drama.",
+      "created_at": "2026-03-03 12:46:37"
+    },
+    {
       "title": "The Son of the Stars",
       "year": 1988,
       "medium": "Animated Film",
@@ -8178,5 +8195,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 481
+  "count": 482
 }
