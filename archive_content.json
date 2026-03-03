@@ -4812,6 +4812,23 @@
       "created_at": "2026-03-01 09:01:45"
     },
     {
+      "title": "Stories Untold",
+      "year": 2017,
+      "medium": "Video Game",
+      "creator": "No Code, Devolver Digital",
+      "raw_score": 4.05,
+      "total_ratings": 23,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Memory, VR",
+      "image_filename": "Stories_Untold_2017.jpg",
+      "pitch": "Stories Untold is a four-episode adventure/puzzle game developed by Scottish studio No Code and published by Devolver Digital. Released in 2017, it weaves together text-based adventures, first-person exploration, and psychological horror into a meta-narrative about a player who becomes indistinguishable from the character they're controlling. The game pays loving homage to 1980s computing aesthetics while subverting the player's expectations about reality, fiction, and the boundaries between them.\n\nEach episode appears to be a standalone story\u2014at first. The first episode has the player controlling a character who plays a text adventure game called \"The House Abandon\" on their personal computer, only to find that events in the game begin mirroring reality. The second episode places the player in a laboratory conducting experiments on a mysterious alien artifact. The third sends them to an arctic monitoring station. The fourth episode reveals that all four episodes are connected, following one character\u2014James Aition\u2014through experiments that blur the line between the games he's playing and his own memories of a traumatic car crash.",
+      "truth": "The game's structure reveals itself gradually: what seems like four separate stories are actually fragments of one player's fragmented memories. James Aition is undergoing therapy with Dr. Alexander, who uses an experimental machine to help James recover memories of a car crash that killed his sister Jennifer. The \"games\" James plays\u2014the haunted house, the laboratory, the arctic station\u2014are all simulations generated to access different aspects of his traumatic memories.\n\nIn the first episode, \"The House Abandon,\" James plays a text adventure about a holiday home that becomes increasingly distorted as he progresses. The game's reality bleeds into his actual environment\u2014sounds from the game echo in his house, messages change, and the distinction between player and character collapses. The episode ends with the player-character admitting \"It was all my fault\"\u2014a confession that reflects James's guilt about the crash.\n\nThe second episode, \"The Lab Conduct,\" places James in an experiment where he's asked to conduct tests on an alien artifact\u2014a metallic sphere containing some kind of entity. The experiments involve restarting the artifact's \"heart\" and making contact with it. This represents James's attempts to confront the trauma of the accident.\n\nThe third episode, \"The Station Process,\" sends James to an arctic monitoring station where he must use radio equipment and microfiche readers to solve puzzles while other stations are attacked by unseen forces. This represents James's fragmented memories of the accident itself\u2014the isolation, the communication with emergency services, the sense of something incomprehensible approaching.\n\nThe fourth episode reveals that Dr. Alexander has been recording therapy sessions where James plays these \"games\" as a way to access his buried memories. The car crash involved James driving drunk after receiving a bottle of whiskey from his father, with his sister Jennifer as his passenger. He survived; she didn't. The sphere from the laboratory episodes is a metaphor for the traumatic memory itself\u2014something that won't stay buried and must be confronted.",
+      "core": "Stories Untold is fundamentally about guilt, memory, and the stories we tell ourselves to survive. The game's title is ironically apt: the \"stories\" James tells are both the games within the game and the narratives his mind constructs to process trauma. The meta-layer\u2014where the player is controlling someone who is themselves controlling a character in a game\u2014creates a recursive guilt loop that mirrors how trauma survivors relive their experiences.\n\nThe 1980s computing aesthetic is both nostalgic tribute and thematic device. Text adventures were games where players typed commands to navigate fictional worlds; the game suggests that James has been living in a kind of text adventure, following prescribed narratives (the responsible older brother, the sober driver) that his subconscious knows are false. When the \"game\" breaks down, the truth emerges.\n\nThe four-episode structure, revealed only at the end, transforms the player from passive observer to active participant in James's denial. Each episode feels like a complete horror story until the fourth episode recontextualizes them all as therapy sessions\u2014sessions where James has been hiding the worst of his guilt behind the mask of fictional characters. The player, having become invested in these stories, suddenly realizes they've been complicit in James's self-deception.\n\nThe game received generally positive reviews, holding a score of 81 on Metacritic, and was ranked 48th on Eurogamer's list of the \"Top 50 Games of 2017.\" It's a singular achievement in interactive narrative\u2014using the language and structure of gaming itself to explore how we process, avoid, and eventually confront traumatic memories.",
+      "created_at": "2026-03-03 20:05:14"
+    },
+    {
       "title": "Strange Days",
       "year": 1995,
       "medium": "Film",
@@ -8603,5 +8620,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 506
+  "count": 507
 }
