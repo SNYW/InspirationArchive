@@ -8127,6 +8127,23 @@
       "created_at": "2026-03-02 11:04:58"
     },
     {
+      "title": "World of Tomorrow",
+      "year": 2015,
+      "medium": "Animated Short",
+      "creator": "Don Hertzfeldt",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Cloning, Time-Travel, Memory",
+      "image_filename": "World_of_Tomorrow_2015.jpg",
+      "pitch": "World of Tomorrow is a series of animated science fiction short films written, directed, produced, animated, and edited by Don Hertzfeldt. The series began with Episode One in 2015, followed by Episode Two in 2017 and Episode Three in 2020. The first film was nominated for Best Animated Short Film at the 2015 Academy Awards. All three films feature the voice of Julia Pott alongside Hertzfeldt's four-year-old niece Winona Mae, whose spontaneous reactions were recorded and edited into the stories to create her character Emily Prime.\n\nThe series follows a young girl named Emily who is contacted by a third-generation clone of her future self from 227 years in the future, created as a means of achieving immortality. The clone explains the myriad ways people in her time have sought to escape death and loneliness through technology. The design of the film was influenced by science fiction novels and magazine covers of the 1950s and '60s, with Hertzfeldt wanting a storybook aesthetic.",
+      "truth": "**Episode One (2015):** A young girl, Emily, is contacted by a third-generation clone of her future self from 227 years in the future, created as a means of achieving immortality. The clone explains the myriad ways people in her time have sought to escape death and loneliness through technology. They travel to the clone's time and visit the Outernet, a future version of the Internet, where they explore memories of the clone's life.\n\nThe first memory is from the clone Emily's childhood, where a male clone without a brain, nicknamed \"David,\" is kept in stasis as an art exhibit. Emily visits him at the exhibit until his death at age 72. Other memories involve various jobs and loves on the Moon and in outer space. Upon her return to Earth, clone Emily opened an art gallery exhibiting anonymous memories harvested from the dead. Here she meets and falls in love with a fourth-generation descendant clone of David and marries him. He dies suddenly, and no more clones are produced from his line.\n\nFinally, clone Emily reveals that in sixty days, Earth will be destroyed by a meteoroid. She contacted Emily Prime to retrieve an important memory she had forgotten: that of the original Emily and her mother walking together. The specific memory will comfort her in the days leading to Earth's destruction.\n\n**Episode Two (2017):** Emily Prime is busy drawing when she is interrupted by a time-traveling visitor: the sixth back-up copy of the adult third-generation clone who contacted Emily Prime in the previous episode, known as Emily 6. This backup Emily has some genetic deterioration and has decided to replace her mind with a copy of Emily Prime's mind using a neural network. The two start to merge their consciousnesses, exploring Emily 6's memories, including the \"Valley of Buried Memories\" containing inherited memories from other Emily clones.\n\n**Episode Three (2020):** The final episode continues exploring the implications of cloning, memory, and identity through time travel.",
+      "core": "**Mortality and Immortality:** The series is fundamentally about humanity's relationship with death and our desperate attempts to preserve consciousness beyond biological limits. The cloning technology represents both hope and horror\u2014the possibility of eternal life paired with the existential dread of infinite copies losing their sense of self.\n\n**Memory and Identity:** World of Tomorrow explores how memory defines identity. The clone Emily harvests memories from the dead to create art exhibits, suggesting that who we are resides in our recollections. The series asks whether a clone with copied memories is truly the same person, or merely a sophisticated imitation.\n\n**The Child's Perspective:** By filtering this complex philosophical exploration through the eyes of a young child, Hertzfeldt creates a unique tension between innocence and existential dread. Emily Prime's simple questions and reactions provide emotional grounding to abstract scientific concepts.\n\n**Absurdist Humor:** Despite its heavy themes, the series is infused with Hertzfeldt's characteristic absurdist humor\u2014dry observations about the future, bizarre details in the background, and the contrast between the child's casual demeanor and the horrifying revelations about mortality.\n\n**Visual Simplicity:** The minimalist stick-figure animation style, influenced by 1950s sci-fi art, serves the narrative perfectly. The simple aesthetic makes the complex emotional and philosophical content accessible while the stark imagery lingers in the mind.\n\nThe series has been called \"one of the greatest short films in the history of movies\" by Indiewire and ranked #10 on Rolling Stone's list of \"Greatest Animated Movies Ever.\" Hertzfeldt has crafted what might be the crowning achievement of modern science fiction\u2014a meditation on immortality that is both terrifying and strangely comforting.",
+      "created_at": "2026-03-03 14:05:49"
+    },
+    {
       "title": "World on a Wire",
       "year": 1973,
       "medium": "TV Series",
@@ -8263,5 +8280,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 486
+  "count": 487
 }
