@@ -3537,6 +3537,23 @@
       "created_at": "2026-03-02 16:17:40"
     },
     {
+      "title": "Razzennest",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "Johannes Grenzfurthner",
+      "raw_score": 4.65,
+      "total_ratings": 200,
+      "origin": "Austria ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Horror ,",
+      "topics": "Religion, Isolation",
+      "image_filename": null,
+      "pitch": "Razzennest is a 2022 Austrian supernatural horror film that defies conventional genre boundaries. Written and directed by Johannes Grenzfurthner, the film takes place in a Los Angeles sound studio where South African filmmaker Manus Oosthuizen and film critic Babette Cruickshank meet to record an audio commentary for Manus's new documentary about the Thirty Years' War. As they record, strange incidents begin occurring\u2014their crew members are possessed by the ghosts of soldiers and peasants from 1645, and history begins to repeat itself in horrifying ways.\n\nThe film is noted for its unique meta structure\u2014it's essentially a film about making a film, combining elements of satire, tragicomedy, drama, horror, and ghost story. It serves as the second installment in Grenzfurthner's trilogy, following Masking Threshold (2021) and preceding Solvent (2024). The film premiered at Fantastic Fest 2022 and received positive critical response, holding a 93% approval rating on Rotten Tomatoes.",
+      "truth": "The narrative unfolds in a Los Angeles sound studio where Manus Oosthuizen and Babette Cruickshank are recording an audio commentary track for Manus's new documentary about the Thirty Years' War\u2014a film that \"cryptically deals with the legacy of the Thirty Years' War.\" The film is set in 1645 during the war, focusing on the so-called \"Schwedenh\u00f6hlen\" (Swedish Caves)\u2014earthen stables carved into loess in the 16th and 17th centuries.\n\nAs the recording session progresses, strange and terrifying events begin to unfold. One by one, the crew members are possessed by the ghosts of soldiers and peasants from 1645. The historical horrors of the Thirty Years' War\u2014a conflict that devastated Central Europe and killed millions\u2014begin to manifest in the present day. The film's title itself references these historical events.\n\nThe cast includes Sophie Kathleen Kozeluh as Babette Cruickshank, Michael Smulik as Manus Oosthuizen, Anne Weiner as Ellen Zampaglione, Roland Gratzer as Hetti Friesenbichler, and Jim Libby as Pat Kirkpatrick. Joe Dante appears as the narrator. The soundtrack was created by German experimental electronic musician Alec Empire.\n\nGrenzfurthner described the film as \"a love letter to genre films and rain ridicule on arthouse films\" while also being \"a love letter to arthouse films and mock the inherent problems of genre films.\" The film addresses themes of historical trauma, the legacy of religious warfare, and the way past horrors continue to haunt the present.",
+      "core": "**Historical Memory and Trauma:** Razzennest explores how the traumas of history\u2014specifically the Thirty Years' War\u2014continue to resonate centuries later. The film suggests that historical atrocities don't simply disappear but remain embedded in landscapes, institutions, and collective consciousness, waiting to resurface.\n\n**Religion and Violence:** The film explicitly deals with the legacy of religious warfare, examining how Christianity's violent history continues to shape contemporary society. The possession sequences serve as a metaphor for how historical trauma \"possesses\" later generations.\n\n**Meta-Cinema and Self-Reflexivity:** The film's unique structure\u2014being about making a film while simultaneously being a horror film\u2014creates a layered exploration of how we process and represent historical trauma through media. The audio commentary format becomes both a narrative device and a commentary on how we engage with history through film.\n\n**Austrian Identity and History:** As an Austrian production, the film engages with Austria's specific historical position during the Thirty Years' War. The filming locations in the Rohrwald region (Oberrohrbach, Niederhollabrunn, Niederfellabrunn, Leitzersdorf) are directly connected to the historical sites depicted in the film.\n\n**Sound as Horror:** With a soundtrack by Alec Empire and the audio commentary premise, sound plays an essential role in creating atmosphere and dread. The film treats sound as both a narrative element and a horror device, creating an immersive auditory experience.\n\nRazzennest represents a unique contribution to horror cinema, combining Austrian experimental filmmaking traditions with genre elements to create something genuinely unusual. Its exploration of historical trauma, religious violence, and the meta-cinematic commentary on how we process history makes it a significant work in contemporary Austrian cinema.",
+      "created_at": "2026-03-03 00:31:41"
+    },
+    {
       "title": "Rendezvous with Rama",
       "year": 1984,
       "medium": "Video Game",
@@ -7447,5 +7464,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 438
+  "count": 439
 }
