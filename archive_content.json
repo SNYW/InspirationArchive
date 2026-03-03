@@ -1786,6 +1786,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Frankenweenie",
+      "year": 1984,
+      "medium": "Animated Short",
+      "creator": "Tim Burton",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Horror, Science-Fantasy ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Frankenweenie_1984.jpg",
+      "pitch": "Frankenweenie is a 1984 American science fiction comedy horror featurette directed by Tim Burton. The film is both a parody of and homage to the 1931 film Frankenstein, and tells the story of a young boy named Victor Frankenstein who uses science to bring his dead dog Sparky back to life. Originally made as a short film while Burton worked at Walt Disney Productions, the film was shelved by the studio who deemed it too dark for children. It eventually found its way into the hearts of animation fans and later became the basis for Burton's 2012 full-length stop-motion animated remake.\n\nThe film combines Burton's signature gothic aesthetic with a sweet, heartfelt story about the bond between a boy and his pet. It's a charming tribute to classic monster movies while also standing as an early example of Burton's unique visual style and his fascination with the collision between life and death, the natural and the supernatural.",
+      "truth": "Victor Frankenstein is a young boy who loves making monster movies starring his pet Bull Terrier, Sparky. When Sparky is accidentally hit by a car and killed, Victor is devastated. At school, he learns about electrical impulses in muscles, giving him an idea. In his attic, he builds elaborate machines that harness a bolt of lightning to revive Sparky.\n\nAt first, Victor is thrilled to have his dog back. However, Sparky's revival comes with some... complications. The reanimated dog attracts attention from the neighbors when he escapes and roams the neighborhood. Eventually, the neighbors discover Sparky and, mistaking him for a monster, form an angry mob. During the chaos, Sparky is trapped in a burning windmill and appears to die again.\n\nIn a heartwarming twist, the neighbors use their cars and jumper cables to \"recharge\" Sparky, bringing him back once more. The film ends with Sparky revived and happy, having also found love with a neighboring poodle.",
+      "core": "**Life, Death, and Rebirth:** At its core, Frankenweenie explores the age-old question of whether we have the right to play God. Victor's scientific experiment works, but it raises questions about the natural order and the consequences of meddling with death. The film suggests that love and the desire to hold onto those we cherish is a powerful motivator, even when it leads us into scientifically questionable territory.\n\n**The Outcast and His Creation:** Like many of Burton's later works, Frankenweenie deals with themes of isolation and being misunderstood. Victor is a creative, somewhat lonely boy who finds solace in making movies and in his dog. Sparky, even after being revived, is rejected by society - much like Frankenstein's monster. This theme of the misunderstood outcast would become a recurring motif in Burton's filmography.\n\n**Tribute to Classic Horror:** The film is a love letter to the Universal Monster movies of the 1930s and 1940s. Burton's homage is evident in the visual style, the dramatic lighting, and the general approach to the material. The film proves that you can honor classic horror while still making something accessible and entertaining for a wider audience.\n\n**Burton's Beginnings:** Released early in Burton's career, Frankenweenie showcases the filmmaker's unique vision at a formative stage. The gothic atmosphere, the sympathy for monsters and outcasts, and the blend of horror and heart are all present here, pointing directly toward the work that would make Burton famous.",
+      "created_at": "2026-03-03 08:04:06"
+    },
+    {
       "title": "G.O.R.A.",
       "year": 2004,
       "medium": "Film",
@@ -7889,5 +7906,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 464
+  "count": 465
 }
