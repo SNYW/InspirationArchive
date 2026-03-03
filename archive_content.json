@@ -7668,6 +7668,23 @@
       "created_at": "2026-03-01 15:16:15"
     },
     {
+      "title": "You Are a Widow, Sir",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "V\u00e1clav Vorl\u00ed\u010dek",
+      "raw_score": 3.7,
+      "total_ratings": 918,
+      "origin": "Czechoslovakia ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fiction ,",
+      "topics": "Memory, Cloning",
+      "image_filename": "You_Are_a_Widow_Sir_1970.jpg",
+      "pitch": "You Are a Widow, Sir (Pane, vy jste vdova!) is a 1970 Czechoslovak comedy science fiction film directed by V\u00e1clav Vorl\u00ed\u010dek. In the near future, King Rosebud IV of a fictional European kingdom decides to disband his army after an accident injures his cousin. The army generals, fearing for their positions, plot to assassinate the king using an elaborate scheme involving a brain transplant\u2014implanting the mind of a convicted murderess into a synthetic duplicate of a famous actress.",
+      "truth": "The film centers on a conspiracy by army generals to eliminate King Rosebud IV. At a clinic run by Professor Sommer, the generals commission a perfect duplicate of famous actress Evelyna Kelletti, created from veal. Their plan is to implant the brain of Fany Stub\u2014a dangerous murderess sentenced to death\u2014into this artificial body. Stub, as the \"actress,\" would then approach and kill the king, who is known to admire Kelletti.\n\nMeanwhile, army officer Bobo, whose mistake caused the king's cousin's injury, seeks answers from astrologer Stuart Hample. The astrologer gives confusing predictions: he will be killed, then save someone's life, become a widower, and finally marry his dream girl Molly.\n\nKing Rosebud IV also consults Hample and learns of the assassination plot. He orders Generals Otis and Steiner to investigate\u2014unaware that these same officers are behind the conspiracy. The generals decide Hample must be eliminated.\n\nAfter Hample is murdered, a medical mix-up occurs: instead of Stub's brain being implanted into the Kelletti duplicate, Hample's brain is placed there instead. Complications ensue as the now-\"female\" Hample (in Kelletti's body) becomes entangled in the conspiracy, while the real Fany Stub's brain ends up in the astrologer's corpse. A whirlwind of confusion, mistaken identities, and assassination attempts follows.",
+      "core": "**Identity and Body Swapping:** The film explores questions of identity through the literal mixing of bodies and minds. When Hample wakes up in a woman's body, questions of gender, personality, and selfhood arise\u2014decades before such themes became common in science fiction.\n\n**Satirical Critique of Power:** The comedy targets military brass willing to kill their own king to preserve their positions. The elaborate scheme (rather than simple assassination) parodies bureaucratic approaches to problem-solving and the absurdity of power struggles.\n\n**Science Fiction as Farce:** The film treats sci-fi tropes\u2014brain transplants, artificial bodies, cloning\u2014with comedic lightness, making it one of the earliest examples of the sci-fi comedy genre in Eastern European cinema.\n\n**Astrology and Fate:** The horoscope subplot introduces themes of determinism versus free will. Characters attempt to navigate their fates based on astrological predictions, adding another layer of absurdity to the plot.\n\nIva Jan\u017eurov\u00e1 won an award at the International Fantastic Film Festival in Trieste for her dual performance. The film remains a cult classic of Czechoslovak comedy and an early example of body-swap science fiction in European cinema.",
+      "created_at": "2026-03-03 04:46:35"
+    },
+    {
       "title": "Z.P.G.",
       "year": 1972,
       "medium": "Film",
@@ -7702,5 +7719,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 453
+  "count": 454
 }
