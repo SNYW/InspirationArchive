@@ -5407,6 +5407,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Green Cat",
+      "year": 1983,
+      "medium": "OVA",
+      "creator": "Osamu Tezuka",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Exploration",
+      "image_filename": null,
+      "pitch": "The Green Cat is a pioneering experimental OVA released in 1983, representing the first attempt at producing an Original Video Animation in Japan. Part of Osamu Tezuka's legendary Lion Books Collection, this short film adapts the fifth story from the original Lion Books manga series published in 1956. Directed by Tezuka himself, The Green Cat marked a revolutionary moment in anime history\u2014pioneering the direct-to-video distribution model that would later give rise to the massive OVA industry of the 1980s and 1990s. While Dallos is technically credited as the first official OVA, The Green Cat's production run overlapped so closely that it represents either the true first or co-first OVA in history.",
+      "truth": "The Green Cat adapts a standalone science-fantasy story from Tezuka's innovative Lion Books manga series, originally published in December 1956. The story follows a young boy who encounters a mysterious green-furred cat with extraordinary properties. In true Tezuka fashion, the narrative blends whimsical storytelling with deeper philosophical questions about the nature of consciousness and the boundaries between species. The adaptation was produced as part of an ambitious plan to create 26 animated episodes from the Lion Books stories, distributed directly to consumers without television broadcast\u2014a radical concept in 1983 that anticipated the home video revolution. Only the first episode, The Green Cat, was completed initially, with further entries following over the next decade. The animation was directed by Osamu Tezuka himself, making it one of his final directorial works before his death in 1989.",
+      "core": "The Green Cat holds immense historical significance as a boundary-pushing work that helped birth the OVA format. In the early 1980s, as VCRs became widespread in Japanese homes, the anime industry sought new distribution models. The Lion Books Collection represented Tezuka's vision for bypassing traditional broadcast constraints, creating experimental animated works for home video audiences. This model would revolutionize anime production, enabling adult-oriented, niche, and artistic works to find audiences without network censorship or advertiser constraints.\n\nTezuka's adaptation also represents his lifelong fascination with consciousness, transformation\u2014themes present throughout his body of work from Astro Boy to Black Jack. The mysterious green cat serves as a symbol of the unknowable, the boundary between the familiar and the alien. As one of Tezuka's later works, it demonstrates his continued willingness to experiment with form and distribution even as the industry he helped create evolved around him.\n\nThis OVA remains a critical artifact for understanding anime's transition from television-dependent production to the diverse home video market that defined the medium's 1980s and 1990s boom.",
+      "created_at": "2026-03-03 03:45:23"
+    },
+    {
       "title": "The Hidden",
       "year": 1987,
       "medium": "Film",
@@ -7651,5 +7668,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 450
+  "count": 451
 }
