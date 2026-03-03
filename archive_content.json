@@ -868,6 +868,23 @@
       "created_at": "2026-02-28 19:40:15"
     },
     {
+      "title": "Big X",
+      "year": 1964,
+      "medium": "Anime",
+      "creator": "Osamu Tezuka (Manga), Mitsutero Okamoto & Osamu Dezaki (Anime)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Military, Science-Fantasy ,",
+      "topics": "Rebellion, Evolution",
+      "image_filename": "Big_X_1964.jpg",
+      "pitch": "Big X is a landmark 1960s science fiction anime series created by the legendary \"Godfather of Anime\" Osamu Tezuka. Set against the backdrop of World War II and its aftermath, the series follows Dr. Asagumo, a German scientist who is approached by Hitler to research a terrifying new weapon called \"Big X\" - a drug that can expand the human body to enormous sizes without limit. When the doctor tries to delay the project due to concerns about its destructive potential, he is shot by the German army, but not before implanting a card containing the secret of Big X into his young son Shigeru. Years later, a mysterious Nazi organization resurfaces, kidnaps Shigeru, and recovers the card to complete the Big X project - planning to use the drug to create an unstoppable army and reshape the world order.",
+      "truth": "The story begins with Dr. Asagumo being invited to Nazi Germany during WWII to collaborate on the Big X research project. Along with his co-researcher Dr. Engel (whose grandson will later become a villain), the doctor deliberately stalls the research, knowing the catastrophic potential of the weapon. As Germany faces defeat, Dr. Engel shoots Dr. Asagumo, but not before the doctor hides the secret formula within a card that he implants into his son Shigeru.\n\nTwenty years later, in Tokyo, the secret organization known as the \"Nazi Alliance\" (a remnant of the Third Reich) locates Shigeru and extracts the card from him. They complete the Big X project and begin recruiting followers, planning to use the body-expanding drug to create a super-army and achieve world domination. The organization is led by the grandson of Dr. Engel, who has joined the Nazi Alliance and intends to finish what his grandfather started.\n\nShigeru must now fight against his father's former colleagues and their fanatical organization, facing enemies enhanced with the Big X drug who can grow to monstrous sizes. The series explores themes of scientific ethics, the temptation of power, and the battle between those who would use dangerous technology for conquest versus those who would protect humanity from such weapons.\n\nNotably, Big X is considered one of the \"lost\" anime of the 1960s, with most episodes now unavailable - only episodes 1, 11-12, 14, and 40-59 are known to survive. This gives the series an additional layer of historical significance as a rare artifact of early anime history.",
+      "core": "Big X represents a significant moment in anime history as Tokyo Movie's (now TMS Entertainment) first production and one of Osamu Tezuka's earliest forays into animated science fiction. The series tackles themes that would become staples of the genre: the ethical implications of scientific research, the dangers of fascist ideologies, and the question of whether technology serves humanity or destroys it.\n\nThe Big X drug itself - which removes the biological limits on human growth - can be read as a metaphor for unbounded power and the corrupting nature of unchecked ambition. The Nazi villains represent not just historical fascism but the timeless temptation of seeking ultimate power through any means necessary. Meanwhile, Shigeru's fight to stop them embodies the principle that individual courage can overcome organized evil.\n\nThe series is also notable for its place in the \"lost anime\" phenomenon - a cautionary tale about the fragility of early television archives. Only a fraction of the 59 episodes survive today, making any surviving footage valuable historical documentation of 1960s Japanese animation and Tezuka's pioneering work in the medium.",
+      "created_at": "2026-03-03 11:17:23"
+    },
+    {
       "title": "Binti",
       "year": 2015,
       "medium": "Novella",
@@ -8076,5 +8093,5 @@
       "created_at": "2026-02-28 07:28:14"
     }
   ],
-  "count": 475
+  "count": 476
 }
