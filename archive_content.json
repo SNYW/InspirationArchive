@@ -8195,6 +8195,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Three-Body Problem",
+      "year": 2008,
+      "medium": "Novel",
+      "creator": "Liu Cixin",
+      "raw_score": 4.05,
+      "total_ratings": 600000,
+      "origin": "China ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Science",
+      "image_filename": "The_Three-Body_Problem_2008.jpg",
+      "pitch": "The Three-Body Problem is a landmark hard science fiction novel by Chinese author Liu Cixin, the first book in the \"Remembrance of Earth's Past\" trilogy. Set against the backdrop of China's Cultural Revolution and modern-day Earth, the novel follows astrophysicist Wang Miao as he uncovers a conspiracy involving an alien civilization from Trisolaris\u2014a planet in a unstable three-star system. The Trisolarans, facing environmental catastrophe on their homeworld, have launched an invasion force toward Earth, with arrival expected in 450 years. The novel won the Hugo Award for Best Novel in 2015, making it the first Asian novel to win the award.",
+      "truth": "The story begins during China's Cultural Revolution, where astrophysicist Ye Wenjie witnesses her father being beaten to death during a political struggle session. After being sent to a labor camp, Ye is recruited to \"Red Coast,\" a secret military project attempting to detect extraterrestrial life. She discovers a method to amplify radio transmissions using the Sun and broadcasts a message into space.\n\nEight years later, Ye receives a warning from Trisolaris\u2014an alien civilization in the Alpha Centauri star system\u2014urging her to stop transmitting. However, disillusioned with humanity, Ye invites the Trisolarans to Earth to \"save\" humanity from itself.\n\nIn the present day, scientist Wang Miao is recruited to investigate a wave of scientist suicides linked to a mysterious virtual reality game called \"Three Body.\" The game simulates a world with three suns experiencing unpredictable climate cycles\u2014representing the three-body problem in physics. Through his investigation, Wang learns about the Earth-Trisolaris Organization (ETO), a secret society working with the aliens.\n\nThe Trisolarans reveal their plan: due to their unstable homeworld's climate cycles, they must leave for Earth. However, they worry humanity's rapid technological progress will outpace them by the time their invasion force arrives in 450 years. They deploy \"sophons\"\u2014supercomputers embedded in protons\u2014to Earth to freeze human scientific advancement.",
+      "core": "The Three-Body Problem explores profound themes of first contact, the Fermi paradox, and humanity's place in the cosmos. Liu Cixin presents a vision where aliens are neither purely evil nor benevolent, but simply pragmatic survivors. The novel examines how humanity might respond to the knowledge of inevitable invasion, and the psychological toll of confronting an overwhelming external threat.\n\nThe novel also delves into the nature of science itself, depicting how the Trisolarans' sabotage of human physics through sophons creates a crisis of faith among scientists. The title's reference to the three-body problem\u2014a classic physics\u96be\u9898 of predicting chaotic motion in three-body systems\u2014mirrors the unpredictable nature of both the Trisolarans' homeworld and humanity's future.\n\nLiu Cixin's work represents a significant moment in science fiction, bringing Chinese hard SF to global audiences and demonstrating that the genre can transcend cultural boundaries. The novel's blend of cosmological speculation, political history, and thriller elements created a template for 21st-century SF that continues to influence the genre.",
+      "created_at": "2026-03-04 11:02:53"
+    },
+    {
       "title": "The Time Guardian",
       "year": 1987,
       "medium": "Film",
@@ -9453,5 +9470,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 556
+  "count": 557
 }
