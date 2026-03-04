@@ -1684,6 +1684,23 @@
       "created_at": "2026-03-02 09:46:39"
     },
     {
+      "title": "Devotion",
+      "year": 2019,
+      "medium": "Video Game",
+      "creator": "Red Candle Games",
+      "raw_score": 4.3,
+      "total_ratings": 55,
+      "origin": "Taiwan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Religion, Isolation",
+      "image_filename": null,
+      "pitch": "Devotion is a first-person psychological horror game developed by Red Candle Games, set in Taiwan during the 1980s. The player explores a Taipei apartment complex as screenwriter Du Feng-yu, whose family life unravels when his daughter Mei-shin falls mysteriously ill. As financial pressures mount and Feng-yu's career stagnates, he becomes increasingly obsessed with a cult leader who promises to cure his daughter. The game is renowned for its atmospheric depiction of 1980s Taiwanese domestic life, blending cultural authenticity with supernatural horror. Originally released on Steam in February 2019, it was removed after a controversy over an Easter egg referencing Chinese politics, then re-released in 2021 on the developer's own platform.",
+      "truth": "The game follows the Du family\u2014Feng-yu, his wife Li-fang (a retired singer), and their daughter Mei-shin\u2014living in a modest Taipei apartment during the 1980s. Feng-yu's screenwriting career has stalled, and Mei-shin begins showing signs of a mysterious illness. Despite a doctor's suggestion that they seek psychiatric care, Feng-yu becomes obsessed with Mentor Heuh, a cult leader who worships a folk deity called Cigu Guanyin and claims he can cure Mei-shin and restore her singing career.\n\nMei-shin enters a singing contest to please her parents but loses by one point. Her condition worsens to the point where she can no longer sing. As Feng-yu becomes more entranced by Mentor Heuh's teachings, Li-fang tries to convince him to seek help, but Feng-yu accuses her of being \"possessed by evil spirits.\" Li-fang eventually leaves the family.\n\nIn the climax, Mei-shin asks her father to fold origami tulips, believing she will be healed when her room is filled with them. Instead, following Mentor Heuh's instructions from a s\u00e9ance, Feng-yu performs a dark ritual\u2014submerging his daughter in rice wine and locking her in the bathroom for seven days\u2014presumably causing her death. The post-credits scene shows Feng-yu alone in his apartment, the TV displaying static. Whether he survives is left ambiguous.",
+      "core": "**Religious Fanaticism and Toxic Patriarchy:** The game is fundamentally about how religious obsession and patriarchal insecurity destroy a family. Feng-yu's refusal to let his wife work stems from his own insecurities, and his desperate grasp at the cult represents a failure to confront reality. The cult serves as a dark mirror to Fang-yu's own delusions\u2014the game isn't political but explores how fanaticism emerges from personal weakness.\n\n**1980s Taiwanese Nostalgia and Horror:** The game's depiction of 1980s Taipei is both loving and unsettling. Every detail\u2014from period-accurate appliances to traditional religious practices\u2014is rendered with care, making the familiar become uncanny. The horror emerges from this intimacy; home becomes trap, family becomes instrument of sacrifice.\n\n**The Domestic Uncanny:** Drawing comparisons to PT and Gone Home, Devotion inverts the \"safe home\" trope. The apartment is simultaneously nostalgic and claustrophobic, the player's exploration revealing family secrets buried in different time periods. The psychological horror works through implication and atmosphere rather than gore.\n\n**Preservation and Controversy:** Following its removal from Steam, Devotion was selected for preservation at Harvard-Yenching Library in 2020\u2014a testament to its cultural significance. The controversy itself highlighted tensions between Taiwanese creative expression and Chinese political sensitivity, making the game a document of its time beyond its narrative content.",
+      "created_at": "2026-03-04 04:16:43"
+    },
+    {
       "title": "Dobaaraa",
       "year": 2022,
       "medium": "Film",
@@ -9096,5 +9113,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 535
+  "count": 536
 }
