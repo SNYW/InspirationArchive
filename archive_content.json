@@ -987,6 +987,23 @@
       "created_at": "2026-03-03 22:33:18"
     },
     {
+      "title": "Barbarella",
+      "year": 1968,
+      "medium": "Film",
+      "creator": "Roger Vadim (director), based on the comic by Jean-Claude Forest",
+      "raw_score": 2.95,
+      "total_ratings": 40000,
+      "origin": "France ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "Barbarella_1968.jpg",
+      "pitch": "Barbarella is a 1968 French-Italian science fiction film directed by Roger Vadim, starring Jane Fonda as the titular space adventurer. Based on Jean-Claude Forest's French comic series, the film follows Barbarella, a representative of the United Earth government, who is sent to the Tau Ceti planetary system to find Dr. Durand Durand, a scientist who has created a dangerous weapon called the positronic ray that could destroy humanity. The film is renowned for its flamboyant visuals, psychedelic aesthetics, and playful take on science fiction tropes, making it a cult classic of the genre.",
+      "truth": "In an unspecified future, Barbarella is dispatched by Earth's president to retrieve Durand Durand from the Tau Ceti system. Upon crash-landing on the 16th planet, she is rescued by Mark Hand, a winged \"Catchman\" who patrols the ice. She later encounters Pygar, a blind angel who has lost his will to fly, and Professor Ping, who repairs her ship. Barbarella travels to Sogo, a city of vice and debauchery built atop the Mathmos\u2014a living energy force. There, she is captured by the Black Queen and subjected to the \"Excessive Machine,\" which induces fatal sexual pleasure, but survives due to her innocence. She discovers that the concierge is actually Durand Durand, who has aged tremendously from exposure to the Mathmos. Durand plans to overthrow the Black Queen using his positronic ray. During the ensuing battle, the Mathmos is released, but forms a protective bubble around Barbarella and the Black Queen due to Barbarella's purity. Pygar rescues them, and Barbarella returns to Earth having failed to capture Durand Durand but having inadvertently saved humanity from the weapon's destructive potential.",
+      "core": "Barbarella represents a distinctive strand of 1960s science fiction\u2014one that embraces camp, satire, and visual excess rather than the genre's typical serious tone. The film parodies traditional sci-fi hero narratives by subverting the rescue mission trope; Barbarella succeeds not through combat or technical prowess but through her innate goodness and naivety. The character embodies sexual liberation, reflecting the era's shifting attitudes toward intimacy and desire.\n\nThe film's visual design, featuring elaborate sets, colorful costumes, and psychedelic imagery, influenced subsequent sci-fi cinema and helped establish the \"space opera as fashion show\" aesthetic. The Mathmos\u2014living liquid energy powered by evil thoughts\u2014serves as a metaphor for the destructive potential of human desire and corruption.\n\nAlthough critics of the time found its storyline weak, Barbarella has been reevaluated as a pioneering work of feminist and queer cinema. Its camp sensibility, gender-bending elements, and playful subversion of genre conventions have influenced countless filmmakers. The film remains significant as a document of 1960s counterculture and as a bold experiment in blending science fiction with fashion, erotica, and satire.",
+      "created_at": "2026-03-04 17:47:27"
+    },
+    {
       "title": "Battle Angel",
       "year": 1993,
       "medium": "OVA",
@@ -9810,5 +9827,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 577
+  "count": 578
 }
