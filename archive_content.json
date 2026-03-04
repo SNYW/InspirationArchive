@@ -7634,6 +7634,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Last Trick",
+      "year": 1964,
+      "medium": "Animated Short",
+      "creator": "Jan \u0160vankmajer",
+      "raw_score": 3.45,
+      "total_ratings": 1100,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "The Last Trick is the debut film by renowned Czech surrealist Jan \u0160vankmajer, created in 1964 during the height of Czechoslovakia's creative cinematic period. This 12-minute stop-motion animated short depicts a bizarre competition between two mime-like magicians, Mr. Edgar and Mr. Schwarzwald, who attempt to outdo each other with increasingly elaborate and disturbing stage tricks. The film blurs the line between performers and puppets, with actors and Kuroko-style puppets interacting seamlessly. As the competition intensifies, the handshakes become increasingly violent, and the tricks escalate from sleight of hand to grotesque bodily transformations. The film culminates in the magicians literally tearing each other apart in their final disappearing act.",
+      "truth": "During the title sequence, the cast and crew are seen backstage preparing for their performance. The play begins with two magicians, portrayed by both costumed actors and puppets, who compete for the approval of an unseen audience. \n\nFor his first trick, Edgar skins a fish by placing it inside his papier-m\u00e2ch\u00e9 head. Schwarzwald responds by making a dog puppet perform tightrope tricks. Edgar grows multiple arms and plays several instruments simultaneously. Schwarzwald imitates this by growing multiple heads and juggling them. \n\nThe competition escalates further when Edgar causes chairs to come alive and perform tricks at the crack of a whip. In the final act, the two magicians make themselves disappear by tearing each other to pieces.\n\nThe film is notable for its pioneering techniques combining live-action, puppetry, and stop-motion animation, creating a surreal atmosphere where the boundaries between performer and prop dissolve.",
+      "core": "The Last Trick represents \u0160vankmajer's unique approach to animation, which would later influence generations of animators worldwide. The film explores themes of competition, identity, and the relationship between performer and audience. The progressive escalation of violence mirrors the competitive nature of artistic creation, while the use of puppets that appear to have lives of their own questions the nature of consciousness and performance.\n\nThe film's influence extends to contemporary animators and filmmakers, with \u0160vankmajer's distinctive style\u2014combining elements of surrealism, horror, and dark humor\u2014paving the way for works like \"The Nightmare Before Christmas\" and numerous other animated experiments.",
+      "created_at": "2026-03-04 23:18:40"
+    },
+    {
       "title": "The Last War",
       "year": 1961,
       "medium": "Film",
@@ -10133,5 +10150,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 596
+  "count": 597
 }
