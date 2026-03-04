@@ -2891,6 +2891,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Indestructible Man",
+      "year": 1956,
+      "medium": "Film",
+      "creator": "Jack Pollexfen",
+      "raw_score": 2.2,
+      "total_ratings": 3400,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience",
+      "image_filename": "Indestructible_Man_1956.jpg",
+      "pitch": "Indestructible Man is a 1956 American crime horror science fiction film starring Lon Chaney Jr. as Charles \"Butcher\" Benton, a convicted robber and murderer who is executed in the gas chamber, then unlawfully acquired by a scientist for experiments in tissue rejuvenation. Through chemical injections and massive high-voltage electricity, Benton is revived as an impervious mute monster with immense strength, seeking revenge on the men who betrayed him. The film is notable for its noir-influenced storytelling set over a 72-hour period in Los Angeles, featuring location shooting and a narrative style popularized by television police dramas of the era.",
+      "truth": "The film opens with Charles \"Butcher\" Benton being executed in the gas chamber for murder. His body is illegally acquired by Dr. Bradshaw, a scientist seeking to advance his research into curing cancer through tissue rejuvenation. Bradshaw subjects Benton's corpse to chemical injections and massive electrical shocks, which unexpectedly revive him\u2014though the electrical damage renders him mute.\n\nBenton escapes the lab after killing the doctor and his assistant, now possessed of superhuman strength and virtually impervious to harm. He sets out to revenge himself on the two henchmen and the lawyer who betrayed him to secure his hidden loot. Meanwhile, Detective Dick Chasen investigates the mysterious killings, and the story follows Benton's methodical destruction of his enemies while evading police.\n\nThe lawyer, Paul Lowe, eventually confesses the plot to police, revealing that Benton used the sewer system to hide his money. The police track Benton down, attempting to stop him with bazookas and flamethrowers, but Benton is seemingly unstoppable. He finally meets his end when he climbs atop a power station gantry, inadvertently causing it to move toward a transformer\u2014hundreds of thousands of volts surge through the metal frame, searing him to ashes.",
+      "core": "**Science and Morality:** The film explores themes of scientific hubris and the ethical boundaries of medical research. Dr. Bradshaw's unlawful acquisition of a corpse and experimentation on it without consent represents a violation of moral boundaries in pursuit of scientific advancement. The consequences of bringing Benton back prove catastrophic, suggesting that not all that is scientifically possible should be attempted.\n\n**Revenge and Justice:** Benton's story is one of revenge against those who betrayed him, but the film presents this through a noir lens\u2014his victims were criminals themselves, and his betrayal was by fellow criminals. The question of whether his vengeance constitutes justice is complicated by his monstrous transformation and inability to speak, leaving him as a force of nature rather than a sympathetic avenger.\n\n**Death and Imperviousness:** The film's central sci-fi conceit explores immortality and imperviousness as curse rather than gift. Benton cannot die, cannot speak, and cannot feel\u2014making him something less than human. His imperviousness to bullets, knives, and even bazookas only prolongs his suffering and allows him to cause more destruction before his ultimate end.\n\n**1950s Atomic Anxiety:** While not as overtly about nuclear power as other 1950s sci-fi films, Indestructible Man reflects the era's anxieties about radiation, electricity, and scientific experiments gone wrong. The gas chamber execution, the electrical resurrection, and the final electrocution all connect to contemporary fears about the power of atomic-age technology.\n\nThe film has been featured on Mystery Science Theater 3000 and is in the public domain, available for free viewing at the Internet Archive. It remains a cult classic of 1950s B-movie science fiction, notable for Lon Chaney Jr.'s largely silent performance drawing on his father's silent film legacy.",
+      "created_at": "2026-03-04 17:16:42"
+    },
+    {
       "title": "Interplanetary Revolution",
       "year": 1924,
       "medium": "Animated Short",
@@ -9776,5 +9793,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 575
+  "count": 576
 }
