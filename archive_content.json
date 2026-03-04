@@ -1582,6 +1582,23 @@
       "created_at": "2026-03-04 07:02:40"
     },
     {
+      "title": "Cosmic Soldier",
+      "year": 1985,
+      "medium": "Video Game",
+      "creator": "Kogado Studio",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience",
+      "image_filename": "Cosmic_Soldier_1985.jpg",
+      "pitch": "Cosmic Soldier is a pioneering role-playing video game released in 1985 for MSX and PC-8801 home computers by Kogado Studio. Set in space, the game puts players in control of a soldier who can recruit allies through conversation, engage enemies in turn-based combat, and make moral choices about whether to kill or spare foes. The game is notable for its innovative dialog conversation system, where players can recruit allies by speaking with them\u2014a mechanic that would later influence the Megami Tensei franchise. The player navigates a sci-fi universe, battling enemies and building a team of companions through conversation rather than simple combat encounters.",
+      "truth": "Cosmic Soldier places players in the role of a cosmic soldier operating in a distant future setting. The game's core gameplay loop involves exploring various locations, engaging with non-player characters through a dialog tree system, and recruiting potential allies. Players can choose to either defeat enemies in turn-based combat or attempt to spare them through conversation\u2014a mechanic that was relatively unique for its time.\n\nThe game features a branching narrative where player choices affect both the composition of their party and the outcomes of encounters. The conversation system allows for nuanced interactions, with NPCs having their own personalities and responses. Some enemies can be convinced to join the player, while others must be defeated.\n\nA sequel, Psychic War: Cosmic Soldier 2, was released in 1987 for MSX2. This sequel introduced a unique \"tug of war\" style real-time combat system, departing from the turn-based combat of the original. The MS-DOS version of the sequel censored certain content, changing character designs and altering the gameplay balance.",
+      "core": "Cosmic Soldier represents an important milestone in Japanese RPG development, particularly in its emphasis on conversation-based gameplay and moral choice systems. The game's dialog tree mechanic predates similar systems in more famous franchises, showing Kogado Studio's innovative approach to game design.\n\nThe title's space military setting and the ability to recruit enemies as allies through conversation showed an early implementation of narrative-driven RPG mechanics. This focus on character interaction over pure combat would become a hallmark of later Japanese role-playing games, particularly in the Megami Tensei series which expanded on similar concepts.\n\nThe game also reflects the creative ambitions of Japanese microcomputer game development in the mid-1980s, a period when smaller studios like Kogado were exploring experimental gameplay mechanics that would later influence the broader RPG genre.",
+      "created_at": "2026-03-04 14:32:54"
+    },
+    {
       "title": "Cosmic Voyage",
       "year": 1936,
       "medium": "Film",
@@ -9657,5 +9674,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 568
+  "count": 569
 }
