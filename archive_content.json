@@ -6716,6 +6716,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Last Oricru",
+      "year": 2022,
+      "medium": "Video Game",
+      "creator": "GoldKnights",
+      "raw_score": 2.7,
+      "total_ratings": 13,
+      "origin": "Czech-Republic ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Rebellion, Exploration",
+      "image_filename": "The_Last_Oricru_2022.jpg",
+      "pitch": "The Last Oricru is a 2022 action role-playing game developed by Czech studio GoldKnights, their debut project after nearly five years of development. The game places players on the mysterious planet Wardenia, where they assume the role of Silver\u2014an immortal warrior who has crash-landed and must navigate a world torn apart by conflict between local factions. Drawing heavy inspiration from the \"Souls-like\" genre pioneered by Dark Souls, The Last Oricru combines challenging combat with a non-linear narrative where every player decision fundamentally alters the game's world and ending.\n\nWhat distinguishes The Last Oricru from typical action RPGs is its emphasis on player agency in storytelling. The game features multiple factions, and players must choose which groups to support or oppose\u2014a choice that shapes not only the narrative but the very landscape of Wardenia itself. Developed originally under the name \"Lost Hero\" before its 2021 rename, the game represents Czech Republic's entry into the global indie game market, though it released to mixed reviews and was notably listed among Metacritic's worst games of 2022.",
+      "truth": "The player awakens on Wardenia as Silver, an immortal warrior whose spacecraft has crashed on this alien world. Early encounters reveal that Silver has been on Wardenia before\u2014though the protagonist has no memory of previous visits. The planet is ruled by a council of five kings, each controlling different territories and vying for power. As Silver explores Wardenia, they encounter various factions vying for control: the rebellious Brightsiders who oppose the monarchy, the religious order known as the Watchers, and the warrior clans of the northern reaches.\n\nThe game's narrative unfolds through environmental storytelling and optionalNPC encounters. Players learn that Wardenia exists in a state of perpetual conflict, with the immortal Silver serving as a potential game-changer in each faction's ambitions. The central mystery involves Silver's true purpose on Wardenia and why they keep returning to this war-torn world despite apparent attempts to leave.\n\nCombat follows the Souls-like formula: players must master dodge-roll mechanics, block and parry timing, and resource management. Death results in respawn at checkpoints while the player retains collected experience. However, The Last Oricru distinguishes itself through its decision-making system\u2014certain narrative branches become permanently unavailable based on player choices, encouraging multiple playthroughs to discover different faction outcomes.\n\nThe game's world design features interconnected areas reminiscent of classic metroidvania structure, though verticality and shortcut connections are less pronounced than in genre predecessors. Environmental hazards and enemy placement create challenging traversal in addition to combat encounters.",
+      "core": "**Immortality and Purpose:** Silver's status as an immortal being raises questions about cyclical existence and whether second chances ultimately lead to redemption or merely repeat patterns. The character's amnesia suggests previous cycles of involvement with Wardenia's conflicts, implying that immortality has not brought understanding or resolution.\n\n**Factional Conflict and Player Agency:** The game's multiple factions represent different philosophical approaches to governance\u2014some offer liberation, others promise order through authoritarian control. The Last Oricru uses these choices to explore how outsiders inevitably become instruments of existing power structures, even when attempting to help.\n\n**The Souls-like Tradition:** By borrowing from Dark Souls' design philosophy, the game participates in a global conversation about difficulty, failure as learning, and the masochistic pleasures of \"git gud\" gaming culture. Its Czech origins represent this Western borrowing of Japanese game design templates.\n\n**Mixed Reception and Artistic Failure:** The game's poor critical reception\u2014particularly its placement on Metacritic's worst-of-2022 list\u2014raises questions about the gap between ambitious intent and executed product. The Last Oricru serves as a case study in how ambitious indie projects can falter under scope creep and limited resources.\n\n**Czech Game Development:** As one of the notable Czech Republic game exports, The Last Oricru reflects the country's growing presence in the European gaming industry, though its troubled launch highlighted the challenges facing debut studios.",
+      "created_at": "2026-03-04 03:47:20"
+    },
+    {
       "title": "The Last Question",
       "year": 1956,
       "medium": "Short Story",
@@ -9062,5 +9079,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 533
+  "count": 534
 }
