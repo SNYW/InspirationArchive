@@ -4948,6 +4948,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Star Control",
+      "year": 1990,
+      "medium": "Video Game",
+      "creator": "Toys for Bob (Paul Reiche III, Fred Ford)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": "Star_Control_1990.jpg",
+      "pitch": "Star Control is a 1990 action-strategy video game that combines real-time space combat with turn-based galactic conquest. Players choose to command either the Ur-Quan Hierarchy or the Alliance of Free Stars in an interstellar war for control of the galaxy. The game features unique alien starships, each with distinct weapons and abilities, creating deep tactical combat against the AI or another player. With its colorful alien races, innovative ship-to-ship combat using physics-based movement around gravity wells, and memorable musical theme, Star Control became a cult classic that influenced later games like Mass Effect and Stellaris.",
+      "truth": "The game is set during an interstellar conflict between two major powers: the evil Ur-Quan Hierarchy and the diverse Alliance of Free Stars, which includes humanity. Players select a faction and must conquer or defend star systems across the galaxy.\n\nIn the turn-based strategy layer, players move their fleets across a star map, colonizing planets and managing resources. Each planet provides resources (credits and crew) needed to maintain and upgrade starships. The goal is to locate and destroy the enemy's star base.\n\nWhen two opposing starships encounter each other, the game shifts to real-time arcade combat. Each of the 14 available starships has unique primary and secondary weapons, as well as different speed, battery power, and crew capacity. Combat takes place in a single screen with a gravity well (a planet) that affects ship movement\u2014players can use gravity assists or crash into the planet for damage. Ships have batteries that recharge slowly, forcing players to manage their weapon usage strategically. When a ship's crew is depleted, it is destroyed.\n\nThe Alliance includes ships like the Chenjesu (crystal-based projectiles), the Mmrnmhrm (swarming robots), and the Yehat (shielded tanks). The Ur-Quan forces include the VUX (toxic gas projectors), the Mycon (creepy organic ships), and the terrifying flagship Ur-Quan dreadnoughts. The player can also recruit several independent alien races as mercenaries.",
+      "core": "Star Control's innovation lay in its ship design and combat system. Each alien race was visually and mechanically distinct, with combat styles that required different strategies. The gravity well mechanic added a spatial puzzle element to what could have been simple twitch combat. The game balanced deep strategy with accessible action, appealing to both strategy gamers and arcade enthusiasts.\n\nThe game's legacy extends through its sequel Star Control II, which expanded the universe with rich alien cultures, dialogue, and story. That game's open-source remake, The Ur-Quan Masters, kept the community alive and inspired developers who went on to create modern space strategy games. Star Control demonstrated how video games could create memorable alien civilizations with distinct personalities through design rather than exposition.",
+      "created_at": "2026-03-04 03:59:39"
+    },
+    {
       "title": "Star Odyssey",
       "year": 1979,
       "medium": "Film",
@@ -9079,5 +9096,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 534
+  "count": 535
 }
