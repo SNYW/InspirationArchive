@@ -5475,6 +5475,23 @@
       "created_at": "2026-03-01 09:37:38"
     },
     {
+      "title": "Sputnik",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "Egor Abramenko",
+      "raw_score": 3.2,
+      "total_ratings": 30000,
+      "origin": "Russia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Sputnik_2020.jpg",
+      "pitch": "Sputnik is a 2020 Russian science fiction horror film directed by Egor Abramenko in his feature directorial debut. The film takes place in 1983 Soviet Union, where a cosmonaut named Konstantin Veshnyakov is the sole survivor of a mysterious space accident that crashed in Kazakhstan. The military takes him to a secret research facility run by Colonel Semiradov, where scientists discover that Veshnyakov has an alien organism living inside him\u2014a symbiotic creature that emerges each night while he sleeps. When a psychiatrist named Dr. Tatyana Klimova is recruited to assess Veshnyakov's mental state, she uncovers the dark truth: the alien requires cortisol from living, terrified humans to survive. The film combines Cold War paranoia with body horror, exploring themes of sacrifice, hidden government experiments, and the bonds between captor and captive.",
+      "truth": "In 1983, two Russian cosmonauts aboard a spacecraft hear something moving outside their vessel before crashing in Kazakhstan. The sole survivor is Konstantin Veshnyakov, who is taken to a military research facility overseen by Colonel Semiradov. The facility's scientist, Yan Rigel, attempts to cure Veshnyakov's amnesia but fails. Semiradov then recruits Dr. Tatyana Klimova, a controversial psychiatrist, to evaluate Veshnyakov.\n\nKlimova discovers that Veshnyakov exhibits symptoms of post-traumatic stress. Semiradov reveals a shocking secret: at night, an alien creature emerges from Veshnyakov's mouth while he sleeps. The creature has become symbiotically bonded to Veshnyakov\u2014if separated, both will die. The Soviet government wants to study the alien as a potential weapon.\n\nAs Klimova investigates, she theorizes that the alien is drawn to things that remind Veshnyakov of his son, whom he never met. When she reviews surveillance footage, she discovers it's been edited. Confronting Rigel, she learns that Semiradov has been feeding live humans\u2014prisoners convicted of crimes\u2014to the alien each night, as it requires cortisol from terrified humans to survive.\n\nVeshnyakov eventually reveals he can remember everything the creature experiences but has been hiding this fact because he wants Moscow to approve his release so he can return to his son. When Klimova plans to help him escape by injecting him with hormones that would trick the alien into rejecting him, Semiradov's soldiers intercept them. Veshnyakov injects himself prematurely, forcing the alien to attack the soldiers. In the chaos, Veshnyakov takes voluntary control of the alien and uses it to kill Semiradov and his men. Realizing he must die to prevent further killing, Veshnyakov shoots himself in the head. Klimova survives and adopts his son.",
+      "core": "**Cold War Paranoia and Government Secrecy:** The film is steeped in the atmosphere of 1980s Soviet paranoia. The secret facility, the cover-ups, the willingness to sacrifice human lives for military advantage\u2014all reflect the moral compromises of the Cold War era. The alien becomes a metaphor for the hidden, monstrous things governments do in the name of national security.\n\n**Symbiosis and Dependency:** The relationship between Veshnyakov and the alien is genuinely symbiotic\u2014both need each other to survive. This creates moral complexity: the alien isn't simply a monster; it's a being with needs, and Veshnyakov has consciously chosen to allow it to feed on others to stay alive. The film explores how dependency can become a form of complicity.\n\n**Body Horror and Physical Intimacy:** The alien emerging from Veshnyakov's body each night is viscerally disturbing. The creature isn't an external threat but something intimately woven into the protagonist's being. This body horror approach makes the horror personal rather than external.\n\n**Fatherhood and Sacrifice:** Veshnyakov's driving motivation is his desire to meet his son\u2014knowledge of whom he only discovered one week before his mission. This paternal love becomes the emotional core, culminating in his ultimate sacrifice to prevent the alien from harming others.\n\n**The Weaponization of Fear:** The alien needs cortisol from frightened humans to survive. This creates a disturbing commentary on how fear can be harvested and weaponized, fitting the film's Cold War context where psychological operations and terror were tools of state power.",
+      "created_at": "2026-03-04 20:47:12"
+    },
+    {
       "title": "Srde\u010dn\u00fd pozdrav ze zem\u011bkoule",
       "year": 1982,
       "medium": "Film",
@@ -9980,5 +9997,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 587
+  "count": 588
 }
