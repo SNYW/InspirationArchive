@@ -2024,6 +2024,23 @@
       "created_at": "2026-03-01 13:48:01"
     },
     {
+      "title": "Elite",
+      "year": 1984,
+      "medium": "Video Game",
+      "creator": "David Braben, Ian Bell",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": "Elite_1984.jpg",
+      "pitch": "Elite is a groundbreaking space trading and combat simulator that revolutionized gaming upon its 1984 release. Developed by David Braben and Ian Bell and originally published by Acornsoft for the BBC Micro, Elite placed players in the role of Commander Jameson piloting a Cobra Mark III spacecraft from the Lave Station. The game featured an open-ended, nonlinear gameplay model where players could accumulate wealth through trading, piracy, mining, bounty hunting, or legitimate missions\u2014essentially creating their own narrative in a vast, procedurally generated galaxy.\n\nWhat made Elite revolutionary was its use of wire-frame 3D graphics with hidden-line removal, a first for home computer games. The game featured eight galaxies with hundreds of star systems to explore, each with unique planets, economies, and space stations. The title derives from the game's ultimate goal: raising one's combat rating to the coveted \"Elite\" status. Elite proved hugely influential, serving as a model for games including Wing Commander, Grand Theft Auto, EVE Online, Freelancer, the X series, and No Man's Sky.",
+      "truth": "The player begins at Lave Station with 100 credits and a lightly armed Cobra Mark III trading ship. Across the game's galaxy, various star systems contain planets with orbiting space stations where players can buy and trade goods, upgrade their ship, refuel, and repair. Goods prices vary by system based on supply and demand\u2014trading between agricultural and industrial worlds forms the core gameplay loop.\n\nCombat encounters include pirates and, eventually, the mysterious Thargoid alien race that may intercept players during hyperspace jumps, trapping them in \"witch-space.\" Players can accept missions from mission boards, including legal trading routes, passenger transport, and military contracts. Equipment upgrades include better weapons, increased cargo capacity, a docking computer, fuel scoops for collecting stellar energy, and mining lasers for asteroid harvesting.\n\nThe game features an economy influenced by the player's actions\u2014flooding a market with certain goods drives down prices, while scarcity increases values. Different systems have different government types (Anarchy, Feudal, Communist, Democracy, Corporate), each affecting the available goods and dangers. The ultimate achievement is reaching \"Elite\" combat status, requiring significant skill and score accumulation.",
+      "core": "**Open-World Innovation:** Elite was among the first games to offer true open-world gameplay without a linear narrative. Players chose their own path\u2014becoming a wealthy trader, feared pirate, skilled bounty hunter, or all of the above. This freedom influenced countless future games and established the space trading simulation as a genre.\n\n**Technical Pioneering:** The 3D wire-frame graphics and procedural galaxy generation were technically groundbreaking for home computers. Creating a full galaxy with hundreds of systems on limited hardware demonstrated the potential of procedural content generation in gaming.\n\n**The Dark Wheel:** Elite included a novella by Robert Holdstock, \"The Dark Wheel,\" which provided lore about the game's universe and the moral codes governing space travel. This innovation of bundling narrative content with games was influential.\n\n**Enduring Legacy:** Elite launched an ongoing franchise that continues today with Elite Dangerous. The series holds the Guinness World Record as the longest-running space simulation series. Elite's core concepts\u2014open-world space exploration, trading, and combat\u2014remain foundational to the genre, influencing everything from indie space games to major franchises.\n\nElite represents a landmark in gaming history that established many conventions still used today and demonstrated that video games could offer sophisticated, player-driven experiences rivaling other media in their ambition and depth.",
+      "created_at": "2026-03-04 14:16:48"
+    },
+    {
       "title": "End of the World",
       "year": 1931,
       "medium": "Film",
@@ -9640,5 +9657,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 567
+  "count": 568
 }
