@@ -2806,6 +2806,23 @@
       "created_at": "2026-03-03 20:35:52"
     },
     {
+      "title": "Heart of a Dog",
+      "year": 1925,
+      "medium": "Novel",
+      "creator": "Mikhail Bulgakov",
+      "raw_score": 4.08,
+      "total_ratings": 73655,
+      "origin": "Russia ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Biopunk ,",
+      "topics": "Transhumanism, Evolution",
+      "image_filename": "Heart_of_a_Dog_1925.jpg",
+      "pitch": "Heart of a Dog is a biting satirical novella by Russian author Mikhail Bulgakov, written in 1925 but not published in the Soviet Union until 1987. Set in Moscow in 1924, the story follows Professor Filipp Filippovich Preobrazhensky, a distinguished surgeon who performs a groundbreaking experiment: transplanting human pituitary glands and testicles into a stray dog named Sharik. The experiment succeeds beyond anyone's expectations\u2014Sharik begins transforming into a human, but not the refined gentleman the Professor hoped for. Instead, he becomes Poligraf Poligrafovich Sharikov, a vulgar, ignorant, and politically dangerous man whose behavior descends into chaos. The novella serves as a sharp allegory of the Bolshevik Revolution and the Soviet Union's attempt to \"engineer\" humanity through radical social engineering.",
+      "truth": "The story begins in winter 1924 Moscow, when a stray dog is brought to Professor Preobrazhensky's apartment. The Professor, along with his assistant Dr. Bormental, performs the experimental operation on the dog, using organs from Klim Grigorievich Chugunkin\u2014a dead alcoholic thief. The surgery is successful, and over the following weeks, Sharik gradually transforms into a human being.\n\nThe newly human Sharikov proves to be a disaster. He learns to read and write but embraces only the most base aspects of humanity\u2014he becomes rude, lazy, politically subversive, and eventually joins the local housing committee, using his position to threaten the Professor and demand better living conditions. He brings home a woman as his common-law wife and denounces the Professor to the secret police (OGPU).\n\nThe climax sees the Professor and Bormental face the consequences of their scientific hubris as Sharikov becomes increasingly uncontrollable. Ultimately, they are forced to reverse the operation, transforming Sharikov back into a dog\u2014but with human consciousness trapped inside a canine body, remembering everything. The story ends with the Professor contemplating another experiment, leaving the reader with an ominous suggestion that the cycle may begin again.",
+      "core": "**Scientific Hubris and the Engineer of Human Nature:** The novella explores the dangers of attempting to scientifically engineer humanity. Professor Preobrazhensky represents the intellectual who believes he can perfect society through scientific intervention, but his creation becomes a monster. The novel suggests that human nature cannot be so easily engineered or controlled\u2014that the attempt to improve humanity through surgery reflects the same utopian ambitions driving Soviet communism itself.\n\n**Satire of Bolshevism:** Written during the New Economic Policy era but unpublished for decades due to its obvious allegorical content, the novella is a savage critique of the Soviet experiment. Sharikov represents the \"new Soviet man\"\u2014educated but lacking morality, empowered but abusive, ideologically motivated but fundamentally amoral. The novel suggests that the revolution produced not a superior human being but a vulgar, destructive force that threatens everything civilized.\n\n**Class and Social Structure:** The story examines the relationship between the educated bourgeoisie and the proletariat. Professor Preobrazhensky represents old-world values and refinement, while Sharikov embodies the threat the revolution posed to culture and civilization. The dog's transformation mirrors the social upheaval of the revolution, where the lower classes were suddenly empowered but lacked the education or moral foundation to use power responsibly.\n\n**The Nature of Identity:** What makes someone human\u2014body or mind? The novella explores this question through Sharik's transformation. Even after becoming human physically, Sharikov retains the worst traits of his donor (the alcoholic, thieving Chugunkin), suggesting that identity is shaped by more than just physical form. The ending, where the dog retains human memories, blurs the line between human and animal further.\n\nHeart of a Dog remains a landmark of Russian literature and a prescient warning about the dangers of scientific utopianism and engineered social change.",
+      "created_at": "2026-03-04 21:47:15"
+    },
+    {
       "title": "Heavy Metal L-Gaim",
       "year": 1984,
       "medium": "Anime",
@@ -10031,5 +10048,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 590
+  "count": 591
 }
