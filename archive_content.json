@@ -987,6 +987,23 @@
       "created_at": "2026-03-01 10:13:33"
     },
     {
+      "title": "Battle of the Planets",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Tatsunoko Production (original \"Science Ninja Team Gatchaman\"), Sandy Frank (American adaptation)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "Battle_of_the_Planets_1978.jpg",
+      "pitch": "Battle of the Planets is an American adaptation of the Japanese anime series Science Ninja Team Gatchaman, produced in 1972 by Tatsunoko Production but not broadcast in the US until 1978. The series follows G-Force, a team of five young heroes who possess extraordinary abilities and advanced technology, tasked with protecting Earth from the alien forces of the planet Spectra and other cosmic threats. Led by the mysterious villain Zoltar, Spectra seeks to conquer Earth through increasingly sophisticated attacks from beyond space.\n\nThe adaptation was heavily edited for American audiences\u2014removing graphic violence, death scenes, and thematic depth present in the original\u2014to make it suitable for children. Despite these edits, the series maintained the core narrative of a team of young heroes fighting against an alien empire, with the underlying themes of environmentalism, anti-militarism, and the power of friendship remaining intact. The series became enormously popular in the US, airing on over 100 network affiliates by 1979 and establishing anime as a viable entertainment format for American television.",
+      "truth": "The series centers on five teenagers\u2014Mark, Jason, Princess, Keyop, and Tiny\u2014who are recruited by the mysterious alien being known as the \"Commander\" to become G-Force, Earth's first line of defense against extraterrestrial threats. Each member possesses unique abilities: Mark is the team leader and martial arts expert, Jason is a hot-headed but skilled fighter, Princess has psychic abilities, Keyop is an energetic youth with superhuman agility, and Tiny is the strongest member of the team.\n\nTheir primary adversary is Zoltar, a masked villain who serves as the main field commander for Spectra. Zoltar receives his orders from \"the Luminous One,\" a seemingly omnipotent being who appears as a ghostly, disembodied entity. Throughout the series, Zoltar leads various alien invasions and technological attacks against Earth, ranging from giant robots to mind-control schemes to environmental catastrophes.\n\nThe team operates from the command center, using their advanced ship and transforming vehicles to battle Spectra's forces. They are aided by their mentor, the Commander, who appears as an elderly man but is later revealed to be an alien being from a peaceful race. As the series progresses, the G-Force team faces increasingly dangerous threats, gradually uncovering the true nature of the Luminous One and the history of the conflict between Earth and Spectra.\n\nThe original Japanese series, Gatchaman, was created by Tatsuo Yoshida and contained much darker themes, including the death of team members and the psychological toll of constant battle. The American version sanitized these elements, replacing them with more child-friendly scenarios while maintaining the basic framework of alien invasion and heroic resistance.",
+      "core": "**Environmentalism and Anti-Militarism:** The original Gatchaman series was deeply influenced by the environmental movement of early 1970s Japan, with many episodes focusing on ecological themes\u2014pollution, deforestation, and the destruction of natural habitats by greedy corporations. The American version retained some of these environmental messages, presenting Earth's enemies as exploitative forces seeking to pillage the planet's resources.\n\n**The Power of Youth:** Both versions celebrate the agency of young people, presenting teenagers as capable of meaningful heroism and moral courage. G-Force is not a government military force but a volunteer team of young people who choose to fight for their world. This theme resonated with young American viewers who saw themselves reflected in the heroic protagonists.\n\n**Friendship and Teamwork:** The series emphasizes cooperation and mutual reliance among the G-Force members, each of whom contributes unique skills to overcome challenges they cannot face alone. This team dynamic became a template for countless subsequent superhero team stories in both anime and Western media.\n\n**Cultural Bridge:** Battle of the Planets represents one of the earliest successful introductions of Japanese anime to American audiences, paving the way for the anime boom of the 1980s and beyond. Despite its edited nature, it demonstrated that Japanese storytelling conventions could find audiences in the West, establishing precedents for localization and adaptation that continue to influence how anime reaches international viewers.\n\nThe series' legacy extends beyond its entertainment value\u2014it helped create the market for anime in America and demonstrated that sci-fi adventure could appeal across age groups when combined with compelling characters and imaginative world-building.",
+      "created_at": "2026-03-04 07:49:28"
+    },
+    {
       "title": "Beneath a Steel Sky",
       "year": 1994,
       "medium": "Video Game",
@@ -9300,5 +9317,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 547
+  "count": 548
 }
