@@ -8399,6 +8399,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Time of Roses",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Risto Jarva",
+      "raw_score": 2.95,
+      "total_ratings": 367,
+      "origin": "Finland ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Memory, Media",
+      "image_filename": "Time_of_Roses_1969.jpg",
+      "pitch": "Time of Roses is a pioneering 1969 Finnish science fiction film set in the year 2012, directed by Risto Jarva. The film follows Raimo Lappalainen, a documentary filmmaker preparing a television program about Finland in the 1960s, specifically the story of Saara Turunen, a nude model who died in an accident in the 1970s. As Raimo digs deeper into the past through interviews and research, he discovers that the \"progress\" and social liberalization promised by the 2012 meritocratic society has merely masked underlying class conflicts and social tensions that still simmer beneath the surface. The film is notable for its pop art aesthetics and social commentary, exploring themes of media, memory, and the reconstruction of history.",
+      "truth": "The story is set in 2012, a time when Finnish society has supposedly evolved into a human-centered, democratic, and liberal meritocracy where class boundaries have disappeared. Raimo Lappalainen works as a documentary filmmaker for television, tasked with creating a program about Saara Turunen, a glamorous nude model from the 1960s who died tragically in the 1970s.\n\nAs Raimo researches Saara's life, interviewing people who knew her and exploring archival footage, he expected to tell a simple story of a tragic beauty. However, his investigation reveals a more complex picture - one that connects the cultural revolution of the 1960s to the apparent utopia of 2012. Through his journey, Raimo discovers that the technological progress of the intervening decades has not eliminated the fundamental social conflicts of earlier times.\n\nThe film interweaves Raimo's present-day investigation with flashbacks and dramatized reconstructions of the 1960s, creating a layered narrative about how history is both recorded and distorted through media. A subplot involves a nuclear power plant strike and the death of a strike general, suggesting that the promised utopia remains fragile and that the class struggle continues in new forms.",
+      "core": "Time of Roses is widely regarded as one of the first major Finnish science fiction films and represents a significant work of Nordic speculative cinema. The film explores several interconnected themes that remain relevant today.\n\n**Media and Memory:** The film interrogates how history is constructed through media, questioning whether documentary filmmaking can ever capture \"truth\" or whether it inevitably reconstructs the past through contemporary lenses. Raimo's attempt to revive Saara's story becomes a meditation on the reliability of visual media as historical record.\n\n**Social Continuity Beneath Apparent Change:** Jarva's dystopian vision suggests that while societies may transform superficially - adopting new technologies, erasing old class markers - the fundamental tensions persist. The 2012 Finland may claim to have transcended class conflict, but the film reveals it has merely evolved into new forms.\n\n**The Promise and Failure of Progress:** The film critiques utopian thinking by showing how technological and social \"progress\" fails to deliver genuine human fulfillment. The characters in 2012 may live in a more liberal society, but they remain trapped by the same fundamental human problems - loneliness, meaninglessness, and the search for authentic connection.\n\nThe film's pop art visual style was unusual for Finnish cinema of the era, and its social critique anticipated later dystopian works. Time of Roses has been restored in recent years and gained international recognition as a lost classic of European science fiction cinema.",
+      "created_at": "2026-03-04 03:32:45"
+    },
+    {
       "title": "Time to Hunt",
       "year": 2020,
       "medium": "Film",
@@ -9045,5 +9062,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 532
+  "count": 533
 }
