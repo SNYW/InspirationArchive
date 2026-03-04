@@ -8399,6 +8399,23 @@
       "created_at": "2026-03-02 17:18:30"
     },
     {
+      "title": "The War of the Worlds",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "Byron Haskin",
+      "raw_score": 3.5,
+      "total_ratings": 41000,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF, Horror ,",
+      "topics": "Aliens",
+      "image_filename": "The_War_of_the_Worlds_1953.jpg",
+      "pitch": "The War of the Worlds is a landmark 1953 American science fiction film directed by Byron Haskin and produced by George Pal, based on H.G. Wells's 1898 novel. Set in 1950s Southern California instead of Victorian England, the film follows nuclear physicist Dr. Clayton Forrester as he investigates a meteor crash that turns out to be the vanguard of a Martian invasion. Together with Sylvia Van Buren, Forrester witnesses the terrifying power of the Martians' heat-rays and force fields as they systematically devastate military forces and advance toward major cities. The film won the Academy Award for Best Visual Effects and is considered one of the greatest science fiction films of the 1950s.",
+      "truth": "The film opens with a prologue warning of the destructive power of modern warfare, then shifts to a small California town where a meteor lands near Linda Rosa. Dr. Clayton Forrester, a nuclear physicist, suspects the object is hollow and investigates alongside Sylvia Van Buren and her uncle, Pastor Collins. When the Martians emerge from their craft, they annihilate three soldiers with a heat-ray weapon. More meteors land worldwide as the military mobilizes, but conventional weapons prove useless against the Martians' invulnerable force fields.\n\nAs the invasion escalates, the Martians deploy fighting machines equipped with heat-rays and black smoke, destroying everything in their path. Forrester and Sylvia survive the initial attacks and flee with the military, witnessing the complete collapse of human civilization's defenses. The film reaches its climax as the Martians seem poised to conquer Earth\u2014only for them to mysteriously die from exposure to Earth's common bacteria, to which they have no immunity. In the final scene, Forrester and Sylvia emerge from hiding to find the Martian machines silent and the surviving humans\u6361\u56de\u4e00\u6761\u547d.",
+      "core": "The War of the Worlds (1953) represents a crucial moment in science fiction cinema, bringing the techniques of George Pal's production to bear on classic Wellsian themes. The film translates Victorian England's invasion terror to Cold War America, replacing the stationary Martians of the novel with mobile fighting machines that evoke tanks and war machinery\u2014reflecting contemporary anxieties about technological warfare and atomic weapons.\n\nThe film's greatest achievement is its visual effects, which earned the Academy Award for Best Visual Effects. The Martian machines, designed by R. A.\u70df\u706b, combine organic and mechanical elements in genuinely unsettling ways. The iconic image of the tripod-like fighting machines striding across the California landscape, their heat-rays incandescent against the night sky, created visual vocabulary that influenced decades of science fiction imagery.\n\nThematically, the film reflects 1950s Cold War anxieties about nuclear annihilation and technological superiority. The Martians represent an unfathomable, unstoppable enemy\u2014much like fears of Soviet communism or nuclear war. Yet the film's resolution offers a nuanced message: humanity is saved not by its military might or intellectual superiority but by simple biological accident. Earth's microbes, utterly insignificant to the advanced Martians, prove to be their Achilles heel. This suggests a humbling perspective on human significance in the cosmos\u2014one that would be explored in subsequent alien invasion narratives.\n\nThe 1953 War of the Worlds also established template elements for the alien invasion genre: the initial crash/landing, the heat-ray weapon, the military's futile resistance, the survival protagonists, and the unexpected biological salvation. These elements would be revisited and varied in countless films to follow, making this a foundational text for science fiction cinema.",
+      "created_at": "2026-03-04 09:48:12"
+    },
+    {
       "title": "The War of the Worlds: Next Century",
       "year": 1981,
       "medium": "Film",
@@ -9402,5 +9419,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 553
+  "count": 554
 }
