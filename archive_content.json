@@ -1956,6 +1956,23 @@
       "created_at": "2026-03-04 04:16:43"
     },
     {
+      "title": "Die Welt ohne Maske (The World Without a Mask)",
+      "year": 1934,
+      "medium": "Film",
+      "creator": "Harry Piel",
+      "raw_score": 3.05,
+      "total_ratings": 1025,
+      "origin": "Germany ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "Die Welt ohne Maske (The World Without a Mask) is a 1934 German science fiction comedy film directed by and starring Harry Piel. The film centers on an inventor who works on developing a revolutionary radio-television device that can see through solid objects. When a con artist sees an opportunity to exploit this invention for profit, he encourages the inventor to continue his work. However, a freak accident in the lab gives the machine the unprecedented ability to look through any object and project it on a TV screen, leading to unexpected consequences.",
+      "truth": "The film follows Harry Palmer, an inventor who has been working on a radio-television device\u2014a machine that he hopes will allow people to see at a distance. Despite his best efforts, the device fails to work properly. Enter a slick con artist who recognizes the potential for profit and convinces Palmer to keep working on the invention, promising great riches once it succeeds.\n\nOne day in the laboratory, a mysterious accident occurs during an experiment. The malfunction causes the machine to suddenly gain the extraordinary ability to see through any solid object and project what it sees directly onto a television screen. This breakthrough transforms the device from a failed invention into something far more powerful\u2014and potentially dangerous.\n\nThe consequences of this new ability form the core of the film's narrative, exploring themes of technological power, greed, and the ethical implications of such a device in the wrong hands.",
+      "core": "Die Welt ohne Maske represents an interesting early entry in German science fiction cinema, combining elements of comedy with speculative technology at a time when the genre was still developing. The film's premise\u2014a device that can see through objects\u2014predates many similar concepts in science fiction and reflects contemporary anxieties and fascinations with television and radio technology.\n\nDirector Harry Piel, who also stars as the inventor, was a prominent figure in German cinema known for his work in adventure and scientific films. The presence of Rudolf Klein-Rogge (famous for his role as the villain in Metropolis) in the cast adds a connection to the classic German expressionist science fiction tradition.\n\nThe film is notable for its early treatment of surveillance and \"seeing through\" technology, themes that would become increasingly relevant in subsequent decades. Its comedic framing of these serious technological themes provides an interesting contrast to the more dystopian German science fiction films of the era like Metropolis.",
+      "created_at": "2026-03-04 20:03:22"
+    },
+    {
       "title": "District 9",
       "year": 2009,
       "medium": "Film",
@@ -9946,5 +9963,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 585
+  "count": 586
 }
