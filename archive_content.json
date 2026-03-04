@@ -5968,6 +5968,23 @@
       "created_at": "2026-03-01 12:15:06"
     },
     {
+      "title": "The Cassandra Cat",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Vojt\u011bch Jasn\u00fd",
+      "raw_score": 3.6,
+      "total_ratings": 5300,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience",
+      "image_filename": "The_Cassandra_Cat_1963.jpg",
+      "pitch": "The Cassandra Cat is a 1963 Czechoslovak avant-garde surrealist fantasy comedy-drama directed by Vojt\u011bch Jasn\u00fd, associated with the Czechoslovak New Wave. The film tells the story of a small Bohemian town whose inhabitants undergo a transformative experience when a magical circus troupe arrives with a cat wearing sunglasses\u2014whose eyes reveal the true nature of people's characters through color. Those with pure hearts appear red, while the deceitful, envious, and corrupt display yellow and purple. The film serves as a biting political allegory exposing hypocrisy and corruption, while exploring themes of truth, perception, and the human condition through whimsical fantasy.",
+      "truth": "The story follows Robert, a schoolteacher in a quiet Bohemian village who is oppressed by Charlie, the foreboding town mayor who controls all aspects of town life. Robert is forced to teach his students a restrictive, black-and-white view of life, stifling their imagination and creativity. During an artistic class, Oliva, the castle keeper and storyteller, is invited as a subject but instead recounts a tale of a magical cat whose eyes\u2014when revealed through sunglasses\u2014expose people's true moral colors: red for lovers and well-meaning souls, yellow and purple for the unfaithful, envious, and corrupt.\n\nWhen a circus troupe arrives in town, Robert's cat goes missing, leading him to Diana, an actress in the circus. He meets a magician who bears a striking resemblance to Oliva, and who challenges Robert about his \"true nature.\" During the circus performance for the entire town, Diana reveals the cat to everyone by removing its sunglasses. The revelation of each person's true colors drives the town into chaos as neighbors turn on each other, exposing hidden resentments and corruption.\n\nRobert discovers his own nature is red and finds himself entranced by Diana. However, the town mayor Charlie attempts to have the cat killed to hide his own chameleon-like true nature\u2014a mixture of all colors representing his multiple personalities and corruption. The children hide the cat, and when the town debates what to do with it, Diana and the circus return to expose Charlie's true colors, driving him from the town. Robert loses Diana as the circus leaves, but is greeted by children holding paintings of the magical cat, symbolizing hope for a more truthful future.",
+      "core": "**Political Allegory and Social Critique:** The Cassandra Cat functions as a pointed allegory for political hypocrisy and totalitarianism. The magical cat that reveals true colors can be read as a metaphor for the exposure of political corruption and the danger that authoritarian regimes face when truth becomes visible. The film's 1963 release during the height of communist Czechoslovakia makes its critique of centralized power and forced conformity particularly significant, and it has been described by critics as a \"Czechoslovak allegory meant to expose political hypocrisy.\"\n\n**Surrealism and Fantasy as Political Dissent:** The film employs avant-garde surrealist techniques\u2014including dreamlike imagery, theatrical staging, and fantastical elements\u2014to create a world where fantasy and reality intermingle. This stylistic choice allows Jasn\u00fd to comment on political and social conditions through allegory rather than direct critique, a common strategy in Eastern Bloc cinema during this period. The whimsical tone and fantastical premise mask a deeply subversive message about truth, perception, and power.\n\n**Color as Moral Metaphor:** The film's central visual conceit\u2014using color to represent moral character\u2014creates a striking visual language. The \"red\" lovers represent goodness and authenticity, while \"yellow\" and \"purple\" signify corruption and deceit. This chromatic moral system transforms the abstract concept of ethical behavior into something immediately visible and comprehensible, making the film's critique accessible yet profound.\n\n**The Cassandra Figure:** Like the mythological Cassandra who possessed the gift of prophecy but was cursed to never be believed, the cat in this film represents an uncomfortable truth that society refuses to accept. The townspeople's rejection and attempted destruction of the cat mirrors how communities often suppress truths that threaten established power structures or comfortable illusions.\n\n**The Czechoslovak New Wave:** The Cassandra Cat stands as a landmark work of the Czechoslovak New Wave, a cinematic movement known for its experimental techniques, dark humor, and social critique. The film exemplifies how this movement used artistic innovation to circumvent censorship while addressing serious themes of authoritarianism, conformity, and the search for authentic expression.",
+      "created_at": "2026-03-04 11:44:52"
+    },
+    {
       "title": "The Cathedral",
       "year": 2002,
       "medium": "Animated Short",
@@ -9504,5 +9521,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 559
+  "count": 560
 }
