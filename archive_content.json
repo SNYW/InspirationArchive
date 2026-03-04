@@ -597,6 +597,23 @@
     },
     {
       "title": "Alraune",
+      "year": 1928,
+      "medium": "Film",
+      "creator": "Henrik Galeen",
+      "raw_score": 3.1,
+      "total_ratings": 515,
+      "origin": "Germany ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Cloning, Isolation",
+      "image_filename": "Alraune_1928.jpg",
+      "pitch": "Alraune is a 1928 German silent science fiction horror film directed by Henrik Galeen, starring Brigitte Helm in her first film role. Based on Hanns Heinz Ewers' novel, the film tells the story of a genetics professor who conducts a blasphemous experiment to create a woman through artificial insemination using the semen of a hanged man\u2014believing the mandrake root legend that such a union would produce a supernatural being. The resulting daughter grows rapidly into a beautiful but morally corrupt woman who brings ruin to every man who falls in love with her. This was the second film adaptation of Ewers' novel, following a 1918 silent version, and is noted for its Expressionist cinematography and exploration of themes that predate modern genetic horror.",
+      "truth": "Professor Jakob ten Brinken is a wealthy genetics researcher obsessed with proving his theories about hereditary traits. Convinced that the legendary mandrake plant\u2014which in folklore grows from the semen of hanged criminals\u2014can be used to create a perfect human being, he instructs his young nephew Franz Braun to find a woman of \"low social status\" for his experiment. Reluctantly, Franz locates a prostitute, and the professor performs his artificial insemination procedure on her.\n\nThe child born from this experiment is named Alraune. She grows to adulthood with alarming speed, possessing an inherent corruption that manifests as sexual promiscuity and a complete lack of conscience. The Professor adopts her as his daughter and sends her to a convent to be educated, but she sneaks boyfriends into the convent and plays cruel pranks on the nuns. Using her charms, she convinces a boyfriend to steal money from his parents so they can elope.\n\nWhen the Professor forbids her marriage to a Viscount, Alraune discovers his journal and learns of her unnatural origins\u2014that she was created through the union of a prostitute and the essence of a hanged man. Enraged at being lied to, she abandons the Viscount to seek revenge on her \"father.\" The Professor, now obsessed with Alraune despite knowing what she is, writes in his journal that she must stay with him or die.\n\nThe climax sees Alraune depleting the Professor's finances with her extravagant lifestyle. When she attempts to flee after discovering the truth, the Professor pursues her with a knife, but Franz arrives in time to save her. Franz takes Alraune away, leaving the Professor condemned to loneliness and insanity\u2014a man destroyed by his own violation of nature's laws.",
+      "core": "**Genetic Engineering and Playing God:** The film explores the hubris of scientific ambition through Professor ten Brinken's experiment. Long before genetic engineering became a reality, Alraune presented the horror of creating life outside natural reproductive boundaries. The film asks whether science has the right to override natural law, and whether the creator bears responsibility for the creature's nature. The Professor's downfall comes not from the experiment itself working incorrectly, but from his inability to accept the consequences of what he has wrought.\n\n**The Uncanny and the Unnatural:** Alraune represents what psychoanalysis would call the uncanny\u2014the return of something repressed that appears familiar yet deeply wrong. Her rapid growth, her lack of moral development, and her destructive effect on men all stem from her unnatural origins. The film suggests that violating the natural order produces not improvement but corruption\u2014that the \"fallen\" nature of the mother transmits to the child regardless of the father's identity.\n\n**Gender and Corruption:** The film reflects anxieties about female sexuality and independence in the Weimar Republic era. Alraune is simultaneously powerful and destructive\u2014she uses her beauty to manipulate men and bring about their ruin. Whether she is inherently evil or simply responding to her corrupted origins remains ambiguous. The film can be read as a warning about \"dangerous\" female sexuality, but also as a tragic portrait of a being who never had a chance at a normal life.\n\n**Expressionist Aesthetics:** The film employs Expressionist techniques\u2014contrasting shadows, distorted compositions, and stylized performances\u2014that would become hallmarks of German horror cinema. Brigitte Helm's performance as Alraune is particularly noted for its unsettling intensity, presaging her later work in Metropolis. The production design emphasizes the cold, clinical nature of the Professor's research against the squalor from which Alraune emerges.\n\nAlraune remains a significant early work in the science fiction horror genre, presaging themes that would later appear in Frankenstein, Jurassic Park, and countless genetic horror narratives. Its exploration of scientist hubris, unnatural creation, and the consequences of playing God continues to resonate in contemporary discussions of biotechnology and ethics.",
+      "created_at": "2026-03-04 10:44:56"
+    },
+    {
+      "title": "Alraune",
       "year": 1930,
       "medium": "Film",
       "creator": "Richard Oswald (director), based on the novel by Hanns Heinz Ewers",
@@ -9436,5 +9453,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 555
+  "count": 556
 }
