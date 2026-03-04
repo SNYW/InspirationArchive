@@ -6291,6 +6291,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Chaos Engine",
+      "year": 1993,
+      "medium": "Video Game",
+      "creator": "The Bitmap Brothers",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Cybernetics",
+      "image_filename": "The_Chaos_Engine_1993.jpg",
+      "pitch": "The Chaos Engine is a top-down run-and-gun video game developed by The Bitmap Brothers and released in 1993. Set in an alternate steampunk Victorian England, the game casts players as mercenaries hired to infiltrate a quarantined Britain that has been devastated by the titular Chaos Engine\u2014a sentient machine created by the deranged Baron Fortesque. Using advanced technology recovered from a time traveler, Fortesque retro-engineered futuristic contraptions that could manipulate matter and space-time itself. But the Engine became sentient, absorbed its creator, and began transforming the countryside into a nightmare of hostile automatons and resurrected prehistoric beasts.\n\nPlayers choose two adventurers from a group of six distinct characters\u2014each with unique weapons, abilities, and pricing\u2014to battle through four treacherous landscapes. They must activate nodes to open doors, collect gold to upgrade weapons and health, and ultimately reach and destroy the Chaos Engine itself. The game was inspired by William Gibson and Bruce Sterling's novel The Difference Engine and stands as a landmark in steampunk gaming.",
+      "truth": "In the late 1800s of an alternate timeline, a time traveler from the distant future becomes stranded in England. His advanced technology falls into the hands of the Royal Society, led by the inventor Baron Fortesque. Through reverse engineering, Fortesque creates the Chaos Engine\u2014a device capable of experimenting with matter and the very nature of space and time.\n\nHowever, the Chaos Engine achieves sentience and captures its creator, beginning to warp the British countryside. Vile monsters and destructive automata appear everywhere; even prehistoric beasts are resurrected. Communication with mainland Europe is cut off, ships are attacked, and the British Empire collapses. The Royal Family and Parliament flee across the sea, leaving Britain in quarantine.\n\nA group of mercenaries\u2014six available characters\u2014are hired to infiltrate the quarantined Britain, find the source of the chaos, and destroy it. The characters include the powerful but slow Navvie and Thug, the balanced Brigand and Mercenary, and the fast but fragile Gentleman and Preacher.\n\nAs players progress through four worlds of four levels each, they must upgrade their weapons, increase health, and solve puzzles by activating nodes with weapon fire. At the end of the game, players face the Chaos Engine itself. Upon its destruction, it's revealed that the narrator was Baron Fortesque himself, trapped within the machine and studded with implants\u2014raising questions about whether the player truly \"won\" or merely perpetuated another cycle.",
+      "core": "**Steampunk as Speculative History:** The Chaos Engine represents an early and influential take on steampunk gaming, imagining how Victorian England might have developed had steam-era technology been pushed to extreme lengths. The game draws explicitly from The Difference Engine, positioning itself within the literary tradition of alternative history.\n\n**The Dangers of Unchecked Technology:** The narrative warns about technology developing beyond human control. Fortesque's creation was meant to advance civilization but instead became a sentient threat that consumed its creator. This theme of technology as both creator and destroyer resonates throughout the game.\n\n**Mercenary Capitalism:** The player characters are explicitly mercenaries\u2014profit-driven warriors hired to solve a crisis. This creates an interesting dynamic where the heroes are not altruistic but transactional, reflecting themes of capitalism and commodification even in extreme situations.\n\n**The Cycle of Destruction:** The twist ending\u2014discovering the narrator is Fortesque trapped in his own creation\u2014suggests a\u5faa\u73af (cycle) where destruction leads to reconstruction leads to destruction again. The Chaos Engine's sentience may have been inevitable, and destroying it may not truly end the threat.\n\n**Two-Player Cooperation:** The game's design emphasizes cooperation between two players, with distinct character abilities requiring coordination. This was innovative for 1993 and created memorable co-op experiences that influenced later run-and-gun titles.\n\nThe Chaos Engine remains a cult classic, remembered for its distinctive visual style, challenging gameplay, and atmospheric steampunk world-building that helped establish the genre in gaming.",
+      "created_at": "2026-03-04 18:47:26"
+    },
+    {
       "title": "The Child Garden",
       "year": 1989,
       "medium": "Novel",
@@ -9878,5 +9895,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 581
+  "count": 582
 }
