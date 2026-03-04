@@ -4693,6 +4693,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Quantum Break",
+      "year": 2016,
+      "medium": "Video Game",
+      "creator": "Remedy Entertainment",
+      "raw_score": 3.85,
+      "total_ratings": 70,
+      "origin": "Finland ,",
+      "mood": "Tense ,",
+      "sub_genres": "Time-Travel, Science-Fantasy ,",
+      "topics": "Time-Travel",
+      "image_filename": "Quantum_Break_2016.jpg",
+      "pitch": "Quantum Break is a 2016 action-adventure third-person shooter developed by Finnish studio Remedy Entertainment. The game centers on Jack Joyce, who gains time manipulation powers after a failed time-machine experiment, as he battles his former friend Paul Serene over preventing an apocalyptic \"End of Time.\" What sets Quantum Break apart is its unique blend of traditional video game gameplay with integrated live-action television episodes, creating a transmedia experience where player choices affect the narrative.\n\nThe game was originally conceived as a sequel to Remedy's earlier title Alan Wake, but Microsoft redirected the project toward a new intellectual property focused on time travel. The result is a story-driven action experience that combines cinematic storytelling with interactive gameplay, featuring performances by actors like Aidan Gillen and Lance Reddick in both the game and the accompanying TV segments.",
+      "truth": "Jack Joyce returns to his friend Paul Serene's laboratory at Riverport University, where Paul has been developing a time machine called the \"quantum processor.\" During the experiment, Jack's brother Bill Serene is killed, but Jack accidentally gains the ability to manipulate time after being exposed to the time-travel phenomenon. \n\nPaul, who has gained his own time powers but sees a dystopian future, believes the only way to prevent the \"End of Time\" is to take extreme measures in the present. He establishes a company called Chronos and works to consolidate power while Jack fights to stop him.\n\nThe gameplay alternates between third-person shooter combat and time-manipulation abilities. Jack can freeze time, create time clones, dodge through time, and phase through objects. These abilities are tied to a \"time focus\" meter that depletes during use and regenerates when time is flowing normally.\n\nBetween game segments, players watch live-action episodes that show the consequences of their choices, featuring characters like Paul Serene and others who are affected by the time-travel events. The story unfolds across multiple episodes, with branching paths depending on player decisions at \"junction points\" throughout the game.\n\nThe narrative explores themes of predestination versus free will, as Jack tries to change a future catastrophe while Paul believes certain events are inevitable. The line between hero and villain becomes blurred as both characters believe they're saving humanity.",
+      "core": "Quantum Break represents an interesting experiment in transmedia storytelling, merging video game and television formats in ways that were relatively unexplored at the time. The integration of live-action episodes with interactive gameplay created a unique narrative experience, though the execution received mixed reviews.\n\nThe game's Finnish origins are significant - it's one of the notable exports from Finland's growing game development industry, which also produced titles like Max Payne, Alan Wake, and Control from Remedy Entertainment. The game showcases the studio's signature blend of supernatural/sci-fi elements with cinematic presentation.\n\nFrom a sci-fi perspective, Quantum Break engages with time travel paradoxes and the consequences of altering timeline events. The \"End of Time\" serves as an apocalyptic event that drives both protagonists to extreme actions, raising questions about whether preventing disaster justifies morally ambiguous decisions.\n\nThe time-manipulation mechanics themselves are well-designed, allowing for creative combat approaches and environmental puzzles. The visual representation of time manipulation - with frozen moments showing detailed scenes - creates distinctive gameplay moments that distinguish Quantum Break from typical shooter experiences.\n\nWhile the game didn't achieve massive commercial success, it remains notable for its ambitious storytelling approach and its place in Remedy's evolution as a developer known for narrative-driven action games.",
+      "created_at": "2026-03-04 19:48:27"
+    },
+    {
       "title": "Quintet",
       "year": 1979,
       "medium": "Film",
@@ -9929,5 +9946,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 584
+  "count": 585
 }
