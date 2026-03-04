@@ -5288,6 +5288,23 @@
       "created_at": "2026-03-01 23:05:57"
     },
     {
+      "title": "Space Is the Place",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "John Coney (Director), Sun Ra (Writer/Star)",
+      "raw_score": 3.25,
+      "total_ratings": 1700,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Aliens",
+      "image_filename": "Space_Is_the_Place_1974.jpg",
+      "pitch": "Space Is the Place is a surreal Afrofuturist film from 1974 that functions as part music documentary, part mythological narrative, and part blaxploitation fantasy. Directed by John Coney and written by and starring jazz legend Sun Ra, the film follows the alien musician as he attempts to relocate African Americans to a new planet through the transformative power of his cosmic jazz. Shot in Oakland, California in the early 1970s, the film blends concert footage of Sun Ra's revolutionary Arkestra with loosely scripted dramatic scenes depicting Sun Ra's negotiations with the \"Overseer\" (a pimp-overlord figure) for the fate of the Black race. The result is one of the most unique and visually striking films to emerge from the 1970s, a cult classic that has influenced generations of artists working at the intersection of Black music, science fiction, and speculative futures.",
+      "truth": "The film opens with Sun Ra, reported lost since his European tour in 1969, landing on a new planet in outer space with his crew, the Arkestra. He decides to settle African Americans on this new world, using music as the medium of transportation. Sun Ra travels back in time to 1943 Chicago, to the strip club where he used to perform under the name \"Sonny Ray,\" where he confronts the Overseer (Ray Johnson). They agree to a card game for the fate of the Black race.\n\nIn present-day Oakland, Sun Ra disembarks from his spaceship and tries to spread word of his plans. He opens an \"Outer Space Employment Agency\" to recruit people for his space colony. He also works with Jimmy Fey (Christopher Brooks), an employee of the Overseer, to arrange radio interviews and a concert.\n\nAs the card game between Sun Ra and the Overseer progresses, the Overseer appears to be winning. Many Black youth are suspicious of Sun Ra, accusing him of using his cosmic origin as a gimmick to sell records. Sun Ra is kidnapped by NASA scientists who want to learn the secrets of his space-travel technology, but he is rescued by three teenagers.\n\nAt the climactic concert, as the Arkestra plays their signature free jazz, the NASA scientists attempt to assassinate Sun Ra. One of the teenagers jumps in front of the bullet, saving Ra's life, and then Sun Ra, the teenagers, and Ra himself all disappear from the music hall. Black people across Oakland vanish into thin air and reappear on Ra's spaceship. Jimmy Fey resists leaving Earth, so Ra takes his \"black parts\" but leaves his \"white parts\" behind. The spaceship launches into the cosmos, and Earth is destroyed in its wake.",
+      "core": "Space Is the Place is a foundational text of Afrofuturism, a cultural movement that imagines Black futures through science fiction, technology, and cosmic imagery. Sun Ra's philosophy, rooted in his belief that he came from Saturn, infuses the entire film with a sense of cosmic purpose and spiritual transcendence. The film presents Black identity as fundamentally linked to the cosmos\u2014rejecting Earthly oppression by literally leaving the planet behind.\n\nThe film can be read as Sun Ra's response to the Black Panther Party and other terrestrial movements for Black liberation. While the Panthers sought to organize community programs and political action on Earth, Sun Ra offers a different vision: transcendence through cosmic technology and music. The Overseer represents the exploitative structures of white America, and the card game determines whether Black people will continue to struggle within Earth's systems or achieve liberation through departure.\n\nThe concert sequences, featuring Sun Ra and his Arkestra in full cosmic regalia, are as important as any plot point. The music itself is presented as the technology of liberation\u2014the spaceship runs on jazz, and the transformation of Black people into beings capable of cosmic travel happens through musical enlightenment. This positions art, specifically Black music, as a form of technology that can fundamentally transform human capability.\n\nThe film has influenced countless artists in the decades since its release, from hip-hop musicians to visual artists working in Afrofuturist and speculative fiction modes. Its vision of Black people as cosmic travelers, its critique of American racism, and its celebration of Black music as a force for transformation continue to resonate in contemporary discussions of Black speculative fiction and future-making.",
+      "created_at": "2026-03-04 18:19:32"
+    },
+    {
       "title": "Space Monster Wangmagwi",
       "year": 1967,
       "medium": "Film",
@@ -9844,5 +9861,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 579
+  "count": 580
 }
