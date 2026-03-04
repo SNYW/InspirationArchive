@@ -1225,6 +1225,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Buck Rogers",
+      "year": 1939,
+      "medium": "Serial Film",
+      "creator": "Directed by Ford Beebe and Saul A. Goodkind; Based on Buck Rogers created by Philip Francis Nowlan",
+      "raw_score": 3.35,
+      "total_ratings": 1100,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Buck_Rogers_1939.jpg",
+      "pitch": "Buck Rogers is a 12-chapter 1939 science fiction film serial produced by Universal Pictures, starring Buster Crabbe (who had previously played Flash Gordon) as the titular hero. The serial follows Lieutenant Buck Rogers and his companion Buddy Wade, who are caught in a devastating storm while piloting a dirigible over the North Pole. They release the experimental Nirvano Gas, unknowingly putting themselves in suspended animation for 500 years until they are finally rescued. Awakening in the year 2440, Buck discovers Earth is now ruled by the ruthless dictator Killer Kane and his army of \"super-racketeers.\" Only the \"Hidden City,\" led by the benevolent scientist Doctor Huer and Air Marshal Kragg, resists Kane's criminal regime. Buck and Buddy join the resistance and embark on a mission to Saturn to seek allies against Kane, accompanied by the skilled pilot Wilma Deering.",
+      "truth": "The serial opens in 1938 as Buck Rogers and Buddy Wade serve aboard a dirigible exploring the Arctic. A catastrophic storm forces them to release Nirvano Gas, believing it will provide rescue. Instead, the gas induces suspended animation, and the dirigible is buried under an avalanche, remaining undiscovered for five centuries.\n\nWhen finally found in the year 2440, Buck and Buddy awaken to a world transformed. Earth is under the iron fist of Killer Kane, a former astronaut who seized power and rules through terror. The only hope for humanity lies in the Hidden City, a fortress run by Doctor Huer and Air Marshal Kragg, who command the last remaining resistance force.\n\nBuck and Buddy join the fight against Kane, proving themselves in aerial combat and ground missions. When Kane dispatches ambassadors to Saturn seeking military support, Buck volunteers for the space mission, accompanied by Wilma Deering, the Hidden City's finest pilot. On Saturn, they encounter the wise Aldar, the Council of the Wise, and Prince Tallen, whobefriends the Earthlings. The serial depicts an ongoing struggle between Buck's forces and Kane's henchmen, including Captain Laska, as both sides vie for Saturn's allegiance.\n\nThe serial features twelve chapters of escalating conflict, with each episode ending in a cliffhanger as Buck faces death traps, alien threats, and betrayal. The story concludes with the battle for Saturn's support continuing, leaving the outcome uncertain as the final chapter ends.",
+      "core": "The Buck Rogers serial represents a significant moment in early science fiction cinema, establishing many tropes that would define the space adventure genre for decades. The serial's depiction of future technology\u2014dirigibles, ray guns, rocket ships, and alien worlds\u2014influenced the visual language of science fiction that followed.\n\nThe character of Buck Rogers, created by Philip Francis Nowlan in 1928, had already appeared in newspaper strips and magazines before the serial brought him to life. The 1939 adaptation helped cement the space hero archetype that would later evolve into characters like Flash Gordon and eventually inspire the broader space opera genre. Buster Crabbe's portrayal established a template for the stoic, heroic science fiction protagonist.\n\nThe serial also reflects Depression-era anxieties through its narrative of awakening into a dystopia controlled by criminal overlords. The Hidden City represents a utopian resistance against authoritarian rule, a theme that resonated with audiences facing global political instability.\n\nCritics note the serial's modest budget resulted in significant reuse of special effects footage from earlier Universal productions, including sets from Flash Gordon's Trip to Mars. However, this economy did not diminish audience enthusiasm, and the serial spawned feature film adaptations in 1953 (Planet Outlaws) and 1965 (Destination Saturn).",
+      "created_at": "2026-03-04 01:13:49"
+    },
+    {
       "title": "Bugonia",
       "year": 2025,
       "medium": "Film",
@@ -8909,5 +8926,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 524
+  "count": 525
 }
