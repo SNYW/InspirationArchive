@@ -5883,6 +5883,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Crimson Ghost",
+      "year": 1946,
+      "medium": "Serial Film",
+      "creator": "Fred C. Brannon, William Witney",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Exploration",
+      "image_filename": "The_Crimson_Ghost_1946.jpg",
+      "pitch": "The Crimson Ghost is a 1946 American film serial directed by Fred C. Brannon and William Witney, produced by Republic Pictures. The 12-chapter serial stars Charles Quigley as criminologist Duncan Richards, who attempts to thwart the efforts of the enigmatic villain known as the Crimson Ghost\u2014who wears a distinctive skull-like mask\u2014to steal the Cyclotrode X, a powerful device that can render electrical devices powerless and repel atomic bomb attacks. The serial also features Linda Stirling, Clayton Moore, and I. Stanford Jolley.\n\nReleased on October 26, 1946, The Crimson Ghost was the last serial directed by William Witney at Republic Pictures. In the 1950s, it was re-edited as a six-episode television series, and in 1966, it was re-released as a television film titled Cyclotrode \"X.\" By the 1990s, it became one of only two Republic serials to be colorized.",
+      "truth": "The story begins as university professor Dr. Chambers demonstrates the Cyclotrode X, a device designed to detect and repel atomic bomb attacks and disable electrical devices. After the demonstration, two of the Crimson Ghost's henchmen attempt to steal the device, but Chambers destroys it to prevent them from obtaining it.\n\nCriminologist Duncan Richards, a colleague of Chambers, arrives and pursues the henchmen. One escapes, while the other is killed when a control collar around his neck is removed. Chambers informs fellow professors that a duplicate Cyclotrode is located in a bonded warehouse.\n\nThe Crimson Ghost captures Chambers and forces him to wear a control collar that compels him to do the Ghost's will\u2014designed to kill him if forcefully removed. Under the Ghost's control, Chambers retrieves the duplicate Cyclotrode. Richards pursues by car, nearly sent off a cliff when the Ghost uses the Cyclotrode against him.\n\nThe Ghost commands Chambers to build a larger Cyclotrode capable of crippling entire cities. Instead, Chambers builds a death ray as a trap. Richards arrives and almost steps into the path of the death ray; Chambers leaps to stop him and is killed.\n\nThe Ghost then attempts to steal heavy water and uranium to make the Cyclotrode himself. When this fails, his henchmen capture Diana, a secretary assisting Richards. The Ghost places a control collar on her, but Richards successfully removes it without killing her, discovering the doctor assisting them is Ashe in disguise.\n\nRichards tracks the Ghost to his mountain hideout using a dog. A fight ensues, a fire breaks out, and the Ghost escapes with heavy water. At the warehouse, Richards finds Professor Van Wyck and wrongly suspects him. The real Ghost arrives and Van Wyck is killed.\n\nRichards eventually discovers the Ghost's mansion hideout, shoots the larger Cyclotrode device, and unmasks the villain\u2014revealing him to be Professor Parker, one of the university faculty.",
+      "core": "The Crimson Ghost represents classic Republic Serial filmmaking at its peak\u2014fast-paced action, elaborate sets, and a mysterious villain whose skull-like mask became iconic. The serial's premise of a device capable of disabling electrical devices and repelling nuclear weapons reflects post-WWII anxieties about atomic technology and the emerging Cold War fears.\n\nThe character of the Crimson Ghost achieved unexpected cultural immortality when the punk rock band Misfits adopted his skull-like visage as their iconic logo, introducing the villain to entirely new generations of fans outside the serial's original audience.\n\nThe Cyclotrode X itself\u2014an energy weapon that could disable machines and potentially \"cripple entire cities\"\u2014serves as a period-appropriate precursor to later science fiction concerns about directed energy weapons and the balance of power in nuclear deterrence. The serial's focus on university professors as either villains or heroes also reflects 1940s fascination with scientists and their potential role in both creating and preventing catastrophe.",
+      "created_at": "2026-03-04 06:01:51"
+    },
+    {
       "title": "The Cybernetic Grandma",
       "year": 1962,
       "medium": "Animated Short",
@@ -9181,5 +9198,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 540
+  "count": 541
 }
