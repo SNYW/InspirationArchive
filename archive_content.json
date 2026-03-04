@@ -4302,6 +4302,23 @@
       "created_at": "2026-03-02 16:17:40"
     },
     {
+      "title": "Radar Men from the Moon",
+      "year": 1952,
+      "medium": "Serial Film",
+      "creator": "Fred C. Brannon (Director)",
+      "raw_score": 2.3,
+      "total_ratings": 1300,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Radar Men from the Moon_1952.jpg",
+      "pitch": "Radar Men from the Moon is a 1952 Republic Pictures serial that represents the height of 1950s science fiction serials. The story follows Commando Cody, a civilian researcher and inventor who discovers that Earth is under attack from the Moon. Using his atomic-powered rocket backpack and rocket ship, Cody travels to the Moon to confront Retik, the ruthless ruler who plans to conquer Earth and relocate his entire lunar population using spaceships armed with atomic weapons. This 12-chapter serial combines exciting action, early sci-fi themes, and the classic cliffhanger format that defined the genre during its golden age.",
+      "truth": "The serial begins with Commando Cody (George Wallace) working at his research facility when the U.S. military suffers devastating attacks\u2014mysterious forces wiping out entire bases and industrial complexes. Cody correctly deduces that the threat originates from the Moon. He dons his streamlined helmet and atomic-powered rocket backpack to fly to the Moon, where he encounters Retik (Roy Barcroft), the tyrannical ruler of the lunar civilization.\n\nRetik boldly announces his plan: to conquer Earth and relocate his entire population using spaceships powered by lunarium, an element superior to uranium. Cody captures a sample ray cannon and returns to Earth to analyze the threat. Over the remaining chapters, Cody and his associates Joan, Ted, and Dick battle Retik's lunar agents led by Krog and his human henchmen Graber and Daly, who use lunarium-powered ray cannons to disrupt defense forces.\n\nAfter a second trip to the Moon where Cody captures evidence of Retik's invasion plans, the action concludes with a final confrontation. Retik flies to Earth to personally oversee his invasion, but Cody destroys him with one of his own ray weapons. The serial ends with Earth's threat neutralized and Cody celebrated as a hero.",
+      "core": "**Cold War anxieties and space invasion fears:** Like many 1950s sci-fi serials, Radar Men from the Moon reflects the era's nuclear jitters and fear of sneak attack. The alien threat from above\u2014particularly the Moon\u2014echoes concerns about Soviet missiles and the new reality of aerial warfare. Retik's plan to use atomic-powered weapons and invade with overwhelming force mirrors contemporary fears of total war.\n\n**The heroic inventor archetype:** Commando Cody represents the civilian scientist-hero, a type that would become increasingly common in Cold War science fiction. Unlike military heroes, Cody uses his intellect and inventions to save the day\u2014a celebration of American ingenuity and the belief that individual creativity could overcome any threat.\n\n**Republic's sci-fi serial legacy:** This serial is notable for recycling footage from earlier Republic serials, particularly King of the Rocket Men, representing the economical production methods of the era. The special effects, though primitive by modern standards, were impressive for their time and helped establish visual conventions for depicting space travel and alien worlds.\n\n**Cultural impact:** Despite being dismissed by critics as a \"quickie,\" Radar Men from the Moon gained cult status through its MST3K appearances and has remained influential among serial fans and sci-fi historians. It helped establish template elements for later space adventure fiction and represents an important chapter in the evolution of American science fiction media.",
+      "created_at": "2026-03-04 04:44:59"
+    },
+    {
       "title": "Razzennest",
       "year": 2022,
       "medium": "Film",
@@ -9130,5 +9147,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 537
+  "count": 538
 }
