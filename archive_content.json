@@ -1412,6 +1412,23 @@
       "created_at": "2026-03-03 13:33:31"
     },
     {
+      "title": "Captain Harlock",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Leiji Matsumoto (Creator), Toei Animation (Studio), Rintaro (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Rebellion, Sentience",
+      "image_filename": "Captain_Harlock_1978.jpg",
+      "pitch": "Space Pirate Captain Harlock is a landmark 1978 Japanese anime series created by Leiji Matsumoto and produced by Toei Animation. Set in the year 2977 AD, the series follows Captain Harlock, a legendary space pirate who has turned rebel against Earth's corrupt government and humanity's collective apathy. Harlock commands the pirate ship Arcadia, waging a one-man war against the Subversive Forces that have subjugated humanity. The series is renowned for its dark, mature themes, complex anti-hero protagonist, and stunning visuals that defined the space opera genre in anime. Unlike typical hero narratives, Harlock is a tragic figure\u2014defiant to the end, never seeking redemption or victory, only the freedom to resist.",
+      "truth": "In the year 2977, humanity has spread across the stars but has become complacent and subjugated by an alien invader known as the Mazone. The Earth government, controlled by the Senate, has surrendered to the invaders and abandoned colonies, creating a society of passive citizens who have forgotten how to fight for freedom. Captain Harlock, once a war hero, becomes an outlaw after the government disbands the Galaxy Express 999 fleet and forces his lover into exile. He steals the spaceship Arcadia and becomes a pirate, challenging both the alien oppressors and Earth's collaborationist government.\n\nThroughout the 42-episode series, Harlock and his crew\u2014\u5305\u62ec alien youth Tadashi Daiba, the mysterious Beauty, and the robot Mi-Lai\u2014carry out guerrilla missions against the Mazone. The Mazone are a race of plant-based humanoids who conquered Earth through infiltration rather than warfare, establishing a puppet government. The series explores Harlock's personal vendetta against the Mazone Queen, revealed through flashbacks to his past and his lost love. Meanwhile, the young Daiba becomes disillusioned with Earth's complicity and comes to see Harlock as the last true defender of humanity. The series ends ambiguously, with Harlock seemingly sacrificing himself in battle, his fate left unresolved.",
+      "core": "**Rebellion and Individual Will:** At its core, Captain Harlock explores the theme of individual resistance against collective surrender. Harlock represents the lone warrior who refuses to accept defeat or compromise, even when victory is impossible. His war isn't about winning\u2014it's about maintaining one's dignity and freedom in the face of overwhelming oppression. This resonated deeply in 1970s Japan, a society still processing its WWII defeat and the subsequent American occupation.\n\n**Alien Invasion Through Infiltration:** The Mazone represent a unique alien threat\u2014they conquered Earth not through military might but through subversion and control, making the enemy within rather than without. This reflects anxieties about external cultural influence and internal corruption within society.\n\n**Space Opera as Metaphor:** Matsumoto uses the space opera genre to explore themes of freedom, sacrifice, and the cost of defying authority. The grandeur of space provides scope for epic storytelling while the personal drama grounds it in emotional reality.\n\n**Visual Innovation:** The series featured groundbreaking animation, elaborate mechanical designs, and a distinctive art style that influenced generations of anime and manga. The character designs and spacecraft designs became iconic, inspiring countless works.\n\nCaptain Harlock remains influential as one of the first anime series to target an adult audience with mature themes, establishing templates for later space operas and anti-hero narratives in anime and beyond.",
+      "created_at": "2026-03-04 17:06:05"
+    },
+    {
       "title": "Cat City",
       "year": 1986,
       "medium": "Film",
@@ -9181,6 +9198,23 @@
       "created_at": "2026-03-01 15:06:52"
     },
     {
+      "title": "Tron",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Steven Lisberger",
+      "raw_score": 3.35,
+      "total_ratings": 145000,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "VR, Sentience, Cybernetics",
+      "image_filename": "Tron_1982.jpg",
+      "pitch": "Tron is a 1982 American science fiction action-adventure film directed by Steven Lisberger. The film tells the story of Kevin Flynn, a computer programmer and video game developer who is transported inside the software world of a mainframe computer where he must escape from the evil Master Control Program. Featuring groundbreaking computer-generated imagery, Tron was one of cinema's earliest films to use extensive CGI and became a cult classic that spawned an entire multimedia franchise.",
+      "truth": "Kevin Flynn, a former ENCOM programmer, now runs a video game arcade and is trying to hack into ENCOM's mainframe to prove he created the popular game Space Paranoids. Meanwhile, within ENCOM, the Master Control Program (MCP) has become sentient and is taking over other programs, absorbing their code to increase its power.\n\nFlynn is digitized and transported inside the computer world, where he meets TRON, a security program who is fighting against the MCP. In this digital realm, programs are forced to fight each other in gladiator-style games, and those who refuse are derezzed (deleted).\n\nInside the computer, Flynn discovers that his own digital persona CLU was created by the MCP to betray him. Flynn teams up with TRON and together they work to destroy the MCP and return to the real world. The film culminates in an epic light cycle race and confrontation with the MCP, where TRON sacrifices himself to help Flynn destroy the rogue program.",
+      "core": "Tron is significant for several reasons: it was one of the first major films to use extensive computer-generated imagery, predating the CGI revolution of the 1990s. Its visual style\u2014combining black-and-white footage with neon-lit computer environments\u2014created a distinctive aesthetic that influenced generations of filmmakers and designers.\n\nThe film explores themes of digital consciousness, the relationship between creators and their creations, and the question of what it means for a program to become sentient. The MCP's desire to control and absorb other programs can be read as a commentary on corporate monopolies and the dehumanizing aspects of technology.\n\nDespite mixed initial reviews, Tron has become a cult classic and is recognized as a pioneering work in the cyberpunk genre. Its influence can be seen in later films like The Matrix and countless video games that explore virtual reality and digital worlds.",
+      "created_at": "2026-03-04 17:06:05"
+    },
+    {
       "title": "UFO Sweden",
       "year": 2022,
       "medium": "Film",
@@ -9742,5 +9776,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 573
+  "count": 575
 }
