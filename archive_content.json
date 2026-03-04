@@ -851,6 +851,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Astro Boy",
+      "year": 1952,
+      "medium": "Manga",
+      "creator": "Osamu Tezuka",
+      "raw_score": 4.0,
+      "total_ratings": 500,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Transhumanism",
+      "image_filename": "Astro_Boy_1952.jpg",
+      "pitch": "Astro Boy (Mighty Atom) is a foundational manga series by Osamu Tezuka, the \"Godfather of Manga,\" serialized from 1952 to 1968 in Kobunsha's Sh\u014dnen magazine. The story follows Astro Boy (Atom), an android created by scientist Dr. Tenma in the image of his deceased son Tobio. Rejected by his creator who cannot accept a robot as a replacement for his human child, Astro is sold to a robot circus but is rescued by Professor Ochanomizu, who becomes his guardian and helps him navigate humanity.\n\nThe series is set in a futuristic world where robots and humans coexist. Astro possesses extraordinary powers\u2014100K horsepower strength, jet flight, high-intensity lights in his eyes, instant language translation, and superhuman hearing. He uses these abilities to fight crime, evil, and injustice, often battling robot-hating humans, malfunctioning robots, and alien invaders. The manga ran for 112 chapters collected in 23 tank\u014dbon volumes and has sold over 100 million copies worldwide, making it one of the best-selling manga series of all time.",
+      "truth": "The series begins with Dr. Tenma, a leading scientist at the Ministry of Science, grieving the death of his young son Tobio in a tragic accident. In his grief, he creates Astro, an android with advanced artificial intelligence and human emotions, designed to resemble Tobio. Initially, Dr. Tenma treats Astro as his son, but he soon realizes that Astro cannot truly replace a human child\u2014Astro cannot grow older and lacks certain human qualities.\n\nDr. Tenma eventually rejects Astro and sells him to a cruel robot circus owner named Hamegg. Astro endures harsh treatment but maintains his kind heart. Professor Ochanomizu, the new head of the Ministry of Science, discovers Astro performing in the circus and persuades Hamegg to release him. Ochanomizu becomes Astro's legal guardian and surrogate father, helping him adjust to life among humans while encouraging him to use his powers for justice.\n\nThroughout the series, Astro faces numerous challenges: villains who hate robots, robots who have gone berserk, and aliens threatening Earth. His seven extraordinary powers\u2014his strength, jet propulsion, eye lights, adjustable hearing, language translation, built-in weapons, and high IQ\u2014make him formidable. However, his greatest strength is his capacity for love, compassion, and his earnest desire to prove that robots can be good and deserve rights.",
+      "core": "Astro Boy is fundamentally about what it means to be human and whether artificial beings can possess souls. As a \"reverse Pinocchio,\" Astro strives to become more human despite being a robot. Tezuka explores themes of acceptance, discrimination (specifically against robots), and the ethical implications of creating sentient artificial life. The series predates modern discussions of AI rights by decades and remains remarkably prescient.\n\nThe series is also notable for its historical significance in developing the anime and manga industries. The 1963 anime adaptation became the first popular Japanese animated television series and established many aesthetic conventions that define anime today. Astro Boy pioneered the concept of mass merchandising in entertainment and created a template for the superhero anime genre.\n\nTezuka's storytelling balances action-adventure with thoughtful examinations of society's treatment of \"the other.\" Many episodes challenge readers to consider the moral implications of creating intelligent machines and whether they deserve the same rights and respect as humans. The series ends with Astro achieving his dream of being recognized as a being with feelings and rights, making it a pioneering work in speculative fiction about artificial consciousness.",
+      "created_at": "2026-03-04 10:19:38"
+    },
+    {
       "title": "Atomic War Bride",
       "year": 1960,
       "medium": "Film",
@@ -9419,5 +9436,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 554
+  "count": 555
 }
