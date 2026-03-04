@@ -477,6 +477,23 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Alan Wake",
+      "year": 2010,
+      "medium": "Video Game",
+      "creator": "Remedy Entertainment",
+      "raw_score": 4.15,
+      "total_ratings": 72,
+      "origin": "Finland ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Alan_Wake_2010.jpg",
+      "pitch": "Alan Wake is a 2010 action-adventure horror game developed by Finnish studio Remedy Entertainment. The game follows bestselling crime thriller novelist Alan Wake as he tries to uncover the mystery behind his wife's disappearance during a vacation in the small fictional town of Bright Falls, Washington\u2014all while experiencing events from the plot of his latest novel, which he cannot remember writing, coming to life.\n\nThe game is notable for its unique episodic structure, drawing heavily from thriller television series with plot twists and cliffhangers. Players navigate through six episodes, fighting enemies called \"the Taken\"\u2014murderous shadows that can only be injured after exposure to light. This creates a distinctive gameplay mechanic centered around using flashlights strategically in conjunction with conventional weapons.",
+      "truth": "Alan Wake begins with the protagonist and his wife Alice arriving at Bright Falls for a vacation. When Alice disappears into the lake, Alan wakes up days later with no memory. As he searches for answers, he discovers pages of a novel he apparently wrote but cannot remember\u2014called \"Departure\"\u2014that seem to predict and control the events unfolding story unfolds around him.\n\nThe six main across episodes, with Alan encountering various allies and enemies in Bright Falls. The Taken are humans and animals consumed by an entity called the Dark Presence, taking their form but wielding weapons. They are protected by shadows that can only be removed with light before they can be shot. Alan also faces flocks of possessed ravens and animated objects (poltergeist phenomena).\n\nThroughout the game, Alan discovers that the events are connected to an ancient conflict between a being called the \"Writer\" and the Dark Presence. The game's narrative branches into two downloadable content episodes: \"The Signal\" and \"The The Writer,\" which continue the story. A prequel web series called \"Bright Falls\" and related books expand the universe.\n\nThe game received critical acclaim for its narrative, atmosphere, and visual presentation. It garnered a cult following and was awarded the top spot in Time magazine's list of the top 10 video games of 2010.",
+      "core": "**Light as Weapon and Symbol:** The game's core mechanic centers on light\u2014specifically flashlights\u2014as both weapon and survival tool. This creates a unique gameplay experience where players must balance conventional firearms with strategic flashlight use. Thematically, light represents awareness, memory, and hope against the darkness of the unknown and unconscious mind.\n\n**Writer as Creator:** Alan Wake's central premise explores the power of narrative and creation. As a writer whose fictional story becomes reality, Alan blurs the line between creator and creation. This meta-narrative examines how stories shape reality and the responsibility of those who control narratives\u2014relevant in an age of information and media influence.\n\n**The Horror of Loss and Control:** At its heart, Alan Wake deals with loss of control\u2014Alan's inability to remember his own actions, his wife's mysterious disappearance, and his descent into a world where his imagination has deadly consequences. The game explores how trauma and the unconscious mind can consume identity.\n\n**Episodic Narrative Innovation:** The game's episodic structure was groundbreaking for video games in 2010, mimicking television thriller pacing with cliffhangers between episodes. This narrative approach influenced later games and demonstrated video games' potential for sophisticated storytelling.\n\n**Finnish Game Development:** Alan Wake, developed by Remedy Entertainment in Finland, represents a significant achievement in European game development. The game followed Remedy's earlier success with Max Payne and helped establish Finland as a notable center for narrative-driven games. The company's distinctive approach to storytelling would later continue in titles like Control and Alan Wake 2.",
+      "created_at": "2026-03-04 02:05:11"
+    },
+    {
       "title": "Algol",
       "year": 1920,
       "medium": "Film",
@@ -8960,5 +8977,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 527
+  "count": 528
 }
