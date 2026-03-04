@@ -1684,6 +1684,23 @@
       "created_at": "2026-03-02 09:46:39"
     },
     {
+      "title": "Deus Ex",
+      "year": 2000,
+      "medium": "Video Game",
+      "creator": "Ion Storm",
+      "raw_score": 4.5,
+      "total_ratings": 1460,
+      "origin": "USA ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "Transhumanism, Megacorps, Rebellion",
+      "image_filename": "Deus_Ex_2000.jpg",
+      "pitch": "Deus Ex is a seminal cyberpunk action RPG that revolutionized the immersive sim genre. Set in a near-future 2052, players assume the role of JC Denton, a nano-augmented agent of UNATCO (United Nations Anti-Terrorist Coalition) tasked with investigating a global conspiracy. The game blends first-person shooter combat, stealth gameplay, and role-playing elements with player choice at its core\u2014allowing multiple approaches to each mission and meaningful consequences for decisions made throughout the story.\n\nThe narrative follows Denton as he uncovers a shadow conspiracy involving the Illuminati, a mysterious group that has controlled world events for centuries. As layers of the plot unfold, Denton discovers the truth behind a deadly plague, the emergence of nano-augmentation technology, and the ultimate question of human evolution. The game's nonlinear structure and multiple endings made it a landmark in interactive storytelling.",
+      "truth": "JC Denton's story begins in New York City, where he and his brother Paul are sent to intercept a shipment of a deadly virus from the NSF (National Secessionist Forces). During the mission, JC discovers he has been secretly augmented with nano-technology by his own organization, UNATCO\u2014a betrayal that sets him on a path of discovery.\n\nAs JC investigates the conspiracy, he learns about the \"Gray Death,\" a plague that has devastated the world's population. The Illuminati, an ancient secret society, has been orchestrating global events to maintain control, including the creation of the plague and its \"cure\" as a tool for population control. The player navigates through various factions\u2014including UNATCO, the NSF, the Illuminati, and the mysterious AI Daedalus\u2014uncovering the truth at each step.\n\nThe game features multiple endings depending on player choices: supporting the Illuminati's new world order, helping the NSF achieve independence, allying with a rogue AI, or destroying all power structures to let humanity start fresh. JC can also choose to merge with an AI version of his brother or destroy it, fundamentally altering his nature.",
+      "core": "Deus Ex explores themes of transhumanism through its augmentation technology\u2014nano-augmentations that enhance human abilities but also raise questions about what it means to remain human. The game's conspiracy narrative examines power concentration in the hands of elites and the manipulation of global events through controlled information and engineered crises.\n\nThe game critiques megacorporate power and government surveillance, depicting a world where private military companies operate with impunity and surveillance is ubiquitous. Its depiction of a post-9/11 world (the game was released in 2000, inspired by the 1993 World Trade Center bombing) anticipated concerns about terrorism, civil liberties, and the security state that would become central in the following decades.\n\nWhat makes Deus Ex significant is its philosophical depth within an entertainment medium. The game doesn't provide easy answers\u2014it presents conflicting ideologies through its factions and lets players decide which vision of the future they believe in. Its combination of tactical gameplay, narrative depth, and player agency established the template for the \"immersive sim\" genre and remains a touchstone for games exploring mature, complex themes in science fiction.",
+      "created_at": "2026-03-04 05:48:46"
+    },
+    {
       "title": "Devotion",
       "year": 2019,
       "medium": "Video Game",
@@ -9164,5 +9181,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 539
+  "count": 540
 }
