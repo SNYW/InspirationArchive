@@ -7073,6 +7073,23 @@
       "created_at": "2026-03-01 09:53:29"
     },
     {
+      "title": "The Invisible Man's Revenge",
+      "year": 1944,
+      "medium": "Film",
+      "creator": "Ford Beebe",
+      "raw_score": 2.85,
+      "total_ratings": 3100,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience",
+      "image_filename": "The_Invisible_Man's_Revenge_1944.jpg",
+      "pitch": "The Invisible Man's Revenge is a 1944 American science fiction horror film directed by Ford Beebe and written by Bertram Millhauser. It is the fifth installment in the Invisible Man film series, loosely based on H.G. Wells' novel. The film stars Jon Hall as Robert Griffin, a man who escapes from a Cape Town mental institution after being left for dead during a safari, and John Carradine as Dr. Frank, the scientist who develops the invisibility serum. When Griffin becomes invisible after testing the serum on himself, he embarks on a revenge mission against the Herrick family, whom he believes betrayed him. The film combines elements of classic horror with early science fiction concepts of invisibility, exploring themes of revenge, obsession, and the ethical boundaries of scientific experimentation.",
+      "truth": "After murdering two orderlies at the Cape Town mental institution where he was committed, Robert Griffin escapes intent on revenge against the Herrick family\u2014Sir Jasper Herrick, Lady Irene, and their daughter Julie\u2014who he believes abandoned him injured in Africa during a safari. The Herricks had discovered diamond fields together, but Robert was left for dead when they were told he had died from his injuries.\n\nOne night, Sir Jasper and Lady Irene are visited by Robert, who demands his share of the diamond fields. When Jasper claims the property was lost in bad investments, Robert threatens to sue. To appease him, the Herricks offer him shelter in their guest house. Meanwhile, Dr. Frank, a scientist working on an invisibility serum, seeks a test subject. He discovers Robert's situation and offers him the serum in exchange for allowing Frank to document the experiment.\n\nAfter taking the invisibility serum, Robert becomes invisible and his personality turns increasingly violent. He begins terrorizing the Herrick household, ultimately attempting to murder Julie's fianc\u00e9 Mark Foster. The film culminates in a confrontation where Dr. Frank is forced to destroy the invisibility formula, causing Robert to become visible again and meet his doom. The story explores how the power of invisibility corrupts an already vengeful mind, turning a desperate man into a dangerous criminal.",
+      "core": "**Science Fiction Horror Genre:** The Invisible Man's Revenge exemplifies the early science fiction horror hybrid genre that emerged in the 1940s. Combining the scientific premise of invisibility\u2014rooted in H.G. Wells' literary tradition\u2014with horror elements of psychological transformation and violence, the film represents Universal Pictures' approach to blending speculative science with Gothic terror. The Invisible Man series helped establish invisibility as a recurring sci-fi trope, exploring not just the mechanics of becoming unseen but the psychological consequences of such power.\n\n**Revenge and Moral Corruption:** At its core, the film examines how invisibility amplifies existing moral corruption. Robert Griffin enters the story as a vengeful man wronged by the Herricks, but it is the invisibility serum that gives him the means to act on his darkest impulses. The film suggests that power\u2014particularly anonymous power\u2014reveals and intensifies one's true character. Unlike earlier Invisible Man films where the protagonist becomes monstrous through the experiment itself, this film emphasizes that the monster was already within.\n\n**Scientific Ethics and Responsibility:** The character of Dr. Frank raises questions about scientific responsibility. He is willing to experiment on a mentally unstable escapee simply to prove his serum works, demonstrating a disturbing disregard for ethical boundaries in scientific pursuit. This theme of the mad scientist experimenting without moral constraints reflects wartime anxieties about technology and experimentation.\n\n**The Series Evolution:** By the fifth installment, the Invisible Man series had begun to rely more heavily on horror elements and special effects, with less emphasis on the sophisticated crime-thriller elements of the original. Critics at the time noted the series had grown \"tired,\" though The Invisible Man's Revenge was considered one of the better entries. The film represents both the continuation of a beloved franchise and the beginning of its decline into formulaic repetition.",
+      "created_at": "2026-03-04 15:32:21"
+    },
+    {
       "title": "The Iron Dream",
       "year": 1972,
       "medium": "Novel",
@@ -9708,5 +9725,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 571
+  "count": 572
 }
