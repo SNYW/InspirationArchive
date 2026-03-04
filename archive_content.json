@@ -2993,6 +2993,23 @@
       "created_at": "2026-03-02 12:04:38"
     },
     {
+      "title": "Horrors of Spider Island",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "Fritz B\u00f6ttger",
+      "raw_score": 1.35,
+      "total_ratings": 4400,
+      "origin": "Germany ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "",
+      "image_filename": null,
+      "pitch": "Horrors of Spider Island is a 1960 West German sci-fi horror film directed by Fritz B\u00f6ttger. The film follows Gary Webster, a nightclub manager who flies a group of dancers from New York to Singapore. When their plane catches fire and crashes onto a deserted island, the survivors discover the corpse of a professor who was researching uranium mining. As they explore the island, Gary is bitten by a giant spider and transforms into a half-man, half-spider creature, turning the survival story into a nightmarish tale of transformation and terror.",
+      "truth": "The film begins with Gary Webster, a nightclub manager, and his assistant Georgia accompanying a group of dancers from New York City to perform at his club in Singapore. During the flight over the Pacific Ocean, the plane suddenly catches fire, splits in half, and plummets into the ocean. The group survives and eventually reaches a small island via a life raft.\n\nOn the island, they discover fresh water and explore a cabin containing the dead body of Professor Green, caught in a large spider web. According to his journal, the professor was researching and mining for uranium, and feared something terrible was about to happen to him. The group decides to stay on the island, believing they have enough food to last about a month.\n\nThat night, Georgia witnesses Gary and another dancer named Linda kissing. Jealous, Georgia pulls Linda away and slaps her. Gary ventures out alone and is bitten by a giant spider, beginning his transformation into a spider-man beast. He flees into the woods, leaving the others to face the terror of the island and its deadly arachnid inhabitants.\n\nThe film was released in Germany as \"Ein Toter hing im Netz\" (\"A Corpse Hung in the Web\") and was later released in various markets under different titles including \"It's Hot in Paradise,\" \"Girls of Spider Island,\" \"Horror on the Spider Island,\" and \"Spider's Web.\"",
+      "core": "Horrors of Spider Island represents an interesting intersection of science fiction and horror genres from the early 1960s European cinema. The film combines elements of the survival narrative with body horror through its spider-bite transformation sequence, predating similar themes that would become more common in later decades.\n\nThe film's production values reflect the low-budget nature of early European genre cinema, but it maintains historical interest as an example of how science fiction themes were adapted in different national contexts beyond the more famous American productions of the era. The inclusion of uranium mining as a plot element reflects the period's fascination with atomic age anxieties and the potential dangers of radioactive materials.\n\nThe film has developed a cult following among fans of vintage horror and science fiction, and has been featured in presentations on Mystery Science Theater 3000, introducing it to new audiences who appreciate its camp value and genre historical significance.",
+      "created_at": "2026-03-04 23:35:36"
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -10150,5 +10167,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 597
+  "count": 598
 }
