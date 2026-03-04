@@ -4404,6 +4404,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Prince Planet",
+      "year": 1965,
+      "medium": "Anime",
+      "creator": "Sato \u014ckura (director), TCJ (studio)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": null,
+      "pitch": "Prince Planet is one of the earliest Japanese anime television series, originally titled \"Planet Boy Papi\" (\u904a\u661f\u5c11\u5e74\u30d1\u30d4\u30a4, Y\u016bsei Sh\u014dnen Pap\u012b). The series follows a member of the Universal Peace Corps from the planet Radion who is sent to Earth on a mission to determine if humanity qualifies for membership in the Galactic Union of Worlds. Adopting the identity of an Earth boy named Bobby, he joins forces with allies including a wrestler named Dan Dynamo and a magician named AjiBaba to fight alien and terrestrial forces of evil. Produced by TCJ (now Eiken), the 52-episode monochrome series was notable for being one of the first heavily merchandised anime shows in Japan, with the Papi logo appearing on various products including shoes and candy prizes.",
+      "truth": "The series debuted on Fuji TV on June 3, 1965, and ran until May 27, 1966. In the English-dubbed version distributed by American International Television in 1966, the show was retitled \"Prince Planet.\" The protagonist, Prince Planet (Papi), arrives on Earth in the first episode and is taken in by Riko (known as Diana Worthy in the English version) and her father Pops Worthy, who live on a large ranch. Over the course of the series, Prince Planet is tasked with observing humanity and evaluating whether Earth deserves admission to the Galactic Union of Worlds.\n\nEach episode typically features the team confronting various threats\u2014both alien villains and Earth-based antagonists\u2014while Prince Planet secretly conducts his assessment. The show incorporated elements of adventure, science fiction, and superhero storytelling, with the Universal Peace Corps representing a galactic governing body committed to maintaining peace across civilizations. The series drew inspiration from the emerging space age, reflecting contemporary fascination with space exploration and international cooperation.\n\nThe American dub featured original theme music composed by Guy Hemric and Jerry Styner, who had previously written songs for American International's \"Beach Party\" films. The dubbing was performed in Miami and helped introduce Japanese anime to American audiences during the mid-1960s, making it one of the earliest anime series to reach Western television.",
+      "core": "Prince Planet represents an important milestone in anime history as one of the first anime television series ever produced. It established many tropes that would become standard in the mecha and superhero anime genres, including the concept of a peaceful alien visitor living among humans and fighting evil forces. The show also exemplifies the early international co-production mentality of Japanese studios, being designed from the outset with export potential in mind.\n\nThe series reflects the optimistic space age zeitgeist of the mid-1960s, a period when humanity's real-life space exploration was beginning and the possibility of galactic cooperation seemed within reach. The Universal Peace Corps concept prefigures later anime themes of interstellar governance and universal citizenship. As an early example of children's science fiction entertainment, Prince Planet helped establish anime as a viable medium for conveying complex ideas about space, cooperation, and planetary stewardship to young audiences.",
+      "created_at": "2026-03-04 13:18:04"
+    },
+    {
       "title": "Promare",
       "year": 2019,
       "medium": "Anime Film",
@@ -9589,5 +9606,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 564
+  "count": 565
 }
