@@ -4591,6 +4591,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Planet of the Apes",
+      "year": 1968,
+      "medium": "Film",
+      "creator": "Franklin J. Schaffner (Director)",
+      "raw_score": 4.0,
+      "total_ratings": 210000,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Evolution, Isolation, Sentience",
+      "image_filename": "Planet_of_the_Apes_1968.jpg",
+      "pitch": "Planet of the Apes is a landmark 1968 American science fiction film directed by Franklin J. Schaffner, based loosely on Pierre Boulle's 1963 novel. The film stars Charlton Heston as astronaut George Taylor, who crash-lands on a mysterious planet in the distant future only to discover that evolved apes have become the dominant species while humans exist as mute, primitive beings. The film is renowned for its groundbreaking prosthetic makeup, Jerry Goldsmith's avant-garde score, and one of cinema's most iconic twist endings. It was a critical and commercial success, earning an honorary Academy Award for John Chambers' makeup work and spawning one of the most successful science fiction franchises in film history.",
+      "truth": "Astronauts Taylor, Landon, and Dodge awaken from deep hibernation after a near-light-speed space voyage. Their spacecraft crashes into a lake on an unknown planet; Taylor estimates they are in the Orion's Bellatrix System, 300 light-years from home. The fourth astronaut, Stewart, is found dead after her hibernation pod was compromised.\n\nThe three survivors travel through desolate wasteland, encountering eerie scarecrow-like figures and primitive, mute humans. During a raid by armed gorillas, Taylor is shot in the throat, losing his voice temporarily. He is captured along with Landon, while Dodge is killed. Taylor is taken to Ape City, where he meets chimpanzees Zira and Cornelius, who save his life.\n\nTaylor observes a complex ape society with a strict caste system: gorillas serve as enforcers, orangutans govern religion and politics, and chimpanzees work as scientists and doctors. Humans are treated as vermin\u2014hunted, enslaved, or used in experiments. Taylor eventually regains his voice and proves his intelligence through written communication, causing alarm among the ape leadership.\n\nDr. Zaius, the orangutan Minister of Science, threatens to have Taylor castrated and lobotomized. With help from Zira and Cornelius, Taylor escapes with a mute woman he names Nova. They flee to the Forbidden Zone, where they discover archaeological evidence of an advanced human civilization that predates the apes.\n\nIn the film's iconic climax, Taylor and Nova ride along the shoreline, eventually discovering the ruins of the Statue of Liberty\u2014revealing this \"alien\" planet is actually post-apocalyptic Earth, 2,000 years after humanity destroyed itself in nuclear war. Understanding Dr. Zaius' earlier warnings, Taylor falls to his knees in despair, cursing humanity for destroying the world.",
+      "core": "**Species Domination and Power Dynamics:** The film inverts typical human-animal relationships, exploring how intelligence and power determine social hierarchy. The apes have evolved to become the dominant species, treating humans as lesser beings\u2014a mirror to humanity's historical treatment of animals and the colonizer/colonized dynamic. The strict caste system reflects how societies maintain control through rigid categorization.\n\n**The Cycle of Civilization:** The film's twist ending reveals a profound commentary on human nature and history. Taylor discovers that humanity, despite its technological achievements, ultimately destroyed itself\u2014suggesting a cyclical pattern where civilizations rise and fall. Dr. Zaius' secret knowledge of the ancient human civilization implies that the apes may repeat history.\n\n**Language and Intelligence:** The film explores what separates \"intelligent\" beings from \"primitive\" ones. Taylor's ability to speak and write marks him as different from the mute humans, yet the apes fear this because language represents power. The film questions whether intelligence alone grants moral superiority.\n\n**Cold War Allegory:** Written during the height of the Cold War, the film reflects anxieties about nuclear annihilation, ideological conflict, and the potential for human self-destruction. The apes' society, with its religious theocracy and military might, mirrors fears about totalitarianism and the loss of individual freedom.\n\n**Revolutionary Makeup and Visual Storytelling:** John Chambers' groundbreaking prosthetic makeup techniques revolutionized film, allowing actors to transformed into apes with unprecedented realism. This technical achievement enabled the film to focus on performance and storytelling rather than relying on costumes or animation.\n\nPlanet of the Apes endures because it combines thrilling adventure with philosophical depth\u2014asking fundamental questions about civilization, humanity, and our place in the universe. Its twist ending remains one of the most powerful in cinema history, transforming a survival story into a meditation on humanity's capacity for both creation and destruction.",
+      "created_at": "2026-03-04 22:32:11"
+    },
+    {
       "title": "Planet of the Vampires",
       "year": 1965,
       "medium": "Film",
@@ -10082,5 +10099,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 593
+  "count": 594
 }
