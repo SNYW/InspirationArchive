@@ -1310,6 +1310,23 @@
       "created_at": "2026-03-02 15:31:29"
     },
     {
+      "title": "Bullets of Justice",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Valeri Milev (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Bulgaria ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Rebellion",
+      "image_filename": "Bullets_of_Justice_2019.jpg",
+      "pitch": "Bullets of Justice is a 2019 Bulgarian post-apocalyptic sci-fi film set in the aftermath of World War III. The American government initiated a secret project called \"Army Bacon\" to create super-soldiers by inbreeding humans with pigs. Twenty-five years later, these mutant hybrids\u2014called \"Muzzles\"\u2014have taken over the top of the food chain, farming and consuming humans like livestock. The film follows Rob Justice, an ex-bounty hunter working for the last human resistance hidden in a nuclear bunker, who is hired to uncover how the Muzzles came to power and how to destroy them.\n\nOriginally shot in 2017 as a pilot episode for a series, the film was eventually extended into a full feature. It premiered at the London FrightFest Film Festival in August 2019. The film is noted for its extreme gore and dark humor, often compared to B-movie cult classics.",
+      "truth": "The story takes place in a post-apocalyptic United States devastated by World War III. Humanity's last survivors hide in underground nuclear bunkers, while the surface world is ruled by the Muzzles\u2014human-pig hybrids created through the secret \"Army Bacon\" program. These creatures farm humans for food, maintaining a twisted hierarchy of predator and prey.\n\nRob Justice (played by Timur Turisbekov) is recruited by the human resistance to leave the bunker and investigate the origins of the Muzzles. His mission: discover the truth behind the Army Bacon project and find a way to defeat the mutant threat. Along the way, he encounters various survivors and Muzzles, leading to increasingly violent confrontations.\n\nThe film also features Danny Trejo as \"Grave-Digger,\" adding recognizable star power to this low-budget cult project. The production was funded through an Indiegogo crowdfunding campaign and filmed in just 17 days.",
+      "core": "Bullets of Justice represents a unique entry in Bulgarian cinema\u2014a gleefully violent B-movie that embraces exploitation film tropes while delivering social satire. The \"Muzzles\" serve as a dark mirror commentary on consumerism and genetic engineering gone awry, with the pig-human hybrids representing the ultimate degradation of both species.\n\nThe film fits squarely in the post-apocalyptic genre, but distinguishes itself through its extreme gore and absurd premise. Director Valeri Milev describes the project as \"a grim satire created by a circle of friends,\" and the film has been noted for its potential cult status among fans of extremely violent science fiction.\n\nThe production's Bulgarian origins are significant\u2014this is one of the few sci-fi entries from Bulgaria in the Inspiration Archive, representing the smaller nation's contribution to global science fiction cinema. The involvement of international talent like Danny Trejo and Kazakh director Timur Turisbekov demonstrates the increasingly\u8de8\u56fd nature of modern horror and sci-fi filmmaking.",
+      "created_at": "2026-03-04 08:48:39"
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -9368,5 +9385,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 551
+  "count": 552
 }
