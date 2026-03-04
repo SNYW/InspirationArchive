@@ -5781,6 +5781,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920,
+      "medium": "Film",
+      "creator": "Robert Wiene",
+      "raw_score": 4.05,
+      "total_ratings": 65000,
+      "origin": "Germany ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience",
+      "image_filename": "The_Cabinet_of_Dr._Caligari_1920.jpg",
+      "pitch": "The Cabinet of Dr. Caligari is the quintessential work of early German Expressionist cinema, a silent horror film that revolutionized visual storytelling and established many conventions of the horror genre. Directed by Robert Wiene and released in 1920, the film tells the story of a mysterious hypnotist, Dr. Caligari, who uses a somnambulist named Cesare to commit murders at a town fair. The film's iconic twisted sets, oblique camera angles, and dark, distorted visual style created a nightmare world thatInfluenced generations of filmmakers. Originally inspired by pacifist writers Hans Janowitz and Carl Mayer's experiences with military authority during World War I, the film uses its frame story and twist ending to deliver a searing critique of irrational authority and the\u8150\u8d25 of power.",
+      "truth": "The film opens with Franzis and his friend Alan visiting a town fair, where they encounter Dr. Caligari and his sideshow featuring Cesare, a sleeping somnambulist. When Alan asks Cesare how long he will live, the answer comes: \"Until dawn tomorrow.\" That night, Alan is murdered in his bed. The next evening, Cesare breaks into the home of Franzis's fianc\u00e9e Jane and abducts her, leading the townspeople on a chase through the twisted streets of Holstenwall before he collapses and dies.\n\nFranzis investigates the murders and discovers that the \"Cesare\" in the box is merely a dummy\u2014the real Cesare has been committing the crimes. Pursuing Dr. Caligari, Franzis follows him to an insane asylum, where he makes a shocking discovery: Caligari is the asylum's director, who has become obsessed with an 18th-century mystic also named Caligari who used a somnambulist to commit murders. The film's twist reveals that the entire frame story\u2014Franzis telling this tale\u2014takes place within the asylum, with Franzis and Dr. Caligari both being patients, and the \"story\" being Caligari's delusion. This twist ending, forced upon the writers against their original intent, has become one of cinema's most analyzed conclusions.",
+      "core": "The Cabinet of Dr. Caligari is significant for establishing German Expressionism as a major film movement and for its radical visual style that departed entirely from naturalistic representation. The sets, designed by Hermann Warm, Walter Reimann, and Walter R\u00f6hrig, feature sharp-pointed forms, oblique curving lines, buildings that lean and twist, and shadows painted directly onto the sets\u2014creating a claustrophobic, feverish environment that externalizes psychological states. This anti-realistic approach influenced everything from German horror cinema to American film noir and the broader horror genre.\n\nThematically, the film is a powerful allegory about brutal and irrational authority. Scholars have argued it reflects a subconscious German societal need for a tyrant, representing the war government with Cesare as the common man conditioned to kill. The film also explores the instability between sanity and insanity, the subjective nature of reality, and the duality of human nature. The frame story device, while added by producers against the writers' wishes, transforms the film into a commentary on how insane authority can normalize madness\u2014making the asylum the origin of the story's \"madness\" rather than its solution.\n\nThe film's cultural impact cannot be overstated: Roger Ebert called it arguably \"the first true horror film,\" while critics have labeled it cinema's first cult film and a precursor to arthouse cinema. It helped launch German cinema to international prominence and established visual expressionism as a tool for psychological and thematic depth in filmmaking. More than a century later, its twisted streets and haunting imagery remain definitive of silent-era horror and continue to influence filmmakers worldwide.",
+      "created_at": "2026-03-04 07:34:08"
+    },
+    {
       "title": "The Calcutta Chromosome",
       "year": 1996,
       "medium": "Novel",
@@ -9283,5 +9300,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 546
+  "count": 547
 }
