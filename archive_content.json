@@ -18,6 +18,23 @@
       "created_at": "2026-03-01 18:45:43"
     },
     {
+      "title": "1. April 2000",
+      "year": 1952,
+      "medium": "Film",
+      "creator": "Wolfgang Liebeneiner",
+      "raw_score": 2.9,
+      "total_ratings": 280,
+      "origin": "Austria ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Politics, Ecology",
+      "image_filename": "1._April_2000_1952.jpg",
+      "pitch": "1. April 2000 is a 1952 Austrian political satire film set in the year 2000, made during the Allied Occupation of Austria. The film depicts a fictional Austria still under the control of four Allied powers following World War II, satirizing the post-war situation through a futuristic lens. When Austria attempts to assert its independence by shredding its Allied-issued identity cards, the nation is charged with breaking \"world peace\" at a futuristic world court. The Austrian delegation must then prove that their nation is peaceful by presenting evidence of Austrian cultural achievements\u2014from Mozart to Viennese waltz to mountain scenery\u2014before the Moscow Declaration of 1943 is finally discovered, freeing Austria from foreign control.",
+      "truth": "The film opens in the year 2000, showing Austria still under the control of the four Allied powers that occupied the country after World War II. The Austrian prime minister, frustrated with endless negotiations about Austrian independence, decides to take a bold stand. He instructs the Austrian people to shred their four-language identity cards issued by the Allies, sending a clear message to the world about Austria's desire for sovereignty.\n\nThis act triggers a dramatic response from the world court, which descends from space in a rocket and lands in front of Sch\u00f6nbrunn Palace in Vienna. Austria is charged with breaking world peace\u2014a charge the Austrians view as unjust, noting that Austria was falsely blamed for triggering both World War I in 1914 and World War II in 1939.\n\nTo defend itself, Austria must prove it is a \"lovely\" nation that would never break world peace. The defense presents a parade of Austrian cultural achievements: Mozart, Prince Eugene of Savoy, Empress Maria Theresa, Viennese wine, the Viennese waltz, the Austrian mountains, and classic Austrian bands. Despite this presentation of cultural richness, the world court seems poised to find Austria guilty.\n\nJust before the verdict is delivered, the Moscow Declaration of 1943 is discovered\u2014a document that clearly states Austria is to be freed from Nazi control and restored as an independent nation. With this evidence, Austria is declared independent, and the film returns to 1952, where characters express hope that Austria's actual independence will come in the year 2000.",
+      "core": "**Political Satire and National Identity:** The film serves as a pointed commentary on Austria's post-WWII situation under Allied occupation. By setting the story in the year 2000, the filmmakers could comment on contemporary political issues while maintaining plausible deniability. The satire targets the bureaucracy of foreign occupation and the absurd situation of a nation being held responsible for wars started by outside forces.\n\n**The Moscow Declaration:** The film centers on the rediscovery of the Moscow Declaration of 1943, which established that Austria was to be liberated from Nazi German control rather than treated as a co-belligerent. This historical document becomes the key to Austria's fictional liberation in the film, reflecting real hopes for Austrian sovereignty during the occupation period.\n\n**Cultural Nationalism:** The film's defense of Austria relies entirely on cultural achievements\u2014music, wine, history, and landscape. This emphasis on cultural soft power as national defense reflects a particular Austrian national identity focused on arts and culture rather than military strength.\n\n**Temporal Displacement:** The use of the year 2000 as a setting allows the film to imagine both best-case and worst-case scenarios for Austria's future, serving as a warning about continued occupation while offering hope for eventual independence.\n\n**Science Fiction as Vehicle for Political Commentary:** While not a typical science fiction film, the genre elements\u2014future setting, space travel, world court\u2014serve as a framework for political satire. The sci-fi setting distances the viewer enough to engage with controversial political themes indirectly.\n\nThe film was entered into the 1953 Cannes Film Festival and represents a unique example of Austrian science fiction from the early 1950s, using genre elements to address pressing national concerns during a difficult historical period.",
+      "created_at": "2026-03-04 13:50:03"
+    },
+    {
       "title": "2001 Nights",
       "year": 1984,
       "medium": "Manga",
@@ -9623,5 +9640,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 566
+  "count": 567
 }
