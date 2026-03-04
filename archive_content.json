@@ -7294,6 +7294,23 @@
       "created_at": "2026-03-02 14:46:12"
     },
     {
+      "title": "The Lunar Trilogy",
+      "year": 1903,
+      "medium": "Novel",
+      "creator": "Jerzy \u017bu\u0142awski",
+      "raw_score": 3.69,
+      "total_ratings": 328,
+      "origin": "Poland ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Religion",
+      "image_filename": "The_Lunar_Trilogy_1903.jpg",
+      "pitch": "The Lunar Trilogy is a groundbreaking Polish science fiction work written between 1901 and 1911, consisting of three novels: \"On the Silver Globe\" (1903), \"The Conqueror\" (1910), and \"The Old Earth\" (1911). Written by Jerzy \u017bu\u0142awski, one of Poland's most influential early science fiction authors, this trilogy tells the epic story of Earth astronauts stranded on the Moon who found a colony that, over centuries, develops its own civilization, religion, and destiny. The first volume is presented as a diary recovered from the Moon, describing the original expedition's tragic landing and the founding of the Selenite colony. The trilogy is considered one of the earliest works of modern science fiction and has been translated into Russian, Czech, German, English, and Hungarian.",
+      "truth": "The first volume, \"On the Silver Globe\" (Na Srebrnym Globie), begins with an introduction set 50 years after a lunar expedition vanished. The core narrative is the diary of Jan Korecki, one of five astronauts who crash-land on the Moon. After the deaths of the expedition leader O'Tamor and the English physician Tomasz Woodbell, only Korecki, the Polish narrator, the Brazilian engineer Piotr Varadol, and Marta (a secret substitute for a German participant) survive. After several generations of inbreeding, their descendants lose most knowledge of Earth and form the Selenite civilization, ruled by a religious cult awaiting a savior from Earth.\n\nThe second volume, \"The Conqueror\" (Zwyci\u0119zca), takes place centuries later when another astronaut, Marek, arrives on the Moon. The Selenites, oppressed by the telepathic, devil-like Szerns who rule them, hail Marek as their long-awaited messiah. After leading a successful revolution against the Szerns, Marek attempts to reform Selenite society along socialist lines but fails when the population turns against him. He is ultimately martyred in a manner echoing the crucifixion of Christ.\n\nThe third volume, \"The Old Earth\" (Stara Ziemia), follows two Selenites who travel to 27th-century Earth, discovering a humanity that has advanced technologically but faces its own crises. The trilogy explores themes of religion, messianism, revolution, and the cyclical nature of civilization.",
+      "core": "The Lunar Trilogy is remarkable for its early treatment of themes that would become central to science fiction: space exploration, alien civilizations, dystopia, and the religious and social implications of contact between cultures. \u017bu\u0142awski's work predates many classic science fiction works and demonstrates remarkable sophistication in its treatment of colonization, cultural degeneration, and messianic narratives.\n\nThe trilogy influenced later Polish science fiction and established many themes that would be explored by successors like Stanis\u0142aw Lem. Its treatment of a society losing its original culture and developing new religious traditions, its critique of revolutionary movements, and its philosophical exploration of human nature and destiny make it a foundational work of Eastern European science fiction.\n\nThe third volume's critique of 27th-century Earth as a society that has achieved technological progress but lost its spiritual and moral foundation remains relevant particularly, anticipating later dystopian works by over a decade. The trilogy's influence extends beyond literature\u2014it was adapted into a film by Andrzej \u017bu\u0142awski, the author's grandson, though the film project was famously never completed.",
+      "created_at": "2026-03-04 12:02:08"
+    },
+    {
       "title": "The Machine Stops",
       "year": 1909,
       "medium": "Short Story",
@@ -9521,5 +9538,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 560
+  "count": 561
 }
