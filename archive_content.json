@@ -2177,6 +2177,23 @@
       "created_at": "2026-03-01 14:13:46"
     },
     {
+      "title": "Fahrenheit 451",
+      "year": 1953,
+      "medium": "Novel",
+      "creator": "Ray Bradbury",
+      "raw_score": 3.94,
+      "total_ratings": 156,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Memory",
+      "image_filename": "Fahrenheit_451_1953.jpg",
+      "pitch": "Fahrenheit 451 is a landmark dystopian novel set in a future America where books are illegal and \"firemen\" burn any that are found. The story follows Guy Montag, a fireman who has spent years burning books without question\u2014until he meets a young woman who makes him question his role and the society he serves. Through encounters with a retired English professor and his own wife, Montag begins to secretly read the books he's supposed to destroy, leading to a profound transformation in his understanding of humanity, knowledge, and freedom. The novel explores themes of censorship, the power of literature, and the dangers of a society that prioritizes superficial happiness over critical thought.",
+      "truth": "Guy Montag works as a \"fireman\" in a future American society where books have been outlawed. His job is to respond to emergency calls, find hidden books, and burn them\u2014along with the houses that contain them. The title refers to the temperature at which paper catches fire (451\u00b0F).\n\nMontag has lived this life for ten years without question, deriving satisfaction from the act of burning. But everything changes when he meets Clarisse McClellan, a seventeen-year-old who asks him strange questions and speaks of past memories. Clarisse makes Montag realize how empty his life has become\u2014his wife Mildred spends all day in front of their wall-sized television \"family,\" and the neighbors seem numb and disconnected.\n\nAfter Clarisse disappears (presumably taken away), Montag begins to question his work. A woman whose books they're burning chooses to die with her collection rather than live without them. This traumatizes Montag and deepens his crisis of conscience. He secretly begins hiding books from the books he burns.\n\nWhen Mildred discovers Montag reading, she reports him to Captain Beatty, the fire captain. Beatty explains that the government learned that thought and dissatisfaction came from reading, so they gradually made burning books the norm, encouraging people to burn them themselves. He orders Montag to burn his own house.\n\nInstead, Montag turns the flamethrower on Beatty and flees. He escapes to the countryside, where he joins a group of \"book people\"\u2014outsiders who have memorized entire books to preserve knowledge. Among them is Granger, who explains that they are waiting for the current society to collapse so they can help rebuild from the ashes. The city is bombed in the distance, and Montag and his new companions begin their long walk away from the ruins, carrying the memory of countless books.",
+      "core": "**Censorship and Control:** The novel is fundamentally about the danger of censorship and why those in power might want to suppress ideas. Bradbury wrote the book during the McCarthy era, partly in response to book burnings in Nazi Germany. The firemen represent state-controlled suppression of thought, and the novel argues that banning books leads to a shallow, unhappy society.\n\n**The Power of Literature:** Books in Fahrenheit 451 symbolize knowledge, critical thinking, and the accumulated wisdom of humanity. The novel suggests that great literature challenges us, makes us think, and ultimately makes us better humans. When society bans books, people become shallow, unable to think deeply, and dependent on superficial entertainment.\n\n**Happiness vs. Truth:** The society in the novel prioritizes superficial happiness\u2014people are kept \"happy\" with endless entertainment and are discouraged from thinking deeply or questioning. But the novel suggests this is a false happiness built on ignorance. True fulfillment comes from understanding life's complexities through literature and ideas.\n\n**Mass Media and Attention:** Bradbury was prescient in his depiction of a society consumed by screens and instant entertainment. The \"parlor walls\" (giant televisions) that fill homes represent the degradation of attention and conversation. This theme resonates powerfully in the modern age of social media and streaming.\n\n**Preservation of Knowledge:** The \"book people\" who memorize entire texts represent hope for the future. They show that knowledge lives in human memory, not just in physical books\u2014and that as long as people are willing to preserve and share ideas, no regime can truly erase them.\n\nFahrenheit 451 remains a foundational work of dystopian fiction because it captures the eternal tension between freedom of thought and the desire of authorities to control information. Its warning about the dangers of censorship and the importance of literature continues to resonate in every era of book banning and intellectual suppression.",
+      "created_at": "2026-03-04 15:06:42"
+    },
+    {
       "title": "Fallen Art",
       "year": 2004,
       "medium": "Animated Short",
@@ -9691,5 +9708,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 570
+  "count": 571
 }
