@@ -1446,6 +1446,23 @@
       "created_at": "2026-03-04 17:06:05"
     },
     {
+      "title": "Cargo",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Arati Kadav (Director/Writer)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Religion, Rebirth, Isolation",
+      "image_filename": "Cargo_2019.jpg",
+      "pitch": "Cargo is a 2019 Indian science fiction dark comedy set on a retro-futuristic spaceship where death is just the beginning. The film follows Prahastha, a lonely Yamaduta (death deity's assistant) who works on the spaceship Pushpak 634A for Post Death Transition services\u2014a cosmic immigration office that processes dead souls for rebirth. When a new female astronaut Yuvishka arrives to assist, Prahastha must learn to navigate both his cosmic responsibilities and his own existential loneliness. The film premiered at MAMI Film Festival and later released on Netflix, marking a significant indie sci-fi achievement in Indian cinema.",
+      "truth": "The story takes place entirely on the spaceship Pushpak 634A, a bizarre vessel that looks like a jellyfish and houses the Post Death Transition Authority. Prahastha (Vikrant Massey) has been working alone for years as a Yamaduta, tasked with guiding dead souls through the rebirth process. His job involves interviewing the deceased, logging their \"cargo\" (the souls), and using ancient technology to recycle them for reincarnation back into the world.\n\nThe arrival of Yuvishka (Shweta Tripathi) disrupts Prahastha's isolated routine. She brings energy, questions, and humanity into his sterile existence. Together, they process various souls\u2014including a pregnant woman, an elderly person, and others\u2014each representing different journeys through death and rebirth.\n\nThe film explores what happens when the cosmic bureaucracy meets human emotion. Prahastha, who has forgotten his own past deaths and rebirths, begins to question his purpose and identity. The mysterious cargo mentioned in the title refers both to the souls he processes and to his own unresolved journey.\n\nThe climax reveals the deeper philosophy: death is not an ending but a transition, a \"cargo\" being shipped across the cosmic ocean. The retro technology (intentionally designed to look like 1980s tech) emphasizes that some fundamental aspects of existence remain unchanged regardless of technological advancement.",
+      "core": "**Indian Mythology Meets Sci-Fi:** Director Arati Kadav deliberately blends Hindu concepts of Yamadutas (messengers of death), reincarnation, and the cosmic cycle with Western science fiction tropes. The spaceship is named after Pushpak Vimana from Hindu mythology. This \"Eastern sci-fi\" approach makes the film unique in the genre, grounding futuristic concepts in Indian spiritual traditions.\n\n**Immigration Office in Space:** The central metaphor is brilliant\u2014an immigration office for dead souls. Just as immigrants must navigate bureaucratic processes to enter a new country, the dead must pass through cosmic paperwork to be reborn. This commentary on bureaucracy and paperwork echoes throughout, making the sci-fi premise accessible through universally understood frustrations.\n\n**Solitude and Connection:** The film deeply explores isolation. Prahastha has worked alone for what seems like centuries, processing souls but never connecting with them. Yuvishka's arrival represents the human need for companionship and meaning. The film's quiet moments on the empty spaceship capture the loneliness of both cosmic duty and modern existence.\n\n**Budget as Art:** Made with minimal resources, the film uses creative solutions\u2014motorcycle helmets as astronaut helmets, discarded ATMs as props\u2014to create its world. This constraints-driven creativity gives the film a distinctive retro aesthetic that feels intentionally handmade rather than cheaply produced.\n\n**Philosophical Depth:** Inspired by Jorge Luis Borges and Ted Chiang, Cargo asks big questions: What is the purpose of existence? Is rebirth a gift or a curse? Does memory define identity? The film doesn't provide easy answers, instead inviting viewers to contemplate their own relationship with mortality.\n\nCargo represents a new voice in Indian science fiction\u2014thoughtful, visually inventive, and deeply rooted in Indian cultural context while speaking universal themes.",
+      "created_at": "2026-03-04 19:02:15"
+    },
+    {
       "title": "Cat City",
       "year": 1986,
       "medium": "Film",
@@ -9895,5 +9912,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 582
+  "count": 583
 }
