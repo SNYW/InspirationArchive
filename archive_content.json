@@ -1701,6 +1701,23 @@
       "created_at": "2026-02-28 08:30:22"
     },
     {
+      "title": "Cube",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Vincenzo Natali",
+      "raw_score": 3.55,
+      "total_ratings": 260000,
+      "origin": "Canada ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Isolation",
+      "image_filename": "Cube_1997.jpg",
+      "pitch": "Cube is a 1997 Canadian science fiction horror film directed by Vincenzo Natali. The film follows seven individuals who wake up trapped in a bizarre labyrinth of cube-shaped rooms, each with hatches leading to other rooms\u2014some safe, others deadly. As the group attempts to escape, they discover that each room's hatch plates contain three sets of numbers, and those containing prime numbers correspond to rooms with lethal traps. The film is renowned for its surreal, Kafkaesque atmosphere and low-budget ingenuity, becoming a cult classic that spawned multiple sequels.",
+      "truth": "The film opens with a man named Alderson awakening alone in a cube-shaped room with hatches on each wall, floor, and ceiling. He enters another room and is killed by a hidden wiretrap.\n\nFive more people later gather in another room: Quentin, Rennes, and Worth (three men), and Leaven and Holloway (two women). Quentin warns the group that he has witnessed traps in some rooms. Leaven observes that each hatch has three sets of numbers etched into its plates.\n\nRennes theorizes that traps are triggered by motion detectors and pressure sensors. He tests this by throwing his boot into a room, successfully navigating through what appears to be safe rooms. However, when he enters a room that doesn't trigger the motion or pressure detectors, he is killed by an acid trap.\n\nQuentin becomes convinced that each person was deliberately chosen for the cube. Leaven develops a hypothesis that rooms with prime numbers on their plates are trapped. The group encounters a mentally disabled man named Kazan, whom Holloway insists be brought along.\n\nTension escalates within the group. Worth admits to Quentin that he was once hired to design the maze's outer shell. He theorizes that the Cube was created accidentally by bureaucracy, and its original purpose has been forgotten\u2014meaning the prisoners may be inside simply to justify the structure's existence.\n\nUsing Worth's knowledge of the exterior dimensions, Leaven calculates that the Cube contains 17,576 rooms, plus a \"bridge\" room connecting to the shell and the exit. She realizes the numbers may represent coordinates for each room. The group travels to the edge of the Cube but discovers every room there is trapped. They successfully navigate a room with a trap, but Holloway is killed attempting to reach what appears to be an exit.\n\nThe remaining survivors\u2014Leaven, Quentin, Worth, and Kazan\u2014finally reach what they believe is the exterior shell. Quentin stays behind to manually operate the bridge mechanism while the others escape. Quentin is then killed by security forces (or possibly more traps). Worth and Kazan reach the exterior, only to discover another Cube in the distance\u2014suggesting an infinite maze of Cubes.",
+      "core": "**Alienation and Bureaucratic Absurdity:** The Cube represents a dehumanizing system beyond individual understanding. Worth's theory that the Cube exists without purpose\u2014that prisoners are kept inside simply to justify the structure's creation\u2014parallels Kafka's bureaucracy in The Trial. The numbers on the doors, never fully explained, symbolize arbitrary systems that control human lives without rationale.\n\n**Primal Fear of Confinement:** The film taps into fundamental human anxieties about being trapped in enclosed spaces with no escape. The Cube's industrial, windowless environment creates claustrophobic tension throughout. Each character represents different responses to extreme confinement: some try to understand the system, others resort to violence, and some simply break down.\n\n**Trust and Paranoia:** With no clear authority or explanation, the survivors must decide whether to trust each other. The group dynamics shift as revelations about each person's background emerge. Quentin's leadership oscillates between apparent bravery and paranoid aggression, while the inclusion of Kazan\u2014who cannot contribute to solving the puzzles\u2014raises questions about compassion versus practicality in survival situations.\n\n**Mathematical Rationality as False Hope:** Leaven's prime number theory represents humanity's need to find patterns and meaning in chaotic circumstances. While her mathematical approach provides some success, it ultimately proves incomplete\u2014the Cube's true logic remains unknowable, and the survivors' escape leads only to another Cube, suggesting that rational understanding cannot defeat systemic absurdity.\n\nCube gained cult status for its minimalist approach, proving that effective science fiction horror need not rely on elaborate special effects\u2014instead achieving terror through atmosphere, implication, and the suffocating geometry of its central concept.",
+      "created_at": "2026-03-04 18:02:29"
+    },
+    {
       "title": "Cyber City Oedo 808",
       "year": 1990,
       "medium": "Anime",
@@ -9827,5 +9844,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 578
+  "count": 579
 }
