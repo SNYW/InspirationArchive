@@ -6835,6 +6835,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Long Dark",
+      "year": 2017,
+      "medium": "Video Game",
+      "creator": "Hinterland Studio",
+      "raw_score": 3.85,
+      "total_ratings": 150,
+      "origin": "Canada ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Isolation",
+      "image_filename": "The_Long_Dark_2017.jpg",
+      "pitch": "The Long Dark is a survival video game set in the Canadian wilderness after a catastrophic geomagnetic storm knocks out global civilization. Players control Will Mackenzie, a bush pilot who crash-lands in the remote forests of northern Canada and must survive against the elements, wildlife, and the brutal cold. Unlike typical post-apocalyptic games focused on combat or zombies, The Long Dark emphasizes pure survival mechanics\u2014managing body temperature, hunger, thirst, fatigue, and health while scavenging for supplies in a vast, unforgiving open world.\n\nThe game was developed by Hinterland Studio, a small Canadian developer founded by Raphael van Lierop after his work on Warhammer 40,000: Space Marine. Inspired by the Canadian wilderness of Vancouver Island, the team sought to create a post-apocalyptic game\u8fdc\u79bb urbanization tropes, instead exploring what survival looks like in nature's margins. The game was funded through Kickstarter in 2013 and released in Early Access in 2014 before a full release in 2017. It received critical acclaim for its survival mechanics and atmospheric design, selling over 750,000 copies by 2016.",
+      "truth": "The Long Dark features two main game modes: Survival and Wintermute (story mode).\n\n**Survival Mode** is the core experience\u2014a permadeath open-world survival game where players must manage four core vitals: Body Temperature, Calories, Fatigue, and Hydration. Players scavenge for food, water, firewood, and supplies in a map spanning twelve major regions including Mystery Lake, Coastal Highway, Pleasant Valley, and Timberwolf Mountain. The environment is harsh: temperatures drop dangerously at night, blizzards reduce visibility to near zero, frostbite sets in quickly, and wildlife including wolves, bears, and moose pose constant threats.\n\nResources are finite\u2014no respawning supplies means players must constantly move to new areas or carefully ration what they find. The game simulates realistic day/night cycles and weather systems that directly impact survival. Fire is essential for warmth and cooking, requiring players to balance gathering wood with other survival tasks. Different difficulty levels (Pilgrim, Voyageur, Stalker, Interloper, Misery) dramatically alter resource scarcity, wildlife aggression, and weather severity.\n\n**Wintermute** is a narrative-driven episodic adventure following Will Mackenzie and his passenger Dr. Astrid Greenwood as they attempt to survive after the geomagnetic storm. The story mode guides players through various regions while introducing survival mechanics gradually, featuring voice acting and a more traditional adventure game structure with objectives and scripted events. The first two episodes were released at launch, with subsequent episodes added over time through 2021.\n\nThe game's story mode explores themes of isolation, human connection, and the fragility of modern civilization. The geomagnetic storm premise\u2014while scientifically simplified\u2014serves as a catalyst to examine what remains when technology fails and humans must rely on primal survival instincts.",
+      "core": "**Nature as Antagonist:** Unlike most post-apocalyptic media where the primary threats are other humans, monsters, or societal collapse, The Long Dark makes nature the antagonist. The Canadian wilderness itself\u2014the cold, the snow, the wildlife, the finite resources\u2014is the enemy. This reframes the survival genre around human helplessness against natural forces rather than human-on-human conflict, creating a unique atmospheric tension rooted in environmental horror.\n\n**Canadian Identity and Place:** The developers deliberately crafted a Canadian post-apocalypse, grounding the game in specific northern geography and culture. The regional place names, wildlife (moose, bears, timberwolves), and environmental conditions reflect the Canadian wilderness experience. Van Lierop explicitly stated a desire to explore post-apocalyptic fiction from the fringes rather than urban centers, embracing a Canadian identity distinct from American genre tropes.\n\n**Permadeath and Consequence:** The survival mode's permadeath system creates genuine stakes for every decision. With no save-scumming and limited resources, each playthrough becomes a narrative of specific choices and consequences. This mechanical design reinforces the thematic content: in a world where everything is scarce, every action has weight.\n\n**The Silence of Collapse:** The game's sound design emphasizes the silence of a depopulated world. Without the background hum of civilization, players experience profound isolation\u2014the only sounds are wind, wildlife, and the player's own heartbeat. This auditory landscape reinforces themes of loneliness and the scale of what has been lost.\n\nThe Long Dark carved a unique niche in the survival game genre by rejecting conventional post-apocalyptic imagery (zombies, nuclear wasteland, urban decay) for a more naturalistic, atmospheric approach. Its success demonstrated appetite for survival games that prioritize environmental tension over combat, and helped establish the \"cozy survival\" subgenre while maintaining genuine difficulty and consequence.",
+      "created_at": "2026-03-04 02:32:14"
+    },
+    {
       "title": "The Long Tomorrow",
       "year": 1976,
       "medium": "Graphic Novel",
@@ -8994,5 +9011,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 529
+  "count": 530
 }
