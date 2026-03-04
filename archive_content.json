@@ -9759,6 +9759,23 @@
       "created_at": "2026-03-02 00:26:51"
     },
     {
+      "title": "We",
+      "year": 1921,
+      "medium": "Novel",
+      "creator": "Yevgeny Zamyatin",
+      "raw_score": 3.88,
+      "total_ratings": 113846,
+      "origin": "Russia ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Isolation, Rebellion",
+      "image_filename": "We_1921.jpg",
+      "pitch": "We is a dystopian novel written in 1920-1921 by Russian writer Yevgeny Zamyatin, depicting a future society of absolute conformity and totalitarian control. The story follows D-503, a spacecraft engineer living in the One State, a glass-walled civilization where citizens are identified by numbers rather than names, and where all aspects of life are governed by strict mathematical logic and the will of the mysterious Benefactor. When D-503 begins to experience forbidden emotions and develops a sense of individuality, he must confront the foundations of his society\u2014and his own humanity.",
+      "truth": "The novel is set in the distant future, centuries after the One State has conquered the entire world. D-503 is the chief engineer building the INTEGRAL, a spaceship destined to invade and conquer extraterrestrial planets. Life in the One State is governed by strict schedules, uniform clothing, and mathematical logic\u2014citizens march in step, live in identical glass apartments, and are monitored by the secret police known as the Bureau of Guardians.\n\nD-503 begins keeping a journal, intended to be carried aboard the INTEGRAL to document the conquest for extraterrestrial civilizations. As he writes, he meets O-90, a woman who has been assigned to visit him on certain nights. Unlike other citizens, O-90 shows signs of individuality and emotion\u2014characteristics that should be impossible in the rationally ordered society.\n\nThrough his growing relationship with O-90 and an encounter with the revolutionary I-330, D-503 begins to experience emotions that threaten his logical worldview. He discovers that beneath the orderly surface of the One State, there exists a group of rebels living in the ancient, forbidden \"Old House\" ruins. I-330 introduces D-503 to the concepts of love, alcohol, and rebellion against the Benefactor.\n\nAs D-503's grip on his rational, mathematical identity weakens, he must choose between his loyalty to the One State and his emerging individual consciousness. The novel explores the cost of perfect order and the impossible choice between freedom and security.",
+      "core": "We is widely considered one of the greatest and most influential dystopian novels of the twentieth century. It predates and inspired George Orwell's Nineteen Eighty-Four and Aldous Huxley's Brave New World, establishing many of the tropes that would define the genre: the all-seeing surveillance state, the suppression of individual thought, and the use of technology for social control.\n\nThe novel explores the tension between rational order and human emotion, between collective conformity and individual freedom. Zamyatin's glass-walled One State serves as a critique of both totalitarian socialism and Western rationalism, suggesting that any system\u8ffd\u6c42absolute order will inevitably suppress human creativity and emotion.\n\nThe protagonist's journey from loyal citizen to questioning rebel mirrors the reader's own awakening to the dangers of unchecked state power. Zamyatin wrote the novel as a direct response to the emerging Soviet system, but its themes have proven universal\u2014relevant to any society that sacrifices freedom for security, or individuality for conformity.",
+      "created_at": "2026-03-04 22:49:39"
+    },
+    {
       "title": "Welcome to the Space Show",
       "year": 2010,
       "medium": "Anime Film",
@@ -10099,5 +10116,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 594
+  "count": 595
 }
