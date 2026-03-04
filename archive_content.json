@@ -5747,6 +5747,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "W.D. Richter (Director), Earl Mac Rauch (Writer)",
+      "raw_score": 3.1,
+      "total_ratings": 33000,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens",
+      "image_filename": "The_Adventures_of_Buckaroo_Banzai_Across_the_8th_Dimension_1984.jpg",
+      "pitch": "The Adventures of Buckaroo Banzai Across the 1980s is a wildly ambitious sci-fi adventure-comedy that defies easy categorization. The film follows Dr. Buckaroo Banzai (Peter Weller), a remarkable polymath who is simultaneously a physicist, neurosurgeon, test pilot, and rock star. When Banzai perfects the \"oscillation overthruster\" \u2014 a device that allows passage through solid matter \u2014 he accidentally opens a portal to another dimension, discovering the existence of the hostile Red Lectroids from Planet 10.\n\nWith his team of loyal compatriots known as \"The Hong Kong Cavaliers,\" Banzai must stop the alien invasion led by the villainous Lord John Whorfin (John Lithgow), who has possessed the mind of the insane Dr. Emilio Lizardo. The film juggles multiple plot threads \u2014 alien invasions, interdimensional travel, romantic entanglements, and Cold War anxieties \u2014 all delivered with a manic energy that made it a cult classic despite poor initial box office performance.",
+      "truth": "Buckaroo Banzai tests his oscillation overthruster in his revolutionary Jet Car, successfully passing through a mountain and into another dimension. Upon returning, he discovers an alien organism has attached to his car. Meanwhile, Dr. Emilio Lizardo \u2014 who had previously tested a faulty version of the overthruster in 1938 and became stranded between dimensions \u2014 sees Banzai's success on television and escapes from the mental institution where he'd been institutionalized.\n\nLizardo, now possessed by Lord John Whorfin, leads the Red Lectroids in a plot to steal Banzai's perfected overthruster and free their remaining comrades trapped in the 8th dimension. The Black Lectroids, peaceful aliens from Planet 10, enlist Banzai's help to stop Whorfin, warning that failure will trigger World War III.\n\nThe climax takes place at Yoyodyne Propulsion Systems, a disguised alien facility building a spacecraft to breach the dimensional barrier. Banzai and the Cavaliers infiltrate the facility, rescue Penny Priddy (Banzai's late wife's twin sister), and ultimately destroy the Red Lectroid ship. Banzai defeats Whorfin, saves Earth, and revives the seemingly dead Penny with a kiss charged with residual alien energy.",
+      "core": "The film is a quintessential cult classic \u2014 a sprawling, messily ambitious work that attempts to cram an entire universe of ideas into 102 minutes. Its themes include the power of multidisciplinary thinking (Banzai's genius spans science, medicine, and art), the danger of Cold War paranoia, and the value of unconventional teamwork.\n\nThe film's legacy is defined by its initial commercial failure followed by decades of growing appreciation. Its intricate mythology, quotable dialogue, and memorable characters (Jeff Goldblum's scene-stealing performance as Dr. Sidney Zweibel is particularly notable) have earned it a devoted fanbase. The film spawned novels, comics, and even a video game, expanding the universe beyond what the original film could contain.\n\nAt its heart, Buckaroo Banzai is about the triumph of the Renaissance man \u2014 the idea that curiosity, courage, and creativity can save the world. It's uneven, sometimes incoherent, and utterly distinctive \u2014 a singular vision that continues to inspire affection and analysis decades after its release.",
+      "created_at": "2026-03-04 14:51:20"
+    },
+    {
       "title": "The Adventures of Luther Arkwright",
       "year": 1987,
       "medium": "Graphic Novel",
@@ -9674,5 +9691,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 569
+  "count": 570
 }
