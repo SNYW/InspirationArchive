@@ -3486,6 +3486,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Mickey 17",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "Bong Joon Ho (Director), Edward Ashton (Novel)",
+      "raw_score": 3.35,
+      "total_ratings": 236000,
+      "origin": "Multinational ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Cloning, Sentience, Transhumanism",
+      "image_filename": "Mickey_17_2025.png",
+      "pitch": "Mickey 17 is a 2025 science fiction black comedy directed by Bong Joon Ho, based on the 2022 novel Mickey7 by Edward Ashton. The film stars Robert Pattinson in the title role as an \"Expendable\"\u2014a disposable worker on a space colony mission who is cloned every time he dies, with his memories restored through a process called \"reprinting.\" Set in 2054, the film follows Mickey Barnes and his friend Timo as they escape Earth to join a colony voyage to the ice planet Niflheim. The film explores themes of identity, humanity's treatment of disposable labor, and what it means to be a person when you can be endlessly replicated.",
+      "truth": "In 2050, Mickey Barnes and his friend Timo join a spaceship crew colonizing the ice planet Niflheim to escape a murderous loan shark. Timo becomes a shuttle pilot while Mickey signs on as an \"Expendable\"\u2014a worker assigned the most dangerous tasks, whose death results in a new clone with restored memories.\n\nFour years later, after multiple Mickey iterations have died experimenting on and sacrificing themselves to develop a vaccine for Niflheim's viral pathogens, Mickey 17 is sent to capture a native \"Creeper.\" He falls into a fissure but is saved by the Creepers, who carry him to the surface instead of eating him. When he returns, he discovers Mickey 18 has been printed. The expedition leader Kenneth Marshall has a policy that \"Multiples\" (clones) must be eliminated.\n\nThe two Mickeys secretly rotate duties and deaths to survive. Their friendship with security agent Nasha develops into romance. Eventually, the Multiples are exposed, and Marshall plans to eliminate both Mickeys and the sentient Creepers. Mickey 18 sacrifices himself to kill Marshall, fulfilling the Creepers' demand for a human sacrifice. Afterwards, Nasha outlaws the Expendable program, and Mickey destroys the reprinting machine, choosing to live as a single, mortal being.",
+      "core": "**Identity and the Self:** The film interrogates what makes a person. Is Mickey 17 the same person as Mickey 18? They share memories but have different experiences. The film suggests identity is continuous rather than identical\u2014each iteration is both the same person and a new individual.\n\n**Disposable Labor and Capitalism:** The Expendable program is a stark metaphor for late capitalism's treatment of workers as interchangeable, disposable units. Mickey is literally consumable\u2014sent on deadly missions because his death is \"cheap.\" The film critiques how modern society devalues human life in favor of efficiency.\n\n**Sacrifice and Humanity:** The film asks whether humanity lies in mortality or in the choices we make. The Creepers, initially seen as monsters, turn out to be sentient beings with their own culture. The film suggests that true humanity comes from compassion, connection, and the willingness to sacrifice for others\u2014not from biological continuity.\n\nBong Joon Ho brings his signature blend of dark comedy and social commentary to this adaptation, creating a thoughtful exploration of clone identity, colonial exploitation, and what it means to be human in an age of advanced technology.",
+      "created_at": "2026-03-04 11:18:01"
+    },
+    {
       "title": "Microcosmic God",
       "year": 1941,
       "medium": "Novella",
@@ -9470,5 +9487,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 557
+  "count": 558
 }
