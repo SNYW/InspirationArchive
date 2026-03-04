@@ -7413,6 +7413,23 @@
       "created_at": "2026-03-01 14:03:58"
     },
     {
+      "title": "The Phantom Empire",
+      "year": 1935,
+      "medium": "Serial Film",
+      "creator": "Otto Brower, B. Reeves Eason (Directors)",
+      "raw_score": 3.05,
+      "total_ratings": 590,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "The_Phantom_Empire_1935.jpg",
+      "pitch": "The Phantom Empire is a groundbreaking 1935 American serial film that pioneers the Science-Fiction Western genre. When singing cowboy Gene Autry stumbles upon a hidden underground civilization called Murania beneath his Radio Ranch, he discovers a lost tribe of Mu that has lived in technological sophistication 25,000 feet below the Earth's surface for 100,000 years. The 12-chapter serial combines Western adventure, musical numbers, and science fiction elements featuring robots, ray-guns, and advanced television\u2014a remarkable blend for its era. This influential work directly inspired the 1979 TV series Cliffhangers and is considered the first science-fiction Western.",
+      "truth": "Gene Autry stars as himself, a singing cowboy who runs Radio Ranch, a dude ranch from which he makes daily radio broadcasts. Joined by his young sidekicks Frankie and Betsy Baxter, Gene's life changes when they are kidnapped by the Thunder Riders, armored warriors from the subterranean empire of Murania. \n\nThe Muranians are the lost tribe of Mu, who descended underground during the last glacial period and have developed an advanced civilization featuring towering buildings, robots, television technology, and ray-guns. Their icy blonde Queen Tika rules the empire, while evil scientist Professor Beetson plots from the surface to seize Murania's valuable radium deposits. Meanwhile, Lord Argo schemes to overthrow Queen Tika.\n\nGene must navigate between the surface world threatened by Beetson's criminal gang and the underground kingdom caught in political intrigue. The serial's 12 chapters include episodes titled \"The Singing Cowboy,\" \"The Thunder Riders,\" \"The Lightning Chamber,\" \"Phantom Broadcast,\" \"Beneath the Earth,\" \"Disaster from the Skies,\" \"From Death to Life,\" \"Jaws of Jeopardy,\" \"Prisoners of the Ray,\" \"The Rebellion,\" \"A Queen in Chains,\" and \"The End of Murania.\"\n\nIn 1940, a 70-minute feature film version was released under the titles Radio Ranch or Men with Steel Faces.",
+      "core": "The Phantom Empire represents a significant milestone in science fiction cinema history. By combining the popular singing cowboy genre with science fiction elements, it created an entirely new hybrid genre\u2014the Science-Fiction Western\u2014that would influence decades of filmmaking, from Spaghetti Westerns to modern works like Dark Star and The Adventures of Buckaroo Banzai.\n\nThe film's depiction of an advanced underground civilization predates similar themes in better-known works like Journey to the Center of the Earth and offers a fascinating snapshot of 1930s speculative fiction. The Muranians' advanced technology (robots, television, ray-guns) reflects era optimism about technological progress while the lost civilization concept taps into enduring fascination with Atlantis and Mu.\n\nThe serial format, with its episodic cliffhangers between chapters, was the dominant form of Saturday morning entertainment for generations of American moviegoers. The Phantom Empire stands as a testament to this era's creative genre experimentation and remains an important but overlooked piece of sci-fi cinematic history.",
+      "created_at": "2026-03-04 04:28:38"
+    },
+    {
       "title": "The Phantom of the Air",
       "year": 1933,
       "medium": "Serial Film",
@@ -9113,5 +9130,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 536
+  "count": 537
 }
