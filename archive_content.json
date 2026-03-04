@@ -7022,6 +7022,23 @@
       "created_at": "2026-03-03 07:45:42"
     },
     {
+      "title": "The Man from Earth",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Richard Schenkman (director), Jerome Bixby (writer)",
+      "raw_score": 3.9,
+      "total_ratings": 217000,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Religion, Time-Travel",
+      "image_filename": "The_Man_from_Earth_2007.png",
+      "pitch": "The Man from Earth is a 2007 American science fiction drama film directed by Richard Schenkman and written by Jerome Bixby. The entire film takes place in real-time during a farewell party, as professor John Oldman reveals to his colleagues that he is more than 14,000 years old. Originally conceived in the early 1960s, Bixby completed the screenplay on his deathbed in April 1998. Shot on a budget of just $200,000 in eight days, the film gained significant recognition through internet peer-to-peer distribution, exceeding the filmmakers' expectations for visibility.",
+      "truth": "Professor John Oldman is packing his belongings into his truck, preparing to move away from the university where he has taught. His colleagues\u2014Harry the biologist, Edith the art historian, Dan the anthropologist, Sandy the historian, Art the archaeologist, and student Linda\u2014arrive for an impromptu farewell party. As they pressure him to explain his sudden departure, John reveals that he was born in the Paleolithic period and has lived for over 14,000 years, relocating every ten years to avoid detection of his lack of aging.\n\nJohn claims he was a Sumerian for 2000 years, later a Babylonian, and eventually a disciple of the Buddha. He also suggests he may have been the inspiration for the Jesus story. His colleagues, each from different academic backgrounds, question his claims based on their expertise. Art is the most skeptical, while others consider the possibility his story might be true.\n\nDr. Will Gruber, a psychiatry professor summoned by Art, arrives and questions John's mental state, even threatening him with an unloaded gun. Will later learns that John's story might be legitimate when he realizes one of John's past aliases was his father's name. Before John can fully explain, Will suffers a fatal heart attack. The film ends ambiguously\u2014John leaves with Sandy, suggesting she believes his story.",
+      "core": "**Immortality and Isolation:** The central theme explores the psychological burden of living forever, watching everyone you love grow old and die. John's repeated statement that he \"just keeps moving\" speaks to the loneliness of immortality\u2014never settling, never allowing deep connections that would inevitably end in loss.\n\n**Faith vs. Reason:** The film poses uncomfortable questions about religion, suggesting that a mortal man could have inspired religious figures. This challenges both religious literalism (represented by Edith's distress) and scientific materialism (represented by Art's stubborn skepticism).\n\n**The Power of Story:** All of reality occurs through dialogue and interpretation. John's tale could be a elaborate hoax, a delusion, or literally true\u2014the film deliberately refuses to confirm which interpretation is correct, leaving viewers to decide what they believe.\n\n**Low-Budget Innovation:** The film's entire premise is talk-driven, occurring in one location with minimal visual effects. This constraint became a strength, demonstrating that science fiction doesn't require spectacle\u2014it can work through intellectual engagement and philosophical speculation.",
+      "created_at": "2026-03-04 02:18:39"
+    },
+    {
       "title": "The Man from the First Century",
       "year": 1962,
       "medium": "Film",
@@ -8977,5 +8994,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 528
+  "count": 529
 }
