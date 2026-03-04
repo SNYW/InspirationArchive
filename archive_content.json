@@ -4421,6 +4421,23 @@
       "created_at": "2026-03-03 23:18:49"
     },
     {
+      "title": "Restore Point",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Robert Hloz (Director)",
+      "raw_score": 3.05,
+      "total_ratings": 3500,
+      "origin": "Czech-Republic ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk, Noir ,",
+      "topics": "Transhumanism, Sentience, Rebellion",
+      "image_filename": "Restore_Point_2023.jpg",
+      "pitch": "Restore Point (Bod obnovy) is a 2023 Czech cyberpunk science fiction thriller set in 2041 Central Europe, where society has granted citizens a constitutional right to be revived after unnatural death\u2014provided they have routinely backed up their brain data every 48 hours. This innovative \"restore point\" technology is operated by the Institute of Restoration, offering resurrection to those who comply with the backup regime.\n\nWhen the scientist who developed the recovery technology, David Kurlstat, and his wife are brutally murdered, detective Emma \"Em\" Trochinowska is assigned to the case. She is puzzled that Kurlstat, of all people, hasn't had a valid recovery point with which to be revived\u2014leaving his murder seemingly permanent. As she investigates, she uncovers a group called \"River of Life\" who violently oppose the \"unnatural\" resurrection technology through terrorist attacks, believing death should remain final.\n\nThe film marks the directorial debut of Robert Hloz and has been described by critics as the \"Czech Blade Runner\" for its retro-futuristic cyberpunk aesthetic. It was co-produced by the Czech Republic, Slovakia, Poland, and Serbia, and premiered at the Karlovy Vary International Film Festival in 2023.",
+      "truth": "The film is set in a Central Europe of 2041, where social inequality and violent crime have prompted governments to implement the Restore Point system\u2014a technology that allows people to be resurrected after unnatural death, as long as they have maintained regular brain data backups at the Institute of Restoration.\n\nYoung detective Emma Trochinowska (Em) is a well-respected police officer who is ambitious and driven. She is assigned to investigate the murders of David Kurlstat\u2014the renowned scientist who pioneered the restore point technology\u2014and his wife. The twist that perplexes Em is that Kurlstat, despite being the creator of the system, has no valid backup point, meaning he cannot be revived.\n\nMeanwhile, Em tracks the activities of \"River of Life,\" a radical group of terrorists who oppose resurrection technology on philosophical and religious grounds. They view the technology as unnatural and believe humans should accept death as inevitable. Their campaign of disruption and violence targets civilians and the infrastructure of the Institute.\n\nAs Em delves deeper into the investigation, she discovers secrets about the Restore Point system itself, the true nature of Kurlstat's work, and the ideological conflicts surrounding technology that blurs the line between life and death. The investigation forces her to confront questions about identity, memory, and what it means to be human in an age where death may not be final.",
+      "core": "**Transhumanism and the Definition of Life:** Restore Point explores the philosophical implications of technology that promises immortality through digital backup and restoration. The film questions whether a restored person is truly the same individual or merely a copy\u2014and who owns the right to make that determination. Kurlstat's own rejection of his own technology adds a layer of irony and existential doubt.\n\n**Crime and Punishment in a Post-Mortal World:** The film presents a unique twist on criminal justice\u2014in a world where murder can theoretically be undone through restoration, what constitutes true capital punishment? The terrorists' methods suggest they view permanent death as the only meaningful form of justice against a system they see as playing God.\n\n**Bureaucratic Control of Resurrection:** The Institute of Restoration operates as both medical facility and governmental agency, controlling access to the technology that could make death obsolete. This raises questions about who controls the means of immortality and what inequalities emerge when resurrection becomes a commodity requiring regular maintenance.\n\n**Czech Cyberpunk Identity:** The film represents a notable entry in Eastern European science fiction, bringing the cyberpunk genre to a region with its own complex history of surveillance, state control, and technological ambition. Deservedly dubbed the \"Czech Blade Runner,\" Restore Point adapts the genre's familiar themes (corporate power, technological transcendence, urban decay) to a Central European context while maintaining international appeal\u2014evidenced by its Netflix distribution worldwide.\n\nThe thriller structure serves the philosophical content, using genre momentum to explore questions that might otherwise feel didactic. Em's investigation provides narrative propulsion while the worldbuilding unfolds organically through her discoveries.",
+      "created_at": "2026-03-04 07:14:32"
+    },
+    {
       "title": "Rise of the Dragon",
       "year": 1990,
       "medium": "Video Game",
@@ -9266,5 +9283,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 545
+  "count": 546
 }
