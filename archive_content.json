@@ -2755,6 +2755,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Hardcore Henry",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Ilya Naishuller",
+      "raw_score": 3.35,
+      "total_ratings": 108000,
+      "origin": "Russia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "Cybernetics, Transhumanism",
+      "image_filename": "Hardcore_Henry_2015.jpg",
+      "pitch": "Hardcore Henry is a 2015 Russian science fiction action thriller notable for being filmed entirely from the first-person perspective. The film follows Henry, a man who wakes up in a laboratory with cybernetic limbs and no memory of his past. His wife Estelle explains that she revived him after an accident, but before she can restore his voice, mercenaries raid the facility. Henry must survive against overwhelming odds, rescue his wife, and uncover the truth about his identity\u2014all while experiencing the action through his own eyes.",
+      "truth": "The film opens with Henry awakening on an airship. His wife Estelle, a scientist, explains that she rebuilt him after an accident left him amnesiac and mute. She has equipped him with cybernetic prostheses to replace his missing limbs. Just as she prepares to give him a synthetic voice, mercenaries led by the psychokinetic Akan attack. Akan claims Estelle's research as corporate property, kills the scientists, and escapes with Estelle.\n\nHenry escapes in an escape pod, landing in Moscow. He is rescued by Jimmy, a mysterious helper who informs him that his cybernetic limbs need to be recharged regularly or he will die. After Jimmy is killed by corrupt police working for Akan, Henry must find a way to recharge while hunting down the mercenaries.\n\nThroughout the film, Henry encounters multiple versions of Jimmy\u2014a helpful stranger who seems to appear in different incarnations, each with distinct personalities. These Jims guide Henry through Moscow, providing crucial assistance and exposition about Akan's plans. The chaotic pursuit leads Henry through various locations in Moscow, from streets to brothels to armored convoys.\n\nHenry eventually tracks down the convoy transporting Estelle and confronts Akan. In the climactic battle, Henry defeats Akan but discovers a shocking truth: he is actually a sleeper agent whose memories were suppressed. The final twist reveals that \"Jimmy\" was actually Henry himself from the future, guiding his past self to complete the mission.",
+      "core": "**First-Person Filmmaking:** Hardcore Henry is groundbreaking in its technical execution\u2014the entire film is shot from Henry's point of view using GoPro cameras and innovative techniques. This creates an immersive, visceral experience that puts viewers directly inside the action. The technique pays homage to first-person shooter video games, pushing the boundaries of how action cinema can be presented.\n\n**Transhumanism and Identity:** The film explores themes of transhumanism through Henry's cybernetic enhancements. His body is largely artificial, raising questions about what constitutes humanity and personal identity. The memory suppression plotline further complicates these questions\u2014is Henry still the same person after his body and mind have been so radically altered?\n\n**Russian Action Cinema:** Hardcore Henry represents a new wave of Russian filmmaking that combines Hollywood-style spectacle with Eastern European sensibilities. Produced on a modest $2 million budget, it achieved international distribution and demonstrated Russia's capability to produce visually innovative genre films.\n\n**The Self as Other:** The film's central twist\u2014in which the helpful \"Jimmy\" is actually Henry himself from the future\u2014adds a layer of temporal complexity. This creates a temporal loop where Henry must guide his past self to ensure his own existence, exploring themes of self-reliance and the circular nature of fate.",
+      "created_at": "2026-03-04 21:33:16"
+    },
+    {
       "title": "Hardware",
       "year": 1990,
       "medium": "Film",
@@ -10014,5 +10031,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 589
+  "count": 590
 }
