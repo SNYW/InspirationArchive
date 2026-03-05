@@ -8229,6 +8229,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Last Mimzy",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Robert Shaye (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Sentience, Ecology",
+      "image_filename": null,
+      "pitch": "The Last Mimzy is a 2007 American science fiction adventure film directed by Robert Shaye, founder of New Line Cinema. The film follows two siblings, Noah and Emma Wilder, who discover mysterious futuristic toys washed up on a beach in Seattle. Among these devices is a stuffed rabbit named Mimzy, which Emma names after the nonsense verse from \"Jabberwocky.\" Through her telepathic connection with Mimzy, Emma gains extraordinary intellectual abilities and psionic powers, while Noah develops the ability to teleport objects. As the children's abilities grow, they catch the attention of the FBI, and must work to help Mimzy complete her mission to save the future from ecological collapse.",
+      "truth": "The film is loosely based on the 1943 short story \"Mimsy Were the Borogoves\" by Lewis Padgett (the pen name of Henry Kuttner and C.L. Moore). In the distant future, humanity faces catastrophic ecological disaster, and a scientist sends various high-tech devices back in time to the 21st century. These devices, disguised as toys, end up in Seattle where they are discovered by siblings Noah and Emma Wilder.\n\nThe children initially keep their discovery secret from their parents. Emma becomes telepathically linked to the rabbit-like Mimzy, gaining genius-level intellect and psionic powers including telekinesis and the ability to use \"spinners\" - stones that can float and produce force fields. Noah gains the ability to teleport objects using a card-sized rectangle of light. Their abilities cause a massive power outage over half the state of Washington, alerting the FBI.\n\nThe family is held for questioning, and during this time, Mimzy is revealed to be artificial life using nanotechnology created by Intel in the future. Emma learns that Mimzy was sent to collect a sample of uncorrupted human DNA to help restore humanity damaged by ecological catastrophes. The children escape using their powers, and Mimzy absorbs a tear from Emma containing her DNA. Noah constructs a time portal using the devices, and Mimzy returns to the future, leaving behind a Sri Yantra symbol.\n\nIn the epilogue set in the future, Mimzy provides the genetic information required to restore humanity, with Emma being revered as \"Our Mother.\"",
+      "core": "The Last Mimzy explores themes of human potential and the relationship between children and the future. The film suggests that humanity's salvation will come not from adult wisdom but from the open minds of children. The ecological themes reflect concerns about environmental destruction and humanity's responsibility to future generations.\n\nThe film's title references the nonsense poem \"Jabberwocky\" by Lewis Carroll, with \"Mimsy\" being the third line of the poem's first stanza. This literary connection extends to the source material's exploration of how exposure to novel concepts alters perception and intellectual development.\n\nThe film received mixed reviews and performed modestly at the box office, earning $27.5 million against a $35.5 million budget. While not a major success, it represents a thoughtful approach to science fiction that prioritizes ideas over spectacle, focusing on the wonder of discovery and the potential for human evolution through connection with advanced technology.",
+      "created_at": "2026-03-05 15:13:27"
+    },
+    {
       "title": "The Last Oricru",
       "year": 2022,
       "medium": "Video Game",
@@ -9623,6 +9640,23 @@
       "created_at": "2026-03-02 18:45:58"
     },
     {
+      "title": "The Tragedy of Man",
+      "year": 2011,
+      "medium": "Animated Film",
+      "creator": "Marcell Jankovics (Director)",
+      "raw_score": 4.0,
+      "total_ratings": 1400,
+      "origin": "Hungary ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Evolution",
+      "image_filename": "The_Tragedy_of_Man_2011.jpg",
+      "pitch": "The Tragedy of Man is a 2011 Hungarian adult animated epic drama spanning 160 minutes, directed by Marcell Jankovics. Based on Imre Mad\u00e1ch's 1861 philosophical play, the film follows Adam, Eve, and Lucifer as they journey through human history\u2014from Biblical creation to 50,000 BC to the distant future\u2014exploring humanity's purpose and the meaning of life. Each segment features a distinct visual style reflecting the art of different historical periods. After 23 years in production, this ambitious animated work stands as one of the longest animated films ever made.",
+      "truth": "The film opens with God creating the universe, as Lucifer mocks humanity's shortcomings and demands his share of the world. Granted the Tree of Knowledge and Tree of Immortality, he tempts Adam and Eve to eat the forbidden fruit, leading to their expulsion from Eden.\n\nLucifer then offers Adam the chance to experience humanity's future. The journey spans multiple historical eras: ancient Egypt where Adam becomes Pharaoh Djoser; ancient Greece during thePeloponnesian War; ancient Rome at the height of the Empire; medieval times as a Crusader knight; Renaissance Prague as Johannes Kepler; Revolutionary France as Georges Danton; Victorian London; World War I era; and finally a dystopian future world state in the 21st century.\n\nThroughout these episodes, Eve appears in various forms\u2014slave woman, aristocrat, prostitute, mother\u2014while Lucifer argues that humanity is fundamentally futile. Adam consistently finds disillusionment: democracy becomes corruption, civilization falls into decadence, and scientific progress leads to dehumanization. In the future, humanity has eliminated nations, genetically modified all life, and suppresses individual thought.\n\nIn the distant ice age, the last humans are dying as deformed savages. Adam, despairing, considers suicide but is convinced to continue by Eve's pregnancy announcement. God urges faith in humanity's struggle, and Adam accepts mortality as meaningful.",
+      "core": "The film is a profound philosophical meditation on free will, faith, and human perseverance. Jankovics adapts Mad\u00e1ch's enduring question: is humanity worth creating despite its suffering? The answer emerges not through cosmic meaning but through acceptance of struggle itself\u2014existence as its own purpose.\n\nThe animation's varying styles brilliantly mirror historical periods, from Egyptian hieroglyphics to Renaissance painting to abstract futurism. The classical music soundtrack\u2014featuring works by Bach, Wagner, Mussorgsky, and Liszt\u2014elevates the philosophical weight.\n\nThe film tackles eternal questions: Does progress improve humanity or merely change its forms of suffering? Is free will real or illusory? Can meaning exist without divine guarantee? Rather than providing answers, the film suggests that the struggle itself\u2014continuing despite uncertainty\u2014constitutes authentic human existence.\n\nAfter 23 years in production, The Tragedy of Man represents a unique achievement in animated philosophy, joining the ranks of ambitious animated works that use the medium for profound thematic exploration rather than mere entertainment.",
+      "created_at": "2026-03-05 15:13:27"
+    },
+    {
       "title": "The Truth of Fact, the Truth of Feeling",
       "year": 2016,
       "medium": "Short Story",
@@ -10949,5 +10983,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 644
+  "count": 646
 }
