@@ -2126,6 +2126,23 @@
       "created_at": "2026-03-01 23:43:47"
     },
     {
+      "title": "Doraemon",
+      "year": 1969,
+      "medium": "Manga",
+      "creator": "Fujiko F. Fujio",
+      "raw_score": 4.3,
+      "total_ratings": 50000,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Time-Travel, Technology",
+      "image_filename": "Doraemon_1969.jpg",
+      "pitch": "Doraemon is a beloved Japanese manga series that centers on a blue robot cat from the 22nd century who travels back in time to help a young boy named Nobita Nobi. Created by Fujiko F. Fujio and first serialized in 1969, the series became one of the most successful manga franchises in history, spawning numerous anime series, films, and merchandise. The story combines comedy, adventure, and science fiction elements, featuring futuristic gadgets from Doraemon's four-dimensional pocket. Unlike darker sci-fi works, Doraemon maintains an optimistic, family-friendly tone while exploring themes of friendship, kindness, and the responsible use of technology.",
+      "truth": "The story follows Nobita Nobi, a lazy and clumsy elementary school student who struggles academically and is frequently bullied by his stronger classmates. His future descendants from the 22nd century, concerned about the family's poor trajectory, send back Doraemon\u2014a blue robot cat with attachments\u2014from the future to improve Nobita's life. Although Doraemon lost his original ears due to a robotic mouse incident (leaving him afraid of mice), he possesses a \"four-dimensional pocket\" containing countless futuristic gadgets.\n\nUsing these gadgets\u2014ranging from the \"Anywhere Door\" (a door that leads anywhere) to \"Time Cream\" and \"Memory Bread\"\u2014Nobita attempts to solve his everyday problems. However, hislazy nature often leads to misuse of the tools, creating complications that teach him valuable lessons about honesty, perseverance, and genuine friendship. Throughout the series, Nobita's friends include Shizuka (the gentle girl he admires), Gian (the strong but bullying classmate), and Suneon (the wealthy, condescending friend).\n\nThe manga ran from 1969 to 1996, with over 1,400 stories collected into 45 tank\u014dbon volumes. It spawned multiple anime adaptations (1973, 1979, and 2005), more than 40 animated films, and an enormous media franchise.",
+      "core": "**Time Travel and Responsibility:** The series explores the ethical implications of time travel and advanced technology. Doraemon's gadgets could solve all of Nobita's problems instantly, but the consequences of misuse demonstrate that shortcuts often create bigger issues. The series emphasizes that genuine improvement comes from personal effort, not technological quick fixes.\n\n**Friendship and Empathy:** At its heart, Doraemon is about the transformative power of friendship. Nobita may be lazy and unlucky, but his kind heart and loyalty to friends make him worthy of redemption. The series portrays friendship as more valuable than any gadget.\n\n**Technology and Society:** While presented in a lighthearted way, the series reflects on how technology shapes society. The 22nd century portrayed in Doraemon shows both the benefits and potential dangers of advanced technology, with the manga serving as a cautionary tale about overreliance on tools.\n\n**Cultural Impact:** Doraemon is recognized as a Japanese cultural icon. The character was appointed as Japan's first \"anime ambassador\" in 2008 by the Foreign Ministry. With over 300 million copies sold worldwide, it remains one of the best-selling manga series of all time, transcending cultural boundaries and generations.",
+      "created_at": "2026-03-05 06:34:19"
+    },
+    {
       "title": "Dorikithe Dongalu",
       "year": 1965,
       "medium": "Film",
@@ -10541,5 +10558,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 620
+  "count": 621
 }
