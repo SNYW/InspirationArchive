@@ -4234,6 +4234,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Nightfall",
+      "year": 1941,
+      "medium": "Short Story",
+      "creator": "Isaac Asimov",
+      "raw_score": 4.3,
+      "total_ratings": 180000,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Nightfall_1941.jpg",
+      "pitch": "Nightfall is a landmark 1941 science fiction short story by Isaac Asimov about a planet where night never falls\u2014until it does with catastrophic consequences. Set on Lagash, a world perpetually illuminated by six suns, the story follows a journalist who investigates scientists warning that civilization is about to end. The catch: the inhabitants have never experienced true darkness and face mass insanity when an eclipse plunges their world into night every 2,049 years. The story explores how an entire civilization, having never seen stars, would react to the sudden appearance of the night sky\u2014and the terrifying answer involves fire, destruction, and the collapse of society.",
+      "truth": "On the planet Lagash, located in the center of a giant star cluster, sunlight is constant. Six suns ensure that at least one is always in the sky, and the concept of night is unknown. While darkness exists in enclosed spaces like caves and tunnels, no living person has ever experienced true nighttime.\n\nA skeptical journalist visits a university observatory to interview scientists who warn that civilization will soon face annihilation. The researchers have discovered evidence of numerous ancient civilizations on Lagash\u2014all destroyed by fire approximately 2,000 years apart. A doomsday cult's sacred texts speak of mysterious \"stars\" that appear during periodic darkness and rain fire from the heavens.\n\nThrough mathematical analysis, the scientists discover a previously undetected moon that will soon cause a total eclipse. Because Lagashians have evolved without any diurnal cycle, they possess an intense, instinctive fear of the dark. Psychological experiments reveal that exposure to darkness can cause permanent mental illness or even death after just 15 minutes.\n\nThe eclipse is projected to last for over half a day, ensuring the entire world population will experience unprecedented prolonged darkness. The scientists theorize that previous civilizations were destroyed by people who went insane during past eclipses and, desperately seeking light, set fires that consumed entire cities.\n\nAs the eclipse approaches, the scientists attempt to save a few hundred people in a hideaway with torches, hoping to preserve civilization. But nothing prepares them for the stars\u2014when the darkness comes, the inhabitants of Lagash see the night sky for the first time: a sky filled with countless stars from the globular cluster surrounding their world. The sheer overwhelming beauty and terror of the star-filled sky drives the population mad, and civilization descends into chaos and flame once again.",
+      "core": "Nightfall is considered one of the greatest science fiction short stories ever written. In 1968, the Science Fiction Writers of America voted it the best short story written prior to the establishment of the Nebula Awards, and it was included in The Science Fiction Hall of Fame.\n\nThe story's power lies in its elegant premise: what would happen to people who have never experienced darkness? Asimov and editor John W. Campbell developed the concept from a Ralph Waldo Emerson quote: \"If the stars should appear one night in a thousand years, how would men believe and adore.\" Campbell's counterpoint\u2014\"I think men would go mad\"\u2014became the story's foundation.\n\nThe narrative explores themes of cyclical history, the psychological effects of unfamiliar stimuli, and the fragility of civilization. Unlike typical space opera with its alien invasions or technological catastrophes, Nightfall finds terror in the cosmic scale of the universe itself\u2014the realization that one's entire worldview is incomplete.\n\nAsimov later considered \"The Last Question\" his favorite story, but Nightfall remains his most influential work, demonstrating how a single brilliant concept could produce timeless fiction. The story has appeared in countless anthologies and collections, and was adapted into a novel with Robert Silverberg in 1990.\n\nThe tale's influence extends to numerous works that explore similar \"first contact with the cosmos\" themes, and it remains a foundational text for understanding how science fiction can use speculative premises to illuminate human nature.",
+      "created_at": "2026-03-05 02:47:23"
+    },
+    {
       "title": "Nineteen Eighty-Four",
       "year": 1949,
       "medium": "Novel",
@@ -10354,5 +10371,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 609
+  "count": 610
 }
