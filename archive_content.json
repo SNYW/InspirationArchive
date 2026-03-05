@@ -10592,6 +10592,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Zombies of the Stratosphere",
+      "year": 1952,
+      "medium": "Serial Film",
+      "creator": "Fred C. Brannon (Director)",
+      "raw_score": 2.55,
+      "total_ratings": 530,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Zombies_of_the_Stratosphere_1952.jpg",
+      "pitch": "Zombies of the Stratosphere is a 1952 Republic Studios serial film that represents some of the final flowering of the classic science fiction movie serial genre. The film features Larry Martin, a leader in the Inter-Planetary Patrol, who investigates a rocketship landing on Earth and discovers Martian invaders led by a being called Marex. The Martians, whose home planet is dying due to being too far from the Sun, plan to use stolen hydrogen bomb technology to shift Earth's orbit and swap positions with Mars\u2014effectively destroying all life on Earth to save their own civilization. Martin must stop them using his jet-powered flying suit and helmet, battling both the extraterrestrial threat and Earthly criminals hired by the alien renegade scientist Dr. Harding.",
+      "truth": "The serial opens with Larry Martin of the Inter-Planetary Patrol detecting an approaching rocketship. He don his jet-powered flying suit and investigates, discovering Martian invaders led by Marex. The Martians have come to Earth because their own planet is dying\u2014its orbit has carried it too far from the Sun, causing ecological collapse. Their solution is radical: use hydrogen bomb technology to knock Earth out of its orbit and move Mars into a closer position around the Sun.\n\nThe Martians have recruited Dr. Harding, a renegade Earth scientist, to help them acquire the atomic materials needed to construct their weapon. They hire a gang of Earthly criminals to steal and stockpile the necessary components. Over the course of twelve chapters, Larry Martin must thwart their plans, engaging in frequent fistfights and car chases with the criminal gang while battling the extraterrestrial threat.\n\nThe serial is notable for featuring a young Leonard Nimoy in one of his first screen appearances, playing Narab, one of the three Martian invaders. In 8, the serial was edited down into a feature film titled Satan's Satellites.",
+      "core": "**Cold War Anxiety:** Like many 1950s science fiction films, Zombies of the Stratosphere reflects the era's nuclear anxieties. The Martians' plan to use hydrogen bomb technology to literally reorder the solar system mirrors fears about the destructive power of atomic weapons and their potential to upend the natural order.\n\n**Classic Serial Formula:** The film exemplifies the Republic Serial format\u2014fast-paced action with cliffhanger endings, formulaic but effective storytelling that prioritized excitement over depth. The combination of science fiction premise with detective-story mechanics (the hero investigating a conspiracy, chasing criminals, infiltrating hideouts) was a winning formula that had been polished throughout the genre's Golden Age.\n\n**Leonard Nimoy Connection:** The serial holds historical interest as an early role for Leonard Nimoy, decades before he would become famous as Spock on Star Trek. His portrayal of Narab, a Martian invader, shows the actor in an unusual early villain role, providing a fascinating footnote for fans of his later work.\n\n**Orbital Engineering Fiction:** The plot's premise\u2014intentionally altering planetary orbits\u2014is remarkably ambitious for a 1950s serial, prefiguring later hard science fiction treatments of terraforming and planetary engineering that would appear in more sophisticated works.\n\n**Republic's Rocket Hero Cycle:** The serial was part of a series of Republic Pictures productions featuring rocket-powered heroes, following King of the Rocket Men (1949) and Radar Men from the Moon (1952). Zombies of the Stratosphere was originally intended to feature Commando Cody (the hero of Radar Men) but the character was renamed Larry Martin for unknown reasons.",
+      "created_at": "2026-03-05 07:33:06"
+    },
+    {
       "title": "Zork",
       "year": 1977,
       "medium": "Video Game",
@@ -10609,5 +10626,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 624
+  "count": 625
 }
