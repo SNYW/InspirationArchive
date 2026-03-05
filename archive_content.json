@@ -1786,6 +1786,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Cow on the Moon",
+      "year": 1959,
+      "medium": "Animated Short",
+      "creator": "Du\u0161an Vukoti\u0107",
+      "raw_score": 3.55,
+      "total_ratings": 50,
+      "origin": "Croatia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "Cow_on_the_Moon_1959.jpg",
+      "pitch": "Cow on the Moon is a charming 1959 Yugoslav animated short from the legendary Zagreb Film studio, directed by Oscar-winning animator Du\u0161an Vukoti\u0107. The film follows a young girl who constructs a wooden model spaceship, only to have it destroyed by a bully. Seeking revenge, she builds a full-sized rocket decoy and tricks the boy into believing he's traveling to the moon\u2014only to have him encounter what appears to be an alien (actually the girl in costume, with a cow joining the deception). This whimsical tale won multiple awards, including first prize at the San Francisco International Film Festival, and represents the early triumphs of the Zagreb School of Animation.",
+      "truth": "The story begins with a boy playing with a ball in the street who trips on a hole and falls. A young girl nearby is building a small wooden spaceship toy and laughs at him. Enraged, the boy approaches and teases her, eventually breaking her toy and walking away. Upset but clever, the girl comes up with a plan for revenge.\n\nShe gathers wooden materials and heads to a hill where she constructs a large decoy space shuttle. The boy notices the rocket and rushes to investigate. When the girl offers to let him test the \"rocket,\" he eagerly agrees. Instead of launching, she drags the rocket down the hill to a stone quarry, while the boy believes he's actually flying toward the Moon.\n\nOnce the rocket stops, the boy remains inside while the girl hides and puts on an alien costume. She sends a cow toward the rocket, making alien sounds. The boy hears the sounds and becomes terrified, believing an extraterrestrial creature has found him. The cow sees the girl in her alien costume, gets scared, and climbs a tree. The boy exits the rocket, looks around, sees the girl, and becomes terrified himself. He drops from the tree and rides the cow away as the girl continues to scare him.\n\nEventually, the girl reveals the truth\u2014the alien was her all along. The cow laughs uncontrollably at the boy's foolishness. The film won the first prize at the San Francisco International Film Festival and the 3rd prize for directing at the 1960 Yugoslav film festival in Pula. In 2022, the film was remastered in HD and uploaded to Zagreb Film's official YouTube channel.",
+      "core": "This short film represents one of the earliest achievements of the Zagreb School of Animation, a movement that would later earn international acclaim and produce Europe's first Oscar-winning animated short (Vukoti\u0107's \"Surogat\" in 1962). The film showcases the clever visual storytelling, whimsical humor, and imaginative animation that would become hallmarks of the Zagreb style.\n\nThe themes of childhood revenge and imaginative play run throughout, but the film also subtly explores deception, fear, and the power of imagination. The girl's clever ruse uses the boy's own gullibility against him, while the boundaries between reality and fantasy blur through her creative costume and the \"alien\" encounter.\n\nAs a product of 1950s Yugoslavia, the film also represents a fascinating moment in Cold War-era European animation, when animators in non-aligned Yugoslavia could draw from both Eastern and Western artistic influences to create something uniquely their own. The film's success at international festivals helped put Zagreb Film on the map as a major animation studio.",
+      "created_at": "2026-03-05 08:48:02"
+    },
+    {
       "title": "Co\u017e takhle d\u00e1t si \u0161pen\u00e1t",
       "year": 1977,
       "medium": "Film",
@@ -10660,5 +10677,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 627
+  "count": 628
 }
