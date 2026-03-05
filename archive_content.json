@@ -239,6 +239,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "A Message from Mars",
+      "year": 1913,
+      "medium": "Film",
+      "creator": "J. Wallett Waller",
+      "raw_score": 2.6,
+      "total_ratings": 311,
+      "origin": "UK ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Utopia ,",
+      "topics": "Aliens, Religion",
+      "image_filename": null,
+      "pitch": "A Message from Mars is a 1913 British silent science fiction film directed by J. Wallett Waller and is widely recognized as the first British science-fiction film according to the British Film Institute. Based on Richard Ganthony's 1899 play (published in 1912), this 68-minute silent film presents a moral tale about a wealthy but self-centered man who receives a visit from a messenger from Mars on Christmas Eve. The film was restored by the BFI in 2014 and made available online, with the original tinting and toning preserved. The story follows the template of Charles Dickens' A Christmas Carol, with the theme that the wealthy should care for the poor, but transports this moral framework into a science fiction setting with an alien visitor.",
+      "truth": "Horace Parker is an exceedingly self-centered, wealthy man who is also a miser and expects everyone else to conduct their lives according to his personal convenience. He is engaged to Minnie Templer, but she has discovered Parker's selfishness and is on the brink of calling off the engagement. On Christmas Eve, however, a messenger from Mars (named Ramiel) comes to Earth to show Parker the error of his ways. The two of them become invisible and eavesdrop on all the terrible\u2014and true\u2014things Parker's friends and family are saying about him. Through this supernatural intervention, Parker learns humility and the importance of caring for others, presumably leading to his redemption. The messenger from Mars serves as a paranormal guide, much like the Ghosts of Christmas Past, Present, and Yet to Come in Dickens' classic, but uses alien technology to achieve what ghosts do spiritually.",
+      "core": "**Early Science Fiction as Moral Allegory:** This film represents an important moment in the development of science fiction cinema, being the first dedicated sci-fi feature from Britain. Rather than using science fiction for adventure or spectacle, the film employs alien visitation as a mechanism for moral instruction\u2014essentially adapting the Victorian moral allegory to a futuristic premise. The messenger from Mars functions as a supernatural moral compass, using alien invisibility powers to teach human characters about empathy and compassion.\n\n**Religious and Spiritual Themes:** The film draws heavily on Christian moral frameworks, specifically the redemption narrative of A Christmas Carol. However, it frames this within a science fiction context where alien technology enables the spiritual work of showing someone the error of their ways. The Martian messenger can be read as either a literal alien or a figment of Parker's conscience given sci-fi clothing\u2014the ambiguity is part of the film's early SF styling.\n\n**Social Commentary on Wealth and Class:** The core message\u2014that the rich should care for the poor\u2014was radical for its time and remains relevant. The film's structure requires Parker to witness the truth about how others perceive him, forcing an encounter with the consequences of his selfishness. This early example of science fiction addressing class inequality predates many later socialist and progressive SF works.\n\n**Technical and Historical Significance:** As the first British science fiction film, A Message from Mars represents a foundational moment in British SF cinema. The film's survival and restoration by the BFI ensures this piece of SF history remains accessible, demonstrating that the genre has deep roots in addressing human moral and social issues through imaginative premises.",
+      "created_at": "2026-03-05 13:41:06"
+    },
+    {
       "title": "A Monstrous Corpse",
       "year": 1981,
       "medium": "Film",
@@ -10881,5 +10898,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 640
+  "count": 641
 }
