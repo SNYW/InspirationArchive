@@ -2585,6 +2585,23 @@
       "created_at": "2026-03-03 08:04:06"
     },
     {
+      "title": "From the New World",
+      "year": 2012,
+      "medium": "Anime",
+      "creator": "Yusuke Kishi (original novel) | Masashi Ishihama (director) | A-1 Pictures (studio)",
+      "raw_score": 4.12,
+      "total_ratings": 288640,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Sentience, Isolation, Rebellion",
+      "image_filename": "From_the_New_World_2012.jpg",
+      "pitch": "From the New World is a dark dystopian anime set in a seemingly utopian Japanese village called Kamisu 66, where all humans possess potent psychic abilities known as \"Canto.\" The story follows Saki Watanabe and her friends as they attend Sage Academy to learn to control their powers. On the surface, this is a peaceful agrarian society where violence has been eliminated through genetic modification and psychological conditioning\u2014anyone who kills another human triggers instantaneous death via \"Death Feedback.\" However, as Saki and her friends mature, they uncover disturbing truths about their world's origins, the fate of those who disappeared before them, and the dark secrets behind their seemingly perfect society. The anime ran for 25 episodes from October 2012 to March 2013, adapted from Yusuke Kishi's critically acclaimed novel that won the Grand Prize of the 29th Nihon SF Taisho Award in 2008.",
+      "truth": "Approximately one thousand years in the future, modern civilization collapsed after 0.3% of the population developed psychic abilities. The uncontrolled use of these powers led to violence, world wars, and environmental devastation. Eventually, psionic humans established a new stable society by implementing genetic modifications and psychological conditioning\u2014specifically \"Attack Inhibition\" and \"Death Feedback\"\u2014which make it physically impossible for psychics to harm other humans. The government also created engineered species: the mole-like Queerats, who serve as a labor force and are treated as subhuman, and the feline Impure Cats, used to eliminate children who develop dangerous disorders.\n\nThe story centers on Saki Watanabe, born in the peaceful Village of Kamisu 66. At age twelve, she awakens her psychic powers and enrolls at Sage Academy alongside her friends: Satoru Asahina, Maria Akizuki, Mamoru Itou, and Shun Aonuma. During an unsupervised outing, they discover a \"False Minoshiro,\" a technological relic that reveals the dark history of their world\u2014including the fact that the Queerat species was once human. Before they can learn more, authorities suppress their memories.\n\nYears later, Shun becomes a \"Karmic Demon\" (someone who cannot control their powers) and disappears. The group later learns the adults knew about their transgressions all along. Mamoru and Maria flee the village after being targeted for elimination, aided by Squealer, a Queerat who has risen to power. Saki later discovers they had a child\u2014a hybrid capable of bypassing the psychological restraints against killing humans.\n\nAs an adult, Saki works in the Ethics Committee, managing the Queerats. Squealer, now calling himself Yakomaru, leads a Queerat rebellion against human oppression, using the child as a weapon. The rebellion is ultimately suppressed, but Saki learns the devastating truth: the Queerats were originally humans genetically modified to prevent triggering psychic inhibitions. Unable to bear Yakomaru's suffering, she secretly ends his life. The series ends with Saki and Satoru married and expecting a child, looking toward the future with cautious hope.",
+      "core": "From the New World is a masterful exploration of power, oppression, and the nature of humanity. The series interrogates how societies maintain control\u2014not through overt tyranny, but through subtle psychological manipulation and genetic engineering. The twist that the oppressor and oppressed are ultimately the same species\u2014humans who transformed another group into a subservient species\u2014raises profound questions about the ethics of progress and the cost of maintaining peace.\n\nThe anime excels at building atmospheric dread. Despite the pastoral setting and the absence of traditional violence, the show maintains a constant undercurrent of unease. Characters disappear without explanation, memories are altered, and the viewer\u2014like Saki\u2014gradually realizes that the \"utopia\" is built on systematic violence and erasure. This is a world where children are murdered for potential \"disorders\" they cannot control, where the powerful decide who deserves to live, and where the truth is always buried.\n\nThe Queerat rebellion is the thematic culmination: Squealer's claim that \"we are also human\" challenges the foundational logic of the society. By making the oppressed group literally formerly human, the series forces viewers to confront how societies construct \"otherness\" to justify exploitation. Saki's final act of mercy\u2014killing Yakomaru to end his torment\u2014represents a small moral victory in a world without true justice.\n\nThematically, the series explores memory and history as tools of control, the fragile nature of civilization, and whether a truly peaceful society can exist without sacrificing individual autonomy. Its slow-burn pacing and emphasis on revelation over action make it a cerebral meditation on dystopian fiction\u2014less about spectacular world-building and more about the philosophical implications of power and knowledge.",
+      "created_at": "2026-03-05 03:31:59"
+    },
+    {
       "title": "G.O.R.A.",
       "year": 2004,
       "medium": "Film",
@@ -10405,5 +10422,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 612
+  "count": 613
 }
