@@ -4268,6 +4268,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Nightbreed",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Clive Barker",
+      "raw_score": 3.25,
+      "total_ratings": 29000,
+      "origin": "USA ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Nightbreed_1990.jpg",
+      "pitch": "Nightbreed is a 1990 dark fantasy horror film written and directed by Clive Barker, based on his 1988 novella \"Cabal.\" The film follows Aaron Boone, an unstable mental patient who is falsely led to believe by his doctor that he is a serial killer. After being framed and shot by police, Boone discovers refuge in an abandoned cemetery called Midian, where he finds acceptance among a tribe of monsters and outcasts known as the \"Nightbreed\" - beings who hide from humanity in the shadows beneath the earth. The film explores themes of otherness, acceptance, and the nature of monstrosity.",
+      "truth": "Aaron Boone has recurring nightmares of a place called Midian. His girlfriend Lori Winston encourages him to resume psychotherapy with Dr. Phillip Decker. Meanwhile, a serial killer has been massacring entire families. When Boone returns to Decker's office, he is horrified to learn that his dreams mirror these ritualistic killings. Decker tells Boone to turn himself in and start taking lithium, but he actually gives Boone LSD to manipulate him.\n\nBoone is hospitalized during the resulting psychedelic trip. Another patient rants about Midian and explains where it is. When the patient peels his face off, Boone escapes from the hospital during the commotion and heads to Midian. At night, he confronts monstrous beings who argue over whether he belongs there. Boone claims he is a murderer, but they know he is not. One tries to eat him, but he escapes.\n\nOutside the graveyard, Boone is confronted by the police who have been led there by Dr. Decker. He tricks the police into shooting Boone. In the morgue, Boone is revived by the bite he received in the graveyard. He returns to Midian and learns about the Nightbreed who live there. He is inducted into their society through the blood of their deity Baphomet.\n\nLori follows Boone's path to Midian. She is followed there by Decker, who is the actual serial killer. He framed Boone for the murders in an attempt to locate the Nightbreed, believing they possess powers he can harness. In the climax, Decker is killed by the Nightbreed, and Boone takes his place as one of their leaders, becoming the new \"Babylon.\"",
+      "core": "Nightbreed is fundamentally a film about the monstrosity of prejudice and the acceptance of the other. The Nightbreed - vampires, werewolves, mutants, and all manner of creatures - are not the true villains but rather misunderstood outcasts living in exile beneath human society. Barker's film argues that true monstrosity lies not in physical difference but in human cruelty, represented by Dr. Decker, who is the film's actual villain: a manipulative, murdering psychiatrist who preys on his vulnerable patients.\n\nThe film explores themes of identity and belonging. Boone is rejected by human society and finds acceptance among the monsters of Midian, suggesting that home is where one is truly understood rather than where one was born. The Nightbreed are depicted sympathetically - they have their own society, their own emotions, and their own sense of justice. They are outcasts helping an outcast.\n\nAt the time of its release, the film was a commercial and critical failure. Barker has expressed frustration that the studio marketed it as a standard slasher film despite its deeper themes. Over time, Nightbreed has gained cult status, with Barker's original director's cut being released in 2014 after the recovery of original film elements. The film remains a unique entry in the horror genre - more gothic fairy tale than exploitation horror, exploring what it means to be a monster in a world that fears difference.",
+      "created_at": "2026-03-05 04:31:54"
+    },
+    {
       "title": "Nightfall",
       "year": 1941,
       "medium": "Short Story",
@@ -10439,5 +10456,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 614
+  "count": 615
 }
