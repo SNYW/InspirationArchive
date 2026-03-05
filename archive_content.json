@@ -834,6 +834,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Andro Dunos",
+      "year": 1992,
+      "medium": "Video Game",
+      "creator": "Visco Corporation (developer), SNK (publisher)",
+      "raw_score": 3.4,
+      "total_ratings": 16,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Andro_Dunos_1992.jpg",
+      "pitch": "Andro Dunos is a scrolling shooter arcade game developed by Visco Corporation and published by SNK for the Neo Geo MVS and AES platforms in 1992. Taking place in a futuristic sci-fi setting, the game tasks players with controlling the Yellow Cherry and Red Fox space fighter crafts sent by Earth's defense system to combat an unknown alien race that has been increasing their invasion activities against humankind. The player must fight through eight levels of alien forces in a last-ditch effort to save humanity from the alien threat. The game was notable as the first title created by Visco for both the Neo Geo arcade and home platforms, and it was the first of only two Visco-developed games to receive an official license for the Neo Geo AES platform.",
+      "truth": "The game puts players in control of one of two spacecraft\u2014Yellow Cherry for single-player or Red Fox for the second player in cooperative mode. The player travels across eight distinct levels set in various futuristic sci-fi environments, battling waves of enemy spacecraft and alien invaders. The primary objective is to eliminate the alien forces that have been steadily increasing their attacks on Earth.\n\nA notable feature of Andro Dunos is its weapon selection system. Players can choose between four different weapon sets at any time by pressing the B button, cycling through them in a linear order. The weapons can be upgraded multiple times by collecting power-ups, increasing their firepower. However, there's a strategic risk: if the player's ship is hit by enemy fire, the ship respawns but with reduced power, weakening its current firepower. If all lives are lost, the game is over unless the player inserts more credits to continue.\n\nThe game received mixed reception upon release. Critics praised the colorful and detailed graphics, sound design, and the ability to choose between multiple weapons. However, the gameplay was criticized for being unremarkable and not particularly original, feeling similar to other scrolling shooters of the era like Hellfire and Whip Rush. Despite its mixed reception, it has developed a modest cult following, and a sequel titled Andro Dunos II was released in 2022.",
+      "core": "Andro Dunos represents a specific moment in the early 1990s arcade shooter genre. While not as influential as some contemporaries, it showcases the technical capabilities of the Neo Geo hardware and represents the era's fascination with futuristic space combat games. The game's linear progression through alien-controlled sectors reflects the broader sci-fi narrative of humanity fighting back against extraterrestrial threats\u2014a theme that was prevalent in the late 1980s and early 1990s gaming landscape.\n\nThe weapon power-up system with its risk/reward mechanic (increasing power but suffering greater penalties when hit) reflects the design philosophy of the era, where arcade games balanced challenging difficulty with satisfying progression systems. The cooperative two-player mode was also a hallmark of the period, encouraging local multiplayer collaboration.\n\nWhile not groundbreaking, Andro Dunos occupies a interesting niche in gaming history as one of the few officially licensed Visco titles on the Neo Geo platform, and its 2022 sequel demonstrates a lasting appreciation for the original among retro gaming enthusiasts.",
+      "created_at": "2026-03-05 23:43:01"
+    },
+    {
       "title": "Andromeda Stories",
       "year": 1982,
       "medium": "Anime",
@@ -11459,5 +11476,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 674
+  "count": 675
 }
