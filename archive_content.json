@@ -3843,6 +3843,23 @@
       "created_at": "2026-03-02 04:02:39"
     },
     {
+      "title": "Logan's Run",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Michael Anderson (Director)",
+      "raw_score": 3.4,
+      "total_ratings": 65215,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Isolation",
+      "image_filename": "Logans_Run_1976.jpg",
+      "pitch": "Logan's Run is a 1976 American science fiction action film set in a future society where citizens live in a sealed geodesic dome city, maintained by a computer that kills everyone at age 30 through a ritual called \"Carrousel.\" The film follows Logan 5, a \"Sandman\" tasked with hunting down \"Runners\" who flee the city, until he's given a secret mission to find \"Sanctuary\" and destroy it. Featuring innovative visual effects and a distinctive dystopian vision, the film won a Special Academy Award for its visual effects and became a cult classic of 1970s science fiction cinema.",
+      "truth": "In the year 2274, humanity lives in a sealed city beneath geodesic domes, a utopia managed by an all-knowing computer. The citizens pursue endless pleasure, but when they turn 30, they must enter \"Carrousel,\" a ritual where they are ostensibly \"renewed\" or reborn. Each citizen has a \"life-clock\" crystal embedded in their hand that changes color as they approach their \"Last Day.\" Those who try to escape are called \"Runners,\" and Sandmen\u2014the city's elite enforcement\u2014are tasked with hunting them down.\n\nSandmen Logan 5 and Francis 7 attend a Carrousel ceremony before being called to terminate a Runner. Logan discovers a pendant with an ankh symbol among the Runner's possessions and meets Jessica 6, a young woman wearing the same symbol. Through the computer, Logan learns the symbol relates to \"Sanctuary,\" a destination the Runners seek. The computer orders Logan to find and destroy Sanctuary, while secretly reducing his life-clock by four years to force his cooperation.\n\nLogan and Jessica attempt to flee together, evading Francis and the city's surveillance. After failing to alter their faces through cosmetic surgery and escaping a sex club, they find the underground network that helps Runners reach the city gate. They encounter Box, a robot designed to freeze marine life but now used to capture Runners, and defeat it.\n\nOutside the dome, Logan and Jessica discover the ruined world beyond\u2014the abandoned city of Washington, D.C. There they meet an elderly man who reveals there is no physical \"Sanctuary\"\u2014only an idea that gives people hope. Francis follows them and dies in combat with Logan. Returning to the city, Logan and Jessica attempt to warn the citizens about Carrousel but are captured. The computer overloads while scanning Logan's brain, and he destroys it, causing the facility to self-destruct. The citizens flee the dome and gather around an artificial waterfall, meeting the elderly man outside.",
+      "core": "**Death and Denial:** The film's central theme is humanity's relationship with mortality. Carrousel represents a society that has institutionalized death, transforming it into a ritual of renewal rather than an ending. The citizens' willingness to accept this\u2014as opposed to fighting against it\u2014reflects a society that has found comfort in organized oblivion. The computer's lie that Carrousel \"renews\" people speaks to how societies create myths to cope with existential fears.\n\n**Freedom vs. Security:** The dome city represents total control masquerading as utopia. The citizens have everything they need\u2014food, shelter, pleasure\u2014but at the cost of their freedom and ultimately their lives. Logan begins as an enforcer of this system before becoming its opponent. His transformation mirrors classic dystopian narratives where the helper becomes the revolutionary.\n\n**The Search for Meaning:** The quest for Sanctuary represents humanity's need for meaning beyond immediate gratification. The computer uses this search as a control mechanism, but the actual revelation\u2014that Sanctuary is an idea rather than a place\u2014suggests that meaning must be created, not discovered. The elderly man living outside the dome, the only survivor of those who rejected the system's terms, offers an alternative model: acceptance of mortality and connection to the natural world.\n\n**Visual Design and World-Building:** The film's production design is notable for its distinctive use of wide-angle lenses, holographic effects, and the geodesic dome sets. The visual style\u2014bright, artificial, and enclosed\u2014contrasts sharply with the natural decay shown in the exterior shots of Washington D.C. This visual dichotomy reinforces the thematic contrast between the dome's controlled utopia and the messy freedom of the outside world.\n\nLogan's Run remains significant as a product of 1970s dystopian cinema, reflecting anxieties about youth culture, aging, and institutional control. Its visual effects\u2014particularly the Carrousel sequence and the use of holograms\u2014were groundbreaking for the time and helped establish the aesthetic of future-shock cinema.",
+      "created_at": "2026-03-05 12:28:58"
+    },
+    {
       "title": "Loss of Sensation",
       "year": 1935,
       "medium": "Film",
@@ -10830,5 +10847,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 637
+  "count": 638
 }
