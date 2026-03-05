@@ -10031,6 +10031,23 @@
       "created_at": "2026-03-02 18:45:58"
     },
     {
+      "title": "The Tower",
+      "year": 1987,
+      "medium": "Graphic Novel",
+      "creator": "Fran\u00e7ois Schuiten (Artist), Beno\u00eet Peeters (Writer)",
+      "raw_score": 4.16,
+      "total_ratings": 645,
+      "origin": "Belgium ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Isolation, Exploration",
+      "image_filename": "The_Tower_1987.jpg",
+      "pitch": "The Tower (La Tour) is the third volume in the acclaimed Franco-Belgian graphic novel series Les Cit\u00e9s Obscures (The Obscure Cities), created by artist Fran\u00e7ois Schuiten and writer Beno\u00eet Peeters. Set in a mysterious parallel world, the story follows Giovanni Battista, a maintenance worker who has spent his entire life tending to an enormous, perpetually under-construction tower. When he finally decides to leave his station and descend to the base of the Tower, he discovers a world in decay\u2014and a truth about the Tower's purpose that challenges everything he believed.\n\nThe book is noted for its stunning visual architecture, drawing heavily from Piranesi's \"Imaginary Prisons\" and Medieval/Renaissance aesthetics rather than typical steampunk technology. Unlike conventional science fiction, The Tower employs a clockpunk aesthetic with its medieval technological level, creating a haunting meditation on human ambition, societal collapse, and the search for meaning in a world built on uncertain foundations.",
+      "truth": "The story is set approximately 400 years after the Tower's construction began. Giovanni Battista has maintained his assigned section of the Tower for decades, repairing failing masonry and navigating its endless beams and columns. One day, he notices that his fellow maintainers and inspectors have abandoned their posts. Unable to keep up with the mounting failures, he decides to descend to the Base to lodge complaints with his superiors.\n\nOn his journey downward, Giovanni discovers that the Tower is in terminal decline. He finds one maintainer who has succumbed to paranoia and another who has been dead for years. After building a parachute to safely descend, he is caught in an updraft and carried higher instead, eventually crash-landing in a newer community of Tower-dwellers led by an old man named Elias and a young woman named Milena.\n\nElias teaches Giovanni about the Tower's history and reveals a prophetic belief that Giovanni will discover the Tower's secret at its summit. Giovanni and Milena become lovers and together embark on a journey through the Tower's abandoned regions, eventually reaching its top\u2014only to find it deserted by the mysterious \"Pioneers\" who were building it.\n\nDescending through the Tower's hollow center, Giovanni discovers that the Pioneers left behind valuable artifacts, including paintings\u2014but abandoned their most precious possessions. The story culminates in a surreal twist: Giovanni and Milena emerge from the Tower into a fully colored world where only they remain in black-and-white, and are forcibly conscripted into an endless war, with Giovanni killing an enemy soldier\u2014creating the same scene depicted in a painting fragment he found earlier.",
+      "core": "The Tower is ultimately a meditation on human ambition and the inevitable decline of grand projects. The Tower\u2014begun with utopian aspirations\u2014has become meaningless, its builders having abandoned it without explanation or completion. This reflects Peeters and Schuiten's recurring theme of bureaucratic and architectural systems that outlive their original purposes, trapping individuals within structures they cannot understand or escape.\n\nThe protagonist's journey from isolated worker to active explorer mirrors the classic quest narrative, but with a crucial subversion: Giovanni discovers not salvation or revelation, but an endless cycle of violence and meaninglessness. The final twist\u2014where he becomes the figure in a painting he once observed\u2014suggests fatalism: we are trapped not only within physical structures but within patterns of behavior we cannot escape.\n\nSchuiten's architectural artistry dominates the work, with each panel rendered in meticulous detail inspired by Piranesi's Carceri d'Invenzione. The Tower functions as both setting and metaphor\u2014a structure representing human attempts to achieve the transcendent through monumental construction, ultimately revealing only the emptiness at the heart of such ambition.\n\nThe book won the Angoul\u00eame International Comics Festival Prize for Best Album in 1985 (for La Fi\u00e8vre d'Urbicande, the second volume), establishing the series as a landmark of Franco-Belgian comics. The Obscure Cities series as a whole has been compared to the works of Jorge Luis Borges and Italo Calvino for its philosophical depth and architectural imagination.",
+      "created_at": "2026-03-05 22:54:47"
+    },
+    {
       "title": "The Tragedy of Man",
       "year": 2011,
       "medium": "Animated Film",
@@ -11408,5 +11425,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 671
+  "count": 672
 }
