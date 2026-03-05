@@ -7719,6 +7719,23 @@
       "created_at": "2026-03-03 03:45:23"
     },
     {
+      "title": "The Hands of Orlac",
+      "year": 1924,
+      "medium": "Film",
+      "creator": "Robert Wiene",
+      "raw_score": 3.9,
+      "total_ratings": 11,
+      "origin": "Austria ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Transhumanism, Isolation",
+      "image_filename": "The_Hands_of_Orlac_1924.jpg",
+      "pitch": "The Hands of Orlac is a 1924 Austrian silent horror film directed by Robert Wiene, starring Conrad Veidt in one of his most iconic performances. The film centers on concert pianist Paul Orlac, whose hands are tragically destroyed in a railway accident. Desperate to save his career, his wife persuades a surgeon to transplant the hands of a recently executed murderer named Vasseur. However, upon learning the truth, Orlac becomes consumed by horror\u2014convinced he has inherited the murderer's violent impulses. As his mental state deteriorates, he finds himself haunted by the belief that he may have murdered his own father with a knife similar to the one used by Vasseur. This atmospheric silent film stands as a remarkable example of early Expressionist cinema exploring themes of identity, body horror, and the psychological consequences of scientific intervention.",
+      "truth": "",
+      "core": "**Body Horror and Transhumanism:** The Hands of Orlac represents one of the earliest explorations of body horror in cinema, predating modern science fiction's fascination with organ transplants, cybernetic augmentation, and genetic modification. The film interrogates the limits of medical intervention and the psychological consequences of violating the body's integrity. The transplanted hands become a metaphor for the self's instability\u2014can identity survive physical transformation?\n\n**Identity and the Uncanny:** Drawing on Expressionist techniques, the film explores themes of doppelg\u00e4ngers, split personalities, and the boundaries between self and other. Veidt's performance captures Orlac's descent into madness with remarkable physicality. The question of whether the donor's hands carry their owner's soul resonates with contemporary debates about consciousness and physical form.\n\n**Early Science Fiction Cinema:** The film occupies a fascinating position at the intersection of horror, science fiction, and Expressionist art cinema. The hand transplant premise, while now commonplace in science fiction, was genuinely groundbreaking in 1924. The film asks whether science can overcome physical limitation without psychological consequence\u2014a question that remains relevant in the age of organ transplants, prosthetics, and potential future genetic engineering.\n\n**German Expressionist Aesthetics:** Though Austrian production, the film shares visual and thematic elements with the German Expressionist movement. The stark lighting, distorted shadows, and psychological intensity align it with classics like The Cabinet of Dr. Caligari. The film's exploration of madness and the unconscious mind reflects broader Expressionist preoccupations with the irrational and the fragmented self.\n\nThe Hands of Orlac remains significant as an early exploration of themes that would become central to science fiction: the relationship between mind and body, the ethics of radical medical intervention, and the psychological cost of playing God with human flesh.",
+      "created_at": "2026-03-05 10:27:29"
+    },
+    {
       "title": "The Hidden",
       "year": 1987,
       "medium": "Film",
@@ -10694,5 +10711,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 629
+  "count": 630
 }
