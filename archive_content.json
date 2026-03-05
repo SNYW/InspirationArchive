@@ -800,6 +800,23 @@
       "created_at": "2026-03-02 19:28:36"
     },
     {
+      "title": "An Interplanetary Marriage",
+      "year": 1910,
+      "medium": "Film",
+      "creator": "Enrico Novelli (Yambo)",
+      "raw_score": 3.0,
+      "total_ratings": 90,
+      "origin": "Italy ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "An_Interplanetary_Marriage_1910.jpg",
+      "pitch": "An Interplanetary Marriage is Italy's first science fiction film, a whimsical 13-minute silent short from 1910 that tells the story of an Earth astronomer who falls in love with a Martian princess. Directed by Enrico Novelli under the pseudonym Yambo, the film follows astronomer Aldovin as he spots Yara, a Martian woman, through his telescope and instantly falls in love. He sends a telegraph to Mars proposing marriage\u2014only to receive a reply from her father agreeing only if Aldovin meets them halfway on the Moon. Thus begins a delightful interplanetary romance involving cannon-launched spacecraft, alien landscapes, and a wedding on the lunar surface.",
+      "truth": "The film opens with astronomer Aldovin observing Mars through his telescope, where he sees a Martian city and becomes enamored with Yara, the daughter of fellow astronomer Fur. Undeterred by the cosmic distance, Aldovin travels to the telegraph office and sends a radiotelegraphic message across space proposing marriage. Fur responds, agreeing to the union on one condition: Aldovin must prove himself by meeting them halfway on the Moon.\n\nOver the following year, Aldovin constructs a spherical spacecraft. On the day of the wedding, he climbs into his vessel alongside a \"marriage conductor,\" and the sphere is hoisted by crane into a gigantic cannon and shot into space. Meanwhile, on Mars, Yara and her father embark in their own bean-shaped spacecraft launched from a ski jump-style ramp. The two parties converge on the Moon, where the wedding ceremony takes place.\n\nThe newlyweds then take a stroll through a lunar cave, where they encounter moon zombies and insectoids\u2014only to be saved by a group of dancing girls. The film ends with the marriage complete, an interplanetary union forged across the cosmos.",
+      "core": "**Italian Pioneering:** An Interplanetary Marriage holds the distinction of being Italy's first science fiction film, representing a significant milestone in the development of national cinema. At a time when Italian filmmakers were primarily producing comedic shorts and historical epics, Yambo crafted a whimsical fantasy that drew from the f\u00e9erie theatrical tradition while introducing audiences to the possibilities of sci-fi storytelling.\n\n**M\u00e9li\u00e8s Influence:** The film bears clear influence from Georges M\u00e9li\u00e8s' pioneering work, particularly A Trip to the Moon (1902). Like M\u00e9li\u00e8s, Yambo employs theatrical staging, hand-painted backdrops, miniature models, and early special effects including stop-motion animation and superimpositions. However, the film also shows innovation\u2014it is notably the first film to depict Martian inhabitants as a civilization on par with or more advanced than Earth, rather than simply as exotic others.\n\n**Special Effects Innovation:** The production features elaborate miniature work for the spacecraft and launch apparatus, including a crane-assisted cannon launch and a bean-shaped Martian vessel. The film also includes notable animation: the telegraph message traveling through space is depicted as letters flying past the camera, a technique reminiscent of early title card animation.\n\n**Interplanetary Romance:** The film represents an early example of the interplanetary romance trope, combining science fiction adventure with romantic narrative. This formula would become influential in subsequent space opera and planetary adventure fiction, establishing templates for depicting love across cosmic distances.\n\n**Historical Context:** Released in 1910, the film arrived during a period of fascination with astronomy and speculation about extraterrestrial life, fueled by Percival Lowell's controversial observations of Martian canals. The film captures this optimistic era of space speculation before World War I transformed attitudes toward technology and progress.",
+      "created_at": "2026-03-05 20:40:48"
+    },
+    {
       "title": "An Unkindness of Ghosts",
       "year": 2017,
       "medium": "Novel",
@@ -11255,5 +11272,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 662
+  "count": 663
 }
