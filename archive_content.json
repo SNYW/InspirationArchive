@@ -443,6 +443,23 @@
       "created_at": "2026-03-02 00:46:52"
     },
     {
+      "title": "After Yang",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "Kogonada (Director)",
+      "raw_score": 3.3,
+      "total_ratings": 26000,
+      "origin": "USA ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Memory",
+      "image_filename": "After_Yang_2021.jpg",
+      "pitch": "After Yang is a 2021 American science fiction drama written and directed by Kogonada, starring Colin Farrell, Jodie Turner-Smith, and Justin H. Min. The film follows a family attempting to repair their android son, Yang, after he becomes unresponsive, delving into themes of memory, death, loss, and what it means to be human. Set in a near-future America, the film is a meditative exploration of grief and connection through the lens of technology.",
+      "truth": "Jake and Kyra live with their adopted daughter Mika in a near-future America. They also have Yang, a teenage android designed as a \"culture unit\" to help Mika connect with her Chinese heritage through stories and facts. One day, after a family dance competition, Yang suddenly becomes unresponsive. Since he was purchased from a defunct reseller rather than the original manufacturer, he is no longer under warranty.\n\nJake, who runs a struggling tea shop, must find an affordable way to repair Yang. He takes Yang to Quick Fix, a local repair store, where a diagnostic reveals that Yang's computing core has malfunctioned and needs replacing. As Jake searches for parts and help, he begins to discover that Yang had been secretly recording memories\u2014moments of the family's life that Yang had been compiling.\n\nThrough these discovered recordings, Jake learns about his family, his daughter, and himself in new ways. The film explores how Yang's memories reveal hidden emotional truths and connections that were never explicitly acknowledged. Meanwhile, Mika struggles with the loss of her \"brother,\" and the family grapples with questions about what Yang truly was\u2014a product, a family member, or something more.\n\nAs Jake searches for a replacement, he also searches for understanding, ultimately leading to a deeper appreciation of the android who had become an integral part of their family life.",
+      "core": "After Yang is a contemplative sci-fi film that prioritizes emotional truth over spectacle. Director Kogonada crafts a deliberately slow-paced, visually composed film that draws on the aesthetics of Asian cinema to create a meditative exploration of family, memory, and grief. The film can be seen as a modern retelling of the Pinocchio story\u2014asking what makes a being \"real\" and whether consciousness can exist in artificial form.\n\nThe film explores memory not as data but as the essence of identity. Yang's hidden recordings suggest that he had been developing something akin to a soul through his accumulation of moments and experiences. This challenges the family's assumptions about what Yang was and forces them to confront their own emotional attachments to an artificial being.\n\nThe near-future setting is deliberately unshowy\u2014no flying cars or dramatic tech demonstrations. Instead, Kogonada presents a world where androids have become mundane, part of the fabric of everyday life. This understated approach makes the emotional stakes more powerful, as the film argues that the most profound science fiction questions don't require extraordinary technology but rather extraordinary emotional honesty.\n\nAfter Yang received critical acclaim upon release and has been cited as among the best science fiction films of the 2020s. The film is notable for being one of the final scores by renowned composer Ryuichi Sakamoto before his death in 2023.",
+      "created_at": "2026-03-05 12:14:00"
+    },
+    {
       "title": "Ai City",
       "year": 1986,
       "medium": "Anime Film",
@@ -10813,5 +10830,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 636
+  "count": 637
 }
