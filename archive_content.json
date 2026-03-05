@@ -4540,6 +4540,23 @@
       "created_at": "2026-03-01 12:41:46"
     },
     {
+      "title": "Paprika",
+      "year": 2006,
+      "medium": "Anime",
+      "creator": "",
+      "raw_score": 3.85,
+      "total_ratings": 111000,
+      "origin": "Japan ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Cyberpunk, Science-Fantasy ,",
+      "topics": "VR, Transhumanism, Sentience",
+      "image_filename": "Paprika_2006.jpg",
+      "pitch": "Paprika is a 2006 Japanese animated psychological thriller directed by Satoshi Kon, based on Yasutaka Tsutsui's 1993 novel. When a revolutionary device called the DC Mini allows therapists to enter patients' dreams, a mysterious \"dream terrorist\" begins using it to inflict nightmares on innocent people. Dr. Atsuko Chiba, a research psychologist, must don her dream-world alter ego Paprika to track down the culprit and save both the dream world and reality from merging into chaos.",
+      "truth": "In the near future, the DC Mini\u2014a device enabling therapists to enter and interact with patients' dreams\u2014promises revolutionary psychiatric treatment. Dr. Atsuko Chiba, working at a research institute, secretly uses the device outside the lab to help patients, adopting the persona of Paprika, a detective who exists only in the dream world.\n\nWhen three DC Mini prototypes are stolen, the investigation leads Dr. Chiba and her colleagues Dr. Toratar\u014d Shima and Dr. K\u014dsaku Tokita into a labyrinth of nightmares. As the dream terrorist escalates their attacks, causing victims to fall into irreversible comas, the boundary between dreams and reality begins to collapse.\n\nThe culprit is revealed to be Dr. Seijir\u014d Inui, a former colleague who believes humanity must be protected from the corrupting influence of dream therapy. In the climax, dreams pour into the waking world as a surreal parade, and Atsuko must merge with her Paprika persona to defeat Inui's nightmare and restore order.",
+      "core": "Paprika explores the nature of dreams as a space where the subconscious freely expresses itself, and the danger of technology that blurs the line between internal and external reality. The film examines how our inner lives\u2014the repressed, the desired, the fearful\u2014can overwhelm and consume us when the walls between psyche and world dissolve.\n\nSatoshi Kon's final completed feature before his death is a visually stunning meditation on identity, creativity, and the unconscious. The film prefigures Inception (2010) in its exploration of dream invasion but remains unique in its celebration of dream logic over the rational structures of waking life. Paprika asks what it means to be whole when the self is fragmented across multiple states of existence\u2014and whether the integration of these fragments leads to transcendence or destruction.",
+      "created_at": "2026-03-05 04:15:27"
+    },
+    {
       "title": "Parable of the Sower",
       "year": 1993,
       "medium": "Novel",
@@ -10422,5 +10439,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 613
+  "count": 614
 }
