@@ -8076,6 +8076,23 @@
       "created_at": "2026-03-04 02:18:39"
     },
     {
+      "title": "The Man from Planet X",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Edgar G. Ulmer",
+      "raw_score": 2.85,
+      "total_ratings": 3500,
+      "origin": "USA ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "The_Man_from_Planet_X_1951.jpg",
+      "pitch": "The Man from Planet X is a independently made 1951 American black-and-white science fiction horror film that represents one of the earliest depictions of alien contact in cinema. Directed by Edgar G. Ulmer and produced by Jack Pollexfen and Aubrey Wisberg, the film stars Robert Clarke, Margaret Field, and William Schallert. The story concerns a humanoid alien who lands on Earth in a spaceship from a mysterious planet and makes contact with a small group of humans on an isolated, fog-shrouded Scottish moor. With a modest budget of $51,000, the film went on to gross $1.2 million, proving that low-budget sci-fi could find audiences during the genre's golden age of the early 1950s.",
+      "truth": "A spaceship from a previously unknown planet lands in the Scottish moorlands near the observatory of Professor Elliot. The humanoid alien that emerges is initially peaceful, communicating through musical tones. American reporter John Lawrence and the Professor attempt to establish contact but fail. Meanwhile, the unscrupulous scientist Dr. Mears discovers the alien's ability to communicate and attempts to force from it the metal formula for its spaceship. He shuts off the alien's breathing apparatus and leaves the spaceman for dead, telling the professor that communication was hopeless.\n\nWhen Lawrence discovers that the alien has vanished along with Professor Elliot's daughter Enid and other villagers, he realizes something far more sinister is happening. With more villagers missing and the phone lines dead, word finally reaches Scotland Yard via heliograph. As military forces arrive, it becomes clear that the alien intended to use its ship as a wireless relay station in advance of an invasion from its dying home planet. With the planet due to reach its closest approach to Earth at midnight, Lawrence must act to rescue the possessed villagers before the invasion begins.",
+      "core": "The Man from Planet X stands as a pioneering work in the alien invasion subgenre, predating many of the more famous films that would define the decade. Its depiction of a dying alien world sending advance scouts to Earth established tropes that would become genre staples. The film's low-budget constraints actually work in its favor\u2014the fog-shrouded sets and minimalist alien design create genuine atmosphere and dread.\n\nThe film also reflects early 1950s anxieties about the unknown during the Cold War era. The idea of an alien invasion force preparing to conquer Earth resonated with fears of infiltration and enemy advance. The mysterious planet from a dying world serves as both literal threat and metaphor for the uncertainty of the atomic age.\n\nEdgar G. Ulmer's direction maximizes the production's limited resources, using shadow and mist to create an eerie atmosphere that transcends the modest budget. The film's influence can be seen in subsequent alien contact narratives, and it remains a cult classic among science fiction film historians for its historical significance and atmospheric storytelling.",
+      "created_at": "2026-03-05 01:15:41"
+    },
+    {
       "title": "The Man from the First Century",
       "year": 1962,
       "medium": "Film",
@@ -10252,5 +10269,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 603
+  "count": 604
 }
