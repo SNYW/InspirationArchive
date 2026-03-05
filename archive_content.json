@@ -2483,6 +2483,23 @@
       "created_at": "2026-03-05 06:02:47"
     },
     {
+      "title": "Factorio",
+      "year": 2020,
+      "medium": "Video Game",
+      "creator": "Wube Software",
+      "raw_score": 4.75,
+      "total_ratings": 230666,
+      "origin": "Czech-Republic ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Evolution, Technology",
+      "image_filename": "Factorio_2020.jpg",
+      "pitch": "Factorio is a construction and management simulation game developed by Czech studio Wube Software, where players crash-land on an alien planet and must harvest resources to build automated factories, ultimately constructing a rocket to escape. The game focuses on automation, resource management, and technological progression rather than combat, though players must defend against indigenous alien creatures called \"Biters.\" Released in 2020 after four years of early access, Factorio has become one of the most well-received indie simulation games, praised for its deep systems design and addictive gameplay loop. The 2024 expansion \"Space Age\" added multiple new planets, extending the experience beyond the initial rocket launch goal.",
+      "truth": "The player begins as an engineer who crash-lands on a forested alien planet inhabited by hostile fauna. Starting with nothing but basic tools, players must gather raw resources like wood, ore, and coal to craft initial equipment and structures. The core gameplay loop involves creating factories\u2014automated assemblies of machines that mine resources, process materials, and manufacture increasingly complex items.\n\nProgression follows a technology tree that unlocks advanced manufacturing capabilities: players advance from hand-crafting items to assembling machines, from basic iron plate production to sophisticated oil refining, plastics manufacturing, and rocket fuel creation. The game introduces increasing complexity as players scale up production, requiring sophisticated logistics networks of belts, inserters, and transportation to move materials between factories.\n\nThe native alien creatures\u2014the Biters, Spitters, and Worms\u2014populate spawners across the map. As pollution from factories accumulates in the environment, these creatures become increasingly aggressive, necessitating defensive strategies. Players can choose peaceful mode if they prefer to focus purely on building.\n\nThe primary victory condition is constructing and launching a rocket with a satellite payload. However, the game encourages continued play after victory, with the Space Age expansion adding multiple challenging new planets requiring different resource management approaches.",
+      "core": "**Automation as Philosophy:** Factorio embodies a distinctive philosophy of gameplay where the player acts as a systems architect rather than a traditional protagonist. The satisfaction derives not from personal achievement but from designing elegant, efficient systems that multiply minimal human input into massive industrial output. This \"factorio\" thinking has influenced game design discourse around automation games.\n\n**Environmental Tension:** The game creates an interesting dynamic between industrial expansion and environmental consequence. Pollution directly causes alien aggression, creating a risk-reward balance between technological progress and ecological destruction. This mirrors real-world concerns about industrial growth and environmental impact.\n\n**Creative Expression:** Despite being a simulation about following recipes and blueprints, Factorio has become a platform for creative expression. Players share complex factory designs, compete for efficiency benchmarks, and create elaborate decorative builds. The community has produced everything from working computers within the game to massive scale builds spanning thousands of hours.\n\n**Czech Game Development:** Factorio represents a success story in Czech game development, created by a relatively small team that achieved massive commercial and critical success through early access and word-of-mouth. The game's polish and depth have made it a benchmark for the construction/management genre.",
+      "created_at": "2026-03-05 11:13:11"
+    },
+    {
       "title": "Fahrenheit 451",
       "year": 1953,
       "medium": "Novel",
@@ -10745,5 +10762,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 632
+  "count": 633
 }
