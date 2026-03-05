@@ -2432,6 +2432,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Fantastic Voyage",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 22000,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration",
+      "image_filename": "Fantastic_Voyage_1966.jpg",
+      "pitch": "Fantastic Voyage is a classic 1966 American science fiction adventure film directed by Richard Fleischer. In a world where the United States and Soviet Union have developed technology to miniaturize matter for one hour, a brilliant scientist named Dr. Jan Benes, who has figured out how to make the process work indefinitely, is injured in an assassination attempt behind the Iron Curtain. With a dangerous blood clot in his brain that no conventional surgery can remove, a team of five people\u2014including a CIA agent, a naval captain, a surgeon, and technical assistants\u2014are shrunk to microscopic size and injected into Benes's bloodstream aboard a miniature submarine. They have just 60 minutes to navigate through the human body, reach the clot, destroy it, and escape before the miniaturization wears off.",
+      "truth": "The film opens with the United States and Soviet Union each developing miniaturization technology, but only capable of shrinking matter for one hour. Dr. Jan Benes, a scientist working behind the Iron Curtain, discovers how to make the process work indefinitely. With American intelligence help, he escapes to New York, but Soviet agents attempt to assassinate him, leaving him comatose with an inoperable blood clot in his brain.\n\nThe American government recruits Charles Grant (CIA agent), Captain Bill Owens (naval officer), Dr. Michaels (medical specialist), Dr. Peter Duval (brain surgeon), and Cora Peterson (technical assistant) for a desperate mission. They board a submarine called Proteus, are miniaturized to microscopic size, and are injected into Benes's bloodstream through his thigh.\n\nAs they travel through Benes's body, the crew faces numerous obstacles: navigating through the heart requires inducing cardiac arrest to survive the turbulence; they must replenish oxygen in the lungs; they encounter the immune system's white blood cells. Complications arise when they discover the laser needed to dissolve the clot has been damaged, and they must cannibalize their radio to repair it\u2014cutting off all communication with the outside world.\n\nAdding to the tension, Grant suspects sabotage. During the critical operation to remove the clot, Dr. Michaels attempts to crash the submarine into Benes's brain, revealing himself as the Soviet agent. Grant destroys the submarine, killing Michaels, and the crew escapes through a tear duct in Benes's eye just seconds before reverting to normal size. The mission is a success: Benes recovers, and the miniaturization formula is now in American hands.",
+      "core": "The film explores themes of Cold War competition and the race for scientific supremacy between the United States and Soviet Union. The miniaturization technology represents the ultimate scientific prize\u2014a weapon that could change the nature of warfare, medicine, and human capability. The film reflects 1960s anxieties about the Iron Curtain, espionage, and the high-stakes technological race.\n\nThe film is notable for its imaginative depiction of the human body as an alien landscape. The interior of a human being becomes a fantastical voyage through unfamiliar territories\u2014blood vessels as highways, the heart as a treacherous ocean, and the brain as the ultimate destination. This innovative visual approach earned the Academy Award for Best Visual Effects and Best Art Direction.\n\nBeyond the science fiction elements, Fantastic Voyage explores themes of teamwork, sacrifice, and courage under extreme pressure. The crew must work together against impossible odds, trusting each other in a hostile environment where a single mistake means death. The film's tension comes not just from the physical dangers but from the uncertainty about who among them can be trusted.\n\nThe concept of miniaturization sparked the imagination of audiences and influenced countless works of science fiction that followed, including the animated television series of the same name. The film remains a landmark in the science fiction genre, combining thrilling adventure with genuine scientific speculation about the possibilities of biotechnology.",
+      "created_at": "2026-03-05 03:04:40"
+    },
+    {
       "title": "Farscape",
       "year": 1999,
       "medium": "TV Series",
@@ -10371,5 +10388,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 610
+  "count": 611
 }
