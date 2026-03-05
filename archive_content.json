@@ -6359,6 +6359,23 @@
       "created_at": "2026-03-02 22:00:38"
     },
     {
+      "title": "The Amazing Colossal Man",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "Bert I. Gordon",
+      "raw_score": 1.9,
+      "total_ratings": 8,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Evolution, Isolation",
+      "image_filename": "The_Amazing_Colossal_Man_1957.jpg",
+      "pitch": "The Amazing Colossal Man is a 1957 American science fiction film from American International Pictures, directed and produced by Bert I. Gordon. The film stars Glenn Langan as Lt. Colonel Glenn Manning, a U.S. Army officer who survives a plutonium bomb explosion in the Nevada desert but undergoes a terrifying transformation\u2014growing 8 to 10 feet per day until he reaches 60 feet tall. As his body grows, his mind deteriorates, and he becomes a tragic monster who terrorizes Las Vegas before meeting his doom. Based loosely on Homer Eon Flint's 1928 novel \"The Nth Man,\" this film is notable for its exploration of the consequences of nuclear radiation and the tragic figure of a man who becomes a monster in his own body. It was followed by a sequel, \"War of the Colossal Beast\" (1958), and was featured on Mystery Science Theater 3000.",
+      "truth": "The film opens at the Desert Rock military test site in Nevada, where the first plutonium bomb is scheduled for detonation. When an unidentified civilian aircraft crash lands near the test area, Lt. Colonel Glenn Manning heroically runs into the blast zone to rescue the pilot. The bomb detonates, and Manning is caught in the radioactive blast.\n\nDespite suffering third-degree burns over nearly his entire body, Manning miraculously survives. Doctors Dr. Paul Linstrom and Dr. Eric Coulter treat him, and within days his burns completely heal. However, his condition quickly takes a horrifying turn\u2014Manning begins to grow at an exponential rate. He mutates from a normal-sized man into a giant standing over 16 feet tall within days.\n\nThe military moves Manning to a remote rehabilitation and research center in Summit, Nevada. His fianc\u00e9e, Carol Forrest, learns the truth and visits him, witnessing his transformation firsthand. As Manning continues to grow\u2014reaching 22 feet, then 30 feet, then 50 feet\u2014his mental state deteriorates along with his physical one. He becomes bitter, angry, and increasingly dangerous.\n\nDr. Linstrom discovers that Manning's heart is growing at only half the rate of his body, meaning it will eventually fail to support his enormous mass. The doctors create a serum to stop his growth, but before they can administer it, Manning escapes. He wanders toward Las Vegas, drawn to the bright lights of the Strip.\n\nAs the 60-foot-tall giant approaches the city, chaos erupts. Manning smashes casinos and destroys the iconic Pioneer Club sign. The military pursues him to Hoover Dam, where Dr. Linstrom attempts to reason with his former patient. When Coulter tries to inject Manning with the growth-stopping serum, Manning kills him in a fit of rage. Manning then captures Carol, but ultimately releases her when she implores him to remember their love.\n\nAt the climax, the military opens fire on Manning. Wounded, he tumbles into the Colorado River below Hoover Dam, apparently dying as his massive body is carried away by the current.",
+      "core": "The Amazing Colossal Man reflects the nuclear anxieties of 1950s America. Made just twelve years after Hiroshima and Nagasaki, the film directly engages with fears of radiation and the unknown consequences of nuclear testing. Manning's transformation into a giant can be read as a metaphor for the destructive power of nuclear weapons\u2014the hero becomes the monster he tried to prevent. The film suggests that even those who sacrifice themselves for others may become victims of the very forces they sought to combat.\n\nThe film also explores themes of isolation and alienation. As Manning grows physically larger, he becomes more isolated from humanity. His transformation forces him to the margins of society, and his increasing madness reflects a mind unable to cope with its own radical otherness. The tragedy of Manning is not just his physical transformation but his loss of identity, agency, and connection to the people he loves.\n\nIn terms of sci-fi legacy, The Amazing Colossal Man represents the classic \"giant monster\" subgenre that emerged in the 1950s alongside the giant insect films and the Godzilla era. While not as influential as some contemporaries, it helped establish tropes about radiation-induced mutation that persist in the genre today. The film's focus on a sympathetic monster who was once human adds a tragic dimension to the giant creature formula.\n\nThe film's practical effects, including the use of forced perspective and miniatures, reflect the low-budget constraints of 1950s B-movie production. Despite these limitations, the film achieves moments of genuine atmosphere and emotional weight, particularly in Manning's gradual descent into madness. The performance of Glenn Langan conveys both the physical burden of the giant's body and the psychological toll of losing oneself to an uncontrollable transformation.",
+      "created_at": "2026-03-05 03:21:33"
+    },
+    {
       "title": "The Andromeda Nebula",
       "year": 1967,
       "medium": "Film",
@@ -10388,5 +10405,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 611
+  "count": 612
 }
