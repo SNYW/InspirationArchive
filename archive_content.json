@@ -817,6 +817,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Anodyne",
+      "year": 2013,
+      "medium": "Video Game",
+      "creator": "Analgesic Productions (Melos Han-Tani, Marina Kittaka)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Memory, Isolation",
+      "image_filename": null,
+      "pitch": "Anodyne is a 2D action-adventure game that immerses players in a surreal dream world where a young protagonist named Young explores strange, interconnected environments. Developed by the duo of Melos Han-Tani and Marina Kittaka during their final years of college, the game draws heavy inspiration from The Legend of Zelda: Link's Awakening and Yume Nikki\u2014a cult Japanese adventure game known for its dreamlike exploration.\n\nPlayers navigate Young through screen-based rooms, fighting enemies with a broom and solving puzzles to progress through dungeons and diverse areas. The game features a distinctive pixel art aesthetic and an atmospheric soundtrack composed by Han-Tani himself. Anodyne received generally positive reviews for its dream-like atmosphere and unique blend of action-adventure gameplay, though critics noted some unclear storytelling and imperfect jumping mechanics. The game garnered an honorable mention in the 2013 Student Independent Games Festival and was featured on The Pirate Bay, which helped it gain enough visibility to be accepted onto Steam through its Greenlight system.",
+      "truth": "The player controls Young, a protagonist who awakens in a mysterious dream world and must explore its various regions to restore balance and uncover the truth of their existence. The gameplay involves exploring adjacent screen-sized rooms that make up the game's world, moving between different areas that range from dungeons with enemies and puzzles to more atmospheric, exploration-focused locations like a red swamp-like area and a dimly-lit forest.\n\nThroughout the game, Young acquires items and abilities that allow access to new areas, including a broom for combat and shoes for enhanced jumping. The player must find a certain number of cards scattered throughout the dream world to progress to the final sections of the game. The narrative unfolds through environmental storytelling and sparse dialogue, leaving much of the plot open to interpretation.\n\nThe game explores themes of self-discovery, dreams versus reality, and the journey inward. Without explicit exposition, Anodyne invites players to interpret Young's journey through the surreal landscapes and cryptic encounters. The dream world itself becomes a mirror of the protagonist's inner psyche, with each area representing different aspects of the self that must be confronted and reconciled.",
+      "core": "Anodyne occupies a unique space in indie gaming as a title that prioritizes atmosphere and emotional resonance over conventional narrative structure. Its dream-like quality owes much to Yume Nikki, the 2004 freeware game that inspired countless \"Yume Nikki-likes\" exploring surreal dream worlds. By combining this inspiration with classic action-adventure gameplay, Anodyne creates an experience that feels both nostalgic and genuinely otherworldly.\n\nThe game's pixel art, created by Marina Kittaka, establishes a cohesive visual language that blends the familiar (recalling 16-bit era games) with the uncanny. Environments shift from mundane to bizarre, with strange characters and locations that defy logical explanation. This visual approach serves the game's thematic focus on the boundary between self and other, reality and dream.\n\nMusically, Melos Han-Tani's soundtrack complements the visuals with ambient compositions that enhance the sense of isolation and introspection. The sound design contributes to the dreamlike atmosphere, making exploration feel simultaneously comforting and unsettling.\n\nAnodyne's legacy includes inspiring a sequel, Anodyne 2: Return to Dust (2019), which expanded the concept into a 3D adventure. The original remains notable as a student project that achieved mainstream visibility through unconventional means, demonstrating the potential for indie games to find audiences outside traditional publishing channels.",
+      "created_at": "2026-03-05 01:47:27"
+    },
+    {
       "title": "Appleseed",
       "year": 1988,
       "medium": "OVA",
@@ -10286,5 +10303,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 605
+  "count": 606
 }
