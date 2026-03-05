@@ -2789,6 +2789,23 @@
       "created_at": "2026-03-04 00:15:37"
     },
     {
+      "title": "Flight to the Moon",
+      "year": 1953,
+      "medium": "Animated Short",
+      "creator": "Valentina Brumberg, Zinaida Brumberg",
+      "raw_score": 3.3,
+      "total_ratings": 1072,
+      "origin": "Russia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration",
+      "image_filename": "Flight_to_the_Moon_1953.jpg",
+      "pitch": "Flight to the Moon is a pioneering Soviet animated short film directed by the legendary Brumberg sisters and released in 1953 by Soyuzmultfilm. Set in the early days of the space age, the film follows a young pioneer boy named Kolya Homyakov who stows away on an interplanetary rocket mission to rescue a lost spacecraft researching the lunar surface. Combining adventure narrative with scientifically-grounded elements, this film represents one of the earliest animated depictions of space travel in cinema history, predating humanity's actual lunar landing by over fifteen years. The animation employs rotoscoping techniques to create realistic character movement, with elaborate backgrounds depicting both the rocket interior and the lunar landscape. As a product of Soviet cinema during the height of the space race era, the film reflects the optimism and excitement surrounding the possibility of space exploration that would soon become reality.",
+      "truth": "The film opens at a Soviet space center where Professor Bobrov and his team are preparing for a mission to the Moon. The goal is to locate and rescue a missing rocket that crashed during lunar surface research. Young Kolya Homyakov, a clever pioneer boy, manages to sneak into the space center by claiming to be the chairman of the \"International Society for Interplanetary Communications\" named after Tsiolkovsky. When news arrives about the crashed rocket\u2014carrying the father of Kolya's friend Rita\u2014the boy sneaks aboard the rescue rocket as it launches.\n\nOnce in space, Kolya's presence is discovered by the crew, who initially consider turning back. However, the boy proves useful when he notices an error in the rocket's trajectory calculations. The crew reaches the Moon, where they discover the crashed spacecraft and its injured pilot. Through Kolya's quick thinking and courage, the rescue operation succeeds, and all crew members return safely to Earth. Throughout the adventure, the film includes educational segments explaining real physics concepts related to space travel, including weightlessness, rocket propulsion, and lunar conditions\u2014elements that were cutting-edge science at the time of production.",
+      "core": "Flight to the Moon stands as a remarkable artifact of early science fiction animation that anticipated humanity's actual journey to the Moon by nearly two decades. The Brumberg sisters, who were pioneering animators in the Soviet Union, created a work that balances entertainment with genuine educational content, reflecting the Soviet tradition of using popular media to promote scientific literacy and enthusiasm for space exploration.\n\nThe film's historical significance is amplified by its timing\u2014it was created during a period when space travel remained purely theoretical, yet it accurately predicted many aspects of lunar exploration that would become reality in the 1960s. The use of rotoscoping gave the animation a distinctive realism, with characters moving in a fluid, lifelike manner that distinguished it from contemporary animation.\n\nThe movie also reflects the cultural context of its era, showing the Soviet optimism about technological progress and space exploration during the early Cold War period. The character of Kolya represents the ideal Soviet youth\u2014intelligent, resourceful, and eager to contribute to the collective scientific endeavor. This ideological subtext is balanced with genuine adventure storytelling that transcends political boundaries, making the film accessible and engaging for young audiences regardless of their political orientation.\n\nToday, Flight to the Moon is valued both as a historical document of early space age imagination and as a technically impressive animated work from a pioneering period of Soviet cinema. It demonstrates how animation could serve as a vehicle for both education and entertainment, exploring themes of exploration, courage, and scientific curiosity that remain relevant in the contemporary space exploration era.",
+      "created_at": "2026-03-05 21:55:58"
+    },
+    {
       "title": "Forbidden Planet",
       "year": 1956,
       "medium": "Film",
@@ -11340,5 +11357,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 667
+  "count": 668
 }
