@@ -3758,6 +3758,23 @@
       "created_at": "2026-02-28 10:50:24"
     },
     {
+      "title": "Laokoon",
+      "year": 1970,
+      "medium": "Animated Short",
+      "creator": "V\u00e1clav Mergl",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czechoslovakia ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Isolation",
+      "image_filename": null,
+      "pitch": "Laokoon is a 1970 Czech animated short film directed by V\u00e1clav Mergl. The film is part of a series of Czech animated science fiction and horror shorts from the 1970s, which includes works like Krabi (1976) and The Cybernetic Grandma (1962). The title refers to the Greek mythological figure Laoco\u00f6n, a Trojan priest who warned the Trojans about the Wooden Horse and was killed by sea serpents sent by the gods.",
+      "truth": "Based on the limited available information, Laokoon appears to be a surreal animated short exploring themes of isolation and existential horror, consistent with other works in the Czech animated film tradition from this period. The film runs approximately 11 minutes and was produced during a creative period in Czechoslovak animation when experimental and adult-oriented animated works were being created, distinct from the children's animation that dominated the industry.",
+      "core": "Laokoon represents an example of Eastern European animated science fiction horror from the late 1960s and early 1970s. This period saw Czech animators exploring darker, more adult themes in their work, influenced by the broader international context of animation as an art form capable of addressing mature themes. The film continues the exploration of psychological and existential themes seen in earlier Czech animated works, combining science fiction elements with horror imagery in a manner distinctive to the Czechoslovak animation tradition.",
+      "created_at": "2026-03-05 13:15:51"
+    },
+    {
       "title": "Le avventure straordinarissime di Saturnino Farandola",
       "year": 1913,
       "medium": "Film",
@@ -10864,5 +10881,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 639
+  "count": 640
 }
