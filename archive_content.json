@@ -5067,6 +5067,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Quake 4",
+      "year": 2005,
+      "medium": "Video Game",
+      "creator": "Raven Software",
+      "raw_score": 4.1,
+      "total_ratings": 62,
+      "origin": "USA ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Military, Hard-SF ,",
+      "topics": "Aliens, Cybernetic",
+      "image_filename": "Quake_4_2005.jpg",
+      "pitch": "Quake 4 is a 2005 first-person shooter that continues the story from Quake II, pitting players against the Strogg\u2014a cyborg alien race on their home planet Stroggos. Developed by Raven Software and published by Activision, the game uses the id Tech 4 engine and emphasizes both single-player campaign and multiplayer modes. The player takes on the role of Corporal Matthew Kane of the Rhino Squad, leading the invasion of Stroggos following the events of Quake II where the Makron was destroyed.\n\nThe game is notable for its intense military sci-fi action, graphic depiction of the \"stroggification\" process (where humans are captured and transformed into cyborg soldiers), and continuation of the dark, violent aesthetic established in the Quake series. While Quake 4 received moderate reviews, it remains a significant entry in the early 2000s military sci-fi shooter landscape.",
+      "truth": "The story begins following the success of Quake II's protagonist in defeating the Strogg leader, the Makron. Rhino Squad is tasked with spearheading the invasion of Stroggos, the Strogg home planet. During the descent, their transport ship is shot down, crashing behind enemy lines and separating Kane from most of his squad mates.\n\nKane rejoins scattered marine forces and participates in key missions: destroying Strogg aircraft hangars, capturing defense systems, and infiltrating the Strogg communication hub called Tetranode. The mission suffers heavy casualties, including the loss of the EMP device meant to disrupt the main Strogg Nexus.\n\nKane is subsequently captured and undergoes the horrifying \"stroggification\" process\u2014watched in a visceral first-person cutscene as his body is mechanically reconstructed with bio-mechanical parts. Before the neural chip controlling him can be activated, Rhino Squad rescues him. Kane escapes through the Strogg medical facility and waste disposal plant, fighting former commander Voss who has been fully stroggified but retains his human consciousness long enough to warn Kane.\n\nThe commanders realize Kane's unique situation\u2014being both human and partially stroggified\u2014makes him the only one capable of infiltrating the core. The game culminates in Kane destroying the Strogg Nexus, completing the mission.",
+      "core": "**Humanity and Transformation:** Quake 4 explores themes of identity and transformation through the stroggification process. Kane's conversion forces players to confront questions of what makes someone human\u2014when the body is increasingly machine, does the mind still matter? The game presents this transformation graphically, making players complicit in witnessing their character's conversion.\n\n**Military Sacrifice:** Like many military shooters, Quake 4 glorifies sacrifice and perseverance in the face of overwhelming odds. The marine invasion of Stroggos is a costly endeavor, with high casualty rates. The game doesn't shy away from showing the cost of war, though it ultimately frames the violence as necessary and heroic.\n\n**Alien/Cyborg Hybrid Monster:** The Strogg represent a unique sci-fi creation\u2014an alien race that doesn't just use technology but incorporates it biologically. They're not humans in suits; they're a distinct civilization that has evolved alongside their mechanical enhancements. This makes them more threatening than typical alien invaders.\n\n**Legacy of the Quake Series:** Quake 4 represents the continuation of id Software's pioneering work in first-person shooters, bridging the gap between the arena-style Quake III and the more atmospheric approach of Doom 3. While not as influential as its predecessors, it remains a solid entry in the military sci-fi shooter genre of the mid-2000s.",
+      "created_at": "2026-03-05 07:48:33"
+    },
+    {
       "title": "Quantum Break",
       "year": 2016,
       "medium": "Video Game",
@@ -10626,5 +10643,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 625
+  "count": 626
 }
