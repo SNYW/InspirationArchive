@@ -1786,6 +1786,23 @@
       "created_at": "2026-03-01 16:47:36"
     },
     {
+      "title": "Control",
+      "year": 2019,
+      "medium": "Video Game",
+      "creator": "Remedy Entertainment",
+      "raw_score": 4.1,
+      "total_ratings": 2000,
+      "origin": "Finland ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Control_2019.jpg",
+      "pitch": "Control is a 2019 action-adventure game developed by Finnish studio Remedy Entertainment. The game follows Jesse Faden, who arrives at the Oldest House\u2014a brutalist skyscraper in New York City that serves as the headquarters of the Federal Bureau of Control (FBC), a secret U.S. government agency tasked with investigating and containing phenomena that violate the normal laws of reality. Upon arriving, Jesse discovers that the FBC has been invaded by the Hiss, a hostile otherworldly entity that has corrupted FBC agents and taken control of the building. As the new Director of the FBC, Jesse must explore the Oldest House's shifting corridors, battle possessed agents, and use paranormal abilities to stop the Hiss threat\u2014all while searching for her missing brother.",
+      "truth": "The game opens with Jesse Faden and her brother Dylan arriving at a strange building in childhood, where Dylan is taken by an otherworldly force. Years later, Jesse returns to the Oldest House, a massive brutalist structure that appears different each time it's visited. She discovers that the previous Director has died, and she automatically becomes his successor according to FBC protocol.\n\nJesse possesses a shapeshifting weapon called the Service Weapon and gains paranormal abilities called \"Powers\" by touching Objects of Power\u2014mundane items imbued with energies from another dimension. These powers include Launch (telepathically hurling objects), Levitate (flight), Shield (creating barriers), Seize (turning enemies into allies), and Evade (quick dodging).\n\nThe Hiss is revealed to be a separate dimension or entity that has crossed into our reality through a failed FBC experiment. The Hiss communicates through a screaming static noise and possesses humans by merging with their nervous systems, granting them enhanced strength and the ability to float. As Jesse progresses, she discovers that her brother Dylan was one of the subjects of the original experiment and may be connected to the Hiss in ways she doesn't fully understand.\n\nThe Oldest House itself is a character\u2014it shifts and changes, with rooms that fold into themselves, impossible architecture, and sectors that can radically alter. The FBC's work involves containing \"Objects of Power\" and \"Altered Items\"\u2014everyday objects that have been imbued with supernatural properties.",
+      "core": "Control exemplifies the \"New Weird\" genre, blending science fiction, fantasy, horror, and the supernatural into something that defies easy categorization. Inspired by the SCP Foundation\u2014a collaborative writing project about fictional supernatural artifacts and entities\u2014the game explores themes of bureaucratic control, the nature of reality, and humanity's relationship with the unknown.\n\nThe Federal Bureau of Control represents a fascinating take on government agencies that operate in shadows, investigating phenomena that science cannot explain. The game examines how institutions respond to the inexplicable\u2014through classification, containment, and if necessary, elimination.\n\nThe Hiss functions as both antagonist and thematic element, representing the breakdown of rational order. It's an entity that exists beyond human understanding, and the game suggests that sometimes the greatest threat isn't the unknown itself, but the unknown's interaction with human systems and psychology.\n\nJesse's journey is ultimately about agency and identity. As Director, she must make choices that affect not just the FBC but potentially all of reality. The game's ambiguous ending and the revelation about her brother's role leave questions unanswered, reflecting the game's broader theme that some mysteries are beyond resolution.\n\nControl received critical acclaim for its atmosphere, art direction, and gameplay. It sold over 5 million copies and established the \"Remedy Connected Universe,\" sharing continuity with Alan Wake through the AWE expansion. The game represents Finnish game development at its finest, combining American storytelling sensibilities with European game design philosophy.",
+      "created_at": "2026-03-05 17:16:24"
+    },
+    {
       "title": "Cosmic Conflict",
       "year": 1978,
       "medium": "Video Game",
@@ -11102,5 +11119,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 653
+  "count": 654
 }
