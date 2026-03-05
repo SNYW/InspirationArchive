@@ -154,6 +154,23 @@
       "created_at": "2026-03-02 11:30:24"
     },
     {
+      "title": "A Bomb Was Stolen",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Ion Popescu-Gopo",
+      "raw_score": 3.35,
+      "total_ratings": 347,
+      "origin": "Romania ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Rebellion",
+      "image_filename": "A_Bomb_Was_Stolen_1962.jpg",
+      "pitch": "A Bomb Was Stolen (Romanian: S-a furat o bomb\u0103) is a 1962 Romanian dialogue-free sci-fi comedy film directed by Ion Popescu-Gopo. The film begins with a nuclear bomb test, where one of the bombs is stolen by gangsters who hide it in a bag. Inept police pursue the gangsters, and the bag containing the bomb is lost and recovered by a passerby who has no idea what's inside. The innocent bystander goes about their day with the dangerous package, pursued by gangsters who are in turn pursued by the police\u2014creating a hilarious chain of comedic misunderstandings.\n\nThe film is notable for being entirely dialogue-free, relying on visual comedy, physical humor, and imaginative storytelling to convey its narrative. This stylistic choice earned it international praise as an \"exuberant comedy\" and \"a subtle and frequently hilarious satire.\" The film was entered into the 1962 Cannes Film Festival and received several international awards.",
+      "truth": "The film opens with dramatic footage of a real nuclear bomb test, establishing the gravity of the stakes from the very beginning. A group of gangsters manages to steal one of the nuclear bombs during the chaos of the test. They hide the stolen device in a bag and attempt to make their escape.\n\nHowever, the situation quickly spirals out of control when the bag containing the nuclear weapon becomes separated from the gangsters. An ordinary passerby\u2014completely unaware of the deadly contents\u2014discovers the abandoned bag and, assuming it was simply lost or discarded, takes it with them to continue their daily routine.\n\nWhat follows is a comedy of errors as multiple parties hunt for the missing bomb. The gangsters desperately try to recover their stolen property while simultaneously evading the police. The police, in turn, pursue the gangsters while trying to locate the missing nuclear device. And in the middle of it all is the innocent bystander, going about their ordinary day completely oblivious to the apocalypse they could accidentally trigger.\n\nThe film uses this farcical premise to satirize Cold War nuclear paranoia, the absurdity of military secrecy, and the chaos that ensues when bureaucratic incompetence meets genuine danger. The lack of dialogue emphasizes the universal nature of the comedy and allows the visual gags and physical humor to carry the narrative.",
+      "core": "**Satire of Nuclear Paranoia:** The film serves as a satirical commentary on Cold War nuclear anxiety, using black comedy to highlight the absurdity of nuclear proliferation and the often-comical incompetence of those tasked with managing such dangerous materials.\n\n**Physical Comedy and Silent Film Tradition:** By choosing a completely dialogue-free format, Ion Popescu-Gopo pays homage to the silent film era while also creating something accessible across language barriers. The film's humor relies on universal comedic timing, chase sequences, and visual gags that would resonate with any audience.\n\n**International Recognition:** The film's success at Cannes and multiple international film festivals demonstrates how Soviet-bloc cinema could achieve worldwide recognition through creative innovation rather than simply following Western formulas. It represents a high point in Romanian comedic cinema.\n\n**The Ordinary in the Extraordinary:** Central to the film's theme is the idea that an ordinary person can unknowingly become central to extraordinary events\u2014the passerby simply found a bag and tried to return it, yet this simple act of honesty places them at the center of an international incident. This speaks to the randomness of fate and the ways ordinary life intersects with larger historical forces.",
+      "created_at": "2026-03-05 00:45:53"
+    },
+    {
       "title": "A Boy and His Dog",
       "year": 1975,
       "medium": "Film",
@@ -10235,5 +10252,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 602
+  "count": 603
 }
