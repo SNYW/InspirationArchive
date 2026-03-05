@@ -3894,6 +3894,23 @@
       "created_at": "2026-03-03 22:48:10"
     },
     {
+      "title": "Les Ma\u00eetres du temps",
+      "year": 1982,
+      "medium": "Animated Film",
+      "creator": "Ren\u00e9 Laloux",
+      "raw_score": 3.65,
+      "total_ratings": 7400,
+      "origin": "Multinational ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Time-Travel, Aliens, Sentience",
+      "image_filename": null,
+      "pitch": "Les Ma\u00eetres du temps (Time Masters) is a 1982 Franco-Hungarian animated science fiction film directed by the legendary Ren\u00e9 Laloux and designed by the renowned artist M\u0153bius. Based on Stefan Wul's 1958 novel \"L'Orphelin de Perdide,\" this film continues Laloux's tradition of visually stunning science fiction animation following his earlier masterworks \"Fantastic Planet\" and \"Light Years.\" The story follows a desperate space rescue mission to save a young boy stranded on the dangerous desert planet Perdide, where giant killer hornets have killed his mother. As the pilot Jaffar and his passengers\u2014the deposed Prince Matton and his sister Belle\u2014race against time, they encounter the mysterious Masters of Time, an alien race who can manipulate time itself. The film is notable for its breathtaking animation, complex narrative structure, and philosophical themes about time, memory, and sacrifice.",
+      "truth": "The film opens with Claude racing across the desert planet Perdide with his young son Piel. After sending a message to his friend Jaffar warning that his wife was killed by giant hornets, Claude's vehicle crashes and he becomes trapped. Before the vehicle explodes, Claude hands Piel an interstellar transceiver named \"Mike\" and tells him to follow its instructions. Piel escapes to the Dolongs, a forest that repels the hornets, as his father perishes.\n\nJaffar receives the message aboard his spaceship Double Triangle 22 and decides to seek out his old friend Silbad, who has experience surviving on Perdide. His passengers are Prince Matton and Princess Belle, who have been deposed from their planet and are transporting treasure to fund Matton's restoration. Matton is unhappy about the detour to rescue Piel.\n\nOn the planet Devil's Ball, the crew contacts Piel through his transceiver. Meanwhile, two sentient psychic creatures called gnomes named Yula and Jad stow away on the ship. Matton attempts to convince Piel to drown himself but is stopped by Belle. The gnomes jettison Matton's treasure to protect Piel.\n\nMatton escapes and steals a shuttle, pursued by Jaffar. On Gamma 10, they encounter faceless angel-like beings controlled by a hostile entity of pure thought that absorbs individuality. Matton sacrifices himself to destroy the entity, freeing the captives.\n\nAs Jaffar's ship approaches Perdide, the Masters of Time transport the entire planet 60 years into the past. The crew awakens in a space station where they learn that Silbad is actually the elderly Piel, who lost his childhood memories after being rescued by a spacefarer named Igor. Silbad dies, and his funeral is attended by a Master of Time, who seemingly acknowledges the tragic chain of events.",
+      "core": "**Time as both Enemy and Friend:** The Masters of Time represent a fascinating take on temporal manipulation\u2014not as a tool to be wielded but as an immutable force that operates beyond human comprehension. The film's central tragedy emerges from this: Jaffar and his crew do everything right, yet time itself becomes the obstacle. The bitter irony that Piel is saved but aged 60 years transforms what could be a triumphant rescue into a meditation on the cruelty of cosmic indifference.\n\n**Sacrifice and Redemption:** Prince Matton's arc embodies sacrifice, but one tinged with ambiguity. His initial selfishness and attempt to harm Piel give way to his heroic sacrifice on Gamma 10\u2014though whether this represents genuine redemption or simply a melancholic acceptance of his own worthlessness remains open to interpretation. The film suggests that even flawed individuals can find purpose in sacrifice, but it doesn't offer easy absolution.\n\n**Visual Legacy:** Laloux's final film (he died in 2004) represents the culmination of his distinctive animation style, blending M\u0153bius's visionary artwork with traditional hand-drawn techniques. The film's visual imagination\u2014from the monstrous hornets to the ethereal Masters of Time to the angel-like entities of Gamma 10\u2014demonstrates how animation can realize science fiction concepts that live-action couldn't match. The Franco-Hungarian collaboration brought together two strong traditions in European animated science fiction.\n\n**Adaptation and Departure:** While based on Stefan Wul's novel, Laloux made significant changes, most notably renaming the father-son characters to distinguish them. The adaptation shifts focus from straightforward adventure to philosophical meditation, using the rescue narrative as a framework for exploring themes of time, memory, and the limits of human agency against cosmic forces.",
+      "created_at": "2026-03-05 17:55:15"
+    },
+    {
       "title": "Les Saignantes",
       "year": 2005,
       "medium": "Film",
@@ -11119,5 +11136,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 654
+  "count": 655
 }
