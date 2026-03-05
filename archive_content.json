@@ -2840,6 +2840,23 @@
       "created_at": "2026-03-03 08:04:06"
     },
     {
+      "title": "From Morn to Midnight",
+      "year": 1920,
+      "medium": "Film",
+      "creator": "Karlheinz Martin (director), Georg Kaiser (playwright)",
+      "raw_score": 3.4,
+      "total_ratings": 702,
+      "origin": "Germany ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Poverty, Rebellion",
+      "image_filename": "From_Morn_to_Midnight_1920.jpg",
+      "pitch": "From Morn to Midnight is a groundbreaking German Expressionist silent film that pushes the boundaries of cinematic art to tell the story of a bank cashier whose life unravels after encountering a wealthy woman. Based on Georg Kaiser's 1912 expressionist play, the film unfolds entirely against stark black backdrops with distorted sets, creating a fever-dream atmosphere that predates similar techniques in The Cabinet of Dr. Caligari. The film's radical visual style\u2014featuring spiky title cards, painted shadows, and deliberately artificial sets\u2014makes it one of the most visually experimental works of early cinema. Shot in 1920, it was considered so avant-garde that German theater owners initially refused to release it, and it only found its way to audiences in Japan in 1922.",
+      "truth": "The narrative follows a nameless bank cashier (played intensely by Ernst Deutsch) who serves a wealthy Italian woman at his workplace. Believing she has romantic interest in him, he becomes obsessed with escaping his mundane life. When she visits the bank, he steals a large sum of money and pursues her, offering to run away with her. She cruelly reveals she already has a son, shattering his fantasy\u2014he was merely a means to access the bank's fortune, not a romantic prospect.\n\nDesperate and disillusioned, the cashier abandons his wife and family, fleeing to the city to live in luxury. He indulges in wine, women, and cycling races, searching for meaning but finding only emptiness. Eventually, a Salvation Army girl who has appeared throughout his journey persuades him to repent. He gives away his remaining money to a greedy crowd, only to be betrayed\u2014tipping off the police, she orchestrates his arrest. The film ends with the cashier posed as a Christ-like figure, betrayed by the very people he tried to help.",
+      "core": "From Morn to Midnight is fundamentally about the alienation of modern capitalist society and the hollow pursuit of material wealth. The cashier's journey from respectable middle-class worker to disillusioned criminal to tragic martyr reflects expressionist themes of individual fragmentation within mechanized society. His realization that he was merely a \"means to an end\" for the wealthy woman mirrors the film's broader critique of transactional human relationships under capitalism.\n\nThe visual language is extraordinary\u2014filmed entirely against black backdrops, the sets are designed to look flat and artificial, with bright spotlights casting shadows on distorted backgrounds. Every element from furniture to actors' faces is painted with white outlines, creating a world that feels like a waking nightmare. The titles themselves feature spiky letters, and visual motifs include faces transforming into skulls and cyclist races shot through distorting mirrors. This radical stylization was intended to reflect the cashier's internal psychological state\u2014his feeling that life has become flat, unsatisfying, and meaningless.\n\nThe film represents a crucial step in the development of German Expressionist cinema, bridging earlier experiments and the movement's later masterpieces. While its narrative may be difficult to follow due to the overwhelming visual assault, it remains a fascinating document of early avant-garde filmmaking\u2014a revolutionary work that challenged what cinema could be.",
+      "created_at": "2026-03-05 21:42:27"
+    },
+    {
       "title": "From the New World",
       "year": 2012,
       "medium": "Anime",
@@ -11323,5 +11340,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 666
+  "count": 667
 }
