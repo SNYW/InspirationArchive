@@ -2415,6 +2415,23 @@
       "created_at": "2026-03-01 14:13:46"
     },
     {
+      "title": "FTL: Faster Than Light",
+      "year": 2012,
+      "medium": "Video Game",
+      "creator": "Subset Games (Matthew Davis, Jay Ma)",
+      "raw_score": 4.2,
+      "total_ratings": 77404,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF, Military ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": "FTL_Faster_Than_Light_2012.jpg",
+      "pitch": "FTL: Faster Than Light is an indie roguelike spaceship simulation that puts players in command of a spacecraft carrying critical intelligence for the Galactic Federation. Developed by the two-person team Subset Games, it became a landmark success of Kickstarter-funded gaming upon its 2012 release. The game combines real-time spaceship combat with strategic resource management, procedurally generated sectors, and permadeath\u2014every run is unique, and failure means starting completely over.\n\nUnlike typical strategy games, FTL forces players to make impossible choices: which distress signals to answer, which battles to fight, which systems to upgrade with limited scrap. The pursuing rebel fleet adds constant pressure\u2014lingering too long in any sector means eventual destruction. With its minimalist ASCII-based visuals, challenging gameplay, and emergent storytelling, FTL helped define the \"roguelite\" genre and influenced countless games including Faster Than Light's spiritual successor, Slipstream.",
+      "truth": "The player takes command of a Federation cruiser carrying a stolen data packet that could turn the tide of war against the Rebellion\u2014a human-supremacist faction on the verge of conquering the galaxy. The player's mission: navigate through eight procedurally generated space sectors, reaching Federation headquarters before the pursuing rebel fleet catches up.\n\nEach sector contains roughly twenty beacons\u2014some offering trade opportunities, others presenting distress calls (which may be traps or opportunities for rescue), hostiles, or events. Players must manage fuel, hull integrity, missiles, and drone parts while deciding which beacons to visit. The more beacons explored, the more resources gained\u2014but also the more the rebel fleet advances.\n\nCombat occurs in pausable real-time. Players manage power distribution across systems (weapons, engines, shields, piloting, medbay, etc.), target enemy systems, and coordinate crew positions. Successful attacks can damage systems, cause hull breaches, start fires, or kill crew. If the ship is destroyed or all crew lost, the game ends permanently.\n\nThe player starts with one ship (the Kestrel) but can unlock nine additional vessels, each with unique layouts, starting equipment, and crew. Eight alien species\u2014with distinct physiological traits\u2014can be recruited or encountered. The game culminates in a multi-stage boss battle against the Rebel Flagship.",
+      "core": "**Resource Scarcity and Impossible Choices:** FTL's core tension lies in never having enough resources. Fuel powers every jump but is limited; hull integrity doesn't repair itself; missiles run out. Players must constantly prioritize\u2014upgrade shields or weapons? Save for a medbay or invest in engines? This creates genuine strategic tension where every decision carries weight.\n\n**Procedural Emergent Narrative:** Procedural generation means no two runs are identical. Players might encounter a merchant selling powerful weapons, a distress call revealing a unique crew member, or an event offering a morally ambiguous choice. These moments create stories unique to each player\u2014the desperate jump to escape an unbeatable enemy, the lucky find that carried a run to victory, the moment all crew died to a single unlucky hit.\n\n**Permadeath and Learning:** Failure is permanent and frequent. Each death teaches players something\u2014enemy weapon patterns, the importance of certain upgrades, which events are dangerous. This creates a learning curve that rewards persistence and punishes recklessness.\n\n**Subverted Power Fantasy:** Unlike power fantasy games, FTL rarely makes players feel powerful. Even late-game ships are fragile, resources always tight, enemies always threatening. Victory feels earned through careful play and sometimes luck. The game's motto among fans becomes clear: \"Losing is fun\"\u2014not because failure is enjoyable, but because the struggle itself is engaging.\n\n**Influence on Indie Gaming:** FTL demonstrated that Kickstarter could fund ambitious indie projects, that ASCII graphics could still create compelling visuals, and that roguelike mechanics could work in real-time strategy. Its success paved the way for the modern roguelite boom and remains a touchstone for procedurally generated game design.",
+      "created_at": "2026-03-05 06:02:47"
+    },
+    {
       "title": "Fahrenheit 451",
       "year": 1953,
       "medium": "Novel",
@@ -10524,5 +10541,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 619
+  "count": 620
 }
