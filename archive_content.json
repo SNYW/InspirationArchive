@@ -6376,6 +6376,23 @@
       "created_at": "2026-03-01 16:04:22"
     },
     {
+      "title": "Stars in Shadow",
+      "year": 2017,
+      "medium": "Video Game",
+      "creator": "Ashdar Games",
+      "raw_score": 3.75,
+      "total_ratings": 814,
+      "origin": "Multinational ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": null,
+      "pitch": "Stars in Shadow is a turn-based 4X science fiction strategy game developed by Ashdar Games and published by Iceberg Interactive for Windows PC in 2017. Set in a galaxy that suffered a catastrophic conflict known as the \"Great War,\" the game places players in control of one of seven factions\u2014humans and six alien races\u2014as they explore, colonize, and build interstellar empires. The game drew significant inspiration from classic 4X titles like Master of Orion II and features a distinctive comic book art style created by artist Jim Francis. After a period in Early Access, the game left early access in January 2017 and received generally positive reviews, holding a 75 Metacritic score.",
+      "truth": "The game is set approximately 3,000 years after the \"Great War,\" a grand-scale conflict between many civilizations and alien races that ended a golden age of prosperity in the galaxy. Players choose from seven playable factions: humans and six alien races including the Phidi, Orthin, Yoral, Ashdar, and Gremak. The core gameplay involves exploring the galaxy, rediscovering and colonizing distant worlds, and building an interstellar empire through turn-based expansion.\n\nA key feature is the turn-based fleet combat system, which distinguishes Stars in Shadow from real-time contemporaries in the space 4X genre. The game received downloadable content titled \"Legacies\" in October 2017, adding an eighth playable faction called the Tinkers. The development team consisted of programmer Sven Olsen and artist Jim Francis, with Francis also known for creating the science fiction webcomic Outsider.",
+      "core": "Stars in Shadow represents a throwback to the classic era of space 4X games, occupying a niche between the resurgence of the genre sparked by titles like Endless Space and Stardock's revivals of classic franchises. The game's comic book art style stands out as its most striking visual element, giving it a distinctive look compared to the more realistic or minimalist aesthetics common in the genre.\n\nThe game's focus on turn-based combat rather than real-time strategy harkens back to Master of Orion II, which many consider the peak of the space 4X genre. This design choice was explicitly cited by developer Sven Olsen in interviews as his main inspiration. The diverse roster of playable alien races, each with unique characteristics, provides variety in gameplay approaches and strategic options.\n\nThematically, the game explores ideas of post-conflict reconstruction and galactic civilization-building, offering a more optimistic framing than many contemporary space strategy games that focus on survival or conflict. The emphasis on exploration and peaceful expansion contrasts with the militaristic tones of some competitors, though conflict remains central to gameplay.",
+      "created_at": "2026-03-05 18:56:42"
+    },
+    {
       "title": "Starship Troopers",
       "year": 1988,
       "medium": "OVA",
@@ -11187,5 +11204,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 658
+  "count": 659
 }
