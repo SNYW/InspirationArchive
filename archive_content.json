@@ -2823,6 +2823,23 @@
       "created_at": "2026-03-05 03:31:59"
     },
     {
+      "title": "Funky Koval",
+      "year": 1982,
+      "medium": "Graphic Novel",
+      "creator": "Jacek Rodek & Maciej Parowski (writers), Bogus\u0142aw Polch (artist)",
+      "raw_score": 4.35,
+      "total_ratings": 89,
+      "origin": "Poland ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Funky_Koval_1982.jpg",
+      "pitch": "Funky Koval is a Polish science fiction comic book series that follows the adventures of a former military pilot turned private space detective in the year 2080s. Created by writers Jacek Rodek and Maciej Parowski, with art by Bogus\u0142aw Polch, the series debuted in 1982 in the Polish sci-fi magazine Fantastyka and ran until 2010, collected in four volumes. The comic is set in a futuristic world where humanity has expanded into space, and Koval operates his own detective agency \"Universs,\" solving cases that range from corruption and terrorism to mysteries involving alien species.\n\nThe series gained a cult following in Poland and is considered one of the best Polish comics ever created. It helped establish the adult comics market in Poland and popularized action-adventure genres in Polish science fiction. The artwork by Bogus\u0142aw Polch is known for its meticulous detail, with backgrounds filled with references to real-world brands and careful world-building that was groundbreaking for Polish comics at the time.",
+      "truth": "The plot centers on Funky Koval, a former military pilot who becomes a space detective operating in the 2080s. Together with his friends and colleagues, he forms the private detective agency \"Universs\" and takes on various cases in the futuristic setting.\n\nThe first episodes were more experimental, following independent short story formats as the writers wanted to explore different ideas. After the initial stories, the series evolved into longer, novel-like plots with more consistent storytelling.\n\nThroughout the series, Koval investigates cases including corruption in police and government, fights cultists and terrorists, investigates missing spaceships and illegal slave camps, and uncovers mysteries surrounding the Drolls aliens\u2014a species with much more advanced technology than humans whose plans for humanity remain mysterious.\n\nThe series was published in four volumes:\n1. \"Bez oddechu\" (Breathless) - 1987, collecting stories from 1982-1983\n2. \"Sam przeciw wszystkim\" (Alone against everyone) - 1988, collecting stories from 1985-1986\n3. \"Wbrew sobie\" (Against oneself) - 1992, collecting stories from 1991-1992\n4. \"Wrogie przej\u0119cie\" (Hostile takeover) - 2011\n\nThe series has been translated into Hungarian and Czech, and there have been plans for an American film adaptation.",
+      "core": "**Polish Comics and Western Influence:** Funky Koval was groundbreaking for Polish comics as it brought the Western style of science fiction\u2014influenced by French M\u00e9tal hurlant and American Star Wars\u2014to Polish readers. The creators intentionally imported this aesthetic while adding Polish cultural elements, creating a unique blend that helped establish a market for adult comics in Poland.\n\n**Detective Fiction in Space:** The series combines space opera with detective fiction, creating a unique hybrid. The main character is described as a mixture of Stanis\u0142aw Lem's Pirx (the astronaut protagonist of Lem's stories) and Raymond Chandler's Philip Marlowe\u2014the hard-boiled detective of noir fiction. This combination of hard science fiction and detective noir creates a distinct tone.\n\n**Social Commentary:** The series contains subtle connections to 1980s Polish reality, including references to martial law, political figures, and social conditions of the period. While these references may be less accessible to modern audiences, they add layers of meaning for Polish readers who lived through that era.\n\n**Artistic Innovation:** Bogus\u0142aw Polch's artwork is renowned for its incredible detail\u2014far more than typical comic art. His panels are rich with tiny details: names of real books and magazines on shelves (including works by Philip K. Dick and Stanislaw Lem), logos of real companies like Sharp and Sony, and intricate designs for futuristic gadgets, videophones, guns, spaceships, and flying cars. This attention to detail set a new standard for Polish comics.\n\n**Cultural Significance:** Considered \"the best Polish comic ever,\" Funky Koval helped launch the comic supplement to Fantastyka and established a market for adult-oriented comics in Poland. It continues to influence contemporary Polish comics and remains a cult classic.",
+      "created_at": "2026-03-05 19:13:36"
+    },
+    {
       "title": "G.O.R.A.",
       "year": 2004,
       "medium": "Film",
@@ -11204,5 +11221,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 659
+  "count": 660
 }
