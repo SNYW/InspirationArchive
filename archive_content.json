@@ -9300,6 +9300,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The M\u00e9zga Family",
+      "year": 1969,
+      "medium": "TV Series",
+      "creator": "J\u00f3zsef Nepp, J\u00f3zsef Romh\u00e1nyi",
+      "raw_score": 4.15,
+      "total_ratings": 972,
+      "origin": "Hungary ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Time-Travel, Exploration",
+      "image_filename": "The_M\u00e9zga_Family_1969.jpg",
+      "pitch": "The M\u00e9zga Family is a beloved Hungarian animated television series created by Pannonia Film Studio, airing from 1969 to 1978 across three series totaling 39 episodes. The show follows the everyday life of the M\u00e9zga family\u2014hapless father G\u00e9za, dominant wife Paula, teenage daughter Kriszta, and precocious 12-year-old son Alad\u00e1r\u2014whose lives are disrupted when the young genius makes contact with MZ/X, his descendant from the 30th century. Through the series, MZ/X sends the family various futuristic gadgets that inevitably lead to comedic disasters, while later series see Alad\u00e1r traveling to alien planets in an inflatable spaceship. The show reached cult status across the Eastern Bloc and remains a nostalgic favorite in Hungary and beyond.",
+      "truth": "The first series, \"Message from the Future\" (1969), establishes the central premise when young Alad\u00e1r M\u00e9zga picks up a signal from MZ/X, a descendant living in the 30th century. Through their pet dog Bl\u00f6ki (who can inexplicably understand human speech), MZ/X begins sending the family increasingly advanced technological gadgets from the future\u2014a treatment that makes their fruit garden grow to enormous sizes, a house-cleaning robot that destroys furniture due to language barriers, and various other inventions that backfire spectacularly. Each episode typically ends with matriarch Paula's resigned catchphrase lamenting her marriage to G\u00e9za instead of her former suitor Pisti Hufn\u00e1gel.\n\nThe second series, \"The Adventures of Alad\u00e1r M\u00e9zga\" (1972), shifts focus to Alad\u00e1r's nightly adventures aboard the inflatable spaceship Gulliverkli, traveling to different alien planets. His cynical neighbor Dr. M\u00e1ris and pet dog Bl\u00f6ki (now able to speak after Alad\u00e1r teaches him) accompany him on these journeys. The episodes satirize various human vices and societal issues, with two episodes actually being banned in communist Czechoslovakia for being too critical.\n\nThe third series, \"The M\u00e9zga Family on Holiday\" (1978), departs from science fiction to become a travel adventure. The family, joined by neighbor Dr. M\u00e1ris, travels to Australia after meeting the mysterious Pisti Hufn\u00e1gel\u2014only to discover he's a swindler who leaves them stranded. Their attempts to return home lead them through increasingly absurd situations at the South Pole and beyond before discovering their apartment has been ransacked.\n\nAn attempt to revive the series in 2005 with \"The M\u00e9zga Family and the Computer\" was canceled due to funding issues, with only two episodes completed.",
+      "core": "The M\u00e9zga Family represents a unique blend of family sitcom and science fiction that emerged from Hungary during the late Communist era. The show's genius lies in its satirical approach to technology and progress\u2014future gadgets don't solve problems but create new ones, reflecting a skeptical view of technological utopianism. The family itself embodies relatable domestic dynamics: G\u00e9za is the well-meaning but incompetent head of household, Paula is the practical force holding everything together, and Alad\u00e1r represents youthful curiosity that gets the whole family into trouble.\n\nThe series stands as a testament to Eastern Bloc animation's ability to create sophisticated, multi-layered entertainment that worked on multiple levels. While accessible as simple comedy for children, the show embedded sharp social commentary that resonated with adult viewers\u2014hence the censorship issues in Czechoslovakia. The character of Dr. M\u00e1ris, the reluctant neighbor constantly pulled into the family's schemes, serves as an everyman observer whose cynicism provides ironic commentary.\n\nThe show's international success (broadcast in Czechoslovakia, Bulgaria, Romania, Italy, the Netherlands, both German states, and later Brazil) demonstrates its universal appeal. The M\u00e9zga Family remains a cult classic, regularly rebroadcast on Hungarian television and remembered fondly by generations who grew up with it across Europe.",
+      "created_at": "2026-03-05 23:57:43"
+    },
+    {
       "title": "The New Barbarians",
       "year": 1983,
       "medium": "Film",
@@ -11476,5 +11493,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 675
+  "count": 676
 }
