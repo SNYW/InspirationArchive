@@ -834,6 +834,23 @@
       "created_at": "2026-03-05 01:47:27"
     },
     {
+      "title": "Another World",
+      "year": 1991,
+      "medium": "Video Game",
+      "creator": "\u00c9ric Chahi / Delphine Software",
+      "raw_score": 4.5,
+      "total_ratings": 85,
+      "origin": "France ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Isolation, Exploration",
+      "image_filename": "Another_World_1991.jpg",
+      "pitch": "Another World is a cinematic platformer action-adventure game designed by \u00c9ric Chahi and published by Delphine Software in November 1991. Known in North America as Out of This World, the game tells the story of Lester Knight Chaykin, a young physicist who finds himself transported to a dangerous alien world after a particle accelerator experiment goes wrong during a thunderstorm. Alone and unarmed in a hostile environment, Lester must evade dangerous indigenous creatures and capture by a race of humanoid aliens, eventually escaping along with an alien captive known as \"Buddy.\"\n\nThe game is renowned for its innovative vector-based graphics, cinematic approach, and minimal UI\u2014there are no dialogue boxes, no HUD except during swimming sequences, and characters speak in an unintelligible alien language. This creates an atmosphere of isolation and mystery as players must interpret the world through visual storytelling alone. The gameplay combines platforming, puzzles, and combat using a laser pistol with three distinct firing modes.",
+      "truth": "The game opens in Lester's high-tech underground laboratory, where he works on a particle accelerator attempting to recreate the conditions of the universe's birth. A lightning strike interferes with the experiment, causing an unexpected particle fusion that opens a portal in time and space, teleporting Lester to a barren alien planet.\n\nAfter evading dangerous wildlife, Lester is captured by a race of humanoid aliens and taken to a subterranean prison camp. He eventually escapes along with \"Buddy,\" a fellow prisoner, and the two must work together to traverse dangerous environments, solve puzzles, and battle alien soldiers while making their way toward freedom.\n\nThe narrative unfolds through cinematic cutscenes and environmental storytelling, with no spoken or written dialogue. Lester acquires a laser pistol from a fallen foe, which has three capabilities: standard fire, force field creation, and a powerful charged shot. The game's signature feature is that both Lester and Buddy cannot sustain any damage\u2014contact with enemies or hazards results in immediate death, though numerous checkpoints allow players to retry from near points.\n\nThe game culminates as Lester and Buddy reach a tower structure, where Lester is severely wounded but manages to defeat his attacker. They escape on a dragon-like creature, flying off together toward the horizon.",
+      "core": "Another World is considered one of the most influential video games ever made, inspiring titles such as Ico, Metal Gear Solid, and Silent Hill. The game's innovative cinematic techniques\u2014both in real-time gameplay and cutscenes\u2014set new standards for narrative expression in interactive media.\n\nThe game's creation was unusual\u2014Chahi developed it almost entirely alone over two years, programming his own engine and creating all art and animations in vector form to reduce memory usage. He employed rotoscoping to plan character movements, drawing inspiration from science fiction works like Dune, artists such as Michael Whelan and Frank Frazetta, and manga including Akira.\n\nThematically, Another World explores isolation, survival, and the bonds formed between unlikely companions. The wordless narrative creates universal accessibility while emphasizing visual storytelling. The alien world, while never fully explained, represents the unknown and the terror and wonder of being completely separated from one's world.\n\nThe game has been widely ported across numerous platforms over the decades, with Chahi overseeing anniversary releases. Its legacy endures as a landmark in atmospheric, cinematic game design and as a testament to the power of restraint in storytelling\u2014proving that what is left unsaid can be as powerful as what is shown.",
+      "created_at": "2026-03-05 05:06:47"
+    },
+    {
       "title": "Appleseed",
       "year": 1988,
       "medium": "OVA",
@@ -6461,6 +6478,23 @@
       "created_at": "2026-03-04 22:19:10"
     },
     {
+      "title": "The Astronauts",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "Christopher Muir (director), Don Houghton (writer)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Australia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration",
+      "image_filename": null,
+      "pitch": "The Astronauts is a landmark Australian television film that aired live on ABC in 1960, making it potentially the first Australian science fiction drama produced for television. Set against the backdrop of the space race era, the story follows four men\u2014two Americans, an Englishman, and an Australian\u2014undergoing rigorous training in Australia to become astronauts. The drama centers on the intense competition for the single available spot on what appears to be Australia's involvement in the first manned space launch. The tension builds around who will be selected, as the medical officers assess each candidate's mental and physical fitness.",
+      "truth": "The story takes place in an Australian training facility where four candidates are preparing for humanity's first manned space launch. Each man brings different qualities to the program: Dave Armstrong represents Australia, Len Cassidy is one American, Jeff Burrows is another American, and Flight Lieutenant Peter Corbitt is the English candidate. The men undergo intense medical and psychological evaluations, with the medical officers initially believing all four candidates to be mentally and physically perfect for the mission.\n\nHowever, during the selection process, a critical discovery emerges\u2014one of the candidates harbors a physical defect that could compromise the mission. The drama explores the interpersonal dynamics between the candidates as they compete for the coveted position while grappling with the knowledge that only one of them will be chosen. Meanwhile, the candidates' wives\u2014Jill Corbitt, Del Armstrong, and others\u2014await the outcome, their futures intertwined with the selection.\n\nThe play was written by Don Houghton in late 1959, prompted by the announcement of NASA's Mercury Seven program. Houghton aimed to explore \"what sort of man is an astronaut?\" rather than simply create science fiction. The live broadcast aired in Melbourne on May 18, 1960, with a kinescope recording shown in Sydney on July 27, 1960. Notably, during the original broadcast, a technical error caused a conversation between ABC employees about Princess Margaret's marriage to be accidentally aired.",
+      "core": "**The Space Race and Australian Identity:** The Astronauts reflects the era when the space race captured global imagination. By setting the training in Australia, the film positions Australia as part of the international scientific community during a pivotal historical moment. This was remarkable for Australian television in 1960, when local drama production was rare.\n\n**Competition and Sacrifice:** At its heart, the drama explores themes of competition, camaraderie, and sacrifice. The candidates' friendships are tested by the knowledge that only one will achieve the historic mission. The play examines what drives individuals to pursue such dangerous endeavors and what qualities define a suitable astronaut.\n\n**Pioneering Australian Television:** FilmInk magazine has noted that The Astronauts \"may be the only Australian drama about the space race\" and \"the first locally written Australian sci-fi drama for the small screen.\" The production was sold to both the Canadian Broadcasting Corporation and US television, representing an early example of Australian content achieving international interest.",
+      "created_at": "2026-03-05 05:17:16"
+    },
+    {
       "title": "The Ballad of Lost C'Mell",
       "year": 1962,
       "medium": "Novella",
@@ -10456,5 +10490,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 615
+  "count": 617
 }
