@@ -7787,6 +7787,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Glass Bees",
+      "year": 1957,
+      "medium": "Novel",
+      "creator": "Ernst J\u00fcnger",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Germany ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience, Cybernetics, Transhumanism",
+      "image_filename": "The_Glass_Bees_1957.jpg",
+      "pitch": "The Glass Bees is a philosophical science fiction novel by German author Ernst J\u00fcnger, published in 1957. The story follows Captain Richard, an unemployed ex-cavalryman struggling to find his place in a rapidly modernizing post-war world. Accepting a job interview at Zapparoni Works\u2014a company specializing in advanced robotics, including the titular glass bees\u2014Richard finds himself drawn into a morally ambiguous position involving industrial espionage and the darker implications of technological progress. Through Richard's first-person narrative, J\u00fcnger explores themes of technology, war, historical change, and the evolving relationship between humans and machines.",
+      "truth": "The novel unfolds over two days in Richard's life as he navigates a job interview at Zapparoni Works, a cutting-edge technology corporation that creates sophisticated robots. The glass bees\u2014miniature robotic insects\u2014are among the company's most advanced creations, representing the pinnacle of miniaturization and artificial life.\n\nDuring his interview process, Richard encounters the enigmatic industrialist Giacomo Zapparoni and learns of the company's unusual practices: when engineers desert the firm, Zapparoni requires someone to \"take care of\" them to protect company secrets\u2014essentially eliminating former employees who might reveal proprietary technology.\n\nRichard's narrative blends his present-day job interview with autobiographical flashbacks from his childhood and his experiences as a soldier. Through these reflections, J\u00fcnger examines the transformation of society from a world of cavalry and individual heroism to one dominated by technology and corporate power. The novel probes questions of identity, purpose, and morality in an age when human beings face obsolescence alongside the machines they create.\n\nThe novel's prescient speculations on technology\u2014including automated systems, surveillance, and the integration of machines into daily life\u2014have earned it recognition as a pioneering work of technological prophecy, predating many themes that would later become central to science fiction.",
+      "core": "**Technology and Alienation:** J\u00fcnger explores how technological advancement creates new forms of alienation. Richard represents a man out of time\u2014trained for a world of cavalry and direct combat, now obsolete in an era of robots and automation. His struggle reflects broader questions about human purpose in an age of increasing mechanization.\n\n**The Corporate State:** Zapparoni Works represents a new form of power that operates through technology rather than traditional political structures. The company has created a shadow empire where corporate interests supersede national boundaries and individual morality. This vision anticipates themes later explored in cyberpunk and transhumanist fiction.\n\n**Memory and Historical Change:** Through Richard's flashbacks, J\u00fcnger examines how historical experience\u2014the trauma of war, the rupture of technological revolution\u2014shapes individual identity. The novel suggests that technological progress does not simply advance but fundamentally transforms what it means to be human.\n\n**Ethical Ambiguity:** Rather than offering clear moral judgments, J\u00fcnger presents a world where ethical boundaries have become blurred. Richard must decide whether to participate in potentially immoral corporate activities, representing the compromises modern individuals face in technological societies.\n\nThe Glass Bees remains significant for its early and nuanced treatment of themes that would become central to science fiction: artificial intelligence, corporate power, technological unemployment, and the philosophical questions surrounding consciousness and sentience in non-human entities.",
+      "created_at": "2026-03-05 13:57:01"
+    },
+    {
       "title": "The Golden Helix",
       "year": 1949,
       "medium": "Novella",
@@ -10898,5 +10915,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 641
+  "count": 642
 }
