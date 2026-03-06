@@ -11714,6 +11714,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Wielka, wi\u0119ksza i najwi\u0119ksza",
+      "year": 1960,
+      "medium": "Novel",
+      "creator": "Jerzy Broszkiewicz",
+      "raw_score": 3.6,
+      "total_ratings": 153,
+      "origin": "Poland ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Sentience",
+      "image_filename": null,
+      "pitch": "Wielka, wi\u0119ksza i najwi\u0119ksza (Great, Greater, and Greatest) is a Polish science fiction young adult novel by Jerzy Broszkiewicz, published in 1960 by Nasza Ksi\u0119garnia. The story follows two exceptionally intelligent teenagers\u2014Ika and Groszek\u2014who embark on three increasingly ambitious adventures guided by a mysterious talking Opel Kapit\u00e4n car. Their first adventure involves rescuing a kidnapped child, the second sees them locating survivors of a plane crash in the Sahara, and the third takes them across the galaxy to defend humanity before alien beings from the Vega star system.\n\nOriginally published in the \"Klub Siedmiu Przyg\u00f3d\" (Club of Seven Adventures) series, the novel became required reading in Polish schools from 1970 and was included on the Special Hans Christian Andersen Honor List in 1979. The book was adapted into a film in 1963, directed by Anna Soko\u0142owska, and has been translated into multiple languages including Czech, Russian, German, and Hungarian.",
+      "truth": "The novel is divided into three distinct parts, each representing an increasingly grand adventure.\n\nIn the first adventure (the \"Great\" adventure), Ika and Groszek hear a radio announcement about the disappearance of a young boy named Jacek Kilar. To their surprise, the machines around them\u2014previously passive servants of humans\u2014activate and ask for their help. Their main ally is an old Opel Kapit\u00e4n car rotting in a yard, which proves to be an extraordinary talking, self-driving vehicle. The children discover that the boy has been kidnapped by dangerous criminals, and with the help of their mechanical friends, they rescue the child and help capture the kidnappers.\n\nThe second adventure (the \"Greater\" adventure) begins when the Opel Kapit\u00e4n takes the children to an airport, where they board a plane heading to Africa. There they encounter another talking machine\u2014an old Yakovlev airplane. The pair must locate the missing crew of a Douglas 125 aircraft that crashed somewhere in the Sahara Desert. With intelligent machines assisting them, they successfully find the survivors and help orchestrate a rescue.\n\nThe third and final adventure (the \"Greatest\" adventure) proves to be the most challenging. Ika and Groszek are unexpectedly appointed as representatives of all humanity and taken by an interstellar ship to the planet Della in the Vega star system. The Vegan aliens have observed humanity's nuclear weapons testing and are disturbed by what they perceive as humanity's violent tendencies. The two teenagers must prove that not all Earthlings are warlike, that humans are not a threat to the cosmic community, and that humanity deserves a chance to join the intergalactic civilization.",
+      "core": "**Youth Agency and Responsibility:** The novel places the fate of humanity on the shoulders of children, reversing the typical adult-child dynamic. The adults in the story are depicted as fearful, conflicted, or corrupt, while the teenagers demonstrate ingenuity, courage, and moral clarity. This reflects Broszkiewicz's theme that young people bear responsibility for the world's future.\n\n**Technology and Sentience:** The talking machines\u2014cars, planes, and other devices\u2014represent a world where technology has developed consciousness. This \"cybernetic zoo\" as critics have called it, replaces traditional fairy tale helpers (magical fairies, flying carpets) with intelligent machines, reflecting 1960s optimism about technology while exploring questions of machine consciousness.\n\n**First Contact and Judgment:** The third adventure directly addresses themes of first contact and humanity's standing among cosmic civilizations. The Vegans' hesitation to admit Earth based on observed nuclear tests serves as a critique of Cold War nuclear proliferation while exploring how young people might bridge the gap between humanity's current state and its potential.\n\n**Educational Values:** The novel was explicitly designed for young readers and promotes values of kindness, courage, selflessness, and responsibility. However, it does so without heavy-handedness, instead embedding these lessons within exciting adventure narratives.\n\nThe novel is notable for being one of the first significant Polish science fiction works aimed at children and young adults, helping establish the genre in Polish literature. Its combination of realism, fantasy elements, and science fiction themes created a new model for Polish youth literature that influenced subsequent works in the field.",
+      "created_at": "2026-03-06 08:10:50"
+    },
+    {
       "title": "Wing Commander",
       "year": 1990,
       "medium": "Video Game",
@@ -11986,5 +12003,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 705
+  "count": 706
 }
