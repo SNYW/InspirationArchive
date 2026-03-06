@@ -5696,6 +5696,23 @@
       "created_at": "2026-03-02 02:47:28"
     },
     {
+      "title": "Poklad",
+      "year": 1984,
+      "medium": "Video Game",
+      "creator": "Franti\u0161ek Fuka",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czechoslovakia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration",
+      "image_filename": null,
+      "pitch": "Poklad (meaning \"Treasure\") is a 1984 Czech text adventure game developed by Franti\u0161ek Fuka for the ZX Spectrum, making it one of the oldest surviving games created in Czechoslovakia. The player finds themselves in a magical country and must task themselves with finding five treasures scattered across a 4x5 room matrix spanning three levels. The game was published by Proxima Software as part of their \"Fuxoft uv\u00e1d\u00ed\" series, representing an important milestone in Eastern European gaming history during the early era of personal computing.",
+      "truth": "The player begins their journey in a mysterious magical kingdom, navigating through a complex network of rooms across three distinct levels. The objective is to locate and collect five treasures hidden throughout this textual world. The game employs classic text adventure mechanics, where players type commands to interact with the environment, examine objects, and solve puzzles to progress.\n\nThe development story behind Poklad is particularly noteworthy. Franti\u0161ek Fuka, then just 16 years old, programmed the game on his friend's ZX Spectrum because he didn't own a computer himself. Interestingly, Fuka was inspired to create the game after playing a different game also called \"Poklad\" on a ZX81 computer. He programmed the entire game from memory, demonstrating remarkable dedication and technical skill for his age. The game was created without any expectation of financial gain, representing a pure passion project from Czechoslovakia's early gaming scene.",
+      "core": "Poklad represents a fascinating artifact from the dawn of Czech and Slovak video game development. As one of the oldest surviving games from Czechoslovakia, it provides insight into the early text adventure genre's spread beyond the Western world and into Eastern Europe during the 1980s.\n\nThe game's existence highlights the vibrant amateur game development scene in communist-era Czechoslovakia, where young enthusiasts workaround limited access to computing technology. Fuka would go on to become a significant figure in Czech game development, with this early effort serving as the foundation for his later career. The text adventure genre became hugely popular throughout the second half of the 1980s in Czechoslovakia, with over 500 games created\u2014partly because the simple development requirements (one developer could create a game in 2-3 weeks) made it accessible to hobbyists.\n\nThe game's release during the era of home computer proliferation in Czechoslovakia demonstrates how the text adventure format transcended borders, allowing creators in Eastern Europe to participate in the global gaming community despite limited commercial infrastructure.",
+      "created_at": "2026-03-06 12:13:10"
+    },
+    {
       "title": "Policenauts",
       "year": 1994,
       "medium": "Video Game",
@@ -12224,5 +12241,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 719
+  "count": 720
 }
