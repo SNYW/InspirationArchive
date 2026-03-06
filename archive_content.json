@@ -5373,6 +5373,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Nukie",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Sias Odendaal, Michael Pakleppa",
+      "raw_score": 0.9,
+      "total_ratings": 1600,
+      "origin": "South-Africa ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens",
+      "image_filename": "Nukie_1987.jpg",
+      "pitch": "Nukie is a 1987 South African science fiction film that tells the story of two alien brothers, Nukie and Miko, who crash land on Earth after their spacecraft is struck by lightning. Separated during the crash, Nukie finds himself in the African savanna while Miko is captured by the US government and held at a top-secret facility called the Space Foundation. Using telekinetic powers, Miko reaches out to his brother for help, setting Nukie on a journey across Africa to rescue him. Along the way, Nukie befriends two local children, Tiko and Toki, who help him navigate the human world while evading government agents and a hostile corporal who sees the alien as a threat. The film is notable for being one of the most infamous E.T. knockoffs ever made, often cited among the worst films ever produced.",
+      "truth": "The film opens with Nukie and Miko's spacecraft flying through a storm. Lightning strikes the vessel, causing both aliens to eject in separate escape pods. Nukie lands in the African wilderness near a village, while Miko's pod is recovered by the Space Foundation in the United States. Miko uses telepathy to contact Nukie, revealing he's being held captive and experimented on by humans.\n\nIn Africa, Nukie emerges from his pod and explores his surroundings. He encounters two children, Tiko and Toki, who can somehow understand his alien language. Nukie asks them to help him find \"America,\" but the children are frightened and run away. Meanwhile, Dr. Eric Harvey from the Space Foundation arrives in Kenya to investigate the crash site.\n\nNukie continues his journey, meeting Charlie, a talking chimpanzee who provides comic relief. The children eventually return and agree to help Nukie, though their tribe's chief has forbidden contact with the alien. When Tiko is bitten by a cobra and nearly dies, Nukie uses his alien powers to save the boy's life, proving his benevolent intentions.\n\nDr. Harvey tracks Nukie and attempts to capture him, but Nukie escapes with the children's help. Meanwhile, Miko befriends the facility's supercomputer, E.D.D.I., which helps him plan an escape. The children are eventually captured by the hostile Corporal, but Nukie rescues them and the group flees across Africa.\n\nAt the climax, Nukie is severely injured while trying to reach America. Exhausted and near death, he wishes for his brother and friends to be with him. Miraculously, Miko escapes from the facility with Dr. Harvey's help and arrives in Africa. The two alien brothers reunite, along with the children and Sister Anne, a kind nun who has supported them throughout. Nukie, Miko, and Charlie then transform into balls of light and fly away into the sky, leaving Earth behind.",
+      "core": "Nukie is significant primarily as a case study in filmmaking hubris and copyright imitation. Produced in South Africa during the apartheid era, the film was explicitly designed to capitalize on the success of Steven Spielberg's E.T. the Extra-Terrestrial (1982). The film's producers, including Michael Pakleppa, reportedly optioned the film based on a poster that looked like E.T. in an African setting\u2014without even reading the script.\n\nThe film has been widely criticized for its poor production values, including crudely constructed alien costumes that could only be worn for three to four minutes at a time due to breathing difficulties. The acting is wooden, the special effects are laughable, and the script contains numerous logical inconsistencies. Critics have noted troubling racial dynamics in the portrayal of African characters and a general lack of coherent storytelling.\n\nDespite\u2014or perhaps because of\u2014its numerous flaws, Nukie has achieved a kind of cult status among fans of bad movies. It has been listed among the worst films ever made by publications like Total Film and has become a collector's item, with sealed VHS copies selling for extraordinary prices. In 2022, a sealed copy auctioned for over $80,000, making it the most expensive VHS tape ever sold.\n\nThe film can also be read as a product of its time and place\u20141980s South Africa was culturally isolated due to international sanctions, and the film industry operated in a bubble. Nukie represents a particular kind of earnest, if misguided, ambition: wanting to compete on the global stage but lacking the resources, expertise, and creative freedom to do so successfully. Its failures are as instructive as its intentions.",
+      "created_at": "2026-03-06 17:42:35"
+    },
+    {
       "title": "N\u00e1v\u0161t\u011bvn\u00edci",
       "year": 1983,
       "medium": "TV Series",
@@ -12581,5 +12598,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 740
+  "count": 741
 }
