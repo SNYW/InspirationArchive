@@ -4472,6 +4472,23 @@
       "created_at": "2026-03-02 04:02:39"
     },
     {
+      "title": "Little Sun (\u5c0f\u592a\u9633 / Xiao Tai Yang)",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Wang Minsheng",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "China , \ud83d\udc76 Children , \ud83d\udd2c Science Education , \u2600\ufe0f Utopian ,",
+      "mood": "",
+      "sub_genres": "Historical",
+      "topics": "",
+      "image_filename": null,
+      "pitch": "Little Sun (1963) is China's first children's science fiction film, produced by the Beijing Science Education Film Studio. The film follows a group of science-loving children who, with the help of scientists, develop a satellite to launch a small artificial sun into the sky, hoping to end a harsh winter and boost food production. The story represents a utopian vision of technological progress and scientific advancement in early 1960s China.",
+      "truth": "Set in the early 1960s during China's \"Great Leap Forward\" period, the film tells the story of a group of enthusiastic young students passionate about science. When a severe winter threatens crops and food production, the children collaborate with adult scientists to design and build a miniature satellite carrying an artificial sun. Their ambitious project aims to provide additional sunlight and warmth to crops, demonstrating the power of science to overcome natural challenges.\n\nThe film showcases the optimistic spirit of technological progress that characterized Chinese scientific education filmmaking of the period. Through the children's journey, viewers see experiments, calculations, and the joy of discovery as the young protagonists contribute to solving a real-world problem through innovation and teamwork.",
+      "core": "**Scientific Optimism:** The film represents the utopian potential of science and technology for social advancement. It portrays science as accessible to young people and presents a vision of humanity harnessing cosmic energy for beneficial purposes.\n\n**Children as Agents of Change:** Unlike many films of the era that focused on adult scientists or government programs, Little Sun places children at the center of scientific achievement, suggesting that the younger generation could contribute meaningfully to national development.\n\n**Educational Purpose:** As a science education film produced by the Beijing Science Education Film Studio, Little Sun aimed to inspire interest in science among young viewers while teaching basic concepts about solar energy and satellite technology.\n\n**Historical Context:** The film was created during a complex period in Chinese history\u2014between the Great Leap Forward and the Cultural Revolution. It reflects the optimism and priorities of early 1960s China while also foreshadowing the political turbulence to come.\n\n**Cultural Significance:** During the Cultural Revolution (1966-1976), the film was condemned as \"poisonous\" and counter-revolutionary, and director Wang Minsheng was persecuted. The film was only rehabilitated after the revolution ended, making it a fascinating artifact of shifting political winds in Chinese cultural history.\n\n**First Chinese SF:** Little Sun is recognized as the first science fiction film made in New China (post-1949), making it a significant milestone in Chinese cinema history. It represents a unique blend of science education, children's film, and science fiction genres that was rare in Chinese cinema of the period.",
+      "created_at": "2026-03-06 16:13:52"
+    },
+    {
       "title": "Logan's Run",
       "year": 1976,
       "medium": "Film",
@@ -12479,5 +12496,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 734
+  "count": 735
 }
