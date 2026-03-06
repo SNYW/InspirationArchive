@@ -5339,6 +5339,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Once in a New Moon",
+      "year": 1935,
+      "medium": "Film",
+      "creator": "Anthony Kimmins (director) | Owen Rutter (novel \"Lucky Star\")",
+      "raw_score": 2.75,
+      "total_ratings": 196,
+      "origin": "United Kingdom , \ud83d\ude80 Space , \ud83c\udfdd\ufe0f Isolation , \ud83c\udfdb\ufe0f Political",
+      "mood": "",
+      "sub_genres": "",
+      "topics": "",
+      "image_filename": "Once_in_a_New_Moon_1935.jpg",
+      "pitch": "Once in a New Moon is a rare British science fiction film from 1935, a quota quickie made at Shepperton Studios that offers a delightful premise: when a dead star passes Earth, its magnetic pull dislodges the fictional English seaside town of Shrimpton-on-the-Sea, carrying it away to become its own miniature planet orbiting Earth. This charming pocket world\u2014where the sun rises and sets every few hours and Earth hangs in the sky as a \"new moon\"\u2014becomes a isolated laboratory for examining human nature under extraordinary circumstances.",
+      "truth": "The film follows the inhabitants of Shrimpton-on-the-Sea as they grapple with their unprecedented situation. The town, now renamed \"Shrimpton-in-Space,\" becomes an island in a tiny world of water that can be circumnavigated in a single day. As panic subsides, the villagers attempt to form a new government, but conflicts quickly arise between the local aristocracy and the common folk. The rigid class structures of English society are suddenly thrown into chaos as the established order must be reimagined\u2014or fought for\u2014on this strange new world. The film uses this fantastical premise to explore themes of social hierarchy, governance, and human adaptability when the familiar world is upended.",
+      "core": "Directed by Anthony Kimmins and based on Owen Rutter's 1929 novel Lucky Star, Once in a New Moon represents an intriguing early example of British science fiction cinema. The film belongs to a small group of 1930s British sci-fi films that attempted speculative fiction, predating the more famous American films of the decade. While certainly a low-budget quota quickie, the film offered an unusually thoughtful premise for its era\u2014one that asks what happens to social structures when the boundaries of community are radically altered.\n\nContemporary reviews were mixed but not dismissive. Kine Weekly praised the acting and presentation, noting the film's \"improbable theme\" was \"very well argued,\" while acknowledging it as primarily a program filler with appeal to audiences seeking novelty. Picture Show called it \"entertainin",
+      "created_at": "2026-03-06 12:26:41"
+    },
+    {
       "title": "Open Your Eyes",
       "year": 1997,
       "medium": "Film",
@@ -12241,5 +12258,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 720
+  "count": 721
 }
