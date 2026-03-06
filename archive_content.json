@@ -1276,6 +1276,23 @@
       "created_at": "2026-03-03 22:33:18"
     },
     {
+      "title": "Badi",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Zafer Par",
+      "raw_score": 1.55,
+      "total_ratings": 437,
+      "origin": "Turkey ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens",
+      "image_filename": "Badi_1983.jpg",
+      "pitch": "Badi is a Turkish sci-fi mockbuster from the Ye\u015fil\u00e7am era, serving as a wildly unconventional remake of Steven Spielberg's E.T. the Extra-Terrestrial. When an alien crash-lands near a young boy's home, what should be a heartwarming tale of interspecies friendship instead becomes a surreal, nightmarish journey through Turkish working-class life. The film follows young B\u00fclent (Ali), who discovers the strange alien creature he names Badi and helps him find components to repair his spaceship and return home. Along the way, Badi must evade government authorities and bond with thelocal children in this cult classic of Turkish cinema.",
+      "truth": "The film opens with an alien spacecraft crash-landing near an apartment building in a blue-collar Turkish neighborhood. Young B\u00fclent discovers the diminutive, eerie alien\u2014which looks more like a unsettling mannequin than an adorable extraterrestrial\u2014and names him \"Badi.\" \n\nB\u00fclent and his friends attempt to help Badi gather the necessary parts to fix his spaceship. Badi's quest to return home becomes increasingly complicated as government officials begin searching for the alien. The film takes bizarre turns as Badi explores human customs, including a disturbingly memorable scene where he flips through adult magazines. \n\nThe children face off against police who attempt to corner the alien, leading to a child riot complete with smoke bombs. Meanwhile, Badi's interactions with the local community range from comedic to deeply unsettling. The film reaches its climax at a carnival where Badi says goodbye to his young friends, using what appears to be a hairdryer to simulate the effect of spaceship departure.\n\nThe film is notable for its bleak tone and the genuinely disturbing creature design\u2014Badi looks more like a frightening child corpse or a cursed doll than the cuddly E.T. The Turkish remake takes its source material's basic premise but transforms it into something entirely its own: a surreal, often uncomfortable exploration of childhood, poverty, and alienation.",
+      "core": "Badi represents a fascinating artifact of Turkish cinema's relationship with Western pop culture during the Ye\u015fil\u00e7am era. Rather than simply copying E.T., the filmmakers created something uniquely Turkish, embedding the alien narrative within authentic depictions of working-class Turkish life in the early 1980s.\n\nThe film can be read as commentary on Turkish society's relationship with the West\u2014here is an alien (representing the Other, the foreign, the unknown) who must navigate Turkish culture and society while trying to return home. The film doesn't idealize either the alien or human society; instead, it presents both with equal parts bemusement and critique.\n\nUnlike the heartwarming original, Badi embraces a darker, more surreal sensibility. The alien creature is genuinely unsettling, the children are undisciplined and sometimes cruel, and the authorities are incompetent at best. This isn't nostalgic childhood adventure but a weird, often uncomfortable film that reflects Turkish society's own self-image during a period of rapid modernization.\n\nThe mockbuster phenomenon in Turkish cinema reflects broader themes of cultural adaptation and resistance\u2014taking foreign cultural products and making them their own, filtering them through local sensibilities, budgets, and worldviews. Badi stands as an example of how cinema can transform borrowed narratives into something unexpectedly meaningful, even when the intention was simply to capitalize on a popular trend.\n\nAs a piece of cult cinema, Badi has gained notoriety for exactly those elements that make it uncomfortable viewing: its nightmare imagery, its surreal dream sequences, and its willingness to subvert the heartwarming formula of its source material. It remains a unique entry in the annals of international sci-fi cinema.",
+      "created_at": "2026-03-06 19:58:23"
+    },
+    {
       "title": "Barbarella",
       "year": 1968,
       "medium": "Film",
@@ -12717,5 +12734,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 748
+  "count": 749
 }
