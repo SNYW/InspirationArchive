@@ -324,6 +324,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "A Second World",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Oscar Hudson, Ruben Woodin Dechamps",
+      "raw_score": 4.2,
+      "total_ratings": 17,
+      "origin": "Slovenia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "A_Second_World_2014.jpg",
+      "pitch": "A Second World is a surreal short film set in the post-Yugoslav landscape, where an old Serbian man living among the ruins of a fallen nation makes contact with Communist aliens. The film explores the collapse of Yugoslavia through the lens of science fiction, using abandoned futuristic Yugoslavian war monuments as haunting backdrops for this strange encounter between human and extraterrestrial Communist visitors.",
+      "truth": "The film follows Ljuba, an elderly Serbian man who exists in the liminal space of a nation that no longer exists. He wanders through the overgrown concrete monuments of Yugoslavia's ambitious socialist modern era\u2014massive brutalist structures built to commemorate partisan victories and envision a utopian future. \n\nOne day, aliens arrive\u2014not as conquerors but as visitors from a Communist planet who share the ideological heritage of the collapsed Yugoslav state. They communicate with Ljuba, creating a poignant meeting between two worlds that both represent failed utopian dreams. The aliens are themselves remnants of a communist civilization, and they see in Yugoslavia's collapse a reflection of their own civilization's fate.\n\nThe film explores what remains when ideology and nation dissolve, leaving only monuments to ambitions that never materialized. Ljuba becomes a guide for these alien visitors through the ruins of human utopian attempts, while also confronting his own sense of displacement and loss.",
+      "core": "**Utopia and Its Discontents:** The film directly engages with the question of utopian projects\u2014both human and alien. Yugoslavia's experiment in self-management socialism and the alien Communist civilization both represent attempts to build better societies that ultimately failed or transformed beyond recognition.\n\n**Memory and Monument:** The abandoned Yugoslav war monuments\u2014Spomeniks\u2014serve as the film's primary locations. These strange, futuristic concrete sculptures scattered across the Balkan landscape memorialize partisan struggles but now stand forgotten. The film treats them as alien artifacts, blurring the line between human and extraterrestrial utopian visions.\n\n**Alienation and Belonging:** Ljuba represents the ultimate outsider\u2014both displaced from his nation and now serving as an ambassador to beings even more alien than himself. The film explores how identity persists when all the normal markers (nation, ideology, collective purpose) have dissolved.\n\n**Post-Socialism and Science Fiction:** By framing Yugoslavia's collapse through science fiction, the film offers a unique perspective on Eastern European history. The aliens function as a mirror, allowing the film to examine human utopian failures with defamiliarizing distance.\n\nThis short film stands as a meditation on the fragility of human projects for transcendence\u2014whether political, national, or civilizational\u2014and the strange monuments we leave behind when those projects fail.",
+      "created_at": "2026-03-06 18:01:06"
+    },
+    {
       "title": "A Trip to the Moon",
       "year": 1902,
       "medium": "Film",
@@ -12598,5 +12615,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 741
+  "count": 742
 }
