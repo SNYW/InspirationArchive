@@ -5152,6 +5152,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Nieznana Planeta (Unknown Planet)",
+      "year": 1962,
+      "medium": "Animated Short",
+      "creator": "Stefan Szwakopf",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Poland ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Utopia ,",
+      "topics": "Exploration",
+      "image_filename": null,
+      "pitch": "Nieznana Planeta (Unknown Planet) is a charming 1962 Polish animated short and the final episode in the Jacek \u015apioszek series produced by Warsaw's Studio of Film Miniatures. Directed by Stefan Szwakopf, this wordless short follows young Jacek and his faithful Scottie dog as they embark on an intergalactic adventure through space. The understated animation style renders the vast cosmos approachable for a child audience, with stars strewn like confetti over the vacuum of space, viewed through the glass observation dome of Jacek's minimalist spacecraft. The episode's gentle message about respecting alien life and treading carefully on unknown worlds provides a wholesome conclusion to the Jacek \u015apioszek series.",
+      "truth": "The story begins with Jacek \u015apioszek, a young boy who each night is transported to fantastical worlds through his dreams. In this final episode, Jacek and his loyal Scottie dog board a simple spacecraft and journey to an eponymous \"unknown planet\" far from Earth.\n\nUpon landing, Jacek discovers a wondrous world populated with peculiar but welcoming alien fauna: daisies with humanlike faces, kelp-like trees that wave in the cosmic wind, and animated geometric shapes that respond acoustically to human touch. The curious boy wanders this strange landscape, marveling at the diversity of life.\n\nHowever, the moral of the tale emerges when Jacek encounters a dark, mysterious mass deep within a planetary crater. Believing himself superior to this unfamiliar blob, the boy playfully pelts it with stones. He has fatally underestimated the alien substance, which rises from its subterranean lair to engulf the meddling child. Fortunately, Jacek's faithful Scottie dog remains vigilant, reeling him back to the safety of the ship just in time.\n\nThe episode ends happily, but delivers a clear lesson: tread carefully on planets you know not and respect the life that resides there.",
+      "core": "**Childhood Wonder and Cosmic Curiosity:** The film captures the imaginative spirit of childhood exploration, using space travel as a vehicle for discovery and wonder. Jacek's nocturnal journeys represent the timeless childhood desire to explore the unknown, with the cosmos serving as the ultimate playground for young imagination.\n\n**Environmental Respect and Humility:** The central message emphasizes humility in the face of the unknown. Jacek's initial cockiness and failure to respect the alien environment nearly costs him dearly. The film suggests that curiosity must be tempered with caution, and that unknown does not mean inferior or harmless.\n\n**Polish Animation Tradition:** Part of the Jacek \u015apioszek series, this film represents the rich tradition of Polish animation for children. Produced at Studio Miniatur Filmowych in Warsaw, the series ran from the late 1950s through the 1960s, creating whimsical stories that combined entertainment with gentle moral education.\n\n**Accessibility Through Simplicity:** The film's lack of dialogue and understated animation style actually enhance its universal appeal. By removing language barriers, the story can be appreciated across linguistic and cultural boundaries\u2014a hallmark of effective children's animation.",
+      "created_at": "2026-03-06 15:42:35"
+    },
+    {
       "title": "Night on the Galactic Railroad",
       "year": 1985,
       "medium": "Animated Film",
@@ -12445,5 +12462,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 732
+  "count": 733
 }
