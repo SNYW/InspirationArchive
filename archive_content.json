@@ -6869,6 +6869,23 @@
       "created_at": "2026-03-04 23:02:08"
     },
     {
+      "title": "Short Circuit",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Faisal Hashmi",
+      "raw_score": 3.95,
+      "total_ratings": 110,
+      "origin": "India ,",
+      "mood": "Tense ,",
+      "sub_genres": "Time-Travel ,",
+      "topics": "Time-Travel",
+      "image_filename": "Short_Circuit_2019.jpg",
+      "pitch": "Short Circuit is a 2019 Gujarati science fiction film that holds the distinction of being the first sci-fi film ever made in the Gujarati language. Directed by Faisal Hashmi, the film combines the time loop concept with thriller elements to tell a story about love, fate, and breaking free from predetermined outcomes. The film received positive reviews for its direction, visual effects, and ambitious attempt at bringing a new genre to regional Indian cinema.\n\nThe film revolves around Samay, an IT professional who works repairing computers and lives with his mother, who constantly nags him to get married. Samay falls in love with Seema, a news anchor at Zee 24 Kalak. During an interview with a scientist named Dr. Parthsarthi, who is experimenting with creating a portable wormhole, things take a dark turn when the scientist threatens Seema. Tragedy strikes when Seema is shot by a masked man outside the building. That night, Samay witnesses a rare Aurora Borealis phenomenon\u2014an event that never happens in India\u2014alongside his friend Bhopa. When Samay goes to sleep, he wakes up to discover he is now living the same day over and over again.",
+      "truth": "The film picks up on the day Samay plans to propose to Seema. After the interview with Dr. Parthsarthi goes awry, Samay exits the building to find that Seema has been shot dead by a masked man. Devastated, Samay spends the night drinking with his friend Bhopa, and together they witness an impossible Aurora Borealis in the sky\u2014a phenomenon that never occurs in India.\n\nWhen Samay wakes up, he discovers to his horror that he is reliving the same day repeatedly. Each loop begins with the morning alarm, the same interactions with his mother, and the same sequence of events leading to Seema's death. Initially confused and frightened, Samay gradually realizes he has been given an opportunity to change fate.\n\nThroughout the film, Samay attempts multiple strategies to prevent Seema's death. He tries to warn her, intercept the assassin, and even confronts Dr. Parthsarthi about his experiments. However, each attempt reveals new layers to the mystery\u2014including the mysterious figure named Jacob who seems to be pulling strings behind the scenes. The film explores whether Samay can break free from the time loop, save Seema, and uncover the truth behind the wormhole experiment that caused this anomaly.\n\nThe narrative keeps viewers guessing about the exact mechanics of the time loop and what role the wormhole experiment plays in trapping Samay in the cycle. The climax reveals unexpected connections between the characters and offers a resolution that addresses both the romantic and sci-fi elements of the story.",
+      "core": "**Pioneering Regional Science Fiction:** Short Circuit represents an important milestone in Indian regional cinema as the first Gujarati-language science fiction film. The film demonstrates that regional film industries in India can tackle ambitious genre material, particularly in a field traditionally dominated by Bollywood and South Indian cinema. The film's success at the box office\u2014grossing \u20b92.5 crore against a \u20b91.5 crore budget\u2014proved there was an audience for regional sci-fi in India.\n\n**Time Loop as Metaphor for Fate and Agency:** The time loop concept serves as a metaphor for questions of fate versus free will. Samay is trapped in a literal cycle, but the film explores whether he can change his destiny or if certain outcomes are predetermined. The repeated day forces him to confront his helplessness and find agency where initially there seemed to be none. This resonates with broader themes in Indian cinema about kismat (destiny) and the struggle to control one's fate.\n\n**Technical Achievement for Regional Cinema:** With 1,132 VFX shots, Short Circuit attempted what had never been done before in Gujarati cinema. The production design, particularly the wormhole laboratory created with input from National Institute of Design (NID) students, showed ambitious craftsmanship. While the VFX were praised for a first attempt, critics noted similarities to Hollywood films like 12:01, indicating the film drew inspiration from international time loop narratives.\n\n**Love and Sacrifice:** At its core, the film is a love story about sacrifice and determination. Samay's willingness to relive the same painful day repeatedly to save the woman he loves elevates the genre elements into an emotionally resonant tale. The film suggests that true love involves fighting against all odds, even when facing the impossible.\n\nThe film received nominations at the International Gujarati Film Festival and Gujarati Iconic Film Awards, recognition that validates the creative risk-taking involved in bringing a science fiction narrative to a regional audience. Short Circuit opens doors for more experimental genre filmmaking in Indian regional cinema.",
+      "created_at": "2026-03-06 20:41:38"
+    },
+    {
       "title": "Sh\u014djo Tsubaki",
       "year": 1983,
       "medium": "Manga",
@@ -12768,5 +12785,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 751
+  "count": 752
 }
