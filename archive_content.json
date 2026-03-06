@@ -6971,6 +6971,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Tetsujin 28-go",
+      "year": 1956,
+      "medium": "Manga",
+      "creator": "Mitsuteru Yokoyama",
+      "raw_score": 3.2,
+      "total_ratings": 1564,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Exploration",
+      "image_filename": "Tetsujin_28-go_1956.jpg",
+      "pitch": "Tetsujin 28-go (literally \"Iron Man No. 28\") is a seminal manga that helped launch the mecha genre in Japan. Created by Mitsuteru Yokoyama and serialized from 1956 to 1966, it follows 10-year-old Shotaro Kaneda, a young boy detective who inherits control of a massive giant robot built by his late father during World War II. The story begins in the final days of the Pacific War, when Japanese scientists developed the \"Tetsujin\" line of giant war machines as secret weapons. When the war ends, the project is buried\u2014until Dr. Kaneda's son discovers the remote control for Tetsujin 28, the 28th and final model.\n\nYokoyama drew inspiration from his own childhood experiences witnessing the bombing of Kobe during WWII, channeling the trauma of that destruction into a story about the dangers of powerful weapons in the wrong hands. Unlike later mecha series where robots are typically piloted from within, Tetsujin 28 is controlled externally via remote control\u2014a design choice that creates moral distance between the child operator and the robot's destructive power. The manga ran for 97 chapters collected into 24 volumes and was later adapted into four anime series, a Japanese television drama, and two films\u2014including a 2005 live-action movie.",
+      "truth": "In the final months of World War II, the Imperial Japanese Army develops the Tetsujin (\"Iron Man\") project: a series of gigantic war machines designed to turn the tide against Allied forces. After 27 failures, they finally succeed in creating Tetsujin 28\u2014but the war ends before it can be deployed. Fearing the robot's destructive potential, the scientists hide it away in secret bunkers.\n\nYears later, Professor Shikishima, Dr. Kaneda's former colleague, discovers that Tetsujin 28's remote controller has been left to Kaneda's young son, Shotaro. Despite his youth, Shotaro is already a famous detective throughout Tokyo. He takes control of the 18-meter tall robot and uses it to combat crime, evil organizations, and later alien threats\u2014often battling other giant robots in the process.\n\nThe series follows Shotaro and his allies\u2014including Inspector Otsuka of the Tokyo Police and the mysterious Kenji Murasame\u2014as they face various villains seeking to use Tetsujin-type robots for world domination. The tone varies considerably across the manga's decade-long run, from lighter adventure tales to darker, more atmospheric stories exploring themes of technology, war, and responsibility.",
+      "core": "Tetsujin 28-go is historically significant as one of the first manga to feature a giant robot, establishing many tropes that would define the mecha genre for decades to come. Its concept of a child controlling a massive weapon remotely raises uncomfortable questions about the relationship between innocence and violence\u2014Shotaro operates the robot like a toy, yet it possesses devastating destructive power.\n\nThe series reflects Japan's postwar anxieties about technology and military power. Yokoyama, who witnessed the bombing of Kobe as a child, imbued the series with a ambivalent attitude toward powerful weapons: created for war but now used for justice, Tetsujin 28 represents both the danger of unchecked technology and its potential for good when wielded responsibly. The robot itself is neutral\u2014neither good nor evil\u2014its moral character determined entirely by who controls it.\n\nTetsujin 28-go's influence extends far beyond its original medium. It directly inspired Mazinger Z (1972), which established the piloted mecha format, and its \"boy and his robot\" template became a cornerstone of the genre. Katsuhiro Otomo named the protagonist of Akira after Shotaro Kaneda as an homage, and Guillermo del Toro has cited the series as an influence on Pacific Rim. The 2004 anime adaptation returned to the manga's darker, more contemplative roots, exploring the robot's wartime origins and the psychological scars of Japan's wartime experience with new sophistication.",
+      "created_at": "2026-03-06 05:26:47"
+    },
+    {
       "title": "Tetsuo: The Iron Man",
       "year": 1989,
       "medium": "Film",
@@ -11799,5 +11816,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 694
+  "count": 695
 }
