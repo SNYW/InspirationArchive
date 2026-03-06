@@ -1140,6 +1140,23 @@
       "created_at": "2026-03-04 10:19:38"
     },
     {
+      "title": "Atlantis",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Valentyn Vasyanovych (Director)",
+      "raw_score": 3.45,
+      "total_ratings": 3000,
+      "origin": "Ukraine ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Post-Apocalypse ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": "Atlantis_2019.jpg",
+      "pitch": "Atlantis is a haunting Ukrainian dystopian film set in near-future Eastern Ukraine in 2025, one year after the end of a devastating war with Russia. The film follows Sergiy, a former soldier struggling with PTSD, as he navigates a traumatized society grappling with economic collapse, environmental devastation, and the psychological wounds of conflict. Directed by Valentyn Vyasnovanych, the film won the Best Film award in the Horizons section at the 76th Venice International Film Festival and was Ukraine's official submission for the Best International Feature Film at the 93rd Academy Awards. Notably, the film gained new significance after Russia's 2022 invasion of Ukraine, with its fictional depiction of war between the two nations appearing prophetic.",
+      "truth": "The film opens with stylized thermal camera footage of a soldier killing a captured sniper, setting the tone for the exploration of trauma that follows. Sergiy works at a smelter with his friend Ivan, both ostracized by coworkers who blame them for the devastating war that left the region in ruins. The two veterans maintain their combat training routines, unable to fully transition back to civilian life.\n\nWhen Ivan commits suicide by jumping into the molten smelt, the factory subsequently closes due to economic liberalization making it unprofitable. Sergiy finds new employment driving a water truck, delivering to areas where war-related pollution has contaminated local water sources. His life remains trapped in the shadow of the conflict until he meets Katya, a former archaeologist now working for the Black Tulip Mission, a volunteer organization that exhumes and identifies the war dead.\n\nThrough his relationship with Katya and her humanitarian work, Sergiy begins to find a path toward healing. The film concludes with him being offered an opportunity to escape his circumstances but choosing to remain with the Black Tulip Mission, suggesting a choice to face the past rather than run from it. The bookended thermal camera scenes\u2014one of killing, one of embrace\u2014frame the journey from violence toward potential redemption.",
+      "core": "**Post-Conflict Trauma and Collective Memory:** Atlantis functions as an unflinching portrait of a society in psychological crisis. The war has ended but its wounds remain open\u2014both visible (contaminated land, destroyed infrastructure) and invisible (PTSD, social ostracism, survivor's guilt). The film examines how communities process mass trauma and whether healing is possible after catastrophic violence.\n\n**Environmental Devastation as War's Legacy:** The film explicitly links environmental destruction to military conflict. The polluted water, the shutdown factories, and the blighted landscape are presented as lasting consequences of warfare\u2014suggesting that ecological damage is itself a form of violence with generational consequences.\n\n**Ukraine's Prophetic Vision:** What distinguishes Atlantis is its timing. Released in 2019, it depicted a fictional war between Ukraine and Russia that viewers saw as allegory rather than prediction. When Russia invaded Ukraine in 2022, the film transformed from speculative fiction to prophetic document, gaining new layers of meaning and international attention.\n\n**Non-Professional Cast:** The film features no professional actors\u2014only veterans, volunteers, and soldiers, lending it an authenticity that heightens its emotional impact. This choice embodies the film's themes of bearing witness and not looking away from uncomfortable truths.\n\nAtlantis represents Ukrainian cinema's mature engagement with science fiction as a vehicle for social commentary, using genre conventions to process recent history and imagine possible futures.",
+      "created_at": "2026-03-06 20:15:29"
+    },
+    {
       "title": "Atomic War Bride",
       "year": 1960,
       "medium": "Film",
@@ -12734,5 +12751,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 749
+  "count": 750
 }
