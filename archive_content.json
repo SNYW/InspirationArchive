@@ -3129,6 +3129,23 @@
       "created_at": "2026-03-03 08:04:06"
     },
     {
+      "title": "From Beyond",
+      "year": 1960,
+      "medium": "Novella",
+      "creator": "Arkady and Boris Strugatsky",
+      "raw_score": 4.1,
+      "total_ratings": 35,
+      "origin": "Russia ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Sentience",
+      "image_filename": "From_Beyond_1960.jpg",
+      "pitch": "From Beyond is a groundbreaking Soviet science fiction novella by the Strugatsky brothers, originally published in 1960 as part of their collection \"Six Matches.\" The story is told through three interconnected narratives that gradually reveal the full picture of an alien contact event on Earth. The premise is unique in science fiction: the aliens are not present\u2014only their fully automated, self-operating spacecraft, which has been wandering the galaxy for millennia, collecting samples of flora and fauna from visited planets. When the spaceship visits Earth, its robotic \"spiders\" abduct humans and specimens, operating on a program that ignores bipedal creatures to avoid capturing intelligent life\u2014until circumstances force contact. The novella was the Strugatskys' first major published work and established many themes they would explore throughout their careers, particularly the nature of contact with the unknown and humanity's place in the cosmos.",
+      "truth": "The novella unfolds in three parts, each told from a different witness perspective, gradually revealing the full scope of the alien contact.\n\n**Part One: The Man in the Mesh Tank Top** follows Major Kuznetsov and his fellow officers climbing the Adairskaya Sopka volcano in Kamchatka. During their expedition, they encounter a \"black helicopter\" that deposits an emaciated man in a mesh tank top\u2014the first human contact with the alien artifacts. The man is incoherent and bears a small metal statuette of a three-fingered being before being taken away by authorities.\n\n**Part Two: The Aliens** is told from the perspective of archaeologist Apida K.N. Sergeev, part of an expedition near Stalinabad (present-day Dushanbe). His colleague Boris Yanovich Lozovsky disappears after encountering the alien \"spiders\"\u2014machines that resemble giant metal spiders. The archaeologists' camp is visited by these robots, which steal supplies and specimens while leaving humans untouched. When Sergeev investigates Lozovsky's disappearance, he discovers the archaeologist's diary, which reveals that Lozovsky was taken aboard the alien ship.\n\n**Part Three: On Board the 'Flying Dutchman'** presents Lozovsky's own account from inside the spaceship. He discovers the ship is essentially a massive automated museum and zoo, collecting biological specimens from countless worlds. The ship has no living \"Masters\"\u2014only their long-dead civilization's automated systems still functioning. Lozovsky explores the ship, encountering creatures from many worlds and discovering evidence of previous intelligent beings who also boarded the ship. He realizes the robots only interact with non-bipedal creatures, and to return to Earth, he must prove his intelligence through demonstrations. The ship's systems eventually return him to Earth, having recorded his \"lecture\" about human civilization.\n\nThe conclusion reveals that humanity, after analyzing the contact, decides to send expeditions to rendezvous with the alien ship\u2014a first interplanetary mission involving both Soviet and American craft, marking an unexpected Cold War collaboration in the name of cosmic contact.",
+      "core": "**The Nature of Contact:** From Beyond presents one of science fiction's most original contact scenarios\u2014not with aliens themselves, but with their automated legacy. The Strugatskys explore how contact might occur not through direct encounter with intelligent beings, but through the machines they left behind. This anticipates themes in later works like Roadside Picnic and the Stalker games, where the alien is absent, and humans must interpret artifacts and intentions.\n\n**The Absent Master:** The \"Masters\" are never present\u2014they died long ago, and their automated systems continue their mission without them. This raises questions about legacy, about whether intelligence leaves a trace beyond its physical existence, and about the nature of purpose without consciousness. The novella asks: what remains when the creator is gone?\n\n**Humanity's Place in the Cosmos:** Lozovsky's \"lecture\" to the recording devices\u2014where he feels shame discussing atomic weapons and pollution\u2014positions humanity as a young civilization learning to present itself to the cosmos. The ending's international collaboration suggests that contact with the truly alien might transcend terrestrial divisions.\n\n**Documentary Form:** The Strugatskys employ a unique structure\u2014three witness accounts plus an official commission report\u2014that became a hallmark of their style. This approach creates epistemic uncertainty, as readers must piece together the truth from multiple partial perspectives. The final protocol document provides \"official\" analysis while leaving fundamental questions unanswered.\n\n**Early Soviet Science Fiction:** As the Strugatskys' debut, From Beyond showcases their method of combining adventure elements with philosophical inquiry. The novella demonstrates their interest in cybernetics (the \"Universal Logical Machines\" concept), their skepticism about easy answers, and their characteristic blend of optimism about human potential with uncertainty about human wisdom.\n\nFrom Beyond remains significant as a pioneering work that established the Strugatsky brothers' unique approach to science fiction\u2014a style that would produce some of the genre's most revered works and influence countless writers and filmmakers worldwide.",
+      "created_at": "2026-03-06 16:56:41"
+    },
+    {
       "title": "From Morn to Midnight",
       "year": 1920,
       "medium": "Film",
@@ -12530,5 +12547,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 737
+  "count": 738
 }
