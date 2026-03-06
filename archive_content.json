@@ -7311,6 +7311,23 @@
       "created_at": "2026-03-05 05:17:16"
     },
     {
+      "title": "The Awful Dr. Orloff",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Spain ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "",
+      "image_filename": "The_Awful_Dr_Orloff_1962.jpg",
+      "pitch": "The Awful Dr. Orloff (original Spanish title: \"Gritos en la noche\" meaning \"Screams in the Night\") is a 1962 horror film written and directed by Jes\u00fas Franco. It is considered the earliest Spanish horror film and marked the beginning of the influential Spanish horror cinema of the 1960s and 1970s. The film was a Spain-France co-production, filmed in Madrid but set in early 1900s Paris to avoid censorship issues under Franco's conservative regime.\n\nThe film stars Howard Vernon as the infamous Dr. Orloff, a mad scientist obsessed with repairing his disfigured daughter's face through skin grafts from other women. With the aid of his blind henchman Morpho, Dr. Orloff kidnaps women from Paris nightclubs, sedating them for his gruesome surgical experiments. When Inspector Tanner begins investigating the disappearances, he uncovers a trail leading to the doctor's isolated castle.",
+      "truth": "In early 1900s Paris, a series of young women vanish from nightclubs across the city. Police Inspector Tanner investigates and discovers the victims all had one thing in common\u2014they were beautiful young women who disappeared without a trace. The investigation leads Tanner to the ominous estate of Dr. Orloff, a reclusive scientist known for his work on skin grafts and plastic surgery.\n\nAlso residing at the estate is Orloff's daughter Melissa, who wears a mask to conceal her severely disfigured face from a childhood accident. The doctor has been kidnapping women to harvest their skin for his daughter's reconstructive surgery. His loyal henchman Morpho, a blind man with supernatural hearing, serves as his accomplice\u2014luring victims with promises of work or shelter before the doctor sedates them.\n\nAs Tanner gets closer to the truth, Morpho captures Wanda Bronsky, a dancer who may be the key to finally freeing the other victims. The film culminates in a tense confrontation between Tanner and Dr. Orloff, with the doctor's obsession reaching its horrifying conclusion.",
+      "core": "The Awful Dr. Orloff established many conventions that would define Spanish horror cinema for decades. Director Jes\u00fas Franco created a template for the \"mad scientist\" horror film that would be imitated throughout Europe. The film is notable for its atmospheric cinematography and effective use of shadows, particularly in the scenes set in Orloff's castle.\n\nThe film also reflects the constraints of Francoist Spain\u2014Franco set the story in Paris specifically to satisfy censors who worried that depicting Spanish criminals would damage the nation's reputation. This practice of setting transgressive films abroad became common in Spanish genre cinema.\n\nWhile the film received negative reviews upon release, it has gained cult status over time. The Dr. Orloff character would return in numerous sequels and remakes, making it one of the most enduring horror franchises in Spanish cinema. The film laid groundwork for Jes\u00fas Franco's extensive career and established Spain as a producer of international horror films.",
+      "created_at": "2026-03-06 05:44:11"
+    },
+    {
       "title": "The Ballad of Lost C'Mell",
       "year": 1962,
       "medium": "Novella",
@@ -11816,5 +11833,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 695
+  "count": 696
 }
