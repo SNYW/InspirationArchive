@@ -4200,6 +4200,23 @@
       "created_at": "2026-03-05 12:28:58"
     },
     {
+      "title": "Lone Sloane",
+      "year": 1966,
+      "medium": "Graphic Novel",
+      "creator": "Philippe Druillet",
+      "raw_score": 3.29,
+      "total_ratings": 17,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Sentience",
+      "image_filename": null,
+      "pitch": "Lone Sloane is a visually stunning French science fiction graphic novel that introduced readers to one of the most iconic characters in European comics. Created by Philippe Druillet, a pioneer of the French sci-fi comics movement, the story first appeared in 1966 in \"Le Myst\u00e8re des Ab\u00eemes\" (The Mystery of the Abyss). Set 800 years after a catastrophic event called \"The Great Fear,\" the narrative follows Lone Sloane, a space rogue who finds himself caught in an intergalactic struggle between space pirates, gigantic robots, dark gods, and other-dimensional entities after his spaceship is destroyed. The story is notable for its baroque, quasi-expressionist artwork that combines Lovecraftian space nightmares with Escher-inspired mathematically complex worlds, creating a visual language that influenced generations of comic artists worldwide.",
+      "truth": "The narrative begins with Lone Sloane's spacecraft being destroyed by an entity known only as \"He Who Seeks.\" Thrown into a different dimension, Sloane becomes a freebooter with strange powers, wandering a universe that is alien and hostile to him. His journey takes him through various dimensions and encounters with bizarre entities, including:\n\n- **Space Pirates:** Ragged crews of outlaws navigating the dangerous regions between galaxies\n- **Gigantic Robots:** Massive mechanical constructs that serve as both obstacles and allies\n- **Dark Gods:** Eldritch entities from beyond comprehension who manipulate galactic events\n- **Other-Dimensional Beings:** Creatures from parallel realities who challenge Sloane's understanding of existence\n\nThe original stories were published in the Franco-Belgian comics magazine Pilote from February 1970 to April 1971, then revamped for Metal Hurlant magazine. The series includes multiple story arcs spanning various dimensions and time periods, with Sloane constantly moving through a universe that defies logical explanation. The narrative is more episodic than linear, with each story arc presenting new challenges and cosmic revelations.",
+      "core": "Philippe Druillet's Lone Sloane represents a watershed moment in European science fiction comics. The work is often credited with helping to establish science fiction as a viable genre for mature comic storytelling in Europe, paving the way for the legendary French sci-fi comics movement that would include works like Moebius's \"Arzach\" and Jodorowsky's \"The Incal.\"\n\nThe visual style of Lone Sloane is perhaps its most enduring legacy. Druillet's quasi-baroque artwork features intricate panel compositions, stark contrasts between light and darkness, and cosmic vistas that seem to stretch into infinity. The influence of H.P. Lovecraft's cosmic horror is evident in the eldritch entities and the sense of human insignificance against the vastness of the universe. Similarly, the mathematical precision of certain sequences echoes M.C. Escher's impossible geometries.\n\nThematically, Lone Sloane explores humanity's place in an incomprehensible cosmos\u2014the existential loneliness of being trapped between warring cosmic forces, and the resilience required to maintain one's identity when confronted with entities that defile the laws of physics and reality itself. The character of Lone Sloane himself functions as a kind of cosmic wanderer, similar to Silver Surfer or DC's Adam Strange, but with a darker, more surreal edge.\n\nThe series also represents the emergence of the auteur comic artist in Europe\u2014Druillet created, wrote, and illustrated Lone Sloane, establishing the model of the creator-owned sci-fi graphic novel that would become central to the European comics renaissance of the 1970s and beyond.",
+      "created_at": "2026-03-06 03:26:26"
+    },
+    {
       "title": "Loss of Sensation",
       "year": 1935,
       "medium": "Film",
@@ -11697,5 +11714,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 688
+  "count": 689
 }
