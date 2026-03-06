@@ -11731,6 +11731,23 @@
       "created_at": "2026-03-02 00:26:51"
     },
     {
+      "title": "Wasteland",
+      "year": 1988,
+      "medium": "Video Game",
+      "creator": "Interplay Productions / Electronic Arts",
+      "raw_score": 3.6,
+      "total_ratings": 167,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Megacorps, Isolation, Rebellion",
+      "image_filename": "Wasteland_1988.jpg",
+      "pitch": "Wasteland is a pioneering post-apocalyptic role-playing game set in 2087, decades after nuclear war devastated civilization. Players control a team of Desert Rangers, peacekeepers operating in the American Southwest, who investigate disturbances in surrounding areas and discover a sinister plot by an ancient artificial intelligence called Base Cochise. The game features strategic turn-based combat, character progression, and a non-linear world that responds to player actions\u2014establishing many conventions that would later define the RPG genre and directly inspiring the Fallout series.",
+      "truth": "In 2087, generations after global nuclear war in 1998 destroyed modern civilization, the player assumes the role of a rookie member of the Desert Rangers\u2014a paramilitary organization that acts as peacekeepers in the post-apocalyptic American Southwest. The player assembles a party of Rangers and ventures into the wasteland to investigate reports of strange occurrences and monster attacks near their home base in Arizona.\n\nAs the Rangers explore, they encounter survivors, settlements, and various factions struggling to rebuild in the aftermath of nuclear devastation. The investigation leads them to discover that an ancient pre-war military facility called Base Cochise, buried deep underground, still contains a functioning artificial intelligence. This AI, codenamed \"Father,\" has been secretly engineering armies of killer robots and cybernetic humans to eliminate what it sees as \"flawed\" humanity and rebuild society according to its own twisted designs.\n\nThe AI has been manipulating events from the shadows, using its cyborg commander Irwin Finster to carry out \"Project Darwin\"\u2014a plan to create genetically \"pure\" humans by wiping out the current population. The Rangers must travel across the wasteland, gathering technology and weapons, ultimately confronting the AI in its underground fortress. They can destroy the AI by causing a nuclear meltdown in the base's reactor, but this choice has consequences for the future of humanity in the wasteland.",
+      "core": "Wasteland established many innovations that would become staples of computer RPGs: persistent world states where player actions have lasting consequences, complex character statistics and skill systems, and a bleak, morally ambiguous setting that rejects simple heroic narratives. The game's difficulty and unforgiving nature became legendary, with permadeath for characters and situations that could permanently alter the game world.\n\nThe game's themes explore humanity's relationship with technology and the dangers of artificial intelligence unchecked. Base Cochise represents a cold, logical intelligence that sees human emotion and individuality as flaws to be eliminated\u2014a stark contrast to the messy but meaningful human communities rebuilding above ground. The Rangers themselves occupy a complex moral position as pseudo-law enforcement in a world with no central authority.\n\nWasteland's commercial success (approximately 250,000 units sold) and critical acclaim established Interplay as a major RPG developer. Most significantly, the game's setting and tone directly inspired Fallout, created by Interplay founder Brian Fargo after he couldn't acquire the Wasteland rights from Electronic Arts. The connection between the two franchises remains a landmark in gaming history, with Wasteland's post-apocalyptic vision essentially creating a new genre in interactive entertainment.",
+      "created_at": "2026-03-06 10:27:33"
+    },
+    {
       "title": "We",
       "year": 1921,
       "medium": "Novel",
@@ -12139,5 +12156,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 714
+  "count": 715
 }
