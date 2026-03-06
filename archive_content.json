@@ -5866,6 +5866,23 @@
       "created_at": "2026-03-03 00:31:41"
     },
     {
+      "title": "Reah: Face the Unknown",
+      "year": 1998,
+      "medium": "Video Game",
+      "creator": "Project Two Interactive / Black Friar (Detalion, LK Avalon)",
+      "raw_score": 3.45,
+      "total_ratings": 20,
+      "origin": "Poland ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Isolation, Exploration",
+      "image_filename": "Reah_Face_the_Unknown_1998.jpg",
+      "pitch": "Reah: Face the Unknown is a 1998 Polish first-person puzzle adventure game that transports players to a distant planet where a human colony has been established to investigate a mysterious alien artifact. Developed by Project Two Interactive and Black Friar, published by Detalion and LK Avalon, the game was originally created in Polish before being translated into English and multiple other languages. It garnered attention for its ambitious scope, beautiful pre-rendered graphics, and non-linear gameplay that drew obvious comparisons to the Myst series. The game was notable for being one of the largest adventure games released at the time, with the DVD version requiring 10 gigabytes of storage\u2014a massive undertaking for 1998. With over 150 scenarios and a supernatural-sounding musical landscape, Reah challenges players to solve intricate puzzles while uncovering the secrets of the alien artifact that could change humanity's understanding of the universe.",
+      "truth": "The player assumes the role of an unnamed protagonist who awakens stranded at a human colony base on the planet Reah. This colony was established specifically to investigate a massive alien artifact discovered on the planet's surface. As the player explores the alien world, they must navigate through various environments, solve complex puzzles, and piece together the history of the Reah civilization and the purpose of the mysterious artifact.\n\nThe gameplay follows a non-linear structure, allowing players to explore the colony and its surroundings in whatever order they choose. The puzzles are integral to progression, with many requiring careful observation of the environment and manipulation of various mechanisms. The game's narrative unfolds gradually through environmental storytelling, journal entries, and discovered documents that reveal the fate of the colony's previous inhabitants.\n\nThe story takes unexpected turns as the player delves deeper into the alien structure, discovering that the artifact holds profound implications for humanity's understanding of its place in the universe. The plot explores themes of first contact, the limits of human knowledge, and the psychological effects of isolation on a distant world. By the game's conclusion, the player must return home to reveal their shocking discoveries\u2014a resolution that leaves many questions answered while raising deeper philosophical questions about the nature of existence.",
+      "core": "**Polish Game Development Heritage:** Reah represents an important milestone in Polish video game history. Developed at a time when the Polish gaming industry was still in its infancy, the game demonstrated that Polish developers could produce ambitious, internationally competitive titles. The collaboration between Project Two Interactive and Black Friar, along with publisher Detalion, created one of the most significant Polish games of the 1990s. The development team intentionally designed the game to be non-violent, aiming to appeal to a broader audience beyond traditional gamers\u2014a bold choice for the era.\n\n**Adventure Game Legacy:** Positioned as a \"Myst-clone,\" Reah participates in a specific tradition of first-person puzzle adventure games that dominated the mid-to-late 1990s. However, the game's non-linear structure and emphasis on atmospheric exploration set it apart from its contemporaries. The comparison to Myst was both a blessing and a curse: while it drew attention to the title, it also invited unfavorable comparisons to the genre-defining franchise. Critics noted the game's beautiful and detailed scenery while criticizing its underdeveloped plot and lack of narrative momentum.\n\n**Science-Fantasy Elements:** Unlike hard science fiction, Reah embraces a science-fantasy approach, blending mysterious alien technology with supernatural atmosphere. The alien artifact serves as a macguffin that drives the narrative while remaining deliberately enigmatic. The game's musical landscape, described as \"supernatural-sounding,\" further reinforces this tone, creating an atmosphere of cosmic mystery rather than technological rationality.\n\n**The Myst Clone Phenomenon:** Reah exists within a specific historical moment when numerous developers attempted to replicate Myst's success. These games shared common features: first-person perspective, pre-rendered backgrounds, point-and-click interface, and puzzle-centric gameplay. Reah stands out among these clones for its Polish origins and ambitious scope, though it ultimately fell short of the genre's landmark titles in terms of critical reception and commercial success.\n\nThe game's re-release on GOG.com in 2017, along with its sequel Schizm: Mysterious Journey, introduced these titles to a new generation of players and preserved an important piece of gaming history. Reah remains a fascinating artifact of the adventure game era, demonstrating both the ambitions and limitations of mid-1990s game development outside the traditional gaming powerhouses.",
+      "created_at": "2026-03-06 09:09:50"
+    },
+    {
       "title": "Rendezvous with Rama",
       "year": 1984,
       "medium": "Video Game",
@@ -12054,5 +12071,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 709
+  "count": 710
 }
