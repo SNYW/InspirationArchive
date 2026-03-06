@@ -11782,6 +11782,23 @@
       "created_at": "2026-03-02 22:50:18"
     },
     {
+      "title": "Zaat",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Don Barton",
+      "raw_score": 1.1,
+      "total_ratings": 5400,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Evolution",
+      "image_filename": "Zaat_1971.jpg",
+      "pitch": "Zaat (also known as Blood Waters of Dr. Z) is a 1971 American independent science fiction horror film produced on a shoestring budget of $50,000. The film stars Marshall Grauer as Dr. Kurt Leopold, a mad scientist whose formula for transforming humans into sea creature hybrids is ridiculed by his colleagues. After injecting himself with his serum and transforming into a catfish-like monster, Dr. Leopold seeks revenge on those who scorned him, releasing mutated walking catfish across town and contaminating the water supply.\n\nThe film was produced and directed by Don Barton and filmed over one month in 1970 in various Florida locations including Rainbow Springs, Green Cove Springs, and Marineland. Originally distributed by Horizon Films, it found limited theatrical release, earning only $200 on its first showing in Manhattan before being pulled from theaters.",
+      "truth": "In his laboratory, mad scientist Dr. Kurt Leopold contemplates his former colleagues' derision of his formula ZaAt\u2014a compound that can transform humans into sea creature hybrids. He injects himself with the serum and immerses himself in a tank, emerging as a catfish-like monster. In his new form, Leopold releases walking catfish across the town's lakes and rivers and releases \"Zaat\" into the water supply, rendering many of the townspeople ill. Meanwhile, Sheriff Lou Krantz and marine biologist Rex Baker investigate strange occurrences with the local catfish and waterways.\n\nLeopold turns his attention to killing those who mocked his work. He murders former colleague Maxson and his family on a boat, followed by associate Ewing in his home. Afterward, Leopold kidnaps a young female camper at a lake, taking her back to his lab with the intention of making her his mate. However, due to her struggling, the equipment malfunctions and her corpse, partially transformed, is pulled from the tank.\n\nBaffled by the deaths, Rex contacts an organization known as INPIT, which dispatches scientists Martha Walsh and Walker Stevens to investigate. Following the kidnapping of Martha, Leopold heads again towards his lab. Lou attempts to apprehend Leopold outside his laboratory but is killed in the process. Inside, Rex tries to stop the doctor as he prepares Martha for her transformation. After seriously wounding Rex, he injects Martha with \"Zaat,\" readies her to be dunked into the tank, and makes his getaway with canisters of the compound. Martha's transformation fails, and she is saved from the tank by a dying Rex, although she appears to be in a trance and immediately follows Leopold into the sea.",
+      "core": "Zaat has gained notoriety as one of the worst films ever made, with criticism directed at its script, acting, and poor monster design. The film's monster costume has been widely derided as laughable\u2014a mesh of green fur that resembles something a young child might draw rather than a terrifying creature. Despite\u2014or perhaps because of\u2014its numerous flaws, the film achieved cult status when it was featured on Mystery Science Theater 3000 in 1999, where its absurdity and low-budget charm made it ideal fodder for mockery.\n\nThe film represents a particular strand of 1970s drive-in cinema\u2014low-budget creature features that sought to capitalize on the success of films like Creature from the Black Lagoon. Its Florida setting and underwater sequences distinguish it from typical swamp creature movies of the era. The film was re-released multiple times under different titles, including Attack of the Swamp Creatures (1985), which added new cast and production credits.\n\nWhat remains interesting about Zaat is its ambition despite its limitations\u2014the film's plot involves a surprisingly elaborate scheme for a $50,000 production, involving government agencies, multiple killings, and an attempt at creating a mate for the monster. The theme of scientific hubris and the scientist's transformation into the very thing he sought to control reflects classic mad scientist tropes, even if the execution falls far short of more successful entries in the genre like The Fly or The Incredible Melting Man.",
+      "created_at": "2026-03-06 05:59:11"
+    },
+    {
       "title": "Zardoz",
       "year": 1974,
       "medium": "Film",
@@ -11833,5 +11850,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 696
+  "count": 697
 }
