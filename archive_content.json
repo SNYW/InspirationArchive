@@ -5781,6 +5781,23 @@
       "created_at": "2026-03-01 16:25:16"
     },
     {
+      "title": "Oxygen",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Matja\u017e Klop\u010di\u010d (Director)",
+      "raw_score": 2.6,
+      "total_ratings": 38,
+      "origin": "Slovenia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Isolation",
+      "image_filename": "Oxygen_1970.jpg",
+      "pitch": "Oxygen is a paranoid Yugoslavian science fiction drama set in a near-future society where a group of young rebels, hippies, and 1968 protesters attempt to secede from the mainland and establish an independent island. Directed by Slovenian filmmaker Matja\u017e Klop\u010di\u010d, the film blends political allegory with science fiction elements, creating a tense portrait of ideological conflict and state surveillance. A journalist arrives on the island to cover a political summit and becomes entangled in the clash between the young idealists and the established order. The film won awards at the 1970 Pulski Filmski Festival, including Best Directing (Bronze Arena) and Best Cinematography (Golden Arena).",
+      "truth": "The film takes place in a near-future Yugoslavia where political tensions simmer beneath the surface of everyday life. A collective of young people\u2014rebels, hippies, and those inspired by the 1968 protests\u2014have established themselves on a remote island, seeking to create an autonomous community free from mainland authority. Their movement represents both political idealism and generational rebellion against the establishment.\n\nA journalist is dispatched to the island to cover an important political summit taking place there. Rather than serving as a neutral observer, he becomes increasingly involved in the escalating conflict between the island's young revolutionaries and the forces of the state. As the political pressure mounts, the journalist must choose between maintaining his professional distance and committing to the cause.\n\nThe narrative unfolds with a documentary-like approach, emphasizing the grim realities of state surveillance, propaganda, and the psychological toll of political idealism. The film's distinctive editing style\u2014described as stop/start\u2014creates a sense of unease and disorientation, mirroring the paranoid atmosphere of the story. The rebels' dream of independence collides with the harsh realities of political negotiation, surveillance, and the inevitable confrontation with authority.",
+      "core": "Oxygen stands as a significant work of Yugoslav cinema, reflecting the political climate of its era while exploring timeless themes of generational conflict, ideological purity, and the cost of rebellion. The film can be read as an allegory for the 1968 student protests that swept across Europe, particularly Yugoslavia, where young people challenged the socialist establishment.\n\nThe film examines the tension between utopian ideals and practical governance\u2014these young rebels seek freedom from the mainland, but their movement must eventually confront questions of sustainability, legitimacy, and compromise. The journalist character serves as the audience's entry point, experiencing the seductive appeal of radical politics while witnessing its limitations and contradictions.\n\nThe paranoid, surveillance-oriented atmosphere anticipates themes that would become central to later dystopian works, making Oxygen a noteworthy precursor to the genre. Its blend of science fiction and political drama, coupled with its critical perspective on state power and youthful idealism, makes it a distinctive entry in the science fiction cinema of Eastern Europe.",
+      "created_at": "2026-03-06 23:58:17"
+    },
+    {
       "title": "Pale Cocoon",
       "year": 2006,
       "medium": "OVA",
@@ -12955,5 +12972,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 762
+  "count": 763
 }
