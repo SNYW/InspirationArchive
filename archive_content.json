@@ -11051,6 +11051,23 @@
       "created_at": "2026-03-06 01:28:14"
     },
     {
+      "title": "UFO Robot Grendizer",
+      "year": 1975,
+      "medium": "TV Series",
+      "creator": "Go Nagai (creator), Tomoharu Katsumata (director), Toei Animation",
+      "raw_score": 3.79,
+      "total_ratings": 6507,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "UFO_Robot_Grendizer_1975.jpg",
+      "pitch": "UFO Robot Grendizer is a classic Japanese mecha anime series that serves as the third entry in Go Nagai's influential Mazinger franchise. The series follows Duke Fleed, the sole survivor of the planet Fleed, who escapes his homeworld after it's devastated by the militaristic Vega Empire. Landing on Earth, Duke takes on the identity of Daisuke Umon and hides the powerful robot Grendizer beneath a research laboratory. When the Vega Empire launches their invasion of Earth, Duke must reveal his secret and pilot Grendizer to defend his adoptive homeworld alongside his allies.\n\nThe series is notable for its influence on the mecha genre and its massive cultural impact outside Japan, particularly in Europe and the Arab world where it became a cultural phenomenon under titles like Goldorak (France) and Goldrake (Italy).",
+      "truth": "The story begins on planet Fleed, an advanced but peaceful world rich in the radioactive ore Vegatron. The ruthless King Vega of the neighboring planet Vegan launches an invasion to exploit Fleed's resources, devastating the entire planet. Only Prince Duke Fleed escapes with the legendary robot Grendizer, fleeing to Earth.\n\nTwo years later, Duke lives peacefully on Earth under the name Daisuke Umon, cared for by Doctor Umon at the Space Science Lab near Makiba Ranch. When his old rival Koji Kabuto (pilot of the TFO saucer) returns to Japan and encounters Vegan saucers, Duke is forced to reveal his identity and awaken Grendizer to battle the invading forces.\n\nThe Vegans establish a base on the Moon and launch repeated assaults, sending giant Saucer Beasts against Earth. Duke is joined by Koji and Hikaru Makiba in the fight. Later, Duke's long-lost sister Maria Grace Fleed is revealed to have survived, having been raised by a survivor who died protecting her. The siblings are reunited and join forces.\n\nThe conflict escalates until King Vega decides on a final, all-out assault, destroying his own Moon base to force his troops into a desperate invasion. Duke and his allies launch a final counterattack in Grendizer and the newly-developed space combat Spazers, ultimately destroying the Vegan mother ship and killing King Vega. With the threat eliminated, Duke and Maria return to rebuild their homeworld, saying farewell to their Earth friends.",
+      "core": "**Alien as Other:** Grendizer explores themes of immigration and belonging through Duke Fleed's situation\u2014a refugee from a destroyed world seeking safety on Earth, forced to conceal his true identity while integrating into human society. The series examines what it means to be an outsider who must prove one's intentions despite prejudice and fear.\n\n**Heroic Responsibility:** Duke bears the weight of his world's destruction and must act as Earth's protector despite having no obligation to a planet that isn't his own. The series frames this as a choice rather than a duty\u2014Duke chooses to fight because he has come to love Earth and its people.\n\n**Cross-Cultural Phenomenon:** The series achieved unprecedented success in Europe and the Arab world, becoming one of the first anime to dominate foreign markets. In France, the dub achieved near-100% ratings during its original run, and the theme song became a platinum single. The series' popularity in these regions stemmed from its themes of resistance against invasion and alien invasion narratives that resonated with regional geopolitical experiences.\n\n**Mecha Genre Foundations:** Grendizer established many conventions of the Super Robot subgenre, including the hidden robot, the reluctant hero, and the merge of alien technology with Earth defense. Its influence extends through generations of mecha anime that followed.",
+      "created_at": "2026-03-06 02:44:02"
+    },
+    {
       "title": "UFO Sweden",
       "year": 2022,
       "medium": "Film",
@@ -11646,5 +11663,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 685
+  "count": 686
 }
