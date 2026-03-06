@@ -7685,6 +7685,23 @@
       "created_at": "2026-03-02 03:30:28"
     },
     {
+      "title": "Teito Monogatari",
+      "year": 1985,
+      "medium": "Novel",
+      "creator": "Hiroshi Aramata",
+      "raw_score": 3.0,
+      "total_ratings": 545,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion",
+      "image_filename": null,
+      "pitch": "Teito Monogatari (\u5e1d\u90fd\u7269\u8a9e, \"Tale of the Imperial Capital\") is a Japanese alternate history science fantasy novel that retells the 20th-century history of Tokyo from an occultist perspective. Written by Hiroshi Aramata and first published in 1985, the novel is widely recognized as the first mainstream work to popularize onmy\u014dd\u014d (Japanese\u9634\u9633\u9053) and feng shui mythology in modern Japanese fiction. It was a bestseller with over 5 million copies sold in Japan and won the 1987 Nihon SF Taisho Award.\n\nThe story centers on a romanticized retelling of Tokyo's history through the lens of Japanese mysticism, focusing on the legend of Taira no Masakado, a 10th-century warlord who became a vengeful onry\u014d (vengeful spirit) and was later placated into a guardian kami. The narrative follows the cryptohistorical actions of Yasunori Kat\u014d, a mysterious former lieutenant of the Imperial Japanese Army who is himself an oni (demon), as he attempts to destroy Tokyo using supernatural forces.",
+      "truth": "The novel spans 90 years of Japan's history, beginning near the end of the Meiji period and ranging through the rest of the 20th century. It reinvents major historical events such as the Great Kant\u014d earthquake of 1923, the founding of Japan's first subway, the February 26 Incident, the firebombing raids of World War II, and the signing of the 1960 US Security Pact.\n\nThe central conflict revolves around Yasunori Kat\u014d, a former Imperial Japanese Army lieutenant who possesses immense knowledge of the supernatural. With allies in China, Korea, and Taiwan, Kat\u014d dedicates his life to crippling Tokyo\u2014the seat of power of the modern Japanese Empire. His ruinous ambitions bring him into conflict with some of 20th century Japan's greatest minds, including industrialist Eiichi Shibusawa, onmy\u014dji Abe no Seimei's descendant Yasumasa Hirai, authors Koda Rohan and Izumi Kyoka, physicist Torahiko Terada, and author Yukio Mishima.\n\nThe novel combines history, fantasy, and science fiction, presenting a world where supernatural powers and occult practices directly influence the course of modern Japanese history. The narrative explores how the spiritual legacy of ancient Japan\u2014the kami, oni, and mystical traditions\u2014continues to shape the nation's destiny in the industrial and modern era.",
+      "core": "Teito Monogatari is significant for introducing Japanese occult traditions to mainstream popular culture. It pioneered the \"urban fantasy\" approach to Japanese history, treating the supernatural as an active force in modern society rather than mere folklore or superstition.\n\nThe novel explores themes of national identity, the conflict between tradition and modernization, and the question of whether Japan's rapid industrialization came at the cost of spiritual values. It presents Tokyo as a city whose very geography is shaped by mystical forces, where the ancient battle between the forces of order (kami) and chaos (oni) continues beneath the surface of modern life.\n\nThe work's influence on Japanese popular culture cannot be overstated\u2014it directly inspired numerous manga, anime, video games, and novels that deal with onmy\u014dd\u014d, yokai, and the supernatural in modern settings. Authors like Baku Yumemakura (author of the popular Onmyoji series) cite Teito Monogatari as their primary inspiration. The novel remains a landmark work that bridged the gap between scholarly interest in Japanese esotericism and mainstream entertainment.",
+      "created_at": "2026-03-06 21:56:01"
+    },
+    {
       "title": "Ten Billion Days and One Hundred Billion Nights",
       "year": 1967,
       "medium": "Novel",
@@ -12836,5 +12853,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 755
+  "count": 756
 }
