@@ -6410,6 +6410,23 @@
       "created_at": "2026-03-06 09:09:50"
     },
     {
+      "title": "Red Matter",
+      "year": 2018,
+      "medium": "Video Game",
+      "creator": "Vertical Robot",
+      "raw_score": 4.2,
+      "total_ratings": 5,
+      "origin": "Spain ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "VR, Aliens, Memory",
+      "image_filename": null,
+      "pitch": "Red Matter is a 2018 sci-fi virtual reality puzzle game developed by the Spanish studio Vertical Robot. The player assumes the role of Agent Epsilon, an agent of the Atlantic Union who crash-lands on Rhea, one of Saturn's moons, to investigate a top-secret Volgravian military research facility. The game features meticulously detailed retro-futuristic environments and a Cold War-inspired setting between two fictional superpowers\u2014the Atlantic Union and the People's Republic of Volgravia. As a VR title, Red Matter emphasizes immersion, allowing players to physically interact with objects, solve puzzles, and explore the atmospheric abandoned station using motion controllers. The game received critical acclaim for its visuals and world-building, though some critics noted that certain puzzles could be frustratingly opaque.",
+      "truth": "Agent Epsilon arrives at the Strelka N3 research facility on Rhea under orders to retrieve classified data about what happened to the station's crew. As Epsilon explores the abandoned Volgravian base, they encounter strange anomalies and visions of a mysterious figure in a cosmonaut suit watching from the shadows.\n\nThe investigation reveals that the Volgravians discovered an alien substance\u2014called \"Red Matter\"\u2014on Rhea's surface. This alien mold-like organism infected the station's personnel, causing hallucinations and psychological deterioration. One scientist, Irina, tried to expose the danger but was poisoned by the security chief Nikolai, who covered it up as an accident.\n\nAs Epsilon digs deeper, a shocking twist reveals that \"Agent Epsilon\" is actually Sasha Riss, a scientist originally assigned to Strelka N3. The entire mission has been a sophisticated virtual reality simulation\u2014a brain interface interrogation designed to extract Volgravian quantum teleportation research from Sasha's mind. Sasha's \"commander\" is actually an interrogator monitoring the simulation, while the mysterious cosmonaut figure is Sasha's own subconscious trying to warn him.\n\nIn the climax, Sasha gains control of the simulation and destroys it, escaping into the real world\u2014but his mind has been transferred into his interrogator's body. The final revelation shows that the \"Atlantic Union\" agent who greets Sasha's new body is actually an undercover Volgravian spy who orchestrated the entire operation.",
+      "core": "Red Matter explores themes of identity and perception through its clever VR-within-VR narrative structure. The game questions what constitutes reality when memories can be manipulated, when simulated experiences feel indistinguishable from truth, and when the line between interrogator and prisoner becomes blurred. The Cold War aesthetic serves as a backdrop for exploring espionage, ideology, and the moral ambiguities of intelligence operations\u2014mirroring real geopolitical tensions while grounding them in a speculative future.\n\nThe alien Red Matter itself represents the unknown and uncontrollable\u2014an otherworldly force that disrupts human conflicts and reveals the fragility of national loyalties when faced with something truly alien. The game's critique of authoritarian secrecy resonates with themes of government manipulation and the cost of pursuing knowledge without ethical boundaries.\n\nVisually, Red Matter stands out for its meticulous craftsmanship\u2014every poster, every piece of propaganda, every environmental detail reinforces the fictional world-building. The developers intentionally distanced themselves from real-world Cold War nations, creating entirely fictional adversaries to explore universal themes of conflict, surveillance, and the psychology of power.",
+      "created_at": "2026-03-06 23:42:09"
+    },
+    {
       "title": "Rendezvous with Rama",
       "year": 1984,
       "medium": "Video Game",
@@ -12938,5 +12955,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 761
+  "count": 762
 }
