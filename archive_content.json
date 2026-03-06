@@ -2194,6 +2194,23 @@
       "created_at": "2026-03-02 09:46:39"
     },
     {
+      "title": "Der Herr vom andern Stern",
+      "year": 1948,
+      "medium": "Film",
+      "creator": "Heinz Hilpert (Director), Werner Illing & Max Christian Feiler (Writers)",
+      "raw_score": 3.3,
+      "total_ratings": 92,
+      "origin": "Germany ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Religion",
+      "image_filename": "Der_Herr_vom_andern_Stern_1948.jpg",
+      "pitch": "Der Herr vom andern Stern (The Gentleman from Another Star) is a 1948 West German science fiction comedy that stands as one of the earliest post-war alien visitation films. Directed by Heinz Hilpert and starring beloved German comedian Heinz R\u00fchmann, the film tells the story of Aldebaran, an alien being who travels through space through concentration alone. When his concentration is broken by the turmoil of post-war Berlin, he is forced to land on Earth and assumes human form\u2014that of a shop mannequin.\n\nThe alien encounters the kafkaesque bureaucracy of post-war Germany, where authorities cannot comprehend his existence and repeatedly pass him between offices. He gains the ability to alter or duplicate objects through concentration, which makes him both a threat and an asset to various factions\u2014politicians, media, weapons manufacturers, and ordinary citizens all seek to exploit his powers. Through it all, he learns about human nature, forms relationships, and ultimately delivers a pointed political allegory about conformity, militarism, and genuine humanity.",
+      "truth": "The film opens with Aldebaran traveling through space in his pure form, observing Earth and deciding to visit. Upon landing in Berlin, he takes the shape of a mannequin in a shop window and is immediately apprehended by police, who cannot understand his lack of identification. Through a series of bureaucratic mishaps, he meets Flora, a young woman whose documents are missing a crucial stamp\u2014Aldebaran magically produces it, and the two form an immediate connection.\n\nAs Aldebaran navigates post-war German society, he encounters various representatives of German society: a general who advocates for \"humane warfare\" with fewer casualties, film producers seeking sensation, and politicians who wish to use him as a mouthpiece. He is asked to deliver a campaign speech, which he reads verbatim\u2014until he breaks character to expose the nonsense and hypocrisy of the party platform, much to the audience's initial applause and subsequent confusion.\n\nAldebaran falls in love with Flora, but complications arise when he also meets her boyfriend Emil, a successful boxer whose career is waning. The love triangle resolves itself as Aldebaran chooses to leave Earth rather than compromise his principles or create discord. Before departing, he delivers a direct address to the camera, lecturing viewers about kindness and unity\u2014a moment that feels like post-war re-education wrapped in science fiction.\n\nThe film ends with Aldebaran returning to space, leaving behind a monument erected by the very people who feared and suspected him.",
+      "core": "This film represents a remarkable artifact of German post-war cinema, serving as what many scholars call a \"mea culpa\" from Heinz R\u00fchmann, one of Hitler's favorite actors who chose to remain in Germany during the Nazi regime. The alien narrative provides a safe vehicle for examining German society through an outsider's eyes\u2014someone who cannot understand war, bureaucracy, or the structures of power that lead to devastation.\n\nThe film's science fiction elements are deliberately fairy-tale like rather than technically rigorous. Aldebaran functions more as a figure of folklore\u2014a being from another realm who observes and judges human behavior. This approach allows for pointed social satire without requiring elaborate effects, which the production clearly could not afford. The special effects are simple but effective, using double exposures and clever editing to show objects disappearing and changing.\n\nThe political allegory is unmistakable: the alien's speech about \"humane warfare\" directly mocks the Nazi military mentality, while his observations about bureaucracy and conformity reflect post-war German society's struggle to reckon with complicity and conformity. The film can be read as an attempt at reconciliation\u2014using the science fiction framework to address difficult truths about human nature and social structures.\n\nDespite its noble intentions, the film was a critical and commercial failure upon release. Audiences in 1948 were not prepared to receive political lectures from the man who had entertained them during the war years. The pacing suffers from the episodic structure, and the message becomes repetitive as the film progresses. However, modern viewers have reassessed the film as a fascinating historical document\u2014one that attempts to process collective guilt through the universal language of science fiction.",
+      "created_at": "2026-03-06 01:12:21"
+    },
+    {
       "title": "Deus Ex",
       "year": 2000,
       "medium": "Video Game",
@@ -11544,5 +11561,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 679
+  "count": 680
 }
