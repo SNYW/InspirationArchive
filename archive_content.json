@@ -4489,6 +4489,23 @@
       "created_at": "2026-03-06 09:56:36"
     },
     {
+      "title": "Le Vingti\u00e8me si\u00e8cle. La vie \u00e9lectrique",
+      "year": 1891,
+      "medium": "Novel",
+      "creator": "Albert Robida",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "France ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Ecology, Technology",
+      "image_filename": "Le_Vingti\u00e8me_si\u00e8cle_La_vie_\u00e9lectrique_1891.jpg",
+      "pitch": "Le Vingti\u00e8me si\u00e8cle. La vie \u00e9lectrique (The Twentieth Century: Electric Life) is an 1891 French science fiction novel by Albert Robida that predicts life in 1955 France. Written in a lively, satirical tone with numerous illustrations by the author, the novel weaves the fictional scientist Philox Lorris's technological innovations into a vision of a future where electricity has transformed every aspect of society. Robida's speculative vision anticipates many technologies that would later become reality\u2014including video calls, electric transportation, and biological weapons\u2014while offering a trenchant critique of industrial progress, militarism, and the dehumanizing effects of unchecked technological advancement.",
+      "truth": "The novel centers on George Lorris, son of the great scientist Philox Lorris, who wishes to marry Estelle Lacombe, a young woman from a middle-class family. Opposed by his father\u2014who wants him to marry either the accomplished Doctoresse Bardoz or Senator Coupard\u2014George takes Estelle on a journey to a traditional village that has resisted modern technology. Meanwhile, Philox Lorris employs his colleague Sulfatin to sabotage the relationship.\n\nPhilox Lorris is working on two revolutionary scientific applications: a biological weapon and a health vaccine. To promote these inventions, he hosts a grand party featuring video recordings of famous performers. Due to a mishap involving the tapes, Estelle saves the concert by providing uncorrupted copies, earning the family's approval. During demonstrations for politicians, Sulfatin accidentally releases the biological weapon, poisoning the guests. However, the health vaccine proves effective, leading to its widespread adoption.\n\nGeorge eventually marries Estelle, and Philox Lorris escapes potential scandal by arranging marriages between Sulfatin and Senator Coupard, and Doctoresse Bardoz and Adrien La H\u00e9ronni\u00e8re\u2014the invalid whom Sulfatin had been treating.",
+      "core": "**Technological Prediction:** Robida's novel remarkably anticipates technologies of the 20th century, including the t\u00e9l\u00e9phonoscope (combining television, VCR, and webcam), individual air vehicles, wireless communication, and electric public transportation. His vision of the \"tele screen\" for home entertainment and communication prefigures both television and video conferencing.\n\n**Social Satire:** The novel critiques the direction of technological society, depicting a world of constant nervous stimulation, overwork, and ecological degradation. Robida presents a future where stress-related illness is endemic, where biological weapons are considered \"humane\" alternatives to conventional warfare, and where technological progress serves military and corporate interests rather than human flourishing.\n\n**Gender and Society:** Robida predicts the emergence of feminist movements and women's political participation, imagining feminine political parties and female professionals. However, his portrayal also reflects the era's limitations regarding gender roles.\n\n**Critical Reception:** While many of Robida's predictions have proven accurate, his work remained relatively obscure compared to contemporaries like Jules Verne. Modern scholars recognize it as an important early example of French science fiction and a pioneering work of technological speculation. The novel's combination of satirical illustration and technological imagination makes it a unique artifact of Victorian-era futurism.\n\n**Historical Significance:** As part of Robida's \"Twentieth Century\" trilogy, this novel represents a distinctly French approach to speculative fiction\u2014one that emphasizes social commentary and satirical illustration over technological adventure. Its vision of a technologically advanced but spiritually hollow society anticipates themes that would later appear in works like Brave New World and 1984.",
+      "created_at": "2026-03-06 21:42:39"
+    },
+    {
       "title": "Le avventure straordinarissime di Saturnino Farandola",
       "year": 1913,
       "medium": "Film",
@@ -12819,5 +12836,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 754
+  "count": 755
 }
