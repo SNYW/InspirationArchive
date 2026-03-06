@@ -7515,6 +7515,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Sultana's Dream",
+      "year": 1905,
+      "medium": "Short Story",
+      "creator": "Rokeya Sakhawat Hossain",
+      "raw_score": 3.78,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Utopia ,",
+      "topics": "Ecology, Religion",
+      "image_filename": "Sultanas_Dream_1905.jpg",
+      "pitch": "Sultana's Dream is a pioneering feminist science fiction short story written by Bengali Muslim author Rokeya Sakhawat Hossain and first published in 1905 in The Indian Ladies' Magazine. The story depicts a futuristic feminist utopia called Ladyland where women have overthrown patriarchal society and now run everything, while men are secluded indoors in mirror-image of the purdah system that confined women in colonial India. Through the protagonist Sultana's tour of this revolutionary society guided by Sister Sara, the story showcases advanced technology including solar power, flying cars, and weather control\u2014all operated by women scientists. This brief but influential work is considered one of the earliest examples of feminist science fiction and a significant critique of both colonial patriarchy and the relationship between science and power.",
+      "truth": "The story opens with Sultana \"thinking lazily of the condition of Indian womanhood\" while sitting in an easychair, when she accidentally falls asleep and wakes up in Ladyland. She is greeted by her friend Sister Sara, who explains that a revolution has occurred: women, led by the Lady Principal of an all-women university, overthrew the men who ruled the nation and now govern through scientific advancement and peaceful governance.\n\nSultana is toured through this remarkable society where: electric machines perform all strenuous labor so that people work only two hours daily; solar ovens provide unlimited clean energy; flying cars traverse the streets; and cloud condensers ensure abundant water supplies. The women have discovered how to trap solar power and control the weather, eliminating poverty and hardship. The men, deemed \"fit for nothing,\" are now shut inside their homes in seclusion\u2014a complete reversal of the purdah system that historically confined women in Indian society.\n\nWhen Sultana expresses surprise at seeing women working in what she considers \"men's fields,\" Sister Sara laughs, explaining that in Ladyland, the roles are reversed: women find it \"mannish\" for men to be outdoors. The society's religion is based on \"Love and Truth,\" and the women have conquered the problems that plagued the old world\u2014mosquitoes, disease, and labor\u2014through science and cooperation rather than domination.",
+      "core": "**Feminist Critique of Patriarchy:** Hossain uses the inversion of gender roles to highlight the absurdity and harm of patriarchal structures. By showing men confined and women in positions of power, the story exposes how gender-based segregation and the exclusion of women from education and public life are artificial constructions rather than natural orders. The witty reversal forces readers to question assumptions about gender and capability.\n\n**Science and Feminism:** The story presents an alternative vision of what science could achieve when pursued by women for peaceful purposes rather than military power. The Lady Principal's research was originally dismissed by men as a \"sentimental nightmare\" for focusing on solving social problems. Hossain critiques how science has historically been allied with military power and imperial domination, arguing that a feminist science could serve humanity differently.\n\n**Colonial Context:** Written during British colonial rule in India, the story contains implicit critique of colonial power structures. The women's revolution parallels the broader Indian independence movement while also critiquing both Western colonialism and traditional patriarchal structures within Indian society. Ladyland does not \"covet other people's land\" or fight for resources\u2014in direct contrast to colonial powers.\n\n**Utopian Vision:** Despite its brevity, Sultana's Dream presents a complete utopian vision: labor is automated, resources are shared, education is universal, and society operates on principles of cooperation rather than competition. The two-hour workday reflects Hossain's socialist leanings and vision of \"luxury communism.\"\n\nThis story remains significant as one of the first science fiction works written by a woman, and certainly the earliest known feminist science fiction from the non-Western world. It predates Charlotte Perkins Gilman's Herland by a decade and offers a uniquely South Asian perspective on utopia, gender, and the possibilities of science.",
+      "created_at": "2026-03-06 21:13:56"
+    },
+    {
       "title": "Superno",
       "year": 2021,
       "medium": "Film",
@@ -12802,5 +12819,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 753
+  "count": 754
 }
