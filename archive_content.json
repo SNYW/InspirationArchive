@@ -5254,6 +5254,23 @@
       "created_at": "2026-03-01 13:58:35"
     },
     {
+      "title": "O-Bi, O-Ba: The End of Civilization",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Piotr Szulkin",
+      "raw_score": 3.6,
+      "total_ratings": 2500,
+      "origin": "Poland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse, Dystopia ,",
+      "topics": "Religion, Isolation",
+      "image_filename": "O-Bi_O-Ba_The_End_of_Civilization_1985.jpg",
+      "pitch": "O-Bi, O-Ba: The End of Civilization is a 1985 Polish post-apocalyptic drama written and directed by Piotr Szulkin, part of his \"asocial fiction\" tetralogy. The film takes place in an underground city called \"The Dome\" where survivors of a nuclear war have been living for one year. The story follows Soft (Jerzy Stuhr), a low-level administrator whose job is to maintain citizen morale by perpetuating the myth of \"The Ark\"\u2014a promised vessel that will rescue the survivors. In reality, the Ark is a lie invented by Soft himself, and the authorities have begun denying its existence to maintain control. As the Dome begins to crack and fail, Soft and Gea (Krystyna Janda), a sex worker who believes in the Ark, attempt to escape. The film is a bleak meditation on authoritarian control, religious manipulation, and the human condition in the face of civilization's collapse.",
+      "truth": "One year after nuclear war devastated Earth, the remnants of humanity survive in an underground structure called \"The Dome.\" The authorities maintain order by promising that a massive vessel called \"The Ark\" is on its way to rescue the survivors and bring them to a new paradise. In reality, the Ark is a fabrication\u2014a myth invented by Soft (Jerzy Stuhr), a mid-level administrator whose job is to keep the population hopeful through propaganda.\n\nAs resources dwindle and the Dome deteriorates, Soft's boss orders him to announce that the Ark will never come, in hopes that accepting their fate will make citizens more docile. This triggers chaos as the population realizes their only hope was a lie.\n\nMeanwhile, Soft has a relationship with Gea (Krystyna Janda), a sex worker who genuinely believes in the Ark and dreams of escape. The couple, along with Soft's half-mad friend who has hidden in a refrigerator for protection, attempt various desperate plans to survive\u2014including attempting to reach the Ark themselves.\n\nThe film culminates in the Dome's collapse. In the final sequence, as light floods into the dying structure, the survivors rush toward what they believe is the Ark arriving, but it may simply be the destructive light of the nuclear wasteland. The ending remains ambiguous and profoundly pessimistic about humanity's capacity for hope or salvation.",
+      "core": "**Authoritarian Control and Propaganda:** The Ark functions as both religious myth and political tool. The authorities initially use it to control the population, then deny it when convenient. This reflects Szulkin's critique of totalitarian regimes that manufacture hope to maintain power, only to crush it when it becomes inconvenient. The film was made during Poland's communist era and functions as an allegory for Soviet-style governance.\n\n**Religion as Manipulation:** The Ark evolves from political propaganda into a quasi-religious belief system. Gea's faith represents genuine human need for hope, while the authorities exploit this need. The film's title references primitive sounds\u2014the first utterances of Szulkin's infant son\u2014suggesting humanity's regression to basic, primitive belief systems after civilization's collapse.\n\n**The Pessimistic Vision:** Szulkin's \"asocial fiction\" series presents a worldview where escape is impossible. Characters cannot break free from systems of control; the Dome represents not just a post-nuclear shelter but the prison of human society itself. The constant surveillance, manipulation, and decay mirror conditions in communist Poland.\n\n**Visual Style:** Cinematographer Witwand Soboci\u0144ski's masterful use of light and shadow creates a oppressive, claustrophobic atmosphere. The Dome's perpetual twilight, neon lighting, and suffocating production design embody the film's themes of entrapment.\n\nO-Bi, O-Ba remains one of the most uncompromising Eastern European post-apocalyptic films, offering a vision of civilization's end that is less about spectacle than about the psychological and social mechanisms of control and despair.",
+      "created_at": "2026-03-06 13:42:10"
+    },
+    {
       "title": "Observer",
       "year": 2017,
       "medium": "Video Game",
@@ -12309,5 +12326,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 724
+  "count": 725
 }
