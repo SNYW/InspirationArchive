@@ -8229,6 +8229,23 @@
       "created_at": "2026-03-01 21:26:37"
     },
     {
+      "title": "The Chninkel",
+      "year": 1986,
+      "medium": "Graphic Novel",
+      "creator": "Jean Van Hamme (writer), Grzegorz Rosi\u0144ski (artist)",
+      "raw_score": 4.22,
+      "total_ratings": 1493,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Evolution",
+      "image_filename": "The_Chninkel_1986.jpg",
+      "pitch": "The Chninkel (Le Grand Pouvoir du Chninkel) is a groundbreaking Franco-Belgian graphic novel that blends fantasy, science fiction, and Biblical allegory into a singular narrative experience. Created by Belgian writer Jean Van Hamme and Polish artist Grzegorz Rosi\u0144ski\u2014better known for their acclaimed Thorgal series\u2014this 1986-1987 work was groundbreaking for being published originally in black and white, a radical departure from the color-heavy tradition of Franco-Belgian comics. The story follows J'on, a diminutive chninkel (a race of small humanoid beings) who is suddenly chosen by the god U'n to bring peace to the war-torn planet Daar. What unfolds is a darkly humorous, philosophically rich tale that mixes inspirations from Tolkien, 2001: A Space Odyssey, and the Bible into something entirely its own.",
+      "truth": "The story is set on the planet Daar, which orbits a binary star system and has been trapped in endless war between three immortal beings: Jargot the Fragrant, Zembria the Cyclops, and Barr-Find the Black Hand. The chninkels are a slave race, serving whichever master currently dominates the battlefield.\n\nJ'on, a chninkel slave to Barr-Finda, survives a bloody battle and gains his freedom when he's left for dead among the corpses. Suddenly, a black monolith appears\u2014the supreme god U'n\u2014and commands J'on to bring peace to Daar within five years or face apocalyptic destruction. This mission aligns with a chninkel prophecy: that one of their kind will become the savior.\n\nReluctant and preferring a quiet life with his love interest G'wel, J'on is thrust into escalating events. He journeys across Daar, encountering various factions and beings, eventually discovering that his \"Great Power\" is the ability to unite the three immortals against himself as a common enemy. This act of sacrifice brings temporary peace\u2014but at the cost of J'on's execution, chained to a monolith and pierced with arrows.\n\nThe twist comes at the end: U'n, furious at the deception, unleashes apocalyptic fire that destroys nearly all life on Daar, including the chninkels. Only a handful of ape-like survivors remain, who eventually reclaim the world but forget their history\u2014including U'n, whose monolith remains on the surface, worshipped by the newly evolved humans. The cycle of religion, prophecy, and destruction begins again.",
+      "core": "The Chninkel is one of the first graphic novels in Franco-Belgian comics history and represents a mature, philosophical approach to the medium. The work operates on multiple levels:\n\n**Religious and Theological Critique:** Van Hamme described it as a \"disenchanted Gospel\" and \"Tolkien-inspired offbeat version of the New Testament.\" J'on parallels Jesus\u2014he's a reluctant savior, performs miracles, and is sacrificed. But the twist ending suggests a cruel, petulant god who destroys creation when its \"savior\" fails to meet expectations. This \"theological marketing\" as Van Hamme calls it, critiques how religions manipulate believers through fear of punishment.\n\n**Cyclical History and Forgetting:** The ending deliberately mirrors 2001: A Space Odyssey\u2014the monolith appears at the dawn of a new civilization. This suggests history repeats: primitive beings worship the god-object, forgetting the previous cycle. It's a bleak view of human nature and religious memory.\n\n**Tolkienian Fantasy:** The chninkels predate Tolkien's hobbits, and the quest structure draws heavily from The Lord of the Rings\u2014though J'on is a far more flawed, lustful, and self-pitying protagonist than Frodo.\n\n**Visual Mastery:** Rosi\u0144ski's artwork, especially in the original black-and-white, is breathtaking. His detailed, dynamic compositions and innovative panel layouts make the graphic novel a visual experience that transcends the black-and-white limitation.\n\nThe work won the 1989 Angoul\u00eame International Comics Festival Audience Prize and remains a landmark in European comics\u2014a dark, mature fantasy that questions rather than affirms.",
+      "created_at": "2026-03-06 17:27:03"
+    },
+    {
       "title": "The City of Lost Children",
       "year": 1995,
       "medium": "Film",
@@ -12564,5 +12581,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 739
+  "count": 740
 }
