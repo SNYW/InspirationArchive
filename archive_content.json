@@ -7396,6 +7396,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The 13th Apostle",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Suren Babayan",
+      "raw_score": 2.85,
+      "total_ratings": 69,
+      "origin": "Russia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration, Isolation",
+      "image_filename": "The_13th_Apostle_1988.jpg",
+      "pitch": "The 13th Apostle is a 1988 Soviet science fiction film directed by Suren Babayan, loosely based on Ray Bradbury's \"The Martian Chronicles.\" When a space expedition meets mysterious tragedy on an alien planet, the crew is wiped out under unexplained circumstances. Fifteen years later, an inspector is sent to investigate why the planetary exploration was abruptly abandoned. His only lead is the sole surviving crew member, Captain Amos, now living in a shelter for retired astronauts who has imposed a strict quarantine on any further exploration of the planet.\n\nThe inspector discovers that the planet's inhabitants have evolved to take on the appearance of the crew members' deceased relatives, using this ability to manipulate the astronauts into believing a quarantine is necessary. The twist reveals that Captain Amos has been accompanied by a mysterious entity\u2014an \"apostle\"\u2014that possesses the ability to manifest as anyone's loved ones, blurring the line between memory and alien intervention.",
+      "truth": "The film opens with the devastating aftermath of a space mission to an unknown planet\u2014all crew members have died under mysterious circumstances. The Soviet space program, shaken by the tragedy, abandons the exploration entirely. \n\nFifteen years pass. An inspector is assigned to reopen the case and determine exactly what happened to the expedition. He travels to a remote shelter for retired astronauts, where he finds Captain Amos\u2014the only survivor of the original mission. Amos is reluctant to discuss the mission, but the inspector persists.\n\nThrough their conversations, the truth emerges: the alien inhabitants of the planet possess the ability to shapeshift, taking on the forms of the astronauts' dead loved ones. They used this power to convince the crew that the planet was under quarantine, that returning would bring doom to Earth. The crew, manipulated by visions of their past, chose to die rather than leave.\n\nThe climax reveals that Amos has been \"accompanied\" by one of these beings\u2014a shapeshifted entity that calls itself the \"apostle,\" which has followed him back to Earth. The film ends ambiguously, with the inspector facing a difficult decision about what to do with this knowledge.",
+      "core": "**Alien Encounter as Psychological Horror:** Rather than relying on visual spectacle or action, the film explores the terror of not knowing what is real. The aliens don't attack with weapons\u2014they attack with memory, love, and grief. The crew wasn't destroyed by violence but by emotional manipulation, by the unbearable weight of seeing lost family members again.\n\n**Isolation and the Astronaut's Burden:** The film examines the psychological toll of space exploration\u2014the isolation, the distance from home, and the vulnerability of those who venture into the unknown. Captain Amos represents both the heroism and the brokenness of pioneering exploration.\n\n**Cold War Context:** Made in 1988 during the late Soviet period, the film reflects anxieties about the unknown, the unreachability of truth, and the weight of decisions made in isolation. The inspector's investigation mirrors broader questions about transparency and accountability.\n\n**Adaptation and Meaning:** While inspired by Bradbury's \"The Martian Chronicles,\" Babayan transforms Bradbury's stories into a unified narrative about human connection, memory manipulation, and the cost of first contact. The \"13th Apostle\" of the title suggests religious imagery\u2014the alien as a kind of apostle or messenger, but one whose message is fundamentally unknowable.",
+      "created_at": "2026-03-06 13:58:23"
+    },
+    {
       "title": "The 27th Day",
       "year": 1957,
       "medium": "Film",
@@ -12326,5 +12343,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 725
+  "count": 726
 }
