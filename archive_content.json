@@ -3792,6 +3792,23 @@
       "created_at": "2026-03-03 18:03:24"
     },
     {
+      "title": "Jabberwocky",
+      "year": 1971,
+      "medium": "Animated Short",
+      "creator": "Jan \u0160vankmajer",
+      "raw_score": 3.6,
+      "total_ratings": 1600,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "",
+      "image_filename": "Jabberwocky_1971.jpg",
+      "pitch": "Jabberwocky is a 14-minute Czechoslovak animated short film directed by Jan \u0160vankmajer, based loosely on Lewis Carroll's 1871 poem \"Jabberwocky\" and drawing inspiration from Czech surrealist V\u00edt\u011bzslav Nezval's children's book \"Ani\u010dka sk\u0159\u00edtek a Slam\u011bn\u00fd Hubert.\" Created in 1971 during Czechoslovakia's normalization period, this film represents \u0160vankmajer's distinctive fusion of stop-motion animation, live-action elements, and surrealist imagery. The film was produced by Kr\u00e1tk\u00fd film Praha for Weston Woods Studios and stands as a seminal work in the Czech animator's early career, showcasing the techniques and thematic concerns that would define his later international acclaim.",
+      "truth": "The poem by Lewis Carroll is read aloud as a wardrobe is shown moving through a forest. The wardrobe opens to reveal a strange playroom inside, watched over by the portrait of a stern old man. A boy's sailor suit escapes the wardrobe to dance around by itself before the room fills with branches that quickly sprout leaves, bloom, and produce fruit. The fruits fall and burst on the floor, revealing themselves to be full of worms. A doll is knocked over and other, smaller dolls scramble free from its body. They are in turn cooked and consumed by still larger dolls. Still more small dolls are chased around a table by a flatiron, which presses them into paper dolls.\n\nThe sailor suit returns to unleash an army of tin soldiers that do battle with a large baby doll that eventually defeats them; the baby doll opens to reveal the rubber nipple of a baby bottle. A child's lesson book opens and tears out its own leaves to make paper airplanes that fly away through the window. A folding knife with a handle shaped like a woman appears on a table covered with a lace doily. The knife unfolds itself and does a short dance while its point tears the doily to tatters. The knife closes itself into its woman-shaped handle and blood pours out of the woman's back, staining the doily's remains.\n\nInterspersed between these scenes is a recurring sequence of a child's maze drawn on toy blocks, in which a line struggles to free itself; whenever it hits a dead end, a live-action black cat leaps out and scatters the blocks. In the final sequence, the line reaches the end of the maze and is free to scrawl all over the walls of the playroom. The line pauses to deface the portrait of the old man before fleeing out of the window. The wardrobe opens once more to reveal a man's dark, stodgy suit where the playful sailor suit once hung and the black cat in a cage.",
+      "core": "**Childhood and the Uncanny:** \u0160vankmajer explores the dark undercurrents of childhood imagination, transforming innocent toys into agents of violence, consumption, and sexuality. The playroom\u2014typically associated with innocence\u2014becomes a theater of surreal horror where dolls consume each other and domestic objects turn threatening. This reflects \u0160vankmajer's interest in Freudian concepts of the uncanny (das Unheimliche)\u2014the familiar made strange and unsettling.\n\n**Surrealist Transformation:** Drawing from Czech surrealism and the work of artists like Max Ernst and Ren\u00e9 Magritte, \u0160vankmajer employs collage-like juxtaposition of disparate elements. The animation technique combines stop-motion puppets, live-action elements, and hand-drawn animation, creating a tactile, dreamlike quality. The recurring maze motif represents the prison-like constraints of childhood and the struggle for freedom and self-expression.\n\n**Criticism of Authority:** The stern portrait of the old man who watches over the playroom can be read as a symbol of paternal authority or the oppressive regimes that \u0160vankmajer experienced living under Czechoslovakia's communist government. The defacement of this portrait in the film's climax suggests a rejection of authoritarian control\u2014a theme that resonated during the normalization period.\n\n**Consumption and Decay:** The film is permeated with themes of consumption\u2014dolls eating dolls, fruits bursting to reveal worms, the knife stabbing the woman-figure and drawing blood. These images reflect \u0160vankmajer's ongoing preoccupation with food, cannibalism, and the transmutation of matter\u2014themes that would become central to his later work.\n\n**Influence and Legacy:** Jabberwocky established \u0160vankmajer's international reputation and demonstrated his unique ability to blend Surrealist techniques with animation. The film influenced generations of animators, including Terry Gilliam, Tim Burton, and the Quay Brothers, all of whom cite \u0160vankmajer as a major influence on their work.",
+      "created_at": "2026-03-06 08:40:40"
+    },
+    {
       "title": "Je t'aime, je t'aime",
       "year": 1968,
       "medium": "Film",
@@ -12020,5 +12037,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 707
+  "count": 708
 }
