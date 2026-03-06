@@ -375,6 +375,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "A r\u00e9gi id\u00f6k sci-fije",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Andras Rajnai",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Hungary ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "A_r\u00e9gi_id\u00f6k_sci-fije_1972.jpg",
+      "pitch": "A r\u00e9gi id\u00f6k sci-fije (Sci-fi of Old Times) is a wildly experimental 1972 Hungarian experimental short film that functions as more of a visual poem than a conventional narrative. Created by director Andras Rajnai at Hungarian Television (MTV), this psychedelic journey through space uses minimal electronic effects to create a hypercolorful, hallucinogenic trip through the furthest reaches of imagination. The film pays homage to classic science fiction writers like H.G. Wells and A. Merritt while crafting something entirely its own\u2014a wordless odyssey of cosmonauts traveling through strange worlds.",
+      "truth": "The film follows a group of cosmonauts on a journey through alien landscapes and surreal environments. They encounter holograms on a desert planet, monstrous photographically enlarged lizards, giant floating heads in space, and a long sequence entitled \"Hologram containing the memories of existence\" featuring dancers overlaid with dazzling geometric images. The cosmonauts discover a giant robot buried in the desert, who shows them terrifying images of a space war from the distant past.\n\nThe production used Chromakey and electronic tools available at Hungarian Television in the early 1970s, creating what has been described as something you'd expect to see projected on screen behind a live rock concert. The film has a distinctly Seventies aesthetic with large, detailed spaceships, authentic-looking cosmonauts, and a surreal, Metal Hurlant-inspired visual style reminiscent of Philippe Druillet's Lone Sloane comics.",
+      "core": "A r\u00e9gi id\u00f6k sci-fije represents a fascinating artifact of Eastern Bloc science fiction filmmaking\u2014a poetic, experimental approach to the genre that emerged from behind the Iron Curtain. Rajnai's work prioritized visual poetry and mood over narrative clarity, creating something that was meant to be experienced rather than merely understood.\n\nThe film is notable for its unique blend of science fiction imagery with artistic ambition. Rather than telling a conventional story, Rajnai created a sensory experience that evokes the wonder and strangeness of space exploration through abstract visuals and electronic effects. It's a remarkable example of how sci-fi could be approached as art rather than entertainment in the Eastern European context.\n\nThe film remains mysterious\u2014its exact date and production history are debated, with some sources suggesting it may actually be from 1982 rather than 1972. Regardless of its precise chronology, it stands as a testament to the experimental filmmaking possibilities within state-run television studios of socialist Hungary.",
+      "created_at": "2026-03-06 04:57:35"
+    },
+    {
       "title": "A.I. Rising",
       "year": 2018,
       "medium": "Film",
@@ -11782,5 +11799,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 693
+  "count": 694
 }
