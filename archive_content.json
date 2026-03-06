@@ -3129,6 +3129,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Frankenstein",
+      "year": 1910,
+      "medium": "Film",
+      "creator": "J. Searle Dawley (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "Frankenstein is a landmark 1910 American short silent horror film produced by Edison Studios, widely recognized as the first screen adaptation of Mary Shelley's 1818 novel. Directed by J. Searle Dawley, this 16-minute one-reeler follows young scientist Dr. Frankenstein as he discovers the \"mystery of life\" and creates a creature from a blend of chemicals in his laboratory. The monster that emerges is hideous and terrible, causing Frankenstein to flee in horror. The film takes significant liberties with Shelley's source material, most notably in its conclusion: rather than the tragic rampage of the novel, the monster simply vanishes upon seeing its own reflection in a mirror, disappearing without ever harming Victor's fianc\u00e9e or younger brother.",
+      "truth": "The film opens with Frankenstein bidding farewell to his sweetheart and father as he departs for university to study sciences. At college, he becomes obsessed with discovering the secret of creating life. After two years of research, he finally succeeds in his experiment one night, using chemicals in a large cauldron to bring his creation to life. The result is a hideous, abhorrent monster that horrifies Frankenstein even as it emerges from the laboratory apparatus.\n\nFrankenstein flees in terror, only to find the monster peering at him through the curtains of his bed. He faints and is found by his servant, who revives him. After weeks of illness, Frankenstein returns home a broken, weary man. The creature follows him and, in the film's final sequence, encounters its own reflection in a mirror\u2014prompted by some interpretations to see its own reflection as an abomination\u2014and simply vanishes from existence. This conclusion differs dramatically from the novel, where the monster's continued existence leads to further tragedy.",
+      "core": "**Pioneering Adaptation:** This film holds immense historical significance as the first-ever screen adaptation of Mary Shelley's Frankenstein. It established the visual vocabulary for depicting the scientist's laboratory and the creation scene that would become iconic in countless subsequent adaptations.\n\n**Early Horror Cinema:** As one of the earliest horror films ever made, Frankenstein (1910) demonstrates the medium's potential for generating visceral fear and visual spectacle. The creature's creation scene, featuring a cauldron of \"blazing chemicals,\" was described in contemporary trade publications as \"the most weird, mystifying and fascinating scene ever shown on a film.\"\n\n**The Mirror Ending:** The film's unique conclusion\u2014where the monster vanishes upon seeing its reflection\u2014represents an early example of creative adaptation that would influence later treatments. This interpretation emphasizes self-recognition and self-loathing rather than the monster's external aggression.\n\n**Technical Achievement:** The film showcased the capabilities of Edison Studios and demonstrated that literary adaptations could work effectively in the new medium of motion pictures, paving the way for future literary adaptations in cinema.",
+      "created_at": "2026-03-06 18:12:55"
+    },
+    {
       "title": "Frankenweenie",
       "year": 1984,
       "medium": "Animated Short",
@@ -12615,5 +12632,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 742
+  "count": 743
 }
