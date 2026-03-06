@@ -12054,6 +12054,23 @@
       "created_at": "2026-03-05 02:29:42"
     },
     {
+      "title": "Tokyo: The Last Megalopolis",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Akio Jissoji (Director)",
+      "raw_score": 3.0,
+      "total_ratings": 538,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion",
+      "image_filename": "Tokyo_The_Last_Megalopolis_1988.jpg",
+      "pitch": "Tokyo: The Last Megalopolis is a 1988 Japanese epic tokusatsu historical dark fantasy/science fiction film directed by Akio Jissoji and based on the award-winning novel Teito Monogatari by Hiroshi Aramata. With a budget of around 1 billion yen (roughly $8 million), it was one of the most expensive live-action Japanese special effects films of the decade. The film became a notable success in Japan, ranking among the top ten highest-grossing domestic motion pictures of 1988, and is now regarded as a respected cult classic.\n\nThe story spans from 1912 to 1927, depicting a mystical battle over Tokyo's destiny. In 1912, master onmyoji Yasumasa Hirai warns Baron Eiichi Shibusawa that the vengeful spirit of Taira no Masakado\u2014an ancient warlord turned vengeful spirit\u2014must not be disturbed, as its power could destroy the city. When Shibusawa allows the Tsuchimikado sect to bless Tokyo, they are opposed by Yasunori Kato, a former Imperial Army lieutenant who is actually an oni (demon) seeking to awaken Masakado's spirit and destroy Tokyo.",
+      "truth": "The film begins in 1912 with Yasumasa Hirai explaining Tokyo's history as one of Japan's most haunted cities to Baron Eiichi Shibusawa. Hirai warns that the vengeful spirit of Taira no Masakado must not be disturbed, as it holds enough power to destroy the city. Shibusawa authorizes the Tsuchimikado sect to bless Tokyo, but their efforts are countered by Yasunori Kato\u2014a former Imperial Army lieutenant who is secretly an oni (demon)\u2014who seeks to awaken Masakado's spirit to destroy Tokyo.\n\nKato attempts to kidnap Yukari Tatsumiya, a descendant of Masakado, to use as a medium. The Tsuchimikado clan, led by Hirai, protects her and performs the monoimi ceremony to defend her. Kato launches a frontal assault on the temple with shikigami (spirit summons), but escapes with Yukari. However, Masakado rejects his offer. After Emperor Meiji's death, Hirai performs seppuku to divine the year of Tokyo's destruction: 1923\u2014the Year of the Pig.\n\nIn 1923, Kato uses supernatural powers to stimulate the Great Kanto Earthquake. In 1927, during the construction of Japan's first subway, Kato's forces confront the Tsuchimikado clan and their allies\u2014including a robot named Gakutensoku. The battle culminates in Kato's defeat, though he kidnaps shrine maiden Keiko Mekata and escapes to Manchuria, leaving Tokyo's fate uncertain.",
+      "core": "Tokyo: The Last Megalopolis represents a unique fusion of Japanese historical fantasy and science fiction, pioneering the \"urban fantasy\" approach to Japanese history by treating the supernatural as an active force in modern society. The film introduced mainstream audiences to onmy\u014dd\u014d (Japanese esoteric cosmology) and feng shui mythology, influencing countless manga, anime, and novels that deal with the supernatural in modern settings.\n\nThe film explores themes of tradition versus modernization, as ancient mystical forces clash with Japan's rapid industrialization in the early 20th century. It presents Tokyo as a city whose very geography is shaped by mystical forces, where the ancient battle between kami (gods) and oni (demons) continues beneath the surface of modern life. The conflict between Kato and the Tsuchimikado clan represents the tension between destruction and preservation, with Kato arguing that modern Japan has forgotten its spiritual roots while his opponents seek to balance progress with tradition.\n\nThe production is notable for its elaborate sets\u2014including a 300 million yen life-sized recreation of 1927 Ginza\u2014and its groundbreaking use of Sony HDVS equipment, making it Japan's first full-scale high definition VFX film. The collaboration with Swiss artist H.R. Giger for conceptual creature design, though Giger expressed disappointment with the final result, demonstrates the ambitious scope of the production.\n\nThe film bridges tokusatsu tradition with serious thematic content, treating its supernatural elements with gravity rather than typical genre fare. Its success paved the way for the franchise including a sequel, OVA remake, and spinoff films, while producer Takashige Ichise went on to pioneer the J-Horror boom with the Ring and Ju-On series.",
+      "created_at": "2026-03-06 22:16:06"
+    },
+    {
       "title": "Tomorrow I'll Wake Up and Scald Myself with Tea",
       "year": 1977,
       "medium": "Film",
@@ -12853,5 +12870,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 756
+  "count": 757
 }
