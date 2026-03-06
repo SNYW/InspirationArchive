@@ -11238,6 +11238,23 @@
       "created_at": "2026-02-28 23:35:30"
     },
     {
+      "title": "Toward Meeting a Dream",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Mikhail Karyukov, Otar Koberidze",
+      "raw_score": 2.95,
+      "total_ratings": 325,
+      "origin": "Russia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Toward_Meeting_a_Dream_1963.jpg",
+      "pitch": "Toward Meeting a Dream is a 1963 Soviet science fiction film directed by Mikhail Karyukov and Otar Koberidze, produced by Odessa Film Studios. The film follows aliens from the planet Centuria who pick up human music\u2014specifically a song titled \"Apple Trees Will Blossom on Mars\" composed by cosmonaut Andrei Sayenko\u2014and become intrigued enough to dispatch a spacecraft to investigate its source. However, their ship crashes on Mars, prompting Soviet cosmonauts to launch a daring rescue mission from their moon base aboard the spaceship Ocean.",
+      "truth": "The plot centers on the rescue mission mounted by Soviet cosmonauts after receiving a distress signal from the crashed Centurian vessel on Mars. The crew consists of Flight Commander, cosmonaut Tanya Krilova, and the upbeat Pol, whose primary concern is meeting alien women. Upon reaching Mars, they discover a dead alien but soon make two critical discoveries: they haven't got enough fuel to return home, necessitating another rescue mission from Earth, and another alien survivor has crashed on Mars' moon Phobos in an escape pod.\n\nA subplot involves Dr. Laungton, a Western scientist who urges caution, suggesting the aliens might be hostile and intent on colonizing Earth. However, the Soviet cosmonauts proceed with peaceful intentions. The aliens are ultimately revealed to be peaceful, and the film ends with an optimistic note about humanity's first contact with alien life resulting in hope and understanding rather than conflict.\n\nThe film was notably plundered by Roger Corman for its special effects footage, which was reused in Curtis Harrington's Queen of Blood (1966) starring John Saxon, Dennis Hopper, and Basil Rathbone.",
+      "core": "The film represents an idealistic strand of Soviet science fiction that emphasized peaceful exploration and cooperation rather than conflict with the Other. Unlike American science fiction films of the 1950s, which often depicted alien contact as threatening, Toward Meeting a Dream presents contact as an opportunity for mutual understanding and friendship between civilizations.\n\nThe film also reflects the optimism of the early space age, specifically the aftermath of Yuri Gagarin's historic first human spaceflight in 1961. The Soviet cosmonauts are portrayed as heroic yet approachable figures representing the best of humanity reaching out into the cosmos. The narrative's resolution\u2014that the alien ambassador must be ferried back to Earth but one crew member will need to stay on Mars\u2014hints at sacrifice and the costs of exploration, though the dreamlike ending leaves these tensions unresolved.\n\nVisually, the film was praised for its impressive production design and special effects, which were considered advanced for their time. Despite some plot inconsistencies attributed to potential cuts in the production, the film remains a fascinating artifact of Soviet science fiction cinema and its particular blend of optimism and spectacle.",
+      "created_at": "2026-03-06 07:42:13"
+    },
+    {
       "title": "Transarctica",
       "year": 1993,
       "medium": "Video Game",
@@ -11952,5 +11969,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 703
+  "count": 704
 }
