@@ -9028,6 +9028,23 @@
       "created_at": "2026-03-05 07:16:23"
     },
     {
+      "title": "The Fortress",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Mikl\u00f3s Szinet\u00e1r",
+      "raw_score": 3.45,
+      "total_ratings": 120,
+      "origin": "Hungary ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Megacorps",
+      "image_filename": null,
+      "pitch": "The Fortress (Hungarian: Az er\u0151d) is a 1979 Hungarian science fiction film that blurs the line between dystopian thriller and black comedy. Set in an ambiguous future, the film takes place at a luxurious resort where extremely wealthy guests pay to participate in an elaborate war game simulation. They are given weapons, trained for a week, and then sent to \"battle\" against hired mercenaries in a decommissioned fortress\u2014using live ammunition. The experience is meant to be an adrenaline-fueled thrill for the jaded elite, but when things go wrong, the simulation becomes terrifyingly real. Directed by Mikl\u00f3s Szinet\u00e1r, the film was entered into the 11th Moscow International Film Festival and remains a cult classic of Eastern European speculative cinema.",
+      "truth": "The film opens with what appears to be an assassination that establishes the darkly comic tone. The story then moves to a sleek, modern resort where wealthy guests arrive for a unique vacation experience: participating in a reconstructed World War II-era siege. The guests, each with their own motivations\u2014from a power-hungry man eager to command to a suicidal woman hoping to die\u2014undergo a week of training alongside professional mercenaries hired to play the enemy.\n\nThe resort is operated by a shadowy corporation that has converted abandoned fortresses into immersive war game arenas. Everything is carefully choreographed: the weapons have engineered weak spots, the \"enemy\" follows scripts, and death tolls are calculated and approved. The corporation meticulously plans which guests can safely be killed and how many deaths local authorities will cover up.\n\nHowever, the unstable commander of a new group of guests decides to make the game \"real\" by executing his own soldiers after a failed attack. As the simulation spirals out of control, the guests realize they cannot end their war until the full 48 hours pass. Surrendering means torture at the hands of the mercenaries, forcing them to fight to the death in what has become a genuine life-or-death struggle. The film concludes with a cynical twist that encapsulates the decadence and moral corruption of the wealthy participants.",
+      "core": "The Fortress is a razor-sharp satire on class warfare and the dehumanization of the poor. The wealthy guests treat what is essentially murder as entertainment\u2014a sick game where they can safely act out their violent fantasies against real people (the mercenaries and each other) without consequence. The film suggests that the ultra-rich view ordinary human lives as expendable entertainment, reducing survival to a pleasure activity.\n\nThe ambiguous setting\u2014never clearly specifying the country, time period, or political system\u2014allows the film to function as a critique of both Western capitalism and Soviet-style corruption. The local officials who collude with the corporation to cover up deaths mirror the bureaucratic complicity seen in authoritarian regimes, while the resort's commodification of violence reflects the worst excesses of capitalist exploitation.\n\nThe film also explores themes of violence as spectacle and the thin line between simulation and reality. When the game stops being \"fun\" and becomes genuinely dangerous, the guests must confront the reality that their casual disregard for human life has become their own doom. It's a precursor to later films like The Running Man and serves as a grim reminder that treating survival as entertainment has real consequences.",
+      "created_at": "2026-03-06 19:46:21"
+    },
+    {
       "title": "The Future of Another Timeline",
       "year": 2019,
       "medium": "Novel",
@@ -12700,5 +12717,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 747
+  "count": 748
 }
