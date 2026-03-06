@@ -5611,6 +5611,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Puszka Pandory",
+      "year": 1986,
+      "medium": "Video Game",
+      "creator": "Marcin Borkowski",
+      "raw_score": 1.6,
+      "total_ratings": 2,
+      "origin": "Poland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Rebellion, Isolation",
+      "image_filename": "Puszka_Pandory_1986.jpg",
+      "pitch": "Puszka Pandory (Pandora's Box) is a pioneering Polish text adventure game created in 1986 by Marcin Borkowski for the ZX Spectrum computer. Set in a post-apocalyptic world, the player controls a protagonist sent to investigate an uninhabited island where a deadly missile system threatens to destroy what remains of humanity. The game features 1600 explorable locations across the island, making it one of the largest text adventure worlds of its era. Released during Poland's communist era under severe technical constraints\u2014the ZX Spectrum had only 48 kilobytes of memory\u2014Borkowski created the game as a technical challenge to push beyond the limitations of the platform. Remarkably, it was the first Polish video game to have its description appear in the Polish press, and Borkowski himself wrote the first extensive review under the pseudonym \"Karol B. Mirowski.\"",
+      "truth": "The player begins their journey on a vast, abandoned island that serves as the setting for the game's extensive text-based world. The island comprises approximately 1600 distinct locations, most of which are empty\u2014a design choice that emphasizes exploration and the eerie loneliness of the post-apocalyptic setting. As the protagonist moves through this desolate landscape, they must navigate using a text parser interface, collecting information and items while uncovering the island's secrets.",
+      "core": "**Technical Achievement Under Constraints:** Puszka Pandory represents a landmark in Polish gaming history not just for its content but for its technical accomplishments. Borkowski created the game as a deliberate challenge to overcome the severe memory limitations of the ZX Spectrum, which had only 48KB of RAM. The resulting game packed an enormous world into a platform that seemed incapable of supporting such ambition, demonstrating the ingenuity of Polish programmers during the communist era when access to Western technology was severely restricted.\n\n**Post-Apocalyptic Gaming Legacy:** The game stands as an early example of post-apocalyptic video game storytelling, predating many famous entries in the genre. The premise\u2014exploring a deserted landscape to prevent the final destruction of humanity\u2014echoes themes that would become central to the post-apocalypse genre in later decades. The focus on exploration and survival in an empty world created a mood of profound isolation that distinguished it from more action-oriented games of the period.\n\n**Historical Significance in Polish Gaming:** According to the book \"Polish Bytes,\" Puszka Pandory holds the distinction of being the first video game written by a Pole that was attempted to be sold in Poland and whose description appeared in Polish press. This makes it a foundational work in the history of Polish game development, representing the birth of a national game development culture that would eventually produce internationally successful titles like The Witcher and Dying Light. The game's 25th anniversary in 2011 was marked by the release of 100 limited edition copies at the Pozna\u0144 Game Arena, demonstrating its enduring significance in Polish gaming culture.",
+      "created_at": "2026-03-06 04:09:50"
+    },
+    {
       "title": "Quake 4",
       "year": 2005,
       "medium": "Video Game",
@@ -11748,5 +11765,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 691
+  "count": 692
 }
