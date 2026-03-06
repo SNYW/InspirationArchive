@@ -1276,6 +1276,23 @@
       "created_at": "2026-03-03 02:34:38"
     },
     {
+      "title": "Berzerk",
+      "year": 1980,
+      "medium": "Video Game",
+      "creator": "Alan McNeil (designer), Stern Electronics",
+      "raw_score": 3.5,
+      "total_ratings": 150,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": null,
+      "pitch": "Berzerk is a pioneering arcade maze shooter from 1980 that puts players inside a deadly labyrinth filled with robots hunting them down. The player controls a humanoid character trapped in a series of maze-like rooms, each filled with robots that slowly chase and shoot at the player. The game introduced one of video gaming's most iconic villains: Evil Otto, a bouncing smiley face that cannot be destroyed and relentlessly pursues the player once it appears. Notably, Berzerk was one of the first arcade games to feature digitized speech, with robots taunting players with phrases like \"The humanoid must not escape\" and \"Intruder alert, intruder alert!\" The game was a major commercial success, selling around 15,000 arcade cabinets, and influenced countless subsequent shooters including the classic Robotron: 2084.",
+      "truth": "The player controls the Humanoid Intruder, a human trapped in a complex of rooms filled with deadly robots. Each room contains robots that chase the player and fire projectiles in eight directions. The robots come in different types: yellow robots that don't shoot, red robots that fire single shots, and white robots that fire double shots. Players must destroy all robots in a room to advance, but Evil Otto\u2014the game's mascot and ultimate threat\u2014eventually enters from wherever the player entered the room. Evil Otto cannot be destroyed and moves through walls to hunt the player. \n\nDeath comes from robot projectiles, touching maze walls, or contact with Evil Otto or any robot. The game ends when all lives are lost. Notably, a player named Peter Burkowski reportedly died of a heart attack after achieving a high score on the game in 1982\u2014one of the first documented cases of a video game-related death, highlighting the intense psychological stress the game produced.\n\nThe game's dialogue includes famous quotes like:\n- \"The humanoid must not escape!\"\n- \"Intruder alert! Intruder alert!\"\n- \"Destroy him! Destroy him!\"\n- \"You are in a maze!\"",
+      "core": "Berzerk represents a pivotal moment in arcade gaming history. Its combination of maze gameplay, robot enemies, and voice synthesis created unprecedented tension. The game popularized several elements: the dual joystick control scheme that influenced Robotron: 2084, the concept of an undefeatable final enemy (inspiring countless boss battles), and speech in arcade games.\n\nThe game also reflects anxieties about automation and technology run amok\u2014robots hunting humans in confined spaces mirrored fears about industrial replacement. Evil Otto, named after an office manager who annoyed engineers with policies, became an iconic antagonist precisely because he cannot be beaten; the best any player can do is delay the inevitable.\n\nThe game inspired Eugene Jarvis to create Robotron: 2084, which refined and expanded Berzerk's formula. Together, these games defined the \"twin-stick shooter\" genre and influenced everything from modern bullet-hell games to the design of roguelikes and procedural generation.",
+      "created_at": "2026-03-06 04:26:20"
+    },
+    {
       "title": "Beyond the Black Rainbow",
       "year": 2010,
       "medium": "Film",
@@ -11765,5 +11782,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 692
+  "count": 693
 }
