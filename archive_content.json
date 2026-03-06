@@ -426,6 +426,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Abrigo Nuclear",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Roberto Pires",
+      "raw_score": 3.15,
+      "total_ratings": 127,
+      "origin": "Brazil ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse, Dystopia ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": "Abrigo_Nuclear_1981.jpg",
+      "pitch": "Abrigo Nuclear (Nuclear Shelter) is Brazil's first science fiction film, directed by Roberto Pires and released in 1981. Set in a dystopian future where Earth's surface has become radioactively polluted due to atomic waste from nuclear power plants, the film follows the population forced to live in underground nuclear shelters. The story questions the use of nuclear power and explores themes of environmental destruction, human survival, and the consequences of technological hubris. Produced during Brazil's military dictatorship period, the film also carries implicit political subtext about living under authoritarian rule.",
+      "truth": "In the future, the Earth's surface is rendered uninhabitable due to radioactive pollution from nuclear power plant waste. The surviving human population has been forced to live in underground nuclear shelters, leaving the surface world abandoned and toxic. The film follows characters living in one of these shelters as they grapple with the reality of their confined existence.\n\nRoberto Pires, who died in 2001, created what is considered Brazil's pioneering science fiction film. The production was notable for its ambitious vision despite limited budget, creating a compelling depiction of a post-nuclear world that resonated with contemporary anxieties about nuclear power following incidents like Three Mile Island and Chernobyl. The film's exploration of a society confined underground parallels the political situation in Brazil during the military dictatorship, where citizens lived under restrictive conditions while the government controlled information and movement.\n\nThe technical execution, particularly given the Brazilian cinema context of the early 1980s, showed considerable ambition in constructing this dystopian world. The film's concerns with environmental destruction and technological catastrophe placed it within a global conversation about nuclear age anxieties, while its uniquely Brazilian perspective offered a different vantage point on these universal themes.",
+      "core": "**Nuclear Anxiety and Environmental Destruction:** The film directly addresses fears about nuclear power that emerged strongly in the late 1970s and early 1980s. Brazil had recently begun its nuclear program during the military government, making this film a pointed commentary on the nation's technological choices. The portrayal of a devastated Earth serves as a warning about the consequences of unchecked industrial development.\n\n**Underground Society and Authoritarianism:** The underground shelter setting creates a natural metaphor for living under authoritarian rule\u2014confined, controlled, cut off from the outside world, with limited agency. The film's production during Brazil's military dictatorship (1964-1985) likely made such allegories attractive to filmmakers and audiences alike.\n\n**Brazilian Science Fiction Pioneer:** Abrigo Nuclear holds historical significance as Brazil's first science fiction feature film. Its existence helped establish a tradition of Brazilian genre cinema that would later include productions like O Homem do Sputnik (1959) and The Fifth Power (1962), though the genre remained underrepresented in Brazilian cinema for decades.\n\nThe film remains a significant but largely overlooked piece of Latin American science fiction, representing an important early voice in Brazilian speculative cinema's engagement with global genre traditions.",
+      "created_at": "2026-03-06 16:43:44"
+    },
+    {
       "title": "Accumulator 1",
       "year": 1994,
       "medium": "Film",
@@ -12513,5 +12530,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 736
+  "count": 737
 }
