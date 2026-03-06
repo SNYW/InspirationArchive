@@ -9929,6 +9929,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Quatermass Experiment",
+      "year": 1953,
+      "medium": "Serial Film",
+      "creator": "Nigel Kneale",
+      "raw_score": 3.55,
+      "total_ratings": 512,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fiction ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "The Quatermass Experiment_1953.jpg",
+      "pitch": "The Quatermass Experiment is a groundbreaking British television serial that aired on the BBC in summer 1953, marking the first science fiction production written specifically for an adult television audience. When the first crewed British rocketship returns from space, only one astronaut emerges\u2014and he is behaving strangely. Professor Quaterass and his team soon discover that an alien presence entered the vessel during its flight, and it is rapidly transforming the astronaut into a plant-like organism that threatens to consume all life on Earth. Only two of the original six episodes survive in the BBC archives; the rest were never recorded and remain lost.",
+      "truth": "The story follows Professor Bernard Quatermass, the pioneering rocket scientist behind Britain's first crewed space mission. When the spacecraft returns from its historic journey, it crash-lands in Wimbledon, London. Quatermass and his team reach the site and discover only one crew member, Victor Carroon\u2014the other two spacesuits are mysteriously empty, and the ship's door was never opened during the flight.\n\nCarroon is gravely ill and behaving erratically. As the story unfolds, it becomes horrifyingly clear that an alien organism has entered Carroon's body, physically absorbing the other two crew members. The creature rapidly transforms Carroon into a monstrous plant-like entity. Quatermass analyzes samples and realizes the alien's spores will consume all life on Earth.\n\nMeanwhile, Scotland Yard investigates, gangsters kidnap Carroon for ransom, and the creature escapes into London. In the climactic final episode, the creature takes root inside Westminster Abbey. Quatermass and British Army troops rush to destroy it, but conventional weapons fail. With only one hour until the creature brings about doomsday, Quatermass persuades the three human minds trapped within the creature\u2014the absorbed crew members\u2014to sacrifice themselves to destroy the alien and save mankind.",
+      "core": "The Quatermass Experiment is historically significant as the progenitor of adult television science fiction and directly influenced the creation of Doctor Who in 1963. Writer Nigel Kneale pioneered themes of science going wrong, the dangers of space exploration, and the vulnerability of humanity against cosmic threats\u2014themes that would become staples of the genre.\n\nThe serial debuted in the shadow of the Cold War and atomic age anxieties, reflecting contemporary fears about technological progress and the unknown. Its depiction of an Englishman's transformation into an alienated monster dramatized gendered fears about postwar and post-colonial British identity. Only two episodes survive as poor-quality recordings, making the missing episodes among the most sought-after lost treasures of British television history.\n\nDirector Rudolph Cartier brought innovative visual techniques to the production, including the iconic \"monster\" constructed from gloves covered in plant materials\u2014prepared by Kneale and his then-girlfriend Judith Kerr\u2014which remains a striking image of early television\u7279\u6548. The serial achieved impressive viewership for its era, peaking at 5 million viewers for the final episode in a time when total TV ownership was around 4 million households.",
+      "created_at": "2026-03-06 06:55:58"
+    },
+    {
       "title": "The Quest for Saint Aquin",
       "year": 1951,
       "medium": "Short Story",
@@ -11901,5 +11918,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 700
+  "count": 701
 }
