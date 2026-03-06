@@ -817,6 +817,23 @@
       "created_at": "2026-03-02 19:28:36"
     },
     {
+      "title": "Amphibian Man",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Vladimir Chebotaryov, Gennadi Kazansky (Directors)",
+      "raw_score": 3.45,
+      "total_ratings": 3100,
+      "origin": "Russia ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Amphibian_Man_1962.jpg",
+      "pitch": "Amphibian Man is a 1962 Soviet science fiction romance film based on Alexander Beliaev's 1928 novel. The story follows Ichthyander, a young man who was surgically altered by Doctor Salvator to survive underwater by implanting him with shark gills. Living in secrecy beneath the sea, Ichthyander's life changes when he rescues Guttiere, a beautiful pearl fisher's daughter, from a shark. He ventures into the city to find her, but she believes the greedy businessman Pedro Zurita was her savior. When Zurita discovers Ichthyander's secret, he captures the amphibian man to exploit his abilities for harvesting pearls, leading to a tragic conclusion that separates the lovers forever.",
+      "truth": "The film is set in a seaside port in Argentina (filmed in Baku, Azerbaijan) among a community of pearl fishers. Ichthyander was born with a heart condition that would have killed him in childhood, so Doctor Salvator saved his life by giving him shark gills, allowing him to live underwater. However, Ichthyander must keep his existence secret from the world.\n\nOne day, while swimming, Ichthyander rescues Guttiere from a shark attack. Captivated by her beauty, he ventures to the city to find her. However, Guttiere believes it was Pedro Zurita, a wealthy businessman, who saved her. Later, when Ichthyander reveals himself, Guttiere falls in love with him, but their love is doomed.\n\nZurita discovers Ichthyander's secret and has him captured, caging him underwater to exploit his abilities for pearl harvesting. The captivity damages Ichthyander's health, reducing his ability to breathe on land. Though he's eventually freed by allies, his condition deteriorates permanently, forcing him to live in the sea.\n\nGuttiere's father kills Zurita in revenge, freeing Guttiere from her unhappy marriage to the businessman. But the lovers are tragically separated forever\u2014Ichthyander can never return to land, and Guttiere cannot join him beneath the waves.",
+      "core": "The Amphibian Man is primarily a tragic romance in the vein of Romeo and Juliet, exploring themes of love, sacrifice, and the impossibility of crossing fundamental divides. The film also critiques greed and the exploitation of natural resources, reflecting the influence of Socialist Realism in its portrayal of capitalist exploitation.\n\nThe film holds historical significance as the highest-attended Soviet film with 100 million admissions until The Red Snowball Tree (1974). It became a cult classic in the Soviet Union and has gained international recognition, with Quentin Tarantino citing it as one of his favorite Russian films. Some critics have noted similarities between Amphibian Man and the 2017 Hollywood film The Shape of Water, leading to accusations of plagiarism\u2014both films feature a romantic relationship between a human and an aquatic creature, a Soviet connection, and a 1962 setting.\n\nThe film represents an important moment in Soviet science fiction cinema, combining adventure, romance, and social commentary in a way that resonated deeply with Soviet audiences. Its themes of transformation, otherness, and the price of scientific advancement continue to echo in science fiction storytelling today.",
+      "created_at": "2026-03-06 14:56:01"
+    },
+    {
       "title": "An Interplanetary Marriage",
       "year": 1910,
       "medium": "Film",
@@ -12394,5 +12411,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 729
+  "count": 730
 }
