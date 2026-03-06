@@ -10966,6 +10966,23 @@
       "created_at": "2026-03-04 17:06:05"
     },
     {
+      "title": "Tuko sa Madre Kakaw",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Director Richard Abelardo",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Philippines ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror, Science-Fantasy ,",
+      "topics": "Evolution",
+      "image_filename": null,
+      "pitch": "Tuko sa Madre Kakaw (Gecko on the Madre de Cacao Tree) is a 1959 Filipino science fiction and kaiju film produced by LVN Pictures and directed by Richard Abelardo, one of the Philippines' pioneering special effects directors. Based on a comic by Clodualdo del Mundo Sr., the film tells the story of a mad scientist who develops a serum capable of turning ordinary animals into giants, using it to create a massive gecko that terrorizes a neighborhood. The film represents a fascinating artifact of Filipino cinema during the 1950s Golden Age, when the Philippines was one of Asia's most prolific film-producing countries.",
+      "truth": "The film centers on a mad biologist who invents a serum that causes animals to grow to enormous sizes. Testing his formula on a gecko (tuko) that lives in a madre de cacao tree near his home, the scientist watches as the creature grows first to the size of a man, then to massive proportions. As the giant gecko escapes and terrorizes the neighborhood, the scientist's assistant discovers his master's plan for world domination and abandons him. The military is called in, but conventional weapons prove useless against the creature. Meanwhile, a rival scientist hired by Americans arrives seeking to steal the formula. The film culminates in a battle between the heroes and the giant gecko, ultimately using a special ray device to shrink the creature back to normal size\u2014but not before it eliminates the villainous foreigners.",
+      "core": "Tuko sa Madre Kakaw exemplifies the international wave of 1950s kaiju and monster films that emerged following the success of Godzilla (1954) and other Japanese tokusatsu productions. The film represents the Philippines' contribution to this genre, adapting familiar formula for local audiences while incorporating Filipino cultural elements. The choice of a gecko as the monster reflects a distinctly Philippine context\u2014geckos (tuko) are common in Filipino homes and folklore, where their chirping is often associated with omens. The film also reflects Cold War anxieties through its narrative of foreign powers seeking to exploit local scientific discoveries for their own purposes. As one of the few Filipino science fiction films from the 1950s with surviving documentation, Tuko sa Madre Kakaw provides valuable insight into this overlooked chapter of Philippine cinematic history.",
+      "created_at": "2026-03-06 01:28:14"
+    },
+    {
       "title": "UFO Sweden",
       "year": 2022,
       "medium": "Film",
@@ -11561,5 +11578,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 680
+  "count": 681
 }
