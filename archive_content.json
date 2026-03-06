@@ -7141,6 +7141,23 @@
       "created_at": "2026-03-04 12:35:35"
     },
     {
+      "title": "Svat\u00fd Xaverius",
+      "year": 1873,
+      "medium": "Novella",
+      "creator": "Jakub Arbes",
+      "raw_score": 3.38,
+      "total_ratings": 746,
+      "origin": "Czechoslovakia ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Obsession",
+      "image_filename": "Svat\u00fd_Xaverius_1873.jpg",
+      "pitch": "Svat\u00fd Xaverius (The Saint Xaverius) is the foundational work of Czech speculative fiction, establishing the romanetto genre\u2014a novella-length story blending mystery with scientific rationalism. Written by Jakub Arbes and first published in 1873 in the magazine Lumir, it predates many classic science fiction works and influenced the development of Czech genre literature. The story follows a young man who becomes obsessed with unraveling the mystery of a painting in a Prague church, believing it contains a hidden cipher leading to buried treasure. What begins as a Gothic mystery evolves into a meditation on obsession, rational inquiry, and the destructive power of knowledge pursued without wisdom.",
+      "truth": "The narrative centers on a protagonist who encounters a mysterious painting of Saint Francis Xavier in a side chapel of St. Nicholas Church in Prague's Mal\u00e1 Strana district. The painting, by artist Franz Xaver Palko, is believed by the church's caretaker to contain a hidden cipher revealing the location of a great treasure. The protagonist becomes consumed by this mystery, spending years attempting to decode the painting's hidden messages.\n\nArbes, drawing from his admiration for Edgar Allan Poe, constructs the story as a rational mystery\u2014events that appear supernatural are eventually explained through logical deduction. The \"treasure\" the protagonist seeks is ultimately revealed to be knowledge itself, but its pursuit destroys him psychologically and materially. The story ends tragically: the protagonist discovers the truth but at such cost that the \"treasure\" brings only ruin.\n\nThe romanetto form pioneered by Arbes emphasizes the gradual revelation of hidden truths through scientific reasoning, making Svat\u00fd Xaverius a foundational work that bridges Gothic mystery and early science fiction. Jan Neruda, who coined the term \"romanetto\" for Arbes' work, recognized its innovative blend of suspenseful narrative with intellectual inquiry.",
+      "core": "**Rationalism vs. Superstition:** Arbes wrote in response to both supernatural fiction and uncritical mysticism, advocating for a literature where apparent mysteries yield to rational explanation. Svat\u00fd Xaverius demonstrates this through its methodical unraveling of the painting's secrets\u2014the \"magic\" cipher is eventually explained through mundane means, reflecting 19th-century faith in scientific progress.\n\n**The Dangers of Obsession:** The protagonist's single-minded pursuit of hidden knowledge becomes his undoing. Arbes explores how rational inquiry, when divorced from ethical consideration or human connection, can become destructive. The story warns against knowledge pursued purely for personal gain or prestige.\n\n**Early Science Fiction:** Though predating the genre's formal establishment, Svat\u00fd Xaverius contains elements that would become central to science fiction: the investigation of unexplained phenomena, the application of systematic reasoning, and speculation about hidden knowledge that transforms the investigator. Arbes' work influenced later Czech science fiction writers and remains significant as a proto-SF text.\n\n**Czech National Identity:** Written during the Czech National Revival period, the story reflects contemporary concerns about Czech cultural heritage and the rediscovery of historical artifacts. The setting in Prague's historic churches connects Czech identity to intellectual and spiritual heritage.\n\nSvat\u00fd Xaverius established a distinctly Czech contribution to speculative fiction, demonstrating that the genre's essential elements\u2014investigation, transformation through knowledge, rational explanation of mysteries\u2014could emerge from any literary tradition willing to imagine the future through the lens of the present.",
+      "created_at": "2026-03-06 13:10:07"
+    },
+    {
       "title": "System Shock",
       "year": 1994,
       "medium": "Video Game",
@@ -12275,5 +12292,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 722
+  "count": 723
 }
