@@ -2925,6 +2925,23 @@
       "created_at": "2026-03-02 09:33:44"
     },
     {
+      "title": "Five Star Stories",
+      "year": 1986,
+      "medium": "Manga",
+      "creator": "Mamoru Nagano",
+      "raw_score": 4.0,
+      "total_ratings": 300,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Space-Opera, Hard-SF ,",
+      "topics": "Megacorps, Evolution, Cybernetics",
+      "image_filename": "Five_Star_Stories_1986.jpg",
+      "pitch": "Five Star Stories is an epic space opera manga by Mamoru Nagano that spans tens of thousands of years across a five-star planetary system known as the Joker Star Cluster. Originally serialized in 1986 and still ongoing decades later, it's one of the most complex and detailed science fiction worlds ever created in manga form. The story follows the intertwined fates of \"Mortar Headds\" (giant biomechanical combat robots), their pilots called \"Headliners\" who inherit genetic traces of an ancient super-soldier empire, and their partners\u2014sentient android \"Fatimas\" designed as living weapons and interfaces. Unlike typical mecha manga, Five Star Stories prioritizes elaborate world-building, political intrigue, and the slow unraveling of mysteries across centuries of fictional history.",
+      "truth": "The narrative unfolds through interconnected vignettes rather than a single continuous plot, each story revealing different eras and characters within the Joker Cluster's long history. The series begins in media res with political tensions between the remaining nations of the cluster, where ancient super-soldiers known as the \"Adondas\" once ruled. The key to operating the powerful Mortar Headds lies in both the Headliner's genetic inheritance and the compatibility with their Fatima partner\u2014an artificial being with human appearance but mechanical interior, created as the ultimate weapon system.\n\nThroughout the sprawling narrative, readers witness the rise and fall of empires, complex political machinations, and the personal dramas of characters whose lifespans can stretch across millennia. The world-building extends to extensive databooks and supplementary materials that detail everything from star systems to the genealogy of royal houses. Each volume includes timelines and appendices that often raise more questions than they answer, creating the impression of a living history that Nagano himself continues to discover. The story deals with themes of immortality, the nature of consciousness in artificial beings, and the cyclical nature of civilization itself.",
+      "core": "Five Star Stories represents a unique fusion of Japanese manga aesthetics with Western science fiction traditions\u2014particularly the \"future history\" genre pioneered by authors like Isaac Asimov and Robert Heinlein. Nagano draws heavily from classic space opera while infusing it with Renaissance-era fashion sensibilities, creating a visual and narrative style unlike anything else in the medium. The series has influenced numerous works, including the video game Xenogears, which directly borrowed its complex narrative structure and themes of ancient super-soldiers.\n\nWhat makes Five Star Stories remarkable is its uncompromising dedication to scale and detail. The story operates on civilizational timescales, following the rise and fall of multiple empires across thousands of years. The Fatimas\u2014artificial women who serve as both weapons systems and companions\u2014explore questions of consciousness, identity, and rights that remain relevant. Critics note the series is not for casual readers; it demands commitment to understand its labyrinthine plot and extensive background. Despite its complexity, the series has maintained a cult following since the 1980s, with fans obsessing over every detail while accepting its frequent Hiatuses as part of its legendary status. The manga remains a testament to the possibilities of long-form serial storytelling in the manga medium.",
+      "created_at": "2026-03-06 11:42:55"
+    },
+    {
       "title": "Flash Gordon",
       "year": 1936,
       "medium": "Serial Film",
@@ -12190,5 +12207,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 717
+  "count": 718
 }
