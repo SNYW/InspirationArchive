@@ -7294,6 +7294,23 @@
       "created_at": "2026-03-04 14:51:20"
     },
     {
+      "title": "The Adventures of Elektronik",
+      "year": 1979,
+      "medium": "TV Series",
+      "creator": "Konstantin Bromberg",
+      "raw_score": 3.75,
+      "total_ratings": 2500,
+      "origin": "Russia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Cybernetics",
+      "image_filename": "The_Adventures_of_Elektronik_1979.jpg",
+      "pitch": "The Adventures of Elektronik is a beloved Soviet children's science fiction television miniseries that has achieved cult status across the former USSR. The story follows a remarkable robot named Elektronik, who escapes from the laboratory of Professor Gromov. Remarkably, the robot bears an exact resemblance to Sergey Syroezhkin, a young boy whose photograph was used as the model for Elektronik's human appearance. When the two meet by chance, the clever Sergey proposes that Elektronik should impersonate him\u2014attending school in his place and even living in his home.\n\nThe series combines elements of science fiction, comedy, and adventure, creating an entertaining narrative that captivated Soviet children. As Elektronik assumes Sergey's identity, he discovers unexpected talents in mathematics, gymnastics, drawing, and even singing, delighting his teachers and parents alike. Meanwhile, a criminal gang led by the mysterious \"Stump\" learns about the extraordinary robot and schemes to kidnap Elektronik for their own criminal ambitions. The show balances youthful school adventures with a crime thriller subplot, resulting in a unique blend that has endured for decades.",
+      "truth": "The series begins when Professor Gromov completes his groundbreaking creation\u2014Elektronik, a robot with advanced artificial intelligence and the ability to perfectly mimic human behavior. When Elektronik escapes from the laboratory, he encounters his human template, the sixth-grader Sergey Syroezhkin. Recognizing the opportunity, Sergey convinces Elektronik to switch places: the robot will attend school and live Sergey's life while the real Sergey enjoys some much-needed freedom.\n\nElektronik's duplicated identity proves incredibly convincing. At school, he astounds teachers with his superhuman mathematical abilities, athletic prowess, and artistic talents. His parents notice remarkable improvements in his academic performance without suspecting their son has been replaced. However, Sergey gradually realizes that his robot double is taking over his life entirely, and he may lose his own identity forever.\n\nSimultaneously, a criminal organization operating abroad learns about Elektronik from intercepted scientific publications. The gang's leader, Stump, dispatches his most skilled operative, Urrie, to locate and kidnap the robot. Their plan involves using Elektronik's extraordinary capabilities to execute what they call \"the crime of the century\"\u2014a major heist that would require the robot's unique abilities. The two storylines converge as Sergey and Elektronik must work together to thwart the criminals while resolving their own identity crisis.",
+      "core": "The Adventures of Elektronik explores themes of identity, duality, and the relationship between humans and machines. The premise of a robot perfectly impersonating a human raises questions about what makes us unique\u2014is it our appearance, our knowledge, or something deeper that defines our humanity? The series also touches on the potential misuse of advanced technology for criminal purposes, contrasting the innocence of the children's world with the machinations of adult crime.\n\nAs a product of Soviet children's entertainment, the series reflects the cultural values of its era, emphasizing cleverness, teamwork, and ultimately, the triumph of good over evil. The show's enduring popularity speaks to its successful combination of engaging storytelling, memorable characters, and the universal appeal of a sci-fi premise that resonated with young audiences. The dual-role performance by the Torsuyev twins remains one of the most iconic elements of Soviet children's television.\n\nThe series also represents an interesting example of Soviet science fiction aimed at younger audiences, differ significantly from the darker, more philosophical works that Soviet cinema often produced for adults. Here, technology is portrayed as wondrous and beneficial, with Elektronik using his abilities to help rather than harm\u2014a refreshing take on robotics that influenced subsequent generations of children's programming in Russia and beyond.",
+      "created_at": "2026-03-06 10:15:56"
+    },
+    {
       "title": "The Adventures of Luther Arkwright",
       "year": 1987,
       "medium": "Graphic Novel",
@@ -12122,5 +12139,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 713
+  "count": 714
 }
