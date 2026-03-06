@@ -8790,6 +8790,23 @@
       "created_at": "2026-03-05 22:42:07"
     },
     {
+      "title": "The Gods from Outer Space",
+      "year": 1978,
+      "medium": "Graphic Novel",
+      "creator": "Arnold Mostowicz, Alfred G\u00f3rny (script), Bogus\u0142aw Polch (illustrations)",
+      "raw_score": 3.55,
+      "total_ratings": 312,
+      "origin": "Poland ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Aliens",
+      "image_filename": "The_Gods_from_Outer_Space_1978.jpg",
+      "pitch": "The Gods from Outer Space (Bogowie z kosmosu) is a landmark Polish science fiction comic series created by writer Arnold Mostowicz, Alfred G\u00f3rny, and illustrator Bogus\u0142aw Polch, published between 1978 and 1982. Originally produced as a Polish-German collaboration and based on the theories of Erich von D\u00e4niken, this eight-volume series tells the story of alien expeditions to prehistoric Earth who attempt to \"uplift\" early human civilizations. The series became a cult classic in Poland, selling over 5 million copies worldwide, and is considered one of the most successful and recognizable Polish comic book series ever produced.",
+      "truth": "The series follows an alien expedition from the distant planet Des (known as Delos in the German edition), sent to Earth on behalf of the Great Brain\u2014an immortal, genius-level entity serving as the highest authority on the alien world. The expedition's commander is a woman named Ais, whose mission is to find and uplift primitive humans into a more advanced civilization.\n\nThe first expedition's base in the Andes is destroyed by a volcanic eruption, but subsequent expeditions led by Enes and Rama continue the work on the \"Big Island\"\u2014Atlantis. The aliens guide early human development, introducing knowledge of seafaring, technology, astronomy, and civilization. However, Ais and her team face internal conflicts, including a rebellion led by the scientist Dr. Satham, who operates independently of the official mission.\n\nWhen the Great Brain ultimately decides to terminate the uplift project, Ais and her allies defy orders to protect the nascent human civilizations. In retribution, Atlantis is destroyed by a meteorite, but the uplifted humans escape and spread across the globe. Ais is relieved of command, replaced by her daughter Aistar, who continues observing humanity's development while battling Dr. Satham's interference.\n\nLater volumes chronicle alien interventions in ancient civilizations including Egypt and Mesopotamia, portraying historical figures such as Marduk, Nimrod, Rama, and Enoch as extraterrestrials or their collaborators. The series explores how \"divine\" figures from human mythology were actually alien visitors influencing early human history.",
+      "core": "The series represents a fascinating artifact of the 1970s ancient astronaut phenomenon, blending pseudo-scientific speculation with science fiction storytelling. While the underlying von D\u00e4niken theories have been widely discredited by mainstream science, the series transcends its controversial source material through compelling world-building and character development.\n\nBogus\u0142aw Polch's artwork is consistently praised as the series' greatest achievement\u2014critics regard it as some of the finest Polish comic art ever produced. The visual storytelling brings the prehistoric and ancient settings to life with remarkable detail and atmospheric power. The series' structure allows each volume to function as a relatively standalone adventure while contributing to a larger mythological arc.\n\nDespite the dated scientific premises, the series remains engaging as adventure fiction with strong female leads (Ais and Aistar), philosophical questions about intervention and development, and the ethical complexities of playing god with an entire species. It represents an important piece of Cold War-era Polish popular culture and the global fascination with ancient astronaut theories that continues to resonate in speculative fiction today.",
+      "created_at": "2026-03-06 13:26:01"
+    },
+    {
       "title": "The Golden Helix",
       "year": 1949,
       "medium": "Novella",
@@ -12292,5 +12309,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 723
+  "count": 724
 }
