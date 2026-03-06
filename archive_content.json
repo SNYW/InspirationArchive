@@ -3690,6 +3690,23 @@
       "created_at": "2026-03-03 18:03:24"
     },
     {
+      "title": "Je t'aime, je t'aime",
+      "year": 1968,
+      "medium": "Film",
+      "creator": "Alain Resnais (director), screenplay by Jacques Sternberg",
+      "raw_score": 4.0,
+      "total_ratings": 4000,
+      "origin": "France ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Memory, Time-Travel",
+      "image_filename": "Je_t_aime_je_t_aime_1968.jpg",
+      "pitch": "Je t'aime, je t'aime is a 1968 French science fiction film directed by Alain Resnais, one of the most acclaimed French New Wave filmmakers. The film centers on Claude Ridder, a man who has just left a Belgian hospital after attempting suicide. He is recruited for a mysterious time travel experiment conducted by researchers at the Crespel Research Center. The experiment, intended to send him back to relive just one minute from one year earlier, instead causes him to experience fragmented moments from his past relationship with his former lover Catrine in a disjointed, non-linear fashion. The film is notable for its psychological depth and its innovative exploration of memory, time, and guilt.",
+      "truth": "After leaving the hospital following his suicide attempt, Claude Ridder is approached by two men who ask him to participate in an experiment in time travel. The researchers at Crespel Research Center explain that they have successfully sent mice back in time and are now ready to test the device on a human subject. Claude agrees, despite showing little concern for his own survival.\n\nThe experiment is designed to return Claude to the present after reliving one minute from one year earlier. However, something goes wrong. Instead of experiencing a single moment, Claude begins reliving multiple episodes from his past\u2014particularly his seven-year relationship with Catrine\u2014in a highly fragmented and disjointed manner. Each scene flashes by for just seconds or minutes, cycling through their entire relationship.\n\nAs the film progresses, it becomes clear that the relationship was troubled. Catrine was morbid, melancholic, and difficult to be around. One key revelation suggests that Claude may have been responsible for Catrine's death: on a trip to Glasgow, the flame on a gas heater went out while she was asleep. Claude noticed but chose not to wake her because she looked happy and peaceful. However, he later admits to a friend that he was lying\u2014the flame actually went out after he left.\n\nAfter an hour passes, the researchers conclude they have lost Claude for good. However, they find his body on the grass outside\u2014shot through the heart. It appears that reliving his suicide attempt broke the time loop and freed him. Whether he survives his second suicide attempt is left ambiguous.",
+      "core": "Je t'aime, je t'aime is a pioneering work in the science fiction exploration of memory and consciousness. The film predates and directly influenced Michel Gondry's Eternal Sunshine of the Spotless Mind (2004), which shares its themes of memories, loss, and the fragmentation of temporal experience.\n\nThe film operates on multiple levels: as a psychological study of guilt and grief, as a meditation on the nature of memory, and as an experiment in narrative structure. Resnais uses time travel not for adventure or spectacle but as a mechanism to examine how we experience the past\u2014non-linearly, imperfectly, colored by emotion and selective recall.\n\nThe film explores the theme of self-destructive love\u2014relationships that are damaging to both parties yet impossible to escape. Claude's relationship with Catrine is depicted as suffocating and melancholy, yet he is unable to move on even after her death. His suicide attempt and his entrapment in the time loop both stem from his inability to process this relationship.\n\nTechnically, the film's disjointed editing and non-chronological structure mirror the experience of memory itself\u2014how we recall the past not as a continuous narrative but as fragmented moments, often out of order, colored by our emotional state at the time of recall.\n\nWhile not always ranked among Resnais's most celebrated works, Je t'aime, je t'aime has been recognized as a profoundly influential film that helped establish time travel as a vehicle for psychological and emotional exploration rather than mere plot mechanics. Its themes of memory, guilt, and the impossibility of escaping the past continue to resonate in contemporary science fiction.",
+      "created_at": "2026-03-06 01:41:32"
+    },
+    {
       "title": "Jet-Story",
       "year": 1988,
       "medium": "Video Game",
@@ -11578,5 +11595,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 681
+  "count": 682
 }
