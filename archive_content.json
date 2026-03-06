@@ -7243,6 +7243,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Subterranea",
+      "year": 2024,
+      "medium": "TV Series",
+      "creator": "Brian Munene (Creator), Likarion Wainaina (Director)",
+      "raw_score": 3.7,
+      "total_ratings": 10,
+      "origin": "Kenya ,",
+      "mood": "Tense ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Isolation, Pandemic",
+      "image_filename": "Subterranea_2024.jpg",
+      "pitch": "Subterranea is a 2024 Kenyan sci-fi psychological drama series that follows eight participants of a psychological experiment placed in an underground bunker to test the effects of close-quarter secluded relationships on humans. The series, created by Brian Munene and directed by Likarion Wainaina under Kibanda Pictures, premiered on Showmax in September 2024. Set against the backdrop of what appears to be a post-apocalyptic world, the show explores how humans behave when confined in extreme conditions, dealing with themes of survival, trust, and the psychological toll of isolation.\n\nThe series marks a significant step forward in Kenya's TV landscape, representing a new wave of African science fiction that moves beyond typical genre tropes. The ensemble cast portrays diverse characters, each carrying their own trauma and secrets, from PTSD and addiction to past traumas and hidden agendas. The show combines psychological drama with science fiction elements, creating a uniquely African contribution to the global sci-fi canon.",
+      "truth": "The series begins with eight participants entering the Subterranea bunker for what they believe is a psychological experiment about human behavior in close quarters. Each participant has their own reasons for joining: some seek money, others escape from dangerous situations, and some have hidden agendas.\n\nAs the experiment progresses, the participants face various challenges that test their psychological limits. Power outages, disease outbreaks, food shortages, and oxygen deprivation create mounting tension. When the outside world reveals that World War Three has started, the participants must confront the reality that they may be trapped in the bunker indefinitely.\n\nThe mystery deepens as secrets emerge about the true purpose of the experiment and the organization behind it. One participant is revealed to be a mole working for the experiment's controllers. An unauthorized device connected to the outside world is discovered, sparking conflict and suspicion among the group. The final episodes escalate toward a deadly purge sequence, resulting in multiple casualties as the participants fight to survive.\n\nThroughout the series, each character's backstory unfolds through flashbacks and interactions, revealing the complex motivations that drove them to join the experiment. The AI assistant in the bunker becomes an increasingly important character, raising questions about surveillance and control.",
+      "core": "Subterranea represents a significant milestone in African science fiction, demonstrating that the genre can thrive beyond its traditional Western and Asian strongholds. The series challenges the perception that Africa is absent from sci-fi narratives, instead offering a uniquely African perspective on themes of survival, community, and human nature under pressure.\n\nThe show engages with universal science fiction themes\u2014isolation, survival, post-apocalyptic scenarios\u2014while grounding them in specifically Kenyan and African contexts. Creator Brian Munene has stated that the concept \"started as a space odyssey\" inspired by Star Wars and Star Trek, but evolved to explore how \"imagined and real science affects human behavior\" without requiring futuristic settings.\n\nThe psychological drama elements elevate the series beyond typical genre fare, examining how individuals respond to extreme stress, confinement, and uncertainty. Each character's arc explores themes of trauma, redemption, trust, and the boundaries of human endurance. The series also touches on class dynamics, with characters from different socioeconomic backgrounds\u2014the Mathare slums versus more privileged backgrounds\u2014brought together in the bunker.\n\nBy setting a science fiction series in Kenya and featuring predominantly Kenyan talent both in front of and behind the camera, Subterranea expands the geography of the genre and proves that compelling science fiction can emerge from any corner of the globe. The series received positive critical reception and has been recognized at African film festivals, including winning Best TV Drama Series in East Africa at the Zanzibar International Film Festival.",
+      "created_at": "2026-03-06 16:30:56"
+    },
+    {
       "title": "Sukeban Deka",
       "year": 1991,
       "medium": "Anime",
@@ -12496,5 +12513,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 735
+  "count": 736
 }
