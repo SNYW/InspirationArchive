@@ -10082,6 +10082,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Man Who Fell to Earth",
+      "year": 2022,
+      "medium": "TV Series",
+      "creator": "Jenny Lumet, Alex Kurtzman (based on novel by Walter Tevis)",
+      "raw_score": 3.6,
+      "total_ratings": 11000,
+      "origin": "USA ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Isolation, Megacorps",
+      "image_filename": "The_Man_Who_Fell_to_Earth_2022.jpg",
+      "pitch": "The Man Who Fell to Earth follows Justin T. (Chiwetel Ejiofor), a brilliant scientist who becomes the first alien visitor to planet Earth. Arriving with the mission to save his home world from water drought, he finds himself drawn into a world of corporate intrigue, government surveillance, and human chaos. The series serves as a continuation/adaptation of Walter Tevis's novel and the 1976 Nicolas Roeg film starring David Bowie.\n\nUnlike the original film which focused on Thomas Jerome Newton as an alien consumed by human vice and corporate exploitation, this series introduces a new protagonist while exploring similar themes of alienation, time dilation, and the cost of survival. The show premiered on Showtime in 2022 and ran for one season of 10 episodes before cancellation.",
+      "truth": "The series begins with Justin T. arriving on Earth in 2024, immediately distinguishable from humans but adapted to blend in. His mission: to find a way to transport water back to his dying planet, Antheon. As he navigates human society, he becomes entangled with a tech mogul, government agencies, and various human connections that complicate his mission.\n\nThe show takes place in an alternate present where climate change has devastated Earth's water supply. Antheon faced a similar catastrophe, leading to the desperate mission that brought Justin to our world. Throughout the series, Justin must balance his mission with growing attachments to humans, while uncovering deeper conspiracies about his own people's history on Earth.\n\nThe series introduces elements from Tevis's original novel while expanding the mythology. It explores themes of colonization, environmental catastrophe, and what it means to truly understand another species. The show was created by Jenny Lumet and Alex Kurtzman, with Chiwetel Ejiofor starring as the lead and also serving as executive producer.",
+      "core": "**Environmental Catastrophe as Central Metaphor:** Both Earth and Antheon face water crises, creating a mirror narrative about resource depletion and the lengths desperate civilizations will take to survive. The series uses this parallel to explore climate change, corporate negligence, and the ethics of survival.\n\n**Alien as Observer:** Following in the tradition of the original film, the series uses Justin's alien perspective to critique human society\u2014our greed, our short-sightedness, our capacity for both cruelty and kindness. His outsider status provides a lens for examining corporate power, government surveillance, and environmental destruction.\n\n**Identity and Transformation:** Justin must present as human while fundamentally not being one. This creates ongoing tension between his mission and his growing humanity. The show explores whether survival requires losing one's self, and whether connection with other species is possible without sacrificing one's own.\n\n**Legacy and Reinvention:** The series exists in dialogue with the Bowie film, which became a cult classic. Rather than remaking it, the show creates a parallel narrative that honors the source material while carving its own identity. The title references the original but the story is distinct.\n\nThe series was cancelled after one season, with the finale leaving some storylines unresolved. Despite its brevity, it remains a thoughtful addition to the legacy of Tevis's story about alien visitors who come to save their world but find themselves lost in ours.",
+      "created_at": "2026-03-06 22:44:10"
+    },
+    {
       "title": "The Man Who Haunted Himself",
       "year": 1970,
       "medium": "Film",
@@ -12887,5 +12904,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 758
+  "count": 759
 }
