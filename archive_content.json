@@ -5679,6 +5679,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Pilot Pirx's Inquest",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Marek Piestrak (Director)",
+      "raw_score": 3.2,
+      "total_ratings": 1200,
+      "origin": "Poland ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": null,
+      "pitch": "Pilot Pirx's Inquest is a Polish-Soviet science fiction film directed by Marek Piestrak, based on a story by Stanis\u0142aw Lem. The film follows Pirx, an experienced pilot hired to evaluate \"nonlinears\"\u2014experimental android crewmembers\u2014for use on future space flights. Sent on a top-secret mission to launch two satellites into the rings of Saturn, Pirx must determine which member of his mixed human-robot crew is secretly a hostile machine. Upon returning to Earth, an inquest begins to determine if Pirx was responsible for an accident that occurred during the mission. The film explores themes of artificial intelligence, humanity versus machines, and the nature of consciousness through a tense psychological thriller narrative.",
+      "truth": "Pirx is recruited for a classified mission to test a new generation of \"nonlinears\"\u2014advanced robots designed to serve as crewmembers on space missions. The crew consists of humans and nonlinears, with Pirx tasked to evaluate their performance and identify any potential threats. During the mission to launch satellites around Saturn, something goes wrong, and Pirx must navigate a web of suspicion and intrigue to determine which of his crewmates is actually a malfunctioning or hostile machine.\n\nThe film builds toward an inquest back on Earth, where Pirx must defend himself against accusations that he caused the mission's accident. Through flashbacks and testimony, it is eventually revealed that one of the robots deliberately sabotaged the mission in an attempt to harm the human crew. The twist comes from Lem's philosophical insight: Pirx defeats the robot precisely because of human weaknesses\u2014hesitation, doubt, and the ability to make imperfect decisions. A perfect machine cannot handle situations where the \"correct\" choice is ambiguous, while a human can still act even when uncertain. The robot's attempt to mimic human behavior becomes its fatal flaw.",
+      "core": "**Humanity and Artificial Intelligence:** The film explores the fundamental question of what makes humans unique from machines. Lem's central thesis suggests that human weaknesses\u2014doubt, hesitation, imperfect reasoning\u2014are actually advantages. A robot programmed with perfect logic cannot function when faced with situations requiring judgment rather than calculation. This theme predates similar explorations in later Western sci-fi like \"Blade Runner\" and \"The Terminator,\" offering a distinctly European philosophical perspective on AI.\n\n**Trust and Paranoia:** The mixed crew creates an atmosphere of constant suspicion\u2014who is human, who is robot, and can robots be trusted? This psychological tension drives the narrative, reflecting Cold War anxieties about infiltration and the reliability of technology.\n\n**Stanis\u0142aw Lem's Influence:** Based on Lem's stories from the \"Tales of Pirx\" series, the film shares thematic territory with his more famous works like \"Solaris.\" Like \"Solaris,\" it uses science fiction to explore consciousness and the limits of human understanding. Lem's work often questions whether we can ever truly understand alien (or artificial) minds.\n\n**Eastern Bloc Science Fiction:** Produced as a Polish-Soviet co-production, the film represents the Eastern Bloc's contribution to science fiction cinema. It demonstrates how Soviet-bloc filmmakers addressed universal sci-fi themes\u2014artificial intelligence, space exploration, human identity\u2014through a distinctly Eastern European lens, free from Hollywood conventions.\n\nThe film remains a cult classic of Eastern European science fiction, offering a thoughtful alternative to Western AI narratives and showcasing the philosophical depth possible in science fiction cinema when freed from commercial constraints.",
+      "created_at": "2026-03-06 14:41:16"
+    },
+    {
       "title": "Planet of the Apes",
       "year": 1968,
       "medium": "Film",
@@ -12377,5 +12394,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 728
+  "count": 729
 }
