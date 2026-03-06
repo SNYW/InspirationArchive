@@ -4098,6 +4098,23 @@
       "created_at": "2026-03-03 22:48:10"
     },
     {
+      "title": "Les Cit\u00e9s obscures",
+      "year": 1983,
+      "medium": "Graphic Novel",
+      "creator": "Fran\u00e7ois Schuiten, Beno\u00eet Peeters",
+      "raw_score": 4.5,
+      "total_ratings": 500,
+      "origin": "Belgium ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration, Isolation",
+      "image_filename": null,
+      "pitch": "Les Cit\u00e9s obscures (The Obscure Cities) is a visionary Belgian-French graphic novel series that began publication in 1983, created by artist Fran\u00e7ois Schuiten and writer Beno\u00eet Peeters. The series presents a stunningly detailed parallel world of imagined cities, rendered in exquisite architectural detail that draws heavily from Art Nouveau, Jules Verne's scientific romance, and retrofuturist aesthetics. Each album tells a standalone story exploring themes of memory, bureaucracy, architecture, and the search for meaning across interconnected worlds.\n\nWhat distinguishes The Obscure Cities from conventional science fiction is its radical approach to narrative structure\u2014there is no central protagonist or overarching plot. Instead, readers explore a series of unrelated tales centered around travel between our Earth and the parallel world of the Obscure Cities, accessible through \"Obscure Passages\" found in architecturally significant buildings. The series has been compared to the works of Jorge Luis Borges and Italo Calvino for its philosophical depth and literary ambition.",
+      "truth": "The Obscure Cities takes place in a parallel world hidden on the opposite side of the Sun, invisible from Earth. The first album, *Les murailles de Samaris* (The Great Walls of Samaris, 1983), introduces readers to this universe through Franz Bauer, an investigator sent to examine the mysterious city of Samaris\u2014only to find himself gradually consumed by the city's enigmatic nature. Other notable albums include *La fi\u00e8vre d'Urbicande* (Fever in Urbicand, 1985), which follows an architect witnessing a mysterious cubic lattice spreading through his city; *La Tour* (The Tower, 1987), exploring a megastructure and its keeper; and *Br\u00fcsel* (1992), a satirical portrait of Brussels undergoing urban renewal.\n\nThroughout the series, recurring themes include the tension between preservation and progress, the bureaucratic control of information, and the human desire to find meaning beyond the everyday. The albums span genres including pseudo-documentary, travel literature, psychological drama, and political satire. The worldbuilding extends beyond the comics through in-universe websites, fictional newspapers, and encyclopedia entries\u2014some so convincing that readers have genuinely believed they documented real events.",
+      "core": "The Obscure Cities represents a masterwork of bande dessin\u00e9e that transcends the comics medium. Schuiten's architectural drawings are meticulous and atmospheric, drawing on his family background in architecture and his childhood memories of Brussels. The visual world-building is unparalleled, presenting cities that feel simultaneously fantastical and grounded in real architectural traditions.\n\nThe series won the prestigious Angoul\u00eame International Comics Festival Prize for Best Album in 1985 for *La fi\u00e8vre d'Urbicande*, establishing it as a landmark work of Franco-Belgian comics. Both creators have continued to work in art, literature, and film\u2014Peeters as a prominent figure in narrative theory and digital humanities, Schuiten as an artist involved in exhibitions and architectural projects.\n\nThe thematic core revolves around the relationship between physical space and human consciousness. The Obscure Cities explore how environments shape perception, how bureaucracies control both information and mobility, and how the past persists within the present through architectural memory. The series asks whether progress necessarily means destruction, and whether alternative worlds offer genuine escape or merely new forms of constraint.\n\nThe influence of The Obscure Cities extends across media\u2014it directly inspired Luc Besson's film *The Fifth Element* (the flying taxis, the futuristic New York aesthetic) and the Belgian animated film *Taxandria* (1994). The series remains ongoing, with new albums published through the 2020s, continuing to expand its philosophical exploration of cities, time, and imagination.",
+      "created_at": "2026-03-06 02:55:13"
+    },
+    {
       "title": "Les Ma\u00eetres du temps",
       "year": 1982,
       "medium": "Animated Film",
@@ -11663,5 +11680,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 686
+  "count": 687
 }
