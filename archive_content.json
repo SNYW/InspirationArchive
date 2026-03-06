@@ -5849,6 +5849,23 @@
       "created_at": "2026-03-04 07:14:32"
     },
     {
+      "title": "Resurrection",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "Bi Gan (Director)",
+      "raw_score": 4.45,
+      "total_ratings": 50,
+      "origin": "China ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy, Cerebral ,",
+      "topics": "Memory, Time-Travel, Sentience",
+      "image_filename": "Resurrection_2025.jpg",
+      "pitch": "Resurrection is a 2025 epic science fiction drama from Chinese filmmaker Bi Gan, whose previous work Kaili Blues and Long Day's Journey Into Night established him as a master of visual poetry and temporal manipulation. Set in a future where humanity has given up dreaming in exchange for longevity, the film follows a woman who tracks down a mysterious \"Deliriant\" - a dying monster who hides inside movies to continue dreaming. Through the lost techniques of cinema, she helps him replay four dreams spanning 100 years of his past life before he dies. The film is divided into six segments, each corresponding to one of the six senses in Buddhist thought: sight, hearing, smell, taste, touch, and mind. Winner of the Prix Sp\u00e9cial at the 2025 Cannes Film Festival.",
+      "truth": "In a world where humanity sacrificed dreaming for extended lifespans, a woman discovers a monstrous \"Deliriant\" hiding in old films, feeding on dreams to survive. She finds him in a silent film, an opium den scene where he desperately fuels his dreams - which are killing him. Using a movie projector she found inside him, she loads it with film to let him relive his past life through dreams before death takes him.\n\nThe first dream is set in a bombed-out city where the Deliriant is Qiu, a young companion to a hunted musician. The musician, obsessed with Qiu's voice, stabs his own ears and forces Qiu to kill him on train tracks. Qiu is captured and tortured to reveal a secret coded in Bach's \"Come, Sweet Death,\" leading to a sequence involving mirrors, a theremin, and mutual destruction.\n\nIn the second dream, the Deliriant is a former monk at an abandoned monastery who discovers a talking Buddha statue that releases the \"Spirit of Bitterness\" - taking the form of his father whom he mercy-killed after rabies infection.\n\nThe third dream follows Jia, a con man who teams with an orphan girl to solve riddles for a mob boss - revealing themes of abandonment and parental loss.\n\nThe final dream takes place in 1999, where \"Apollo\" - a reckless young hoodlum - falls for Tai Zhaomei, a vampire trapped by her mob boss. They escape together at sunrise, drinking each other's blood.\n\nThe woman enters this final dream, understanding why the Deliriant dreams, and speaks to him through silent film title cards in a wax theater that melts as the film ends.",
+      "core": "**Cinema as Dream Machine:** Bi Gan positions cinema itself as the ultimate dream technology - the Deliriant literally lives inside movies, and the film's structure mimics the fragmented, non-linear experience of dreams. The woman uses \"lost techniques of cinema\" to help him dream, treating film as a portal to memory and consciousness.\n\n**Longevity vs. Meaning:** Humanity gave up dreaming for longevity, trading profound experience for extended life. This echoes Buddhist concepts - the six senses (including mind) connect to awakening, yet the characters seek dreams. The film questions whether mere survival is meaningful without dreams, memory, and emotional experience.\n\n**Memory and Identity:** The Deliriant becomes different characters across four dreams, raising questions about whether identity is fixed or fluid. His monstrous form contains multiple lives within it - Qiu, the monk, Jia, Apollo - all versions of himself that he must integrate before death.\n\n**Time and Narrative Structure:** True to Bi Gan's signature style, the film plays with time non-linearly, using the language of cinema (silent film, long takes, time-lapse, double exposure) to create a dreamlike architecture. The six sections correspond to Buddhist senses, suggesting enlightenment through remembering.\n\n**Visual Poetry:** The film is renowned for its breathtaking visuals - a 30-minute long take, time-lapsed cityscapes, a theater made of wax that melts, silent film title cards as dialogue. Every frame serves the themes of memory, dreams, and mortality.\n\nResurrection represents a bold statement on cinema's power to preserve what we've sacrificed in modern life - dreams, meaning, and connection. It's a meditation on death through the lens of film's magical ability to hold time, memory, and identity suspended.",
+      "created_at": "2026-03-06 07:12:42"
+    },
+    {
       "title": "Rise of the Dragon",
       "year": 1990,
       "medium": "Video Game",
@@ -11918,5 +11935,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 701
+  "count": 702
 }
