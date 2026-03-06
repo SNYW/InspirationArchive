@@ -10490,6 +10490,23 @@
       "created_at": "2026-03-05 23:57:43"
     },
     {
+      "title": "The Navigator: A Medieval Odyssey",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Vincent Ward",
+      "raw_score": 3.3,
+      "total_ratings": 4300,
+      "origin": "New-Zealand ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Time-Travel, Religion, Exploration",
+      "image_filename": "The_Navigator_A_Medieval_Odyssey_1988.jpg",
+      "pitch": "During the Black Death in 14th century England, a small village of Cumbrian miners receives visions from a boy named Griffin, who sees a cross atop a great church that could save them from the plague. Led by the village's greatest adventurer Connor, they dig downward through the earth, seeking to place their holy cross on that church's spire. Instead, they emerge through a tunnel into late 20th century New Zealand\u2014a world of strange technologies, highways, and submarines they cannot comprehend. The film shifts from stark black-and-white to vivid color as the medieval villagers navigate this alien modern landscape, seeking to complete their quest while grappling with the absurdity of their situation. Winner of the Australian Film Institute Award for Best Film and multiple European fantasy festival awards.",
+      "truth": "The film opens in medieval England during the Black Death, where villagers in a remote mountain community live in terror of the plague sweeping through their land. Young Griffin possesses \"second sight\" and describes visions of a great church with a cross that could protect them. The village's leader Connor rallies the men to dig a tunnel downward, bringing copper ore to be melted and cast into a holy cross for the \"biggest Church in all of Christendom.\"\n\nThey break through into a smooth tunnel and climb a ladder into modern-day New Zealand. The film transforms from black-and-white to color as the bewildered villagers encounter cars, nuclear submarines, and cities they cannot understand. They believe these modern marvels are simply part of \"great cities\" as described in medieval tales. Griffin continues to have dark visions hinting at danger ahead.\n\nThe villagers encounter various modern technologies with childlike wonder and confusion\u2014fascinated but never questioning the fundamental strangeness of their situation. They eventually find their way to a cathedral, but the film's ambiguous ending leaves unclear whether they complete their quest or whether the entire journey was perhaps another of Griffin's visions. The film explores the collision between medieval worldview and modernity, treating both with equal parts wonder and satire.",
+      "core": "**Time and Perception:** The film explores how humans perceive time and progress. The medieval villagers accept modern technology as natural extensions of their worldview\u2014they don't question year dates because time meant nothing to their understanding. This suggests that progress is relative; what seems \"advanced\" is merely another stage of human development that would seem as magical to past peoples as their beliefs seem to us.\n\n**Faith and Modernity:** The cross the villagers seek represents religious faith as protection against existential terror\u2014the plague. Their journey through time suggests faith persists across centuries, though its manifestations change. The nuclear submarine scene particularly juxtaposes technological \"progress\" with spiritual quest, asking whether humanity has advanced or merely changed the forms of its anxieties.\n\n**The Outsider's Gaze:** Ward deliberately uses the medieval villagers as mirrors for modern society\u2014we see ourselves through their bewildered eyes, making the familiar strange. Their innocent acceptance of nuclear weapons and submarines as simply part of \"great cities\" exposes the absurdity of technologies we take for granted. This technique recalls both magical realism and classic fish-out-of-water narratives, but with darker undertones.\n\n**Visual Poetry:** The film's stark shift from black-and-white to color upon entering modern times creates immediate alienation. The medieval sequences use expressionist lighting and compositions reminiscent of German silent films, while modern New Zealand is shown in bright, sometimes harsh daylight. This visual language suggests that what we call \"progress\" may actually be a loss\u2014the medieval world had its own beauty and coherence that modernity disrupts.\n\nThe film stands as a unique contribution to time-travel cinema, less concerned with paradoxes or mechanics than with the human experience of displacement across time.",
+      "created_at": "2026-03-06 23:27:31"
+    },
+    {
       "title": "The New Adventures of Wisely",
       "year": 1998,
       "medium": "TV Series",
@@ -12921,5 +12938,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 760
+  "count": 761
 }
