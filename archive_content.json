@@ -2313,6 +2313,23 @@
       "created_at": "2026-03-04 20:03:22"
     },
     {
+      "title": "Digital Devil Story",
+      "year": 1987,
+      "medium": "OVA",
+      "creator": "Aya Nishitani (novel) / Mizuho Nishikubo (director)",
+      "raw_score": 2.6,
+      "total_ratings": 5208,
+      "origin": "Japan ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Transhumanism, Cybernetics",
+      "image_filename": "Digital_Devil_Story_1987.jpg",
+      "pitch": "Digital Devil Story is a 1987 OVA adapted from Aya Nishitani's light novel about a high school computer genius who inadvertently summons demons into the real world through his custom software. The story explores themes of technology, mythology, and the dangers of unleashing forces beyond human control. Set in a typical Japanese high school, the OVA takes a dark turn when Akemi Nakajima's revenge plot against his bullies summons Loki, a demon far more powerful than anticipated. This obscure 80s OVA is notable for its unique blend of Shinto mythology with early computer age anxieties, and it spawned the hugely influential Megami Tensei video game series.",
+      "truth": "Akemi Nakajima is a brilliant but isolated programming student at Juusei Academy who has been bullied by classmates Kyoko Takamizawa and Hirayuki Kondo. After being beaten up and humiliated, Akemi decides to take revenge by creating a Demon Summoning Program (DSP) using the school's mainframe computers. Through his research into ancient mythology, Akemi discovers the ritual to summon Loki, the Norse trickster god.\n\nHowever, Akemi underestimates the power he has unleashed. Loki demands sacrifices and begins possessing students and teachers at the school. Akemi's classmate Yumiko Shirasagi, a transfer student, reveals herself to be the reincarnation of Izanami, the Shinto goddess of the underworld. As the chaos escalates, Loki begins taking over the school and possessing its students, using them to attempt world domination.\n\nThe climax sees Akemi and Yumiko fleeing to Asuka, where Yumiko must reach Izanami's tomb to be revived after dying from Loki's corruption. Akemi battles through supernatural visions while Cerberus, another demon, is summoned to help fight Loki. The OVA ends ambiguously with Loki defeated but another ancient evil\u2014Set from Egyptian mythology\u2014summoned instead, setting up the sequel.",
+      "core": "**Technology and the Occult:** The OVA represents a uniquely 1980s fusion of emerging computer technology with ancient mysticism. At a time when personal computers were becoming accessible but their capabilities remained mysterious, Digital Devil Story posits that code and magic are fundamentally similar\u2014both are systems of rules that, when properly executed, can manipulate reality itself. Akemi treats summoning demons like debugging a program, utterly confident in his ability to control the outcome.\n\n**Shinto Mythology Adaptation:** Rather than using the more common Western mythological framework for demon stories, the OVA draws heavily on Shinto cosmology\u2014specifically the Izanami and Izanagi creation myth, with Yumiko as the reincarnation of Izanami and Akemi as Izanagi. This Japanese mythological framing gives the story a distinctive cultural flavor that separates it from Western demon summoning narratives.\n\n**Consequences of Revenge:** The story's central tragedy is that Akemi's desire for petty revenge unleashes forces he cannot control. His bullying victims become the first sacrifices, but the chaos spreads far beyond his intentions. This theme of unintended consequences resonates with broader science fiction concerns about technological advancement outpacing human wisdom.\n\n**The Megami Tensei Legacy:** While the OVA itself is obscure, it became the foundation for one of gaming's most enduring RPG franchises. The Megami Tensei series (including Persona, Devil Survivor, and many others) grew from these same concepts\u2014demon summoning, mythology meeting technology, and moral ambiguity in battling supernatural forces. The OVA's dark, mature themes were unusual for 1980s anime and presaged the darker storytelling that would become more common in later decades.",
+      "created_at": "2026-03-06 07:57:11"
+    },
+    {
       "title": "District 9",
       "year": 2009,
       "medium": "Film",
@@ -11969,5 +11986,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 704
+  "count": 705
 }
