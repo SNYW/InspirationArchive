@@ -9062,6 +9062,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Final Countdown",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Don Taylor",
+      "raw_score": 3.35,
+      "total_ratings": 30000,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Time-Travel, Military ,",
+      "topics": "Exploration",
+      "image_filename": "The_Final_Countdown_1980.jpg",
+      "pitch": "The Final Countdown is a 1980 American science fiction war film about a modern nuclear-powered aircraft carrier, the USS Nimitz, that travels through time to the day before the December 7, 1941 attack on Pearl Harbor. Directed by Don Taylor in his final theatrical film, the movie stars Kirk Douglas as Captain Matthew Yelland, commander of the Nimitz. When the ship encounters a mysterious vortex, it is transported back to December 6, 1941, forcing the crew to grapple with a profound moral dilemma: should they prevent the Pearl Harbor attack and alter the course of history, or allow events to unfold as they historically occurred?\n\nThe film received mixed reviews from critics and was a moderate box office success. It was nominated for Saturn Awards for Best Science Fiction Film and Best Actor (for Kirk Douglas). Notably, the production was made with the full cooperation of the U.S. Navy and Department of Defense, with filming actually taking place aboard the real USS Nimitz\u2014a nuclear aircraft carrier that was launched in the early 1970s.",
+      "truth": "In 1980, the USS Nimitz departs Pearl Harbor for routine exercises, taking on board civilian observer Warren Lasky (Martin Sheen), a systems analyst for defense contractor Tideman Industries. During transit, the ship encounters an anomalous electrical vortex. Upon passing through, the crew discovers their radar and communications have failed\u2014and worse, they have traveled through time to December 6, 1941, the day before the Japanese attack on Pearl Harbor.\n\nAfter encountering and engaging Japanese Zero fighters, the Nimitz rescues survivors from a civilian yacht, including U.S. Senator Samuel Chapman (Charles Durning) and his aide Laurel Scott (Katharine Ross). When reconnaissance reveals the Japanese fleet preparing to launch their attack on Pearl Harbor, Captain Yelland faces an impossible choice: use the Nimitz's superior firepower to destroy the Japanese fleet and prevent the attack, or stand by and allow history to unfold as it did.\n\nComplicating matters, a Japanese pilot taken hostage escapes and takes Scott and others hostage, demanding to warn his fleet about the American \"ghost ship.\" The pilot is killed in the struggle. Meanwhile, Senator Chapman demands to be taken to Pearl Harbor to warn the Navy personally, but Yelland secretly diverts him to an isolated Hawaiian island\u2014only for Chapman to force the pilot to fly him to Pearl Harbor, where the helicopter crashes, stranding Scott and another crew member.\n\nAt the critical moment, as the Nimitz launches a strike force against the Japanese fleet, the time vortex reappears. The ship is pulled back to 1980, leaving the future unchanged. Back in the present, Lasky encounters the mysterious Mr. Tideman, who reveals himself as an older version of Commander Owens\u2014suggesting the time travel may have had longer-term consequences that the film leaves ambiguous.",
+      "core": "The Final Countdown explores weighty themes of historical causality, moral responsibility, and the temptation of power. At its core is the question: if you could prevent a tragedy like Pearl Harbor, should you? The film suggests that historical events are interconnected in ways too complex to understand\u2014that altering one event could unravel the future entirely. This fatalistic perspective positions the film's moral as one of non-intervention, respecting the historical record even when intervention seems justified.\n\nThe film also serves as a document of Cold War military thinking. The USS Nimitz represents American military supremacy, and its encounter with 1941 serves as a reminder of how much power the United States would eventually accumulate. Yet the film is notably restrained in its jingoism\u2014the 1980s Navy gets to look impressive, but the film doesn't celebrate American military superiority so much as contemplate its implications.\n\nCritically, the film is viewed as a missed opportunity. While the premise is rich with possibilities, the execution focuses more on the impressive military hardware and set pieces than on the philosophical implications of time travel. Roger Ebert famously included it in his \"dogs of the year\" list, criticizing the characters for repeatedly failing to take obvious actions and the anticlimactic ending. Yet the film has developed a cult following among fans of military science fiction and time travel paradox stories.\n\nThe production's real historical significance lies in its documentation of the USS Nimitz and the cooperation of the U.S. military\u2014a level of access that would be unlikely post-9/11. The aircraft sequences, filmed with actual Navy aircraft and pilots, remain impressive, and the film's depiction of carrier operations offers a genuine window into military aviation.",
+      "created_at": "2026-03-06 22:58:32"
+    },
+    {
       "title": "The Final Programme",
       "year": 1973,
       "medium": "Film",
@@ -12904,5 +12921,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 759
+  "count": 760
 }
