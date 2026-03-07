@@ -4744,6 +4744,23 @@
       "created_at": "2026-03-05 12:28:58"
     },
     {
+      "title": "Lokis",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Directed by Janusz Majewski; Based on the novella by Prosper M\u00e9rim\u00e9e",
+      "raw_score": 3.1,
+      "total_ratings": 830,
+      "origin": "Poland ,",
+      "mood": "Eerie ,",
+      "sub_genres": "Horror ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": "Lokis_1970.jpg",
+      "pitch": "Lokis is a 1970 Polish folk horror film directed by Janusz Majewski, based on an 1869 novella by Prosper M\u00e9rim\u00e9e. Set in 19th century Lithuania, the film follows Pastor and folklorist Wittembach who travels to a remote countryside to catalog local folk customs. He arrives at the estate of Count Micha\u0142 Szemiot, a young nobleman who initially cannot meet visitors due to an unspecified ailment. As Wittembach settles into the estate, he begins to notice the Count displaying increasingly strange, animal-like behavior. The local villagers whisper that Micha\u0142 is a \"Lokis\"\u2014the half-human offspring of a bear that attacked his mother before his birth. The film builds to a tragic conclusion that blurs the line between folklore and reality, leaving the question of Micha\u0142's true nature unresolved.",
+      "truth": "The story begins when Wittembach's carriage breaks down en route to the Count's estate, delaying his arrival by a day. Upon reaching the estate, he learns that Count Micha\u0142 suffers from periodic spells that render him incapacitated. The estate's physician, Doctor Froeber, confides in Wittembach that Micha\u0142's mother resides in the tower, driven mad after a tragic event\u2014she was attacked by a wild bear while pregnant, and though she survived, she attempted multiple times to kill her newborn son, believing him inhuman.\n\nAs days pass, Wittembach observes Micha\u0142 exhibiting increasingly disturbing behavior: he spies on people from trees, moves with unnatural agility, and shows no emotional responses. The villagers believe he is a \"Lokis,\" a creature from local folklore\u2014a bear's child born to a human mother. Desperate to prove his humanity, Micha\u0142 becomes engaged to Julia Dowgia\u0142\u0142o, a young woman who loves him.\n\nOn their wedding night, the couple does not answer the servants' calls. When Wittembach and others break into the bridal chamber, they find Julia dead, her throat ripped out. Micha\u0142 has vanished. Tracks in the snow suggest he escaped into the forest, changing shape as they go. At the train station days later, Wittembach and Froeber board their departure train and encounter hunters with their catch\u2014including a large bear with blood on its muzzle. As the train departs, Wittembach silently prays for mercy on Micha\u0142's soul, believing the Count's essence now inhabits the bear.",
+      "core": "Lokis operates on multiple thematic levels: as a folk horror exploring the tension between rationality and superstition; as a meditation on identity and the boundaries of humanity; and as a psychological study of nature versus nurture. The film poses uncomfortable questions about what defines human identity\u2014is it birth, behavior, or perception by others? Micha\u0142 may be entirely human, his \"animal\" behavior the result of trauma and isolation, or he may genuinely be something other, a hybrid creature existing between worlds.\n\nThe film is notable for its atmospheric cinematography and Wojciech Kilar's haunting score, which blends classical elements with unsettling folk motifs. Majewski's direction favors suggestion over explicit horror, allowing the ambiguity of Micha\u0142's nature to generate lasting unease. The cinematography captures the oppressive, claustrophobic atmosphere of the remote estate and the dark, primordial forest that surrounds it.\n\nLokis won awards at the 1971 Sitges International Science Fiction and Horror Films Festival and has been recognized as one of Poland's finest contributions to the horror genre. The film has gained cult status among folk horror enthusiasts, appreciated for its sophisticated approach to genre material and its refusal to provide easy answers about the nature of its protagonist.",
+      "created_at": "2026-03-07 00:56:46"
+    },
+    {
       "title": "Lone Sloane",
       "year": 1966,
       "medium": "Graphic Novel",
@@ -13006,5 +13023,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 765
+  "count": 766
 }
