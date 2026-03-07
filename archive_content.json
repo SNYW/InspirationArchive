@@ -9079,6 +9079,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Fatal Eggs",
+      "year": 1924,
+      "medium": "Novel",
+      "creator": "Mikhail Bulgakov",
+      "raw_score": 3.75,
+      "total_ratings": 12346,
+      "origin": "Russia ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Evolution, Science",
+      "image_filename": "The_Fatal_Eggs_1924.jpg",
+      "pitch": "The Fatal Eggs is a satirical science fiction novella by Soviet writer Mikhail Bulgakov, written in 1924. Set in Moscow of 1928, the story follows Professor Vladimir Persikov, a brilliant but eccentric zoologist who discovers a miraculous red ray that dramatically accelerates biological growth and reproduction. When his invention is co-opted by the Soviet state to combat a chicken plague devastating the country's poultry, catastrophic results ensue\u2014the ray accidentally breeds an army of monstrous reptiles instead of restoring the chicken population. Combining dark comedy with sharp social commentary, the novella serves as both a fantastical adventure and a biting critique of Soviet bureaucracy, scientific hubris, and the chaos that ensues when ideological enthusiasm overrides careful planning.",
+      "truth": "The novel opens in Moscow of 1928, where the Zoological Institute has finally recovered from the upheavals of the Civil War. Professor Persikov, an aging zoologist specializing in amphibians, discovers that his microscope\u2014left out of focus\u2014produces a mysterious red light that causes amoebas to reproduce at astonishing rates and exhibit unusual aggression. Persikov refines this into a reproducible \"ray\" that accelerates growth in any organism.\n\nMeanwhile, a mysterious plague decimates all chickens across Soviet Russia, stopping mysteriously at the nation's borders. The government tasks the sovkhoz manager Aleksandr Rokk with using Persikov's invention to rapidly restore the chicken population. However, due to a bureaucratic mix-up, the eggs intended for the poultry farm are sent to Persikov's laboratory, while his experimental reptile eggs are delivered to the farm.\n\nThe consequences are catastrophic. Rokk breeds not chickens but enormous snakes, crocodiles, and ostriches\u2014creatures that escape and begin attacking citizens across the country. As panic spreads and the Red Army struggles to contain the reptile invasion, the situation is only saved by an unlikely deus ex machina: an unexpected frost in August wipes out the cold-blooded monsters. In the chaos, Persikov is killed by a mob blaming him for the disaster, and his equipment is destroyed.",
+      "core": "**Satire of Soviet Bureaucracy:** Bulgakov uses the novella to lampoon Soviet scientific management and bureaucratic incompetence. The mixing of eggs represents a system where enthusiasm and ideology override careful execution. Characters like Rokk\u2014named to evoke \"fate\" or \"doom\"\u2014embody the eager but unqualified managers imposed on scientific projects. The parody suggests that even well-intentioned state interventions can produce catastrophic unintended consequences when divorced from expertise and practical wisdom.\n\n**Scientific Hubris:** The novella explores the dangers of scientific discovery without ethical consideration. Persikov's ray represents pure science pursued without thought for application\u2014his invention is spectacularly successful in accelerating life but completely value-neutral. The story asks what happens when powerful tools fall into hands unprepared for their implications, a theme that resonates with ongoing debates about technological progress.\n\n**Influences and Legacy:** Bulgakov drew heavily from H.G. Wells's \"The Food of the Gods,\" which is directly referenced in the text. The story also echoes elements of \"The War of the Worlds\" in its depiction of an unstoppable biological threat. Though initially criticized in the Soviet Union, The Fatal Eggs has become recognized as a pioneering work of Soviet science fiction and a masterful blend of satire and speculative fiction. It was adapted into film multiple times, including a 1995 Russian-Czech co-production.",
+      "created_at": "2026-03-07 01:12:00"
+    },
+    {
       "title": "The Fever in Urbicande (La Fi\u00e8vre d'Urbicande)",
       "year": 1985,
       "medium": "Graphic Novel",
@@ -13023,5 +13040,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 766
+  "count": 767
 }
