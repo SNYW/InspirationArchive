@@ -4115,6 +4115,23 @@
       "created_at": "2026-03-06 08:40:40"
     },
     {
+      "title": "Jaithra Yaathra",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Sasikumar",
+      "raw_score": 4.2,
+      "total_ratings": 9,
+      "origin": "India ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Cybernetics, Rebellion",
+      "image_filename": null,
+      "pitch": "Jaithra Yaathra (Journey of the Phantom) is a 1987 Malayalam science fiction film that tells the story of Raghunathan, an ordinary man whose life changes when a lightning strike grants him the ability to become invisible at will. Originally a humble worker, Raghunathan discovers his new power after being struck by lightning during a freak accident at a scientific facility. Using his newfound ability to turn invisible, he takes on the criminals and corrupt officials who have oppressed his village, becoming a phantom-like protector. However, as his double life continues, he must grapple with the moral implications of his powers and the consequences of living between visibility and invisibility.",
+      "truth": "The film begins with scientist Dr. Vasudevan (Thilakan) working on an experimental device that harnesses electronic energy. During a demonstration, a sudden lightning strike hits the laboratory, and Raghunathan (Nizhalgal Ravi), a loyal assistant at the facility, is caught in the accident. The incident grants him the ability to become invisible at will\u2014a power that manifests whenever he chooses to vanish from sight.\n\nInitially, Raghunathan uses his power sparingly, but witnessing the corruption and injustice in his village drives him to become a vigilante. Operating as an invisible phantom, he infiltrates the homes of corrupt officials, exposes their crimes, and creates chaos among the local mafia led by the powerful businessman Ganga (Babu Antony). Raghunathan's actions bring hope to the oppressed villagers, but his growing reliance on invisibility begins to strain his relationships with those around him.\n\nHis romantic interest, Radhika, becomes increasingly suspicious of his constant disappearances and unexplained absences. Meanwhile, the villains grow paranoid as their operations are systematically dismantled by an unseen force. The film builds to a confrontation where Raghunathan must reveal his identity to finally bring Ganga to justice, sacrificing his secret life but triumphing over evil.",
+      "core": "Jaithra Yaathra represents an early example of Indian superhero cinema, predating the more widely known Mr. India by just a year. The film explores themes of power and responsibility, examining how an ordinary individual might use extraordinary abilities to address systemic corruption and injustice. The invisibility metaphor allows the narrative to comment on the invisible struggles of common people against powerful oppressors\u2014those who operate in plain sight but remain unseen by society.\n\nThe film also touches on questions of identity and anonymity, exploring what it means to have power without recognition. Raghunathan's dual existence as both visible citizen and invisible avenger creates a tension between public and private self that resonates with themes of civic duty versus personal desire. Like other Indian sci-fi films of the era, Jaithra Yaathra uses genre conventions to address social concerns, particularly the frustration of ordinary citizens with corruption in positions of power.",
+      "created_at": "2026-03-07 00:26:19"
+    },
+    {
       "title": "Je t'aime, je t'aime",
       "year": 1968,
       "medium": "Film",
@@ -12989,5 +13006,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 764
+  "count": 765
 }
