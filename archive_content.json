@@ -9385,6 +9385,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Book of the Dead",
+      "year": 2005,
+      "medium": "Animated Film",
+      "creator": "Kihachir\u014d Kawamoto",
+      "raw_score": 3.3,
+      "total_ratings": 276,
+      "origin": "Japan ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Isolation",
+      "image_filename": null,
+      "pitch": "The Book of the Dead is a haunting Japanese stop-motion animated feature directed by master puppeteer Kihachir\u014d Kawamoto. Set in the Nara period around 750 CE, the film tells the legend of Ch\u016bj\u014d-hime, a noblewoman who becomes obsessed with Buddhism and spends her days hand-copying sutras. During the equinoxes and solstices, she glimpses a radiant figure she believes to be the Buddha floating between twin peaks. Her pursuit leads her to a forbidden temple where she discovers the figure may actually be the tormented soul of the executed Prince \u014ctsu. Through their encounter, both find peace and closure.\n\nThe film is notable for its exquisite stop-motion puppet work, with renowned animator Yuri Norstein serving as guest animator. It received the Excellence Prize for animation at the 2005 Japan Media Arts Festival and represents a unique blend of Buddhist philosophy, historical drama, and supernatural fantasy.",
+      "truth": "The story follows Iratsume, a young woman from a noble house in Nara period Japan, who becomes deeply absorbed in Buddhism during an era when the religion was being introduced from China. She devotes herself to hand-copying sutras, completing one thousand copies in her quest to understand Buddhist teachings.\n\nOn the eve of each equinox and solstice, Iratsume begins to see a radiant figure appearing between the twin peaks of Mount Futakami\u2014a vision she interprets as Amitabha Buddha or one of his attendants. One night, after completing her thousandth sutra copy, her view of the figure is obscured by a rainstorm. Driven by her longing to see the vision again, she sneaks away from her household to the foot of the mountain, arriving at a temple where women are forbidden to enter.\n\nThere she learns the truth: the figure she has been seeing is not Buddha, but the wandering soul of Prince \u014ctsu, a historical figure who was executed for his alleged involvement in a rebellion. The prince's soul is trapped between this world and the next, tormented and unable to find rest.\n\nWhen Iratsume and Prince \u014ctsu's soul encounter each other, they form a profound bond that brings comfort and peace to both. This connection allows the prince's soul to finally find rest, while Iratsume achieves spiritual enlightenment. The film carries the Japanese Buddhist teaching that no matter who they were in life\u2014friends or foes\u2014the souls of the dead need to be relieved from their suffering.\n\nKawamoto dedicated the film to all the innocent people who have died in recent wars, adding a layer of contemporary meaning to this historical tale.",
+      "core": "**Buddhist Philosophy and Death:** The film explores Japanese Buddhist teachings about death, souls, and the afterlife. The central message\u2014that all souls, regardless of their sins or status in life, deserve peace\u2014reflects traditional Buddhist compassion. The title itself references the ancient Egyptian concept, but the film grounds it in Japanese Buddhist tradition of honoring the dead.\n\n**Isolation and Transcendence:** Iratsume's journey represents a spiritual isolation\u2014she is a woman in a male-dominated religious world, forbidden from entering temples, yet driven by an inner vision. Her determination to transcend the boundaries set by society mirrors the soul's journey toward enlightenment.\n\n**Historical Fantasy:** Rather than a strict historical drama, the film blends historical setting with supernatural elements. The Nara period provides rich visual and cultural backdrop\u2014costumes, architecture, Buddhist rituals\u2014while the supernatural encounters drive the narrative toward metaphysical themes.\n\n**Stop-Motion Mastery:** The Book of the Dead represents the culmination of Kawamoto's career in puppet animation. The film's delicate puppet work, combined with Norstein's influence, creates a dreamlike atmosphere perfectly suited to the story's blend of historical reality and spiritual fantasy.\n\n**Peace and Reconciliation:** At its core, the film is about reconciliation\u2014with death, with the past, with oneself. The meeting between Iratsume and Prince \u014ctsu's soul brings closure to both characters, embodying the Buddhist ideal of releasing attachment and finding peace.",
+      "created_at": "2026-03-18 23:20:49"
+    },
+    {
       "title": "The Brother from Another Planet",
       "year": 1984,
       "medium": "Film",
@@ -14383,5 +14400,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 846
+  "count": 847
 }
