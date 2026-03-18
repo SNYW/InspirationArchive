@@ -4591,6 +4591,23 @@
       "created_at": "2026-03-03 10:03:23"
     },
     {
+      "title": "Kite",
+      "year": 1998,
+      "medium": "OVA",
+      "creator": "Yasuomi Umetsu",
+      "raw_score": 3.3,
+      "total_ratings": 6300,
+      "origin": "Japan ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Noir ,",
+      "topics": "Rebellion, Isolation",
+      "image_filename": "Kite_1998.jpg",
+      "pitch": "Kite is a 1998 adult OVA directed by Yasuomi Umetsu that follows Sawa, a young girl who becomes an assassin after her parents are murdered. Raised by her guardians Akai and Kanie (who were actually behind her parents' death), Sawa is trained as a professional killer, using special exploding bullets to eliminate targets for a corrupt system. When she meets fellow young assassin Oburi, she finds the will to escape her handlers and seek revenge. The film is notorious for its extreme violence, controversial content, and its themes of trauma, manipulation, and cycles of abuse.",
+      "truth": "The story opens with Sawa's parents being brutally murdered. The detectives assigned to the case, Akai and Kanie, become her legal guardians\u2014but they were actually the ones who ordered the hit. Over the years, they train Sawa to be an assassin, and Akai engages in a sexual relationship with her, giving her crystal earrings allegedly containing her parents' blood.\n\nSawa becomes infamous among police for her signature method: bullets that explode inside the body after piercing the skin. She executes corrupt officials, corporate executives, and anyone her handlers order her to kill. Despite her reputation as a ruthless killer, she remains emotionally broken and controlled by her guardians.\n\nWhen she meets Oburi, another young assassin working for the same organization, they form a bond. Inspired by his kindness, Sawa finally decides to escape and live a normal life. However, Akai orders her to kill Oburi before he can quit. Oburi reveals the truth: Akai and Kanie were responsible for Sawa's parents' murder. Sawa has known this for years but suppressed the memory.\n\nIn the climax, Sawa refuses to kill Oburi and instead targets her guardians. She kills Kanie in revenge, but Oburi is shot by another child assassin before they can reunite. The film ends ambiguously\u2014Sawa waits in Oburi's loft, hearing a footstep, leaving her fate uncertain.",
+      "core": "Kite is a disturbing exploration of trauma, manipulation, and how victims become perpetrators. Sawa is simultaneously a victim of horrific abuse and a cold-blooded killer, raising questions about agency, trauma response, and cycles of violence. The film presents a world where children are weaponized by corrupt systems, and where escape from such conditioning is nearly impossible.\n\nThe animation style is notably gritty and realistic for its time, with detailed character designs and fluid action sequences. This realism makes the disturbing content even more impactful. The film has been banned in several countries due to its graphic violence and depictions of sexual abuse.\n\nDespite\u2014or perhaps because of\u2014its controversy, Kite developed a cult following. Quentin Tarantino cited it as inspiration for Kill Bill. The film pioneered the \"girls with guns\" subgenre and influenced later works like Baccano and Black Lagoon. Its themes of broken systems, traumatized protagonists seeking redemption, and the impossibility of escaping one's past continue to resonate in darker anime storytelling.",
+      "created_at": "2026-03-18 10:19:44"
+    },
+    {
       "title": "Koi... Mil Gaya",
       "year": 2003,
       "medium": "Film",
@@ -13601,5 +13618,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 800
+  "count": 801
 }
