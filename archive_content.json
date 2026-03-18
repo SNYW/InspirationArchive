@@ -7107,6 +7107,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Saturn Apartments",
+      "year": 2005,
+      "medium": "Manga",
+      "creator": "Hisae Iwaoka",
+      "raw_score": 3.9,
+      "total_ratings": 4621,
+      "origin": "Japan ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Dystopia, Space-Opera ,",
+      "topics": "Ecology, Poverty, Isolation",
+      "image_filename": "Saturn Apartments_2005.jpg",
+      "pitch": "In a distant future, humanity has evacuated Earth to live in a massive ring-shaped structure orbiting 35 kilometers above the planet's surface. Earth has become a protected nature preserve, and the ring city\u2014Saturn Apartments\u2014is stratified into three tiers based on social class: upper levels house the wealthy who can afford clear windows to view Earth and sunlight, middle levels contain everyday workers, and lower levels suffer from darkness and limited resources.\n\nThe story follows Mitsu, a young man who has just graduated from school and takes over his father's former job as a window cleaner\u2014a dangerous occupation that involves floating outside the ring in a spacesuit to clean the transparent panels that allow upper-class residents to see the cosmos. Mitsu's father disappeared five years ago during a job, and the truth behind his death becomes a central mystery as Mitsu navigates his new career and learns about the lives of the ring's inhabitants through his work.",
+      "truth": "Mitsu begins his career as a window cleaner, partnered with Jin, a veteran who was close friends with Mitsu's father. Through his job, Mitsu gains unique access to the lives of residents across all levels of the ring\u2014a society stratified by class where only the wealthy can afford the luxury of unobstructed views of Earth and the Sun.\n\nAs Mitsu investigates his father's disappearance, he learns that his father died not by suicide or accident, but due to faulty equipment\u2014a sharp piece of metal that severed his rope in the harsh conditions of outer space. This revelation helps Mitsu finally process his father's death and move forward.\n\nThroughout the series, Mitsu encounters a cast of characters: the Kageyama family who becomes his surrogate family, Tamachi who blames himself for his father's death, a scientist working on automated cleaning technology that could make window washers obsolete, and a \"falling objects researcher\" who lives outside the ring in a small cabin, constantly sunburned from solar radiation. Each story explores themes of class division, the value of labor, environmental stewardship, and what it means to be human in a society that has literally elevated itself above its home planet.",
+      "core": "**Environmental Consciousness:** Perhaps the most prescient theme is the series' meditation on humanity's relationship with Earth. Having abandoned the planet to preserve it as a nature preserve, humanity now lives in artificial structures while gazing down at their home world. The upper-class residents who can afford window cleaning services represent those who can afford to appreciate nature only from a distance, while the lower classes live in darkness, symbolizing how environmental destruction and access to natural beauty are class issues.\n\n**Labor and Dignity:** Mitsu's job as a window cleaner is portrayed as dangerous, essential, and socially undervalued. The series explores how society often depends on workers who put themselves at risk while serving those who can afford their services. Mitsu takes pride in his work despite its dangers, finding meaning and connection through his labor.\n\n**Class and Social Stratification:** The ring's three-level structure creates a physical metaphor for class hierarchy. Upper-level residents live in light and luxury, lower-level residents in shadow and scarcity. Yet the stratification is not absolute\u2014the series shows how community and compassion can bridge class divisions.\n\n**Grief and Memory:** Mitsu's journey to understand his father's death represents how confronting painful truths can lead to healing. The series handles grief with nuance, showing how different characters process loss and how the truth\u2014however difficult\u2014ultimately liberates.\n\nSaturn Apartments stands as a quietly revolutionary work: a slice-of-life science fiction that prioritizes character and social commentary over action and technological spectacle. Its gentle pacing and unique visual style distinguish it from more conventional sci-fi manga, offering instead a contemplative meditation on humanity's future, our relationship with Earth, and the value of the work that sustains us.",
+      "created_at": "2026-03-18 10:05:32"
+    },
+    {
       "title": "Save the Green Planet!",
       "year": 2003,
       "medium": "Film",
@@ -13584,5 +13601,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 799
+  "count": 800
 }
