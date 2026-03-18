@@ -3894,6 +3894,23 @@
       "created_at": "2026-03-02 01:10:30"
     },
     {
+      "title": "Hoity Toity",
+      "year": 1929,
+      "medium": "Novella",
+      "creator": "Alexander Belyayev",
+      "raw_score": 4.6,
+      "total_ratings": 5,
+      "origin": "Russia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Transhumanism",
+      "image_filename": "Hoity_Toity_1929.jpg",
+      "pitch": "Hoity Toity is a peculiar Soviet science fiction novella from 1929 by Alexander Belyayev, the famed Russian author who also wrote The Amphibian. The story centers on an extraordinary African elephant in a Berlin circus who can count, read, and display remarkable intelligence\u2014until it escapes and causes chaos throughout the city. What follows is a strange tale of brain transplantation, scientific invention, and one elephant's journey through the Belgian Congo. Part of Belyayev's \"Professor Wagner's Inventions\" series, the novel explores themes of consciousness, identity, and the boundaries between human and animal.",
+      "truth": "Wagnor and his assistant travel to Belgian Congo to perform the groundbreaking surgery, transplanting Ring's brain into an elephant. After several failed attempts, they succeed, naming the creature \"Sapiens.\" However, the elephant escapes into the jungle and is lost. The story then follows Ring's adventures as he lives among wild elephants, is attacked by pygmies, witnesses ivory poachers kill each other, and eventually ends up at a farm before being purchased by the circus.\n\nThe novel also details Wagnor's various inventions: systems for isolating and maintaining a live human brain, devices for communicating with the isolated brain, transparent rubber for jungle exploration, and a special \"elephant vodka\" for tranquilizing the animals.",
+      "core": "**Consciousness and Identity:** At its heart, Hoity Toity explores what makes someone human. Is Ring still human when his brain resides in an elephant's body? The novel suggests that intelligence, memory, and personality define humanity more than physical form\u2014yet it also shows the alienation and confusion that comes from such a radical transformation.\n\n**Scientific Ethics:** Belyayev, writing in the early Soviet period, was fascinated by the ethical boundaries of scientific experimentation. Wagnor conducts radical procedures without clear ethical frameworks, raising questions about the responsibilities of scientists pushing the boundaries of what is possible.\n\n**The outsider's perspective:** Ring's journey from laboratory to circus represents an outsider's strange passage through different worlds\u2014scientific, natural, and entertainment. His isolation from both humans and elephants creates a unique perspective on society.\n\n**Soviet Science Fiction Traditions:** As part of Belyayev's work, the novella reflects Soviet-era interests in scientific experimentation and the wonders of technology, while also containing elements of adventure and the exotic that appealed to readers of popular science fiction.\n\nHoity Toity remains notable as an early example of the \"brain transfer\" concept in science fiction, predating many similar explorations in Western literature. Its combination of scientific speculation, adventure narrative, and philosophical questioning makes it a fascinating artifact of early Soviet science fiction.",
+      "created_at": "2026-03-18 02:19:12"
+    },
+    {
       "title": "Homunculus",
       "year": 1916,
       "medium": "Serial Film",
@@ -13142,5 +13159,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 773
+  "count": 774
 }
