@@ -13584,6 +13584,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Zarex",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Richard Abelardo (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Philippines ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Exploration, Aliens",
+      "image_filename": "Zarex_1958.jpg",
+      "pitch": "Zarex is a 1958 Filipino science fiction film produced by LVN Pictures, making it one of the earliest Filipino science fiction films ever made. Directed by Richard Abelardo, the film tells the story of Filipino astronauts who land on the moon, marking a pioneering moment in Philippine cinema. The film features Willie Sotelo and Carmencita Abad in the lead roles, and showcases the launching of a spaceship and the historic landing of humans on the moon\u2014a remarkable feat for Filipino cinema at a time when such ambitious science fiction productions were rare outside of Hollywood and Japan.\n\nThe film was produced during the golden age of Philippine cinema in the 1950s, a period when the country was producing hundreds of films annually and developing its own unique voice in Asian cinema. Zarex represents an ambitious attempt to compete with Hollywood's science fiction offerings like \"Destination Moon\" (1950), which had won an Academy Award for Best Special Effects. The Filipino production aimed to bring a similar vision of space exploration to local audiences, albeit with the limited resources of the Philippine film industry at the time.",
+      "truth": "The film follows a group of Filipino astronauts as they embark on a mission to the moon. Led by Willie Sotelo's character, the crew launches from Earth in their domestically-built spacecraft and makes the journey to the lunar surface. Upon landing, they encounter alien beings and explore the moon's landscape, discovering what awaits them in this new frontier.\n\nThe production design featured a Filipino-made robot costume and alien costumes, showcasing the ingenuity of Philippine filmmakers working with limited budgets. The film incorporated special effects techniques common to 1950s science fiction, including the depiction of the spaceship launching and the lunar landing sequences. Richard Abelardo, known for his special effects work in Filipino cinema, brought his expertise to create what was then an ambitious visual undertaking for the Philippine film industry.\n\nThe cast included Carmencita Abad, Willie Sotelo, Jose Vergara, Alfonso Carvajal, and Ric Mojica. The film's narrative, while simple by modern standards, represented a significant creative leap for Philippine cinema, attempting to tell an original science fiction story rather than adapting Western literary properties or adapting them with local characters.",
+      "core": "Zarex holds historical significance as one of the earliest Filipino science fiction films, demonstrating that Philippine filmmakers were willing to experiment with ambitious genres beyond the traditional dramas, comedies, and horror films that dominated local production. The film reflects the optimism of the space age era, when the possibility of space travel captured imaginations worldwide following the launch of Sputnik in 1957 and the subsequent space race.\n\nThe film also represents the capabilities of the Philippine film industry during its golden age in the 1950s, when studios like LVN Pictures invested in diverse genres and stories. Richard Abelardo's direction showed technical skill in creating science fiction elements, building on his experience with special effects work that included earlier films with elaborate fantasy and mythological elements.\n\nToday, Zarex is considered a lost film, with no known surviving copies available for viewing. This adds to its mystique as a pioneering but largely forgotten chapter in Filipino science fiction cinema. The film stands as a testament to the creative ambitions of Philippine filmmakers in the 1950s and their desire to participate in global cinematic trends, particularly in the exciting new genre of science fiction that was capturing audiences worldwide.",
+      "created_at": "2026-03-18 10:36:21"
+    },
+    {
       "title": "Zombies of the Stratosphere",
       "year": 1952,
       "medium": "Serial Film",
@@ -13618,5 +13635,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 801
+  "count": 802
 }
