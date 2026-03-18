@@ -10388,6 +10388,23 @@
       "created_at": "2026-03-05 16:53:59"
     },
     {
+      "title": "The Man with the Lens",
+      "year": 1961,
+      "medium": "Film",
+      "creator": "Frank Vogel",
+      "raw_score": 3.2,
+      "total_ratings": 15,
+      "origin": "Germany ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience",
+      "image_filename": "The_Man_with_the_Lens_1961.jpg",
+      "pitch": "The Man with the Lens (Der Mann mit dem Objektiv) is a whimsical East German sci-fi comedy from 1961, directed by Frank Vogel. The film tells the story of OS, a man from the year 2222 who accidentally travels back in time to 1961 East Germany via a mishap with a beach ball. Using a crystal that allows mind reading, OS navigates the contradictions of daily life in the GDR, exposing the gap between the idealistic promises of communist socialism and the reality of human nature. The film is notable as one of the most unconventional and surreal productions to emerge from East German cinema during the Cold War.",
+      "truth": "The story begins in the year 2222, where OS (Rolf Ludwig) and his friends observe the \"time stream\" of the 1960s. When a beach ball is kicked in frustration, the time stream malfunctions and OS is transported to 1961 East Germany. Mistaken for a famous actor named Martin Marten due to his futuristic appearance, OS becomes entangled in the lives of several East Germans. Using his mind-reading crystal, he discovers the moral weaknesses and hypocrisy lurking beneath the surface of socialist society\u2014affairs, petty corruptions, and unspoken desires that contradict the stated ideals of the \"beautiful future.\" The film blends romantic comedy, musical elements, and social satire as OS attempts to return to his own time while navigating the complexities of 1960s East German life.",
+      "core": "This film represents a remarkable anomaly in East German cinema\u2014a science fiction comedy that subtly critiques the very society that produced it. The time-travel premise allows the filmmakers to examine contemporary East German life through the eyes of an outsider, whose mind-reading ability reveals the gap between communist ideology and human reality. The \"fish out of water\" narrative structure echoes later works like \"Look Who's Back\" (Er ist wieder da), but from the opposite political perspective. As a product of DEFA, the East German state film studio, The Man with the Lens remains a fascinating document of how socialist cinema could occasionally turn the tools of state propaganda against themselves, creating a surreal political satire that managed to pass censorship while offering a surprisingly nuanced portrait of everyday life behind the Iron Curtain.",
+      "created_at": "2026-03-18 01:08:24"
+    },
+    {
       "title": "The Martian",
       "year": 2015,
       "medium": "Film",
@@ -13057,5 +13074,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 768
+  "count": 769
 }
