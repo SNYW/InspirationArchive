@@ -6920,6 +6920,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Roly Poly",
+      "year": 1968,
+      "medium": "Film",
+      "creator": "Andrzej Wajda",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Poland ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Transhumanism, Cybernetics",
+      "image_filename": "Roly_Poly_1968.jpg",
+      "pitch": "Roly Poly (Polish: Przek\u0142adaniec) is a 1968 Polish short science fiction comedy film directed by Andrzej Wajda, based on a screenplay by Stanis\u0142aw Lem. The 35-minute film, made for Polish television, explores the identity crisis that emerges when organ transplantation becomes widespread. The story follows rally driver Ryszard Fox, who suffers terrible accidents and receives numerous transplants from the deceased\u2014eventually leaving him as a patchwork of different people's body parts. The film is notable for being one of the rare Lem adaptations that satisfied the author himself, who praised Wajda's direction and called it the only film adaptation of his works that completely pleased him.",
+      "truth": "The film presents a darkly comedic tale about two brothers: Richard Fox, a rally racer, and his brother Thomas. After Richard badly injures Thomas during a race, Thomas receives extensive organ transplants\u201448.5% of his body comes from Richard. This creates a legal and personal nightmare: the life insurance company refuses to pay Thomas's benefits because he is \"incompletely deceased,\" while Thomas's wife demands that Richard either pay for the medical costs or recognize himself as Thomas and rejoin the family.\n\nThe complications multiply when Richard continues his reckless driving career. At his next rally, he crashes into his sister-in-law, two other women, and a dog. After subsequent accidents, Richard's lawyer tries to explain that he hasn't managed to do anything yet\u2014but it turns out Richard is no longer truly Richard. His co-driver, who survived with transplants from Richard's body parts, has become effectively \"Richard\" in the legal and personal sense.\n\nThe film uses this absurd premise to explore questions of personal identity, legal personhood, and the philosophical problems of transplantation. When someone has received organs from dozens of donors, who are they really? The film suggests that identity becomes genuinely uncertain when the body becomes a mosaic of different people.",
+      "core": "**Identity and the Ship of Theseus:** The film engages directly with the classic philosophical problem of identity through physical change. If all your cells are replaced over time, are you still the same person? Wajda and Lem push this further: if you receive organs from deceased donors, do you become them? The film suggests that identity might be more tied to continuity of consciousness than to physical matter\u2014but when that continuity is disrupted by memory-affecting accidents or when multiple people share physical parts, the question becomes genuinely troubling.\n\n**Bureaucracy and Personal Identity:** The insurance company's refusal to pay because Thomas is \"incompletely deceased\" is a sharp satire of bureaucratic thinking. The law is unprepared for medical realities, creating absurd situations where a person exists in a legal gray zone. This connects to Lem's broader interest in how systems\u2014legal, medical, bureaucratic\u2014fail to accommodate technological change.\n\n**The Post-Individual Future:** Though made in 1968, the film anticipates contemporary debates about transhumanism and cyborg existence. When artificial organs, prosthetics, and transplants become common, the boundaries between self and other begin to dissolve. The film suggests this is both liberating and terrifying\u2014we might become more than human, but we might also become less distinctly ourselves.\n\n**Wajda's Only Science Fiction:** Notably, Roly Poly represents Wajda's sole venture into science fiction and his first comedy. The director known for serious political and historical dramas brought his characteristic satirical edge to this lighter material, creating a film that is both entertaining and philosophically substantial. Its status as a television production gave Wajda freedom to experiment that he might not have had in theatrical cinema.",
+      "created_at": "2026-03-18 09:07:56"
+    },
+    {
       "title": "Roots Search",
       "year": 1986,
       "medium": "OVA",
@@ -13516,5 +13533,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 795
+  "count": 796
 }
