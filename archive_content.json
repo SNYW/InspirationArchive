@@ -10184,6 +10184,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Man Who Changed His Mind",
+      "year": 1936,
+      "medium": "Film",
+      "creator": "Robert Stevenson (Director), Boris Karloff (Star)",
+      "raw_score": 3.3,
+      "total_ratings": 1400,
+      "origin": "UK ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Horror, Science-Fantasy ,",
+      "topics": "Memory, Transhumanism",
+      "image_filename": "2068_The_Man_Who_Changed_His_Mind_1936.jpg",
+      "pitch": "The Man Who Changed His Mind is a rare British science fiction horror film from 1936, starring Boris Karloff in one of his most diabolical performances. The film follows Dr. Laurience, a once-respected scientist who has perfected a method of transferring minds from one person to another. When the scientific community ridicules his theories and cuts his funding, the mad scientist descends into evil, using his invention to swap bodies with wealthy patrons and further his own nefarious schemes. This obscure British chiller predates many similar body-swap narratives and showcases Karloff's ability to portray both the brilliant scientist and the cackling villain with equal conviction.",
+      "truth": "Dr. Clare Wyatt (Anna Lee), a promising young surgeon, leaves her journalism fianc\u00e9 Dick Haslewood to work with the reclusive Dr. Laurience (Boris Karloff), who has been researching the origins of the mind and soul. Dr. Laurience lives in a crumbling manor with his wheelchair-bound assistant Clayton, conducting experiments on chimpanzees to prove his theory that brain content can be extracted, stored, and transferred to another host.\n\nWhen Lord Haslewood, a wealthy newspaper magnate, offers to fund Dr. Laurience's research, things seem promising. However, when Dr. Laurience presents his findings to the scientific community, he is ridiculed and dismissed. Furious, Lord Haslewood terminates his funding and claims all of Laurience's research as his own property.\n\nDr. Laurience snaps. He invites Lord Haslewood to his laboratory and transfers the mind of his assistant Clayton into the Lord's body. With Lord Haslewood's wealth and prestige, Laurience becomes nearly unstoppable. He attempts to switch minds with the younger Dick Haslewood to seduce Clare, but his chain-smoking habits give him away in the younger body. In the chaotic climax, Clare and her mentor Dr. Gratton restore Laurience's mind to his original body\u2014only for that broken body to die from injuries sustained during a fall. Laurience dies repenting his misuse of science, taking his knowledge to the grave.",
+      "core": "**Mad Science and the Ethics of Transference:** The Man Who Changed His Mind presents one of cinema's earliest treatments of mind transfer technology, exploring themes that would become staples of science fiction. Dr. Laurience's invention\u2014a machine that can store and transfer consciousness\u2014raises questions about identity, mortality, and the boundaries of scientific pursuit. The film suggests that some knowledge is too dangerous for humanity, a warning embedded in Karloff's tragic downfall.\n\n**British Horror Tradition:** Produced by Gainsborough Pictures and funded by Michael Balcon, this film represents a uniquely British take on the mad scientist genre. Unlike American Universal films of the same era, The Man Who Changed His Mind emphasizes atmosphere and cerebral dread over physical monster effects. The film also notably features a strong female scientist protagonist\u2014Clare Wyatt\u2014who is intelligent, independent, and ultimately the hero who defeats the villain.\n\n**Mind/Body Identity:** The film explores what happens to personal identity when consciousness can be relocated. When Laurience inhabits Dick Haslewood's body but cannot suppress his own chain-smoking habit, the film suggests that identity is not merely physical but tied to habits, memories, and essence. This philosophical layer elevates the film above typical horror fare.\n\n**Critical Reception:** Often overlooked in horror film histories, the film has gained recognition among genre enthusiasts as a neglected gem. Contemporary critics praise Karloff's performance, the witty screenplay, and the film's brisk pacing despite its short 66-minute runtime. It stands as a testament to British filmmaking capabilities in the science fiction horror genre during the 1930s.",
+      "created_at": "2026-03-18 00:36:30"
+    },
+    {
       "title": "The Man Who Fell to Earth",
       "year": 1976,
       "medium": "Film",
@@ -13040,5 +13057,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 767
+  "count": 768
 }
