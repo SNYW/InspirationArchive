@@ -2024,6 +2024,23 @@
       "created_at": "2026-03-03 21:20:39"
     },
     {
+      "title": "Contact",
+      "year": 1978,
+      "medium": "Animated Short",
+      "creator": "Vladimir Tarasov",
+      "raw_score": 3.5,
+      "total_ratings": 623,
+      "origin": "Russia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens, Sentience",
+      "image_filename": "Contact_1978.jpg",
+      "pitch": "Contact is a ten-minute Soviet animated short film directed by Vladimir Tarasov at the Soyuzmultfilm studio in 1978. The film tells the story of a painter strolling through the countryside who encounters a shapeshifting alien visitor from outer space. Released during a peak period of global interest in extraterrestrial life\u2014the year after Steven Spielberg's Close Encounters of the Third Kind and the launch of Voyager space probes\u2014Tarasov's film tackles the universal question of how communication between two sentient species might occur. The animation style mixes traditional Soviet cartoon aesthetics with clear inspiration from Western works like Yellow Submarine, creating a distinctive visual language that bridges East and West during the Cold War era.",
+      "truth": "The story follows a painter walking through the countryside in search of inspiration. He stops to rest by a lake, unaware that a spacecraft has landed nearby. Inside the craft is a glowing, shapeshifting alien creature with triangular eyes\u2014a slug-like being from another world. As the painter hums a tune to himself, the alien approaches, attempting to make contact. \n\nTerrified by the sight of the extraterrestrial and convinced it intends to abduct him, the artist flees in panic, leaving behind his boots, hat, paintbox, and pipe. The bemused alien collects these belongings and attempts to return them. When the creature finally catches up to the painter, it tries to communicate by repeating the melody it had heard humming earlier. \n\nAt this moment, the man realizes he has nothing to fear. The two beings\u2014the human and the alien\u2014share the melody together as friends, observed through the compound eye of a cricket sitting on a stalk of grass. The alien uses music as a universal language to bridge the gap between species.",
+      "core": "The film explores several profound themes centered on communication and understanding across species. First contact narratives often focus on conflict or technological exchange, but Contact instead emphasizes the emotional and psychological barriers to understanding. The painter's initial terror represents humanity's fear of the unknown, while the alien's patient, non-verbal approach demonstrates how genuine connection requires empathy and adaptability.\n\nMusic serves as the film's central metaphor for universal communication. The alien doesn't speak or use technology to communicate\u2014it mirrors the human's own creative expression. This choice elevates the film beyond simple science fiction into a meditation on art as a bridge between minds. The tune the painter hums is Nino Rota's \"Parla Pi\u00f9 Piano\" (the Godfather theme), itself a love theme that becomes an intergalactic gesture of peace.\n\nVisually, the film represents an interesting fusion of animation traditions. Art director Nikolay Koshkin draws clear inspiration from George Dunning's Yellow Submarine, creating colorful, abstract sequences that shift into psychedelic territory during key moments of the alien encounter. This stylistic choice was somewhat unusual for Soviet animation of the period, which typically favored more realistic styles. The film won awards at the International Film Festival of Science Fiction Films in Trieste and the International Festival of Short and Documentary Films in Lille, demonstrating its international appeal during the Cold War era.",
+      "created_at": "2026-03-18 03:40:21"
+    },
+    {
       "title": "Contamination",
       "year": 1980,
       "medium": "Film",
@@ -13227,5 +13244,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 778
+  "count": 779
 }
