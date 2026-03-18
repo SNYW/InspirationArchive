@@ -358,6 +358,23 @@
       "created_at": "2026-03-06 18:01:06"
     },
     {
+      "title": "A Sound of Thunder",
+      "year": 1952,
+      "medium": "Short Story",
+      "creator": "Ray Bradbury",
+      "raw_score": 4.07,
+      "total_ratings": 9009,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Time-Travel",
+      "image_filename": null,
+      "pitch": "In 2055, time travel has become a commercial reality, and the wealthy can pay for guided hunting expeditions to the Mesozoic Era. When Eckels, a wealthy hunter, pays Time Safari Inc. to travel back 60 million years to hunt a Tyrannosaurus Rex, he expects a thrilling adventure. The company emphasizes strict protocols\u2014stay on the levitating path, only shoot animals marked for natural death, and never disturb anything. But when the massive dinosaur turns and charges, Eckels panics and flees back to the time machine, stepping off the forbidden path. The hunt succeeds, but Travis, the guide, is furious to discover Eckels violated the most critical rule. As they return to 2055, subtle changes in the world around them reveal that the timeline has been irrevocably altered. The story ends with Eckels discovering a dead butterfly crushed on his boot\u2014the tiny creature he displaced by stepping off the path\u2014and realizing his actions have changed everything, including who won the recent presidential election.",
+      "truth": "The story opens in 2055, where Eckels enters Time Safari Inc. to book a dinosaur hunt. The U.S. presidential election looms, with candidate Keith projected to win against the would-be dictator Deutscher. Eckels expresses relief about Keith's victory, noting he might have used time travel to escape if Deutscher had won.\n\nAt the prehistoric site, the guides Travis and Lesperance establish strict rules: a levitated path keeps travelers above the ground, preventing contact with the ecosystem. They only hunt animals marked with a special tag\u2014those destined to die naturally within minutes, ensuring the timeline remains undisturbed.\n\nWhen the T. Rex arrives, it's described as a terrifying god-like creature. Eckels freezes in fear as it approaches. When the shot is fired, the dinosaur falls, and Eckels panics, running back to the time machine. Travis discovers Eckels stepped off the path into the prehistoric dirt\u2014a devastating violation.\n\nTravis forces Eckels to retrieve the bullet casings from the corpse to minimize temporal disruption. They return to 2055, but the world has changed. The office air smells different, the colors are off, and a sign reads \"Telescopingpatriotc\" instead of \"Telescoping Patriotic.\" Most horrifyingly, they learn that Deutscher won the presidential election.\n\nEckels discovers a butterfly on his boot\u2014crushed by his footprint in the prehistoric mud. The death of that one butterfly, cascading through time, altered history. As Eckels begs for help, Travis raises his rifle, and the story ends with \"a sound of thunder\"\u2014implied to be a gunshot, as Bradbury leaves ambiguous whether Travis kills Eckels or if this is the thunder of history collapsing.",
+      "core": "The butterfly effect: Bradbury's story predates the mathematical term but captures its essence\u2014the idea that tiny actions can have massive, unpredictable consequences across time. The story shows how even stepping off a path can reshape elections, change language, and transform the world. This concept would later become central to chaos theory, making the story a prescient exploration of sensitivity to initial conditions.\n\nTime travel ethics: The story asks whether we have the right to interact with the past, even for hunting. Time Safari Inc. has strict rules, but as Travis notes, killing a mouse could cause ripples that eliminate entire species. The company argues they only hunt animals marked to die\u2014but who determines fate? The story suggests any intervention invites catastrophe.\n\nHistory and determinism: By showing how a butterfly's death changes an election, Bradbury explores whether history is fragile or ultimately resilient. The story implies that small random events shape great ones, challenging narratives of historical inevitability. The shift from Keith to Deutscher shows how fragile democracy might be.\n\nHuman hubris: Eckels pays to hunt dinosaurs for sport, treating the past as entertainment. His panic and violation of rules show human inadequacy for such power. Travis represents those who understand the responsibility time travel demands, making him both hero and executioner.",
+      "created_at": "2026-03-18 21:10:14"
+    },
+    {
       "title": "A Trip to the Moon",
       "year": 1902,
       "medium": "Film",
@@ -14264,5 +14281,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 839
+  "count": 840
 }
