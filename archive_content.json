@@ -2840,6 +2840,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "E.V.O.: Search for Eden",
+      "year": 1992,
+      "medium": "Video Game",
+      "creator": "Almanic Corporation",
+      "raw_score": 3.6,
+      "total_ratings": 30,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Evolution, Aliens, Time-Travel",
+      "image_filename": "E.V.O._Search_for_Eden_1992.jpg",
+      "pitch": "E.V.O.: Search for Eden is a surreal 1992 action-RPG for the Super Nintendo Entertainment System that tells the story of a fish on a billion-year journey to evolve and earn a place in Paradise. Developed by Almanic Corporation and published by Enix, the game casts players as a single-celled organism guided by Gaia, the personification of Earth, who explains that her father\u2014the Sun\u2014has decreed that the most evolved creature will earn the privilege of entering Eden as her partner. What follows is an idiosyncratic trip through Earth's geological history, from the Cambrian Period through the Age of Dinosaurs and eventually to early humanity, as players consume enemies to earn \"Evo Points\" and mutate their creature's body with new appendages, jaws, and abilities. The game is infamous for its bizarre plot, crude English localization, and surprisingly philosophical undertones about evolution, purpose, and what it means to be \"fit.\"",
+      "truth": "The player begins as a humble fish in the ancient oceans of the Cambrian Period, guided by Gaia\u2014a nude anime-styled goddess who appears in the player's mind to explain the rules of the contest. To evolve, the player must defeat enemies and consume their meat to earn Evo Points, which can be spent in the evolution menu to purchase new body parts: stronger jaws, fins, tails, armor plating, and more. Each geological era requires different evolutionary adaptations to survive\u2014players must evolve from fish to amphibian, then to reptile, and finally to mammal.\n\nThe game's story unfolds across five geological periods, with each era presenting unique challenges, bosses, and environmental hazards. The core loop involves grinding enemies for Evo Points while navigating increasingly difficult platforming sections. Along the way, Gaia provides cryptic guidance, and the player encounters various talking animals who offer hints, side quests, and exposition about the nature of evolution.\n\nA late-game revelation reveals that mysterious crystals accelerating evolution on Earth were actually sent by an advanced alien civilization on Mars, who wished to help humanity evolve faster but inadvertently caused destructive mutations. The final boss is Bolbox, a monstrous single-celled organism that consumed too many crystals and believes itself to be the first human. After defeating Bolbox, the player is granted entry to Eden and achieves immortality alongside Gaia.\n\nThe gameplay is notable for its brutal difficulty, tedious grinding requirements, and unusual evolution system that allows players to create bizarre custom creatures by mixing and matching body parts. The game also features a \"Book of Life\" feature allowing players to save custom creature designs.",
+      "core": "E.V.O.: Search for Eden stands as one of the strangest and most misunderstood games of the 16-bit era\u2014a title that defies easy categorization. Its premise is simultaneously scientific (based loosely on evolutionary theory) and mystical (featuring a literal goddess who judges fitness based on her father's decree), creating a fascinating tension between rationalist and mythological worldviews.\n\nThe game can be read as a meditation on evolution as both biological process and cosmic lottery. While Darwinian evolution is ostensibly about survival of the fittest, E.V.O. reframes it as a guided contest with a predetermined prize\u2014Eden\u2014which raises questions about whether evolution has direction or purpose. The Martian intervention adds a science-fictional layer: external agents can manipulate evolution, for better or worse, suggesting that any \"natural\" process is vulnerable to technological intervention.\n\nCritics have noted the game's surprisingly dark undertones beneath its goofy exterior. The protagonist commits what is essentially mass murder across billions of years, consuming countless sentient beings to gain power\u2014a bleak interpretation that contrasts with the game's cheerful presentation. The English localization adds further surrealism, with awkward phrasing and non-sequiturs that have become legendary among retro gaming enthusiasts.\n\nRetrospective reviews praise the game's originality and ambition, if not its execution. IGN ranked it among the greatest \"prehistoric games\" of all time and noted that no other title has captured the essence of evolutionary theory in game form quite as boldly. While its tedious gameplay and dated graphics prevent it from being considered a great game, E.V.O. remains a cult classic appreciated for its sheer audacity and strangeness.",
+      "created_at": "2026-03-18 09:23:09"
+    },
+    {
       "title": "El Mercenario",
       "year": 1980,
       "medium": "Graphic Novel",
@@ -13533,5 +13550,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 796
+  "count": 797
 }
