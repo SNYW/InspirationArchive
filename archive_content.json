@@ -9334,6 +9334,23 @@
       "created_at": "2026-03-04 06:01:51"
     },
     {
+      "title": "The Cyberiad",
+      "year": 1965,
+      "medium": "Novel",
+      "creator": "Stanis\u0142aw Lem",
+      "raw_score": 4.13,
+      "total_ratings": 14281,
+      "origin": "Poland ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy, Hard-SF ,",
+      "topics": "Sentience, Cybernetics, Evolution",
+      "image_filename": "The Cyberiad_1965.jpg",
+      "pitch": "The Cyberiad is a series of humorous science fiction fables by Polish master Stanis\u0142aw Lem, first published in 1965. Unlike conventional space operas with their grand battles and dramatic heroics, this collection centers on Trurl and Klapaucius\u2014two brilliant \"constructor\" robots who travel the galaxy, building fantastical machines to solve the problems of civilizations they encounter. Each story functions as a satirical fable, exploring themes of happiness, society, technology, and artificial intelligence through playful, often absurd scenarios. The collection established Lem as not just a writer of philosophical science fiction (like Solaris) but also a master of comedic, absurdist storytelling that rivals Lewis Carroll and Jonathan Swift.",
+      "truth": "The stories follow Trurl and Klapaucius as they journey through space, offering their services to various civilizations they encounter. In \"Trurl's Machine,\" Trurl builds a machine to satisfy a king's desire for happiness, with unexpected consequences. \"The First Sally\" introduces their world and their trade as constructors. In \"The Fifth Sally,\" Trurl creates a \"femfatalatron\" to help a prince win love, only to have it backfire catastrophically. The constructor duo creates a \"Demon of the Second Kind\" to defeat a pirate in \"The Sixth Sally,\" and in the famous \"Seventh Sally,\" Trurl builds an entire miniature kingdom for a tyrannical ruler\u2014only to discover that the ruler becomes trapped in his perfect world, unable to leave.\n\nThe tales are set in a universe where robots have developed their own medieval feudal societies, complete with kingdoms, knights, dragons, and princesses\u2014yet this pseudo-medieval world coexists with advanced space travel and technology. The robots experience emotions, love, death, and philosophical dilemmas remarkably similar to humans. Through these humorous adventures, Lem explores profound questions about the nature of intelligence, the pursuit of happiness, the relationship between creators and their creations, and whether true fulfillment can be engineered or must be earned.",
+      "core": "**Technology and Happiness:** Central to The Cyberiad is the question of whether technological progress can create happiness. Lem repeatedly shows that sophisticated machines and material abundance fail to guarantee fulfillment\u2014the robots who have everything remain unsatisfied, while those who struggle often find meaning. This critique of technological optimism runs counter to mainstream science fiction's faith in progress.\n\n**The Creator-Creation Relationship:** Trurl and Klapaucius constantly build beings and worlds to help others, but their creations frequently cause problems they didn't anticipate. This reflects Lem's philosophical interest in the limits of engineering\u2014whether of machines or societies\u2014and the unintended consequences of even well-intentioned intervention.\n\n**Satire of Human Institutions:** By casting robots in human roles, Lem provides sharp satire of monarchy, religion, capitalism, and warfare. The robot kingdoms are recognizably satirical portraits of human political systems, with Lem exposing the absurdities of power, class, and ideology.\n\n**Lem's Philosophical Wit:** The Cyberiad showcases Lem's distinctive voice\u2014intellectually playful yet deeply serious beneath the humor. The fables work on multiple levels: as entertainment, as social commentary, and as philosophical explorations of existence. Lem's wit rivals Douglas Adams but carries more philosophical weight.\n\nThe Cyberiad has become a cornerstone of Eastern European science fiction and influenced countless writers. Its combination of humor, philosophy, and inventive world-building makes it essential reading for anyone interested in the genre's potential for both entertainment and insight.",
+      "created_at": "2026-03-18 15:49:24"
+    },
+    {
       "title": "The Cybernetic Grandma",
       "year": 1962,
       "medium": "Animated Short",
@@ -13975,5 +13992,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 822
+  "count": 823
 }
