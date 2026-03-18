@@ -5186,6 +5186,23 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Mavlin: Vesm\u00edrn\u00fd \u00fanik",
+      "year": 1994,
+      "medium": "Video Game",
+      "creator": "Mael Software Group",
+      "raw_score": 0.6,
+      "total_ratings": 1,
+      "origin": "Czechoslovakia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": null,
+      "pitch": "Mavlin: Vesm\u00edrn\u00fd \u00fanik (Mavlin: The Space Escape) is a Czech point-and-click sci-fi adventure game released in 1994 for MS-DOS. The player assumes the role of Mavlin Malner, an ordinary Earthling who is mistakenly kidnapped by an alien in a flying saucer and taken to the planet of the moguns\u2014alien creatures resembling pink dragons of slightly humanoid shape. Upon discovering the kidnapping was a mistake (the alien was actually after someone named Gagif Kolkol), the mogun sees no reason to return Mavlin to Earth, leaving our protagonist stranded on an alien world. The player must guide Mavlin through various puzzles and interactions to find his way back home.",
+      "truth": "The game casts players as Mavlin Malner, an unfortunate Earthling whose life takes a dramatic turn when he's abducted by a mogun\u2014a pink, dragon-like alien humanoid. The mogun who captured him quickly realizes the kidnapping was a clerical error; Mavlin is not the intended target, the notorious Gagif Kolkol. However, rather than correcting this mistake and returning Mavlin to Earth, the mogun simply abandons him on the alien planet, leaving Mavlin to fend for himself.\n\nThe gameplay follows the classic point-and-click adventure format popular in the early 1990s. Players navigate Mavlin through visually presented scenes using six command icons representing actions: walking, looking, listening, taking, using, and speaking. The game features an inventory system, though items can only be used at specific locations on-screen rather than combined with each other. The soundtrack consists of PC speaker music, adding to the retro gaming atmosphere of the era.\n\nMavlin must solve various puzzles and interact with the alien inhabitants to progress through the game. The sci-fi adventure combines humor with the challenge of navigating an alien world where nothing works the way it does on Earth. The game's Czech origins give it a distinctive Eastern European flavor uncommon in Western gaming of the period.",
+      "core": "Mavlin: Vesm\u00edrn\u00fd \u00fanik represents a fascinating piece of Czech video game history from the early 1990s, when the country's game development scene was just beginning to emerge. Developed by Mael Software Group, the game reflects the creative ambition of Czech developers who, despite limited resources and minimal exposure outside their home country, attempted to create original adventure games in the sci-fi genre.\n\nThe game's premise\u2014a mistaken identity abduction leading to an alien odyssey\u2014follows a classic science fiction template reminiscent of works like Douglas Adams' Hitchhiker's Guide to the Galaxy, though the execution is far more modest. The themes of being trapped in an unfamiliar world, struggling to understand alien customs, and ultimately seeking a way home resonate with the universal sci-fi experience of cultural displacement.\n\nAs an early Czech adventure game, Mavlin also represents the country's entry into the broader European gaming landscape, albeit on a much smaller scale than contemporaries from Germany, France, or the UK. The game remains a cult curiosity for fans of retro adventure games and those interested in the early history of Czech video game development.",
+      "created_at": "2026-03-18 10:53:23"
+    },
+    {
       "title": "Max Payne",
       "year": 2001,
       "medium": "Video Game",
@@ -13635,5 +13652,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 802
+  "count": 803
 }
