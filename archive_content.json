@@ -7005,6 +7005,23 @@
       "created_at": "2026-03-04 04:44:59"
     },
     {
+      "title": "Raji: An Ancient Epic",
+      "year": 2020,
+      "medium": "Video Game",
+      "creator": "Nodding Heads Games",
+      "raw_score": 3.45,
+      "total_ratings": 22,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion",
+      "image_filename": null,
+      "pitch": "Raji: An Ancient Epic is an action-adventure game developed by Nodding Heads Games, a small studio based in Pune, India. Released in 2020, it marks a significant milestone as one of the first major Indian video games to gain international recognition and distribution on mainstream platforms. The game draws heavily from Hindu mythology, incorporating elements from the Mahabharata and Ramayana, and presents players with a visually striking experience inspired by Pahari miniature paintings and the architecture of Rajasthan.\n\nThe story follows Raji, an orphaned circus performer whose younger brother Golu is abducted by demons during the festival of Raksha Bandhan. Chosen by the deities Goddess Durga and Lord Vishnu, Raji embarks on a quest to rescue her brother and stop the demon lord Mahabalasura from opening the gates of heaven to destroy the gods. The game was nominated for Best Debut Game at The Game Awards 2020\u2014the first Indian game to achieve such recognition.",
+      "truth": "The game opens on Raksha Bandhan, a Hindu festival celebrating the bond between brothers and sisters. Raji and her brother Golu work at a traveling circus, where they are reunited after being separated in childhood. When demons attack the carnival, Raji is separated from Golu, who is abducted along with other children. Raji receives a divine trishula (trident) from Goddess Durga and begins her journey to rescue her brother.\n\nRaji pursues the demons to the Fortress of Jaidhar, where she discovers that the invasion is orchestrated by Mahabalasura, a demon lord who was once a Mystic but was exiled for his arrogance. Granted immortality by Lord Brahma, Mahabalasura seeks revenge against the gods for imprisoning him. He requires a person of pure heart to recite an ancient chant to open the gates of heaven\u2014hence his abduction of children.\n\nTraveling through various realms, Raji receives divine weapons from Vishnu, including the Sudarshan Chakra. She confronts demon queens like Rangda in the heavenly city of Hiranya Nagari and ultimately faces Mahabalasura in the Thar Desert. The game ends with Mahabalasura successfully opening the gates of heaven, leaving the fate of both humanity and the gods ambiguous. Golu, still under Mahabalasura's control, recites the final chant, and Raji is left to continue her fight.",
+      "core": "**Indian Mythology and Cultural Representation:** Raji represents a significant cultural milestone for Indian game development, bringing Hindu mythology to a global audience. The game incorporates authentic religious narrative elements, including deities like Durga, Vishnu, Shiva, and Brahma, while presenting them in an accessible format for international players. This cultural representation has sparked discussions about the portrayal of Indian heritage in gaming and the game's role in introducing Hindu mythology to new audiences.\n\n**Female Protagonism in Gaming:** Raji stands out as a strong female protagonist in a genre often dominated by male heroes. The character's journey from circus performer to chosen warrior embodies themes of courage, determination, and self-discovery. Her relationship with her brother drives the narrative, creating an emotionally resonant story about family bonds and sacrifice.\n\n**Development Challenges and Industry Impact:** The game was developed by a team of just thirteen people over three years. The developers faced significant challenges, including difficulty securing publishing deals and financial constraints that led co-founder Shruti Ghosh to sell her apartment to sustain the project. Despite these obstacles, the team persisted and created a game that achieved international recognition, demonstrating the potential for Indian game development despite limited resources.\n\n**Artistic Vision:** The game's visual design draws from Pahari paintings, a traditional Indian art form, and models its architecture after medieval Rajasthan. This artistic choice creates a distinctive aesthetic that sets Raji apart from typical video game visuals and showcases the richness of Indian artistic traditions.\n\n**Reception and Recognition:** While reviews were mixed, the game's cultural significance was widely acknowledged. It was nominated for Best Debut Game at The Game Awards 2020, making history as the first Indian game to receive such recognition. The nomination brought attention to India's growing game development industry and inspired other Indian developers to pursue ambitious projects.",
+      "created_at": "2026-03-18 20:08:13"
+    },
+    {
       "title": "Raumpatrouille \u2013 Die phantastischen Abenteuer des Raumschiffes Orion",
       "year": 1966,
       "medium": "Serial Film",
@@ -14196,5 +14213,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 835
+  "count": 836
 }
