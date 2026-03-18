@@ -5492,6 +5492,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Morgiana",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Juraj Herz",
+      "raw_score": 3.6,
+      "total_ratings": 1900,
+      "origin": "Czechoslovakia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Isolation",
+      "image_filename": "Morgiana_1972.jpg",
+      "pitch": "Morgiana is a visually stunning 1972 Czechoslovak Gothic drama based on Alexander Grin's novel \"Jessie and Morgiana.\" The film tells the story of two sisters, Kl\u00e1ra and Viktoria, who inherit different portions of their wealthy father's estate. When Kl\u00e1ra receives the majority of the inheritance including the family castle, Viktoria's jealousy transforms into obsessive hatred. Using a mysterious gypsy fortuneteller's help, Viktoria begins slowly poisoning her sister with an undetectable toxin. The film is renowned for its spectacular cinematography, elaborate costume design, and Iva Jan\u017eurov\u00e1's remarkable dual performance as both sisters.",
+      "truth": "The film opens with the death of a wealthy father, whose estate is divided between his two daughters. Kl\u00e1ra inherits the majority of the assets including the family castle, while Viktoria receives only a small castle and some jewelry. This unfair division seeds Viktoria's resentment, which grows exponentially when Kl\u00e1ra falls in love with Lieutenant Marek\u2014a man Viktoria herself had desired.\n\nViktoria seeks out Otylie, a mysterious gypsy fortuneteller who helps her obtain a nearly undetectable poison. Under the guise of reconciliation, Viktoria begins slowly poisoning Kl\u00e1ra's dog with the toxin to test its effects. When the dog dies mysteriously, Viktoria gains confidence and begins administering the poison to Kl\u00e1ra directly. Kl\u00e1ra's health rapidly deteriorates, but doctors cannot diagnose the cause of her mysterious illness.\n\nAs Kl\u00e1ra weakens, Viktoria manipulates the situation to appear as a concerned sister. However, when Otylie attempts to blackmail Viktoria, the desperate sister throws the fortuneteller off a cliff to silence her. Eventually, Kl\u00e1ra receives an anonymous letter revealing she's been poisoned and that an antidote can be purchased\u2014with the catch that the sender is the one who poisoned her. The film concludes with a tense confrontation between the sisters, exploring the depths of human jealousy and the cost of ambition.",
+      "core": "Morgiana stands as a masterclass in visual storytelling within Czechoslovak cinema. Director Juraj Herz, a Holocaust survivor, brings his signature dark visual sensibility to this tale of psychological manipulation and familial betrayal. The film is often compared to classic Gothic literature like \"Rebecca\" and \"Jane Eyre,\" though Herz infuses it with distinctly Central European sensibilities and his own traumatic wartime experiences.\n\nThe film's visual palette is dominated by deep reds, blacks, and dramatic shadows\u2014reflecting the toxic jealousy consuming Viktoria. Cinematographer Jaroslav Ku\u010dera creates haunting images that linger in memory, while Lubo\u0161 Fi\u0161er's score amplifies the mounting tension throughout. Iva Jan\u017eurov\u00e1's dual performance is particularly remarkable\u2014she completely transforms her mannerisms, voice, and physicality between the innocent Kl\u00e1ra and the calculating Viktoria.\n\nThematically, the film explores jealousy as a destructive force that consumes not only its target but its bearer as well. Viktoria's obsession with outdoing her sister leads her to commit increasingly terrible acts, ultimately destroying everyone around her\u2014including herself. The poison that kills serves as a metaphor for toxic emotions that slowly poison the soul.",
+      "created_at": "2026-03-18 12:53:04"
+    },
+    {
       "title": "Morning Patrol",
       "year": 1987,
       "medium": "Film",
@@ -13771,5 +13788,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 810
+  "count": 811
 }
