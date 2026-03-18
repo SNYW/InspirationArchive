@@ -4404,6 +4404,23 @@
       "created_at": "2026-03-04 01:45:12"
     },
     {
+      "title": "King of the Wild",
+      "year": 1931,
+      "medium": "Serial Film",
+      "creator": "B. Reeves Eason, Richard Thorpe",
+      "raw_score": 2.75,
+      "total_ratings": 150,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Adventure ,",
+      "topics": "Exploration",
+      "image_filename": "King_of_the_Wild_1931.jpg",
+      "pitch": "King of the Wild is a 1931 American pre-Code Mascot movie serial starring Walter Miller, Nora Lane, and a young Boris Karloff in one of his earliest film roles. The story follows American adventurer Robert Grant, who is falsely accused of murdering an Indian Rajah and imprisoned. After escaping, he flees to Africa to find the real culprit and clear his name. In the African jungle, he encounters Sheik Mustapha (Karloff), who possesses evidence that could exonerate him, along with the location of a secret diamond mine. He also meets Muriel Armitage, who is searching for her missing brother Tom. Together, they face deadly dangers including man-eaters, treacherous villains, and the perilous jungle in pursuit of justice and treasure. The serial consists of 12 chapters running approximately 248 minutes total.",
+      "truth": "The complex plot begins in India, where American Robert Grant discovers he is a dead ringer for the Rajah of Rampur. During a tiger hunt, the Rajah is killed, and before dying, he implores Grant to impersonate him until his brother can arrive to take over the kingdom. Grant is given a letter explaining everything, but the letter\u2014containing the location of a secret diamond mine written in invisible ink\u2014is stolen by Harris and the Rajah's evil cousin Dakkar. Grant is framed for murder and imprisoned.\n\nA year later, Grant escapes and heads to Africa to track down Harris, the only person who can clear his name. He arrives in Lobenga, encountering Mustapha (Boris Karloff), an imposing Arab sheikh who knows how to reveal the invisible ink's message. Also searching for the diamond field is Tom Armitage, who has already discovered the volcanic cave containing the diamonds but has been kidnapped by Harris and Mustapha's men. Tom's sister Muriel joins forces with Grant.\n\nThe serial features numerous twists: a shipwreck, murders, betrayals, a trained ape-man named Bimi (the \"King of the Wild\"), secret agents, a mysterious villain in dark glasses, and endless pursuit of \"the letter\" that can clear Grant and reveal the diamonds. Chapter titles include \"Man Eaters,\" \"The Avenging Horde,\" \"Secret of the Volcano,\" \"Pit of Peril,\" \"Jungle Justice,\" and more.",
+      "core": "King of the Wild represents early 1930s adventure serial filmmaking at its most typical\u2014complex, convoluted, and driven by cliffhanger mechanics. The serial is notable primarily for featuring Boris Karloff in a supporting role as the villainous Mustapha, just months before his breakthrough as the Monster in Frankenstein (1931) that would make him a star. The serial was one of four Karloff did for Mascot in 1931.\n\nThe film reflects the colonial-era adventure genre popular in the early talkies, with its exotic African settings, \"native\" tribes, and treasure-hunting premise. The plotting is notoriously labyrinthine\u2014even contemporary reviews noted the exhausting complexity. The production shows its low budget with obvious set limitations and stock footage reuse.\n\nFor modern viewers, the serial is primarily of historical interest as an example of early sound era chapter plays and Karloff's pre-horror career. The film has been released on DVD by Alpha Video and Sinister Cinema, with varying quality prints available.",
+      "created_at": "2026-03-18 03:07:35"
+    },
+    {
       "title": "Kingsajz",
       "year": 1988,
       "medium": "Film",
@@ -13193,5 +13210,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 776
+  "count": 777
 }
