@@ -6019,6 +6019,23 @@
       "created_at": "2026-03-02 21:35:49"
     },
     {
+      "title": "Odysseus and the Stars",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Ludv\u00edk R\u00e1\u017ea",
+      "raw_score": 3.6,
+      "total_ratings": 61,
+      "origin": "Czechoslovakia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "Odysseus_and_the_Stars_1976.jpg",
+      "pitch": "Odysseus and the Stars is a 1976 Czechoslovak children's science fiction film directed by Ludv\u00edk R\u00e1\u017ea. The film follows a group of children who become involved in a mysterious chain of events during the 1970s, centered around an attempt to make contact with an extraterrestrial civilization. When a meteorite crashes nearby, the children embark on an extraordinary adventure that blends coming-of-age storytelling with classic science fiction themes of first contact and humanity's place in the universe. The film represents a charming example of Czechoslovak children's cinema, combining imaginative storytelling with the country's rich tradition of fantastical filmmaking.",
+      "truth": "The story centers on a group of children who discover unusual phenomena occurring in their neighborhood. When a meteorite falls in the vicinity, the children find themselves at the center of an extraordinary event. Their investigation leads them to attempt contact with what they believe to be an extraterrestrial civilization. The film unfolds as a mystery adventure, with the young protagonists working together to decode strange signals and follow clues that point to alien presence. Their journey takes them through various challenges that test their friendship, courage, and belief in the possibility of life beyond Earth. The narrative maintains a gentle, family-friendly tone while exploring themes of curiosity, teamwork, and the wonder of the cosmos.",
+      "core": "Odysseus and the Stars belongs to the tradition of Czechoslovak children's science fiction cinema that emerged during the 1970s, a period when filmmakers in the country created imaginative works for young audiences that dealt with complex themes in accessible ways. The film reflects the optimistic Space Age belief in humanity's future among the stars, while also embodying the distinctive aesthetic and storytelling sensibilities of Czechoslovak cinema. \n\nThe film's theme of attempting contact with alien civilizations resonates with broader scientific and philosophical questions about humanity's place in the universe\u2014a topic that Czechoslovak filmmakers explored with particular interest during the Space Race era. The children's perspective allows the film to approach these weighty themes with innocence and wonder, making complex ideas accessible to younger audiences while remaining engaging for adults.\n\nAs a product of its era, the film also represents the Czechoslovak film industry's commitment to creating original, domestically-produced science fiction for children at a time when such material was rarely produced in Eastern Europe. The combination of local storytelling traditions with science fiction elements gives the film its unique character, distinguishing it from both Western and Soviet-era children's science fiction.",
+      "created_at": "2026-03-18 13:23:25"
+    },
+    {
       "title": "Om-Dar-B-Dar",
       "year": 1988,
       "medium": "Film",
@@ -13805,5 +13822,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 812
+  "count": 813
 }
