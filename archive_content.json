@@ -8450,6 +8450,23 @@
       "created_at": "2026-03-03 20:05:14"
     },
     {
+      "title": "Storm",
+      "year": 1977,
+      "medium": "Graphic Novel",
+      "creator": "Don Lawrence, Martin Lodewijk",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Netherlands ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Space-Opera, Science-Fantasy ,",
+      "topics": "Time-Travel, Exploration, Sentience",
+      "image_filename": "Storm_1977.jpg",
+      "pitch": "Storm is a Dutch science fiction comic series created by the legendary British artist Don Lawrence, who had previously worked on The Trigan Empire. First published in 1977 in the Dutch magazine Eppo, the series follows Commander Storm, a 21st-century astronaut whose mission to investigate Jupiter's Great Red Spot goes catastrophically wrong. Pulled into the ancient storm, he escapes to find himself displaced in time\u2014arriving on a future Earth where the oceans have vanished and barbaric civilizations have risen on the former seabeds. The series originated in Dutch but has been translated into English, German, and at least twelve other languages. What sets Storm apart is its fully painted art, which was unusual for comics at the time, and its ambitious storytelling that spans multiple dimensions and realities.",
+      "truth": "The series is divided into two main story arcs. The first, **The Chronicles of the Deep World**, begins with Storm's time displacement to a post-apocalyptic Earth. The protagonist awakens in a world where the oceans have receded, leaving vast abyssal plains where primitive societies struggle to survive. Storm becomes a powerful figure in this new world, using his advanced knowledge and combat skills to navigate its dangers. He encounters various factions and civilizations, often finding himself at the center of conflicts between different groups fighting for control of the remaining resources and territories.\n\nThe second arc, **The Chronicles of Pandarve**, takes a dramatic turn when Storm and his companion Ember (originally named Roodhaar/Redhair) are transported to the Pandarve multiverse\u2014a bubble of breathable gas surrounding a white hole containing thousands of planetary objects. Here, they meet Nomad, a hairless red-skinned warrior, and face Marduk, the Theocrat of Pandarve who seeks to capture Storm because his time-travel makes him an anomaly capable of destabilizing the multiverse. Pandarve itself is a living planet with intellect and consciousness, able to interact with beings through various manifestations.\n\nThe later albums form a trilogy where Storm and Marduk must cooperate to save Pandarve from an approaching collision with a massive \"spaceship\" made of various \"cocoons\"\u2014including ones resembling Heaven and Hell from Dante's Divine Comedy. The series is known for its references to mathematical theorems (Goldbach's Conjecture, Fermat's Last Theorem), classic literature (Alice in Wonderland), and cultural touchstones.\n\nAfter Don Lawrence's death in 2004, new teams continued the series. Martin Lodewijk remained as writer, with artists including Romano Molenaar, Jorge de Vos, and later Apri Kusbiantoro taking over the artistic duties. A spin-off series called Chronicles of Meanwhile was also produced, and Ember received her own solo series in 2014.",
+      "core": "**Time Displacement and Identity:** Storm's fundamental premise explores what happens when a person is ripped from their time and forced to exist in unfamiliar eras. His status as a temporal anomaly\u2014a man who has traveled through time\u2014gives him unique abilities but also makes him a target. The series examines how identity is shaped by time and context, and what it means to be untethered from one's own era.\n\n**The Multiverse and Reality:** The Pandarve Chronicles introduce philosophical questions about the nature of reality itself. Pandarve is a living planet where normal physical laws don't apply, raising questions about consciousness, reality, and existence. The multiverse concept suggests infinite possibilities and the relativity of existence.\n\n**Visual Storytelling:** Don Lawrence's fully painted art was revolutionary for comics in the 1970s. His work on Storm is notable for its cinematic scope, dramatic compositions, and vivid depiction of alien worlds. The series represents a high point in European comic art, bridging the gap between American superhero comics and the more artistic European bande dessin\u00e9e tradition.\n\n**Collaboration and Legacy:** The series demonstrates how creative work can transcend individual creators. After Lawrence's death, multiple artists and writers have contributed to the universe, showing how the creative process evolves over time while maintaining core themes and characters.\n\n**Science-Fantasy Hybrid:** Unlike pure hard science fiction, Storm embraces fantasy elements\u2014living planets, supernatural abilities, and reality-defying phenomena. This blend creates a unique aesthetic that appeals to fans of both genres.",
+      "created_at": "2026-03-18 22:19:46"
+    },
+    {
       "title": "Strange Days",
       "year": 1995,
       "medium": "Film",
@@ -14332,5 +14349,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 843
+  "count": 844
 }
