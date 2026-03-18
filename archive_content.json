@@ -9708,6 +9708,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The First Kingdom",
+      "year": 1974,
+      "medium": "Graphic Novel",
+      "creator": "Jack Katz",
+      "raw_score": 3.42,
+      "total_ratings": 161,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Religion, Evolution",
+      "image_filename": "The_First_Kingdom_1974.jpg",
+      "pitch": "The First Kingdom is an ambitious 24-issue sci-fi graphic novel that began as an underground comix series in 1974 and was completed in 1986. Written and illustrated by Jack Katz, it tells an epic post-apocalyptic tale following the aftermath of nuclear armageddon that devastates Earth and wipes out the majority of humanity. The story follows Darkenmoor and other survivors who hunt in small groups across a mutated planet inhabited by both humans and strange creatures. As civilizations rise and fall across millennia, the survivors uncover the secrets of their past while battling \"resurgent gods\" who experiment with combining human flesh and robot technology. The narrative spans generations, exploring humanity's search for its origins and destination in a world reborn from catastrophe.",
+      "truth": "The First Kingdom unfolds across six volumes, each representing a different era in the post-catastrophic world. After nuclear war devastates Earth, the small number of survivors become prey to mutated creatures and their own desperation. The story primarily follows Darkenmoor, who leads his tribe to find a safe settlement with food and shelter. However, the narrative quickly expands to encompass multiple generations and storylines as the survivors eventually become the \"gods\" referenced in the series\u2014beings who rise to power through their knowledge of technology and the old world.\n\nThe gods themselves become corrupted by power, eventually experimenting with combining human flesh with robot technology, creating new hybrid beings that twist the course of humanity's rebirth. Throughout the epic, characters search for the secrets of the past\u2014understanding what caused the original apocalypse and seeking to prevent its repetition. The story explores the cyclical nature of civilization, as new societies repeat the mistakes of their predecessors. Volume 5, \"The Space Explorers Club,\" takes the narrative into space as humanity's descendants begin exploring the stars again, while Volume 6 concludes the saga with the ultimate revelation about humanity's origins and destiny.",
+      "core": "The First Kingdom stands as a pioneering work in the graphic novel medium, emerging from the underground comix movement and helping establish the graphic novel as a serious literary form. Katz's ambitious 12-year creation predates the graphic novel boom of the 1980s and 1990s, making it a forgotten classic of the form. The work combines classic mythology, biblical creation narratives, and science fiction into what reviewers describe as \"epic space opera\" and \"barnstorming sci-fi pulp.\" Its post-apocalyptic themes align it with classics like Planet of the Apes and the broader dystopian tradition, while its exploration of humanity's relationship with technology anticipates themes that would become central to cyberpunk.\n\nThe series examines cyclical history\u2014how civilizations rise and fall, how power corrupts, and how humanity repeatedly destroys itself only to rebuild from the ashes. The \"gods\" represent both the hope and danger of technological advancement, beings who possess knowledge but use it to dominate rather than uplift their fellow survivors. The recurring motif of combining human and machine foreshadows later transhumanist concerns in science fiction. Despite its age, The First Kingdom remains relevant for its unflinching portrayal of humanity's capacity for both destruction and regeneration, and for its message about the importance of understanding our past to avoid repeating its mistakes.",
+      "created_at": "2026-03-18 11:52:35"
+    },
+    {
       "title": "The First Men",
       "year": 1960,
       "medium": "Short Story",
@@ -13703,5 +13720,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 806
+  "count": 807
 }
