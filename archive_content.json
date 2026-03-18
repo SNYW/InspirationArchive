@@ -8518,6 +8518,23 @@
       "created_at": "2026-03-06 00:39:58"
     },
     {
+      "title": "Tengkorak",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Yusron Fuadi",
+      "raw_score": 3.0,
+      "total_ratings": 154,
+      "origin": "Indonesia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Evolution, Isolation",
+      "image_filename": "Tengkorak_2018.jpg",
+      "pitch": "Tengkorak (literally \"Skull\") is a groundbreaking Indonesian science fiction film created by a university lecturer and his students against all odds. The film tells the story of a massive skull-shaped hill discovered in Yogyakarta after a devastating earthquake in 2006. What begins as a scientific discovery becomes a government conspiracy when authorities classify the findings and begin hunting down anyone who learns the truth. A young university student named Ani stumbles upon confidential information about the fossil, launching her into a dangerous cat-and-mouse game with authorities. Shot on a micro-budget of just $33,000 by students and lecturers at Gadjah Mada University, Tengkorak is a remarkable DIY achievement that proves compelling science fiction doesn't require Hollywood resources.",
+      "truth": "The film opens with the real-life 2006 earthquake in Yogyakarta, which inspired the story. Scientists discover a massive 1,850 meter-high skull fossil embedded in the earth\u2014a discovery that could rewrite human understanding of history. Rather than sharing this findings with the world, the Indonesian government classifies the site and begins a covert operation to control the information.\n\nThe narrative shifts to 2021, where university student Ani accidentally obtains classified documents about the fossil. Her discovery puts her on a collision course with military forces and government operatives determined to keep the truth hidden. She teams with Yos, a protestor and rebel who has his own reasons to oppose the authorities. Together, they navigate a world where the boundaries between scientific discovery and national security blur dangerously.\n\nThe film explores what happens when something is discovered that challenges humanity's understanding of its place in the universe\u2014and how institutions react when confronted with knowledge they cannot control. The giant skull remains enigmatic throughout: is it ancient human ancestor? Alien? Something else entirely? The film deliberately leaves these questions open, focusing instead on the human drama surrounding the discovery.",
+      "core": "**Science Fiction from the Global South:** Tengkorak represents a rare example of Indonesian\u2014and more broadly Southeast Asian\u2014science fiction cinema. Director Yusron Fuadi created the film as \"a form of protest\" against Indonesia's film industry, which focuses predominantly on romance, horror, and comedy. The film demonstrates that developing nations have stories to tell in the sci-fi genre, bringing unique perspectives rooted in specific cultural and geographical contexts.\n\n**DIY Filmmaking and Resourceful Creativity:** The production story is as inspiring as the film itself. Fuadi and his students made everything from scratch, learning CGI and visual effects from YouTube videos. A supposed 100-meter tower was created using blue screen and bamboo scaffolding. The entire cast and crew of 150 people worked for free, embodying the Javanese concepts of guyub and gotong royong (community cooperation). The film proves that constraint breeds creativity.\n\n**Government Secrecy and Information Control:** The film critiques how institutions respond to discoveries that threaten established narratives. The government's decision to classify and suppress the fossil investigation reflects broader themes about who controls knowledge and why. This paranoid approach to information mirrors real-world controversies around archaeological and scientific discoveries.\n\n**Humanity's Place in the Universe:** The mysterious skull forces characters\u2014and viewers\u2014to contemplate humanity's significance. Rather than providing answers, the film asks what would happen if we discovered evidence of something far older or more advanced than human civilization. This existential uncertainty drives the narrative tension.\n\nTengkorak received critical acclaim, nominated for Best Film in the Science Fiction, Fantasy, or Thriller category at the 2018 Cinequest Film Festival in San Jose, California. It stands as a testament to what passionate filmmakers can achieve with minimal resources and maximum determination.",
+      "created_at": "2026-03-18 17:40:27"
+    },
+    {
       "title": "TeraStorm",
       "year": 2022,
       "medium": "Anime",
@@ -14077,5 +14094,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 828
+  "count": 829
 }
