@@ -188,6 +188,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "A Canticle for Leibowitz",
+      "year": 1959,
+      "medium": "Novel",
+      "creator": "Walter M. Miller Jr.",
+      "raw_score": 3.99,
+      "total_ratings": 120523,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Religion, Memory",
+      "image_filename": "A_Canticle_for_Leibowitz_1959.jpg",
+      "pitch": "A Canticle for Leibowitz is a seminal post-apocalyptic science fiction novel that spans over a thousand years of human history after a devastating nuclear war. Set in a Catholic monastery in the Southwestern United States, the novel follows the monks of the Albertian Order of Leibowitz as they preserve the surviving remnants of man's scientific knowledge through successive epochs of human civilization. The novel is a \"fix-up\" of three previously published short stories, each set in a different era, forming a narrative that explores the cyclical nature of human civilization\u2014the rise, fall, and re-rise of technological knowledge.\n\nThe novel is widely considered one of the greatest works in science fiction, winning the 1961 Hugo Award for Best Novel. Its themes of religious faith, the preservation of knowledge, and the cyclic nature of history have generated significant scholarly research. The novel presents a unique blend of science fiction and religious contemplation, examining how humanity's relationship with technology and faith evolves across millennia.",
+      "truth": "The novel is divided into three parts, each set in a different historical era after the \"Flame Deluge\" (nuclear war):\n\n**Part I: Fiat Homo** takes place around 600 years after the war, when the survivors have regressed to a pre-industrial society. A lay brother named Francis Gerard discovers a shelf of old documents in the desert, including a schematic drawing of an electric chair. Believing these artifacts to be sacred, the monks of the Albertian Order begin collecting and preserving scientific knowledge, eventually establishing the Leibowitz Memorial Library. The first part follows Francis's discovery and the establishment of the order dedicated to preserving knowledge.\n\n**Part II: Fiat Lux** occurs about 900 years after the war, during a period of Renaissance-like rebirth. A young scholar named Brother Joshua is sent to the Leibowitz monastery to study. He rediscovers the principle of electricity and begins working on a project to recreate the lights\u2014a project that attracts the attention of both the Church and emerging nation-states who see the potential for power. The second part explores the tension between religious faith and scientific progress.\n\n**Part III: Fiat Voluntas Tua** is set around the year 3781, in a future where technology has once again advanced to near-modern levels. The world is again teetering on the brink of nuclear war, and the monks face a choice: preserve their faith and let humanity repeat its mistakes, or intervene to prevent another catastrophe. This final section brings the cyclical theme to its conclusion, suggesting that humanity may be doomed to repeat its errors.",
+      "core": "**Cyclical History:** The novel's central theme is the cyclical nature of civilization\u2014the idea that humanity is doomed to repeat its mistakes. Each part ends with humanity on the verge of destroying itself again, suggesting that technological progress without moral progress leads inevitably to catastrophe. The monks' work of preserving knowledge becomes both a gift and a curse, as that knowledge ultimately enables humanity's self-destruction.\n\n**Faith and Science:** The novel explores the tension between religious faith and scientific knowledge. The monks preserve scientific documents while interpreting them through a religious lens, creating a unique synthesis. The novel asks whether knowledge itself is neutral, or whether it carries inherent moral weight. The character of Dom Paulo represents the possibility of integrating faith and reason, while other characters represent more extreme positions.\n\n**The Value of Preservation:** The Albertian Order's mission to preserve knowledge reflects Miller's belief in the importance of memory and learning. Even though the monks don't always understand what they preserve, their dedication ensures that humanity's achievements are not lost entirely. The novel suggests that preservation itself is a form of hope\u2014a commitment to the future even when the present seems hopeless.\n\n**Post-Apocalyptic Literature:** A Canticle for Leibowitz helped establish many conventions of post-apocalyptic science fiction, including the focus on how society rebuilds after catastrophe, the role of religion in providing meaning, and the tension between preserving and using dangerous knowledge. Its influence can be seen in countless subsequent works in the genre.\n\nThe novel remains relevant because it speaks to contemporary concerns about nuclear weapons, technological progress, and the role of memory in shaping human destiny. Its elegant prose, complex themes, and memorable characters have ensured its place as a science fiction classic that rewards repeated reading.",
+      "created_at": "2026-03-18 21:55:06"
+    },
+    {
       "title": "A Chinese Ghost Story",
       "year": 1987,
       "medium": "Film",
@@ -14315,5 +14332,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 842
+  "count": 843
 }
