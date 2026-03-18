@@ -5135,6 +5135,23 @@
       "created_at": "2026-03-06 07:29:33"
     },
     {
+      "title": "Manhunter: New York",
+      "year": 1988,
+      "medium": "Video Game",
+      "creator": "Dave Murry, Barry Murry (Sierra On-Line)",
+      "raw_score": 3.6,
+      "total_ratings": 24,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Cyberpunk ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "Manhunter_New_York_1988.jpg",
+      "pitch": "Set in 2004, Manhunter: New York drops players into a devastated New York City two years after an alien invasion by the mysterious Orb Alliance. These floating eyeball-like beings have conquered Earth, forcing surviving humans to wear brown monk robes, prohibiting speech under penalty of death, and implanting tracking chips in everyone. You play as a newly recruited Manhunter\u2014a human collaborator tasked with using the Orbs' own surveillance technology to track down \"criminals\" and \"insurgents.\" But as you investigate a series of murders, you discover a darker truth: the Orbs are using humans as a food source, harvesting bodies to feed their young. The game spans four days as you gradually realize your targets are actually members of an underground resistance, and ultimately choose to switch sides and fight back.",
+      "truth": "The player begins as an obedient Manhunter investigating crimes assigned by the Orbs. Each day presents a new case, but the cases gradually connect to reveal an anti-Orb resistance. Day one involves investigating an explosion at Bellevue Hospital and tracking suspects through locations like Trinity Church, a bar in Brooklyn, and eventually into the sewers beneath Prospect Park. Day two centers on a stolen maintenance robot from Grand Central Station\u2014home to an Orb fleet\u2014revealing the resistance's plan to steal a spaceship. Day three involves investigating a dead Orb at Greenwood Cemetery, which leads to uncovering the Orbs' central computer in the Empire State Building and their terrible secrets: Bellevue Hospital is a food processing center, the Statue of Liberty hides air purification systems that keep humans docile, and the Orbs are systematically harvesting humanity.\n\nOn day four, the player discovers they've been assigned to investigate their own tampering with the Orb computer system. Realizing \"transfer to Chicago\" means death, the player must obtain the fourth and final computer module needed to power an Orb ship, then pilot it to bomb the Orbs' four main strongholds\u2014including the building the player is standing in. The game ends with the player destroying the Orbs' infrastructure but leaving the main antagonist, Phil, still at large. A sequel, Manhunter 2: San Francisco, continues the story.\n\nThe gameplay uses a unique point-and-click interface for the time (no text parser), first-person perspective, and features real New York locations. The tone is grimly atmospheric, with a permanent red sky from the Orbs' air pollution, graphic death sequences, and minimal dialogue reflecting the game's prohibition on speech.",
+      "core": "**Pioneering Interface Design:** Manhunter: New York was groundbreaking in its abandonment of Sierra's traditional text parser in favor of a point-and-click interface, making it one of the first adventure games to use this paradigm\u2014years before it became standard in games like Myst. The interface choice is thematically resonant: since the Orbs forbid human speech, there's no dialogue, and all narrative unfolds through visual exploration.\n\n**Dystopian Worldbuilding:** The game creates a convincingly bleak near-future New York. The Orbs' rule feels chillingly bureaucratic\u2014humans are controlled through paperwork, tracking chips, and the threat of being \"transferred to Chicago\" (euphemism for execution). The world feels lived-in, with recognizable landmarks in various states of decay. The red sky and color palette effectively convey an alien atmosphere.\n\n**Detective Mechanics:** Unlike typical adventure games with lock-and-key puzzles, Manhunter emphasizes actual detective work. Players use the \"MAD\" computer to track suspect movements, analyze crime scenes, and piece together clues\u2014rewarding logical thinking over inventory management. The mazes and arcade sequences are frustrating, but the investigative core is innovative.\n\n**Unfortunate Design Choices:** The game is hindered by excessive mazes, poorly implemented action sequences, and a control scheme that feels sluggish. However, the world-building and narrative ambition make it noteworthy. Critics note its influence on later atmospheric games like Half-Life, and its place as a fascinating failed experiment in interactive fiction.\n\nManhunter: New York remains significant as a bold attempt to push adventure games toward cinematic storytelling and environmental narrative\u2014ideas that would mature in the genre over the following decade.",
+      "created_at": "2026-03-18 09:38:00"
+    },
+    {
       "title": "Marooned!",
       "year": 1985,
       "medium": "Video Game",
@@ -13550,5 +13567,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 797
+  "count": 798
 }
