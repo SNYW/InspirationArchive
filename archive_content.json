@@ -6087,6 +6087,23 @@
       "created_at": "2026-03-06 14:41:16"
     },
     {
+      "title": "Planet Earth",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Gene Roddenberry (Creator), Marc Daniels (Director)",
+      "raw_score": 2.9,
+      "total_ratings": 1100,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Isolation, Rebellion",
+      "image_filename": "Planet_Earth_1974.jpg",
+      "pitch": "Planet Earth is a 1974 American made-for-television science fiction film created by Gene Roddenberry, best known as the creator of Star Trek. Produced by Warner Bros. Television and airing on ABC on April 23, 1974, this 74-minute pilot film was intended as the first episode of a proposed weekly television series. The project marked Roddenberry's second attempt to develop a post-apocalyptic series concept, following Genesis II (1973), and featured John Saxon in the lead role of Dylan Hunt.\n\nSet in the year 2133, the film depicts a world devastated by nuclear war centuries earlier. The story follows PAX (Latin for \"peace\"), a science-based organization dedicated to restoring civilization, as they dispatch Team 21 to survey central California. When their team member is severely wounded, they must locate a missing surgeon in a dangerous matriarchal society where men are enslaved. The pilot explores themes of gender relations through a 1970s lens, depicting a post-apocalyptic future where different factions struggle for control and survival.",
+      "truth": "In the year 2133, Earth has been devastated by nuclear war. The story centers on PAX, an organization of scientists and explorers dedicated to rebuilding civilization and maintaining peace. PAX operates from underground settlements connected by a hyperloop-like subshuttle system built before the final conflict of the 20th century.\n\nPAX Team 21, led by Dylan Hunt (John Saxon), undertakes a survey mission in central California. During their return journey, the team is attacked by the Kreeg, a group of militaristic mutants. One team member, Pater Kimbridge, is severely wounded and requires urgent surgery with a bioplastic prosthesis to repair damage from a Kreeg rifle shot.\n\nWith their colleague's life hanging in the balance, the team must locate Dr. Jonathan Connor, the only surgeon capable of performing the delicate operation. Their search leads them to the Confederacy of Ruth, a matriarchal society where women hold all power and men are enslaved as \"Dinks\"\u2014subjugated through a drug added to their food that suppresses their will and independence.\n\nTo infiltrate the society, team member Harper-Smythe poses as a slave-owner and enters the territory with Hunt as her \"property.\" There they meet Marg (Diana Muldaur), the leader of the women, while Harper-Smythe searches for the missing doctor. Hunt himself falls victim to the mind-control drug but is later freed when the antidote is distributed. The team eventually rescues Dr. Connor and escapes, but not before witnessing the beginning of a revolution among the enslaved men.",
+      "core": "Planet Earth represents an important artifact in Gene Roddenberry's development of post-apocalyptic television concepts. The film was part of a trilogy of unsold pilots (including Genesis II, 1973, and Strange New World, 1975) that explored similar themes and characters, ultimately evolving into the television series Andromeda (2000-2005). The character of Dylan Hunt directly influenced the protagonist of Andromeda, sharing the same name and similar circumstances of being frozen in time and awakening in a chaotic future.\n\nThe pilot reflects 1970s anxieties about nuclear war and its aftermath, depicting a world where civilization has been destroyed and various groups compete to rebuild or dominate. The PAX organization represents an idealistic, pacifist approach to reconstruction, while the Kreeg embody militaristic authoritarianism, and the Confederacy of Ruth shows a matriarchal alternative society that has developed its own form of oppression.\n\nThe film's treatment of gender relations is notably a product of its era, with explicit references to \"women's lib\" and explorations of gender roles that were contemporary to the early 1970s. The matriarchal society depicted is portrayed as both a response to post-apocalyptic conditions and as a form of tyranny in its own right.\n\nCritically, Planet Earth is considered a lesser work in Roddenberry's catalog, suffering from the network interference and content changes that led Roddenberry to remove his name from the project. Despite this, it remains a fascinating historical document showing the evolution of science fiction television concepts and the development of themes that would later appear in more successful franchise properties.",
+      "created_at": "2026-03-18 01:23:01"
+    },
+    {
       "title": "Planet of the Apes",
       "year": 1968,
       "medium": "Film",
@@ -13074,5 +13091,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 769
+  "count": 770
 }
