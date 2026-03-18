@@ -1956,6 +1956,23 @@
       "created_at": "2026-03-06 11:10:32"
     },
     {
+      "title": "Chehre Pe Chehra",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Raj Tilak (Director)",
+      "raw_score": 3.15,
+      "total_ratings": 98,
+      "origin": "India ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Science-Fantasy, Horror ,",
+      "topics": "Transhumanism, Duality",
+      "image_filename": "Chehre_Pe_Chehra_1981.jpg",
+      "pitch": "Chehre Pe Chehra (transl. \"A Face Over a Face\") is a 1981 Indian Hindi-language science fiction film that adapts Robert Louis Stevenson's classic novella Strange Case of Dr Jekyll and Mr Hyde into a contemporary Indian context. Produced and directed by Raj Tilak, the film stars the legendary Sanjeev Kumar in a dual role, supported by Vinod Mehra, Shatrughan Sinha, Rekha, and Sulakshana Pandit. The film explores the scientific premise of separating good and evil within human nature through a experimental serum, with dark consequences when the theory proves incomplete.",
+      "truth": "Dr. Wilson is a brilliant scientist who believes that every human contains both angelic (good) and devilish (evil) elements within their psyche. Obsessed with his theory, he develops a potion that he believes can segregate these two elements, eliminating the undesirable evil aspect while preserving only the virtuous side of human nature.\n\nConfident in his creation, Wilson decides to test the serum on himself. However, the experiment goes horribly wrong. Instead of simply removing his evil nature, the potion actually separates it into a distinct, powerful physical manifestation\u2014Blackstone. Unlike Wilson's benevolent intentions, his evil counterpart is ruthless, cunning, and far more powerful than Wilson ever anticipated. The evil persona quickly becomes uncontrollable, turning against its creator and threatening everyone around him.\n\nAs the evil twin runs amok, Wilson must confront the monster he has created while struggling to find a way to undo his catastrophic experiment. The film explores the duality of human nature, the dangers of unchecked scientific ambition, and the consequences of playing God with the human psyche.",
+      "core": "**The Duality of Human Nature:** Like Stevenson's original novella, the film explores the philosophical concept that good and evil exist within every individual. Wilson's scientific approach to separating these elements reflects a desire to create a perfect humanity, but the film suggests that this dichotomy is fundamental to human identity\u2014removing evil does not create perfection but instead unleashes unchecked malevolence.\n\n**Scientific Hubris:** The film serves as a cautionary tale about the dangers of scientific overreach. Wilson's belief that he can improve upon human nature through chemistry represents a classic science fiction theme: the scientist who crosses moral boundaries in pursuit of knowledge. The catastrophic result warns against playing God with the human condition.\n\n**Bollywood Meets Science Fiction:** Chehre Pe Chehra represents an interesting intersection of classic Western literature with Indian cinema. By adapting Jekyll and Hyde to Hindi cinema, the film brought sophisticated themes of psychological duality and scientific morality to Indian audiences. The presence of major stars like Sanjeev Kumar, Rekha, and Shatrughan Sinha elevated the genre material to mainstream attention.\n\n**The Monster Within:** The film explores the concept that evil is not an external force to be eliminated but an integral part of human psychology. Wilson's failure to control Blackstone reflects broader anxieties about repression and the uncontrollable nature of suppressed desires.\n\nDespite its failure at the box office, Chehre Pe Chehra remains an interesting artifact of early Indian science fiction cinema, demonstrating that the country's film industry was engaging with international literary themes and scientific speculation even in the 1980s.",
+      "created_at": "2026-03-18 08:20:52"
+    },
+    {
       "title": "Chile puede",
       "year": 2008,
       "medium": "Film",
@@ -13482,5 +13499,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 793
+  "count": 794
 }
