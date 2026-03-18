@@ -8093,6 +8093,23 @@
       "created_at": "2026-03-06 00:39:58"
     },
     {
+      "title": "TeraStorm",
+      "year": 2022,
+      "medium": "Anime",
+      "creator": "Andrew Kaggia",
+      "raw_score": 3.5,
+      "total_ratings": 33,
+      "origin": "Kenya ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "TeraStorm_2022.jpg",
+      "pitch": "TeraStorm is a 2022 Kenyan computer-animated science fiction film that marks a historic milestone as the first African animated feature to be submitted for consideration at the Academy Awards. Set in a fictional Nairobi, the film follows a group of African superheroes who join forces to defeat an ancient wizard threatening to destroy Earth with a mysterious artifact. The film was entirely animated using Unreal Engine by self-taught Kenyan animator Andrew Kaggia and his production company Afrikana Digital.",
+      "truth": "The film centers on a team of superheroes in a futuristic Nairobi who must unite to face a powerful antagonist\u2014an ancient wizard who possesses a dangerous artifact capable of destroying the world. The heroes include Victor, Eli-Ra, Ammadu, Adrian, Nuru, and General Maxwell, each bringing unique abilities to the fight.\n\nAs an Afrofuturist work, TeraStorm centers African characters, culture, and context in a science fiction narrative\u2014a significant departure from the typical Hollywood-centric superhero genre. The film represents Kenya's first serious entry into the global animated science fiction market, demonstrating the growing capacity for African creators to produce high-quality genre entertainment with local perspectives.\n\nThe film was selected as Kenya's official submission for Best International Feature Film at the 95th Academy Awards, making history as the first African animated film to receive this recognition.",
+      "core": "TeraStorm represents a breakthrough in African science fiction cinema, particularly in the animation space. The film's submission to the Oscars challenged assumptions about what kinds of stories can emerge from the African continent and highlighted the emerging talent in Kenya's animation industry.\n\nAs an Afrofuturist work, TeraStorm joins a growing canon of African speculative fiction that imagines futures centered on Black experiences and African contexts\u2014contributing to a global conversation about representation in genre storytelling.\n\nThe use of Unreal Engine for animation demonstrates how contemporary digital tools can enable creators in emerging markets to produce competitive content without requiring the infrastructure of traditional animation studios.",
+      "created_at": "2026-03-18 07:35:37"
+    },
+    {
       "title": "Terror Is a Man",
       "year": 1959,
       "medium": "Film",
@@ -13448,5 +13465,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 791
+  "count": 792
 }
