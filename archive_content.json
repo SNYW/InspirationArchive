@@ -3129,6 +3129,23 @@
       "created_at": "2026-03-02 13:48:33"
     },
     {
+      "title": "Filibus",
+      "year": 1915,
+      "medium": "Film",
+      "creator": "Mario Roncoroni (Director)",
+      "raw_score": 3.25,
+      "total_ratings": 509,
+      "origin": "Italy ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration, Isolation",
+      "image_filename": "Filibus_1915.jpg",
+      "pitch": "Filibus is a groundbreaking 1915 Italian silent adventure film featuring one of cinema's most remarkable protagonists: a mysterious female sky pirate who commands a technologically advanced airship and pulls off daring heists while assuming multiple identities. When a renowned detective sets out to capture her, she engages him in an elaborate game of cat and mouse, switching between male and female personas, romancing his sister, and orchestrating midnight diamond thefts\u2014all while remaining several steps ahead of law enforcement.\n\nWhat makes Filibus remarkable is its pioneering portrayal of gender fluidity and lesbian attraction, decades before such themes would appear openly in cinema. The Baroness Troixmonde transforms into the daring Filibus, using her airship and technological superiority to outwit the detective at every turn. The film's innovative narrative structure and visual storytelling influenced the adventure genre, while its survival as a complete nitrate print at the Eye Filmmuseum in Amsterdam ensures its legacy endures.",
+      "truth": "The story follows Baroness Troixmonde, who secretly leads a double life as the notorious sky pirate Filibus. When a bank robbery occurs and a reward is offered for Filibus's capture, renowned Detective Kutt-Hendy takes up the challenge. Unbeknownst to him, the Baroness has already infiltrated his circle\u2014she visits the notary handling the reward and encounters Kutt-Hendy directly, immediately devising a plan to confuse him.\n\nUsing a heliograph to summon her airship, Filibus escapes to her airborne headquarters and adopts various disguises. She infiltrates Kutt-Hendy's home, drugs him with narcotics, and creates a glove with a print of his hand\u2014allowing her to plant false evidence. Posing as the noble Count de la Brive, she stages a dramatic kidnapping of Leonora (Kutt-Hendy's sister), leaving the detective's fingerprints at the crime scene.\n\nAt a party at Leo Sandy's villa, Filibus announces she'll steal an Egyptian statue with diamond eyes. Despite Kutt-Hendy's precautions and hidden cameras, she evades detection and makes off with the real diamonds, framing Kutt-Hendy. After multiple encounters where she continues to outsmart the detective, Kutt-Hendy finally captures Filibus\u2014but she escapes through a window, signaling her airship and vanishing into the clouds. The film ends with a letter falling from the sky, announcing that Filibus will return.",
+      "core": "**Pioneering Gender and Sexual Identity:** Filibus stands as a landmark in early cinema for its portrayal of a gender-fluid protagonist who seamlessly transitions between masculine and feminine identities. The Baroness's ability to romantically pursue both the detective's sister (as the Count) while being a woman herself represents remarkably progressive themes for 1915. Film historians have noted the pioneering lesbian subtext and the radical implications of a female criminal who uses gender performance as a tool of deception and power.\n\n**Technology and Transgression:** The airship represents cutting-edge transportation technology of the era, transformed here into a vehicle for criminal enterprise. Filibus's technological superiority\u2014her masked crew, her narcotic devices, her ability to appear and vanish at will\u2014position her as a figure who uses innovation against a law enforcement apparatus that cannot comprehend her methods. This theme of technology enabling individual agency against established authority resonates throughout science fiction.\n\n**Class and Crime:** The film subverts expectations by making its hero a criminal and its antagonist a representative of law enforcement. The Baroness operates above society, literally in the clouds, while the detectives remain earthbound and confused. This inversion suggests a critique of class structures\u2014wealth enables the sophisticated crimes, while those pursuing justice remain outmatched.\n\n**Cinema as Early Science Fiction:** Filibus represents an important early example of science fiction in film, predating many works typically cited as genre pioneers. Its airship, heliograph, and technological cat-and-mouse anticipate themes that would become central to the genre. The film's survival and contemporary screenings demonstrate its lasting importance to film history and the development of speculative fiction in visual media.",
+      "created_at": "2026-03-18 04:05:04"
+    },
+    {
       "title": "Fire Tripper",
       "year": 1985,
       "medium": "OVA",
@@ -13261,5 +13278,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 780
+  "count": 781
 }
