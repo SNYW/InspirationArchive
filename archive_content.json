@@ -12870,6 +12870,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Through the Thorns to the Stars",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Richard Viktorov (Director), Kir Bulychov (Writer)",
+      "raw_score": 3.0,
+      "total_ratings": 1600,
+      "origin": "Russia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera, Hard-SF ,",
+      "topics": "Aliens, Cloning, Ecology",
+      "image_filename": "Through_the_Thorns_to_the_Stars_1981.jpg",
+      "pitch": "Through the Thorns to the Stars (Russian: \u0427\u0435\u0440\u0435\u0437 \u0442\u0435\u0440\u043d\u0438\u0438 \u043a \u0437\u0432\u0451\u0437\u0434\u0430\u043c) is a 1981 Soviet science fiction film directed by Richard Viktorov and based on an original screenplay by Kir Bulychov, one of the most beloved Soviet science fiction authors. The film, also known internationally as Per Aspera Ad Astra or Humanoid Woman, tells the story of a human starship that discovers a derelict alien vessel containing a single surviving humanoid woman. Brought to Earth to recover her lost memories, she gradually discovers she is a clone created to save her dying planet, and must ultimately choose between remaining on Earth or returning to help restore her war-torn world.",
+      "truth": "In the 23rd century, the Soviet starship Pushkin discovers a derelict alien spaceship of unknown origin. The alien craft's crew are identical humanoids created by an advanced cloning process. Most are dead, but one woman is found in a catatonic state. The leader of the mission, Professor Sergei Lebedev, brings her to Earth and names her Neeya.\n\nNeeya suffers from memory loss and cannot recall anything of her past. As she adapts to life on Earth, she discovers she has telekinetic powers. A friend of Lebedev, Professor Nadezhda Ivanova, studies Neeya's neurophysiology and finds a special neurocenter in her brain that can be triggered remotely. During a beach outing, Ivanova triggers the system, causing Neeya to lose control and revealing fragmented memories of her origin on the planet Dessa.\n\nNeeya joins an archaeological expedition where she has another flashback revealing she is from the planet Dessa\u2014a worldstripped of minerals, leaving air and water poisoned. She returns to discover a diplomatic mission from Dessa has arrived at the spaceport. She stows away on the ship Astra bound for Dessa, with Stepan (Lebedev's son) and Professor Ivanova also aboard.\n\nUpon reaching Dessa, the crew finds a planet in ecological ruin, controlled by the ruthless industrialist Turanchoks, who profits from the crisis. After the humans successfully test a way to clean the air, Turanchoks poisons the only remaining water supply and blames it on them. He then activates a control device in Neeya's brain, forcing her to place a bomb on the Astra. Ivanova sacrifices herself to break the control, and Neeya uses her powers to defeat Turanchoks's forces. Neeya chooses to remain on Dessa to help rebuild the planet while the crew returns to Earth.",
+      "core": "The film explores themes of cloning and artificial life, questioning the nature of identity and whether a clone possesses genuine memories and personhood. The ecological message warns against industrial exploitation and environmental destruction\u2014Dessa serves as a cautionary tale of a world consumed by pollution and greed.\n\nThe title \"Per Aspera Ad Astra\" (Latin for \"Through hardships to the stars\") symbolizes the arduous journey toward cosmic and personal enlightenment. The film reflects Soviet optimism about scientific progress and international cooperation, depicting Earth's crew working together to help an alien world.\n\nThe film was notably based on an original screenplay co-written by Kir Bulychov, who was awarded the USSR State Prize in 1982 for this work. It remains a cult classic, particularly known for its memorable score by Alexey Rybnikov and the iconic performance of Yelena Metyolkina as Neeya. The film exists in multiple versions, including a 123-minute restored edition released in 2001.",
+      "created_at": "2026-03-18 15:38:16"
+    },
+    {
       "title": "Thunderbirds Are Go",
       "year": 1966,
       "medium": "Film",
@@ -13958,5 +13975,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 821
+  "count": 822
 }
