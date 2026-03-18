@@ -3282,6 +3282,23 @@
       "created_at": "2026-03-03 08:04:06"
     },
     {
+      "title": "Freezing Down",
+      "year": 1969,
+      "medium": "Novel",
+      "creator": "Anders Bodelsen",
+      "raw_score": 3.73,
+      "total_ratings": 51,
+      "origin": "Denmark ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Transhumanism, Isolation",
+      "image_filename": "Freezing_Down_1969.jpg",
+      "pitch": "A chilling Danish dystopian novel about cryogenic freezing and the price of immortality. When magazine editor Bruno is diagnosed with terminal cancer in 1973, he opts to be frozen and awakened when a cure is found. He wakes in 1995\u2014and again in 2022\u2014to find a society transformed beyond recognition, one where the pursuit of eternal life has hollowed out human connection and meaning. First published in Danish in 1969 and translated to English in 1971, this is a forgotten classic of Scandinavian science fiction that predates similar themes explored by later works like Flowers for Algernon.",
+      "truth": "In 1973, Bruno, a fiction editor who spends his days pitching story ideas to writers but never writes himself, discovers a lump on his neck. Terminal cancer. His doctor offers an experimental option: \"freezing down\"\u2014being cryogenically preserved until a cure exists, then awakened. Bruno, isolated with no close family or friends, agrees to the procedure.\n\nHe awakens in 1995 to a world where the medical establishment now controls society. People can be frozen and thawed repeatedly; organs can be bought, sold, and transplanted; the pursuit of immortality has become the only social priority. Bruno's cancer is cured, but he finds himself trapped in a hospital system that owns his body. He discovers his kidneys were \"borrowed\" during a shortage and replaced with synthetic versions\u2014then replaced again when a surplus existed. He tracks down Jenny, the ballerina he met just before being frozen, who was also frozen after a career-ending injury. Desperate to see her again when she awakens, Bruno chooses to be frozen again.\n\nHe awakens in 2022 to find the world even more transformed. The hospital has no windows. The language has shifted. Communication is fragmented. Jenny, now thawed with a new spine, cannot dance\u2014she keeps falling. Bruno's body deteriorates as the hospital's systems fail. He realizes he will never escape the medical machine that claimed him. The novel ends with Bruno trapped in loops of memory, his identity dissolved, frozen in more ways than one.",
+      "core": "**The Horror of Immortality:** Bodelsen presents eternal life not as liberation but as imprisonment. The \"freezing down\" process removes agency\u2014patients are owned by the system, their bodies commodified, their lives measured in terms of what the medical establishment can extract and preserve.\n\n**Time and Identity:** Each time Bruno awakens, the world has changed so completely that he becomes a stranger to it. His identity\u2014the things that grounded him (his job, his music, magazines, literature)\u2014no longer exist. The novel asks: what remains of self when everything that anchored you has vanished?\n\n**Social Critique:** The near-future societies Bodelsen depicts are driven by a singular obsession: defeating death. This focus has displaced all other human values. There's no art, no culture, no meaningful work\u2014only the maintenance of biological existence. The novel anticipates contemporary concerns about tech billionaires pursuing life extension and the medicalization of death.\n\n**The Window Motif:** Recurring images of Bruno trying to see through ice\u2014whether the frost on a window in his childhood memory or the covered windows of the hospital\u2014create a persistent sense of visual and existential obstruction. He can never quite see the world clearly, can never fully participate in it.\n\nDespite some dated gender politics in its portrayal of female characters, Freezing Down remains a compelling, Kafkaesque vision of a future where the pursuit of immortality has consumed what makes life worth living.",
+      "created_at": "2026-03-18 03:20:50"
+    },
+    {
       "title": "From Beyond",
       "year": 1960,
       "medium": "Novella",
@@ -13210,5 +13227,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 777
+  "count": 778
 }
