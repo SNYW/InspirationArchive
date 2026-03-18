@@ -715,6 +715,23 @@
       "created_at": "2026-03-18 18:35:21"
     },
     {
+      "title": "Alien Crush",
+      "year": 1988,
+      "medium": "Video Game",
+      "creator": "Compile",
+      "raw_score": 3.78,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens",
+      "image_filename": "Alien Crush_1988.jpg",
+      "pitch": "Alien Crush is a 1988 pinball video game developed by Compile for the TurboGrafx-16 console. Set in a dark sci-fi universe inspired by the Alien films, players control a pinball through two vertically connected playfields, fighting against alien creatures to achieve high scores. The game is the first installment in the Crush Pinball series and is notable for its unusual graphical design reminiscent of H.R. Giger's artwork, atmospheric soundtrack, and innovative dual-screen gameplay. Originally released in Japan in 1988 and North America in 1989, Alien Crush was later re-released on Nintendo's Virtual Console for Wii, 3DS, and Wii U, as well as PlayStation Network. The game received the \"Gold Hall of Fame\" award from Famitsu and is considered a cult classic in the pinball genre.",
+      "truth": "Alien Crush casts the player as a pinball wizard trapped in a sci-fi environment populated by hostile alien creatures. The game features two main playfields arranged vertically - when the ball reaches the top of one screen, it automatically transitions to the bottom of the other. Players must navigate flippers, bumpers, and various alien obstacles to keep the ball in play while destroying alien waves for bonus points.\n\nThe gameplay involves fighting aliens across multiple themed areas, with hidden bonus rooms that activate when the ball enters specific zones. These bonus rooms task the player with destroying all aliens or completing waves for extra points. The game's physics were praised for their realism, and the dual-screen design was innovative for its time, though some critics noted the transition between screens could be jarring.\n\nThe alien theme draws heavily from the 1979 film Alien, with visuals featuring dark, atmospheric environments and creature designs that evoke H.R. Giger's distinctive art style. The soundtrack adds to the tense atmosphere with moody electronic tracks.\n\nThe game was followed by three sequels: Devil's Crush (1990), Jaki Crush (1992), and Alien Crush Returns (2008). Devil's Crush ported to Sega Genesis as Dragon's Fury and is also considered a classic of the genre.",
+      "core": "Alien Crush represents an interesting convergence of the pinball revival movement of the late 1980s with emerging console gaming capabilities. The TurboGrafx-16's hardware allowed for more complex visual presentations than earlier console efforts, and Compile leveraged this to create a distinctly atmospheric experience that stood out from other pinball games of the era.\n\nThe game's sci-fi horror theming placed it within a lineage of games that took inspiration from Alien, alongside titles like Berzerk and Alien Syndrome. Its dual-screen design was technically ambitious for the period and influenced later pinball games on other platforms.\n\nRetroactive analysis often cites Alien Crush as one of the best pinball games on the TurboGrafx-16, with particular praise for its balance between accessibility for casual players and depth for experienced pinball enthusiasts. The game's lasting influence can be seen in the spiritual successor Demon's Tilt (2019), which draws from the Crush Pinball series' formula.",
+      "created_at": "2026-03-18 19:19:21"
+    },
+    {
       "title": "Alien Death Fuck",
       "year": 2018,
       "medium": "Film",
@@ -14145,5 +14162,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 832
+  "count": 833
 }
