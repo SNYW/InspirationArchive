@@ -579,6 +579,23 @@
       "created_at": "2026-03-01 13:24:10"
     },
     {
+      "title": "Akalabeth: World of Doom",
+      "year": 1980,
+      "medium": "Video Game",
+      "creator": "Richard Garriott",
+      "raw_score": 2.8,
+      "total_ratings": 56,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "Akalabeth: World of Doom is a pioneering role-playing video game created in 1979 and commercially released in 1980 for the Apple II by Richard Garriott (later known as \"Lord British\"). Widely recognized as one of the earliest examples of a role-playing video game, Akalabeth served as the precursor to Garriott's immensely influential Ultima series. The game attempts to bring pen-and-paper Dungeons & Dragons gameplay to the computer platform, featuring first-person dungeon exploration, resource management, and quest-based progression. Players receive quests from Lord British to defeat increasingly difficult monsters, with gameplay taking place in both an above-ground world map and underground dungeons rendered in pioneering wire-frame 3D graphics.",
+      "truth": "The game begins with the player entering the realm of Akalabeth, answering Lord British's call for brave adventurers. The player chooses a class (fighter or mage) and is assigned attributes including strength, agility, wisdom, and stamina. Lord British sends the player to kill ten progressively difficult monsters, including rats, skeletons, wolves, bandits, orcs, trolls, demons, lycanthropes, demons, and finally a balrog.\n\nThe majority of gameplay occurs in underground dungeons rendered in first-person perspective using wire-frame graphics\u2014a revolutionary technique for the time. Players must manage food consumption (\u6d88\u8017 on each step) while purchasing weapons, shields, and magic amulets from the Adventure Shop. The magic amulet provides various abilities including the ability to ascend/descend dungeon levels, shoot missiles, or cast transformation spells.\n\nThe game uses a procedural generation system based on a \"lucky number\" provided by the player at the start, creating unique dungeons and character stats each playthrough. Without save game functionality in the original version, permadeath was permanent\u2014adding significant stakes to each dungeon descent.\n\nUpon defeating the final monster (the balrog), Lord British declares the player worthy of knighthood, and the game ends. However, players could continue exploring if they wished.",
+      "core": "Akalabeth represents a foundational moment in gaming history as one of the first computer role-playing games, establishing many conventions that would define the genre. Richard Garriott, then a high school student, created the game using Applesoft BASIC on an Apple II, originally developing it as a hobbyist project over two years.\n\nThe game's innovations were significant: first-person perspective dungeons, resource management mechanics (food, gold, equipment), character statistics that determined capabilities, and quest-based progression. These elements would become staples of the RPG genre. The name \"Akalabeth\" derives from J.R.R. Tolkien's \"Akallab\u00eath,\" reflecting the Tolkien influence on early fantasy gaming.\n\nGarriott's $5 royalty per copy resulted in approximately $150,000 in earnings\u2014a remarkable return for a high school student's project. The success of Akalabeth directly led to the creation of the Ultima series, which would become one of the most influential and longest-running RPG franchises in gaming history.\n\nThe game's limitations (no save system, basic graphics, limited content) reflect its era, but its pioneering approach to bringing tabletop RPG mechanics to computers laid groundwork for everything that followed in computer RPGs.",
+      "created_at": "2026-03-18 06:52:42"
+    },
+    {
       "title": "Akce Bororo",
       "year": 1972,
       "medium": "Film",
@@ -13397,5 +13414,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 788
+  "count": 789
 }
