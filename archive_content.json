@@ -2772,6 +2772,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "El Mercenario",
+      "year": 1980,
+      "medium": "Graphic Novel",
+      "creator": "Vicente Segrelles",
+      "raw_score": 3.89,
+      "total_ratings": 1415,
+      "origin": "Spain ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Exploration",
+      "image_filename": "El_Mercenario_1980.jpg",
+      "pitch": "El Mercenario (The Mercenary) is a Spanish science fantasy comic series created by artist Vicente Segrelles, published beginning in 1980. The series follows a mysterious anonymous mercenary who rides domesticated flying dragons in a hidden valley called The Country of the Clouds. In this secluded region, the human race has developed a culture distinctly different from the rest of the world, coexisting with flying dragons, reptilian giants, monsters, and Amazons. What sets this comic apart is that every panel is painted in oil\u2014a remarkably time-consuming technique that gives the artwork a lush, painterly quality. The series is known for its spectacular landscapes and imaginative world-building, blending fantasy tropes with science fiction elements.",
+      "truth": "The story centers on the Mercenary, an enigmatic warrior from the hidden Country of the Clouds. His world exists in isolation from the rest of civilization, protected by mountains and accessible only through dangerous passes. Within this realm, the remnants of humanity have developed unique technologies and social structures, their \"magic\" actually stemming from advanced technology and alien influences.\n\nThe Mercenary is recruited by Arnoldo de Vinci, a member of the Order of Crater led by the Grand Lama. Arnoldo serves as an inventor who supplies the Mercenary with advanced weapons and devices. The beautiful warrior Nan-Tay is responsible for the protection of the Order of the Crater and becomes the Mercenary's companion on various quests. Their primary antagonist is Claust, a cunning and ambitious alchemist who constantly schemes against the monks of the Order.\n\nThroughout the series, the Mercenary undertakes numerous adventures exploring different regions of his world, encountering various challenges including reptilian giants, monstrous creatures, and Amazon-like warrior women. The stories often include unexpected plot twists and frequently feature beautiful women in the narrative. The underlying reveal is that what appears to be magic is actually advanced technology, and many of the creatures encountered are either alien species or the results of radiation exposure.\n\nThe series was initially serialized beginning in 1980 in the journal Cimoc, before being published as a collection of 13 albums from 1982 to 2003. It has been translated into multiple languages, with at least 11 albums translated into English primarily by NBM Publishing.",
+      "core": "**Science Fantasy as Genre Hybrid:** El Mercenario represents a masterful blend of science fiction and fantasy conventions. Segrelles creates a world that appears medieval and magical on the surface but is ultimately revealed to be scientifically explicable\u2014this \"hidden science\" approach allows the series to have the visual grandeur of fantasy while maintaining internal logical consistency. The dragons are domesticated creatures, the \"magic\" is advanced technology, and the monsters are either alien fauna or products of radiation.\n\n**Visual Artistry:** The most distinctive aspect of El Mercenario is its painted oil artwork. Each panel is executed in oil paint, a remarkably labor-intensive approach for a comic series. This technique gives the work a quality more associated with fine art galleries than comic books, with meticulous attention paid to landscapes, architectural details, and character designs. The visual richness sets the series apart in the comics medium.\n\n**European Comics Tradition:** As a Spanish comic published in the 1980s, El Mercenario exists within the tradition of European \"bande dessin\u00e9e\" that often emphasizes artistic ambition and literary complexity over American superhero comics conventions. The series reflects the European tendency to treat comics as a legitimate art form capable of sophisticated storytelling.\n\n**Adventure and Exploration Themes:** The series celebrates the lone hero journeying through unknown territories\u2014a classic adventure narrative updated with science fiction trappings. The Mercenary's role as both warrior and explorer embodies the quest archetype, while his encounters with different cultures and creatures provide opportunities for world-building and philosophical exploration.\n\nEl Mercenario remains a significant work in the history of European science fiction comics, notable for its artistic dedication and its successful fusion of genre elements into a cohesive vision.",
+      "created_at": "2026-03-18 05:37:38"
+    },
+    {
       "title": "El hotel \u00e9lectrique",
       "year": 1908,
       "medium": "Film",
@@ -13312,5 +13329,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 783
+  "count": 784
 }
