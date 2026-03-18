@@ -7226,6 +7226,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Silt",
+      "year": 2022,
+      "medium": "Video Game",
+      "creator": "Spiral Circus (Developer), Fireshine Games (Publisher)",
+      "raw_score": 3.6,
+      "total_ratings": 11,
+      "origin": "",
+      "mood": "",
+      "sub_genres": "",
+      "topics": "",
+      "image_filename": null,
+      "pitch": "Silt is a surreal underwater puzzle-adventure indie horror game that casts players as a deep-sea diver exploring the darkest depths of an oceanic abyss. Armed with the unique ability to possess the marine life around them, players must navigate through a monochrome world of strange organisms, ancient ruins, and long-forgotten machinery. Developed by the UK-based Spiral Circus as their debut title, Silt draws inspiration from the watercolor paintings of artist Tom Mead, creating a haunting, Lynchian atmosphere that lingers long after the credits roll.",
+      "truth": "The player begins their journey chained in a dark underwater environment with no memory of how they arrived. As they explore the two-dimensional, black-and-white oceanic world, they discover they can possess various marine creatures to utilize their unique abilities. Piranhas can bite through restraints, hammerhead sharks can smash through obstacles, and other creatures offer their own traversal and puzzle-solving capabilities.\n\nThe deeper players descend, the stranger and more unsettling the environment becomes. Ancient machinery rises from the darkness, ruins of unknown civilizations emerge, and massive deep-sea goliaths patrol the abyss. The game unfolds as a series of environmental puzzles, gradually uncovering the mysteries of what happened to cause the diver's imprisonment and what secrets lie at the center of the abyss.\n\nThe game builds toward an encounter with a \"long-dormant force at the centre of the abyss\"\u2014a mysterious entity whose nature remains ambiguous and open to interpretation. The narrative is deliberately sparse, allowing players to construct their own understanding of what they've witnessed.",
+      "core": "**Possession Mechanics:** The core gameplay innovation\u2014possessing different marine creatures to solve puzzles\u2014creates a Metroidvania-like progression system where new abilities unlock access to previously inaccessible areas. Each creature offers a distinct gameplay function, from mobility to combat to environmental interaction.\n\n**Artistic Vision:** Silt's visual style is its most distinctive feature. The monochrome, watercolor-inspired aesthetic evokes the work of artists like Ronald Searle while creating a uniquely oppressive atmosphere. The contrast between the stark black-and-white visuals and the vibrant (if limited) color palette of certain creatures creates memorable imagery.\n\n**Environmental Storytelling:** Rather than explicit narrative, Silt relies on environmental storytelling\u2014strange structures, scattered artifacts, and mysterious encounters all hint at a larger history. This approach rewards players who engage with the game's atmosphere rather than rushing toward completion.\n\n**Horror Through Atmosphere:** While not a traditional horror game, Silt generates dread through isolation, uncertainty, and the overwhelming sense of being a tiny presence in an incomprehensibly vast and ancient environment. The ocean becomes a character itself\u2014ancient, indifferent, and hiding terrible secrets.\n\n**Limbo Comparisons:** Critics frequently compared Silt to Playdead's Limbo\u2014another monochrome, atmospheric puzzle-platformer\u2014but Silt distinguishes itself through its aquatic setting and more dreamlike, less punitive design philosophy.",
+      "created_at": "2026-03-18 05:23:53"
+    },
+    {
       "title": "Sirius",
       "year": 1942,
       "medium": "Film",
@@ -13295,5 +13312,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 782
+  "count": 783
 }
