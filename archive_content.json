@@ -1820,6 +1820,23 @@
       "created_at": "2026-03-04 08:48:39"
     },
     {
+      "title": "Burn Cycle",
+      "year": 1994,
+      "medium": "Video Game",
+      "creator": "TripMedia / Eitan Arrusi (writer)",
+      "raw_score": 3.75,
+      "total_ratings": 28,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "VR, Megacorps, Transhumanism",
+      "image_filename": "Burn_Cycle_1994.jpg",
+      "pitch": "Burn Cycle is a 1994 point-and-click adventure game for the CD-i that combines full motion video with a surrealist cyberpunk narrative. The game puts players in the role of Sol Cutter, a computer hacker and data thief who wakes up infected with a deadly virus called Burn Cycle\u2014embedded directly in his brain. With only two hours to live, Cutter must navigate a dystopian metropolis and a virtual reality world called the Televerse to find a cure before the virus erases his mind.\n\nWhat makes Burn Cycle remarkable is its innovative real-time countdown mechanic. The two-hour timer decreases continuously during gameplay, creating genuine urgency as players solve puzzles, trade with underground dealers, and traverse between the physical city and the digital Televerse. The game was ahead of its time in combining interactive film techniques with traditional adventure game puzzles, and its atmospheric cyberpunk setting predates many later entries in the genre.",
+      "truth": "The story begins with Sol Cutter on a data theft mission for his former employer, SoftTech. During the heist, he's attacked and discovers he's been infected with the Burn Cycle virus\u2014a digital pathogen that will erase his consciousness in two hours. His handler Kris is killed during the escape, leaving Cutter alone in an unnamed cyberpunk metropolis.\n\nCutter navigates the city seeking answers and treatment. He visits the Zero Sum Bar to deal with his friend Zip, an underground cybertechnology dealer. With help from Gala, a former revolutionary he infiltrates, Cutter accesses his hotel room to retrieve tools and a mysterious holo-sphere that triggers fragmented memories of his past as a SoftTech operative.\n\nDoc, an underground brain surgeon, reveals that Cutter's memories are being deleted by the virus. The only hope is to download his consciousness into the Televerse\u2014the virtual world where much of society conducts business. Inside the digital realm, Cutter must recover fragmented pieces of his code and seek out Vielli, CEO of Cortex, a rival megacorporation.\n\nVielli reveals that SoftTech deliberately infected Cutter to force him to seek the cure\u2014knowing he'd lead them to Cortex. Vielli, existing now only as a program, has perfected consciousness uploading and offers Cutter a choice: be cured and escape, or help Vielli smuggle his physical head (containing the immortality code) out of the country.\n\nCutter chooses to destroy SoftTech by delivering a copy of the Burn Cycle virus that wipes out the corporation overnight. The game ends with Cutter reborn in a new body and Vielli congratulating him on his new \"employment.\"",
+      "core": "Burn Cycle exemplifies the CD-i's attempts to create immersive interactive cinema, blending live-action footage with point-and-click gameplay in ways that influenced later FMV games. The real-time countdown mechanic was revolutionary\u2014pushing players to make decisions quickly rather than explore exhaustively\u2014a design choice that added tension but frustrated some adventure game fans accustomed to methodical play.\n\nThe game's themes center on identity in the digital age. Cutter's consciousness being fragmented and uploaded mirrors broader anxieties about selfhood in a networked world. The Televerse represents an early vision of virtual reality as refuge and battleground\u2014a concept that would become central to cyberpunk fiction. The megacorporate rivalry between SoftTech and Cortex reflects 1990s anxieties about corporate power and data privacy.\n\nThe soundtrack by Simon Boswell combines industrial and techno elements, creating an atmospheric score that complements the game's neon-drenched visuals. Though the CD-i's FMV technology dated quickly, Burn Cycle remains a fascinating artifact of early interactive entertainment's ambitions to merge cinema and gaming.",
+      "created_at": "2026-03-18 08:50:08"
+    },
+    {
       "title": "Butnskala",
       "year": 1985,
       "medium": "Film",
@@ -13499,5 +13516,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 794
+  "count": 795
 }
