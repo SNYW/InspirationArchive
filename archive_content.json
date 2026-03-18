@@ -12717,6 +12717,23 @@
       "created_at": "2026-03-02 18:30:28"
     },
     {
+      "title": "Thelomeris",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Bal\u00e1zs Hatvani",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Hungary ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Science-Fantasy ,",
+      "topics": "Megacorps, Rebellion, Ecology",
+      "image_filename": "Thelomeris_2011.jpg",
+      "pitch": "Thelomeris is a Hungarian steampunk science fiction film\u2014the first full-length Hungarian sci-fi feature\u2014that presents a dystopian vision of a cold, industrial city dominated by a massive Clock Factory. The film follows a mysterious stranger (played by Mark Hamill, who also served as creative consultant) who arrives in a bleak metropolis where citizens live to serve the energy demands of the colossal factory. Directed by Bal\u00e1zs Hatvani and featuring an international cast including James Purefoy, DJ Qualls, and Lance Henriksen, Thelomeris explores themes of free will, oppression, and rebellion against deterministic fate. Nearly 80% of the film is digitally modified, creating a dark, atmospheric world that draws visual comparisons to Metropolis and Dark City.",
+      "truth": "In a dark and cold land where free will is a distant memory and personal interests rule over emotions and values, the citizens of an unnamed industrial city live their lives in service to the energy demands of the fearsome colossus\u2014the Clock Factory. This massive, clockwork-powered facility churns out endless products using what appears to be slave labor. The city is ruled by the factory's ruthless boss, who maintains control through oppression and the systematic suppression of any individual thought or dissent.\n\nThe Stranger arrives in this metropolis, challenging the factory boss and the established order. His presence represents a threat to the carefully maintained status quo, as he begins to question the system and inspire others to do the same. The film follows his journey as he stands against fate itself, confronting the deterministic nature of the city where every citizen's life is predetermined by their service to the factory.\n\nThe narrative explores the Stranger's confrontation with the factory's authoritarian structure and his attempts to awaken the citizens to the possibility of change. His challenge to the factory boss is both a personal battle and a philosophical struggle about whether individuals can ever truly break free from systems designed to control them.",
+      "core": "Thelomeris represents a notable entry in Eastern European steampunk cinema, combining the genre's characteristic Victorian-industrial aesthetic with darker dystopian themes. The film draws clear inspiration from Fritz Lang's Metropolis in its portrait of a stratified society where the industrial machine exploits the many for the benefit of a few, but adds its own Eastern European perspective on oppression and resistance.\n\nThe film's central themes revolve around determinism versus free will\u2014represented by the clockwork factory that literally measures and controls citizens' lives. The factory itself functions as both literal setting and metaphorical apparatus of control, suggesting that industrial capitalism creates systems from which escape seems impossible. The title \"Thelomeris\" itself suggests themes of fate and predetermined endpoints (relating to telomeres and cellular aging/death).\n\nAs the first Hungarian full-length science fiction film, Thelomeris is significant for what it represents in national cinema history\u2014attempting to bring Hungarian filmmaking into the international sci-fi arena with limited resources but ambitious vision. While the production values reflect its low-budget independent origins, the film offers an interesting counterpoint to mainstream Western sci-fi, presenting dystopian themes through a distinctly Eastern European lens of industrial oppression and resistance.",
+      "created_at": "2026-03-18 15:11:52"
+    },
+    {
       "title": "Them!",
       "year": 1954,
       "medium": "Film",
@@ -13924,5 +13941,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 819
+  "count": 820
 }
