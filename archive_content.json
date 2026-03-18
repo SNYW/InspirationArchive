@@ -1463,6 +1463,23 @@
       "created_at": "2026-03-04 07:49:28"
     },
     {
+      "title": "Beforeigners",
+      "year": 2019,
+      "medium": "TV Series",
+      "creator": "Anne Bj\u00f8rnstad, Eilif Skodvin",
+      "raw_score": 3.7,
+      "total_ratings": 575,
+      "origin": "Norway ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Time-Travel, Science-Fantasy ,",
+      "topics": "Time-Travel, Isolation",
+      "image_filename": "Beforeigners_2019.jpg",
+      "pitch": "Beforeigners is a Norwegian science fiction crime drama that premiered on HBO Nordic in 2019, becoming the first Norwegian-language series produced by HBO. The show introduces a fascinating premise: people from the Stone Age, Viking Age, and 19th century suddenly begin appearing in present-day Oslo, having migrated through time. These \"beforeigners\" must navigate the challenges of integrating into 21st-century Norwegian society while forming unlikely alliances with the modern inhabitants.\n\nThe series follows senior detective Lars Haaland (Nicolai Cleve Broch) as he investigates a murder case that pairs him with Alfhildr Enginnsd\u00f3ttir (Krista Kosonen), a Viking-era shield-maiden who has become a police recruit. Together, this unlikely duo\u2014a grizzled modern detective and a fierce warrior from the past\u2014investigate crimes that span centuries, including murders connected to historical figures like Jack the Ripper. The show blends procedural crime storytelling with speculative science fiction, exploring themes of immigration, cultural integration, and identity through its unique temporal lens.",
+      "truth": "The series begins in present-day Oslo, where people from different historical periods suddenly emerge from Bj\u00f8rvika bay. These beforeigners include Stone Agers, Vikings from the Viking Age, and individuals from Victorian-era 19th century. Each group struggles to adapt to modern Norwegian society, facing everything from language barriers to cultural whiplash.\n\nIn the first season, Lars and Alfhildr investigate the murder of a Stone Age woman, discovering a human trafficking operation that exploits beforeigners. The investigation reveals tensions between modern Norwegians and the newcomers, with some viewing beforeigners as opportunities for cheap labor and others seeing them as threats to social stability. Alfhildr, who retains her combat instincts and warrior mentality, must learn to navigate a world where violence isn't always the answer.\n\nThe second season escalates the stakes when Lars and Alfhildr investigate murders connected to Jack the Ripper. A time-traveling Victorian-era killer has arrived in Oslo, and the duo must work with historical consultants and modern forensic science to track down a murderer who has been killing across centuries. Meanwhile, the political landscape shifts as historical figures like Olaf the Stout (later canonized as Saint Olav) arrive and attempt to claim power in the modern world.\n\nThroughout both seasons, the show explores the personal stories of beforeigners adapting to contemporary life\u2014from Stone Agers struggling with technology to Vikings confronting a world where their warrior culture seems obsolete. Secondary characters include Lars's daughter Ingrid, who becomes involved with beforeigners, and various historical figures attempting to find their place in a world that has moved far beyond their time.",
+      "core": "Beforeigners works as both a procedural crime drama and a thoughtful exploration of immigration and integration. The beforeigners serve as metaphors for immigrants and refugees\u2014people who must leave their native times and adapt to entirely foreign cultures, languages, and social norms. The show examines how societies respond to newcomers, ranging from exploitation to genuine integration efforts.\n\nThe time-travel element also raises questions about identity and belonging. Characters like Alfhildr must reconcile who they were in their original time with who they must become in the present. Her journey from warrior to police officer represents a broader theme of transformation and adaptation. The show doesn't idealize historical periods either\u2014Viking culture, for instance, is presented as violent and brutal, not romanticized.\n\nThe production itself is notable as Norway's first major HBO production, demonstrating the country's capability for international-scale science fiction. The show balances its genre elements with character-driven drama, using the crime procedural format to explore deeper questions about what makes someone belong to a society or time period.\n\nCritics have praised the show's originality and the performances of its leads, particularly Kosonen as the stoic Alfhildr. The series has been nominated for multiple awards, including Best Drama Series at Norway's Gullruten awards. While some note that the second season loses some of the first season's charm, the show remains a significant entry in Scandinavian science fiction television.",
+      "created_at": "2026-03-18 16:38:03"
+    },
+    {
       "title": "Belegost",
       "year": 1989,
       "medium": "Video Game",
@@ -14026,5 +14043,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 825
+  "count": 826
 }
