@@ -12666,6 +12666,23 @@
       "created_at": "2026-03-02 00:26:51"
     },
     {
+      "title": "War with the Newts",
+      "year": 1936,
+      "medium": "Novel",
+      "creator": "Karel \u010capek",
+      "raw_score": 4.0,
+      "total_ratings": 1800,
+      "origin": "Czechoslovakia ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Aliens, Rebellion, Ecology",
+      "image_filename": "War_with_the_Newts_1936.jpg",
+      "pitch": "War with the Newts is a prescient 1936 satirical science fiction novel by Czech author Karel \u010capek, best known for coining the word \"robot\" in his earlier work R.U.R. In this novel, a seafarer discovers an intelligent race of newts in the Indian Ocean who possess limited but developing intelligence. Initially exploited for pearl farming and manual labor, the newts rapidly acquire human knowledge and technology, eventually rebelling against their human overlords. The story culminates in a global war between humanity and the newt civilization\u2014a darkly comedic exploration of colonialism, nationalism, and the cyclical nature of oppression.",
+      "truth": "The novel is divided into three books. **Book One** introduces Captain van Toch's discovery of the newts on Tanahmasa near Sumatra and their initial exploitation by the Salamander Syndicate, a corporation that profits from their labor. The newts learn to speak, read, and adopt human technology. **Book Two** charts the newts' rapid civilization advancement and growing tensions with humans, told through a series of newspaper clippings and historical essays. **Book Three** depicts the outbreak of open war as the newts demand coastal territory, ultimately destroying one-fifth of Earth's landmass.\n\nThe novel features no single protagonist but instead presents a broad societal portrait through characters like Captain van Toch, businessman Gussie H. Bondy, and the doorman Mr. Povondra. The climax involves the newts demanding coastline destruction to expand their territory, while the final chapter takes a metafictional turn with \u010capek discussing the long-term future with himself\u2014predicting the newts will eventually destroy each other through the same nationalistic folly that characterized humanity.",
+      "core": "\u010capek's novel functions as a sharp satire on fascism, colonialism, and nationalism, written in 1935-36 as Nazi power rose in Germany. The newts mirror human racism and imperialism\u2014exploiting others when given power, adopting nationalist identities, and engaging in the same territorial wars. The German scientist who declares German newts a superior race is explicit satire of Nazi racial theory.\n\nBeyond politics, the novel anticipates themes of artificial intelligence and sentience, examining how an \"inferior\" species might acquire human traits and whether equality is possible. The corporate exploitation of the newts comments on capitalism and colonialism, while the diplomatic failures satirize the ineffectiveness of international bodies.\n\nThe novel's enduring relevance lies in its prediction of ecological catastrophe\u2014the newts' territorial demands mirror climate change and rising sea levels. \u010capek's dark humor and structural innovation (the epistolary format, metafictional ending) make this a foundational work of ecological and satirical science fiction.",
+      "created_at": "2026-03-18 01:51:24"
+    },
+    {
       "title": "Wasteland",
       "year": 1988,
       "medium": "Video Game",
@@ -13108,5 +13125,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 771
+  "count": 772
 }
