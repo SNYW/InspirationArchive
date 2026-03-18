@@ -919,6 +919,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Anachronox",
+      "year": 2001,
+      "medium": "Video Game",
+      "creator": "Ion Storm / Tom Hall",
+      "raw_score": 4.0,
+      "total_ratings": 104,
+      "origin": "USA ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Cyberpunk, Noir ,",
+      "topics": "Megacorps, Memory",
+      "image_filename": "Anachronox_2001.jpg",
+      "pitch": "Anachronox is a cult classic role-playing game from the dying days of Ion Storm, produced by legendary designer Tom Hall (Commander Keen, Doom). The game follows Sylvester \"Sly Boots\" Bucelli, a down-and-out private investigator eking out a living in the slums of Anachronox\u2014a once-abandoned planet near the galaxy's jumpgate hub. When a simple missing persons case spirals into a universe-threatening conspiracy involving ancient alien technology called MysTech, Sly must assemble an unlikely team of allies and travel across multiple planets to unravel a mystery that spans the boundaries of time itself.\n\nThe game blends real-time exploration with turn-based combat, tasking players with managing a party of up to three characters as they navigate futuristic cities, space stations, and alien worlds. Drawing heavily from cyberpunk aesthetics, film noir storytelling, and unconventional humor, Anachronox distinguishes itself through its offbeat characters, richly detailed universe, and emotionally driven narrative about confronting one's past.",
+      "truth": "Sly Boots lives in a cheap apartment above Rowdy's bar in the seedy \"Bricks\" section of South Anachronox. His life changes when Grumpos Matavastros, a grumpy old scholar and former MysTech curator, hires him to find a piece of MysTech\u2014an ancient alien artifact. Their investigation attracts the attention of Detta, a powerful crime boss who steals the artifact and sets Sly on a path across the galaxy.\n\nJoining forces with PAL-18, his sarcastic robot assistant, Sly seeks out Dr. Rho Bowman, a brilliant scientist exiled to the planet Sunder for her controversial research into MysTech. When their experiment goes catastrophically wrong and destroys Sunder, they discover that MysTech has become active across the galaxy\u2014and that someone is using it to accelerate the collapse of the universe itself.\n\nThe team expands to include Stiletto Anyway (Sly's former lover, now an assassin), Paco \"El Pu\u00f1o\" Estrella (a washed-up superhero), and the planet Democratus (shrunk to human size and joining their quest). Their journey takes them to Hephaestus, a volcanic religious world, and finally to Limbus, the \"planet of death,\" where they discover the truth: forces from a previous universe are attempting to escape their own cosmic collapse by funneling matter into our universe\u2014causing the Big Crunch that will end everything.\n\nThe game's narrative explores themes of regret, redemption, and confronting the mistakes of one's past\u2014embodied most powerfully in Sly's own backstory, revealed gradually through flashback sequences showing how his recklessness led to the death of his former assistant Fatima, now existing as a digitized voice in his LifeCursor.",
+      "core": "Anachronox represents a fascinating artifact of early 2000s game development\u2014a ambitious, narratively driven RPG from an era when single-player story games were fighting for survival against the rising tide of multiplayer experiences. Tom Hall's ambition was to bring the emotional depth and character-driven storytelling of Japanese RPGs like Chrono Trigger to the PC gaming space, using a heavily modified Quake II engine to create expressive characters and cinematic storytelling.\n\nThe game's themes resonate far beyond its sci-fi trappings. At its heart, Anachronox is about how the past shapes us\u2014whether we acknowledge it or not. Sly's journey forces him to confront the consequences of his actions, the people he's hurt, and the person he used to be. The MysTech itself serves as a metaphor for buried secrets that, once unearthed, cannot be ignored.\n\nCritically, Anachronox was a victim of Ion Storm's turbulent final years. Released in June 2001, the game shipped with technical issues and received minimal marketing\u2014 Ion Storm closed its doors just days after the game's release. Despite this, the game earned a devoted cult following who appreciated its unique blend of humor, heart, and ambitious storytelling. Today, it's remembered as one of the great \"flawed classics\" of PC gaming\u2014a game that didn't achieve its full potential due to circumstances beyond its creative team's control, but whose ambitions and achievements remain notable.",
+      "created_at": "2026-03-18 06:36:08"
+    },
+    {
       "title": "Andro Dunos",
       "year": 1992,
       "medium": "Video Game",
@@ -13380,5 +13397,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 787
+  "count": 788
 }
