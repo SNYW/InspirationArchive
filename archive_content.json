@@ -5730,6 +5730,23 @@
       "created_at": "2026-03-02 21:35:49"
     },
     {
+      "title": "Om-Dar-B-Dar",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.5,
+      "total_ratings": 647,
+      "origin": "India ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Memory, Exploration",
+      "image_filename": "Om-Dar-B-Dar_1988.jpg",
+      "pitch": "Om-Dar-B-Dar is a 1988 Indian Hindi-language postmodernist film that defies conventional categorization. Directed by Kamal Swaroop and set in Ajmer and Pushkar, Rajasthan, the film follows the adventures of a young schoolboy named Om as he navigates his eccentric family and discovers the strange powers of his ability to hold his breath. The film employs a nonlinear narrative structure and absurdist storytelling to satirize mythology, arts, politics, and philosophy. \n\nNever commercially released in India during its initial run, the film premiered at the Berlin International Film Festival and quickly gained cult status among film critics and cinephiles. After 26 years of being unavailable domestically, it was finally given a proper theatrical release in 2014 following a digital restoration by the National Film Development Corporation of India (NFDC).",
+      "truth": "The film opens as a comedy depicting Om's carefree adolescence in the bylanes of Ajmer. His father, Babuji, a government employee, quits his job to dedicate himself to astrology. Om's older sister, Gayatri, is dating a good-for-nothing boyfriend. Om studies science but is also deeply attracted to magic and religion. His singular skill\u2014his ability to hold his breath for remarkably long periods\u2014becomes a central motif throughout the film.\n\nAs the narrative unfolds, the film progressively shifts from light comedy into darker territory, ultimately ending as a thriller. The story is deliberately non-linear, with dreamlike sequences and images that don't conform to traditional linear storytelling. The director described the film as a story of Lord Brahma, inspired by the idea that while Brahma is considered the father of the entire universe, strangely no one ever worships him.\n\nThe film's sporadic songs, written by Swaroop's assistant Kuku, are choppy and don't follow logical narrative progression\u2014deliberately mocking the tradition of spontaneous musical numbers in Bollywood cinema. These musical interludes function as tongue-in-cheek commentary on mainstream Indian film conventions rather than conventional song sequences.",
+      "core": "Om-Dar-B-Dar represents a radical departure from mainstream Indian cinema, so much so that director Imtiaz Ali has described it as \"the great Indian LSD trip.\" The film is often categorized as a Cinema of Prayoga (experimental cinema) work, standing as an antithesis to whatever is recognized globally as Indian cinema.\n\nThe film's legacy has grown significantly since its rediscovery in the 2000s. It influenced filmmakers like Anurag Kashyap, who acknowledged that his song \"Emotional ATTyachar\" in Dev.D was inspired by the song \"Meri Jaan\" from Om-Dar-B-Dar. The restoration and 2014 release introduced the film to a new generation of viewers and critics.\n\nWhat makes Om-Dar-B-Dar significant is its fearless rejection of Bollywood conventions\u2014its nonlinear narrative, absurdist humor, mythological subtext, and surreal imagery position it as a truly unique artifact of Indian independent cinema. It remains a must-see for anyone interested in the boundaries of Indian filmmaking.",
+      "created_at": "2026-03-18 02:51:50"
+    },
+    {
       "title": "Omega Doom",
       "year": 1996,
       "medium": "Film",
@@ -13176,5 +13193,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 775
+  "count": 776
 }
