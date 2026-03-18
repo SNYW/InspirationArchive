@@ -7855,6 +7855,23 @@
       "created_at": "2026-03-18 14:36:06"
     },
     {
+      "title": "Space City Sigma",
+      "year": 1989,
+      "medium": "TV Series",
+      "creator": "Ashok Talwar",
+      "raw_score": 3.85,
+      "total_ratings": 85,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Aliens",
+      "image_filename": null,
+      "pitch": "Space City Sigma is an Indian science fiction television series that aired on DD National in 1989, marking one of the first sci-fi productions in Indian television history. The show follows Commander Tara and the crew of Sigma, a space city running on fusion energy docked at the Galactic frontier. Sigma represents humanity's last stand against the technologically advanced alien race ruled by the tyrannical Zhakhakoo. When a deadly creature called Blob is sent to infiltrate the city, the crew must battle this existential threat while defending Earth from being annexed into Zhakhakoo's astronomical kingdom.",
+      "truth": "The series begins when a strange and deadly creature boards the human galactic ship. This Blob\u2014resembling a lump of cow-dung\u2014proves to be Zhakhakoo's latest weapon in his quest to conquer Sigma and subsequently add Earth to his empire. The Blob possesses the ability to suck the life force from anyone it touches, causing mysterious deaths throughout the space city. As panic spreads, the creature targets Shakti, the head of security, attempting to attach itself to his face. However, the plan fails when Shakti reveals himself to be a cyborg\u2014his metal-plated face makes him immune to the Blob's attack. Shakti ultimately destroys the Blob, but Zhakhakoo remains undeterred in his ambitions to conquer Earth.\n\nThe cast includes Krishankant Sinha as Commander Tara, Sanjeev Puri as the cyborg security chief Shakti, Kishore Dang as engineer Varey, Savita Bhatia as communication officer Heeri, Mita Vashisht as scientist Teeba, and Shailendra Srivastava as the villainous Zhakhakoo.",
+      "core": "Space City Sigma represents a pioneering attempt at Indian television science fiction, predating the more widely known series like Indradhanush by the same year. The show blends classic space opera tropes\u2014the last bastion of humanity against alien threat, the evil overlord, the climactic battle\u2014with distinctly Indian production values and storytelling sensibilities. As one of the earliest Indian entries in the genre, it laid groundwork for subsequent television science fiction in the country, though it remains relatively obscure compared to later productions. The series reflects late-1980s anxieties about technological advancement and the potential for alien threats, while also showcasing early Indian attempts at speculative worldbuilding on a cosmic scale.",
+      "created_at": "2026-03-18 17:26:20"
+    },
+    {
       "title": "Space Family Carlvinson",
       "year": 1988,
       "medium": "OVA",
@@ -14060,5 +14077,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 827
+  "count": 828
 }
