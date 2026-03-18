@@ -9742,6 +9742,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Diamond Age",
+      "year": 1995,
+      "medium": "Novel",
+      "creator": "Neal Stephenson",
+      "raw_score": 4.16,
+      "total_ratings": 93464,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "Nanotech, Transhumanism, AI",
+      "image_filename": "The_Diamond_Age_1995.jpg",
+      "pitch": "The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson, published in 1995. Set in a 22nd-century world revolutionized by nanotechnology, it follows Nell, a thete (tribeless person) living in the slums of New Shanghai, who obtains a highly sophisticated interactive book called the Young Lady's Illustrated Primer. This adaptive storybook, designed to educate and mold its reader into an extraordinary individual, becomes Nell's gateway to power and self-determination. The novel explores themes of education, social class, ethnicity, artificial intelligence, and nanotechnology through interlocking storylines involving nanotech engineers, actors, and powerful phyles (tribes) competing for control of the world's most advanced technology.",
+      "truth": "In the 22nd century, nanotechnology has transformed civilization. The world is dominated by powerful \"phyles\" (tribes)\u2014including the Neo-Victorians, Han Chinese, Japanese (Nippon), and Indians (Hindustan)\u2014while thetes (tribeless individuals) live in poverty in the Leased Territories. The story centers on Nell, a young girl born to a neglectful mother in the slum of New Chusan. Her brother Harv steals a copy of the Young Lady's Illustrated Primer\u2014an interactive book commissioned by a Neo-Victorian lord for his granddaughter\u2014and gives it to Nell.\n\nThe Primer uses nanotech to create an adaptive educational experience, tailoring its stories to Nell's experiences and teaching her to become an exceptional individual. Meanwhile, the book's creator, nanotech engineer John Percival Hackworth, has made an illicit copy for his own daughter Fiona\u2014a crime that draws him into a complex web of political intrigue between the phyles.\n\nThe narrative follows multiple characters: Hackworth, forced to work as a double agent; Miranda Redpath, the actress who voices the Primer's characters and becomes a surrogate mother to Nell; and various Neo-Victorian elites. As Nell grows, her Primer guides her through increasingly complex challenges, preparing her to lead a new phyle. The novel explores the tension between centralized control (the Feed, controlled by established phyles) and distributed technology (the Seed, representing nanotech liberation), culminating in Nell's emergence as a transformative leader.",
+      "core": "The Diamond Age is a meditation on education, technology, and social mobility. The Illustrated Primer represents the ultimate personalized education\u2014a technological solution to inequality that ultimately creates a new kind of divide. Stephenson explores how technology can both empower and control, as the Primer is designed to create individuals who will serve the interests of its Neo-Victorian creators. Nell's journey demonstrates that genuine education, even when designed for manipulation, can lead to authentic self-determination.\n\nThe novel examines post-scarcity economics through its vision of matter compilers that can produce basic necessities for free, yet social hierarchies persist through control of the Feed and advanced technology. The phyle system replaces nation-states, showing how cultural identity evolves in a globalized future. Stephenson also addresses gender and power through the Primer's design\u2014originally intended for a boy, it's reprogrammed for Nell, becoming a tool for female empowerment.\n\nThe Diamond Age is notable for its technical accuracy regarding nanotechnology, drawing from Eric Drexler's work. Its portrayal of nanotech infrastructure\u2014including immune systems for cities, smart paper, and matter compilers\u2014influenced real-world discussions of nanotechnology. The novel won both the Hugo and Locus Awards in 1996, and its exploration of nanotech society, educational technology, and cultural evolution makes it a foundational work of postcyberpunk fiction.",
+      "created_at": "2026-03-18 19:38:50"
+    },
+    {
       "title": "The Dispossessed",
       "year": 1974,
       "medium": "Novel",
@@ -14162,5 +14179,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 833
+  "count": 834
 }
