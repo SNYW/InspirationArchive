@@ -5577,6 +5577,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Motorman",
+      "year": 1972,
+      "medium": "Novel",
+      "creator": "David Ohle",
+      "raw_score": 3.5,
+      "total_ratings": 2,
+      "origin": "USA ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Isolation, Transhumanism",
+      "image_filename": "Motorman_1972.jpg",
+      "pitch": "Motorman is a surrealist dystopian novella published in 1972 that went out of print for nearly half a century before being rediscovered as a cult classic. The story follows Moldenke, a man living in a post-apocalyptic future where he exists with four implanted sheep's hearts, one working lung, and a body kept alive through crude surgical modifications. The world itself is equally fractured\u2014multiple artificial suns and moons govern a society where weather is manufactured, jelly-headed humanoids walk the streets, and an omnipresent surveillance system led by the enigmatic Mr. Bunce monitors everyone's movements.\n\nThe narrative unfolds through fragmented letters, questionnaires, and episodic encounters as Moldenke attempts to escape Bunce's control and find Dr. Burnheart, the surgeon who implanted his animal hearts. The novel is written in a dreamlike, stream-of-consciousness style that defies conventional plotting, instead immersing readers in a world that operates on its own bizarre logic\u2014where wars are \"mock\" engagements where soldiers volunteer for injuries, and where the distinction between reality and manufactured illusion has completely collapsed.",
+      "truth": "The novel opens with Moldenke trapped in his apartment under uncertain terms, receiving menacing phone calls from Mr. Bunce, who claims to have tapes of everything Moldenke has ever said. The world outside is a nightmarish, polluted dystopia where the original sun and moon have been replaced by artificial government-controlled versions, making time and weather unpredictable and artificial.\n\nMoldenke decides to flee his circumstances and embark on a journey to find Dr. Burnheart, his former physician. Along the way, he encounters bizarre characters including Cock Roberta (his love interest, who suffers from a peculiar punctuation-related affliction), various \"jellyheads\" (artificial beings filled with jelly who wear human disguises), and other survivors of the Mock War\u2014a conflict where soldiers voluntarily sacrifice body parts and emotions in exchange for compensation.\n\nThe narrative jumps between vignettes, letters, and weather reports, never providing clear answers about what has happened to the world or why. Moldenke's journey leads him through various surreal encounters, including working as a taste-tester for bizarre foods and being recruited into increasingly nonsensical tasks. The novel ends without resolution\u2014Moldenke remains trapped in his circumstances, and the fundamental mysteries of the world and Bunce's control are never explained.",
+      "core": "**Surrealism as Political Commentary:** Motorman occupies a unique space between Kafkaesque paranoia, Beat generation stream-of-consciousness, and dystopian prediction. The novel reflects its 1972 moment\u2014the Vietnam War era's skepticism toward authority, the counterculture's experimentation with altered states, and pre-cyberpunk anxieties about technology's replacement of nature. The artificial suns and moons stand in for humanity's hubristic attempts to control nature, while the manufactured weather reports represent a world where even basic reality has become commodified and controlled.\n\n**Transhumanism and Body Horror:** Moldenke's four sheep hearts represent an early vision of transhumanist modification\u2014technology used not to enhance but to merely sustain life. His multiple surgeries and implanted organs anticipate themes that would later appear in cyberpunk and body horror fiction, presenting the modified human body as both miracle and monstrosity.\n\n**Surveillance and Control:** Mr. Bunce functions as an early iteration of the surveillance state\u2014a figure who knows everything about everyone but whose motivations remain opaque. The novel predates both Orwell's 1984 and later digital surveillance anxieties, presenting a world where control operates through information asymmetry rather than overt oppression.\n\n**The Failure of Narrative:** Perhaps the novel's most radical element is its deliberate refusal to provide closure or explanation. The fragmented structure mirrors the protagonist's fractured consciousness and reflects Ohle's argument that totalizing narratives\u2014whether political, technological, or personal\u2014inevitably fail. The novel suggests that meaning-making itself is a doomed enterprise in a world without stable foundations.\n\nMotorman remains significant as an overlooked ancestor of literary science fiction that influenced later writers like Ben Marcus, who wrote the introduction to the 2016 reissue. Its blend of absurdist humor, body horror, and philosophical despair anticipated themes that would become central to cyberpunk and New Weird fiction.",
+      "created_at": "2026-03-18 14:53:03"
+    },
+    {
       "title": "Mr. India",
       "year": 1987,
       "medium": "Film",
@@ -13907,5 +13924,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 818
+  "count": 819
 }
