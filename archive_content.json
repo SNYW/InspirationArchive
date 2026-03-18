@@ -4455,6 +4455,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Iron Sky",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Timo Vuorensola",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Finland ,",
+      "mood": "Satirical ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Rebellion",
+      "image_filename": "Iron_Sky_2012.jpg",
+      "pitch": "Iron Sky is a 2012 Finnish-German-Australian science fiction comedy that takes one of history's most infamous factions\u2014the Nazis\u2014and sends them into outer space. When a group of German Nazis fled to the dark side of the Moon in 1945 after World War II, they built a secret fleet with plans to return and conquer Earth in 2018. The film follows the arrival of an American astronaut who discovers this lunar Nazi colony, setting up a satirical showdown between 1940s fascism and 2018 politics. Blending action sequences with sharp political commentary, Iron Sky is a cult comedy that uses the absurd premise to critique everything from American imperialism to media manipulation.",
+      "truth": "In 2018, the United States sends a manned mission to the Moon, specifically to boost the President's re-election campaign. The African-American astronaut James Washington lands on the far side of the Moon and discovers the hidden Nazi base. After his colleague is killed, Washington is captured and examined by Nazi scientist Doktor Richter, who recognizes his smartphone as having more computing power than the Nazis' 1940s-era technology.\n\nThe Nazis\u2014led by commander Klaus Adler\u2014force Washington to help them retrieve more modern technology from Earth. After being \"Aryanized\" with a pigment-altering drug, Washington accompanies Adler and Renate Richter (the scientist's daughter) back to New York City. There, they infiltrate the President's campaign using Nazi-style marketing tactics, while the F\u00fchrer on the Moon prepares his fleet for invasion.\n\nWhen the Moon Nazi leader Kortzfleisch launches an attack on New York with flying saucers and asteroid missiles, the U.S. and other nations respond with secret space militaries. Washington and Renate work together to thwart Adler's plan to use the massive battleship G\u00f6tterd\u00e4mmerung to destroy Earth. Adler is killed, and the Moon base is destroyed, though the film ends on an ambiguous note with hints of an international nuclear war and a mysterious satellite around Mars.",
+      "core": "**Satire and Political Commentary:** Iron Sky functions primarily as a political satire, using its ridiculous premise to critique American imperialism, media manipulation, and political vanity. The film parodies the U.S. President's shallow use of a Black astronaut for political gain, the corporate control of politics, and the hypocrisy of democratic nations. The inclusion of the iPad and smartphone as tools of both liberation and destruction comments on technology's dual nature in modern warfare.\n\n**Historical Reflection:** The film engages with the lingering trauma of Nazism and fascism, asking what might have happened if WWII had ended differently. By placing Nazis in space, it both ridicules and warns\u2014suggesting that fascist ideologies don't simply disappear but may persist in hidden corners, waiting to return. The character of Renate, who comes to question the Nazi ideology after watching Chaplin's \"The Great Dictator,\" represents the potential for redemption and critical thinking.\n\n**Cult Status and Reception:** While not a critical success, Iron Sky gained a cult following for its bold concept and willingness to tackle controversial subject matter. It was one of the most expensive Finnish films ever made and spawned a sequel, \"Iron Sky: The Coming Race\" (2019), which continued the satirical themes with even more extreme (and poorly received) content. The film's willingness to be offensive in service of satire places it in the lineage of transgressive comedy.",
+      "created_at": "2026-03-18 19:50:28"
+    },
+    {
       "title": "Island of Lost Souls",
       "year": 1932,
       "medium": "Film",
@@ -14179,5 +14196,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 834
+  "count": 835
 }
