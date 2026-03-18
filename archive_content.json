@@ -7158,6 +7158,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Santa Claus",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Ren\u00e9 Cardona",
+      "raw_score": 1.2,
+      "total_ratings": 1,
+      "origin": "Mexico , \ud83c\udf84 Christmas , \ud83d\udc79 Demons , \ud83d\ude80 Space Travel , \ud83e\udd16 Robots",
+      "mood": "",
+      "sub_genres": "",
+      "topics": "",
+      "image_filename": "Santa Claus_1959.jpg",
+      "pitch": "Santa Claus (also known as Santa Claus vs. the Devil) is a 1959 Mexican fantasy film directed by Ren\u00e9 Cardona. The film has achieved cult status after being featured on Mystery Science Theater 3000 in 1993. In this unique holiday sci-fi, Santa Claus works in outer space at his Toyland castle and must battle a demon named Pitch, sent by Lucifer to ruin Christmas by exposing Santa to the public and turning children evil.",
+      "truth": "On Christmas Eve, Santa prepares for his annual journey from his castle in space. Meanwhile, in Hell, Lucifer instructs his chief demon Pitch to travel to Earth and ruin Christmas by exposing Santa to the public and \"making all the children of the Earth do evil.\"\n\nPitch attempts to convince five children to make Santa angry: Lupita, a poor girl; Billy, the son of wealthy but negligent parents; and three troublemaking brothers. Using various tricks, Pitch tries to sabotage Santa's toy delivery. Santa's child workers alert him to these events, and with the help of Merlin the wizard, Santa must outsmart the demon and save Christmas.",
+      "core": "**Space Age Santa:** The film presents a unique vision of Santa Claus as a space-age figure operating from a castle in outer space, predating many space opera tropes. This inventive premise places Santa as a kind of cosmic entity utilizing advanced technology for his gift-giving mission.\n\n**Mexican Holiday Tradition:** The film represents a unique piece of Mexican cinematic tradition, blending American Christmas mythology with Mexican filmmaking. It became a seasonal cult classic in the US after its MST3K featuring brought it to new audiences.\n\n**Good vs. Evil in Space:** The film combines fantasy and early science fiction elements, presenting a cosmic battle between good (Santa and his helpers) and evil (Pitch and Lucifer) that uses the backdrop of space travel.",
+      "created_at": "2026-03-18 12:08:55"
+    },
+    {
       "title": "Saturn Apartments",
       "year": 2005,
       "medium": "Manga",
@@ -13720,5 +13737,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 807
+  "count": 808
 }
