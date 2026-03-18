@@ -4897,6 +4897,23 @@
       "created_at": "2026-03-06 22:26:03"
     },
     {
+      "title": "Krrish",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Rakesh Roshan",
+      "raw_score": 3.5,
+      "total_ratings": 0,
+      "origin": "India ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Evolution",
+      "image_filename": "Krrish_2006.jpg",
+      "pitch": "Krrish is a 2006 Indian superhero film that blends science fiction with Indian mythology and action. The story follows Krishna Mehra, a physically disabled boy who inherits superhuman abilities from his father Rohit Mehra, an eccentric scientist who made contact with an alien named Jadoo. When Krishna grows up, he becomes the superhero Krrish to fight the evil Dr. Siddhant Arya, who is creating a supercomputer that can predict the future. The film is notable for its cutting-edge visual effects for Indian cinema and for pioneering the superhero genre in Bollywood.",
+      "truth": "Krishna Mehra lives in the small town of Kasauli with his grandmother Sonia after his parents died when he was a baby. His father Rohit was a scientist who worked with Dr. Siddhant Arya on a supercomputer that could predict calamities. On the night of Krishna's birth, Rohit destroyed the computer after realizing Arya would use it for evil, and Arya shot him. Krishna's mother Nisha died shortly after.\n\nYears later, the adult Krishna meets Priya in the mountains and falls in love. When Priya returns to Singapore, Krishna follows her. In Singapore, he becomes the superhero Krrish after saving people at a circus fire, adopting a masked persona. Meanwhile, Dr. Arya has rebuilt the supercomputer and is searching for Krishna and Sonia.\n\nPriya and Honey discover that Krishna is Krrish through video footage. When Priya's boss tries to expose Krrish's identity, Vikram Sinha, a former colleague of Rohit, reveals that Rohit is still alive\u2014Arya has kept him prisoner in a comatose state for 20 years. Arya plans to use Rohit's biometric data to access the supercomputer's full capabilities.\n\nKrrish confronts Arya on his island, defeats his thugs, and saves Priya and the barely-alive Rohit. After the battle, Rohit uses the supercomputer to summon Jadoo, thanking the alien for bringing Krishna into his life. The family returns to India, reunited.",
+      "core": "Krrish represents a significant moment in Indian cinema as one of the first mainstream Bollywood films to fully embrace the superhero genre with Hollywood-level visual effects. The film combines traditional Indian values and mythology (the protagonist's name Krishna alludes to the Hindu deity) with modern sci-fi elements, creating a unique blend that appeals to both Indian and international audiences.\n\nThe film explores themes of family, sacrifice, and the ethical use of technology. Dr. Arya's misuse of the supercomputer for personal gain contrasts with Rohit's selfless approach to science. The film also touches on the responsibilities that come with power\u2014Krishna must keep his identity secret to protect his family, yet uses his abilities to help others.\n\nKrrish's success spawned a franchise and established a template for Indian superhero films, demonstrating that Indian cinema could compete globally in the sci-fi action genre. The film bridges the gap between classic Bollywood storytelling and modern superhero tropes, making it a landmark in the evolution of Indian popular cinema.",
+      "created_at": "2026-03-18 21:21:02"
+    },
+    {
       "title": "L'Inhumaine",
       "year": 1924,
       "medium": "Film",
@@ -14281,5 +14298,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 840
+  "count": 841
 }
