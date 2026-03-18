@@ -12819,6 +12819,23 @@
       "created_at": "2026-03-06 10:27:33"
     },
     {
+      "title": "Wave Without a Shore",
+      "year": 1981,
+      "medium": "Novel",
+      "creator": "C.J. Cherryh",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience, Aliens, Exploration",
+      "image_filename": "Wave_Without_a_Shore_1981.jpg",
+      "pitch": "Wave Without a Shore is a 1981 science fiction novel by C.J. Cherryh, published by DAW Books as part of her Alliance-Union universe. The novel explores what happens when humans encounter an alien reality that operates on fundamentally different perceptual and existential principles. The story follows a human who finds himself stranded in a reality where the laws of physics and perception work differently, forcing him to adapt to survive. Cherryh, known for her rigorous approach to hard science fiction and complex alien psychology, uses this novella-length work as a thought experiment in how humans might cope with truly alien environments\u2014ones that challenge not just their bodies but their very conception of reality. Originally published alongside Port Eternity and Voyager in Night as part of Cherryh's \"magic cookie\" books, this novel represents her exploration of themes of identity, perception, and what it means to be human when confronted with the truly unknown.",
+      "truth": "The protagonist of Wave Without a Shore finds himself transported to a reality unlike anything in human experience\u2014a dimension where conventional physical laws do not apply and where perception itself becomes unreliable. This alien environment operates according to principles that are fundamentally incomprehensible to the human mind, yet the protagonist must find a way to survive within it. As he struggles to understand and adapt to this reality, the lines between perception and truth become increasingly blurred, raising questions about the nature of reality itself and whether any framework of understanding can bridge the gap between human consciousness and truly alien existence. The novel deals with themes of isolation, the limits of human cognition, and the psychological toll of encountering something fundamentally unknowable.",
+      "core": "**Alien Perception and Cognition:** Cherryh explores what happens when human minds encounter truly alien intelligence and reality. Unlike many science fiction works that present aliens as comprehensible (if exotic) beings, Wave Without a Shore presents a reality that operates on principles that may be fundamentally beyond human understanding. This connects to Cherryh's broader interest in the difficulty of cross-cultural and cross-species communication, a theme that runs throughout her Alliance-Union universe.\n\n**The Limits of Rationality:** The novel examines whether human rational frameworks can ever truly comprehend the incomprehensible. The protagonist's struggle is not just to survive physically but to make sense of a reality that defies the categories and logical structures humans use to understand the world. This ties into broader philosophical questions about the limits of human knowledge and the nature of reality itself.\n\n**Identity and Transformation:** As the protagonist attempts to adapt to this alien environment, questions arise about whether he can remain fundamentally human or whether the process of adaptation necessarily transforms him into something other than what he was. This theme of identity under pressure connects to Cherryh's broader exploration of what defines humanity\u2014body, mind, culture, or something else entirely.\n\n**Hard Science Fiction Approach:** Cherryh brings her characteristic rigor to the depiction of human-alien encounter, avoiding easy answers and comfortable resolutions. The novel does not provide neat explanations or comfortable resolutions but instead presents the genuine difficulty and terror of confronting the truly unknown. This approach reflects Cherryh's broader contribution to hard science fiction, which emphasizes the rigorous extrapolation of scientific principles and the honest confrontation with the implications of those principles.\n\nWave Without a Shore remains significant as an example of science fiction that takes seriously the philosophical implications of encountering truly alien intelligence and reality. It represents Cherryh's contribution to the tradition of \"first contact\" literature while pushing beyond typical treatments to explore the psychological and epistemological challenges such encounters would present.",
+      "created_at": "2026-03-18 03:54:07"
+    },
+    {
       "title": "We",
       "year": 1921,
       "medium": "Novel",
@@ -13244,5 +13261,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 779
+  "count": 780
 }
