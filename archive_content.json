@@ -7668,6 +7668,23 @@
       "created_at": "2026-03-03 16:16:14"
     },
     {
+      "title": "Star Sapphire",
+      "year": 1985,
+      "medium": "Novel",
+      "creator": "Joan Hon (as Han May)",
+      "raw_score": 4.5,
+      "total_ratings": 4,
+      "origin": "Singapore ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Romance, Exploration, Sentience",
+      "image_filename": "Star_Sapphire_1985.jpg",
+      "pitch": "Star Sapphire is widely recognized as Singapore's first science fiction novel, published in 1985 by Joan Hon under the pen name Han May. Set in the 23rd century aboard the massive interstellar passenger starship Star Sapphire, the novel follows Yva Yolan, a young biophysicist of mixed human-alien descent who joins the crew of this vast spacecraft. The story is set in a future where Earth has been renamed Terra and humanity coexists harmoniously with various extraterrestrial species across multiple galaxies. Yva finds herself entangled in a love triangle between two crew members\u2014Adam Zear, the cold but magnetic Registrar, and Timothy Huha, the warm and friendly Chief Personnel Officer\u2014while navigating strict ship rules that forbid romantic relationships among crew members. The novel received a Highly Commended award in the Fiction category from the National Book Development Council of Singapore in 1986.",
+      "truth": "The story centers on Yva Yolan, a young biophysicist of mixed Chinese, North Indian, and Ganymedean descent, raised on the artificial moon of New Temasek after losing her parents in space. She enlists as a crew member aboard the Star Sapphire, a luxurious interstellar cruise liner designed for long-duration voyages across multiple star systems. Upon joining the ship, Yva must adapt to the highly structured society governed by strict rules, including Rule 4, which forbids all crew members from engaging in courtship or romantic relationships.\n\nDespite these restrictions, Yva finds herself the focus of attention from both Adam Zear, a blond part-Capellan with an authoritative presence, and Timothy Huha, a blond part-Hawaiian known for his warmth and friendliness. The tension between her growing feelings and the ship's regulations creates the central conflict of the narrative.\n\nDuring a critical assignment, Yva is sucked into a Black Hole, and Adam defies Rule 2 (which requires crew members to refrain from jeopardizing their own safety) to rescue her. Through physics grounded in thermodynamic principles, they survive and end up stranded on a paradise-like planet they call Eden, where they marry, raise twins, and build a plasma engine that allows them to return to the ship mere days after their departure. Yva's journey represents a coming-of-age arc as she matures from naivety to emotional resilience, learning to navigate complex relationships and her own identity in a vast, multicultural universe.",
+      "core": "Star Sapphire explores several significant themes that remain relevant in contemporary science fiction. The novel centers on female empowerment and agency, featuring a young woman skilled in STEM who pursues a demanding career aboard an intergalactic starship despite challenges in a male-dominated field. Yva's competence in biophysics and her ability to contribute meaningfully to the crew demonstrate early portrayals of women in science that predate similar tropes now common in contemporary speculative fiction.\n\nThe novel balances romantic partnership with personal independence, depicting relationships that value mutual commitment while respecting individual growth. The theme of forbidden love emerges as a central conflict, driven by strict ship regulations that prohibit romantic relationships among crew members, forcing characters to confront tensions between personal desires and institutional rules.\n\nSpirituality and faith form a subtle yet significant thread, influenced by the author's Catholic perspective. The gentle exploration of spiritual themes, including occasional biblical undertones, enriches the narrative's philosophical depth\u2014a notable element given the science fiction genre's typical focus on rationalism.\n\nThe novel is also notable for its multicultural representation. Characters frequently exhibit mixed human-alien ancestry, reflecting the normalization of extraterrestrial contact and integration within society. This portrayal prefigures contemporary diversity and representation concerns in speculative fiction.\n\nDespite some critical assessments that the characters are conventional and flat, and the love story sentimental, the novel has developed a cult following among readers interested in Singaporean speculative fiction. Nearly four decades after publication, fans continue to celebrate the work as a pioneering text that blazed the trail for science fiction in Singapore.",
+      "created_at": "2026-03-18 06:26:32"
+    },
+    {
       "title": "Star Wreck: In the Pirkinning",
       "year": 2005,
       "medium": "Film",
@@ -13363,5 +13380,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 786
+  "count": 787
 }
