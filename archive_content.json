@@ -698,6 +698,23 @@
       "created_at": "2026-03-03 15:01:17"
     },
     {
+      "title": "Alien",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Ridley Scott",
+      "raw_score": 4.25,
+      "total_ratings": 800000,
+      "origin": "UK ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Alien_1979.jpg",
+      "pitch": "Alien is a 1979 science fiction horror film directed by Ridley Scott, set aboard the commercial spacecraft Nostromo. The film follows a crew of seven astronauts who respond to a distress signal from a distant planet, only to discover a deadly extraterrestrial creature that hunts them one by one. Featuring Sigourney Weaver in her breakthrough role as Ripley, the film combines claustrophobic tension with iconic creature design by H.R. Giger to create one of the most influential horror films in cinema history.",
+      "truth": "The Nostromo, a commercial spaceship carrying a crew of seven, intercepts a distress signal on the distant planet LV-426. The crew investigates and discovers what appears to be an alien spacecraft containing a massive organic specimen. When crew member Kane encounters the organism, it attaches to his face, leading the others to bring him back aboard against protocol.\n\nAfter the creature detaches and dies, the crew believes the danger has passed. However, another creature emerges from Kane's chest during dinner, killing him and escaping into the ship's air ducts. As the alien grows and hunts the crew, remaining survivors Ripley, Dallas, Lambert, Ash, Parker, and Brett must evade the creature while attempting to escape.\n\nDallas attempts to hunt the alien in the vents but is killed. Brett is also killed. The remaining crew decides to blow the ship to destroy the alien, but it escapes into the shuttle. Ripley ultimately confronts the creature alone, using the ship's airlock to eject it into space. She then activates the self-destruct and escapes in the shuttle with the alien stowaway, but manages to vent it into space once more, surviving alone.",
+      "core": "Alien revolutionized the science fiction horror genre by combining the isolation of space with the terror of an unstoppable predator. The film's themes explore humanity's vulnerability against unknown cosmic forces, the dangers of corporate exploitation (the crew was actually on a secondary mission to bring back the alien specimen for analysis), and the tension between scientific curiosity and survival instinct.\n\nThe film's visual design by H. R. Giger created one of cinema's most iconic monsters\u2014the Xenomorph\u2014with its biomechanical aesthetic suggesting a perfect predator evolved for hunting. Jerry Goldsmith's score and the meticulous production design contributed to the film's oppressive atmosphere.\n\nAlien won the Academy Award for Best Visual Effects and launched the career of Sigourney Weaver, who became an icon of female empowerment in cinema. The film's impact extends far beyond its sequel franchise\u2014it established the template for science fiction horror and influenced countless films in both genres.",
+      "created_at": "2026-03-18 18:35:21"
+    },
+    {
       "title": "Alien Death Fuck",
       "year": 2018,
       "medium": "Film",
@@ -14111,5 +14128,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 830
+  "count": 831
 }
