@@ -5679,6 +5679,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "MindGamers",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Andrew Goth (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Austria ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Transhumanism, VR, Technology",
+      "image_filename": "MindGamers_2015.jpg",
+      "pitch": "MindGamers is a 2015 Austrian science fiction film about a group of students who create a wireless neural network enabling collective consciousness through a quantum computer. They discover that motor skills can be transferred through quantum theory and freely spread their technology, believing it's a step toward intellectual freedom. However, they soon realize they're part of a larger, more sinister experiment. The film explores themes of consciousness, technology, and the potential dangers of unbound scientific progress.",
+      "truth": "A group of talented students led by Jaxon develop a revolutionary quantum computer system capable of creating a wireless neural network connecting human minds. Through their research, they discover that motor skills and potentially consciousness itself can be transferred between individuals using quantum entanglement principles.\n\nInitially viewing their discovery as a breakthrough for human intellectual freedom, the group eagerly shares their technology with the world. However, as they delve deeper into their experiment, they uncover that their project was secretly funded and manipulated by a sinister organization with far more ambitious goals than simple human enhancement.\n\nThe students must race against time to understand the true nature of the experiment they're trapped in and find a way to break free from the control of their mysterious backers before their consciousness becomes permanently fused or worse.",
+      "core": "The film explores several timely themes relevant to contemporary technological discourse. First, it examines the ethics of technological advancement and the question of whether scientific progress should ever be unrestricted. Second, it delves into questions of consciousness and identity\u2014what does it mean to share one's mind with others, and at what point does individual identity dissolve into collective consciousness?\n\nThe narrative also touches on the potential dark side of transhumanist ideals, suggesting that the pursuit of human enhancement could be co-opted by malevolent forces. The film's portrayal of a secret organization manipulating scientific research for unknown purposes reflects contemporary concerns about technology corporations and surveillance states.\n\nVisually, MindGamers employs a dark, atmospheric aesthetic that emphasizes the tension between the promise of the students' research and the ominous reality of their situation. The quantum computer at the center of the story serves as both a symbol of human ingenuity and a metaphor for the unknown risks inherent in pushing technological boundaries.",
+      "created_at": "2026-03-18 22:40:09"
+    },
+    {
       "title": "Moebius",
       "year": 1996,
       "medium": "Film",
@@ -14349,5 +14366,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 844
+  "count": 845
 }
