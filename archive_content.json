@@ -2840,6 +2840,23 @@
       "created_at": "2026-03-06 06:27:38"
     },
     {
+      "title": "DreamLand: Final Solution",
+      "year": 1999,
+      "medium": "Video Game",
+      "creator": "Top Galaxy",
+      "raw_score": 1.9,
+      "total_ratings": 38,
+      "origin": "Czech-Republic ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "VR, Megacorps",
+      "image_filename": null,
+      "pitch": "DreamLand: Final Solution is a 1999 Czech point-and-click adventure game set in a dystopian near-future where virtual reality has become the dominant form of entertainment. Developed by Top Galaxy, it holds the distinction of being the most expensive Czech video game ever produced at the time, with a development budget of approximately 10 million Czech crowns. Despite its ambitious scope and technical achievements\u2014including being the first Czech adventure to use 3D-rendered backgrounds and advanced lip synchronization\u2014the game was a commercial failure, with only a fraction of its 10,000 copies sold at launch.\n\nThe player takes on the role of journalist Jimi Dix, sent by his editor to investigate the secrets of DreamLand\u2014an orbital space station that offers the most advanced virtual reality entertainment experience available in 2020s Earth. The station, opened in 2016, is prohibitively expensive and shrouded in rumors of customers returning with damaged minds. What begins as an investigative journalism assignment quickly spirals into a journey through seven different virtual worlds, uncovering the dark truths behind this futuristic entertainment empire.",
+      "truth": "The game is set after 2020, in a world where virtual reality has become the primary form of entertainment. The orbital station DreamLand, floating above Earth, offers an unparalleled VR experience\u2014but at a steep price. Customers pay enormous sums to enter its virtual worlds, and whispers persist of people returning with permanent psychological damage.\n\nJimi Dix, a journalist, receives an assignment from his boss to infiltrate DreamLand and uncover whatever secrets the station holds. Upon arrival, he discovers that the station is staffed largely by intelligent monkeys\u2014cyborgs specifically created as cheap labor for the entertainment industry. These bioengineered primates work throughout the facility, their artificial intelligence making them capable of complex tasks but also exploited by the corporation running DreamLand.\n\nAs Jimi explores the station and its seven virtual worlds, he encounters a web of corporate conspiracies, ethical violations, and the dark side of virtual reality addiction. The story explores themes of humanity's relationship with technology, the exploitation of sentient beings, and the blurred lines between reality and simulation. The game's narrative was praised by Czech critics for its atmosphere and ambition, though the high price point and technical issues limited its reception.",
+      "core": "DreamLand: Final Solution represents a fascinating artifact of late-1990s cyberpunk optimism and anxiety. Released in 1999, just before the dot-com boom would bring VR back into the mainstream conversation, the game captures pre-millennial fears about virtual reality's potential to escape human control. The orbital setting\u2014literally removing entertainment from earthly bounds\u2014suggests both the ultimate escapism and the ultimate corporate control.\n\nThe intelligent monkey workers serve as a commentary on labor exploitation and the creation of sentient beings for profit\u2014a theme that would become more prominent in science fiction as discussions of artificial intelligence evolved. This places the game within a lineage of narratives questioning the ethics of creating conscious life for service purposes.\n\nTechnically, DreamLand was groundbreaking for Czech game development. Its use of 3D-rendered backgrounds, extensive voice acting with lip synchronization, and massive scope (65 two-dimensional and 45 three-dimensional screens with approximately 250 dubbed characters) demonstrated that Czech developers could compete with Western productions in terms of ambition, even if not always in execution.\n\nThe game's commercial failure\u2014a fraction of 10,000 copies sold\u2014exemplifies the challenges faced by Eastern European game developers in the 1990s: ambitious visions exceeding market realities. Yet retrospective reviews have been more charitable, with some Czech critics calling it one of the best adventure games the country ever produced, overshadowed by its impractical price tag and limited distribution.",
+      "created_at": "2026-03-18 18:20:56"
+    },
+    {
       "title": "Dreamfall: The Longest Journey",
       "year": 2006,
       "medium": "Video Game",
@@ -14094,5 +14111,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 829
+  "count": 830
 }
