@@ -2925,6 +2925,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Extra Terrestrial Visitors",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Juan Piquer Sim\u00f3n",
+      "raw_score": 1.1,
+      "total_ratings": 4900,
+      "origin": "Spain ,",
+      "mood": "Tense ,",
+      "sub_genres": "Science-Fantasy, Horror ,",
+      "topics": "Aliens",
+      "image_filename": "Extra_Terrestrial_Visitors_1983.jpg",
+      "pitch": "Extra Terrestrial Visitors (Spanish: Los nuevos extraterrestres) is a 1983 Spanish-French science fiction film directed by Juan Piquer Sim\u00f3n. Originally intended as a straightforward horror film about an evil alien on a murderous rampage, the film's American producers demanded script alterations to cash in on the success of Steven Spielberg's E.T. the Extra-Terrestrial, resulting in a bizarre hybrid that features both a child protagonist and a cute alien companion alongside graphic violence and horror elements. This unusual production history gives the film an oddly schizophrenic tone that has made it a cult favorite.",
+      "truth": "The film centers on a group of people who encounter extraterrestrial creatures in the Spanish countryside. The aliens, originally conceived as malevolent monsters, were reworked to include a sympathetic alien child that forms a bond with a human child protagonist. However, the film retains its horror elements with violent murders and creature effects. \n\nThe resulting narrative jumps between family-friendly moments of interspecies friendship and shocking scenes of violence, creating an unintentionally surreal viewing experience. The American release was sometimes titled \"The Unearthling\" and later became famous as part of the Mystery Science Theater 3000 series, where it was lampooned for its tonal inconsistencies and low-budget effects.",
+      "core": "The film's primary significance lies in its unusual production history as a case study in how commercial pressures can warp creative vision. Originally written as a serious horror film, it was retrofitted with E.T.-inspired elements to capitalize on the 1982 blockbuster's success, resulting in a tonal mess that critics have described as bewildering. Yet this same quality has made it a cult favorite among fans of exploitation cinema and bad movie enthusiasts.\n\nDirector Juan Piquer Sim\u00f3n was known for his work in Spanish fantasy and horror films, and this production represents an interesting artifact of the international co-production system of the 1980s, where films were often modified for different markets. The film's status as a \"so bad it's good\" cult classic has ensured its continued visibility decades after its release.",
+      "created_at": "2026-03-18 01:39:47"
+    },
+    {
       "title": "F.P.1",
       "year": 1932,
       "medium": "Film",
@@ -13091,5 +13108,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 770
+  "count": 771
 }
