@@ -8705,6 +8705,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Big, the Bigger, and the Biggest",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Anna Soko\u0142owska",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Poland ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Exploration, Ecology",
+      "image_filename": "The_Big_the_Bigger_and_the_Biggest_1963.jpg",
+      "pitch": "The Big, the Bigger, and the Biggest is a charming Polish children's science fiction film from 1963, directed by Anna Soko\u0142owska. Adapted from a beloved novel by Jerzy Broszkiewicz, the film follows siblings Ika and Groszek as they discover an old pre-war Opel car they name Kapitan. To their amazement, Kapitan is not just any car\u2014it drives autonomously and even speaks to its passengers, presaging modern voice-activated technology. What begins as a modest tale of childhood friendship with a rusty vehicle gradually escalates into an interstellar adventure when Kapitan whisks the children lightyears away to a planet orbiting the star Vega. The film delivers its anti-war message through accessible family storytelling, making it a unique artifact of Cold War-era Polish cinema that balances technological optimism with cautionary themes about humanity's violent past.",
+      "truth": "The story begins in a typical Polish setting where siblings Ika and Groszek encounter the dilapidated but remarkable car they name Kapitan. Unlike ordinary vehicles, Kapitan possesses artificial intelligence\u2014he can drive without a driver, communicate with passengers, and make decisions. The children form a deep bond with the car, using it for adventures around their neighborhood and beyond. Their world expands dramatically when Kapitan reveals his true capabilities: he can travel through space. The children find themselves transported to a distant planet orbiting Vega, where they encounter alien inhabitants who have observed humanity's history, including the atomic bombings of World War II. The aliens are wary of Earth's violent past but give the children a chance to prove humanity has changed. Through their innocence and genuine friendship, Ika and Groszek bridge the gap between Earth's violent history and the aliens' hopes for a peaceful future. The film ends with the children returning home, having learned valuable lessons about trust, peace, and the possibility of redemption.",
+      "core": "The Big, the Bigger, and the Biggest stands as a noteworthy example of socialist-era children's cinema that managed to weave complex themes into accessible storytelling. The film reflects the technological optimism of the 1960s while addressing the era's deep concerns about nuclear warfare and humanity's destructive capabilities. Kapitan functions as both a representation of technological progress and a symbol of the care and attention that can revive even outdated systems\u2014a metaphor that resonated in the Polish context of the time. The children's journey to Vega serves as a moral examination of Earth's violent history, particularly the atomic bombings, presented through the lens of alien observers who have documented humanity's capacity for destruction. The film ultimately argues for hope and redemption, suggesting that the younger generation can learn from past mistakes and build a better future. Visually, the production represents the distinctive aesthetic of Polish Studio Filmowe Kadr, with imaginative set design and special effects that, while modest by contemporary standards, successfully create a sense of cosmic wonder suitable for young audiences while maintaining thematic depth for adult viewers.",
+      "created_at": "2026-03-18 09:51:52"
+    },
+    {
       "title": "The Black Cloud",
       "year": 1957,
       "medium": "Novel",
@@ -13567,5 +13584,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 798
+  "count": 799
 }
