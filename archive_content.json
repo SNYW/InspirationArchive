@@ -9368,6 +9368,23 @@
       "created_at": "2026-03-02 10:29:48"
     },
     {
+      "title": "The Death Trap",
+      "year": 1984,
+      "medium": "Video Game",
+      "creator": "Square (Hironobu Sakaguchi)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Megacorps, Rebellion",
+      "image_filename": "The_Death_Trap_1984.jpg",
+      "pitch": "The Death Trap is a text adventure developed by Square\u2014before they became the legendary studio behind Final Fantasy\u2014making it the first game ever created by one of gaming's most influential developers. Released in Japan for PC platforms in 1984, this obscure title flies under the radar of most gaming history, yet it represents a pivotal moment: the maiden work of Hironobu Sakaguchi, who would go on to define the RPG genre. The game was only released in Japan on NEC and Fujitsu home computers, remaining largely unknown to Western audiences even today.\n\nUnlike typical text adventures of the era, The Death Trap supplemented its text parser with full-screen still images, making it visually distinctive for the genre. The game was notable for being the first Japanese game to allow both Japanese and English text entry during gameplay\u2014a technical innovation that reflected Square's ambition even at this early stage. Two editions existed with different cover art, with the first now considered extremely rare among collectors.",
+      "truth": "Set in the 1980s during an era of heightened Cold War tensions, The Death Trap casts players as Agent Benson, an elite operative sent into the fictional \"B country\" in Eastern Africa. The nation has become a flashpoint in the global struggle over weapons of mass destruction, having kidnapped renowned scientist Dr. Gitanes. B country intends to use the doctor to develop biological weapons that could shift the balance of power in an impending global conflict.\n\nBenson's mission is straightforward but treacherous: infiltrate the hostile nation, locate Dr. Gitanes, and prevent the biological weapons project from reaching completion. The player navigates this tense geopolitical thriller through a text parser interface, inputting commands to explore locations, gather intelligence, and interact with characters\u2014all while evading detection by enemy forces.\n\nThe game spawned a sequel, Will: The Death Trap II (1985), which expanded the story and introduced an alien android named Aisha. That sequel became Square's first commercial hit, selling 100,000 copies in Japan and establishing the company's trajectory toward gaming prominence.",
+      "core": "**Historical Significance:** The Death Trap matters primarily as a historical artifact\u2014it documents the earliest work of a developer who would reshape gaming history. Sakaguchi's transition from this modest Cold War thriller to the expansive fantasy worlds of Final Fantasy represents one of gaming's most dramatic evolution arcs. The game also marks Nobuo Uematsu's earliest involvement with Square, as he was brought in during development to contribute to the project's audio.\n\n**Innovation in Localization:** The game's support for both Japanese and English text input was unusual for 1984 Japanese PC games, which typically used English only to ape Western releases. This dual-language approach foreshadowed Square's later global ambitions.\n\n**Narrative Simplicity:** Unlike the mythic epics Sakaguchi would later create, The Death Trap offers a grounded, political thriller narrative. The Cold War setting and biological warfare premise reflect the anxieties of its era while providing straightforward spy-vs-enemy gameplay.\n\nThe Death Trap remains a footnote in gaming history, but for those interested in the origins of Square's empire, it represents an essential piece of the puzzle\u2014a primitive but ambitious beginning for the studio that would define JRPGs.",
+      "created_at": "2026-03-18 12:20:36"
+    },
+    {
       "title": "The Death of Grass",
       "year": 1956,
       "medium": "Novel",
@@ -13737,5 +13754,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 808
+  "count": 809
 }
