@@ -4081,6 +4081,23 @@
       "created_at": "2026-03-03 23:46:03"
     },
     {
+      "title": "Homunkulus",
+      "year": 1984,
+      "medium": "Animated Short",
+      "creator": "V\u00e1clav Mergl",
+      "raw_score": 3.1,
+      "total_ratings": 35,
+      "origin": "Czechoslovakia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Evolution",
+      "image_filename": "Homunkulus_1984.jpg",
+      "pitch": "Homunkulus is a 1984 Czechoslovak animated short film by animator V\u00e1clav Mergl, created at the legendary Ji\u0159\u00ed Trnka Studio in Prague. This 11-minute experimental work is a surreal, alchemical fever-parable exploring the creation of artificial life. Dedicated to Hieronymus Bosch, the film interprets the medieval alchemists' quest to create a living being from inorganic matter\u2014a homunculus. Mergl uses his distinctive puppet animation style combined with mystical, dreamlike imagery to craft a meditation on the boundaries between artificial and natural being, creation and creator.",
+      "truth": "The film presents a series of striking, symbolically rich images following the alchemical process of creating artificial life. Mergl visualizes the ancient quest of medieval alchemists who sought to synthesize a human-like being from cosmic dust and magical formulations. The narrative unfolds through a cascade of surreal, Bosch-inspired imagery\u2014distorted figures, alchemical apparatus, and mystical transformations that blur the line between creation and destruction. As the homunculus comes into existence, the film explores the consequences of playing god, the nature of consciousness, and the relationship between creator and creation. The film is part of Mergl's broader body of work exploring themes of science, creation, and existential anxiety through the lens of Czech surrealist animation tradition.",
+      "core": "**Alchemical Tradition and Artificial Life:** The film directly engages with the medieval alchemical tradition of creating a homunculus\u2014an artificial human believed to be producible through mystical processes. Mergl updates this esoteric quest for the modern age, questioning whether scientists (or artists) should attempt to create sentient life and what responsibilities come with such creation.\n\n**Czech Surrealist Animation Heritage:** Working within the Ji\u0159\u00ed Trnka Studio tradition, Mergl contributes to a distinctly Czech animation lineage that includes Jan \u0160vankmajer's surrealist works and Trnka's own puppet animations. The film continues the Czech tradition of using fantastic imagery to explore philosophical and existential questions.\n\n**The Artist as Creator:** The homunculus metaphor extends to the artist/creator relationship\u2014the animator breathing life into characters on screen. Mergl's film can be read as a meditation on the nature of artistic creation itself, the power and peril of bringing something into existence, and what happens when creation escapes the creator's intentions.\n\n**Duality of Creation and Destruction:** Throughout the film, creation is intertwined with destruction\u2014the alchemical process that gives life also suggests its opposite. This reflects broader anxieties about technological and scientific progress, particularly relevant in the Cold War context of 1980s Czechoslovakia.",
+      "created_at": "2026-03-18 11:20:07"
+    },
+    {
       "title": "Horror Express",
       "year": 1972,
       "medium": "Film",
@@ -13669,5 +13686,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 804
+  "count": 805
 }
