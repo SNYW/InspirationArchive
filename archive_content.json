@@ -6359,6 +6359,23 @@
       "created_at": "2026-03-01 20:26:42"
     },
     {
+      "title": "Possible Worlds",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "Robert Lepage",
+      "raw_score": 3.3,
+      "total_ratings": 2200,
+      "origin": "Canada ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Memory, Sentience",
+      "image_filename": "Possible_Worlds_2000.jpg",
+      "pitch": "Possible Worlds is a mind-bending 2000 Canadian film adapted from John Mighton's acclaimed stage play, directed by Robert Lepage. The film follows George Barber, a mathematician who experiences strange recurring dreams and keeps encountering the same woman named Joyce at a bar\u2014except in each encounter, she seems to be a different person with different memories. Meanwhile, a neuroscientist is conducting mysterious experiments connected to a serial killer who has been stealing brains from victims. Through these interwoven narratives, the film explores the nature of consciousness, identity, and whether reality is merely one of many possible worlds.",
+      "truth": "George Barber (Tom McCamus) is a mathematician troubled by vivid dreams of a rocky waterfront where strange figures move stones around. In his waking life, he repeatedly meets Joyce (Tilda Swinton) at a local bar\u2014but each time, she has a completely different profession and personality: sometimes a stockbroker, sometimes a scientist, sometimes a stranger who doesn't recognize him.\n\nSimultaneously, detectives investigate a series of murders where victims' brains have been surgically removed. They interview a mysterious neuroscientist (Gabriel Gascon) who claims to be studying consciousness. The investigation leads the detectives to discover that the neuroscientist has been stealing brains to conduct experiments on understanding human consciousness and multiple realities.\n\nGeorge seeks help from a doctor, who is revealed to be the neuroscientist. In the film's climax, George is killed and his brain is removed\u2014kept artificially alive in a machine. Joyce is informed that George's brain still experiences consciousness in a \"discontinuous dream state.\" In the final scene, George and Joyce reunite on the beach, but the red light on the ocean horizon\u2014the symbol of consciousness connection\u2014goes out forever, suggesting Joyce has chosen to end George's artificial existence out of compassion.\n\nThe film suggests that consciousness may exist across multiple parallel realities simultaneously, and that identity itself may be fragmented across these possibilities.",
+      "core": "**Consciousness and Identity:** The film is fundamentally about the nature of consciousness and personal identity. The neuroscientist's experiments suggest that consciousness can exist independently of a living body, while George's fragmented experiences across different \"Joyces\" raise questions about whether identity is fixed or fluid.\n\n**Parallel Worlds as Metaphor:** Though the film deals with parallel universes, it's less interested in science fiction mechanics than in using this concept to explore philosophical questions about choice, destiny, and the multiplicity of self. Each version of Joyce represents a different path George might have taken.\n\n**Robert Lepage's Theatrical Vision:** Lepage brings his background in experimental theater to this film, creating a dreamlike, visually striking atmosphere that blurs the line between reality and imagination. The film won multiple Genie Awards including Best Motion Picture and Best Achievement in Direction.\n\n**Philosophy Meets Science:** The adaptation of John Mighton's play (who was also a mathematician) gives the film a unique intellectual foundation. The film's exploration of consciousness through neuroscience and mathematics creates a cerebral meditation on what it means to be a self-aware being.\n\nPossible Worlds remains one of the more obscure but intellectually ambitious Canadian sci-fi films of the early 2000s, offering a haunting meditation on the boundaries between reality, dreams, and the many versions of ourselves we might become.",
+      "created_at": "2026-03-18 05:07:24"
+    },
+    {
       "title": "Pretty Women Walking Through the City",
       "year": 1986,
       "medium": "Film",
@@ -13278,5 +13295,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 781
+  "count": 782
 }
