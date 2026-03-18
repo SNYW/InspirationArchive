@@ -3299,6 +3299,23 @@
       "created_at": "2026-03-02 09:33:44"
     },
     {
+      "title": "First on the Moon",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Aleksei Fedorchenko",
+      "raw_score": 3.35,
+      "total_ratings": 837,
+      "origin": "Russia ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Memory, Exploration",
+      "image_filename": "First_on_the_Moon_2005.jpg",
+      "pitch": "First on the Moon is a Russian mockumentary that presents itself as a documentary investigation into a sensational secret: that the Soviet Union achieved a crewed Moon landing in 1938, years before the historical Space Race. The film follows journalists in 2000 as they uncover documents and interview witnesses about this hidden chapter of Soviet history. The film was the directorial debut of Aleksei Fedorchenko and won multiple international awards at festivals including Venice and Warsaw. Part fictional history, part meditation on state mythology, the film blurs the line between fact and fabrication with remarkable skill.",
+      "truth": "Around the year 2000, a group of journalists discovers highly classified documents suggesting that before World War II, in 1938, the Soviet Union built a rocket and sent a cosmonaut to the Moon. The evidence is tantalizing: training facility records, medical reports, and witness testimonies. The film follows the selection and training of cosmonaut Captain Ivan Sergeyevich Kharlamov, who is chosen for the historic mission. The rocket launches toward the Moon, but contact is suddenly lost.\n\nThe narrative then shifts to the aftermath. With Stalin's purges sweeping through the Soviet program, the entire project is shut down and all records sealed. Kharlamov apparently returns to Earth but disappears\u2014presumably executed or sent to a labor camp. The film presents various suspects as potential identities of the missing cosmonaut, with the NKVD conducting a criminal investigation. Evidence suggests Kharlamov's capsule landed in Chile, and he eventually made his way to the Mongolian steppes, where he was found suffering from severe traumatic brain injury. He disappears after psychiatric treatment.\n\nThe film ends with the alleged discovery of footage from the mission itself\u2014stills and brief film clips showing Kharlamov piloting the capsule and walking on the lunar surface. These \"archival\" images are presented as proof of the secret mission, leaving the viewer uncertain what to believe.",
+      "core": "First on the Moon operates as a mockumentary\u2014fictional filmmaking in documentary format\u2014exposing how state mythology gets constructed and how easily history can be manipulated. By setting its fiction in the 1930s Soviet Union, the film taps into the era of the Great Purge, when thousands disappeared into the machinery of the state, their achievements erased and their names forgotten. The fictional cosmonaut becomes a symbol of all those victims: heroes erased from history.\n\nThe film also comments on how nations construct narratives about their past. The Soviet Union was famous for rewriting history, for erasing enemies and elevating heroes. The film's investigation suggests that perhaps they also invented heroes\u2014perhaps the greatest national achievement of all was itself a fabrication. This meta-layer invites viewers to question not only the film's fictional history but the real histories their own nations have constructed.\n\nFedorchenko's direction deliberately mimics documentary conventions\u2014grainy footage, talking-head interviews, archival documents\u2014to create verisimilitude. The film won the Venice Horizons Best Film Award in 2005, establishing Fedorchenko as a significant new voice in Russian cinema. The film remains a haunting meditation on memory, history, and the stories nations tell themselves about their past.",
+      "created_at": "2026-03-18 12:34:37"
+    },
+    {
       "title": "Five Star Stories",
       "year": 1986,
       "medium": "Manga",
@@ -13754,5 +13771,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 809
+  "count": 810
 }
