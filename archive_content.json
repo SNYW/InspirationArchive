@@ -5254,6 +5254,23 @@
       "created_at": "2026-03-06 09:56:36"
     },
     {
+      "title": "Le Prix du Danger",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Yves Boisset",
+      "raw_score": 3.35,
+      "total_ratings": 1800,
+      "origin": "France ,",
+      "mood": "Tense ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Megacorps, Rebellion",
+      "image_filename": "Le_Prix_du_Danger_1983.jpg",
+      "pitch": "Le Prix du Danger (The Price of Danger) is a 1983 French-Yugoslav science fiction film based on Robert Sheckley's 1958 short story \"The Prize of Peril.\" Set in the near future, the film presents a chilling vision of entertainment industry exploitation and media manipulation. A popular TV show hosted by the charismatic Fr\u00e9d\u00e9ric Mallaire features contestants who must run for their lives while being hunted by volunteer killers, all for the chance to win a million dollars. The film explores how far society will go for ratings, and the moral compromises made in the name of entertainment.",
+      "truth": "In the near future, the television network CTV has created \"Le Prix du Danger\" (The Price of Danger), a deadly game show where contestants are pursued by hired killers across various terrains. The show is a massive ratings success, with viewers Tuning in to watch ordinary people run for their lives.\n\nFran\u00e7ois Jacquemard, desperate for money, volunteers to be the next contestant. Initially believing he has a fair chance, Fran\u00e7ois soon discovers the horrifying truth: the show is rigged. The network deliberately helps contestants survive just long enough to maximize audience engagement, only to allow them to die in dramatic fashion at the end. The CEO Antoine Chirex and his right-hand woman Laurence Ballard manipulate the outcomes to ensure maximum viewer numbers.\n\nAs Fran\u00e7ois runs for his life through the dangerous course, he must not only survive the physical threats but also outwit the system designed to kill him. The film builds to a confrontation between Fran\u00e7ois and the show's creators, questioning whether any individual can truly challenge such a corrupted system.",
+      "core": "The film is a prescient exploration of reality television, media manipulation, and the ethical boundaries of entertainment. Written and released in 1983, it anticipated the later development of extreme reality TV shows and the sometimes lethal competition formats that would emerge decades later. The film draws on Robert Sheckley's original short story's critique of television violence and audience complicity.\n\nThe dystopian elements center on a world where corporations have complete control over entertainment and are willing to kill for ratings. The show hosts and producers represent a new kind of villain\u2014not politically motivated, but purely profit-driven, willing to sacrifice human lives for audience numbers. This critique of commercial media remains relevant as entertainment continues to push ethical boundaries.\n\nThe French-Yugoslav co-production approach reflects the international nature of these concerns, with the film being produced during a period when both countries were dealing with varying degrees of media censorship and commercial pressure. The film stands as a European alternative to Hollywood's approach to similar themes, offering a more cynical and politically aware perspective on media and violence.",
+      "created_at": "2026-03-19 06:56:23"
+    },
+    {
       "title": "Le Vingti\u00e8me si\u00e8cle. La vie \u00e9lectrique",
       "year": 1891,
       "medium": "Novel",
@@ -14774,5 +14791,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 869
+  "count": 870
 }
