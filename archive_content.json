@@ -2670,6 +2670,23 @@
       "created_at": "2026-03-07 00:12:03"
     },
     {
+      "title": "Dead Space",
+      "year": 2023,
+      "medium": "Video Game",
+      "creator": "Motive Studio / Electronic Arts",
+      "raw_score": 4.25,
+      "total_ratings": 150,
+      "origin": "USA ,",
+      "mood": "Tense ,",
+      "sub_genres": "Horror, Science-Fantasy ,",
+      "topics": "Isolation, Aliens",
+      "image_filename": "Dead_Space_2023.jpg",
+      "pitch": "Dead Space (2023) is a survival horror remake of the 2008 classic, developed by Motive Studio and published by Electronic Arts. Set aboard the USG Ishimura, a massive planetary mining ship orbiting the planet Aegis VII, the game follows engineer Isaac Clarke as he investigates the ship's mysterious distress signal. What he discovers is a nightmare: the crew has been transformed into deadly Necromorphs\u2014reanimated corpses mutated by an alien artifact known as the Marker. Combining intense survival horror with science fiction world-building, the remake rebuilds the original from the ground up using the Frostbite engine, delivering seamless exploration, enhanced zero-gravity gameplay, and a more immersive narrative experience.",
+      "truth": "The remake expands on the original with full voice acting for Isaac (who was silent in the 2008 version), improved zero-gravity traversal using thrusters, an expanded narrative, and no loading screens thanks to SSD technology. The game also features the \"peeling\" system allowing players to dismember Necromorphs more thoroughly, and introduces new story elements that deepen the lore.",
+      "core": "**Isolation and Mental Breakdown:** Like its predecessor, Dead Space (2023) explores themes of isolation and psychological deterioration. Isaac Clarke is alone in the most literal sense\u2014separated from his crew, trapped aboard a ship filled with monsters, and haunted by hallucinations induced by the Marker. The game forces players to manage not just ammunition and health but also Isaac's mental state through environmental storytelling and audio logs.\n\n**Corporate Greed and Scientific Hubris:** The Concordance Extraction Corporation (CEC) prioritized profit over caution, bringing the Marker aboard the Ishimura despite warnings. This theme of corporations ignoring existential risks for financial gain resonates with contemporary concerns about unchecked technological and scientific advancement.\n\n**Faith vs. Reason:** The Church of Unitology represents religious extremism twisted by alien technology. The Marker functions as both a religious artifact and a biological weapon\u2014a commentary on how faith can be weaponized and how the unknown can be co-opted by those seeking power.\n\n**Body Horror and Transformation:** The Necromorphs represent a unique take on the zombie genre\u2014they're not simply undead but rather reanimated through alien biotechnology. The transformation of familiar human forms into monstrous creatures explores themes of losing humanity and the horror of bodily violation.\n\nThe 2023 remake was critically acclaimed for its faithful recreation of the original's atmosphere while leveraging modern technology. However, it reportedly failed to meet EA's sales expectations, raising questions about the viability of single-player horror games in the current market. Despite this, the game stands as a benchmark for survival horror remakes and a testament to the enduring power of the original 2008 classic.",
+      "created_at": "2026-03-19 10:10:15"
+    },
+    {
       "title": "Death Machine",
       "year": 1994,
       "medium": "Film",
@@ -14927,5 +14944,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 878
+  "count": 879
 }
