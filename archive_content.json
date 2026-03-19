@@ -3843,6 +3843,23 @@
       "created_at": "2026-03-06 00:11:41"
     },
     {
+      "title": "Galaxy Express 999",
+      "year": 1977,
+      "medium": "Manga",
+      "creator": "Leiji Matsumoto",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Space-Opera ,",
+      "topics": "Transhumanism, Isolation",
+      "image_filename": "Galaxy_Express_999_1977.jpg",
+      "pitch": "Galaxy Express 999 is a seminal Japanese space opera manga and anime series created by Leiji Matsumoto, running from 1977 to 1981. Set in a distant future where humanity has developed the technology to transfer consciousness into mechanical bodies\u2014achieving practical immortality\u2014the story follows young Tetsuro Hoshino, who seeks a machine body so he can afford to live forever and escape the poverty that killed his mother. Along his journey aboard the Galaxy Express 999, a train that travels through space to the Andromeda galaxy, Tetsuro encounters Maetel, a mysterious woman who offers him an unlimited pass in exchange for his companionship. Their adventures across various planets reveal the harsh truths of a universe where mechanical bodies have created a new class system between humans and machines, questioning whether eternal life truly equals freedom.",
+      "truth": "The series begins with Tetsuro and his mother traveling to Megalopolis to earn money for passage on the Galaxy Express 999, the legendary train that only visits Earth once a year. Before they can board, Count Mecha and his \"human hunters\" kill Tetsuro's mother. Dying, she tells her son to continue alone and obtain a machine body so he can live the eternal life she couldn't. After nearly dying in the cold of space, Tetsuro is rescued by Maetel, a beautiful woman who bears an uncanny resemblance to his late mother. She offers him an unlimited pass for the 999 if he'll be her traveling companion.\n\nAs they journey through the galaxy, Tetsuro and Maetel visit numerous planets, each revealing different aspects of the machine civilization. They eventually reach Planet Promethium, the final stop, where Tetsuro discovers that machine bodies require energy drained from living humans. The Machine Empire maintains its power by harvesting human life force. When Tetsuro confronts Maetel about her deception, she reveals she is Queen Promethium's daughter and ultimately helps destroy the mechanized civilization.\n\nThe anime series expanded this story across 113 episodes, with films in 1979 and 1981 continuing the narrative. The 1979 film focuses on Tetsuro and Maetel's journey to the Machine Empire's home planet, while the 1981 sequel \"Adieu Galaxy Express 999\" shows the aftermath and Tetsuro's maturation as a freedom fighter.",
+      "core": "Galaxy Express 999 explores the philosophical implications of transhumanism\u2014asking what humanity means when bodies can be replaced by machines. The machine people Tetsuro encounters throughout his journey often regret their decision to mechanize, suggesting that immortality comes at the cost of something essential to human experience. The series presents a critique of technological progress that doesn't simply celebrate innovation but interrogates its costs.\n\nThe train itself is a central symbol\u2014representing a journey through life with a fixed destination but unknown outcomes. The Galaxy Express 999 draws from Kenji Miyazawa's \"Night on the Galactic Railroad,\" using the train motif to explore themes of mortality, companionship, and the passage between life and death. The series is fundamentally melancholic, viewing the universe as beautiful but tinged with loss.\n\nMatsumoto's work also addresses class and economic inequality\u2014Tetsuro's quest for a machine body stems from poverty, and the machine civilization creates new hierarchies between those who can afford mechanization and those who cannot. The series asks whether changing one's body changes one's soul, and whether true freedom is possible in a system designed to exploit both humans and machines.",
+      "created_at": "2026-03-19 04:05:49"
+    },
+    {
       "title": "Gall Force: Eternal Story",
       "year": 1986,
       "medium": "Anime",
@@ -14621,5 +14638,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 860
+  "count": 861
 }
