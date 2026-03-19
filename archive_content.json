@@ -579,6 +579,23 @@
       "created_at": "2026-03-02 00:46:52"
     },
     {
+      "title": "Aerograd",
+      "year": 1935,
+      "medium": "Film",
+      "creator": "Oleksandr Dovzhenko",
+      "raw_score": 3.0,
+      "total_ratings": 530,
+      "origin": "Soviet-Union ,",
+      "mood": "Tense ,",
+      "sub_genres": "Military ,",
+      "topics": "Exploration",
+      "image_filename": "Aerograd_1935.jpg",
+      "pitch": "Aerograd is a 1935 Soviet drama film by renowned Ukrainian director Oleksandr Dovzhenko, set in the Soviet Far East in the near future. The film depicts a newly established Russian outpost called Aerograd\u2014an airfield of vital strategic importance\u2014in the Siberian wilderness near the Japanese border. As the Soviet government works to develop this remote frontier, tensions rise with neighboring Japan, threatening military conflict. The story follows the workers and military personnel stationed at this remote outpost as they face both the challenges of building a new society in harsh conditions and external threats from Japanese forces. This patriotic adventure film was produced at Mosfilm and VUFKU studios during a period of increasing international tension in the 1930s, reflecting the Soviet era's anxieties about national defense and territorial expansion.",
+      "truth": "The film is set in the Soviet Far East, where a new town called Aerograd (also translated as \"Air City\" or \"Frontier\") has been constructed around a strategically vital airfield. The narrative centers on the development of this remote outpost and the people stationed there, including workers, military personnel, and settlers. The story highlights the tension between the Soviet establishment and a religious sect operating in the region, whose members threaten to ally with Japanese samurai warriors who battle for control of the territory.\n\nAs the film progresses, the external threat from Japan intensifies, mirroring the real-world tensions between the Soviet Union and Japan in the 1930s, including the aftermath of the Russo-Japanese War of 1905. The Japanese forces pose a military threat to the Soviet Far East, and the Aerograd outpost becomes a crucial defensive position. The film depicts how the Soviet people unite to defend their territory, with airplanes from across the country coming to the aid of the beleaguered outpost during the climactic conflict. The narrative emphasizes themes of patriotic duty, collective defense, and the strategic importance of the eastern frontier.",
+      "core": "Aerograd represents an interesting example of early Soviet science fiction and dystopian cinema, portraying a future scenario that reflects the geopolitical anxieties of its era. The film can be seen as a response to the mounting tensions in East Asia and the Soviet Union's efforts to secure its eastern borders. Dovzhenko, better known for his art cinema masterpieces like Earth and Arsenal, approaches this more populist genre piece with his distinctive visual sensibility, though the film operates within the conventions of Soviet propaganda cinema.\n\nThe film's depiction of a frontier society under threat reflects broader themes of Soviet modernity and territorial expansion. Aerograd represents the cutting edge of Soviet civilization being pushed into previously uninhabited wilderness\u2014a manifestation of the Soviet drive to develop and claim remote territories. The threat from Japan serves as both a realistic geopolitical concern and a narrative device to emphasize the importance of collective vigilance and military preparedness.\n\nAerograd is notable as one of the earliest examples of Soviet science fiction cinema, predating more famous examples like Star Wars-inflected space operas and offering instead a terrestrial, politically engaged vision of the future. The film's blend of adventure narrative, frontier mythology, and patriotic messaging makes it a unique artifact of 1930s Soviet culture, reflecting the era's emphasis on industrialization, military strength, and territorial defense.",
+      "created_at": "2026-03-19 00:23:13"
+    },
+    {
       "title": "After Yang",
       "year": 2021,
       "medium": "Film",
@@ -14434,5 +14451,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 849
+  "count": 850
 }
