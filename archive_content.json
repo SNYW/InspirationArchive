@@ -6869,6 +6869,23 @@
       "created_at": "2026-03-02 02:47:28"
     },
     {
+      "title": "Planets Against Us",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Romano Ferrara (Director)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Italy ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Horror ,",
+      "topics": "Aliens, Cybernetics",
+      "image_filename": null,
+      "pitch": "Planets Against Us (original Italian: I pianeti contro di noi) is a 1962 Italian-French science fiction horror film directed by Romano Ferrara. The film tells the story of an alien invasion where cyborgs disguised as humans infiltrate Earth, appearing identical to a missing young man named Robert Landersen. When atomic rockets begin failing mysteriously worldwide, authorities discover that identical-looking beings are behind the attacks\u2014cylindrical skeletons beneath human skin, controlled from a flying saucer. The film is notable for featuring planned invasion by cyborgs rather than the common trope of aliens inhabiting or duplicating humans.",
+      "truth": "The film opens with a plane crash in the Sahara desert carrying atomic scientist Professor Landersen and his son Robert\u2014everyone dies, but Robert's body is never found.\n\nSoon after, several rocket launches fail disastrously worldwide, each time with the mysterious Robert Landersen spotted at the launch sites at exactly the same moment before vanishing. Suspicious authorities launch a worldwide manhunt.\n\nIn Rome, artist Audrey Bradbury encounters the mysterious man, who calls himself \"Bronco.\" He's strangely attracted to a portrait of her friend Marina Ferri. At a party, Bronco meets Marina and uses mind control on her. When police intervene, Bronco touches an officer, who instantly dies. Later, when Audrey tries to kiss Bronco, he makes her crumble to dust upon discovering what he believes is her betrayal.\n\nBronco is drawn back to Marina, revealing he's not human\u2014he warns that humanity will repeat his planet's atomic destruction. He uses mind control to make Marina forget and takes her to meet Professor Borri, who develops a paralysing gas. Police X-ray Bronco and discover a metallic skeleton beneath synthetic skin\u2014they realize the beings are all clones of Robert Landersen, sent to invade Earth and find a new home.\n\nThe film climaxes with a car chase through Rome involving the Italian army. A police ray gun seriously injures Bronco, and a flying saucer retrieves him, leaving only melted metal and rags. The film ends with a direct appeal to the audience: other alien beings lurk among us, ready to take over Earth.",
+      "core": "**Cyborg Invasion Tropes:** Planets Against Us stands out for its early use of cyborg invaders rather than biological aliens. The beings are revealed to have metallic skeletons beneath synthetic flesh\u2014a literal merging of machine and organism that predates many later explorations of the theme in 1970s and 1980s cinema.\n\n**Cold War Paranoia:** The film reflects 1960s atomic age anxieties\u2014failed rocket launches, the fear of infiltration, and the constant threat of destruction. The direct address to the audience warning about aliens \"lurking among us\" captures the paranoid atmosphere of the Cold War era.\n\n**Mind Control and Identity:** The film explores themes of identity through the double: Is Bronco really Robert Landersen, or just using his form? The mind control elements add another layer\u2014can anyone be trusted when thoughts can be manipulated?\n\n**Italian Sci-Fi Horror:** Part of a wave of Italian sci-fi films from the early 1960s, the film blends science fiction with horror elements, creating an atmospheric thriller that predates the more famous American productions of the late 1960s and 1970s.",
+      "created_at": "2026-03-19 03:11:04"
+    },
+    {
       "title": "Poklad",
       "year": 1984,
       "medium": "Video Game",
@@ -14553,5 +14570,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 856
+  "count": 857
 }
