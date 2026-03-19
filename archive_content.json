@@ -13075,6 +13075,23 @@
     },
     {
       "title": "The Time Machine",
+      "year": 1895,
+      "medium": "Novella",
+      "creator": "H.G. Wells",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia, Post-Apocalypse ,",
+      "topics": "Time-Travel, Evolution, Isolation",
+      "image_filename": "The_Time_Machine_1895.jpg",
+      "pitch": "The Time Machine is an 1895 dystopian novella by H.G. Wells that popularized the concept of time travel through the story of a Victorian scientist who journeys to the year 802,701. The Time Traveller discovers humanity has split into two species: the gentle, childlike Eloi who live above ground in utopian ease, and the brutal Morlocks who dwell underground and prey upon the Eloi. Through his journey into both the distant future and past, the Time Traveller witnesses the ultimate decline of civilization as the Earth cools and life dies. The novella is credited with coining the term \"time machine\" and remains one of the foundational works of science fiction, exploring themes of social stratification, evolutionary divergence, and the fate of humanity.",
+      "truth": "The story begins in Victorian England where the Time Traveller demonstrates a small model of his time machine to skeptical dinner guests before vanishing for a week. He returns exhausted and recounts his extraordinary journey into the future.\n\nThe Time Traveller arrives in the year 802,701 where he encounters the Eloi, small, androgynous beings living in carefree simplicity within crumbling futuristic buildings. They have no curiosity, no discipline, and fear the darkness. The Traveller's time machine is stolen by the Morlocks, ape-like creatures who live underground and emerge only at night. He discovers the Morlocks actually maintain the machinery that supports the Eloi's effortless lifestyle\u2014and they feed on the Eloi.\n\nAfter rescuing an Eloi named Weena from drowning, the Traveller explores a ruined museum called the Palace of Green Porcelain where he finds matches and weapons. He recovers his machine from the Morlocks, who trap him in the Sphinx, but he escapes by traveling further forward through time.\n\nIn the far future, the Traveller witnesses the death of Earth itself\u2014giant crabs on red beaches, a dying red sun, and finally complete silence as all life ends. He returns to his own time, three hours after he left, but his beloved Weena is gone, and he departs on another journey from which he never returns.",
+      "core": "**Social Class and Evolutionary Divergence:** Wells projects Victorian England's class divisions into evolutionary futures. The Eloi represent the idle upper classes who have devolved into helpless, pleasure-seeking creatures, while the Morlocks\u2014working underground\u2014have become savage predators. This is Wells's commentary on the unsustainable nature of class-based societies.\n\n**Time as Dystopia:** Rather than presenting time travel as adventure, Wells uses it to show that the future holds not progress but decline. The Time Traveller's era is already past its peak; civilization is in slow collapse. This was radical for 1895, challenging Victorian optimism about progress.\n\n**The New Wave Precursor:** Though written decades before the New Wave, The Time Machine exemplifies its concerns\u2014speculative evolution, social critique, the quotidian details of future societies, and the absence of heroic solutions. The Traveller cannot save the Eloi or prevent the Earth's death.\n\n**Influence:** The novella coined \"time machine\" and established time travel as a central science fiction concept. Its dystopian future and evolutionary themes influenced generations of writers, from Orwell's 1984 to countless post-apocalyptic works.\n\n**Victorian Anxiety:** Wells wrote during intense debates about social reform, degeneration theory, and fears of imperial decline. The Time Machine reflects anxieties about what happens when societal structures fail\u2014whether through complacency (Eloi) or revolution (Morlocks).",
+      "created_at": "2026-03-19 07:51:42"
+    },
+    {
+      "title": "The Time Machine",
       "year": 1960,
       "medium": "Film",
       "creator": "George Pal",
@@ -14842,5 +14859,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 873
+  "count": 874
 }
