@@ -11884,6 +11884,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Omega Man",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Boris Sagal (Director), Richard Matheson (Author)",
+      "raw_score": 3.2,
+      "total_ratings": 36000,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Pandemic, Isolation",
+      "image_filename": "The_Omega_Man_1971.jpg",
+      "pitch": "The Omega Man is a 1971 American post-apocalyptic action film starring Charlton Heston as the sole survivor of a devastating pandemic. Set in a desolate Los Angeles of the near-future, the film follows Robert Neville, a scientist who believes he is the last immune person after a biological weapon wipe out most of humanity. Based on Richard Matheson's influential 1954 novel \"I Am Legend,\" this was the second adaptation of the source material, following 1964's \"The Last Man on Earth.\" The film blends action elements with horror as Neville battles the Family, a cult of nocturnal albino mutants who hunt him through the ruins of the city.",
+      "truth": "In March 1975, a Sino-Soviet border conflict escalates into full-scale biological warfare that destroys most of humanity. U.S. Army Col. Robert Neville, a scientist based in Los Angeles, tests various vaccines but as he begins to succumb to the plague, he injects himself with an experimental vaccine that renders him immune.\n\nBy August 1977, Neville believes he is the last survivor. Each day, he patrols the deserted Los Angeles, hunting and killing members of \"the Family,\" a cult of plague victims who survived but were rendered homicidal nocturnal albino mutants. The Family, who have rejected technology as the cause of the war, use archaic weaponry and siege warfare to try to extract Neville from his fortified apartment building.\n\nOne day, Neville spots a healthy woman in a department store who flees from him. He later finds the corpse of a Family member and realizes the final stage of the disease will kill them all. Eventually, the Family captures Neville and subjects him to a summary trial, condemning him for spreading the disease that created them.",
+      "core": "**The Last Man and Monstrous Other:** The Omega Man explores the theme of becoming the \"other\" through isolation. Neville, once a \"normal\" human, has become something monstrous to the Family\u2014a godlike figure who carries the plague that created them. This inverts the vampire mythology: in Matheson's novel, humans become the monsters that vampires fear. The film suggests that survival itself can transform a person into something alien to humanity.\n\n**Technology and Blame:** The Family's rejection of modern technology provides a commentary on humanity's relationship with its creations. They blame science and industry for the war that destroyed civilization, choosing to live without the very tools that might help them survive. This reflects anxieties about technological progress and the dual-use nature of scientific advancement.\n\n**Solitude and Sanity:** Neville's struggle to maintain his sanity in complete isolation mirrors the novel's exploration of loneliness. His daily routines, his conversations with mannequins, and his use of the laboratory represent the human need for connection and purpose even when all others are gone.\n\nThe Omega Man was notable for being one of the first major Hollywood films to tackle pandemic themes, predating the outbreak genre's more recent resurgence. Its adaptation of \"I Am Legend\" helped establish the template for post-apocalyptic survival narratives that would become a staple of science fiction cinema.",
+      "created_at": "2026-03-19 00:08:29"
+    },
+    {
       "title": "The Ones Who Walk Away from Omelas",
       "year": 1973,
       "medium": "Short Story",
@@ -14417,5 +14434,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 848
+  "count": 849
 }
