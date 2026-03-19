@@ -10865,6 +10865,23 @@
     },
     {
       "title": "The Girl Who Leapt Through Time",
+      "year": 1967,
+      "medium": "Novella",
+      "creator": "Yasutaka Tsutsui",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Time-Travel ,",
+      "topics": "Time-Travel",
+      "image_filename": "The_Girl_Who_Leapt_Through_Time_1967.jpg",
+      "pitch": "The Girl Who Leapt Through Time is a groundbreaking Japanese science fiction novella that pioneered the time-travel genre in Japanese literature. The story follows Makoto Konno, a rebellious high school girl in 1960s Japan who accidentally discovers she can leap through time after a mysterious encounter at her school. Each time she uses her new ability, she finds herself transported to different moments in her life, allowing her to undo mistakes and relive pivotal days. However, she soon learns that changing the past has unintended consequences, and every leap takes something precious away from her. Tsutsui's novella is notable for its blend of whimsical teenage drama with philosophical questions about fate, free will, and the responsibility that comes with power. The story became a cult classic and was eventually adapted into multiple films, anime, and manga, but the original novella remains a landmark work of Japanese speculative fiction.",
+      "truth": "The novel begins with Makoto Konno, a bright but directionless teenage girl in 1960s Tokyo, who fails an important exam and injures her lip in a collision with a strange man at school. That evening, she experiences a series of inexplicable phenomena\u2014a cat that appears to speak to her and a mysterious glow in her classroom\u2014and she suddenly finds herself able to leap backward in time. At first, Makoto uses her new power frivolously, redoing embarrassing moments and trying to improve her grades. However, her repeated interventions begin to unravel the fabric of reality around her. She discovers that each leap costs someone their memories or their existence; her best friend Chi increasingly fails to recognize her, and Makoto realizes she is erasing people from the timeline. The story culminates in Makoto's realization that she must stop using her power entirely, accepting her imperfect life as it is rather than trying to perfect it. The novella ends with Makoto choosing to remain in the present, having learned that the present\u2014flaws and all\u2014is worth living fully. The emotional core of the story lies in its meditation on growing up, accepting responsibility for one's choices, and understanding that time, once spent, cannot be recovered.",
+      "core": "The Girl Who Leapt Through Time is fundamentally a coming-of-age story wrapped in science fiction packaging. Tsutsui uses time travel not for adventure or spectacle but as a metaphor for the universal adolescent experience of wanting to undo mistakes and control one's fate. Makoto's journey represents the painful process of accepting imperfection\u2014both in oneself and in life\u2014as a necessary step toward maturity. The novella predates similar Western works like Groundhog Day by decades and established templates for time-loop narratives that would become staples of the genre.\n\nThe work also reflects Tsutsui's signature themes: dark humor, satirical social commentary, and explorations of Japanese societal pressures on youth. Though the 1960s setting is firmly of its time, the novella's themes of teenage alienation, educational pressure, and the desire to escape one's circumstances remain universally resonant. The story's influence extends far beyond Japan; its basic premise has been adapted repeatedly in various media, testament to the strength of its central concept. Tsutsui's treatment of time as something that can be manipulated but never fully controlled carries philosophical weight, questioning whether knowledge of the future would truly make us happier\u2014or merely burden us with impossible choices.",
+      "created_at": "2026-03-19 09:10:25"
+    },
+    {
+      "title": "The Girl Who Leapt Through Time",
       "year": 2006,
       "medium": "Anime Film",
       "creator": "Mamoru Hosoda (Director), Yasutaka Tsutsui (Original Novel)",
@@ -14876,5 +14893,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 875
+  "count": 876
 }
