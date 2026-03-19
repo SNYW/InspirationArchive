@@ -12853,6 +12853,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Secret of Two Oceans",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "Konstantine Pipinashvili (Director), Grigory Adamov (Novel)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Russia ,",
+      "mood": "Tense ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Exploration, Isolation",
+      "image_filename": null,
+      "pitch": "The Secret of Two Oceans is a 1956 Soviet science-fiction adventure film based on Grigory Adamov's 1939 novel of the same name. The film follows the crew of the top-secret Soviet submarine Pioneer as they investigate mysterious sinkings of both Soviet and French vessels in the Atlantic and Pacific Oceans. Amidst their investigation, a foreign agent infiltrates the submarine impersonating its chief engineer, planning to destroy it with a timed bomb. The Soviet security operatives onboard must thwart the spy's plans while uncovering an automated enemy military base launching magnetic torpedoes. Combining submarine adventure with spy thriller elements, this film represents Soviet science fiction cinema at its peak Cold War-era production.",
+      "truth": "The story begins when the Soviet ship Arktika mysteriously sinks in the Atlantic Ocean, followed by the explosion of the French vessel Victoire in the Pacific. The Soviet Navy dispatches the top-secret submarine Pioneer, equipped with advanced technology and unparalleled capabilities, to investigate these disasters.\n\nLed by Captain Vorontsov, the crew of the Pioneer undertakes a dangerous mission to uncover the causes of the sinkings. During the investigation, they discover that the disasters were caused by an automated enemy military base hidden beneath the ocean depths that launches magnetic torpedoes at passing ships.\n\nComplicating matters, a foreign agent has infiltrated the submarine by impersonating its chief engineer. This spy plans to destroy the Pioneer with a timed bomb. Soviet security operatives onboard and on land work to identify and neutralize the threat while the submarine continues its mission.\n\nThe pursuit leads to the discovery of the automated military base, which is ultimately neutralized by the Pioneer crew. The spy's plans are thwarted, ensuring the submarine's survival and mission success. The film ends with the crew returning home as heroes, having protected Soviet waters from the hidden threat.",
+      "core": "**Cold War Adventure Cinema:** The Secret of Two Oceans represents Soviet cinema's contribution to the science fiction adventure genre during the Cold War. The film combines typical Soviet submarine adventure tropes with elements of spy thriller fiction, reflecting the paranoid atmosphere of the era while presenting Soviet heroes as competent professionals defending against Western aggression.\n\n**Technology and Modernity:** The film showcases Soviet technological achievements through the advanced capabilities of the Pioneer submarine, presenting it as superior to any Western counterpart. The antagonist is portrayed as a hidden technological threat\u2014an automated military base representing the dangers of militarized technology falling into the wrong hands.\n\n**National Pride and Naval Power:** The film emphasizes Soviet naval prowess and the bravery of submarine crews. The protagonist crew members are portrayed as patriotic professionals dedicated to protecting their nation, reflecting Soviet propaganda values of the period while delivering an entertaining adventure narrative.\n\n**Post-War Reconstruction Context:** Released in 1956-1957, the film emerged during a period of continued Cold War tension and Soviet technological advancement. The narrative's focus on hidden threats and the need for constant vigilance mirrors the geopolitical anxieties of the era while providing audiences with a fantasy of Soviet technological and moral superiority.",
+      "created_at": "2026-03-19 10:38:34"
+    },
+    {
       "title": "The Ship Who Sang",
       "year": 1969,
       "medium": "Novel",
@@ -14961,5 +14978,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 880
+  "count": 881
 }
