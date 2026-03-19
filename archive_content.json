@@ -8127,6 +8127,23 @@
       "created_at": "2026-03-01 23:05:57"
     },
     {
+      "title": "Space Invaders",
+      "year": 1978,
+      "medium": "Video Game",
+      "creator": "Tomohiro Nishikado",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Aliens",
+      "image_filename": "Space_Invaders_1978.jpg",
+      "pitch": "Space Invaders is a seminal arcade shooter game released in 1978 by Taito in Japan. The player controls a laser cannon at the bottom of the screen, defending Earth from descending rows of alien invaders. The game features several rows of enemies that slowly descend while firing back at the player, creating a tense battle of attrition. As players destroy aliens, the remaining enemies speed up, and each wave becomes progressively harder. The game popularized the fixed shooter genre and became one of the most influential games in history, helping launch the video game industry.",
+      "truth": "The player controls a mobile laser cannon that moves horizontally along the bottom of the screen. Above, a grid of alien invaders marches left and right, periodically dropping bombs toward the player. The player can move left and right and fire a single shot upward at a time. When all aliens in a row are destroyed, the remaining rows shift down and increase speed. Destroying all aliens advances to the next wave, with each wave featuring faster, more aggressive enemies.\n\nThe game originally featured four rows of eleven aliens each, for a total of 44 enemies. The aliens are depicted as pixelated crustacean-like creatures, and the player's laser cannon is a simple triangular ship. The game includes protective barriers that slowly degrade when hit by either player or alien fire, requiring players to choose their positioning carefully.\n\nThe title \"Space Invaders\" reflects the Cold War era themes of the time - alien invasion as an otherized threat mirrors anxieties about nuclear war and foreign enemies. The steadily increasing difficulty creates a Sisyphean quality - the player can never truly \"win,\" only survive as long as possible against an inexorable advance.",
+      "core": "Space Invaders is significant for several reasons beyond its gameplay. It was one of the first games to feature enemy AI that responds to player actions - the aliens don't just move randomly, they respond to the player's position and timing. This made it a landmark in artificial intelligence in gaming.\n\nThe game also pioneered the concept of \"high score\" culture in gaming. The increasing difficulty and endless nature of the game made it perfect for competition, and players would compete to achieve the highest score, establishing a core gaming motivation that persists today.\n\nCommercially, Space Invaders was transformative. In Japan, it generated $600 million in revenue (inflation-adjusted, over $2 billion today) and in the US it popularized video games in arcades, helping establish gaming as a mainstream entertainment medium. It also established the template for countless shooters and arcade games that followed.",
+      "created_at": "2026-03-19 01:51:20"
+    },
+    {
       "title": "Space Is the Place",
       "year": 1974,
       "medium": "Film",
@@ -14485,5 +14502,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 852
+  "count": 853
 }
