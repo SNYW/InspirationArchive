@@ -11187,6 +11187,23 @@
       "created_at": "2026-03-05 15:13:27"
     },
     {
+      "title": "The Last Ninja",
+      "year": 1987,
+      "medium": "Video Game",
+      "creator": "System 3 (Mark Cale, Tim Best)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Hungary ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Rebellion",
+      "image_filename": "The_Last_Ninja_1987.jpg",
+      "pitch": "The Last Ninja is a groundbreaking action-adventure game released in 1987 for the Commodore 64, developed by System 3. Set in feudal Japan, players control Armakuni, the last surviving ninja of a clan wiped out by the evil Shogun Kunitoki. The game combines exploration, puzzle-solving, and combat as players guide Armakuni through various environments to reach the Shogun's palace and exact revenge. Notably developed originally by a Hungarian team (SoftView/Novotrade), the game was completed and published by System 3 in the UK after the Hungarian team missed deadlines. It became one of the most successful Commodore 64 games, selling over 4 million copies worldwide.",
+      "truth": "The player takes on the role of Armakuni, the sole survivor of the Ninja clan destroyed by the Shogun Kunitoki. Armed with nothing but his ninja skills and determination, Armakuni must journey through hostile environments, solve puzzles, and defeat enemies to reach the Shogun's palace.\n\nThe game is presented from an isometric perspective, allowing movement in eight directions. Players must navigate through various landscapes including forests, wilderness areas, and dungeons. Along the way, they collect weapons and items, approach landmarks like Buddhist shrines and fountains to receive hints about objectives, and search for hidden items in trees and bushes.\n\nCombat is a key element, with players able to target specific body parts (head, torso, legs) of enemies. Armakuni can equip various ninja weapons including the ninjato (sword), nunchaku, staff, shuriken, and smoke bombs. As players progress, enemies become more challenging, having learned the ways of the ninja themselves.\n\nThe ultimate goal is to reach the palace of the evil Shogun Kunitoki, assassinate him, avenge the clan, and retrieve the sacred scrolls. The game is divided into multiple levels, each presenting different challenges in exploration, puzzle-solving, and combat.",
+      "core": "**Revenge and Honor:** At its core, The Last Ninja is a story about revenge and the ninja code. Armakuni's journey is driven by the need to avenge his fallen clan, reflecting traditional Japanese concepts of honor and loyalty. The game explores themes of personal sacrifice and the path of the warrior.\n\n**Persistence and Skill:** The game rewards patience and precision. Players must carefully navigate obstacles, time their movements and jumps precisely, and approach combat strategically. The difficulty reflects the challenges faced by a ninja in training and execution.\n\n**Innovation in Gaming:** The Last Ninja was groundbreaking for its time, featuring impressive graphics for the Commodore 64, an isometric perspective, and a combination of action, exploration, and puzzle elements that was innovative in 1987. It helped establish the action-adventure genre and influenced subsequent games.\n\n**Cultural Appreciation:** The game demonstrates Western developers' fascination with Japanese martial arts and ninja mythology, adapting these themes for a global gaming audience in the late 1980s.",
+      "created_at": "2026-03-19 04:51:17"
+    },
+    {
       "title": "The Last Oricru",
       "year": 2022,
       "medium": "Video Game",
@@ -14638,5 +14655,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 861
+  "count": 862
 }
