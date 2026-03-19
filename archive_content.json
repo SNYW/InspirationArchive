@@ -6461,6 +6461,23 @@
       "created_at": "2026-03-05 02:47:23"
     },
     {
+      "title": "Nimona",
+      "year": 2023,
+      "medium": "Animated Film",
+      "creator": "Nick Bruno, Troy Quane (Directors)",
+      "raw_score": 3.8,
+      "total_ratings": 55000,
+      "origin": "USA ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Rebellion",
+      "image_filename": "Nimona_2023.jpg",
+      "pitch": "Nimona is a 2023 American animated science-fantasy action-adventure film based on the graphic novel by ND Stevenson. The story follows Ballister Boldheart, a knight who is framed for the murder of the Queen, and teams up with Nimona, a shapeshifting teenage outcast, to clear his name and uncover the truth about a conspiracy within the kingdom.\n\nOriginally produced by Blue Sky Studios, the film was canceled when Disney shut down Blue Sky in 2021, but was later revived by Annapurna Pictures and released by Netflix in 2023. The film received critical acclaim and was nominated for Best Animated Feature at the Critics' Choice Awards, Annie Awards, and Academy Awards.",
+      "truth": "Set in a medieval-futuristic kingdom protected by the Institute for Elite Knights, the film begins with Ballister Boldheart becoming the first commoner to achieve knighthood. During the ceremony, a laser from his sword kills Queen Valerin. Ballister's boyfriend Ambrosius disarms him, dismembering his right arm in the process, and Ballister becomes a fugitive.\n\nBallister crafts a prosthetic arm and is visited by Nimona, a shapeshifting teenage outcast who has faced persecution for her abilities. Seeing Ballister as a fellow victim of society's prejudice, Nimona decides to become his sidekick.\n\nThe duo kidnaps a squire to get evidence and discovers that the Director of the Institute swapped Ballister's sword, revealing her as the true murderer. However, the Director manipulates the knights into destroying the evidence. Later, she reveals that Nimona is actually the Great Black Monster that the kingdom's founder Gloreth defeated a thousand years ago.\n\nWhen the truth about Nimona's origins is revealed, Ballister temporarily abandons her, echoing Gloreth's betrayal centuries earlier. Nimona transforms into the Great Black Monster and attempts suicide by impaling herself on Gloreth's statue, but Ballister stops her and apologizes. The Director then attempts to destroy Nimona with a massive laser cannon, and Nimona transforms into a giant phoenix-like form and flies into the cannon, sacrificing herself to save the kingdom.\n\nAfter the explosion, the kingdom is changed\u2014walls are opened and Ballister and Nimona are honored as heroes. The film ends with Ballister hearing Nimona's voice, revealing she survived.",
+      "core": "**Acceptance and Identity:** Nimona explores themes of being an outsider and finding acceptance. Both Ballister (a commoner) and Nimona (a shapeshifter) face prejudice from a society that fears those who are different. Nimona's journey represents the pain of not being accepted for who you are, and the film argues that true acceptance comes from understanding and embracing differences.\n\n**Redemption and Forgiveness:** The film deals with second chances\u2014both Ballister's attempt to clear his name and Nimona's arc of learning to trust again after being betrayed by both Gloreth and Ballister. The Director serves as a contrast, someone who could not let go of the past and sought to maintain rigid control through fear.\n\n**Breaking Down Walls:** The film's final image\u2014removing the wall that has protected the kingdom for a thousand years\u2014represents openness, progress, and moving beyond fear-based governance. The kingdom was built on a lie about the \"monster\" Nimona, and removing the wall symbolizes truth and reconciliation.\n\n**Queer Representation:** The film features explicit queer representation with Ballister and Ambrosius as a same-sex couple, making it notable for mainstream animation. This representation is handled naturally within the narrative without being the sole focus.\n\nNimona stands as a heartfelt animated film that balances action with emotional depth, delivering a message about acceptance, friendship, and the importance of challenging established narratives.",
+      "created_at": "2026-03-19 11:39:57"
+    },
+    {
       "title": "Nineteen Eighty-Four",
       "year": 1949,
       "medium": "Novel",
@@ -15012,5 +15029,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 883
+  "count": 884
 }
