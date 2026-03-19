@@ -2636,6 +2636,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Death Stranding",
+      "year": 2019,
+      "medium": "Video Game",
+      "creator": "Hideo Kojima",
+      "raw_score": 4.1,
+      "total_ratings": 122,
+      "origin": "Japan ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Isolation, Megacorps, Pandemic",
+      "image_filename": "Death_Stranding_2019.jpg",
+      "pitch": "Death Stranding is a 2019 action-adventure game developed by Kojima Productions, marking director Hideo Kojima's first original game after his departure from Konami. Set in a post-apocalyptic United States following a cataclysmic event called the \"Death Stranding,\" the game puts players in the role of Sam Porter Bridges, a courier tasked with delivering supplies to isolated colonies and reconnecting them via a wireless communications network known as the Chiral Network.\n\nThe game is set in the United States after mysterious creatures known as \"Beached Things\" (BTs) began roaming the Earth following a catastrophic event. These entities are surrounded by \"Timefall\" rain that accelerates aging and deterioration. The event devastated the country's infrastructure, forcing the remaining population into remote colonies called \"KNOT Cities.\" Players must navigate this treacherous landscape while avoiding BTs, hostile militia groups, and the challenges of delivering cargo across vast distances.\n\nWhat sets Death Stranding apart is its innovative \"strand\" gameplay style\u2014a new genre Kojima coined\u2014which emphasizes asynchronous online cooperation. Players can leave supplies, structures, and messages for others to find, creating a shared experience without direct interaction. The game features an ensemble cast including Norman Reedus, Mads Mikkelsen, L\u00e9a Seydoux, and Guillermo del Toro in supporting roles.",
+      "truth": "The story follows Sam Porter Bridges, a courier working for the company BRIDGES, as he travels across the post-apocalyptic United States to reconnect isolated cities to the Chiral Network. The journey is motivated by President Bridget Strand, Sam's adoptive mother, who asks him to complete the network she began building before her death.\n\nThroughout his pilgrimage, Sam encounters various factions: the MULEs, rogue porters who steal cargo; the Homo Demens, a terrorist group led by the mysterious figure known as Higgs; and the BTs, otherworldly creatures that emerge from the \"Beach\"\u2014a realm between life and death. Sam is a \"repatriate,\" able to return from death, and suffers from DOOMS, a condition allowing him to sense BTs.\n\nSam is accompanied by a Bridge Baby (BB), a premature child connected to the Seam between life and death, which helps him detect BTs. As Sam journeys from the east to the west coast, he delivers cargo to various settlements, helps researchers study the Death Stranding phenomenon, and gradually uncovers the truth behind the cataclysmic event.\n\nThe narrative reveals that Sam is actually Clifford Unger's son, who was transformed into one of the first BBs during early experiments. The antagonist Higgs is revealed to be manipulating events, while Sam discovers that his sister Amelie is an \"Extinction Entity\"\u2014a godlike being tasked with triggering mass extinction events. The game explores themes of connection, isolation, and what it means to be human in a fractured society.",
+      "core": "Death Stranding explores themes of isolation and connection in an increasingly disconnected world. Released just months before the COVID-19 pandemic, the game presciently captured anxieties about social distancing, supply chain dependencies, and the importance of maintaining connections during crises. Kojima's design emphasizes that true human connection requires physical presence and risk\u2014a profound statement in our digital age.\n\nThe game functions as a meditation on parenthood, sacrifice, and legacy. Sam's journey with Lou (the BB) represents the challenges and rewards of caring for new life. The revelation about Sam's origins\u2014his biological father Clifford and his transformation into a Bridge Baby\u2014adds layers of meaning to his relationship with the child.\n\nKojima uses the sci-fi premise to explore corporate power and government failure. BRIDGES represents a private entity filling governmental voids, while the KNOT Cities illustrate how communities form when traditional structures collapse. The game questions whether centralized control or distributed community efforts better serve humanity in times of crisis.\n\nThe innovative strand gameplay embodies the game's themes\u2014players must help strangers without meeting them, creating a network of anonymous cooperation. This design choice transforms what could be a lonely journey into a testament to human interconnectedness, even when direct contact is impossible.\n\nDeath Stranding represents Kojima's vision of \"fun simulation\"\u2014making the mundane act of walking and delivering packages compelling through physics, environmental challenges, and the kindness of strangers. It's a bold statement that games can explore profound human questions through unconventional narratives and gameplay.",
+      "created_at": "2026-03-19 02:53:13"
+    },
+    {
       "title": "Death Watch",
       "year": 1980,
       "medium": "Film",
@@ -14536,5 +14553,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 855
+  "count": 856
 }
