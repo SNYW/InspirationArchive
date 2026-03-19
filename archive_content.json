@@ -5203,6 +5203,23 @@
       "created_at": "2026-03-19 02:07:50"
     },
     {
+      "title": "La Foire aux immortels",
+      "year": 1980,
+      "medium": "Graphic Novel",
+      "creator": "Enki Bilal",
+      "raw_score": 4.07,
+      "total_ratings": 987,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Religion",
+      "image_filename": "La_Foire_aux_immortels_1980.jpg",
+      "pitch": "La Foire aux immortels (The Carnival of Immortals) is the first installment in Enki Bilal's acclaimed Nikopol Trilogy, published in 1980. Set in Paris in the year 2023, this groundbreaking French graphic novel follows Alcide Nikopol, a man who returns to Earth after spending 30 years frozen in space as punishment for dodging military service. What he finds is a drastically changed Paris\u2014now ruled by the fascist dictator J. F. Choublanc, overrun with aliens, and descending into chaos. Adding to the surreal atmosphere, a giant flying pyramid housing Egyptian gods hovers over the city, having run out of fuel. The gods offer the dictator immortality in exchange for fuel, while Nikopol becomes the vessel for the renegade god Horus. Together, they embark on a quest to oppose the corrupt powers of the 21st century.",
+      "truth": "The story opens with Alcide Nikopol's dramatic return to Paris after three decades in cryogenic suspension. Initially sentenced for draft evasion, he finds his homecity unrecognizable\u2014transformed into a dystopian metropolis under the iron rule of the totalitarian leader J. F. Choublanc. The population lives in fear, while alien beings have become common sights on the streets.\n\nAbove Paris hovers an enormous pyramid-shaped spacecraft, revealed to contain Egyptian gods who have traveled across the cosmos. These immortals\u2014led by Horus\u2014have arrived seeking fuel for their vessel. In exchange for the resources they need, Choublanc demands immortality for himself. The gods agree, setting in motion a sinister bargain.\n\nWhile the government negotiates with the divine visitors, Nikopol encounters Horus in the Paris Metro. The god offers Nikopol a pact: allow Horus to inhabit his body, and together they can oppose the tyrannical regime. Nikopol agrees, and the two form an uneasy alliance.\n\nAs the story unfolds, the narrative explores the dark political machinations of Choublanc's regime, the strange coexistence of humans and aliens in decaying Paris, and the philosophical implications of immortal beings intervening in human affairs. Horus uses Nikopol as his avatar to navigate and manipulate human events, while Nikopol finds himself caught between the world he knew and this strange new reality.\n\nThe graphic novel is noted for its atmospheric, nightmarish visuals and its blend of political satire, mythological elements, and science fiction. Bilal's artwork creates a haunting vision of a near-future Paris that feels both alien and disturbingly familiar.",
+      "core": "**Political Dystopia and Totalitarianism:** La Foire aux immortels presents a vision of 2023 Paris under fascist rule, exploring how authoritarianism transforms a city into a surveillance state. Choublanc represents the ultimate demagogue\u2014willing to deal with literal gods to maintain his grip on power. Bilal, drawing on his Yugoslavian-French perspective, crafts a critique of political extremism that feels prescient.\n\n**Mythology and the Modern World:** The novel reimagines Egyptian mythology in a science fiction context, asking what would happen if ancient gods returned to a world that has forgotten them. Horus and the other gods are depicted as advanced beings\u2014perhaps aliens, perhaps something more\u2014whose technology appears as magic to humans. This collision of the mythological and the scientific creates the novel's unique tonal blend.\n\n**Alienation and Identity:** Nikopol's 30-year absence from Earth leaves him fundamentally disconnected\u2014he is a stranger in his own homeland. His possession by Horus intensifies this alienation, as he becomes a hybrid being whose identity is split between human and divine. This theme resonates with broader concerns about displacement and the loss of self in a rapidly changing world.\n\n**French Science Fiction:** As one of the most influential French-language science fiction comics, La Foire aux immortels helped establish bande dessin\u00e9e as a serious vehicle for speculative fiction. Bilal's work is credited with revolutionizing comic art in France, bringing a cinematic and literary sensibility to the medium.\n\nThe Nikopol Trilogy, beginning with this volume, is considered a landmark in European science fiction comics, influencing generations of creators and earning acclaim for its innovative storytelling and\u89c6\u89c9\u6548\u679c. The 2004 film adaptation Immortel (Ad Vitam) further cemented Bilal's work in the broader science fiction consciousness, though the graphic novel remains the definitive version of this visionary story.",
+      "created_at": "2026-03-19 07:36:42"
+    },
+    {
       "title": "La Jet\u00e9e",
       "year": 1962,
       "medium": "Film",
@@ -14825,5 +14842,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 872
+  "count": 873
 }
