@@ -7022,6 +7022,23 @@
       "created_at": "2026-03-04 13:18:04"
     },
     {
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 4.34,
+      "total_ratings": 883178,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Ecology, Rebellion",
+      "image_filename": "Princess_Mononoke_1997.jpg",
+      "pitch": "Princess Mononoke is a 1997 Japanese animated epic fantasy film written and directed by Hayao Miyazaki of Studio Ghibli. Set in Muromachi-period Japan, the film follows Ashitaka, a young Emishi prince who journeys west to find a cure for a curse inflicted on his arm while defending his village from a demon. He becomes embroiled in a conflict between the forest gods and a nearby iron-mining town led by Lady Eboshi, as well as San, a human girl raised by wolves.\n\nThe film explores themes of environmentalism, industrialization, and the complex relationship between humanity and nature. It was the first Studio Ghibli film to gain significant international distribution and remains one of the most acclaimed animated films ever made.",
+      "truth": "In Muromachi-era Japan, the last Emishi prince, Ashitaka, kills a gigantic demon to protect his village, but his arm is afflicted by its curse. Learning the curse will eventually kill him, Ashitaka is exiled to the west, seeking a cure.\n\nOn his journey, Ashitaka encounters the Forest Spirit\u2014a deer-like god of life and death\u2014and becomes involved in the conflict between Irontown, a settlement mining iron from the forest, and the forest's animal gods. Lady Eboshi leads Irontown, manufacturing firearms and sheltering outcasts including former prostitutes and lepers. She has shot the boar god Nago, corrupting it into a demon.\n\nAshitaka meets San, a human girl raised by wolf gods who is called \"Princess Mononoke\" by the townspeople. She despises humanity and works to destroy Irontown. Despite their differences, Ashitaka and San develop feelings for each other while trying to prevent all-out war between humans and the gods.\n\nThe climax reveals that a merchant named Jigo is manipulating both sides to obtain the Forest Spirit's head, believed to grant immortality. When the Forest Spirit is beheaded, its body transforms into a chaotic entity that kills everything it touches. Ashitaka and San retrieve the head, returning it to the Forest Spirit, which dies and dissolves into the wind. The land is renewed, but San cannot fully forgive humanity and remains in the forest with the wolves, while Ashitaka chooses to help rebuild Irontown.",
+      "core": "**Environmentalism and Industrialization:** The film presents a nuanced view of the conflict between development and nature. Neither side is purely good or evil\u2014Eboshi's town provides safety and employment for outcasts, while the gods can be equally brutal in defending their forest. The film suggests that coexistence is possible but requires fundamental changes in how humans relate to the natural world.\n\n**Gender and Power:** Lady Eboshi is a feminist character who empowers women, including former prostitutes, and fights against the patriarchal gods. She physically destroys the Forest Spirit, suggesting that women can challenge even divine patriarchal structures. San represents wild femininity, neither accepting human society nor fully belonging to the wolves.\n\n**The Nature of the Soul:** The film explores what constitutes humanity and the soul. Both Ashitaka's curse and the Forest Spirit represent different forms of consciousness and existence. The Forest Spirit's death and renewal suggests a cyclical view of life and death, while San's choice to remain in the forest rather than join human society raises questions about identity and belonging.\n\n**Violence and Coexistence:** Unlike many fantasies that offer clear moral victories, Princess Mononoke suggests that conflict between humans and nature cannot be easily resolved. The resolution requires sacrifice and fundamental change from both sides, not a triumphant hero defeating a clear villain.\n\nThe film was groundbreaking for its adult themes, complex morality, and sophisticated treatment of environmental issues in animation. It broke box office records in Japan and helped establish Studio Ghibli as a major force in global cinema.",
+      "created_at": "2026-03-19 03:41:27"
+    },
+    {
       "title": "Promare",
       "year": 2019,
       "medium": "Anime Film",
@@ -14587,5 +14604,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 858
+  "count": 859
 }
