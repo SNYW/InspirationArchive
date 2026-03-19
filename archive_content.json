@@ -2228,6 +2228,23 @@
       "created_at": "2026-03-03 21:20:39"
     },
     {
+      "title": "Consortium",
+      "year": 2014,
+      "medium": "Video Game",
+      "creator": "Interdimensional Games (Developer), Gregory MacMartin (Designer)",
+      "raw_score": 3.3,
+      "total_ratings": 62,
+      "origin": "Canada ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy, Cyberpunk ,",
+      "topics": "Sentience, VR, Transhumanism",
+      "image_filename": "Consortium_2014.jpg",
+      "pitch": "Consortium is a first-person shooter and role-playing game developed by Interdimensional Games and released in 2014. Set in a mid-21st century where most world militaries have been replaced by a technologically advanced world police force called the Consortium, the game places players in control of Bishop 6\u2014an elite soldier whose mind is linked to the player through an interdimensional connection. The game takes place almost entirely aboard a futuristic aircraft called Zenlil, crewed by personnel with chess-themed ranks, as Bishop 6 must deal with hostile mercenaries while trying to uncover the identity of a traitor within the crew.\n\nWhat makes Consortium unique is its innovative approach to storytelling and player agency. The game features conversational mechanics that allow gameplay to continue uninterrupted during dialogue, with replies bound to function keys. An in-game device enables semi-telepathic communication with other characters. The story uses a branching narrative similar to the Mass Effect trilogy, combined with a character alignment system that allows every playthrough to be different\u2014even to the point of revealing the game's meta-plot. While primarily a first-person shooter, combat can be entirely avoided, made non-lethal, or played lethally in the style of Deus Ex.",
+      "truth": "The game is set in a timeline where most world militaries have been disbanded in favor of the Consortium\u2014a technologically advanced world police force maintaining global order. The player assumes control of Bishop 6, an elite Consortium soldier. The game's fiction explicitly acknowledges that the player and Bishop 6 are different characters, connected through an interdimensional link. This fourth-wall-breaking premise means that non-player characters may not be aware that Bishop 6 is being controlled from another dimension.\n\nDuring a routine flight from Bulgaria to Ireland aboard the aircraft Zenlil, Bishop 6 encounters a crisis when hostile mercenaries attack the vessel. As the situation escalates, Bishop 6 must navigate crew relationships, uncover the identity of a traitor hiding among the passengers and crew, and prevent a catastrophic outcome. The game's story features approximately thirty characters, each with their own artificial intelligence and individual agendas\u2014they conduct actions to complete personal goals, only changing plans due to player intervention.\n\nConsortium received mixed reviews upon release, with a score of 66/100 on Metacritic. Critics praised the innovative storytelling and fourth-wall-breaking conceit but noted significant software bugs. The developer addressed these issues with a Master Edition patch. A sequel, Consortium: The Tower, was released in 2017. In 2024, Consortium VR and Consortium Remastered were released, bringing the game to Meta Quest and SteamVR platforms.",
+      "core": "**Fourth-Wall Breaking and Player Identity:** Consortium's most distinctive innovation is its explicit acknowledgment that the player and the protagonist are separate entities connected through interdimensional means. This creates a unique relationship between player and character\u2014the game's narrative treats Bishop 6 as a vessel whose actions are guided by an outside intelligence. This conceit supports the game's branching dialogue and alignment systems, creating a genuinely different experience based on player choices.\n\n**Consortium as Global Governance:** The game presents a vision of world order where traditional nation-states have been superseded by a single technological organization. The Consortium represents both utopian possibility (world peace, advanced technology, global cooperation) and dystopian concern (total surveillance, loss of individual sovereignty, corporate-like control). This tension creates moral complexity as players navigate missions for an organization that claims to serve humanity but operates through unclear methods.\n\n**Interdimensional Narrative Architecture:** The game's meta-plot involves interdimensional elements that connect different realities. This framework allows the narrative to explore questions of identity, consciousness, and player agency in ways only possible in the video game medium. The storytelling philosophy, as noted by retrospective reviews, demonstrates what games can do that other media cannot\u2014for better or worse.\n\n**Innovation Within Constraints:** Despite being a first-person shooter, Consortium limits combat due to the size of its game world (primarily the aircraft). This constraint forces players to engage with the game's dialogue systems, investigation mechanics, and moral choices rather than relying on combat. The result is a game that prioritizes narrative and player expression over action spectacle.\n\nConsortium remains significant as an experimental narrative game that attempted to merge first-person shooter mechanics with deep role-playing systems and innovative fourth-wall storytelling\u2014creating a unique entry in sci-fi gaming that explored themes of consciousness, control, and interdimensional identity.",
+      "created_at": "2026-03-19 01:21:52"
+    },
+    {
       "title": "Contact",
       "year": 1978,
       "medium": "Animated Short",
@@ -14468,5 +14485,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 851
+  "count": 852
 }
