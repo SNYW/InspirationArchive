@@ -2721,6 +2721,23 @@
       "created_at": "2026-03-01 00:32:54"
     },
     {
+      "title": "Delicatessen",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Jean-Pierre Jeunet, Marc Caro",
+      "raw_score": 3.9,
+      "total_ratings": 58,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Poverty, Isolation",
+      "image_filename": "Delicatessen_1991.jpg",
+      "pitch": "Delicatessen is a 1991 French post-apocalyptic black comedy that marks the directorial debut of Jean-Pierre Jeunet and Marc Caro. Set in a dilapidated apartment building in post-apocalyptic France, the film follows Louison, a unemployed circus clown who answers a job advertisement at a ground-floor butcher's shop. What he doesn't know is that the butcher, Clapet, has been luring victims to kill them and sell their flesh to the starving tenants above. As Louison becomes an invaluable employee with his spectacular knife-throwing skills, he falls in love with Clapet's daughter Julie, while the tenants grow suspicious of his charm and influence. The film is a darkly whimsical vision of survival and humanity in a world where food is scarce and morality has collapsed.",
+      "truth": "In a devastated near-future France, society has collapsed to the point where grain serves as currency. The apartment building at the center of the film is home to desperate tenants who rely on the ground-floor butcher shop for their protein supply. The landlord, Clapet, maintains a lucrative operation by posting fake job advertisements in newspapers to lure unsuspecting victims into the building, murdering them, and butchering their bodies for meat.\n\nWhen the latest worker is killed, unemployed circus clown Louison applies for the position. His extraordinary knife-throwing talent makes him invaluable, and Clapet finds himself reluctant to kill such a useful employee. During his work, Louison discovers a package dropped by a mailman and delivers it to Clapet's daughter Julie, who invites him to dinner. Their relationship blossoms into romance, causing concern among the other tenants who fear for their own safety.\n\nMeanwhile, tenant Marcel Tapioca falls behind on rent, and Clapet demands his mother-in-law as payment. Julie discovers that her father is indeed killing tenants for meat and makes contact with the Troglodistes, a group of vegetarian rebels living underground in the sewers. She persuades them to help rescue Louison. A series of confrontations ensues, with Louison and Julie ultimately flooding the building to escape Clapet's attempt to murder them. In the chaos, the Troglodistes mistake another tenant for Louison. The film ends with Louison and Julie escaping through the sewers, ready to join the rebel group.",
+      "core": "Delicatessen represents Jeunet and Caro's unique blend of grotesque comedy and poetic surrealism, creating a vision of post-apocalyptic France that is both horrifying and darkly funny. The film explores themes of survival and morality when society breaks down\u2014when food becomes the most precious commodity and traditional ethical boundaries dissolve. The butcher shop becomes a microcosm of capitalist exploitation, with the landlord literally feeding off his tenants.\n\nThe film is notable for its visual style, blending the grimy post-apocalyptic setting with moments of inventive, whimsical imagery. This was Jeunet's and Caro's debut feature and established the aesthetic and thematic concerns that would later define Jeunet's work, including his later classics Am\u00e9lie and The City of Lost Children. The film received critical acclaim for its original vision and dark humor, establishing both directors as major talents in French cinema and the international art-house scene.\n\nThe surreal tone serves the film's dark themes perfectly\u2014presenting the unimaginable (cannibalism as survival) through a quirky, fantastical lens that makes it both digestible and more disturbing. The clown protagonist adds another layer of meaning, as Louison's job is to entertain while surrounded by death and suffering, mirroring the film's own balancing act between comedy and horror.",
+      "created_at": "2026-03-19 06:06:43"
+    },
+    {
       "title": "Delpower X Bakuhatsu Miracle Genki!",
       "year": 1986,
       "medium": "OVA",
@@ -14723,5 +14740,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 866
+  "count": 867
 }
