@@ -5662,6 +5662,23 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Master of the World",
+      "year": 1934,
+      "medium": "Film",
+      "creator": "Harry Piel",
+      "raw_score": 3.15,
+      "total_ratings": 61,
+      "origin": "Germany ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Transhumanism, Cybernetics, Rebellion",
+      "image_filename": "Master_of_the_World_1934.jpg",
+      "pitch": "Master of the World is a pioneering German science fiction film from 1934, directed by Harry Piel. Set in a near-future industrial world, the film explores the ethical implications of robotic automation and the terrifying potential of AI-powered weapons. When visionary industrialist Dr. Erich Heller develops \"machine men\" (robots) to replace dangerous human labor in mines, his most trusted scientist, Professor Wolf, secretly pursues his own agenda: creating a \"super robot\" capable of achieving world domination. The film was ahead of its time in addressing themes of technological unemployment, the misuse of artificial intelligence, and the conflict between humanistic innovation and megalomaniacal ambition.",
+      "truth": "The story begins when Dr. Erich Heller, a compassionate industrialist and machine manufacturer, unveils his vision for the future: using robotic \"machine men\" to perform the most dangerous work in mines, freeing human laborers from life-threatening conditions. Heller believes mechanization will improve workers' lives. During a train journey, Heller inspires Werner Baumann, a young mining engineer, with his humanitarian ideals.\n\nHowever, Professor Wolf, Heller's most valued scientist, harbors a dark secret. While appearing to support Heller's vision, he has been secretly developing a \"super robot\" (\u00dcberrobot)\u2014an invincible killing machine designed for world domination. When Heller discovers Wolf's unauthorized and horrifying research, the professor kills him with the robot's deadly rays, staging it as an industrial accident.\n\nNow controlling the company, Wolf plans to use his army of robots to suppress any opposition and conquer the world. Meanwhile, Baumann, now romantically involved with Heller's widow Vilma, discovers the truth about her husband's death. He confronts Wolf in his laboratory but is also struck by the deadly robot rays. Vilma saves Baumann, and together they destroy Wolf and his monster machine. In the end, Vilma and Baumann decide to rebuild the factory in Heller's original spirit\u2014using robots only for the benefit of workers.",
+      "core": "**The Ethics of Automation:** The film presents one of the earliest explorations of automation anxiety in cinema. Heller's dream of machines replacing dangerous labor reflects genuine early 20th-century debates about industrial progress and workers' rights. The film asks: who controls the machines, and to what ends?\n\n**The Mad Scientist Trope:** Professor Wolf represents the classic \"mad scientist\" archetype, but with a distinctly modern twist\u2014he weaponizes not just science but artificial intelligence itself. His super robot is an early depiction of autonomous weapons and military AI.\n\n**Robot as Metaphor:** The \u00dcberrobot serves as both literal threat and metaphor for dehumanization. Wolf's creation becomes a reflection of his own megalomania\u2014the robot's drive to dominate mirrors its creator's ambition.\n\n**Humanitarian vs. Authoritarian Technology:** The film contrasts Heller's humanistic use of technology with Wolf's authoritarian misuse. This theme resonates throughout science fiction history, from this film to modern debates about AI ethics and autonomous weapons.\n\n**Precursor to Modern Sci-Fi:** Master of the World predates many classic robot and AI narratives, making it a significant but often overlooked precursor to later works exploring similar themes. Its depiction of robots as both labor-saving technology and potential weapons foreshadows decades of science fiction exploring these same tensions.",
+      "created_at": "2026-03-19 06:35:53"
+    },
+    {
       "title": "Mavlin: Vesm\u00edrn\u00fd \u00fanik",
       "year": 1994,
       "medium": "Video Game",
@@ -14757,5 +14774,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 868
+  "count": 869
 }
