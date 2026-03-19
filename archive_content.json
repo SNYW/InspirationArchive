@@ -4472,6 +4472,23 @@
       "created_at": "2026-03-04 23:35:36"
     },
     {
+      "title": "Hospital of the Transfiguration",
+      "year": 1975,
+      "medium": "Novel",
+      "creator": "Stanis\u0142aw Lem",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Poland ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Isolation, Memory",
+      "image_filename": "Hospital_of_the_Transfiguration_1975.jpg",
+      "pitch": "Hospital of the Transfiguration is Stanis\u0142aw Lem's debut novel, written in 1948 but not published until 1975 due to censorship in Communist Poland. The story follows Stefan Trzyniecki, a young doctor who begins working at a psychiatric hospital during the Nazi occupation of Poland in World War II. Far from a conventional science fiction work, this novel is a psychological drama set against the brutal backdrop of war, dealing with themes of institutional madness, moral compromise, and the grey zones of survival under occupation.\n\nThe novel is the first in Lem's trilogy \"Time Not Lost\" (Czas nieutracony) and stands as a unique work in Lem's oeuvre\u2014a autobiographical-tinged novel about the psychiatric profession during wartime, before he turned fully to science fiction. Lem himself called it his most personal work. It was adapted into a film in 1979 directed by Edward \u017bebrowski.",
+      "truth": "Stefan Trzyniecki, a young Polish medical graduate, takes a position at a provincial psychiatric hospital in occupied Poland. The institution operates under the shadow of Nazi Germany's \"Action T4\" program\u2014the Nazi euthanasia program targeting the mentally ill and disabled. As the war intensifies, Stefan must navigate the moral complexities of his position: treating patients while knowing the Nazis view them as \"unworthy of life,\" and deciding whether to help certain patients escape or remain to care for those who cannot.\n\nThe hospital becomes a microcosm of wartime society, with staff, patients, and administrators each making their own accommodations to occupation. Stefan witnesses the compromises doctors must make\u2014from treating wounded resistance fighters to deciding which patients to prioritize when resources are scarce. The \"transfiguration\" of the title refers both to the literal transformation of patients and to the psychological metamorphosis that wartime forces upon everyone in the institution.\n\nLem interweaves the medical case studies with the political reality of occupied Poland, creating a portrait of a society where the boundary between sanity and madness becomes increasingly blurred. The novel explores how institutions meant to heal can become complicit in destruction, and how individuals maintain their humanity under impossible circumstances.",
+      "core": "Hospital of the Transfiguration is remarkable for being Lem's only non-speculative novel, yet it contains the seeds of his later themes. The psychiatric hospital as a model for society\u2014with its hierarchies, its patient populations, its institutional logic\u2014prefigures the strange societies Lem would later explore in science fiction works like Solaris and Eden.\n\nThe novel grapples with the relationship between individual morality and systemic evil. The hospital staff are not heroes or villains but ordinary people making imperfect choices under extreme pressure. Lem refuses to moralize, instead presenting the ambiguity of survival in occupied Poland\u2014what compromises were necessary, what constituted collaboration versus endurance.\n\nThis work also marks Lem's transition from literary writer to science fiction author. The autobiographical elements (Lem himself studied medicine at Jagiellonian University during the war) provide a grounded, realistic foundation that would later give way to the philosophical speculations of his major works. Hospital of the Transfiguration remains significant as Lem's most personal and least fantastical novel\u2014a meditation on how systems fail the vulnerable and how individuals preserve their humanity when confronted with institutional madness.",
+      "created_at": "2026-03-19 05:50:00"
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -14706,5 +14723,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 865
+  "count": 866
 }
