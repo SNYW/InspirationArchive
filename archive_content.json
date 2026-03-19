@@ -11749,6 +11749,23 @@
     },
     {
       "title": "The Man Who Fell to Earth",
+      "year": 1963,
+      "medium": "Novel",
+      "creator": "Walter Tevis",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Aliens, Isolation, Memory",
+      "image_filename": "The_Man_Who_Fell_to_Earth_1963.jpg",
+      "pitch": "The Man Who Fell to Earth is a 1963 science fiction novel by American writer Walter Tevis, originally published as a paperback original by Gold Medal Books. The story follows Thomas Jerome Newton, an extraterrestrial from the drought-stricken planet Anthea, who arrives on Earth seeking a way to aid his dying home world. Using his advanced knowledge, Newton amasses wealth and technological innovations through a conglomerate called World Enterprises, hoping to finance a spacecraft that can return to Anthea with supplies and survivors. However, his increasing assimilation into human life\u2014including a growing dependence on alcohol\u2014gradually undoes his mission. Newton's story is a haunting meditation on alienation, addiction, and the tragedy of an outsider destroyed by the very humanity he seeks to save.",
+      "truth": "Thomas Jerome Newton arrives on Earth alone, establishing a human identity and beginning his quest to save his home world of Anthea, which is suffering from an devastating drought. With the help of attorney Oliver Farnsworth, Newton creates World Enterprises, a network of companies that commercialize his advanced technological inventions while concealing his extraterrestrial origins. The corporation rapidly accumulates wealth and influence, allowing Newton to purchase land, develop research facilities, and assemble components for a spacecraft.\n\nNewton becomes involved with Betty Jo, a lonely, alcoholic woman whose companionship provides domestic stability but also draws him into human vulnerabilities. Beginning to drink to navigate social situations, Newton's dependence on alcohol grows as his work becomes more complicated and government scrutiny intensifies around his unusual technological advances.\n\nScientists and investigators, including Nathan Bryce, become intrigued by World Enterprises' breakthrough innovations. Bryce eventually discovers Newton's true nature and becomes one of the few people who understands that the corporation's purpose is to finance a private spaceflight project to save Anthea.\n\nGovernment surveillance intensifies, and Newton is eventually taken into custody. Medical examinations to determine his physiology leave him permanently blinded, destroying his ability to complete the spacecraft program. After his release, Newton remains on Earth\u2014wealthy but debilitated by his blindness, captivity, and alcoholism. His attempt to return home fails, and he becomes resigned to remaining on Earth indefinitely. The novel ends with Bryce encountering a record Newton has made as a final attempt to send a message to his home world, finding him a diminished, stranded figure destroyed by exposure, captivity, and the failure of his mission.",
+      "core": "**The Outsider's Tragedy:** Tevis subverts the traditional trope of the technologically superior alien by portraying Newton as physically and emotionally fragile. Rather than the powerful extraterrestrial invasion narrative, Newton is a victim\u2014a being whose vulnerability to human institutions, isolation, and his own coping mechanisms leads to his downfall. The novel explores what it means to be fundamentally alone, to belong nowhere, and how the attempt to survive in an alien culture can destroy one's original purpose.\n\n**Addiction and Assimilation:** Tevis described the novel as disguised autobiography, framing it as a personal account of decline. Newton's descent into alcoholism parallels his failure to maintain his mission, suggesting that assimilation into human life\u2014its pleasures, its coping mechanisms, its social demands\u2014is inherently destructive for those who cannot fully belong. The novel treats addiction not as moral failure but as a response to alienation and overwhelming circumstances.\n\n**Alienation and Institutional Hostility:** The novel's antagonistic force is less an individual villain than an everyday, indifferent cruelty that erodes Newton's will. Government surveillance, medical experimentation, corporate exploitation, and social isolation all contribute to his destruction. The institutions that characterize modern human society\u2014bureaucracy, science, commerce\u2014are portrayed as fundamentally hostile to difference and unable to comprehend what they cannot exploit.\n\n**Capitalism and Vulnerability:** The novel uses Newton's sensitivity to gravity and atmosphere as a spatial metaphor for the suffocating nature of capitalist society and individual vulnerability within impersonal corporate landscapes. Newton's attempts to work within the system\u2014patents, corporations, legal frameworks\u2014ultimately entrap him. His technological superiority means nothing against institutional hostility and bureaucratic indifference.\n\n**The Defeated Alien:** The Man Who Fell to Earth presents a radical revision of science fiction's extraterrestrial tropes. Instead of the alien who conquers or teaches humanity, Newton is the alien who is conquered\u2014by Earth, by human institutions, by his own human weaknesses. His story is a tragic inversion of the first contact narrative, asking what happens when the visitor cannot return home, cannot convert their knowledge into power, and cannot avoid becoming what they came to save themselves from.",
+      "created_at": "2026-03-19 08:06:59"
+    },
+    {
+      "title": "The Man Who Fell to Earth",
       "year": 1976,
       "medium": "Film",
       "creator": "Directed by Nicolas Roeg; Based on the novel by Walter Tevis",
@@ -14859,5 +14876,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 874
+  "count": 875
 }
