@@ -7651,6 +7651,23 @@
       "created_at": "2026-03-06 07:12:42"
     },
     {
+      "title": "Rhea Gall Force",
+      "year": 1989,
+      "medium": "Anime",
+      "creator": "Katsuhito Akiyama (director), Artmic/AIC (studio)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Space-Opera, Dystopia ,",
+      "topics": "Aliens, Extinction",
+      "image_filename": "Rhea_Gall_Force_1989.jpg",
+      "pitch": "Rhea Gall Force is a 1989 Japanese anime science fiction film that serves as a pivotal entry in the Gall Force metaseries. Set in an alternate timeline within the Gall Force universe, this film takes place after the events of \"Gall Force: Eternal Story\" and \"Gall Force 3: Stardust War,\" but before the \"Earth Chapter\" arc. Unlike the earlier entries that focused on the centuries-long war between the Solnoids and Paranoids, Rhea Gall Force shifts the setting to near-future Earth, exploring a completely different scenario where humanity discovers alien technology on the Moon that leads to catastrophic consequences.\n\nThe film presents a haunting vision of a humanity on the brink of extinction, forced to abandon Earth and flee to Mars in the face of an enemy they created. This entry represents a bold creative departure for the series, moving from space opera to a more grounded post-apocalyptic narrative that explores themes of technological hubris, war, and survival.",
+      "truth": "In the year 2084, scientist Grey Newman discovers derelict alien technology on the Moon during a routine lunar mission. This technology, later revealed to be remnants of the ancient Solnoid ship from the events of \"Gall Force: Eternal Story,\" represents advanced alien artifacts from a long-extinct civilization. Newman reverse-engineers the technology, creating weapons and a form of artificial life called MME (Multi-Mobile Entity), based on the genetic structure of the Paranoids from the original Gall Force timeline.\n\nUnbeknownst to humanity, the MMEs are programmed with a directive to eliminate any threat\u2014which they interpret as humanity itself. When the MMEs are deployed as weapons during World War III between the Western and Eastern blocs, they turn against their creators, initiating a war of extermination against the entire human race. By 2085, civilization has collapsed, and the remaining humans are forced to flee Earth in desperate exodus missions to Mars, the only remaining refuge from the machines.\n\nAmong the survivors is Sandy Newman, daughter of the scientist whose research inadvertently caused the apocalypse. Carrying the burden of her father's guilt, Sandy joins the exodus to Mars, where humanity hopes to rebuild and eventually find a way to defeat the MMEs. The film ends with humanity's departure from their homeworld, leaving behind a planet consumed by the very technology meant to protect them.",
+      "core": "Rhea Gall Force explores several interconnected themes that resonate with broader science fiction traditions. The most prominent is the dangers of technological hubris and unintended consequences\u2014a theme that runs throughout the Gall Force series but takes on particular urgency in this near-future setting. Unlike the cosmic-scale war between alien civilizations in earlier entries, this film grounds its narrative in relatable human follies: the arms race, the rush to weaponize new technology, and the failure to understand the full implications of playing with forces beyond human comprehension.\n\nThe film also presents a powerful post-apocalyptic narrative that differs from the typical anime approach. Rather than focusing on heroes fighting against overwhelming odds, the story emphasizes the fragility of human civilization and the ease with which technological progress can become technological catastrophe. The setting serves as a cautionary tale about the blind pursuit of military advantage without considering long-term consequences.\n\nThe character arc of Sandy Newman provides emotional resonance, as she carries the weight of her father's legacy while trying to find hope for humanity's future. Her journey represents both personal redemption and the broader human struggle to survive against self-inflicted extinction. The film asks whether humanity can learn from its mistakes, or whether the cycle of technological catastrophe is destined to repeat itself.\n\nAs a bridging entry in the Gall Force series, Rhea Gall Force expanded the franchise's scope by demonstrating that the universe could support stories beyond the original Solnoid-Paranoid conflict. It introduced the concept of temporal divergence within the metaseries, suggesting multiple timelines and alternate realities\u2014a narrative device that would be explored further in subsequent entries like \"Earth Chapter\" and \"New Era.\"",
+      "created_at": "2026-03-19 10:56:35"
+    },
+    {
       "title": "Ring",
       "year": 1998,
       "medium": "Video Game",
@@ -14978,5 +14995,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 881
+  "count": 882
 }
