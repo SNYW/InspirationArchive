@@ -10354,6 +10354,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Drowned World",
+      "year": 1962,
+      "medium": "Novel",
+      "creator": "J.G. Ballard",
+      "raw_score": 3.47,
+      "total_ratings": 20913,
+      "origin": "UK ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Ecology",
+      "image_filename": "The_Drowned_World_1962.jpg",
+      "pitch": "The Drowned World is a seminal climate fiction novel by J.G. Ballard, first published in 1962, depicting a dystopian future where global warming has transformed Earth into a tropical paradise of flooding and chaos. Set approximately seventy years in the future, the novel follows Dr. Robert Kerans, a scientist part of an expedition cataloging the flora and fauna of a flooded London. As the world succumbs to rising sea levels and extreme temperatures driven by enlarged solar radiation, humanity retreats toward the poles while strange dreams begin affecting the remaining survivors. The novel is considered one of the founding works of climate fiction and explores themes of environmental collapse, psychological transformation, and the breakdown of civilization through vivid, surreal imagery of a drowned metropolis.",
+      "truth": "The novel takes place in a world where violent solar storms in the near future have enlarged the Van Allen radiation belt, bombarding Earth with increased radiation. This has raised temperatures, melted the ice caps, and flooded most of the planet, creating a tropical climate across what were once temperate zones. Dr. Robert Kerans works with a scientific team led by Colonel Riggs, documenting the transformed ecosystem of what was once London, now a lagoon of warm, tropical waters.\n\nAs the expedition progresses, team members begin experiencing strange, recurring dreams\u2014a phenomenon affecting humans worldwide as the environment changes. When the military decides to withdraw north, most inhabitants flee the overheating city. However, Kerans, along with Dr. Beatrice Dahl and Dr. Alan Bodkin, choose to remain despite the danger.\n\nA group of pirates led by the ruthless Strangman arrives, seeking to loot treasures from the flooded city. After draining part of the lagoon to expose submerged buildings, Strangman captures Kerans and Dahl, torturing Kerans before Colonel Riggs and the army return to rescue them. Rather than oppose Strangman, the authorities collaborate with him, leading Kerans to re-flood the lagoon in revenge.\n\nWeakened and disillusioned, Kerans flees south, leaving behind the collapsing civilization. He encounters the blind Lieutenant Hardman, who had earlier headed south, and continues his journey alone\u2014described as \"a second Adam searching for the forgotten paradises of the reborn sun.\"",
+      "core": "**Climate Fiction Pioneer:** The Drowned World is recognized as one of the earliest and most influential works of climate fiction (cli-fi), predating widespread environmental awareness by decades. Ballard's vision of global warming as a slow-moving catastrophe that transforms rather than destroys offers a haunting preview of contemporary climate anxieties.\n\n**Psychological Transformation:** The novel explores how environmental collapse affects human consciousness. The strange dreams that plague survivors suggest a psychological adaptation\u2014or breakdown\u2014as humanity struggles to comprehend the radical transformation of their world. Rather than a story of heroic survival, Ballard presents a landscape of mental dissolution.\n\n**Entropy and Decay:** The novel embodies themes of entropy\u2014the gradual breakdown of systems\u2014through its portrayal of civilization's slow collapse. There are no dramatic apocalypses, no alien invasions, just the steady, inexorable transformation of the familiar into the strange.\n\n**The Tropical Gothic:** Ballard creates a distinctive \"tropical gothic\" aesthetic, where the lush, humid, dreamlike environment becomes a character in itself\u2014beautiful, dangerous, and utterly alien. This style would influence later works of climate fiction and environmental apocalypse.\n\n**Human Adaptation:** The novel questions whether humanity can or should adapt to radical environmental change. Some characters embrace the new world; others cling to the past; most simply succumb. Ballard's vision remains prescient in its ambiguity about whether such transformation represents death or strange rebirth.",
+      "created_at": "2026-03-19 07:24:36"
+    },
+    {
       "title": "The Dwarf",
       "year": 1978,
       "medium": "Novel",
@@ -14808,5 +14825,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 871
+  "count": 872
 }
