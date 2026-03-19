@@ -35,6 +35,23 @@
       "created_at": "2026-03-04 13:50:03"
     },
     {
+      "title": "20,000 Leagues Under the Sea",
+      "year": 1916,
+      "medium": "Film",
+      "creator": "Stuart Paton",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Space-Opera, Hard-SF ,",
+      "topics": "Exploration, Isolation",
+      "image_filename": "20,000_Leagues_Under_the_Sea_1916.jpg",
+      "pitch": "20,000 Leagues Under the Sea is a 1916 American silent film directed by Stuart Paton and produced by Carl Laemmle at Universal Pictures. Based on Jules Verne's classic 1870 novel \"Twenty Thousand Leagues Under the Seas,\" this film holds the distinction of being the first feature-length adaptation of Verne's submarine adventure. With a production budget of $500,000 (equivalent to nearly $12 million today), it was one of the most expensive films of its era and a significant technical achievement in early cinema. The film was recently selected for preservation in the United States National Film Registry in 2016, recognizing its cultural and historical significance.",
+      "truth": "The film begins with reports of a mysterious \"sea monster\" rampaging the seas, prompting the United States government to dispatch the naval vessel Abraham Lincoln to investigate. During their search, the vessel collides with the monster, sustaining severe damage. The creature is revealed to be Nautilus, the technologically advanced submarine commanded by the enigmatic Captain Nemo.\n\nAfter the attack, the Abraham Lincoln is left adrift without a rudder. Captain Nemo guides his submarine beneath the four survivors who had fallen into the sea during the battle\u2014master harpooner Ned Land, Professor Pierre Aronnax, his daughter, and the professor's assistant. Nautilus surfaces, and Nemo's crew brings the rescued individuals aboard.\n\nOnce aboard the submarine, the four must swear never to attempt escape. Captain Nemo introduces them to the wonders of his underwater realm, taking them on hunting expeditions along the seafloor. Meanwhile, the storyline incorporates elements from Verne's other novel \"The Mysterious Island,\" featuring union soldiers marooned on a mysterious island who discover Nemo's secrets.",
+      "core": "**Pioneering Technical Achievement:** The 1916 adaptation was remarkable for its advanced underwater cinematography and elaborate submarine sets. The film's success established the visual template for countless nautical and submarine films that followed, demonstrating that science fiction could be both commercially viable and technically ambitious.\n\n**Captain Nemo's Legacy:** The character of Captain Nemo represents one of science fiction's most enduring archetypes\u2014the brilliant but haunted genius, both liberator and prisoner of his own creation. This early film adaptation helped cement Nemo's place in popular culture, influencing subsequent interpretations in literature, film, and television.\n\n**The Birth of Blockbuster Science Fiction:** With its $500,000 budget and $8 million box office return, 20,000 Leagues Under the Sea proved that science fiction could be a major commercial enterprise. This financial success encouraged studios to invest in larger-scale speculative films, laying groundwork for the genre's development as a mainstream cinematic force.\n\n**National Recognition:** The 2016 selection for the National Film Registry places this silent classic alongside such landmarks as \"Casablanca\" and \"Citizen Kane,\" affirming its enduring importance in American film history and its role in establishing science fiction as a legitimate cinematic subject.",
+      "created_at": "2026-03-19 03:49:32"
+    },
+    {
       "title": "2001 Nights",
       "year": 1984,
       "medium": "Manga",
@@ -14604,5 +14621,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 859
+  "count": 860
 }
