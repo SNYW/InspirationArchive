@@ -11578,6 +11578,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Last of Us",
+      "year": 2013,
+      "medium": "Video Game",
+      "creator": "Naughty Dog",
+      "raw_score": 4.75,
+      "total_ratings": 5000,
+      "origin": "USA ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Pandemic, Isolation",
+      "image_filename": "The_Last_of_Us_2013.jpg",
+      "pitch": "The Last of Us is a 2013 action-adventure game set in a post-apocalyptic United States twenty years after a global pandemic caused by a mutated Cordyceps fungus. Players control Joel, a hardened survivor tasked with escorting Ellie, a fourteen-year-old girl who may hold the key to a cure, across the ruined American landscape. The game combines third-person survival gameplay with a narrative that explores the bond between Joel and Ellie as they traverse cities overrun by both infected creatures and hostile survivor groups.\n\nDeveloped by Naughty Dog, the studio behind the Uncharted series, The Last of Us represented a significant departure from their previous work, focusing on emotional storytelling and mature themes. The game was released for PlayStation 3 in 2013 and later remastered for PlayStation 4. It received widespread critical acclaim for its narrative, gameplay, visuals, sound design, and character development, becoming one of the best-selling video games of all time.",
+      "truth": "The game opens in 2033, showing the Cordyceps fungus outbreak beginning in suburban Texas. Players experience the first hours of the pandemic through Joel's daughter Sarah, who is killed early in the story\u2014establishing the emotional stakes that will drive Joel for the next two decades.\n\nTwenty years later, Joel has become a black-market smuggler in a Boston quarantine zone controlled by the military-backed FEDRA. He and his partner Tess are recruited by Marlene, leader of the Fireflies (a rebel militia), to escort Ellie to Fireflies outside the city. They discover Ellie is infected but immune\u2014the first known human to survive the Cordyceps infection.\n\nTheir journey takes them across America: through abandoned cities, forests, and small towns. Along the way, they encounter various survivor factions, including the violent Hunters of Pittsburgh and a cannibal group led by David. They also travel with Henry and Sam, two brothers who briefly join them before tragedy strikes.\n\nThe game alternates between action-driven sequences and quieter character moments. Ellie aids Joel in combat and navigation, and their relationship develops through conversations and shared experiences. During Joel's severe injury in winter, Ellie must care for him, showcasing her resilience and maturity.\n\nThe climax reveals the Fireflies plan to create a vaccine by studying Ellie's brain\u2014requiring her death. Joel, unable to accept this, kills the Fireflies and escapes with Ellie, telling her the doctors simply couldn't find a way to help her. This moral compromise forms the game's most controversial and discussed element: Joel's choice to prioritize his surrogate daughter over saving humanity.",
+      "core": "**Pandemic and Survival:** The game presents a realistic take on apocalypse, exploring how society collapses not through nuclear war or alien invasion, but through a biological threat. The Cordyceps fungus (based on real-world parasites that infect insects) creates a believable and terrifying threat. The narrative examines how people respond to existential crisis\u2014some becoming authoritarian, others forming militias, and some descending into cannibalism.\n\n**Parental Bonds and Moral Ambiguity:** At its heart, The Last of Us is about the relationship between Joel and Ellie. Joel sees Ellie as a replacement for his dead daughter, and his choices throughout the game reflect this paternal drive. The game's ending forces players to confront uncomfortable moral questions: Is Joel a hero for saving Ellie, or a monster for dooming humanity? The game never provides a clear answer, trusting players to grapple with the ambiguity.\n\n**The Cost of Survival:** Violence in The Last of Us is weighty and consequential. Every kill has impact\u2014resources are scarce, enemies have backstories revealed through environmental storytelling, and the player is never positioned as a hero. This realistic approach to post-apocalyptic violence was groundbreaking for the medium and influenced countless games that followed.\n\n**Craft and Attention to Detail:** Naughty Dog's commitment to realism is evident throughout: environmental storytelling through abandoned homes and personal artifacts, realistic animations for movement and combat, and a world that feels genuinely lived-in and tragic. The game raised expectations for narrative AAA games and demonstrated that video games could deliver cinematic emotional experiences.\n\nThe Last of Us is widely considered one of the greatest video games ever made, not just for its technical achievements but for its willingness to explore complex emotional territory and challenge players with difficult moral choices. Its success spawned a sequel (The Last of Us Part II), a television adaptation by HBO, and continues to influence the industry.",
+      "created_at": "2026-03-19 10:26:52"
+    },
+    {
       "title": "The Lift",
       "year": 1983,
       "medium": "Film",
@@ -14944,5 +14961,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 879
+  "count": 880
 }
