@@ -4200,6 +4200,23 @@
       "created_at": "2026-03-01 21:04:41"
     },
     {
+      "title": "Gugusse et l'Automate",
+      "year": 1897,
+      "medium": "Film",
+      "creator": "Georges M\u00e9li\u00e8s",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Hard-SF ,",
+      "topics": "Sentience",
+      "image_filename": null,
+      "pitch": "Gugusse et l'Automate (also known as The Clown and the Automaton) is an 1897 French short silent film directed by Georges M\u00e9li\u00e8s. At approximately one minute in length, the film depicts a clown who becomes amazed and confused by the mechanical movements of an automaton\u2014a mechanical man that performs intricate movements. The film was considered lost for decades until a 35mm nitrate print was rediscovered by the Library of Congress in 2025 and restored for public release in February 2026.\n\nWhat makes this film historically significant is that it marks the first known cinematic appearance of a robot (though the word \"robot\" would not be coined until Karel \u010capek's R.U.R. in 1920). Film historians Douglas Menville and R. Reginald judged Gugusse to be the most significant scientifically themed film of 1897 and suggested it may be the first true science fiction film ever made.",
+      "truth": "The film opens on a stage where a mysterious automaton sits motionless. A clown enters and observes the mechanical figure with curiosity and wonder. The automaton then begins to move\u2014its limbs articulated in a surprisingly lifelike manner. The clown becomes increasingly amazed, watching the mechanical man's precise, jerky movements with growing fascination. The automaton performs its programmed routine while the clown reacts with a mix of awe, confusion, and eventually something resembling jealousy or inadequacy at being outperformed by an inanimate creation.\n\nThe specific details of the automaton's performance and the clown's reactions are not extensively documented, as the film was long considered lost. However, the film is recognized for its pioneering depiction of artificial life\u2014showing a mechanical being that appears to have a will of its own, moving in ways that challenge the viewer's understanding of what machines can do.",
+      "core": "**The Birth of the Robot on Screen:** Gugusse et l'Automate holds a unique place in film history as potentially the first science fiction film. It predates the widespread use of the word \"robot\" but captures exactly what that term would come to mean: an artificial, mechanical being created by humans that imitates life. The film emerged in an era when automata\u2014mechanical figures that could perform complex movements\u2014were popular attractions in European entertainment, and M\u00e9li\u00e8s, who collected automata himself for his Th\u00e9\u00e2tre Robert-Houdin, was uniquely positioned to capture this phenomenon on film.\n\n**Science and Spectacle:** The film represents the intersection of scientific curiosity and theatrical spectacle that characterized early science fiction. M\u00e9li\u00e8s was fascinated by the possibilities of film as a medium for depicting the impossible, and this short work demonstrates his interest in themes of scientific experimentation, creation, and transformation\u2014themes that would become central to the science fiction genre.\n\n**M\u00e9li\u00e8s as SF Pioneer:** While A Trip to the Moon (1902) is more famous, Gugusse et l'Automate shows M\u00e9li\u00e8s already exploring science fiction themes a decade earlier. The rediscovery and restoration of this film in 2025-2026 has allowed modern audiences to witness the origins of the genre on screen, making it an essential artifact for any science fiction archive.\n\n**The Automaton as Cultural Symbol:** The film captures a moment in cultural history when automata represented the cutting edge of mechanical science\u2014precursors to modern robotics. The clown's reaction to the automaton can be read as a meditation on humanity's relationship with its own creations: wonder at what we can build, anxiety about being replaced, and fascination with the boundary between the living and the mechanical.",
+      "created_at": "2026-03-19 11:50:51"
+    },
+    {
       "title": "Gunbuster",
       "year": 1988,
       "medium": "OVA",
@@ -15029,5 +15046,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 884
+  "count": 885
 }
