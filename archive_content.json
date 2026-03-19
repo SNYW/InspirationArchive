@@ -2806,6 +2806,23 @@
       "created_at": "2026-03-04 04:16:43"
     },
     {
+      "title": "Die Arche",
+      "year": 1919,
+      "medium": "Film",
+      "creator": "Richard Oswald",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Germany ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Ecology, Isolation",
+      "image_filename": null,
+      "pitch": "Die Arche (The Ark) is a 1919 German silent science fiction film directed by Richard Oswald. Set in a near-future world where civilization has been destroyed, the film follows a small group of survivors who board an ark to escape the devastation. Based on a novel by Werner Scheff, this two-part epic was one of the earliest post-apocalyptic films in cinema history. The film stars Leo Connard as Ernst Pogge, a ship owner, and Eva Speyer as his daughter Helga, with Georg H. Schnell as Captain Klaus Donken. Cinematography was handled by Karl Freund, who would later become a legendary horror film director in both Germany and Hollywood.",
+      "truth": "The film takes place in a dystopian near-future where civilization has collapsed. The surviving remnants of humanity face extinction as the world they knew has been destroyed. A group of survivors, led by ship owner Ernst Pogge, decides to construct an ark\u2014a massive vessel that will carry them to safety and allow humanity to start anew.",
+      "core": "Die Arche stands as a pioneering work in the science fiction film genre, emerging during the golden age of German Expressionist cinema. The film's treatment of apocalypse and renewal predates many later works in the genre and reflects the anxieties of post-World War I Germany\u2014a nation grappling with collapse and the need for reconstruction.\n\nThe choice of an \"ark\" as the salvation mechanism carries obvious biblical resonance, updating the Noah story for a scientific age while maintaining the theme of divine or cosmic judgment. This allegorical quality, combined with the film's speculative premise, places it among the earliest examples of science fiction cinema as a distinct genre rather than mere fantasy or adventure.\n\nThe film's production during the Weimar Republic period also reflects the broader cultural moment\u2014Germany in 1919 was itself experiencing the collapse of the old order and the birth of something new. The near-future setting allows for commentary on contemporary social anxieties while projecting them into a speculative frame.\n\nKarl Freund's cinematography would later influence his work in expressionist horror classics like \"The Cabinet of Dr. Caligari\" and \"Metropolis,\" and his visual sensibilities in Die Arche helped establish the visual language of sci-fi cinema. The film's two-part epic structure also influenced later serial and epic filmmaking in the genre.",
+      "created_at": "2026-03-19 03:20:07"
+    },
+    {
       "title": "Die Welt ohne Maske (The World Without a Mask)",
       "year": 1934,
       "medium": "Film",
@@ -14570,5 +14587,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 857
+  "count": 858
 }
