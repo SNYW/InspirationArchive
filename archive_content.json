@@ -1055,6 +1055,23 @@
       "created_at": "2026-03-03 16:45:27"
     },
     {
+      "title": "Altered States",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Ken Russell (Director), Paddy Chayefsky (Screenplay)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "USA ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Transhumanism, Evolution",
+      "image_filename": "Altered_States_1980.jpg",
+      "pitch": "Altered States is a 1980 American experimental surrealist science fiction horror film directed by Ken Russell, adapted by playwright and screenwriter Paddy Chayefsky from his 1978 novel of the same name. The film explores the boundaries of human consciousness through the story of Edward Jessup, a psychopathologist who believes that \"our other states of consciousness are as real as our waking states.\" Beginning with sensory deprivation research at Columbia University and later continuing at Harvard Medical School, Jessup pushes his experiments further\u2014combining flotation tanks with psychoactive substances derived from a Mexican indigenous tribe's sacred mushroom ceremonies. As his experiments escalate, Jessup begins experiencing actual biological devolution, transforming first into a primitive caveman and ultimately into an amorphous mass of primordial matter. The film marked William Hurt's debut and was nominated for Academy Awards for Best Original Score and Best Sound Mixing.",
+      "truth": "In 1967, Edward Jessup is a Columbia University psychopathologist studying schizophrenia who becomes obsessed with exploring altered states of consciousness through sensory deprivation tanks. At a faculty party, he meets fellow academic Emily, and they eventually marry.\n\nA decade later, Jessup is now a tenured professor at Harvard Medical School. His marriage to Emily has deteriorated, and they are on the verge of divorce. When he learns about the Hinchi tribe\u2014whose members experience shared hallucinatory states through sacred mushroom ceremonies\u2014he travels to Mexico to participate in their rituals. During the ceremony, he experiences intense hallucinations including visions of petrification.\n\nReturning with a sample of the Hinchi potion, Jessup continues self-experimentation. When toxic concentrations make increased dosage dangerous, he returns to the sensory deprivation tank, believing it will enhance the substance's effects at his current dose. During experiments monitored by colleagues, he experiences visions of early hominids and insists his hallucinations have become \"externalized.\"\n\nEmerging from the tank, Edward has transformed physically\u2014becoming a small, light-skinned Caveman with fer al instincts. He goes on a rampage through town, breaks into a zoo, then returns to his natural form. In subsequent experiments, he experiences more profound regression, transforming into an amorphous mass of conscious, primordial matter. An energy wave destroys his tank and injures his colleagues.\n\nEmily searches the resulting vortex for Edward, finding him on the brink of becoming a non-corporeal energy being that will vanish from reality. His friends bring him home, hoping the transformations will cease. Finally, urged by Emily to fight the change, the transformation stops as she embraces him\u2014and he seemingly regains human form.",
+      "core": "**Consciousness and the Self:** The central theme is the nature of consciousness and whether alternate states reveal deeper truths about human identity. Jessup's core belief\u2014that other states of consciousness are as real as waking states\u2014drives his descent. The film explores whether the self is fixed or fluid, and whether underneath civilization lies something primordial.\n\n**Body Horror and Biological Devolution:** The film is often cited as a landmark of body horror. Jessup's transformations\u2014into caveman, then into primordial soup\u2014are viscerally disturbing, exploring fears of losing human form. The biological devolution theme connects to evolutionary psychology and the question of what lies beneath the conscious mind.\n\n**The Scientific Hubris:** Jessup's relentless pursuit of knowledge, ignoring warnings from colleagues and his wife, represents scientific ambition taken to destructive extremes. The film critiques the drive toexperiment on oneself and the assumption that all states of consciousness are meant to be explored.\n\n**Synesthetic Form:** The film's visual style mirrors its themes\u2014Russell employs elaborate special effects and cinematography to depict sensory experiences beyond normal perception. The transformations blur boundaries between external reality and internal consciousness, making the form embody the content.\n\n**Sources in Research:** Chayefsky's screenplay was influenced by John C. Lilly's sensory deprivation research, conducted in isolation tanks under the influence of psychoactive drugs like mescaline, ketamine, and LSD. The blending of scientific fact with speculative fiction creates a uniquely unsettling meditation on human consciousness.\n\nAltered States remains a cult classic for its willingness to viscerally explore consciousness at its most extreme\u2014and for asking whether the self can survive the exploration of the self.",
+      "created_at": "2026-05-24 17:38:35"
+    },
+    {
       "title": "Ambassador Magma",
       "year": 1965,
       "medium": "Manga",
@@ -15318,5 +15335,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 901
+  "count": 902
 }
