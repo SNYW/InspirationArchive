@@ -5339,6 +5339,23 @@
       "created_at": "2026-03-05 13:15:51"
     },
     {
+      "title": "Laser Squad",
+      "year": 1988,
+      "medium": "Video Game",
+      "creator": "Julian Gollop / Target Games",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "UK ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "Sentience, Megacorps, Rebellion",
+      "image_filename": "Laser_Squad_1988.jpg",
+      "pitch": "Laser Squad is a turn-based tactics video game originally released for the ZX Spectrum in 1988 and subsequently ported to Commodore 64, Amstrad CPC, Amiga, Atari ST, and MS-DOS. Developed by Julian Gollop and his team at Target Games (later Mythos Games), it expanded on the ideas from their earlier Rebelstar series and became a foundational work in the tactical turn-based genre. The game features seven scenarios where players command squads of soldiers on missions involving infiltration, assassination, rescue, and defense operations against droid forces controlled by megacorporations. What set Laser Squad apart was its innovative fog-of-war mechanics, line-of-sight combat systems, morale tracking, and resource management\u2014all features that would directly influence the acclaimed X-COM series, which began as a planned sequel to this game.",
+      "truth": "Laser Squad presents players with one or two-player turn-based tactical missions on gridded maps. Before each mission, players allocate credits to purchase weapons and armor for their squad members. Missions include various objectives:\n\n- **The Assassins**: Infiltrate facilities to assassinate weapons manufacturer Sterner Regnix\n- **Moonbase Assault**: Penetrate an enemy moonbase through airlocks and destroy computer systems\n- **Rescue from the Mines**: Navigate a mining complex to free three imprisoned squad members\n- **The Cyber Hordes**: Defend a station's seven stabilizer cores from invading droids\n- **Paradise Valley**: Escape a colony with advanced starfighter blueprints\n- **The Stardrive**: Retrieve a stolen stardrive controller from mercenaries\n- **Laser Platoon**: Deathmatch combat with 10-man squads\n\nGameplay mechanics include action points consumed by movement, shooting, and object interaction. Units have fatigue levels affecting performance, and morale can cause panic when teammates die. Line-of-sight determines targets players can engage\u2014enemies outside visual range remain hidden. Combat options range from high-cost aimed shots (more accurate) to cheaper snap and auto shots (less precise). Each mission limits turns, with victory points awarded for completing objectives or eliminating enemies.\n\nThe game received strong reviews in gaming magazines of the era and gained several accolades. Julian Gollop later conceived X-COM: UFO Enemy Unknown as a direct sequel, marking Laser Squad's legacy in the tactical strategy genre.",
+      "core": "**Tactical Innovation**: Laser Squad pioneered several mechanics that became genre standards\u2014fog-of-war, action-point allocation, morale psychology, and line-of-sight targeting combined into a cohesive tactical package that influenced countless subsequent games.\n\n**Corporate Dystopia**: The game's setting presents a world dominated by megacorporations (Omni Corporation, Metallix Corp, Sterner Regnix) locked in conflicts over technology and resources. Players operate as mercenaries hired to execute corporate objectives\u2014assassinations, sabotage, extraction\u2014framing warfare as enterprise rather than heroism.\n\n**Squad-Level Psychology**: Unlike earlier wargames focusing on armies or individual heroes, Laser Squad emphasizes small-unit tactics where troop morale, fatigue, and individual survival matter. Witnessing comrade deaths can cause panic, units tire under heavy loads, and careful resource management determines mission success.\n\n**Technology and Humanity**: The enemy forces often consist of droids\u2014autonomous killing machines lacking morale or fatigue. This creates thematic tension between human squads (with all their psychological vulnerabilities) and soulless machine opponents. Victory often requires exploiting droid limitations rather than brute force.\n\n**Legacy in Gaming**: Laser Squad's influence extends directly to the X-COM franchise, which preserved and expanded its tactical foundation while adding strategic layer management. Julian Gollop's design philosophy\u2014that tactical combat thrives when unit psychology and resource constraints matter\u2014continues shaping modern tactical games.\n\nThe game represents a transitional moment: the bridge between primitive strategy games and the sophisticated tactical experiences that followed. Its emphasis on small-unit human drama within corporate conflict anticipated themes the cyberpunk genre would explore more fully in subsequent decades.",
+      "created_at": "2026-05-24 11:42:24"
+    },
+    {
       "title": "Late August at the Hotel Ozone",
       "year": 1967,
       "medium": "Film",
@@ -15080,5 +15097,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 887
+  "count": 888
 }
