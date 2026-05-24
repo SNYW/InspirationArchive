@@ -2041,6 +2041,23 @@
       "created_at": "2026-03-02 20:01:25"
     },
     {
+      "title": "Br\u00e1ny Skeldalu",
+      "year": 1998,
+      "medium": "Video Game",
+      "creator": "Napoleon Games",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czech-Republic ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience, Exploration",
+      "image_filename": null,
+      "pitch": "Br\u00e1ny Skeldalu (Gates of Skeldal) is a Czech dungeon-crawling RPG released in 1998, developed by Napoleon Games for MS-DOS. Set on the ancient island of Rovenland\u2014a mystical realm where elder gods once rested during the world's creation\u2014the game follows six summoned heroes tasked with stopping five evil mages from opening a forbidden dimensional gateway called the Gate of Skeldal. Combining 2D and pseudo-3D graphics, it pioneered a unique blend of isometric exploration and real-time combat that would become a cult classic of Czech gaming. The game was released as freeware in 2007, with its source code opened in 2008, and later ported to mobile platforms in 2014 via a successful crowdfunding campaign.",
+      "truth": "The narrative begins on the mystical island of Rovenland, where ancient magic intertwines with the fabric of reality. Five corrupt mages have constructed the Skeldal Tower, filling it with monsters to deter intruders as they attempt to perform a forbidden rite that would open a gateway into the dimension of Zohar\u2014a realm of immense destructive power. An elderly scholar named Freghar discovers their plot and attempts to stop them by performing a sacred summoning ritual to call forth three heroes from other realms. However, the ritual claims his life in the process, leaving the newly summons ed heroes to continue his mission.\n\nThe protagonists include Wahargem, a fearsome warrior; and two additional heroes who join forces with three other key characters they encounter throughout their journey: Roland, a principled thief; Erik, the scholarly son of a librarian; and Gralt, a reclusive mage who has isolated himself from society. Together, they seek out Nimeth, a powerful sorcerer who reveals himself to have been the original teacher of the five corrupted mages\u2014before greed drove them to betray him upon discovering the Scroll of Nogran, which promised unlimited power for those who could perform its forbidden rite.\n\nNimeth entrusts the heroes with a crucial mission: to collect five powerful artifacts scattered across Rovenland, each representing a source of magical energy that the mages require for their ritual. After the party successfully gathers these artifacts, Nimeth forges them into a legendary Sword of Revenge. Armed with this weapon, the heroes storm Skldal Tower and arrive just in time to disrupt the ritual, destroying the mages and sealing the dimensional gateway permanently. Following their victory, the heroes return to their respective homelands\u2014Roland becomes an honored merchant, Erik returns home, and Gralt prepares for new adventures.\n\nA sequel titled The Fifth Disciple was released in 2002.",
+      "core": "**Czech Gaming Heritage and Amateur Excellence:** Br\u00e1ny Skeldalu represents a landmark achievement in Eastern European game development, created during a period when the Czech Republic was emerging from decades of communist isolation into the global gaming landscape. The fact that an amateur team could produce such an ambitious RPG speaks to the talent and determination present in the country's early gaming community. The game demonstrates that innovative, locally-developed games could match international standards despite limited resources\u2014a theme that resonates throughout Czech gaming history.\n\n**Dimensional Fantasy and Mythological Worldbuilding:** The game draws heavily on European fantasy traditions, weaving together elements of classical mythology and occult cosmology. The concept of Zohar as a forbidden dimension echoes Gnostic and Kabbalistic traditions, while Rovenland itself functions as a liminal space\u2014an island where the boundary between mortal reality and mythological origin remains permeable. This sophisticated approach to worldbuilding elevates the game beyond simple dungeon crawling into genuine mythological speculation.\n\n**Open Source Philosophy:** The developers' decision to release both the game as freeware and subsequently open its source code represents a pioneering move in gaming ethics. This progressive stance anticipated the open-source movement in gaming by nearly a decade, allowing generations of players to study, modify, and learn from the game's code. The 2014 crowdfunding mobile port demonstrates how community support can extend a game's lifespan far beyond its original release.\n\n**Mechanical Innovation:** The game's hybrid 2D/3D engine represented technical ambition for its era, while its real-time combat system distinguished it from turn-based contemporaries. The six-character party system also allowed for strategic depth uncommon in games of that period, requiring players to manage diverse abilities and roles throughout dungeons.",
+      "created_at": "2026-05-24 18:21:25"
+    },
+    {
       "title": "Br\u00fcsel",
       "year": 1992,
       "medium": "Graphic Novel",
@@ -15352,5 +15369,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 903
+  "count": 904
 }
