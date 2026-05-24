@@ -3622,6 +3622,23 @@
       "created_at": "2026-03-02 13:48:33"
     },
     {
+      "title": "Faust",
+      "year": 1999,
+      "medium": "Video Game",
+      "creator": "Arxel Tribe",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "France ,",
+      "mood": "Surreal ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Religion, Sentience",
+      "image_filename": "Faust_1999.jpg",
+      "pitch": "Faust is a 1999 graphic adventure game developed by Arxel Tribe and published by Cryo Interactive. Set in an abandoned amusement park called Dreamland, the player assumes the role of Marcellus Faust, an elderly African American who awakens in this eerie environment and encounters Mephistopheles\u2014a dandy-like demon engaged in a metaphysical dispute with \"the boss\" over seven souls. The player serves as arbiter, examining each case to determine guilt or innocence across seven interconnected episodes. Loosely inspired by Goethe's Faust, the game explores themes of morality, temptation, and the nature of the soul through a contemplative, atmospheric adventure that received mixed but cult-following reviews. Released in Europe as \"Faust\" and in North America as \"Seven Games of the Soul,\" the title was a commercial failure sellunder 10,000 copies worldwide.",
+      "truth": "Marcellus Faust awakens in Dreamland, an abandoned amusement park shrouded in mystery. He meets the charismatic Mephistopheles, who explains that he and \"the boss\"\u2014revealed to be Theodore Moore, the park's owner\u2014are locked in an argument over the fate of seven souls. Faust's role is to serve as judge, examining evidence and testimony for each case to determine whether the souls are guilty or innocent.\n\nEach of the seven levels represents one of the seven souls, revealing their sins and transgressions through exploration of Dreamland's surreal, 360-degree panoramic environments. The player navigates this strange realm, solving puzzles and interacting with characters to uncover the truth behind each soul's story. The gameplay emphasizes atmosphere and narrative discovery over action.\n\nThrough these journeys, the game explores the moral complexity of human nature\u2014each case presenting shades of gray rather than clear-cut morality. The sins range from petty transgressions to profound moral failures, and the player's judgments carry weight.\n\nIn the game's climax, it is revealed that Theodore Moore made a pact with Mephistopheles, trading his soul for demonic power. Faust is given a choice: take over as the park's new keeper, or sell the park to Mephisto and walk away free. This ending leaves the player's moral compass as the deciding factor in the story's ultimate resolution.",
+      "core": "**The Faust Myth in Digital Form:** The game adapts Goethe's classic tale for the interactive medium, exploring the eternal theme of the deal with the devil\u2014but inverts the traditional bargain. Where Goethe's Faust sells his soul for knowledge and experience, here Mephistopheles seeks freedom from captivity, and the player serves as arbiter rather than tempted party. The game interrogates moral agency in an amoral universe.\n\n**Moral Relativism and Ambiguity:** Rather than offering clear moral judgments, the game presents morally complex scenarios where right and wrong blur. This approach aligns with the developer's stated goal of creating a \"transgressive\" experience that questions absolute morality. Mephistopheles himself is portrayed not as villain but as a complex character trapped in an existential situation\u2014representing the game's refusal of easy answers.\n\n**Adult Adventure Gaming:** Faust represents a moment in late-1990s adventure gaming when developers attempted to create mature, narrative-driven experiences. Following the success of Myst, Arxel Tribe bucked trend by creating something intentionally confusing and philosophically ambitious\u2014aiming for the depth of literature rather than the accessibility of typical games.\n\n**The Cinematic and Musical Dimension:** With a budget of approximately \u00a3700,000 (substantial for a French production) and licensed jazz music from Stan Getz, Sarah Vaughan, and Mel Torm\u00e9, Faust prioritized artistic expression. The pre-rendered visuals and episodic structure were influenced by television's The Twilight Zone and Lars von Trier's The Kingdom miniseries\u2014establishing ambition beyond gaming conventions.\n\n**Critical Reception and Legacy:** Though a commercial failure selling under 10,000 copies, Faust gained a cult following and remains notable as an example of artistic ambition in adventure gaming. Metacritic reports \"mixed or average reviews,\" with critics divided between praising its atmosphere and uniqueness versus criticizing its incoherent narrative. The game stands as an artifact of late-1990s experimentation in narrative gaming\u2014a time when the medium attempted to stretch beyond its genre boundaries.",
+      "created_at": "2026-05-24 14:36:11"
+    },
+    {
       "title": "Filibus",
       "year": 1915,
       "medium": "Film",
@@ -15182,5 +15199,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 893
+  "count": 894
 }
