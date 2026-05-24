@@ -1327,6 +1327,23 @@
       "created_at": "2026-03-03 22:33:18"
     },
     {
+      "title": "Arcane",
+      "year": 2021,
+      "medium": "OVA",
+      "creator": "Fortiche Production (animation), Riot Games (source material)",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "France ,",
+      "mood": "Tense ,",
+      "sub_genres": "Cyberpunk ,",
+      "topics": "Rebellion, Sentience",
+      "image_filename": null,
+      "pitch": "Arcane is a steampunk-infused animated television series created by French animation studio Fortiche Production for Netflix, based on the universe of Riot Games' popular multiplayer game League of Legends. Set in the divided city of Piltover and its oppressed underground district Zaun, the series follows the origins of iconic champions Vi, Jinx, and Heimerdinger. Rather than a straightforward fantasy-adventure, Arcane delivers a sophisticated political thriller exploring class struggle, magical technology (hextech), and the cost of progress\u2014all rendered in a distinctive art style blending hand-painted aesthetics with stunning visual world-building. The series received universal acclaim and won multiple awards for its storytelling and animation quality.",
+      "truth": "The series unfolds across three acts, each focusing on different characters and tensions between the surface city of Piltover and its troubled undercity Zaun.\n\nIn the first act, we meet two sisters separated in childhood: Powder (later Jinx) and Vi. Raised in Zaun by a drug-addicted father after their parents' death in a Piltover Zaun raid, the sisters survive through theft and street savvy. Meanwhile, in Piltover, inventor Heimerdinger and his young prot\u00e9g\u00e9 Jayce Talis accidentally discover hextech\u2014magical crystals that can power incredible devices. Their discovery becomes the key to Piltover's technological advancement, attracting attention from the council.\n\nThe second act jumps forward several years. Vi has become a enforcer for Piltover's sheriff, while Powder\u2014traumatized from childhood\u2014has become the reckless explosives expert Jinx, now leading a gang of criminals in Zaun. Heimerdinger is now on the council but struggles with the moral implications of hextech's militarization. Jayce has become a rising star, married to a councilor's daughter, and faces mounting pressure to weaponize their discoveries.\n\nThe final act builds to crisis as Zaun's chem-baron criminal underworld escalates. Jinx orchestrates a devastating attack on the Piltover council, blaming Vi and turning her former friends against her. The series culminates in an emotional confrontation between the sisters aboard a Hextech missile, with Jinx/fusing herself with a dangerous crystal\u2014transforming physically and mentally into the unstable champion fans know from the games. The ending leaves their relationship in tatters and sets the stage for future conflicts.",
+      "core": "**Class Division and Structural Violence:** The Piltover-Zaun divide is not mere background but the series' central thematic engine. Zaun is depicted as an exploited underclass\u2014a technologically dependent colony forced to provide resources while receiving nothing but pollution and neglect. The series shows how poverty is structural, not personal: characters aren't poor because they lazy or foolish but because the system extracts wealth and leaves crumbs. This critique of class division reads as sharp social commentary.\n\n**The Ethics of Progress:** Both Heimerdinger and Jayce grapple with whether their innovations do more harm than good. Hextech could improve lives but instead arms the elite and enriches the powerful. The series asks whether progress is inherently good\u2014and suggests that without distributive justice, technological advancement serves dominance, not liberation.\n\n**Trauma and Identity:** Jinx represents how psychological trauma shapes and distorts identity. Her transformation isn't magical but psychological\u2014she internalizes the failures she's witnessed and the rejections she's experienced, writing them into her self-understanding. The question of whether people can overcome their pasts runs beneath every character arc.\n\n**Family and Loyalty:** Vi and Jinx's fractured relationship drives emotional stakes. The series asks whether bondssurvive betrayal and whether forgiveness is possible\u2014but refuses easy answers. Their final confrontation shows love tangled with harm, loyalty conflicting with loyalty to other causes.\n\n**Innovative Animation and Storytelling:** Arcane's visual style merges hand-painted textures with 3D modeling, creating something visually rich and original. Its storytelling adopts cinema's episodic rhythm rather than animation's typical pacing\u2014each episode functions like a film chapter. The series demonstrates that video game adaptations can produce genuine art, not merely marketing material.\n\nThe series succeeded in transcending its source material's genre conventions to deliver a layered political drama about power, poverty, and progress\u2014while honoring the emotional core that made League of Legends resonate with millions of players worldwide.",
+      "created_at": "2026-05-24 16:07:15"
+    },
+    {
       "title": "Archive",
       "year": 2020,
       "medium": "Film",
@@ -15233,5 +15250,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 896
+  "count": 897
 }
