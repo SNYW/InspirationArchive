@@ -307,6 +307,23 @@
       "created_at": "2026-03-04 22:19:10"
     },
     {
+      "title": "A Christmas Dream",
+      "year": 1945,
+      "medium": "Short Film",
+      "creator": "Karel Zeman & Bo\u0159ivoj Zeman",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czechoslovakia ,",
+      "mood": "Optimistic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Sentience",
+      "image_filename": "A_Christmas_Dream_1945.jpg",
+      "pitch": "A Christmas Dream is a 1945 Czechoslovak short film directed by the pioneering animator Karel Zeman (in collaboration with his brother Bo\u0159ivoj Zeman), marking Zeman's first experiment in combining stop-motion animation with live-action footage. Released in Czechoslovakia in 1945 and in the United States in 1948, this charming holiday film follows a young girl who, after discarding her beloved old rag doll for shiny new Christmas presents, experiences a magical dreamscape where both old and new toys come to life. Through elaborate stop-motion techniques, the rag doll dances across a piano, skates across a table, and narrowly avoids disaster\u2014all while the new toys join the festivities. The film won the Grand Prix International for best short fiction film at the 1946 Cannes Film Festival, and has been called \"a classic of its genre\" by film historians.",
+      "truth": "Under the family Christmas tree, a young girl discovers she has been given an array of exciting new toys. Excitedly embracing the new gifts, she tosses aside her old rag doll onto the floor. That night, after the girl goes to sleep, the abandoned rag doll silently comes to life in her dreams. The animating magic of Christmas transforms the humble toy into a dancer who pirouettes across a piano keyboard and skates gracefully across a tabletop. The newly gifted toys also spring to life and join the revelry. During the merriment, the rag doll turns on an electric fan and is buffeted by its breeze, nearly knocked about and forced to dodge frantically to avoid knocking over a delicate vase sitting on the table. The girl awakens from her bed, hears the commotion, and rushes to save the vase\u2014which she finds has toppled in reality. She embraces her beloved rag doll and returns contentedly to sleep, waking to find the rag doll still lying on the floor beside her. In the American release, Santa Claus himself appears magically to deliver the Christmas dream to the girl.",
+      "core": "This modest short film holds significance as Karel Zeman's first major experiment in the technique that would define his career: the fusion of stop-motion animation with live-action footage. Though only seven minutes long, A Christmas Dream established Zeman's signature approach, which he would later develop spectacularly in feature films like Journey to the Beginning of Time (1955) and Invention for Destruction (1958). The film also represents the rich tradition of European animation that preceded and influenced Zeman's work, including contributions from pioneering animator Herm\u00edna T\u00fdrlov\u00e1.\n\nThe film succeeds through its whimsical, wordless storytelling\u2014a universal holiday tale of valuing what one has over what one wants. The animation remains remarkable for its smoothness and inventiveness, with the rag doll's physical comedy predating similar effects that would later appear in international productions. The Cannes recognition established Zeman as a major figure in European cinema, setting the stage for his remarkable fantasy features that blended Verne-inspired adventure with groundbreaking visual technique.",
+      "created_at": "2026-05-24 18:37:19"
+    },
+    {
       "title": "A Clockwork Orange",
       "year": 1971,
       "medium": "Film",
@@ -15369,5 +15386,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 904
+  "count": 905
 }
