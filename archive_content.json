@@ -8909,6 +8909,23 @@
       "created_at": "2026-03-01 16:04:22"
     },
     {
+      "title": "Starless",
+      "year": 2010,
+      "medium": "Animated Short",
+      "creator": "Marek Berger",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Czech-Republic ,",
+      "mood": "Cerebral ,",
+      "sub_genres": "Science-Fiction ,",
+      "topics": "Sentience, Isolation",
+      "image_filename": null,
+      "pitch": "Starless is a Czech animated science fiction short film directed by Marek Berger, released in 2010. At just 4 minutes in length, the film explores themes of cosmic isolation and existential solitude through its abstract narrative. The short was included in Czech animated film collections of the 2010s, representing the Czech Republic's continued tradition of thoughtful animated science fiction shorts. The film's brevity belies its thematic depth, using the language of animation to convey profound questions about humanity's place in the universe.",
+      "truth": "Starless presents a contemplative, minimal narrative centered on themes of isolation and cosmic awareness. As a science fiction animated short, the film utilizes its brief runtime to create an atmosphere of existential dread and wonder. The animation style complements the film's themes of emptiness and distance from meaningful human connection. Given its classification as a science fiction work in the Czech animated film canon, the narrative likely engages with themes common to the genre\u2014exploration, alienation, or the search for meaning in vast spaces. The 4-minute format suggests a concentrated, poetic approach to storytelling rather than a plot-driven narrative.",
+      "core": "Starless represents the Czech animation tradition's engagement with speculative fiction, continuing a lineage that includes notable works like The Cybernetic Grandma (1962) and Jabberwocky (1971). While the specific plot remains minimally documented in Englishsources, its inclusion in science fiction animated film discussions indicates its thematic alignment with the genre's concerns\u2014questions of consciousness, isolation, or humanity's relationship to the infinite. The film contributes to a smaller but significant body of Czech animated science fiction that uses the medium's unique capabilities to explore ideas that might be difficult to convey in live-action. The brevity of Starless is characteristic of Czech animator B\u0159etislav Pojar's influence\u2014a tradition of using short-form animation for maximal thematic impact, distilling complex ideas into compact, powerful narratives.",
+      "created_at": "2026-05-24 12:29:38"
+    },
+    {
       "title": "Stars in Shadow",
       "year": 2017,
       "medium": "Video Game",
@@ -15131,5 +15148,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 890
+  "count": 891
 }
