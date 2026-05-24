@@ -8348,6 +8348,23 @@
       "created_at": "2026-03-03 10:47:13"
     },
     {
+      "title": "Shadwen",
+      "year": 2016,
+      "medium": "Video Game",
+      "creator": "Frozenbyte",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Finland ,",
+      "mood": "Gritty ,",
+      "sub_genres": "Dystopia ,",
+      "topics": "Rebellion, Sentience",
+      "image_filename": null,
+      "pitch": "Shadwen is a stealth action-adventure game developed and published by the Finnish studio Frozenbyte. Released in May 2016 for Windows, macOS, Linux, and PlayStation 4, the game follows Shadwen, an elite assassin living in the Dark Forest who is hired by the current king to kill the former ruler. When the king betrays her\u2014and burns down her forest home to eliminate her\u2014she seeks vengeance while protecting Lily, a young orphan girl whose father was taken to a quarry by the king's soldiers. The game features a \"time-warp\" mechanic allowing players to rewind time after decisions, creating strategic depth in its stealth gameplay. Critics gave mixed reviews, praising its innovative premise and tactical options but critiquing execution.",
+      "truth": "The story unfolds in a medieval-fantasy kingdom ruled by a tyrant king who rose to power through betrayal. Shadwen, a legendary assassin from the Dark Forest, was once hired by the current king to assassinate the previous ruler. After completing thisdeed, she expected compensation but instead faced the king's deceit\u2014he refused payment and ordered her forest home burned, believing her dead.\n\nMiraculously surviving, Shadwen becomes en route to the castle for revenge. Along her journey, she encounters Lily, a young orphaned girl struggling to survive after her father was taken to work in the royal quarries and her mother died during the previous spring. Lily attempts to steal apples from a tree in the city graveyard when Shadwen witnesses her struggle. Recognizing something in the child\u2014perhaps innocence untouched by the king's corruption\u2014Shadwen decides to protect her.\n\nAs Shadwen progresses toward the castle, her interactions with Lily shape the narrative. Depending on whether Lily witnesses Shadwen killing guards or acting mercifully, her perception of morality develops differently. The player ultimately faces two choices: kill the king to exact revenge or accept alternative payment. The game's multiple endings reflect these decisions.",
+      "core": "**Revenge and Moral Corruption:** The central theme examines how the pursuit of revenge consumes and transforms the avenger. Shadwen was once a willing instrument of tyranny, assassinating for coin without moral distinction. Now she becomes the judge of the very system she once served, raising questions about whether vengeance differs from the king's own ruthless ambition.\n\n**Protection and Innocence:** Lily represents innocence endangered by a corrupt world. Her presence challenges Shadwen's solitary, lethal worldview. The dynamic raises whether protecting the innocent requires becoming something new\u2014not merely a killer but a guardian with principles.\n\n**Trust and Betrayal:** Both Shadwen and Lily experienced betrayal\u2014the king betrayed Shadwen; guards betrayed Lily's father. Yet both must decide whether to extend trust to others. The game's branching dialogues and Lily's evolving perception reflect this tension.\n\n**Justice vs. Vengeance:** The distinction between justice and revenge threads through the narrative. Is Shadwen seeking justice for personal wrongs, or simple vengeance? The game refuses easy answers, presenting multiple endings that validate different interpretations.\n\nWhile technically fantasy rather than science fiction, Shadwen explores themes common to speculative fiction\u2014the ethics of violence, corruption's reach, the cost of vengeance\u2014within a stylized medieval frame. Its innovative mechanics and moral complexity make it noteworthy within the stealth genre despite mixed critical reception.",
+      "created_at": "2026-05-24 16:38:59"
+    },
+    {
       "title": "Shikari",
       "year": 1963,
       "medium": "Film",
@@ -15267,5 +15284,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 898
+  "count": 899
 }
