@@ -1242,6 +1242,23 @@
       "created_at": "2026-03-05 05:06:47"
     },
     {
+      "title": "Apollo's Song",
+      "year": 1970,
+      "medium": "Manga",
+      "creator": "Osamu Tezuka",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Japan ,",
+      "mood": "Melancholic ,",
+      "sub_genres": "Science-Fantasy ,",
+      "topics": "Time-Travel, Isolation, Memory",
+      "image_filename": "Apollos_Song_1970.jpg",
+      "pitch": "Apollo's Song is a 1970 manga by the legendary Osamu Tezuka, exploring themes of love, trauma, and reincarnation through the story of Shogo, a boy incapable of feeling love after years of abuse. Originally serialized in Weekly Sh\u014dnen King and later published in English by Vertical Inc. in 2007, the work represents Tezuka's mature meditation on love and human connection during a turbulent era of Japanese social history.\n\nThe story follows Shogo Chikaishi, who was born from a series of affairs and abused by his mother whenever he witnessed displays of love. This trauma leads him to kill animals in jealousy before he's committed to a mental institute. After shock therapy, he experiences out-of-body visions where the Greek goddess Athena condemns him to relive love across different historical periods for eternity\u2014each time experiencing loss and death until he finally understands true love.\n\nAcross multiple lifetimes\u2014in Nazi Germany, on a deserted island, and in a dystopian future\u2014Shogo encounters love only to lose it tragically each time. The manga culminates in the real world where, unable to reunite with his love Hiromi, he chooses mutual destruction rather than live without her.",
+      "truth": "The narrative unfolds through parallel layers of reality and vision. **Shogo Chikaishi** is the central protagonist\u2014a boy whose single mother never knew his father, conceived through transient relationships. His mother beat him whenever he witnessed love between others, leaving him psychologically damaged. After killing animals in jealousy, he's institutionalized.\n\nIn the mental institute, shock therapy triggers an out-of-body experience where he meets **Athena**, the Greek goddess of wisdom. She sentences him to an eternal punishment: to experience love across multiple lifetimes until he understands its true meaning.\n\nHis first vision places him in **Nazi Germany** as a stormtrooper who falls in love with a Jewish woman named Elise. He helps her escape, but she shoots him upon discovering her parents' death. They die together, declaring their love.\n\nHe next awakens on a deserted island with a photographer named Naomi after their plane crashes. The island is populated by paired animals, and when rescue arrives, the crew shoots the animals rather than preserve them. Naomi dies in the ensuing chaos, and the volcano erupts, killing all.\n\nReturning to reality momentarily, Shogo is accused of murdering a patient and flees. He's discovered training as a marathon runner by **Hiromi Watari**, whose former fianc\u00e9 pushes Shogo off a cliff. He survives but enters another vision\u2014this time a **dystopian future** where humanity is ruled by synth-human clones called Synthians. Sent to assassinate Queen Sigma, who resembles Hiromi, he instead falls in love. Multiple mishaps lead to his death by a clone of himself.\n\nBack in reality, Shogo witnesses a double suicide and attempts to take his own life. Hiromi stops him but dies in the attempt. In his final act, he sets himself on fire with her body in oil, choosing oblivion over a world without love.\n\nAthena informs him he must continue enduring love's pain for eternity. Hiromi is resurrected to follow him\u2014the cycle continues.",
+      "core": "**Cyclical Time and Eternal Return**: Tezuka employs the Nietzschean concept of eternal recurrence, presenting love and loss not as single events but as perpetual cycles. Each lifetime Shogo experiences is a variation on the same theme\u2014he finds love, loses it, and returns. This structure suggests love and suffering are inseparable, that one cannot exist without the other.\n\n**Trauma and Inability to Connect**: Shogo's psychological damage represents a broader commentary on emotional alienation in modern society. His inability to love stems from childhood trauma\u2014a comment on how dysfunctional environments breed emotional dysfunction. His violence against animals mirrors his inner emptiness.\n\n**Love as Destruction**: Unlike romantic depictions of love as constructive, Tezuka frames it as potentially destructive. Every instance of love in Shogo's journeys leads to loss, death, or tragedy. Even Hiromi's attempts at healing lead to mutual destruction. True love, here, is almost unbearable in its intensity.\n\n**Greek Mythology and Fate**: Athena's role as judge and executioner echoes Greek tragedies where gods determine mortal fate. Tezuka blends Eastern and Western mythological traditions, suggesting universal patterns of punishment, redemption, and cyclical suffering.\n\n**1970s Japanese Context**: Created amid student riots and social upheaval, Apollo's Song reflects the era's anxieties. Tezuka noted Shogo's depression mirrored societal instability. The manga also emerged during a period when sex education for children was taboo, and Tezuka used the narrative to explore themes of sexuality and love openly for the first time in mainstream manga.\n\n**Artistic Achievement**: The work represents Tezuka's artistic maturity\u2014moving from his earlier action-oriented works to psychological introspection. His careful character design varies across each lifetime while maintaining Shogo's essential features, creating a visual language for eternal recurrence.",
+      "created_at": "2026-05-24 14:51:10"
+    },
+    {
       "title": "Appleseed",
       "year": 1988,
       "medium": "OVA",
@@ -15199,5 +15216,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 894
+  "count": 895
 }
