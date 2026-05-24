@@ -2840,6 +2840,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Def-Con 4",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Paul Donovan",
+      "raw_score": null,
+      "total_ratings": 0,
+      "origin": "Canada ,",
+      "mood": "Pessimistic ,",
+      "sub_genres": "Post-Apocalypse ,",
+      "topics": "Isolation, Rebellion",
+      "image_filename": "Def-Con_4_1985.jpg",
+      "pitch": "Def-Con 4 is a 1985 Canadian post-apocalyptic film following three astronauts aboard a secret nuclear-armed space station who survive World War III and return to Earth to find civilization devastated. The film's title refers to the Defense Readiness Condition (DEFCON), though it inaccurately portrays DEFCON 4 as a high state of readiness rather than its actual status as the second-lowest level. The movie opens with text suggesting nuclear war has been made \"unthinkable\" through a perfect defense system, setting up an ironic commentary on military hubris. When tensions rise after a U.S. transport carrying Tomahawk missiles is hijacked by Libyan terrorists and nuclear weapons detonate in Soviet cities, the crew watches helplessly as what appears to be a full nuclear exchange occurs between the United States and Soviet Union. The astronauts must then decide whether to return to a potentially radiation-scorched Earth or remain in orbit indefinitely.",
+      "truth": "Day 407 of the Nemesis Mission finds three astronauts manning a secret space station armed with Fractional Orbbital Bombardment System nuclear weapons. The situation on Earth deteriorates rapidly after a U.S. transport ship carrying Tomahawk missiles is hijacked by Libyan terrorists. A nuclear missile lands but fails to explode in a Soviet city, then contact with ground is lost entirely as news reports confirm nuclear explosions in several Soviet cities\u2014the stolen missiles have been launched.\n\nA month later, still in orbit, the crew debates their options while observing the nuclear exchange between superpowers. They receive a final broadcast from astronaut Cecil Howe's wife, describing how her rural community survived the initial attacks but is now plagued by radiation sickness, killing survivors including their infant child. She herself is dying.\n\nTwo months later, the spacecraft's guidance system is mysteriously reprogrammed, forcing their return to Earth. They set their remaining nuclear payload to detonate in 60 hours and land hard on a beach in eastern Nova Scotia. Upon landing, astronaut Walker is pulled from the spacecraft and killed by \"terminals\"\u2014humans suffering from advanced radiation poisoning and starvation who now roam the wasteland.\n\nHowe encounters Vincent \"Vinny\" McKinnon, a survivalist who has fortified his house with defenses. Through Vinny, Howe meets Jacelyn \"J,J\" Jameson, a prisoner kept by the survivalist. The group attempts to return to their capsule but is ambushed by survivors from a nearby military fort led by Gideon Hayes. Their helicopter is subsequently destroyed by an electromagnetic pulse from the lingering nuclear explosions.\n\nOnly four survivors escape: Gideon, J.J., Marine Corporal Lacey, and Navy technician Boomer\u2014who reveals he forced the spacecraft's return by hacking its guidance system. Gideon locates a survival station via salvaged satellite equipment but estimates everyone in the area will die within two months when denser fallout clouds arrive.\n\nThe group is put on trial; all are sentenced to hang. During the chaotic execution attempt, Howe escapes but Boomer is killed. Jordan negotiates the others' release but is herself killed while attempting to murder Gideon. Using Vinny's armored tractor, Howe frees the prisoners. Gideon and Lacey attempt escape by sea while Howe swims after them. During the fight, both Gideon and Lacey are thrown overboard.\n\nHowe, Vinny, and J.J. witness the final nuclear explosion from their sailboat as the timer reaches zero\u2014the remaining payload finally detonates. The closing text declares: \"The final victory has been won. Mankind can now rest in peace\"\u2014a deeply ironic ending suggesting humanity's extinction.",
+      "core": "Def-Con 4 operates as a darkly ironic commentary on Cold War nuclear doctrine, specifically the logic of mutual assured destruction (MAD). The film's opening claims that nuclear defense has made global conflict \"unthinkable,\" yet the very existence of the space-based nuclear weapon system becomes the catalyst for apocalypse. The irony cuts deeper: the ultimate deterrent becomes the ultimate destroyer.\n\nThe post-apocalyptic landscape echoes early 1980s entries in the genre like The Day After (1983) and Threads (1984), but adds distinctly Canadian elements\u2014the landing site in Nova Scotia and the survivalist's fortified homestead. The \"terminals,\" radiation-sickened cannibals, provide visceral horror imagery while critiquing nuclear fallacies.\n\nThe film's structure places naive optimists (the astronauts) against hardened survivors, forcing them to confront an Earth they expected to rescue but instead must fight to escape. This reversal\u2014the heroes as potential threats to survivor communities\u2014challenges typical post-apocalyptic narrative assumptions.\n\nCritical reception was mixed, with TV Guide awarding 3/5 for its war scenario and \"disturbing effect,\" while Creature Feature gave 2.5/5 finding the space sequences good but land scenes derivative. Kim Newman criticized the plot as clich\u00e9d\u2014essentially \"a pre-apocalyptic person thrust into a post-apocalyptic world.\"\n\nThe film is historically significant as one of only a handful of Canadian-produced post-apocalyptic films from the 1980s and an early example of Canadian directors tackling the nuclear anxieties that defined the era.",
+      "created_at": "2026-05-24 17:06:18"
+    },
+    {
       "title": "Deicide 3: Distorted Existence",
       "year": 1997,
       "medium": "Video Game",
@@ -15301,5 +15318,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 900
+  "count": 901
 }
