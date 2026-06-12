@@ -10231,6 +10231,21 @@
       "created_at": "2026-03-07 01:12:00"
     },
     {
+      "title": "The Fatal Eggs",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Sergei Lomkin",
+      "raw_score": 2.35,
+      "total_ratings": 12,
+      "origin": "Russia",
+      "mood": "Satirical",
+      "sub_genres": "Science Fiction, Satire",
+      "topics": "Science gone wrong, Evolution, Technology",
+      "image_filename": "The_Fatal_Eggs_1995.jpg",
+      "pitch": "Based on Mikhail Bulgakov's 1924 satirical novella, this Russian-Czech co-production adapts the author's prescient warning about science run amok under authoritarian rule. When a professor invents a ray that accelerates biological growth, the Soviet state sees an opportunity to solve a chicken plague devastating the countryside \u2014 but bureaucratic incompetence leads to catastrophic consequences.\n\nThe film captures Bulgakov's darkly comic tone, blending genuine science fiction concepts with pointed satire of revolutionary-era Soviet dysfunction. The premise is absurd yet unsettling: what happens when a powerful tool falls into the wrong hands?",
+      "created_at": "2026-06-12 21:05:21"
+    },
+    {
       "title": "The Fever in Urbicande (La Fi\u00e8vre d'Urbicande)",
       "year": 1985,
       "medium": "Graphic Novel",
@@ -14506,5 +14521,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 967
+  "count": 968
 }

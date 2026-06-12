@@ -11595,6 +11595,23 @@
       "created_at": "2026-03-07 01:12:00"
     },
     {
+      "title": "The Fatal Eggs",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Sergei Lomkin",
+      "raw_score": 2.35,
+      "total_ratings": 12,
+      "origin": "Russia",
+      "mood": "Satirical",
+      "sub_genres": "Science Fiction, Satire",
+      "topics": "Science gone wrong, Evolution, Technology",
+      "image_filename": "The_Fatal_Eggs_1995.jpg",
+      "pitch": "Based on Mikhail Bulgakov's 1924 satirical novella, this Russian-Czech co-production adapts the author's prescient warning about science run amok under authoritarian rule. When a professor invents a ray that accelerates biological growth, the Soviet state sees an opportunity to solve a chicken plague devastating the countryside \u2014 but bureaucratic incompetence leads to catastrophic consequences.\n\nThe film captures Bulgakov's darkly comic tone, blending genuine science fiction concepts with pointed satire of revolutionary-era Soviet dysfunction. The premise is absurd yet unsettling: what happens when a powerful tool falls into the wrong hands?",
+      "truth": "In a near-future Moscow (1928 in the novel, adapted to the 1990s), Professor Persikov at the Zoological Institute discovers that his microscope produces a red ray dramatically accelerating organism growth and reproduction. When his assistant accidentally leaves amoebas under the lens, they multiply exponentially and attack the other specimens.\n\nThe Soviet government, facing an inexplicable plague that has wiped out all chickens in Russia, orders Persikov to use his invention to repopulate poultry farms. However, due to bureaucratic confusion and sabotage, the eggs sent to the state farm are not chicken eggs but reptile eggs from Persikov's laboratory \u2014 intended for a different experiment.\n\nGiant snakes, crocodiles, and ostriches escape and begin attacking the population. The Red Army is deployed but cannot contain the creatures. Only an unlikely deus ex machina \u2014 an unprecedented August frost \u2014 kills the reptiles and ends the crisis. Persikov is killed by a mob blaming him for the disaster.",
+      "core": "Bulgakov's original novella is a savage critique of Soviet scientific bureaucracy and revolutionary utopianism. The professor's invention mirrors nuclear technology \u2014 a powerful tool that, in the wrong context, becomes destructive. The government's eager appropriation of science without understanding its consequences mirrors Stalin-era megaprojects.\n\nThe film adaptation preserves these themes while updating them for the post-Soviet era, exploring the same tension between scientific progress and institutional incompetence. Like H.G. Wells' The Food of the Gods, it asks: what happens when humans play god with evolution, and who bears the cost when it goes wrong?",
+      "created_at": "2026-06-12 21:05:21"
+    },
+    {
       "title": "The Fever in Urbicande (La Fi\u00e8vre d'Urbicande)",
       "year": 1985,
       "medium": "Graphic Novel",
@@ -16440,5 +16457,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 967
+  "count": 968
 }
