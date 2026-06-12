@@ -16372,6 +16372,23 @@
       "created_at": "2026-03-05 07:33:06"
     },
     {
+      "title": "Zoo z\u00e9ro",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Alain Fleischer",
+      "raw_score": 2.58,
+      "total_ratings": 12,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Surreal",
+      "topics": "Identity, Music, Control",
+      "image_filename": "Zoo_zero_1979.jpg",
+      "pitch": "Set in a surreal nightclub called Noah's Ark where guests wear animal masks, Zoo z\u00e9ro follows Eva, a singer who seeks to evade the control of her agent by wandering the city at night. The film features Klaus Kinski in a supporting role as the mysterious figure Yav\u00e9, who observes the action from the margins.\n\nThis experimental French film from 1979 creates a dreamlike atmosphere where reality and fantasy blur. The nightclub sequences show performers and patrons in elaborate animal costumes, creating a grotesque carnival aesthetic. Eva moves through both the club and the nocturnal city streets, searching for escape from the forces that constrain her.",
+      "truth": "Eva is a singer performing at a nightclub themed around Noah's Ark, where all the guests wear animal masks. She is controlled by her agent, who monitors her every move. One night, she encounters a stranger who claims to recognize her from before\u2014someone who remembers her singing Mozart, a detail that troubles her agent greatly.\n\nEva begins wandering the city at night, trying to break free from her agent's surveillance. She meets various figures in the urban landscape, including a man named Ivo. The film blends these episodic encounters with the surreal club sequences, creating a narrative that prioritizes atmosphere over conventional plot. Her agent pursues her through this nocturnal odyssey, trying to bring her back under control.",
+      "core": "Zoo z\u00e9ro is an example of experimental French cinema from the late 1970s, blending surrealist aesthetics with themes of artistic control and identity. The nightclub serves as a liminal space where performance and reality merge, with masks allowing characters to adopt new identities.\n\nThe film explores how artists are controlled by their handlers\u2014managers, agents, and the entertainment industry. Eva's struggle to escape represents a universal theme of creative freedom versus commercial control. Klaus Kinski's presence adds an element of unpredictability, fitting his reputation as a difficult and intense performer.\n\nThe experimental approach, with its dreamlike sequences and unconventional storytelling, places Zoo z\u00e9ro in the tradition of French art cinema that prioritizes atmosphere and metaphor over conventional narrative clarity.",
+      "created_at": "2026-06-12 20:47:49"
+    },
+    {
       "title": "Zork",
       "year": 1977,
       "medium": "Video Game",
@@ -16389,5 +16406,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 964
+  "count": 965
 }
