@@ -4306,6 +4306,21 @@
       "created_at": "2026-03-18 13:50:49"
     },
     {
+      "title": "Hanussen",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Istv\u00e1n Szab\u00f3",
+      "raw_score": 6.28,
+      "total_ratings": 23,
+      "origin": "Hungary",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Politics, Authoritarianism, Supernatural",
+      "image_filename": "Hanussen_1988.jpg",
+      "pitch": "A hypnotic tale of prophecy and power, Hanussen follows the true story of Erik Jan Hanussen \u2014 a clairvoyant who rose from obscurity to become Berlin's most celebrated mentalist in the 1920s and 30s, only to predict the rise of Adolf Hitler and pay the ultimate price.\n\nDirected by Istv\u00e1n Szab\u00f3 (Mephisto, Colonel Redl) and starring Klaus Maria Brandauer, this Hungarian-Austrian-German co-production is a haunting meditation on the nature of foresight, the seductions of power, and the terrible burden of seeing what others refuse to believe.",
+      "created_at": "2026-06-12 23:57:41"
+    },
+    {
       "title": "Hard to Be a God",
       "year": 1964,
       "medium": "Novel",
@@ -14926,5 +14941,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 995
+  "count": 996
 }

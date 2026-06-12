@@ -4880,6 +4880,23 @@
       "created_at": "2026-03-18 13:50:49"
     },
     {
+      "title": "Hanussen",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Istv\u00e1n Szab\u00f3",
+      "raw_score": 6.28,
+      "total_ratings": 23,
+      "origin": "Hungary",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Politics, Authoritarianism, Supernatural",
+      "image_filename": "Hanussen_1988.jpg",
+      "pitch": "A hypnotic tale of prophecy and power, Hanussen follows the true story of Erik Jan Hanussen \u2014 a clairvoyant who rose from obscurity to become Berlin's most celebrated mentalist in the 1920s and 30s, only to predict the rise of Adolf Hitler and pay the ultimate price.\n\nDirected by Istv\u00e1n Szab\u00f3 (Mephisto, Colonel Redl) and starring Klaus Maria Brandauer, this Hungarian-Austrian-German co-production is a haunting meditation on the nature of foresight, the seductions of power, and the terrible burden of seeing what others refuse to believe.",
+      "truth": "During World War I, train conductor Klaus Schneider is hospitalized for head injuries. His doctor, Dr. Bettelheim, discovers that Schneider possesses genuine clairvoyant abilities \u2014 he can sense the thoughts and foresee the deaths of others. After the war, Schneider reconnects with Captain Nowotny, who becomes his manager and guides him toward a career in entertainment.\n\nAdopting the stage name Erik Jan Hanussen, he becomes a sensation in Berlin's variety shows, performing mind-reading acts that are initially dismissed as tricks. His fame grows when he publicly predicts the sinking of a cruise ship \u2014 a prediction that comes true. Arrested and tried for fraud, he demonstrates his genuine abilities in court and is acquitted.\n\nIn Berlin, Hanussen lives with his girlfriend Valery and Nowotny, socialized with the elite. Despite claiming to be apolitical, he predicts Adolf Hitler's rise to Chancellor \u2014 a prediction that strains his relationships and marks him as a threat to the Nazi regime. When he foresees the Reichstag fire, the Nazis brand him a traitor. On March 24-25, 1933, he is murdered by the SA, likely partly due to his Jewish background.\n\nThe film interweaves the supernatural with historical reality, showing how one man's gift for seeing truth became his undoing in an age of manufactured lies.",
+      "core": "Hanussen is a masterful exploration of the price of prophecy in the age of propaganda. The film asks: what is the responsibility of those who can see the future? Hanussen's tragedy is not his gift, but his inability to remain silent \u2014 his compulsion to speak truth to a population and leadership that neither wanted nor could handle it.\n\nThe film draws deliberate parallels between Hanussen's stage illusions and the larger political magic being performed by the Nazis \u2014 both involve the manipulation of perception, the performance of reality, the seduction of crowds. Yet where Hanussen's powers are genuine, the Nazi worldview is a manufactured fantasy that requires the elimination of those who might expose its tricks.\n\nSzab\u00f3 directs with meticulous attention to period atmosphere and psychological depth. Brandauer's performance captures both the charm of the showman and the weariness of a man burdened with knowledge he cannot share. The film's final sequence \u2014 Hanussen's murder in the darkness \u2014 is a stark reminder that in totalitarian times, seeing too clearly can be fatal.\n\nNominated for the Academy Award for Best Foreign Language Film and featured at the 1988 Cannes Film Festival, Hanussen remains one of the least-seen masterpieces of political cinema.",
+      "created_at": "2026-06-12 23:57:41"
+    },
+    {
       "title": "Hard to Be a God",
       "year": 1964,
       "medium": "Novel",
@@ -16916,5 +16933,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 995
+  "count": 996
 }
