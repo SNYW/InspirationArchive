@@ -6166,6 +6166,21 @@
       "created_at": "2026-03-05 07:02:50"
     },
     {
+      "title": "Nabi",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "Moon Seung-wook",
+      "raw_score": 3.14,
+      "total_ratings": 11,
+      "origin": "South-Korea",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia",
+      "topics": "Memory, Pandemic, Ecology",
+      "image_filename": "Nabi_2001.jpg",
+      "pitch": "Nabi (Korean for \\\"Butterfly\\\") is a 2001 South Korean science fiction film set in a near-future dystopia where an \\\"oblivion virus\\\" causes memory loss. The virus has become the center of a dark tourism industry\u2014visitors from around the world pay to be infected and forget their painful pasts. The film follows Anna Kim, a German woman of Korean descent, who travels to this ruined city seeking to erase the memory of her abortion.\n\nHer journey unfolds through the rain-soaked streets of an unnamed Korean city plagued by acid rain and lead poisoning. Guided by the enigmatic Yuki, a seven-months-pregnant young woman who needs the money to survive, and driver K, an amnesiac orphan searching for his lost identity, Anna searches for the oblivion virus. What begins as a transactional journey becomes a profound meditation on memory, loss, and the bonds that form when three wounded people find each other in the ruins.\n\nThe film marked the debut of Kang Hye-jung, who won Best Actress at the Puchon International Fantastic Film Festival, while Kim Ho-jung won the Bronze Leopard for Best Actress at the Locarno International Film Festival.",
+      "created_at": "2026-06-12 21:52:51"
+    },
+    {
       "title": "Nausica\u00e4 of the Valley of the Wind",
       "year": 1984,
       "medium": "Anime Film",
@@ -14626,5 +14641,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 975
+  "count": 976
 }
