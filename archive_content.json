@@ -5016,6 +5016,23 @@
       "created_at": "2026-03-19 05:50:00"
     },
     {
+      "title": "Hydro-Puzzle",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Andrzej Kondratiuk",
+      "raw_score": 6.0,
+      "total_ratings": 38,
+      "origin": "Poland",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Technology, Comedy",
+      "image_filename": "Hydro-Puzzle.jpg",
+      "pitch": "During a devastating summer heat wave in Warsaw, all water mysteriously disappears from the city. Scientists secretly call upon Ace (As), a mild-mannered engineer who lives a double life as Poland's reluctant superhero, to solve the mystery and save the city.\n\nIt turns out that the evil Doctor Spot has teamed up with a mysterious Maharaja to steal Poland's water and transport it abroad. Ace must use his superhuman abilities to confront the villains, uncover their scheme, and save Warsaw from drying up completely.\n\nCreated as an official Communist Party parody of American Superman films, the movie became a beloved cult classic that Polish audiences interpreted as a witty satire of everyday life under Communist rule\u2014the endless slogans about a better life, the mysterious black market dealings, and the bumbling but ultimately well-meaning authorities.",
+      "truth": "During a severe summer heat wave, Warsaw's water supply vanishes without explanation. The city's scientists, desperate to find the cause, summon Ace (Jan Walczak), a mild-mannered engineer who secretly lives a double life as Poland's superhero As.\n\nAce investigates and discovers that the villainous Doctor Spot has teamed up with a mysterious Maharaja from the East. Together, they have developed a scheme to steal Poland's water supplies and transport them abroad to the Maharaja's country. Using his superhuman strength, scientific knowledge, and cunning, Ace confronts the villains in a dramatic showdown, defeats Doctor Spot, and recovers the stolen water. Warsaw is saved, and the mystery is solved.\n\nThe film ends with Ace returning to his ordinary life as an engineer, ready to answer the call if needed again.",
+      "core": "Hydro-Puzzle stands as a unique artifact of Polish cinema from the 1970s. While officially created as a Communist Party-sanctioned parody of American superhero films\u2014specifically mocking Superman\u2014the film transcended its propaganda roots to become a beloved cult classic.\n\nPolish audiences saw beyond the surface-level parody and recognized it as a clever satire of life under Communist rule. The film humorously commented on the endless government slogans about a better life, the mysterious black market dealings that kept the economy running, and the bumbling but ultimately well-meaning nature of authority. The superhero himself is not an American-style all-powerful savior but an ordinary working man who happens to have extraordinary abilities\u2014a distinctly Polish take on the genre.\n\nThe film combines science fiction elements (the superhero with superhuman powers, the mysterious villain plot) with traditional Polish comedy, creating an unusual and entertaining hybrid that remains a fascinating window into Cold War-era Polish popular culture.",
+      "created_at": "2026-06-12 18:43:23"
+    },
+    {
       "title": "Hydrozagadka",
       "year": 1971,
       "medium": "Film",
@@ -16083,5 +16100,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 946
+  "count": 947
 }

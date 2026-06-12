@@ -4426,6 +4426,21 @@
       "created_at": "2026-03-19 05:50:00"
     },
     {
+      "title": "Hydro-Puzzle",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Andrzej Kondratiuk",
+      "raw_score": 6.0,
+      "total_ratings": 38,
+      "origin": "Poland",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Technology, Comedy",
+      "image_filename": "Hydro-Puzzle.jpg",
+      "pitch": "During a devastating summer heat wave in Warsaw, all water mysteriously disappears from the city. Scientists secretly call upon Ace (As), a mild-mannered engineer who lives a double life as Poland's reluctant superhero, to solve the mystery and save the city.\n\nIt turns out that the evil Doctor Spot has teamed up with a mysterious Maharaja to steal Poland's water and transport it abroad. Ace must use his superhuman abilities to confront the villains, uncover their scheme, and save Warsaw from drying up completely.\n\nCreated as an official Communist Party parody of American Superman films, the movie became a beloved cult classic that Polish audiences interpreted as a witty satire of everyday life under Communist rule\u2014the endless slogans about a better life, the mysterious black market dealings, and the bumbling but ultimately well-meaning authorities.",
+      "created_at": "2026-06-12 18:43:23"
+    },
+    {
       "title": "Hydrozagadka",
       "year": 1971,
       "medium": "Film",
@@ -14191,5 +14206,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 946
+  "count": 947
 }
