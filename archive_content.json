@@ -2704,6 +2704,23 @@
       "created_at": "2026-02-28 07:31:49"
     },
     {
+      "title": "Cybernetic Grandma",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Ji\u0159\u00ed Trnka",
+      "raw_score": 3.08,
+      "total_ratings": 16,
+      "origin": "Czechoslovakia",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Cybernetics, Transhumanism",
+      "image_filename": "Cybernetic_Grandma_1963.jpg",
+      "pitch": "In Ji\u0159\u00ed Trnka's poignant 1963 Czechoslovakian short film, a grieving family turns to technology to fill an irreplaceable void. When a little girl's beloved grandmother passes away, her sorrow-stricken parents purchase a sophisticated cybernetic robot to serve as a replacement grandmother. The machine is programmed with all the knowledge, recipes, and routines of grandmotherly care \u2014 but can true love be manufactured?\n\nThe film unfolds as a tender meditation on authenticity versus simulation, exploring whether the warmth of human connection can be reduced to algorithms and programming. The little girl, initially comforted by the robot's presence, begins to sense something missing \u2014 the inexplicable warmth that only comes from genuine human love.",
+      "truth": "The film opens with a young girl and her grandmother in their cozy home \u2014 the grandmother teaching the girl to bake, to sew, to tell stories. When the grandmother dies suddenly, the girl is devastated. Her parents, unable toconsole her grief with words, purchase an advanced cybernetic robot designed to serve as a grandmother substitute.\n\nAt first, the robot performs perfectly \u2014 it knows all the recipes, tells the stories, maintains the routines. The girl finds temporary comfort in its presence. But one night, the spirit of the real grandmother returns as a ghostly apparition. She tells the girl that love cannot be programmed \u2014 it can only be felt.\n\nThe girl comes to understand that while the robot possesses all the knowledge of grandmotherhood, it lacks the soul, the warmth, the spontaneous affection that made her real grandmother unique. She rejects the cold perfection of the machine for the imperfect but genuine memory of her real grandmother. The film ends with the girl finding peace in her memories, understanding that some things in life are irreplaceable.",
+      "core": "This short film is remarkable for how presciently it addresses questions that have only become more relevant in the age of artificial intelligence. Trnka asks: can consciousness or love be reduced to algorithms and programming? His answer is a clear no \u2014 the film's emotional power comes from its genuine warmth, which no machine could replicate regardless of how sophisticated its programming.\n\nTrnka was also a master of puppet animation, and this live-action/short film reflects his artistic sensibilities \u2014 the focus on intimate human relationships, the belief that art must touch the soul. The film is also a product of its communist-era context, reflecting anxieties about technology potentially replacing human roles in society.\n\nAt only 16 votes on TMDB, this obscure 1963 gem remains virtually unknown outside Czechoslovakia \u2014 yet it contains more genuine emotional truth about love and authenticity than many much more celebrated science fiction films.",
+      "created_at": "2026-06-12 14:06:16"
+    },
+    {
       "title": "Cyberpunks",
       "year": 1993,
       "medium": "Video Game",
@@ -15454,5 +15471,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 909
+  "count": 910
 }
