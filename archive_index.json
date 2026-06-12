@@ -4891,6 +4891,21 @@
       "created_at": "2026-03-18 21:21:02"
     },
     {
+      "title": "L'Atlantide",
+      "year": 1932,
+      "medium": "Film",
+      "creator": "G.W. Pabst",
+      "raw_score": 5.1,
+      "total_ratings": 8,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Aliens, Mythology, Exploration",
+      "image_filename": null,
+      "pitch": "Two French officers, Saint-Avit and Morhange, become lost in the African desert and discover a hidden civilization in the sunken city of Atlantis. There, they encounter Antinea, the enigmatic queen who rules over the remnants of an ancient civilization. G.W. Pabst directs this German-French adaptation of Pierre Beno\u00eet's novel with striking visual compositions and a hypnotic atmosphere.\n\nThe film blends adventure narrative with psychoanalytic subtext, exploring themes of obsession, desire, and the destructive power of attraction. Antinea emerges as a mesmerizing figure\u2014both alien queen and femme fatale\u2014who ensnares her prisoners in a web of devotion and jealousy. The atmospheric desert cinematography and experimental camera angles create a dreamlike quality that elevates this beyond typical adventure fare.",
+      "created_at": "2026-06-12 15:29:41"
+    },
+    {
       "title": "L'Inhumaine",
       "year": 1924,
       "medium": "Film",
@@ -10396,6 +10411,21 @@
       "created_at": "2026-03-01 09:53:29"
     },
     {
+      "title": "The Invisible Man Appears",
+      "year": 1949,
+      "medium": "Film",
+      "creator": "Nobuo Adachi",
+      "raw_score": 3.24,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Technology, Crime",
+      "image_filename": "The_Invisible_Man_Appears_1949.jpg",
+      "pitch": "A 1949 Japanese science fiction film featuring special effects by Eiji Tsuburaya, who would later create the Godzilla franchise. Based loosely on H.G. Wells' classic novel, this film tells the story of Professor Nakazato, who develops an invisibility serum that falls into the wrong hands. A gang of criminals kidnap the professor and his daughter to force him to create the formula so they can rob a priceless jewel necklace called 'The Tears of Amour.' Only one man\u2014the Invisible Man\u2014can stop them.\n\nThis is one of the earliest Japanese science fiction films, emerging just four years after World War II ended. The film combines the tokusatsu (special effects) genre with noirish crime thriller elements, creating a unique blend of scientific fantasy and hard-boiled crime drama.",
+      "created_at": "2026-06-12 15:33:36"
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -13801,5 +13831,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 920
+  "count": 922
 }

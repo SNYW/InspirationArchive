@@ -5543,6 +5543,23 @@
       "created_at": "2026-03-18 21:21:02"
     },
     {
+      "title": "L'Atlantide",
+      "year": 1932,
+      "medium": "Film",
+      "creator": "G.W. Pabst",
+      "raw_score": 5.1,
+      "total_ratings": 8,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Aliens, Mythology, Exploration",
+      "image_filename": null,
+      "pitch": "Two French officers, Saint-Avit and Morhange, become lost in the African desert and discover a hidden civilization in the sunken city of Atlantis. There, they encounter Antinea, the enigmatic queen who rules over the remnants of an ancient civilization. G.W. Pabst directs this German-French adaptation of Pierre Beno\u00eet's novel with striking visual compositions and a hypnotic atmosphere.\n\nThe film blends adventure narrative with psychoanalytic subtext, exploring themes of obsession, desire, and the destructive power of attraction. Antinea emerges as a mesmerizing figure\u2014both alien queen and femme fatale\u2014who ensnares her prisoners in a web of devotion and jealousy. The atmospheric desert cinematography and experimental camera angles create a dreamlike quality that elevates this beyond typical adventure fare.",
+      "truth": "The film opens with Saint-Avit, a young French officer, recounting his extraordinary experience in the Sahara desert. He and his companion Morhange became lost during a patrol and discovered the hidden city of Atlantis, ruled by the beautiful Queen Antinea.\n\nAntinea takes both men prisoner, but she is drawn to Saint-Avit. She orders him to kill his friend Morhange, testing his devotion. Torn between loyalty and his growing love for the queen, Saint-Avit ultimately refuses to commit murder. Antinea, disappointed by his weakness, allows the surviving prisoners to leave, though she keeps Saint-Avit captive longer.\n\nThe film concludes with Saint-Avit finally escaping, but forever haunted by his memories of Antinea and the lost civilization. His story becomes a cautionary tale about the dangers of obsession and the corrupting nature of power\u2014both Antinea's absolute rule and the destructive desire she engenders in those who encounter her.",
+      "core": "L'Atlantide represents early science-fantasy cinema's fascination with lost civilizations and the archetype of the mysterious female ruler. Pabst's direction treats the legendary Atlantis not as a utopian society but as a decadent, dangerous realm where ancient power corrupts absolutely.\n\nThe film can be read as an allegory about colonialism itself\u2014the European explorers who venture into the \"new world\" become trapped by the very exoticism they seek to exploit. Antinea represents both the \"other\" and the seductive danger of unfamiliar cultures. The 1932 production also reflects pre-war European anxieties about the collapse of old orders and the rise of dangerous ideologies.\n\nCritically, the film is notable for its visual sophistication\u2014Eugen Sch\u00fcfftan's cinematography creates Expressionist shadows and distorted perspectives that anticipate the chiaroscuro of film noir. Brigitte Helm delivers a compelling performance as Antinea, balancing vulnerability with menace in a role that predates similar femme fatale archetypes in American cinema.",
+      "created_at": "2026-06-12 15:29:41"
+    },
+    {
       "title": "L'Inhumaine",
       "year": 1924,
       "medium": "Film",
@@ -11782,6 +11799,23 @@
       "created_at": "2026-03-01 09:53:29"
     },
     {
+      "title": "The Invisible Man Appears",
+      "year": 1949,
+      "medium": "Film",
+      "creator": "Nobuo Adachi",
+      "raw_score": 3.24,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Technology, Crime",
+      "image_filename": "The_Invisible_Man_Appears_1949.jpg",
+      "pitch": "A 1949 Japanese science fiction film featuring special effects by Eiji Tsuburaya, who would later create the Godzilla franchise. Based loosely on H.G. Wells' classic novel, this film tells the story of Professor Nakazato, who develops an invisibility serum that falls into the wrong hands. A gang of criminals kidnap the professor and his daughter to force him to create the formula so they can rob a priceless jewel necklace called 'The Tears of Amour.' Only one man\u2014the Invisible Man\u2014can stop them.\n\nThis is one of the earliest Japanese science fiction films, emerging just four years after World War II ended. The film combines the tokusatsu (special effects) genre with noirish crime thriller elements, creating a unique blend of scientific fantasy and hard-boiled crime drama.",
+      "truth": "Professor Nakazato has developed an invisibility serum. A criminal gang led by Kyosuke Segi and Otoharu Sugimotokidnap the professor and his daughter Machiko, holding them hostage to force him to create the invisibility formula. Their plan: use the invisibility to steal 'The Tears of Amour,' a priceless jewel necklace.\n\nShunji Kurokawa, a former associate of the professor, uses the serum on himself to become the Invisible Man and infiltrate the gang's headquarters. While invisible, he gathers evidence of their crimes and attempts to rescue the professor and Machiko. However, the gang discovers the formula's secret and a tense cat-and-mouse game ensues. The Invisible Man must stop the robbery and save the hostages before the serum wears off.",
+      "core": "The Invisible Man Appears represents a fascinating moment in Japanese cinematic history\u2014the country's first major foray into science fiction filmmaking. The film emerged just four years after WWII ended, and its themes of scientific discovery being used for either heroic or criminal purposes reflect post-war anxieties about technology's dual nature.\n\nEiji Tsuburaya's special effects work here predates his creation of Godzilla by five years, and this film can be seen as a testing ground for the techniques he would perfect in the Godzilla franchise. The combination of scientific speculation with crime thriller plotting also established a template that Japanese cinema would return to repeatedly in the following decades.\n\nThe film also reflects the post-war Japanese experience\u2014science and technology offered both the promise of national renewal and the fear of destructive forces beyond human control. The Invisible Man, as a figure who uses science for justice rather than profit, represents the hope that technological progress could serve noble purposes.",
+      "created_at": "2026-06-12 15:33:36"
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -15641,5 +15675,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 920
+  "count": 922
 }
