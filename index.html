@@ -488,7 +488,7 @@ function computeObscurity(ratingsCount, medium) {
 async function loadMediaList() {
     const g = document.getElementById('mediaGrid'); 
     try { 
-        const r = await fetch('archive_content.json');
+        const r = await fetch('archive_index.json');
         const data = await r.json();
         
         media = data.entries.map(entry => {
@@ -519,7 +519,7 @@ async function loadMediaList() {
                 ratingsCount: ratingsCount,
                 obscurityTier: obscurityTier,
                 obscurityPct: obscurityPct,
-                content: `## The Pitch\n${entry.pitch || ''}\n\n## The Truth\n${entry.truth || ''}\n\n## The Core\n${entry.core || ''}`,
+                content: null,
                 image: entry.image_filename ? 'Images/' + entry.image_filename : fallbackUrl,
                 created_at: entry.created_at || '1970-01-01T00:00:00Z' 
             };
@@ -534,12 +534,15 @@ async function loadMediaList() {
             if (entry.topics) entry.topics.split(',').map(t => t.trim()).filter(t => t).forEach(t => uniqueTopics.add(t));
         });
         
-        currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic(); 
-        
+        currentFilteredMedia=[...media]; populateDropdowns(); buildSiteMosaic();
+
         // Turn on the IntersectionObserver once everything is initialized
         setupScrollObserver();
-        
-        loadMedia(); 
+
+        loadMedia();
+
+        // Prefetch full detail data in the background so first modal open is instant
+        setTimeout(() => ensureDetailData(), 1500);
 
         const urlParams = new URLSearchParams(window.location.search);
         const viewSlug = urlParams.get('v');
@@ -676,7 +679,7 @@ function loadMedia() {
         }
         if (of !== 'all' && m.obscurityTier !== of) return false;
         
-        if(sq&&!(m.title+' '+m.pitch+' '+m.content).toLowerCase().includes(sq))return false; 
+        if(sq&&!(m.title+' '+m.pitch).toLowerCase().includes(sq))return false;
         return true; 
     });
 
@@ -803,8 +806,32 @@ window.copyShareLink = function(btn, slug) {
     });
 };
 
-function openModal(mObj) { 
-    if(!mObj||!mObj.content)return; 
+let _detailMap = null;
+let _detailPromise = null;
+function ensureDetailData() {
+    if (_detailMap) return Promise.resolve(_detailMap);
+    if (!_detailPromise) {
+        _detailPromise = fetch('archive_content.json')
+            .then(r => r.json())
+            .then(data => {
+                _detailMap = new Map(data.entries.map(e => [
+                    e.title.toLowerCase().replace(/[^a-z0-9]+/g, '-') + (e.year ? '-' + e.year : ''),
+                    e
+                ]));
+                return _detailMap;
+            });
+    }
+    return _detailPromise;
+}
+
+async function openModal(mObj) {
+    if (!mObj) return;
+    if (!mObj.content) {
+        const detail = await ensureDetailData();
+        const full = detail.get(mObj.slug);
+        if (full) mObj.content = `## The Pitch\n${full.pitch || ''}\n\n## The Truth\n${full.truth || ''}\n\n## The Core\n${full.core || ''}`;
+    }
+    if (!mObj.content) return;
     
     const newUrl = window.location.pathname + '?v=' + mObj.slug;
     window.history.replaceState(null, '', newUrl);
