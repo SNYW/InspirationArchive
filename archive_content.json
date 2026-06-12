@@ -6733,6 +6733,23 @@
       "created_at": "2026-03-01 11:05:37"
     },
     {
+      "title": "Mr. X",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Vikram Bhatt",
+      "raw_score": 2.65,
+      "total_ratings": 21,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Technology, Survival, Revenge",
+      "image_filename": "Mr._X_2015.jpg",
+      "pitch": "In 2015 Bollywood, Emraan Hashmi stars as Raghuram Rathod, an ATS officer whose life shatters when he's framed for murder and left for dead. But a radical experiment with an untested radiation treatment gives him something extraordinary\u2014the ability to become invisible. \n\nMr. X is a science-fiction action film that trades in the familiar Bollywood trope of the wronged man seeking justice, but wraps it in a genuinely novel premise: what happens when the law itself becomes visible? When you can walk through walls, observe secrets, and strike without being seen?\n\nThe film plays with themes of surveillance and power\u2014Raghu can now see what others cannot, becoming both subject and object of the watcher's gaze. Director Vikram Bhatt delivers genuinely atmospheric visuals, especially in how the film handles Raghu's invisibility, visible only in certain light.",
+      "truth": "Raghu and his fellow ATS officer Siya are assigned to protect Chief Minister Dwarakanath Dutta. But their colleague ACP Aditya Bharadwaj is secretly plotting to assassinate the CM. He blackmails Raghu: murder Dutta or Siya dies.\n\nLeft with no choice, Raghu confronts Dutta and kills him. Aditya then has his men kill Raghu to silence him. Raghu survives, horribly burned\u2014but his colleague's sister at a research lab gives him an experimental potion. The radiation causes complete cell regeneration, making him invisible in all light except blue light and direct sunlight.\n\nRaghu now becomes Mr. X, hunting down everyone who destroyed his life. He kills Tiwari, then Aditya Dutta (the mastermind's son), battling Siya who believes he was the real killer. Senior authorities order Siya to shoot Mr. X in an encounter, but she refuses.\n\nAditya traps Raghu at an abandoned factory to finish him off. But Popo (Raghu's friend) tells Siya the truth before attempting suicide. Siya rushes to the factory, where Raghu and Aditya duel. She records Aditya's confession, exposing him at a press conference. Aditya tries to kill Siya, but Raghu kills him. Raghu and Siya reunite, accepting his condition.",
+      "core": "Mr. X explores the fantasy of absolute invisibility\u2014what would you do if you could see without being seen? The film suggests this power is a curse as much as a gift. Raghu can never fully rejoin society; he exists in a liminal space, watching but never quite participating.\n\nThe film also comments on police power and extrajudicial action. Raghu becomes judge, jury, and executioner\u2014taking the law into his own hands when the system fails him. Aditya represents the corruption within authority itself, using his position to orchestrate crimes while wearing the mask of law enforcement.\n\nVisually, the film makes clever use of its premise, showing Raghu as a ghostly outline pursuing his prey. The climax at the abandoned factory, with its blue-light revelation, creates genuine tension. While the film received poor critical reviews and underperformed commercially, its premise remains genuinely original for Bollywood\u2014a genre film that takes its science fiction seriously enough to explore its implications.",
+      "created_at": "2026-06-12 19:23:10"
+    },
+    {
       "title": "Mr. X in Bombay",
       "year": 1964,
       "medium": "Film",
@@ -16185,5 +16202,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 952
+  "count": 953
 }
