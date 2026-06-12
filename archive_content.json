@@ -15556,6 +15556,23 @@
       "created_at": "2026-03-02 11:50:26"
     },
     {
+      "title": "This Merry Planet",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Yuri Saakov, Yuri Tsvetkov",
+      "raw_score": 2.54,
+      "total_ratings": 13,
+      "origin": "Soviet-Union",
+      "mood": "Surreal",
+      "sub_genres": "Satirical, Science-Fantasy",
+      "topics": "Aliens, First Contact, Discovery",
+      "image_filename": "This_Merry_Planet_1973.jpg",
+      "pitch": "Three emotionally detached aliens arrive on Earth on New Year's Eve from Alpha Centauri with the mission of studying human behavior. But they get pulled into a hilarious, nonsensical plot at a Soviet research institute's New Year's celebration in Akademgorodok, where everyone is dressed in carnival costumes. Since everyone is in costume, nobody notices the aliens trying to prove their extraterrestrial origin\u2014no one believes them. A young astronomer attempts to alert the party to the extraordinary event, but fails, mistakenly believing the inventor Prokhor in his 'perpetual motion machine' costume is the alien. Through the strange earthly holiday, the aliens\u2014who have no emotions\u2014learn to feel, cry, and love.",
+      "truth": "The film follows three aliens from Alpha Centauri who arrive at a Soviet scientific institute's New Year's celebration in Akademgorodok. Confident they will be the center of attention, they soon realize that since everyone is in carnival costumes, their arrival goes unnoticed. They attempt to prove their alien origins but are dismissed. A young astronomer attempts to alert the party to the extraterrestrial visitors, but also fails\u2014he mistakenly believes the inventor Prokhor, dressed in a 'perpetual motion machine' costume, is the alien. Through participating in the strange human celebration, the aliens\u2014who have no emotions\u2014learn to feel, cry, and love. The film features songs by composer David Tukhmanov, including 'Our Loved Ones,' 'The Heart Must Love,' 'White Waltz,' 'Perpetual Motion,' and 'Falling Leaves.'",
+      "core": "This Merry Planet is a surreal Soviet sci-fi musical comedy that uses the New Year's celebration as a lens to explore human behavior through alien eyes. The film asks: what makes us human? The answer emerges through the aliens' gradual awakening to emotion\u2014a transformation that suggests human rituals and celebrations have profound meaning even for those who initially view them with clinical detachment. The satire cuts multiple ways: the aliens' logical analysis of human 'madness' highlights the absurdity of ritual, while their eventual emotional awakening suggests that the most rational observer cannot remain unmoved by genuine connection. The comedy of errors\u2014where the truly alien is mistaken for a costume\u2014comments on how we dismiss the extraordinary when it arrives in unfamiliar forms.",
+      "created_at": "2026-06-12 23:08:54"
+    },
+    {
       "title": "Threads",
       "year": 1984,
       "medium": "Film",
@@ -16763,5 +16780,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 986
+  "count": 987
 }
