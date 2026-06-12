@@ -2398,6 +2398,23 @@
       "created_at": "2026-06-12 15:57:28"
     },
     {
+      "title": "Chance",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Georgiy Daneliya",
+      "raw_score": 2.7,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Time-Travel, First Contact",
+      "image_filename": "Chance_1984.jpg",
+      "pitch": "In 17th century Cossack Russia, a rugged warrior named Almaz Bitiy stumbles upon something extraordinary: an alien spacecraft crash-landing near his village. Against the fear and superstition of his fellow villagers, he chooses to help the wounded extraterrestrial rather than destroy it. What follows is a remarkable exchange between human and alien that spans centuries.\n\nDirected by Georgiy Daneliya, this 1984 Soviet sci-fi fantasy blends historical drama with gentle speculation about first contact. The film's tone is warm and humanist, treating the alien not as a threat but as a mysterious traveler bearing gifts that defy mortal understanding. The visual style mixes naturalistic Russian landscape cinematography with subtle special effects that convey wonder without overwhelming the intimate character study.",
+      "truth": "The story follows Almaz Bitiy, a Cossack living in 17th century Russia, who discovers a strange craft crash-landing in a forest. Inside, he finds a severely injured alien. Despite his village's panic and calls to destroy the creature, Almaz tends to the extraterrestrial's wounds over several weeks.\n\nThe alien, grateful for Almaz's kindness, reveals itself to be a traveler from a distant world. Before departing, the alien gives Almaz an elixir\u2014a substance that grants the gift of extended life, allowing the Cossack to experience centuries of human history while remaining alive. The film traces Almaz's journey through time as he lives through various historical epochs, witnessing the evolution of humanity while carrying the burden and wonder of his encounter.\n\nThe central theme explores how a simple act of compassion\u2014choosing to help a stranger despite fear\u2014can transform one individual's life in ways that span generations. The elixir becomes both a blessing and a philosophical burden as Almaz watches civilizations rise and fall.",
+      "core": "Chance operates in a unique space between Soviet sci-fi tradition and humanist fable. Rather than the paranoid first-contact narratives common in Cold War-era cinema, Daneliya presents contact as fundamentally generous\u2014an act of kindness rewarded rather than exploited.\n\nThe film asks whether humanity is ready for contact with other civilizations, and suggests that the answer lies not in our technology but in our basic decency. Almaz's willingness to help a defenseless being\u2014regardless of its strange appearance\u2014marks him as worthy of the alien's gift.\n\nThematically, the film explores immortality not as triumph but as contemplation. Having lived through centuries, Almaz gains perspective on human ambition, conflict, and progress that grounds the sci-fi premise in philosophical weight. The Soviet-era setting gives particular resonance to themes of isolation and openness to the unknown.",
+      "created_at": "2026-06-12 23:13:18"
+    },
+    {
       "title": "Chand Par Chadayee",
       "year": 1967,
       "medium": "Film",
@@ -16780,5 +16797,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 987
+  "count": 988
 }
