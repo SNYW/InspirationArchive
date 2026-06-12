@@ -6512,6 +6512,23 @@
       "created_at": "2026-03-02 23:45:59"
     },
     {
+      "title": "My Twentieth Century",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Ildik\u00f3 Enyedi",
+      "raw_score": 6.51,
+      "total_ratings": 47,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Identity, Time Travel, Exploration",
+      "image_filename": "my_twentieth_century.jpg",
+      "pitch": "In Budapest, 1880, two twin sisters are born at the exact moment Thomas Edison presents his electric lightbulb to the world. Orphaned and separated in childhood, they grow up on opposite poles of society\u2014one becomes a na\u00efve, bomb-toting anarchist, the other a pampered courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1900, in this mind-bending meditation on identity, choice, and the paths our lives might have taken.\n\nIldik\u00f3 Enyedi's debut feature is a haunting, erotic fantasy that treats time as fluid and identity as fragmented. The film won the Golden Camera at Cannes and was Hungary's submission for the Academy Awards. Its dreamy, non-linear structure anticipates everything from cloud Atlas to Dark, rendered in sumptuous period production design and a hypnotic score.",
+      "truth": "The film opens in 1880 Budapest, where twin sisters D\u00f3ra and Lili are born at the precise moment Edison unveils his lightbulb. Their mother dies in childbirth, and the orphaned twins survive by selling matches. One night, two strangers flip a coin and each takes a girl, separating them forever.\n\nTwenty years later, on the Orient Express on New Year's Eve 1900, the twins cross paths again. D\u00f3ra, now a drifter and petty con artist, is aboard the train trying to scam passengers. Lili, now a revolutionary anarchist carrying a bomb to assassinate the minister of the interior, is also aboard. They glimpse each other but don't recognize their twin.\n\nAt a library, Lili meets Z, a man who becomes obsessed with her. Meanwhile, Z later encounters D\u00f3ra on a ship, mistakes her for Lili, and they have a passionate encounter. When Z and Lili meet again, he takes her to his apartment, and they also sleep together\u2014each believing the other is someone else.\n\nThe climax comes when Lili attempts to assassinate the minister with her bomb but cannot go through with it after looking into his eyes. She flees to a funhouse, where she finally encounters D\u00f3ra face to face. Z arrives and briefly sees both twins together before they escape. The film ends with the suggestion that these parallel lives might have been one.",
+      "core": "My Twentieth Century is a meditation on the Contingency of identity. If we had been born to different parents, raised in different circumstances, would we still be \"us\"? Enyedi poses this question through her twin protagonists\u2014one choosing revolution, the other pleasure\u2014but both haunted by the sense that their lives are incomplete, that some other version of themselves exists elsewhere.\n\nThe film also functions as an allegory for Central Europe's turbulent 20th century, compressed into one night on the Orient Express. The anarchist carries a bomb; the courtesan carries secrets. Neither gets what they want. The choices we make in one moment calcify into the lives we live forever\u2014and there's no going back.\n\nVisually, Enyedi employs a dreamlike palette and deliberate pacing that rewards patient viewing. The film demands multiple viewings to fully grasp its layers.",
+      "created_at": "2026-06-12 14:47:58"
+    },
+    {
       "title": "Mysterious Island",
       "year": 1941,
       "medium": "Film",
@@ -15505,5 +15522,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 912
+  "count": 913
 }
