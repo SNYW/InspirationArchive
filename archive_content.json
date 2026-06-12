@@ -12020,6 +12020,23 @@
       "created_at": "2026-03-06 13:26:01"
     },
     {
+      "title": "The Golden Bat",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Takeo Nagamatsu",
+      "raw_score": 3.01,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space, Robots, First Contact",
+      "image_filename": "The_Golden_Bat_1966.jpg",
+      "pitch": "The Golden Bat (\u014cgon Batto) is a 1966 Japanese science fiction film based on one of the world's first superhero characters, created by Takeo Nagamatsu and Suzuki Ichiro in 1930. The film predates even Superman and Batman, making \u014cgon Bat a pioneering figure in global superhero media.\n\nWhen a teenage boy discovers that the planet Icarus is on a collision course with Earth through his telescope, he is mocked by the scientific establishment but kidnapped and brought to a secret UN base in the Japanese Alps. There he joins a desperate mission to complete the Super-Destruction Beam cannon to destroy Icarus before it collides with Earth.",
+      "truth": "The film opens with young Toshio, an amateur astronomer, spotting what appears to be a rogue planet heading toward Earth. His discovery is dismissed by professors as a juvenile fantasy. However, Toshio is soon kidnapped by agents who take him to a top-secret UN facility hidden in the Alps.\n\nAt the base, scientists are working frantically on the Super-Destruction Beam, a massive weapon designed to destroy Icarus before it impacts Earth. The project is led by Dr. Ootake, who explains that Icarus is on a direct collision course and will reach Earth in days. The beam is almost complete, but it requires a special mineral called Atlantisium to function.\n\nToshio's knowledge of astronomy proves crucial in calibrating the beam's targeting system. Meanwhile, the evil Dr. Naz\u014d \u2014 \u014cgon Bat's nemesis from the Golden Bat mythos \u2014 attempts to sabotage the project to allow Icarus to destroy Earth so he can rule the ruins.\n\nThe climax features \u014cgon Bat himself appearing to battle Dr. Naz\u014d's forces while the scientists attempt to fire the Super-Destruction Beam. With Toshio's help, they successfully destroy Icarus, saving Earth. The film ends with \u014cgon Bat disappearing into the sky, his mission complete.",
+      "core": "The Golden Bat represents a significant piece of superhero history, being one of the earliest superhero characters ever created, predating even American comic book icons like Superman and Batman. The character originated in kamishibai (paper theater) storytelling in 1930s Japan, making it a unique blend of traditional Japanese narrative forms with modern superhero tropes.\n\nThe film itself is notable for its earnest attempt at hard science fiction storytelling, featuring actual astronomical concepts like planetary collision trajectories. The tension between juvenile enthusiasm and institutional skepticism reflects post-war Japan's complex relationship with science and modernity.\n\nBeyond its narrative, the film represents the global diffusion of the superhero genre, demonstrating that the archetype was not solely an American creation. \u014cgon Bat's influence extends to later tokusatsu and anime franchises, making this film a hidden precursor to the global popularity of Japanese science fiction media.",
+      "created_at": "2026-06-12 20:23:41"
+    },
+    {
       "title": "The Golden Helix",
       "year": 1949,
       "medium": "Novella",
@@ -16338,5 +16355,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 961
+  "count": 962
 }
