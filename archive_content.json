@@ -5135,6 +5135,23 @@
       "created_at": "2026-03-19 05:50:00"
     },
     {
+      "title": "Hu-Man",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "J\u00e9r\u00f4me Laperrousaz",
+      "raw_score": 2.65,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Discovery, Technology",
+      "image_filename": "Hu-Man_1975.jpg",
+      "pitch": "A 1975 French science fiction film that predates modern reality television by decades. Terence Stamp stars in a radical experiment where an actor is placed in dangerous situations while his fear is broadcast to a television audience. The viewers' emotional responses determine whether he is sent to the past or the future.\n\nThis meta-exploration of media manipulation and audience power was remarkably prescient for its time. The film asks uncomfortable questions about the relationship between entertainment, spectacle, and human dignity.",
+      "truth": "Terence Stamp stars as Terence, an actor who agrees to participate in a groundbreaking television experiment. A French TV network has developed technology that broadcasts his emotional state \u2014 specifically his fear \u2014 directly to viewers at home. The audience's collective emotional response determines his fate: if they feel enough fear on his behalf, he is sent to the past; if they feel enough hope, he is sent to the future.\n\nThe film follows Terence as he undergoes increasingly dangerous stunts, all broadcast live. The boundaries between performer and audience blur as the television viewers essentially control his life through their emotions. The experiment raises questions about media manipulation, the ethics of spectacle, and the power dynamic between those who watch and those who are watched.",
+      "core": "Hu-Man is an early meditation on reality television, audience participation, and the commodification of human emotion. Made in 1975, it presages the reality TV boom by decades while exploring themes that have only become more relevant in the age of social media and livestreaming.\n\nThe film asks: What happens when human life becomes entertainment currency? When the audience holds power over a performer's very existence, what ethical obligations do they have? These questions resonate powerfully today.",
+      "created_at": "2026-06-12 22:48:45"
+    },
+    {
       "title": "Hydro-Puzzle",
       "year": 1971,
       "medium": "Film",
@@ -16695,5 +16712,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 982
+  "count": 983
 }
