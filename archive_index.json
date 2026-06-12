@@ -4456,6 +4456,21 @@
       "created_at": "2026-06-12 14:52:39"
     },
     {
+      "title": "I Am Lying Now",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.6,
+      "total_ratings": 10,
+      "origin": "Poland",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia",
+      "topics": "Reality, Identity, Deception",
+      "image_filename": "I_Am_Lying_Now_2019.jpg",
+      "pitch": "In a retro-futuristic world that feels both familiar and alien, the characters of 'I Am Lying Now' find themselves trapped in an intricate web of deception where nothing is as it seems. This Polish metaphysical thriller weaves a darkly atmospheric tale of intrigue, pulling viewers into a reality where truth and fiction blur beyond recognition.\n\nThe film presents a world where information control becomes the ultimate power, and the characters must navigate through layers of manufactured reality to find any stable ground. As the plot unfolds, the protagonist discovers that even their own memories and perceptions cannot be trusted.",
+      "created_at": "2026-06-12 19:17:39"
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -14266,5 +14281,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 951
+  "count": 952
 }
