@@ -2041,6 +2041,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Chameleon",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "Bennett Cohen",
+      "raw_score": 6.2,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Genetic Engineering, Cloning, AI",
+      "image_filename": "Chameleon_1998.jpg",
+      "pitch": "In near-future 2028, Kam (Bobbie Phillips) is a genetically engineered super-assassin created by a shadowy government program. Unlike her predecessors, she possesses an unexpected trait: maternal instincts. When she's assigned to eliminate a child targeted by her own controllers, Kam must choose between her programming and the strange new feelings awakening within her. This US/Australian co-production blends sci-fi action with a tender exploration of what it means to be a mother\u2014even for a being designed only to kill.\n\nThe film was originally aired on UPN in 1998 as the first installment of the Chameleon film series.",
+      "created_at": "2026-06-12 15:57:28"
+    },
+    {
       "title": "Chand Par Chadayee",
       "year": 1967,
       "medium": "Film",
@@ -13891,5 +13906,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 926
+  "count": 927
 }

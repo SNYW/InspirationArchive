@@ -2313,6 +2313,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Chameleon",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "Bennett Cohen",
+      "raw_score": 6.2,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Genetic Engineering, Cloning, AI",
+      "image_filename": "Chameleon_1998.jpg",
+      "pitch": "In near-future 2028, Kam (Bobbie Phillips) is a genetically engineered super-assassin created by a shadowy government program. Unlike her predecessors, she possesses an unexpected trait: maternal instincts. When she's assigned to eliminate a child targeted by her own controllers, Kam must choose between her programming and the strange new feelings awakening within her. This US/Australian co-production blends sci-fi action with a tender exploration of what it means to be a mother\u2014even for a being designed only to kill.\n\nThe film was originally aired on UPN in 1998 as the first installment of the Chameleon film series.",
+      "truth": "Kam is the latest in a line of genetically engineered assassins created by the IBI, a secret government agency. She has been trained since birth to be the perfect killer, with chameleon-like adaptive abilities that allow her to blend into any environment. Her controller Mozser assigns her to eliminate Ghen, a young boy who possesses crucial information that could expose the program.\n\nHowever, when Kam confronts the child in his home, something unexpected happens\u2014she experiences maternal instincts she never knew she had. Rather than completing her mission, she protects Ghen from the other agents sent to finish the job. The former IBI agent Quinn pursues them, and Kam must use all her skills to evade capture while keeping the boy safe.\n\nThroughout the film, Kam grapples with her dual nature\u2014both weapon and would-be protector. The climactic confrontation forces her to choose between her handlers and the boy she's come to love. She defeats Quinn and escapes with Ghen, but the ending leaves her future uncertain as the program continues to hunt her down.",
+      "core": "Chameleon explores nature versus nurture through its protagonist\u2014a being engineered for destruction who discovers compassion. The film asks whether identity is predetermined by genetic design or shaped by experience and choice. Kam's journey from assassin to protector challenges the notion that anyone is beyond redemption.\n\nThe film also examines motherhood as an instinct that transcends artificial creation. Kam's discovery of maternal feelings despite her engineered purpose suggests that certain bonds are fundamental to consciousness itself. In an era of debates about genetic engineering and designer humans, Chameleon offers a surprisingly nuanced meditation on what makes us human.",
+      "created_at": "2026-06-12 15:57:28"
+    },
+    {
       "title": "Chand Par Chadayee",
       "year": 1967,
       "medium": "Film",
@@ -15743,5 +15760,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 926
+  "count": 927
 }
