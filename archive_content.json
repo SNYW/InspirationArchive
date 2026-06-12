@@ -4455,6 +4455,23 @@
       "created_at": "2026-03-02 21:47:08"
     },
     {
+      "title": "Gold",
+      "year": 1934,
+      "medium": "Film",
+      "creator": "Karl Hartl",
+      "raw_score": 3.75,
+      "total_ratings": 13,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Technology, Corporate Power, Discovery",
+      "image_filename": "Gold_1934.jpg",
+      "pitch": "Gold is a 1934 German science fiction film directed by Karl Hartl, the filmmaker behind the earlier hit \\\"Der Tunnel.\\\" The story follows German scientist Achenbach, who has discovered a theoretical method of transforming base metals into gold through \\\"atomic fracture\\\" \u2014 a concept that predates actual atomic science. When his laboratory is destroyed by a saboteur hired by the British industrialist John Wills, only his colleague Werner Holk survives. Posing as a willing collaborator, Holk infiltrates Wills' secret underwater laboratory to seek revenge, but ultimately decides to destroy the dangerous machine before it can destabilize the world economy.\n\nThe film is notable for its ambitious production values, including special effects by G\u00fcnther Rittau (who worked on Metropolis) and a dramatic climactic sequence involving explosions and strobe lighting. Brigitte Helm, famous for her role in \\\"Alraune,\\\" stars as Florence Wills in both the German and French-language versions.",
+      "truth": "The film opens with scientist Achenbach announcing his discovery: a means of transforming lead into gold through atomic fracture. Working with engineer Werner Holk, he is moments from proving his theory when his laboratory is blown up by a saboteur bribed by British industrialist John Wills. Achenbach is killed; Holk survives only thanks to a blood transfusion from his fianc\u00e9e Margit.\n\nHolk is then hired by Wills and taken to a secret laboratory beneath the North Sea, where the process is being recreated on a massive scale. Bent on revenge, Holk agrees to help Wills and uses the machine to create a small sample of gold, vindicating Achenbach's theory and gaining the millionaire's confidence. In the meantime, he wins the trust of the workers and of Wills' estranged daughter Florence (Helm), who is romantically drawn to him.\n\nWhen the machine is finally set to go into operation, Holk delivers a speech turning the workers against the millionaire and sets the machine to self-destruct. Wills and the lab are blown up in a spectacular sequence. Holk escapes by the skin of his teeth and returns to his fianc\u00e9e in Germany.",
+      "core": "Gold is a fascinating artifact of early science fiction cinema, made years before the atomic age revealed the true power of nuclear reactions. The film explores the dangerous intersection of scientific discovery and corporate greed, asking whether some discoveries are too dangerous to unleash. The antagonist is not a mad scientist but a wealthy industrialist seeking to control a transformative technology for personal profit.\n\nThe film's themes of economic manipulation and the threat of destabilizing world markets through artificial gold resonate with broader anxieties about unchecked capitalism and the power of those who control essential resources. Holk's transformation from revenge-seeker to selfless hero reflects a moral awakening about the responsible use of powerful technology.\n\nDirector Karl Hartl developed Gold after the international success of his earlier science fiction film \\\"Der Tunnel.\\\" It was UFA's superproduction of 1934 and reportedly took 14 months to shoot, demonstrating the studio's commitment to ambitious sci-fi entertainment.",
+      "created_at": "2026-06-12 16:28:02"
+    },
+    {
       "title": "Golem",
       "year": 1979,
       "medium": "Film",
@@ -15845,5 +15862,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 932
+  "count": 933
 }

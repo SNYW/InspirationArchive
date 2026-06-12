@@ -3931,6 +3931,21 @@
       "created_at": "2026-03-02 21:47:08"
     },
     {
+      "title": "Gold",
+      "year": 1934,
+      "medium": "Film",
+      "creator": "Karl Hartl",
+      "raw_score": 3.75,
+      "total_ratings": 13,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Technology, Corporate Power, Discovery",
+      "image_filename": "Gold_1934.jpg",
+      "pitch": "Gold is a 1934 German science fiction film directed by Karl Hartl, the filmmaker behind the earlier hit \\\"Der Tunnel.\\\" The story follows German scientist Achenbach, who has discovered a theoretical method of transforming base metals into gold through \\\"atomic fracture\\\" \u2014 a concept that predates actual atomic science. When his laboratory is destroyed by a saboteur hired by the British industrialist John Wills, only his colleague Werner Holk survives. Posing as a willing collaborator, Holk infiltrates Wills' secret underwater laboratory to seek revenge, but ultimately decides to destroy the dangerous machine before it can destabilize the world economy.\n\nThe film is notable for its ambitious production values, including special effects by G\u00fcnther Rittau (who worked on Metropolis) and a dramatic climactic sequence involving explosions and strobe lighting. Brigitte Helm, famous for her role in \\\"Alraune,\\\" stars as Florence Wills in both the German and French-language versions.",
+      "created_at": "2026-06-12 16:28:02"
+    },
+    {
       "title": "Golem",
       "year": 1979,
       "medium": "Film",
@@ -13981,5 +13996,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 932
+  "count": 933
 }
