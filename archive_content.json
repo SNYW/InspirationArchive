@@ -4115,6 +4115,23 @@
       "created_at": "2026-03-03 23:34:47"
     },
     {
+      "title": "Four Sided Triangle",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "Terence Fisher",
+      "raw_score": 3.08,
+      "total_ratings": 16,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Cloning, Love, Science",
+      "image_filename": "Four_Sided_Triangle_1953.jpg",
+      "pitch": "Four Sided Triangle is a pioneering 1953 British science fiction film from Hammer Film Productions, directed by Terence Fisher. Set in a quiet English village, it tells the story of two scientists who invent a machine capable of duplicating physical objects\u2014and then make the fateful decision to duplicate a woman.\n\nBill and Robin are childhood friends who become scientists working in an old abandoned farmhouse. They build the Reproducer, a device that can create exact copies of any object. When their mutual love interest Lena returns to the village, Bill discovers she loves Robin, not him. In a desperate attempt to win her affection, Bill uses the Reproducer to create an exact duplicate of Lena\u2014named Helen. But duplicates are never simple: Helen has all of Lena's memories and falls in love with Robin too.\n\nThis is quintessential early Hammer\u2014a B-movie with big ideas and minimal budget, made just before their horror breakthrough with The Curse of Frankenstein. The film's modest production values and borrowed laboratory equipment add a naive charm that makes this a unique entry in sci-fi cinema history.",
+      "truth": "Dr Harvey, an old rural physician, breaks the fourth wall to relate an unusual occurrence in his village. The story is told in flashback.\n\nBill and Robin are boyhood friends who competed for the affections of Lena. When Lena's family moves away, they lose touch. Years later, both become scientists working together on the Reproducer\u2014a machine that can exactly duplicate physical objects. They can duplicate rubies and radium, but their funding dries up and Robin leaves to learn the family business.\n\nLena returns to the village, now a beautiful woman. Both Bill and Robin fall in love with her, but Lena chooses Robin. Bill, desperate, convinces Lena to let him create a duplicate of her using the Reproducer. The experiment succeeds and Bill names the duplicate Helen.\n\nHere's the twist: because Helen is an exact copy, she also falls in love with Robin. Bill tries using electric shock therapy to erase Helen's memories of Robin, but Helen agrees to the procedure despite knowing it may not work. During the procedure in the old farmhouse, the apparatus overheats and explodes, causing a fire.\n\nBill and Helen both perish in the fire. Robin and Dr Harvey rescue a woman from the flames\u2014but who? Lena or Helen? The key difference: Bill had to start Helen's heart with a device attached to the back of her neck, leaving two small scars. The woman they rescued has no scars on her neck, meaning they saved Lena.",
+      "core": "Four Sided Triangle is one of the earliest films to explore the philosophical implications of human cloning. The question at its heart is profound: if you create an exact copy of a person, is that copy a separate individual with their own rights and feelings? The film asks whether love can be duplicated, and whether identity persists through replication.\n\nThe duplicate Helen represents the ultimate unrequited love\u2014she has all of Lena's memories and feelings but no claim on the original's life. Her willingness to undergo the dangerous shock therapy to erase her memories of Robin is both tragic and noble.\n\nCritics dismissed the film as tedious melodrama with flat direction and amateurish performances. But the film's true significance lies in its themes: it predates by decades the ethical debates surrounding DNA cloning, artificial consciousness, and the question of what makes us unique. The ambiguous ending\u2014who survived?\u2014adds another layer: even if we could duplicate a person perfectly, we cannot control or predict the outcome.\n\nAs an early Hammer film, it also marks the transition from their quota quickie era to the horror/sci-fi films that would make them famous.",
+      "created_at": "2026-06-12 19:34:16"
+    },
+    {
       "title": "Fourth Mansions",
       "year": 1969,
       "medium": "Novel",
@@ -16219,5 +16236,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 954
+  "count": 955
 }
