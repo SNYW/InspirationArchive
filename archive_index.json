@@ -1021,6 +1021,21 @@
       "created_at": "2026-05-24 17:38:35"
     },
     {
+      "title": "Alternative 3",
+      "year": 1977,
+      "medium": "TV Series",
+      "creator": "David Ambrose, Christopher Miles",
+      "raw_score": 3.15,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Conspiracy, Space Travel, Climate, Aliens",
+      "image_filename": "Alternative_3_1977.jpg",
+      "pitch": "A 1977 British mockumentary that purports to investigate the mysterious \\\"brain drain\\\" of scientists, only to uncover a secret American-Soviet plan to colonize Mars in the event of environmental catastrophe on Earth. Produced by Anglia Television and written by David Ambrose with music by Brian Eno, Alternative 3 is a chilling example of speculative fiction presented as documentary fact.\n\nThe show was originally meant for April Fools' Day 1977 but delayed to June 20 due to labor disputes. Its documentary format and polished interviews created an unsettling realism that fooled many viewers, inspiring decades of speculation about its claims.",
+      "created_at": "2026-06-12 21:57:29"
+    },
+    {
       "title": "Ambassador Magma",
       "year": 1965,
       "medium": "Manga",
@@ -14641,5 +14656,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 976
+  "count": 977
 }
