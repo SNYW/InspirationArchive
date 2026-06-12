@@ -10830,6 +10830,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Drifting Classroom",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Nobuhiko Obayashi",
+      "raw_score": 2.6,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse, Horror",
+      "topics": "Isolation, Survival, Evolution",
+      "image_filename": "The_Drifting_Classroom_1987.jpg",
+      "pitch": "What if your entire school vanished\u2014transported through time to a future where humanity has evolved into monstrous forms and the Earth is a barren wasteland? The Drifting Classroom drops an entire Japanese elementary school into a post-apocalyptic nightmare where the children must survive without adults who descend into madness and violence. This is not your typical teen survival story\u2014the youngest characters face threats that would break grown minds, yet they find courage they never knew they had.\n\nDirector Nobuhiko Obayashi brings his experimental vision to this adaptation of Kazuo Umezu's legendary manga. The film captures the terrifying isolation of being utterly alone in a world where help will never come. The children must form their own government, make impossible decisions about who lives and dies, and discover the truth about how they got there. The horror builds slowly, letting the dread of their situation settle in before the monsters even appear.",
+      "truth": "Sixth grader Sho Takamatsu arrives at school after a bitter argument with his mother Emiko. Meanwhile, a burglar breaks into the school to steal money. During class, a tremor shakes the facility\u2014and the entire school is transported through time to a desolate future post-apocalyptic Earth.\n\nThe children discover a memorial commemorating the disappearance of their school, proving they are now in a future where humanity has nearly perished. Yu, a three-year-old who was caught in the tremor, shows Sho a grave marker with the school's name. The adults descend into panic and madness. Delivery man Sekiya hoards food and burns alive the teachers who try to stop him. Teacher Wakahara snaps and murders several students before being killed by Sho in self-defense.\n\nWith all adults dead except the volatile Sekiya, Sho and the older children attempt to lead. Nishi, a telepathic student, can communicate with people in the past, enabling Sho's mother to send supplies. The children face monstrous evolved humans, a deadly plague, food shortages, and the ever-present threat of going insane. Otomo, a jealous classmate, eventually admits he planted dynamite in the school the night before\u2014the explosion likely caused their temporal displacement.\n\nNishi falls into a coma, but uses her final power to send Yu back to the present with Sho's journal. Yu delivers the journal to Emiko, who promises to try to change the future. The remaining children vow to rebuild civilization from the ashes.",
+      "core": "The Drifting Classroom is a meditation on power, responsibility, and the fragility of civilization. The adults\u2014representing authority and stability\u2014crumble under pressure, while the children must grow up instantly to fill the void. This inverts the expected adult-child power dynamic, showing children as capable of remarkable leadership when given responsibility.\n\nThe film explores how society forms and reforms under duress. The children create a quasi-government with elections, food distribution, and defense forces\u2014mirroring the structures of the adult world they left behind. Sekiya represents the corruptible nature of power, becoming a tyrant when given control of resources.\n\nEvolution and adaptation theme throughout\u2014the future humans have evolved into spider-like creatures, representing humanity's potential to become something unrecognizable. The children themselves must evolve psychologically to survive, questioning whether they can return to their old lives at all. The ending suggests that even if they return, they will never truly be the same\u2014their experiences have transformed them as completely as the Earth itself.",
+      "created_at": "2026-06-12 14:12:17"
+    },
+    {
       "title": "The Drowned World",
       "year": 1962,
       "medium": "Novel",
@@ -15471,5 +15488,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 910
+  "count": 911
 }
