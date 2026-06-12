@@ -885,6 +885,23 @@
       "created_at": "2026-03-02 15:45:21"
     },
     {
+      "title": "Algol: Tragedy of Power",
+      "year": 1920,
+      "medium": "Film",
+      "creator": "Hans Werckmeister",
+      "raw_score": 3.27,
+      "total_ratings": 10,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Corporate Power, Technology, Class Struggle",
+      "image_filename": "Algol_Tragedy_of_Power_1920.jpg",
+      "pitch": "In 1920 Germany, a coal miner named Robert Herne encounters an alien being from the star Algol who grants him a prototype machine capable of producing unlimited energy. Over the next two decades, Herne transforms from a humble worker into a global industrialist, his factory powering the world. But the unlimited energy that was supposed to liberate humanity instead brings massive economic upheaval\u2014and Herne himself becomes corrupted by the very power he wields.\n\nThis Expressionist science fiction film was directed by Hans Werckmeister and stars Emil Jannings, with set designs by Walter Reimann, who also designed the iconic sets for The Cabinet of Dr. Caligari. The film explores the dangerous lure of unlimited power and the corrupting influence of technology.",
+      "truth": "Robert Herne works in a coal mine and befriends Maria Obal. While working underground, he encounters an inhabitant of the planet Algol who gives him a prototype machine that can produce unlimited energy. Over the next year, Herne builds a factory providing this free energy, but instead of relieving workers of difficult labor, the device creates massive economic upheaval worldwide.\n\nOver the following 20 years, Herne's power and influence grow immense. However, he loses touch with Maria, who now lives in the one part of the world beyond his influence. Herne's son Reginald schemes to seize control of the machine's secrets through a coup, while Maria's son Peter travels to seek Herne's aid for his country, whose coal reserves have expired.\n\nHerne initially refuses Peter's request. Maria visits him personally, and through their conversation, Herne realizes the extent to which he has been corrupted by power. In a moment of clarity, he destroys the machine, preventing his son from taking control after his death.",
+      "core": "Algol: Tragedy of Power is a stark warning about the corrupting nature of unlimited power and untamed technology. Made in 1920 Weimar Germany, the film reflects anxieties about industrialization and the concentration of economic power in the hands of a few.\n\nThe Expressionist visual style, with its futuristic set designs by Walter Reimann, creates a haunting vision of a world transformed by limitless energy\u2014but instead of utopia, the film shows dystopia. The alien from Algol remains enigmatic, his motivations unclear, adding to the film's eerie atmosphere.\n\nThe film was long thought lost but was rediscovered and screened at the Museum of Modern Art in 2010. It remains a powerful early example of science fiction cinema exploring the ethical dangers of technological power.",
+      "created_at": "2026-06-12 15:52:23"
+    },
+    {
       "title": "Alice",
       "year": 1988,
       "medium": "Animated Film",
@@ -15726,5 +15743,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 925
+  "count": 926
 }
