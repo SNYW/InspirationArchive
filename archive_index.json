@@ -11356,6 +11356,21 @@
       "created_at": "2026-03-18 01:08:24"
     },
     {
+      "title": "The Man with the Magic Box",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Bodo Kox",
+      "raw_score": 5.4,
+      "total_ratings": 51,
+      "origin": "Poland",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Thriller",
+      "topics": "Time Travel, Memory, Surveillance, Dystopia",
+      "image_filename": "the_man_with_the_magic_box.jpg",
+      "pitch": "Set in 2030 Orwellian Poland, this sci-fi thriller follows Adam, a man who wakes up with no memory of his past, working as a cleaner in a bleak corporate office. When he discovers an old radio from the 1950s, mysterious visions of another life begin to haunt him. As Adam attempts to recover his lost memories and understand how he arrived in this dystopian future, he finds an ally in Goria, an office manager who joins his quest. But government agents are always watching.\n\nThe Man with the Magic Box is a contemplative thriller that blends noir elements with dystopian sci-fi, drawing comparisons to Blade Runner's rain-soaked streets and Tarkovsky's meditative pacing. Director Bodo Kox crafts a world where corporate glass towers coexist with crumbling apartments, and the ghosts of Poland's communist past haunt a surveillance-state future.",
+      "created_at": "2026-06-12 18:07:58"
+    },
+    {
       "title": "The Martian",
       "year": 2015,
       "medium": "Film",
@@ -14116,5 +14131,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 941
+  "count": 942
 }
