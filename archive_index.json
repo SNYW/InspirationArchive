@@ -6886,6 +6886,21 @@
       "created_at": "2026-03-02 09:17:14"
     },
     {
+      "title": "Prophecies of Nostradamus",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Toshio Masuda",
+      "raw_score": 5.91,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Ecology, Environment, Pandemic",
+      "image_filename": "prophecies_of_nostradamus_1974.jpg",
+      "pitch": "In 1999, biologist Dr. Ryogen Nishiyama is called to analyze strange phenomena\u2014mutant slugs, children with strange abilities after drinking contaminated water, and massive ice formations near Hawaii. As a prophet of Nostradamus's apocalyptic warnings, he races to uncover the truth before global collapse arrives.\n\nThis 1974 Japanese disaster film was Toho's second major entry in the genre following Japan Sinks. Based on Ben Goto's bestseller novel, it blends environmental anxiety with supernatural prophecy, delivering a stark warning about humanity's ecological destruction.",
+      "created_at": "2026-06-12 16:17:17"
+    },
+    {
       "title": "Przek\u0142adaniec",
       "year": 1968,
       "medium": "Film",
@@ -13951,5 +13966,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 930
+  "count": 931
 }
