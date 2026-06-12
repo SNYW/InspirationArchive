@@ -7345,6 +7345,23 @@
       "created_at": "2026-03-02 15:18:26"
     },
     {
+      "title": "Operation Ganymed",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.43,
+      "total_ratings": 14,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse, Space-Opera",
+      "topics": "Space Travel, Survival, First Contact",
+      "image_filename": "Operation_Ganymed_1977.jpg",
+      "pitch": "A spaceship returns to Earth after several years of space exploration, only to find the planet desolate and seemingly abandoned. The crew lands in what they believe is Mexico and travels north, trying to piece together what happened during their absence. This 1977 German science fiction film offers a chilling vision of humanity's potential fate, told through the lens of European post-war anxieties about nuclear annihilation and environmental collapse.",
+      "truth": "The crew of the Prometheus spacecraft returns from a deep space mission expecting to find Earth unchanged. Instead, they discover a world ravaged by unspecified catastrophe - cities empty, nature overgrown, no sign of human life. As they travel northward from their landing site in Mexico, they encounter increasingly eerie evidence of humanity's sudden disappearance: abandoned cars on highways, meals left uneaten on tables, a world frozen in the moment of departure. The film follows their journey of discovery as they try to understand what happened, eventually meeting a lone survivor who reveals the cause of humanity's extinction - or does she? The ending remains ambiguous, suggesting perhaps they too are doomed to the same fate.",
+      "core": "Operation Ganymed stands as a compelling example of European science fiction's engagement with Cold War anxieties. Unlike American space operas of the era, which often offered optimistic visions of technological progress, this German film presents a profoundly pessimistic view of human civilization's fragility. The emptiness at its heart - the silent cities, the frozen moments of everyday life interrupted - serves as powerful metaphor for existential dread. The film's greatest strength lies in its restraint: the catastrophe itself remains offscreen, allowing the crew's journey through abandoned humanity to unfold with mounting psychological tension. This approach recalls the best of cosmic horror, suggesting that some fates are too terrible to directly depict.",
+      "created_at": "2026-06-12 19:05:14"
+    },
+    {
       "title": "Our Heavenly Bodies",
       "year": 1925,
       "medium": "Film",
@@ -16134,5 +16151,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 949
+  "count": 950
 }
