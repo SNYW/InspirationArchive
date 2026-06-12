@@ -15063,6 +15063,23 @@
       "created_at": "2026-03-03 02:00:57"
     },
     {
+      "title": "Vampires of Geona",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 5.5,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Megacorps, Ecology",
+      "image_filename": "Vampires_of_Geona_1991.jpg",
+      "pitch": "In this obscure 1991 Soviet sci-fi film, the GALAX Concern sends a crew to the distant planet Geona to harvest its valuable natural resources. But they're not alone on this hostile world \u2014 poisonous, pterodactyl-like creatures the locals call \\\"vampires\\\" defend their territory with deadly ferocity. Two crew members are already immobilized by vampire bites when Inspector Yanin arrives to assess the situation and lead the fight against the creatures.\n\nThe film blends creature horror with a corporate exploitation narrative, reflecting the anxieties of late-Soviet era cinema about Western corporate interests and the exploitation of natural resources. The \\\"vampire\\\" creatures are not supernatural monsters but evolved predators defending their ecosystem \u2014 a subtle ecological metaphor hidden within the creature feature framing.\n\nWith only 10 documented votes on TMDB, this is a genuinely obscure piece of Soviet sci-fi that rewards fans of low-budget creature features and those interested in the forgotten corners of Soviet genre cinema.",
+      "truth": "GALAX Concern has established operations on the distant planet Geona to harvest its natural resources. A small crew has been working on the planet, but they've encountered a serious problem \u2014 native creatures, described as poisonous pterodactyl-like \\\"vampires,\\\" are attacking anyone who ventures outside the protected mining areas.\n\nTwo crew members have been immobilized by vampire bites and cannot be moved. The corporation sends Inspector Yanin to Geona to assess the situation and determine whether the resource extraction operation can continue. Yanin must work with the remaining crew to eliminate the creature threat and rescue the bitten workers.\n\nThe film follows the standard creature-feature structure: a group of humans versus deadly aliens, with the added dimension of corporate interests driving the conflict. The vampires are presented as a genuine threat \u2014 dangerous predators that have evolved to defend their territory against intruders.\n\nThe resolution involves the crew successfully battling the creatures, though the film does not shy away from showing the cost of this conflict. The underlying theme is the tension between corporate exploitation and the natural world, with the vampire creatures representing nature's defense against human encroachment.",
+      "core": "Vampires of Geona is a modest but interesting entry in Soviet science fiction cinema. Produced in 1991, just as the Soviet Union was collapsing, the film reflects the transitional nature of Soviet genre cinema \u2014 drawing on familiar international tropes (creature features, corporate exploitation) while adding distinctly Soviet anxieties about Western corporate interests.\n\nThe \\\"vampire\\\" creatures are notable \u2014 they're not supernatural monsters but evolved predators with a biological basis. The film implicitly critiques the corporate exploitation of natural resources, with GALAX representing faceless corporate interests willing to exploit a world for its resources regardless of the cost.\n\nThe creature effects are modest but effective for a low-budget Soviet production. The film's greatest interest today is as a time capsule of Soviet-era genre filmmaking, showing how international sci-fi tropes were adapted for a Soviet context in the final years of the USSR.\n\nFor fans of obscure sci-fi, the film offers a window into a forgotten corner of Soviet genre cinema \u2014 the creature features produced in the final years before the Soviet system's collapse.",
+      "created_at": "2026-06-12 15:37:18"
+    },
+    {
       "title": "Vesper",
       "year": 2022,
       "medium": "Film",
@@ -15675,5 +15692,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 922
+  "count": 923
 }

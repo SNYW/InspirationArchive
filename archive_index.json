@@ -13291,6 +13291,21 @@
       "created_at": "2026-03-03 02:00:57"
     },
     {
+      "title": "Vampires of Geona",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 5.5,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Megacorps, Ecology",
+      "image_filename": "Vampires_of_Geona_1991.jpg",
+      "pitch": "In this obscure 1991 Soviet sci-fi film, the GALAX Concern sends a crew to the distant planet Geona to harvest its valuable natural resources. But they're not alone on this hostile world \u2014 poisonous, pterodactyl-like creatures the locals call \\\"vampires\\\" defend their territory with deadly ferocity. Two crew members are already immobilized by vampire bites when Inspector Yanin arrives to assess the situation and lead the fight against the creatures.\n\nThe film blends creature horror with a corporate exploitation narrative, reflecting the anxieties of late-Soviet era cinema about Western corporate interests and the exploitation of natural resources. The \\\"vampire\\\" creatures are not supernatural monsters but evolved predators defending their ecosystem \u2014 a subtle ecological metaphor hidden within the creature feature framing.\n\nWith only 10 documented votes on TMDB, this is a genuinely obscure piece of Soviet sci-fi that rewards fans of low-budget creature features and those interested in the forgotten corners of Soviet genre cinema.",
+      "created_at": "2026-06-12 15:37:18"
+    },
+    {
       "title": "Vesper",
       "year": 2022,
       "medium": "Film",
@@ -13831,5 +13846,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 922
+  "count": 923
 }
