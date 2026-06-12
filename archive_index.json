@@ -2761,6 +2761,21 @@
       "created_at": "2026-03-05 11:56:46"
     },
     {
+      "title": "Deluge",
+      "year": 1933,
+      "medium": "Film",
+      "creator": "Felix E. Feist",
+      "raw_score": 2.98,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Disaster, Ecology",
+      "image_filename": "Deluge_1933.jpg",
+      "pitch": "Deluge is a remarkably prescient 1933 American disaster film that imagines the total destruction of New York City by earthquakes and tsunamis \u2014 decades before such apocalyptic scenarios became a Hollywood staple. Directed by Felix E. Feist and loosely based on S. Fowler Wright's 1928 novel, the film follows a small group of survivors after global natural disasters devastate civilization.\n\nWhat makes Deluge remarkable is its unflinching vision of societal collapse. When scientists discover that barometric patterns indicate an unprecedented cataclysm is imminent, warnings go unheeded. A solar eclipse confirms the worst fears: global destruction is at hand. Massive earthquakes strike the US West Coast, tsunamis inundate New York, and the film opens with a Biblical quote \u2014 \\\"Neither shall there any more be a flood to destroy the earth\\\" \u2014 underscoring the futility of human arrogance against nature.\n\nThe film was groundbreaking for its visual effects depicting New York submerged underwater, a scene later recreated in 2004's The Day After Tomorrow. For decades considered a lost film, Deluge was rediscovered in Italy in 1981 and has since gained recognition as a pioneering work of apocalyptic science fiction.",
+      "created_at": "2026-06-12 19:57:35"
+    },
+    {
       "title": "Demon City Shinjuku",
       "year": 1988,
       "medium": "Anime",
@@ -14356,5 +14371,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 957
+  "count": 958
 }
