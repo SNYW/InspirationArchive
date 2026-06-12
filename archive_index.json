@@ -11,7 +11,7 @@
       "mood": "Cerebral",
       "sub_genres": "Science-Fiction",
       "topics": "Isolation",
-      "image_filename": "2081_2009.jpg",
+      "image_filename": null,
       "pitch": "1 is a 2009 Hungarian experimental science fiction film directed by debut filmmaker Pater Sparrow, inspired by Stanis\u0142aw Lem's fictitious criticism of the nonexistent book \"One Human Minute.\" The film unfolds in a Budapest where a renowned bookshop is mysteriously filled with copies of a strange almanac titled simply \"1\"\u2014a volume that contains tables and statistics documenting everything that happens in the world during a single minute. As a police investigation unfolds, the book and its implications begin to spread, drawing in a mysterious Vatican visitor and placing the bookshop staff in solitary confinement at the Bureau for Paranormal Research. The investigation spirals into existential chaos as the lead investigator, Phil Pitch, increasingly loses his grip on reality.",
       "created_at": "2026-03-01 18:45:43"
     },
@@ -4301,7 +4301,7 @@
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
       "topics": "Ecology, Satire, Authoritarianism",
-      "image_filename": "Images/Hydrozagadka.jpg",
+      "image_filename": null,
       "pitch": "During a sweltering summer heat wave in Warsaw, the city's water mysteriously begins to vanish. Scientists secretly call upon As (Ace), a mild-mannered engineer who lives a double life as Poland's greatest superhero. But As faces his toughest challenge yet\u2014a mysterious Maharaja in league with the villainous Doctor Spot, plotting to steal Poland's water supply and export it abroad.\n\nCreated as a Communist-era parody of American superhero films like Superman, Hydrozagadka unexpectedly became a satirical masterpiece that Polish audiences interpreted as a sharp critique of life under Communist rule. The film humorously parodied the empty slogans and false promises of the regime, using superhero conventions to expose the absurdity of Polish society in the 1970s.",
       "created_at": "2026-06-12 14:52:39"
     },
@@ -5741,7 +5741,7 @@
       "mood": "Cerebral",
       "sub_genres": "Science-Fantasy",
       "topics": "Time-Travel, Identity, Technology",
-      "image_filename": "my_20th_century.jpg",
+      "image_filename": "My_20th_Century_1989.jpg",
       "pitch": "In 1880 Budapest, at the precise moment Thomas Edison unveils his electric lightbulb to the world, twin sisters D\u00f3ra and Lili are born. Orphaned young, they are separated at childhood\u2014torn apart by chance and fate, each raised on radically different paths.\n\nDecades later, on New Year's Eve 1900, both young women find themselves aboard the Orient Express. One is a drifter and scam artist; the other is a revolutionary carrying a bomb. Their paths keep crossing\u2014on trains, in libraries, in funhouses\u2014as the film weaves a whimsical, erotic tale of synchronicity and fin-de-si\u00e8cle wonder.\n\nDirected by Ildik\u00f3 Enyedi, this 1989 Hungarian film is a formally daring, visually inventive meditation on the birth of modernity\u2014and of cinema itself.",
       "created_at": "2026-02-28 19:46:56"
     },
@@ -5771,7 +5771,7 @@
       "mood": "Surreal",
       "sub_genres": "Science-Fantasy",
       "topics": "Identity, Time Travel, Exploration",
-      "image_filename": "my_twentieth_century.jpg",
+      "image_filename": null,
       "pitch": "In Budapest, 1880, two twin sisters are born at the exact moment Thomas Edison presents his electric lightbulb to the world. Orphaned and separated in childhood, they grow up on opposite poles of society\u2014one becomes a na\u00efve, bomb-toting anarchist, the other a pampered courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1900, in this mind-bending meditation on identity, choice, and the paths our lives might have taken.\n\nIldik\u00f3 Enyedi's debut feature is a haunting, erotic fantasy that treats time as fluid and identity as fragmented. The film won the Golden Camera at Cannes and was Hungary's submission for the Academy Awards. Its dreamy, non-linear structure anticipates everything from cloud Atlas to Dark, rendered in sumptuous period production design and a hypnotic score.",
       "created_at": "2026-06-12 14:47:58"
     },
@@ -12514,7 +12514,7 @@
       "title": "The Word for World is Forest",
       "year": 1976,
       "medium": "Novella",
-      "creator": "",
+      "creator": "Ursula K. Le Guin",
       "raw_score": 4.0,
       "total_ratings": 500,
       "origin": "USA",
