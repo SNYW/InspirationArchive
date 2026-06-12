@@ -5118,6 +5118,23 @@
       "created_at": "2026-03-18 19:50:28"
     },
     {
+      "title": "Island City",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Jonathan Glassner",
+      "raw_score": 3.4,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Genetic Engineering, Virtual Reality, Mutation, Class Struggle, Surveillance",
+      "image_filename": "Island_City_1994.jpg",
+      "pitch": "In 2035, humanity has discovered a fountain of youth drug that keeps people physically young. But there is a terrible side effect: most who take it mutate into barbaric proto-humanoids. The few immune survivors live behind the walls of a futuristic city, while mutants roam the wasteland outside. When a rescue squad loses one of their own to the mutants, they must organize a desperate search-and-rescue mission.\n\nThe film touches on fascinating themes: genetic compatibility determines who can marry whom, with citizens wearing color-coded crystals on their sternum based on genetic makeup. The morality of seeking eternal youth is explored through a character who refused the drug and has aged normally while his wife remains young. Virtual reality serves as both learning tool and escape into fantasy.",
+      "truth": "Col. Tom Valdoon leads a research squad that ventures into the wasteland in fortified vehicles to study the mutants and rescue healthy survivors. During a mission, one of their own is captured by the mutants. The rest of the film follows the team's response as they organize a search-and-rescue while exploring the city strict social structure.\n\nDr. Sammy Helding and Greg 23 work on understanding the mutation. The city citizens wear colored crystals on their sternum based on genetic makeup, and mating only with those of the same color is mandatory. This is because mixed-color offspring develop the mutation when combined with the youth drug.\n\nA subplot explores the morality of the youth drug: one character refused it on principle and has aged normally into his 60s or 70s while his wife remains physically in her mid-30s. The film also features virtual reality goggles used for education and fantasy fulfillment.",
+      "core": "Island City explores the cost of immortality and what society is willing to sacrifice for it. The genetic caste system, where compatibility determines social bonds and marriage partners, reflects contemporary anxieties about genetic engineering and designer babies. The film asks whether eternal youth is truly a gift or a curse, and at what point humanity would be better off accepting mortality.\n\nThe virtual reality elements foreshadow contemporary debates about technology as both liberation and control. The film never produced additional episodes, leaving its provocative questions about genetic selection and social engineering tantalizingly unresolved.",
+      "created_at": "2026-06-12 15:42:16"
+    },
+    {
       "title": "Island of Lost Souls",
       "year": 1932,
       "medium": "Film",
@@ -15692,5 +15709,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 923
+  "count": 924
 }

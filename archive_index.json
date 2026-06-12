@@ -4516,6 +4516,21 @@
       "created_at": "2026-03-18 19:50:28"
     },
     {
+      "title": "Island City",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Jonathan Glassner",
+      "raw_score": 3.4,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Genetic Engineering, Virtual Reality, Mutation, Class Struggle, Surveillance",
+      "image_filename": "Island_City_1994.jpg",
+      "pitch": "In 2035, humanity has discovered a fountain of youth drug that keeps people physically young. But there is a terrible side effect: most who take it mutate into barbaric proto-humanoids. The few immune survivors live behind the walls of a futuristic city, while mutants roam the wasteland outside. When a rescue squad loses one of their own to the mutants, they must organize a desperate search-and-rescue mission.\n\nThe film touches on fascinating themes: genetic compatibility determines who can marry whom, with citizens wearing color-coded crystals on their sternum based on genetic makeup. The morality of seeking eternal youth is explored through a character who refused the drug and has aged normally while his wife remains young. Virtual reality serves as both learning tool and escape into fantasy.",
+      "created_at": "2026-06-12 15:42:16"
+    },
+    {
       "title": "Island of Lost Souls",
       "year": 1932,
       "medium": "Film",
@@ -13846,5 +13861,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 923
+  "count": 924
 }
