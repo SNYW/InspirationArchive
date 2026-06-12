@@ -8866,6 +8866,21 @@
       "created_at": "2026-03-01 10:23:56"
     },
     {
+      "title": "Tales to Keep You Awake",
+      "year": 1966,
+      "medium": "TV Series",
+      "creator": "Narciso Ib\u00e1\u00f1ez Serrador",
+      "raw_score": 3.55,
+      "total_ratings": 19,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural,Mental Health",
+      "image_filename": "Tales_to_Keep_You_Awake_1966.jpg",
+      "pitch": "Tales to Keep You Awake is a Spanish horror anthology television series that brought supernatural terror to primetime TV in 1960s Europe. Created, written, and directed by Narciso Ib\u00e1\u00f1ez Serrador for Televisi\u00f3n Espa\u00f1ola, it was one of the first Spanish series to explore horror and the macabre in a television format\u2014virtually untrodden ground in Spanish media at the time.\n\nThe series adapts tales from masters like Edgar Allan Poe, Ray Bradbury, and Fredric Brown, alongside original stories by Serrador himself. Episodes range from psychological thrillers to supernatural revenge tales, united by a sense of creeping dread and moral unease. The debut episode, \\\"El cumplea\u00f1os\\\" (The Birthday), adaptation of a Fredric Brown story, established the template: ordinary situations curdling into nightmare.\n\nWhat makes this series remarkable is its ambition\u2014bringing literary horror to TV, a format then considered inappropriate for such dark material. The series won the Golden Nymph for best script at the Monte-Carlo Television Festival in 1967 for \\\"El asfalto\\\"\u2014the first international prize ever won by Televisi\u00f3n Espa\u00f1ola.",
+      "created_at": "2026-06-12 21:44:36"
+    },
+    {
       "title": "Technical Error",
       "year": 1950,
       "medium": "Short Story",
@@ -14611,5 +14626,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 974
+  "count": 975
 }

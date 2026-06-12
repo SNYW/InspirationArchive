@@ -10048,6 +10048,23 @@
       "created_at": "2026-03-01 10:23:56"
     },
     {
+      "title": "Tales to Keep You Awake",
+      "year": 1966,
+      "medium": "TV Series",
+      "creator": "Narciso Ib\u00e1\u00f1ez Serrador",
+      "raw_score": 3.55,
+      "total_ratings": 19,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural,Mental Health",
+      "image_filename": "Tales_to_Keep_You_Awake_1966.jpg",
+      "pitch": "Tales to Keep You Awake is a Spanish horror anthology television series that brought supernatural terror to primetime TV in 1960s Europe. Created, written, and directed by Narciso Ib\u00e1\u00f1ez Serrador for Televisi\u00f3n Espa\u00f1ola, it was one of the first Spanish series to explore horror and the macabre in a television format\u2014virtually untrodden ground in Spanish media at the time.\n\nThe series adapts tales from masters like Edgar Allan Poe, Ray Bradbury, and Fredric Brown, alongside original stories by Serrador himself. Episodes range from psychological thrillers to supernatural revenge tales, united by a sense of creeping dread and moral unease. The debut episode, \\\"El cumplea\u00f1os\\\" (The Birthday), adaptation of a Fredric Brown story, established the template: ordinary situations curdling into nightmare.\n\nWhat makes this series remarkable is its ambition\u2014bringing literary horror to TV, a format then considered inappropriate for such dark material. The series won the Golden Nymph for best script at the Monte-Carlo Television Festival in 1967 for \\\"El asfalto\\\"\u2014the first international prize ever won by Televisi\u00f3n Espa\u00f1ola.",
+      "truth": "The series spans three distinct seasons broadcast from 1966 to 1982. The first season began on February 4, 1966 with \\\"El cumplea\u00f1os,\\\" adapted from Fredric Brown. Subsequent episodes included adaptations of Poe's \\\"The Facts in the Case of M. Valdemar\\\" (\\\"El pacto\\\"), Bradbury stories, and original works like \\\"La alarma\\\" (The Alarm) and \\\"El asfalto\\\" (The Asphalt), the latter winning the Golden Nymph.\n\nThe second season (1967-1968) featured eight episodes including \\\"La pesadilla\\\" (The Nightmare), \\\"La zarpa\\\" (The Paw, based on W.W. Jacobs' \\\"The Monkey's Paw\\\"), \\\"El vidente\\\" (The Seer), and \\\"El cuervo\\\" (The Raven), a special dedicated to Poe's biography. The series was abandoned after this season when Serrador began filming his first feature film, \\\"La residencia.\\\"\n\nA third season aired in 1982 with four color episodes: \\\"Freddy,\\\" \\\"El caso del se\u00f1or Valdemar\\\" (remake of \\\"El pacto\\\"), \\\"El fin empez\u00f3 ayer,\\\" and \\\"El trapero.\\\" Due to low budgets and rushed schedules, the master videotapes suffered damage, and the season was not commercially successful.\n\nIn 2000, a revival was announced but cancelled. In 2005, \\\"Pel\u00edculas para no dormir\\\" (Films to Keep You Awake) was produced\u2014six horror TV movies by directors including \u00c1lex de la Iglesia, Jaume Balaguer\u00f3, and Paco Plaza. A 2021 revival on Amazon Prime Video remade four classic episodes.",
+      "core": "Tales to Keep You Awake represents a significant moment in Spanish television history\u2014the emergence of genre television as a legitimate creative form. Serrador brought literary horror to the small screen when horror cinema itself was still marginal in Spain.\n\nThe series explores timeless fears: the terror of domesticity (\\\"El cumplea\u00f1os\\\"), the corruption of memory, the supernatural consequences of greed (\\\"La zarpa\\\" draws on \\\"The Monkey's Paw\\\"). Episodes often carry moral weight\u2014the punishment for transgression, the impossibility of escaping one's choices.\n\nCritically, the series succeeded despite institutional skepticism about television's capacity for serious genre work. Its international recognition proved Spanish television could compete globally. The series influenced generations of Spanish horror filmmakers\u2014many directors of the \\\"Pel\u00edculas para no dormir\\\" extensions cite it as formative.\n\nFor the archive, it represents both a historical document\u2014the evolution of Spanish genre television\u2014and a genuinely eerie viewing experience. The anthology format delivers concentrated doses of dread across its 29 episodes, with earlier black-and-white installments often more effective than later color entries.",
+      "created_at": "2026-06-12 21:44:36"
+    },
+    {
       "title": "Technical Error",
       "year": 1950,
       "medium": "Short Story",
@@ -16559,5 +16576,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 974
+  "count": 975
 }
