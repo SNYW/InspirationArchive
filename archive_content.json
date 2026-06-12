@@ -9878,6 +9878,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Submersion of Japan",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Shir\u014d Moritani",
+      "raw_score": 3.5,
+      "total_ratings": 22,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Ecology, Survival, Class Struggle",
+      "image_filename": "Submersion_of_Japan_1973.jpg",
+      "pitch": "A disaster film of apocalyptic scale, Submersion of Japan (Nihon Chinbotsu) imagines the complete destruction of the Japanese archipelago. Based on Sakyo Komatsu's bestselling 1973 novel, the film follows geophysicist Dr. Tadokoro as he uncovers evidence that the entire nation will sink into the Pacific Ocean within just ten months. The premise is terrifyingly grounded in real seismic science, making this a uniquely terrifying vision of national extinction.\n\nThe film was the highest-grossing Japanese film of 1973 and 1974, distributed by Toho. It was later remade in 2006 as Japan Sinks. The American release, heavily re-cut by Roger Corman with new footage starring Lorne Greene, was titled Tidal Wave.",
+      "truth": "Dr. Tadokoro and Onodera Toshio investigate tremors in the seafloor near the Ogasawara Islands aboard the submarine Wadatsumi-1. They discover that the Japanese islands are collapsing into the Japan Trench. Despite warnings of imminent catastrophe, government officials dismiss Tadokoro as alarmist.\n\nA mysterious wealthy man named Mr. Watari agrees to fund further research. As mounting disasters strike\u2014eruptions of Mount Amagi and Mount Kirishima\u2014the evidence becomes undeniable. A massive earthquake strikes Tokyo, killing three million people.\n\nThree months later, with Tokyo recovering, the government learns another even larger earthquake is imminent. Tadokoro reveals his two-phase plan: D1 to investigate the Japan Trench, and D2 for nationwide evacuation. Prime Minister Yamamoto negotiates with other nations to accept Japanese refugees.\n\nThe timeline shrinks from two years to just ten months. Nations debate accepting refugees. Finally, Japan's fate is announced publicly. As the country sinks piece by piece\u2014the Kii Peninsula, Shikoku, Sanriku, Tohoku, Kyushu, Hokkaido, Okinawa\u2014millions evacuate. Sixty-three million Japanese remain on the archipelago when the country finally sinks entirely.\n\nOnodera, who planned to meet his love Reiko in Geneva, is separated when Mount Fuji erupts. Watari dies. Prime Minister Yamamoto ceases JSDF rescue operations. In the final scene, Reiko rides a train in Switzerland while Onodera rides a boxcar in the American Southwest\u2014both heading to uncertain futures as refugees from a vanished nation.",
+      "core": "Submersion of Japan is a profound meditation on national identity and mortality. By imagining Japan's complete erasure, the film forces viewers to confront questions of what remains when a nation loses its land. The evacuation becomes a metaphor for diaspora and the fragility of cultural identity.\n\nThe film also critiques governmental response to crisis\u2014the initial denial, the scramble for international aid, the ethical dilemmas of mass evacuation. Unlike American disaster films that typically end with salvation, this film ends with loss\u2014Japan sinks, its people scattered across the globe.\n\nThe scientific basis (the novel was praised for its accuracy) adds chilling realism. The 1973 original preceded real discussions of climate change and rising sea levels by decades, making it a prescient work of ecological anxiety. Its success spawned the 2006 remake and influenced countless disaster films in Japan and beyond.",
+      "created_at": "2026-06-12 21:22:54"
+    },
+    {
       "title": "Subterranea",
       "year": 2024,
       "medium": "TV Series",
@@ -16508,5 +16525,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 971
+  "count": 972
 }
