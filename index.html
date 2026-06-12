@@ -333,11 +333,11 @@
                     <label>Obscurity</label>
                     <select id="obscurityFilter" class="tag-select" onchange="loadMedia()">
                         <option value="all">All Levels</option>
-                        <option value="mainstream">Mainstream (< 30%)</option>
-                        <option value="cult">Cult Classic (30-60%)</option>
-                        <option value="deep">Deep Cut (60-90%)</option>
-                        <option value="outer">Outer Rim (> 90%)</option>
-                        <option value="ghost">Ghost Data (Unknown)</option>
+                        <option value="mainstream">Well-Known</option>
+                        <option value="cult">Niche</option>
+                        <option value="deep">Obscure</option>
+                        <option value="outer">Outer Rim</option>
+                        <option value="ghost">Ghost Data</option>
                     </select>
                 </div>
             </div>
@@ -459,7 +459,27 @@ function buildSiteMosaic() {
     }); 
 }
 
-async function loadMediaList() { 
+function computeObscurity(ratingsCount, medium) {
+    const m = medium ? medium.toLowerCase() : '';
+    let outerMax, deepMax, cultMax;
+    if (m.includes('anime') || m.includes('ova')) {
+        // MAL scale: far higher vote counts than TMDB
+        outerMax = 1000; deepMax = 10000; cultMax = 100000;
+    } else if (m.includes('novel') || m.includes('novella') || m.includes('short story') || m.includes('graphic novel')) {
+        // OpenLibrary scale: far lower vote counts
+        outerMax = 50; deepMax = 500; cultMax = 5000;
+    } else {
+        // TMDB scale (Film, TV, Short Film, Animated Film, Serial Film, Video Game, etc.)
+        outerMax = 200; deepMax = 2000; cultMax = 8000;
+    }
+    if (!ratingsCount || ratingsCount === 0) return { tier: 'ghost', pct: 100 };
+    if (ratingsCount < outerMax) return { tier: 'outer', pct: Math.round(99 - (ratingsCount / outerMax) * 24) };
+    if (ratingsCount < deepMax) return { tier: 'deep', pct: Math.round(74 - ((ratingsCount - outerMax) / (deepMax - outerMax)) * 24) };
+    if (ratingsCount < cultMax) return { tier: 'cult', pct: Math.round(49 - ((ratingsCount - deepMax) / (cultMax - deepMax)) * 24) };
+    return { tier: 'mainstream', pct: Math.max(0, Math.round(24 - Math.log10(ratingsCount / cultMax) * 8)) };
+}
+
+async function loadMediaList() {
     const g = document.getElementById('mediaGrid'); 
     try { 
         const r = await fetch('archive_content.json');
@@ -475,13 +495,7 @@ async function loadMediaList() {
             
             let rating = entry.raw_score;
             let ratingsCount = entry.total_ratings || 0;
-            let obscurityTier, obscurityPct;
-            
-            if (ratingsCount >= 100000) { obscurityTier = 'mainstream'; obscurityPct = Math.max(0, 30 - Math.floor(ratingsCount/100000)); }
-            else if (ratingsCount >= 10000) { obscurityTier = 'cult'; obscurityPct = Math.max(30, 60 - Math.floor(ratingsCount/2500)); }
-            else if (ratingsCount >= 1000) { obscurityTier = 'deep'; obscurityPct = Math.max(60, 90 - Math.floor(ratingsCount/300)); }
-            else if (ratingsCount > 0) { obscurityTier = 'outer'; obscurityPct = Math.min(99, 90 + Math.floor((1000-ratingsCount)/100)); }
-            else { obscurityTier = 'ghost'; obscurityPct = 100; }
+            const { tier: obscurityTier, pct: obscurityPct } = computeObscurity(ratingsCount, entry.medium);
             
             const pm = tags.mood[0] || 'Unknown';
             const safeTitle = encodeURIComponent(entry.title).replace(/'/g,"%27");
@@ -542,7 +556,7 @@ function updateHero() {
     const container = document.getElementById('heroSection');
     if(!media.length) return; 
     
-    const topPicksPool = media.filter(m => m.rating >= 3.5 && (m.obscurityPct >= 60 || m.obscurityTier === 'ghost'));
+    const topPicksPool = media.filter(m => m.rating >= 3.5 && (m.obscurityTier === 'outer' || m.obscurityTier === 'deep'));
     
     if (topPicksPool.length === 0) {
         container.classList.add('hidden');
