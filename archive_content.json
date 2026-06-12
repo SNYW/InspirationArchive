@@ -11136,6 +11136,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The End of August at the Hotel Ozone",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Jaromil Jaros",
+      "raw_score": 3.07,
+      "total_ratings": 22,
+      "origin": "Czechoslovakia",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Memory, Isolation",
+      "image_filename": "The_End_of_August_at_the_Hotel_Ozone_1967.jpg",
+      "pitch": "In a world ravaged by nuclear war, a troupe of young women wander across the desolate landscape of post-apocalyptic Earth. Led by their mistress, who was born before the catastrophe, they journey through ruins and emptiness until stumbling upon the company of a lonely old man \u2014 the last remnant of the pre-war world. This haunting Czechoslovakian film from 1967 offers a meditative meditation on survival, generational memory, and the fragile transmission of culture through women after societal collapse.",
+      "truth": "The film follows a group of young women who have survived a nuclear apocalypse. They travel together under the guidance of their mistress, a woman born before the war who maintains the traditions and knowledge of the lost world. The group wanders through the empty countryside, eventually encountering an old man living alone in the ruins. Through this encounter, the film explores the contrast between the old world's remnants and the new generation's struggle to survive.",
+      "core": "The End of August at the Hotel Ozone is a contemplative post-apocalyptic work that predates many famous examples of the genre. Jaromil Jaros uses the sparse, haunting imagery of the wasteland to explore themes of generational memory and the role of women in preserving culture through societal collapse. The film is notable for its pessimistic yet poetic vision of a world after humanity's fall, making it a unique entry in Czechoslovakian science fiction cinema.",
+      "created_at": "2026-06-12 16:22:24"
+    },
+    {
       "title": "The End of the World",
       "year": 1916,
       "medium": "Film",
@@ -15828,5 +15845,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 931
+  "count": 932
 }
