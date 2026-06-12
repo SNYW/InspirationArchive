@@ -13669,6 +13669,23 @@
       "created_at": "2026-03-02 02:34:34"
     },
     {
+      "title": "The Rocket Man",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Oscar Rudolph",
+      "raw_score": 6.45,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Family",
+      "image_filename": "rocket_man_1954.jpg",
+      "pitch": "When a mysterious rocket man crash-lands near an orphanage, a young orphan named Timmy discovers a ray gun that forces anyone caught in its beam to tell the truth. Using this impossible device, he sets out to save his home from foreclosure and unite a young couple in love. Released in 1954, this low-budget American comedy with science fiction elements stars Charles Coburn, Anne Francis, and John Agar, with a screenplay co-written by the legendary comedian Lenny Bruce. The film carries the tag line, \"Out-of-this-world laughter and down-to-earth charm when the face from space turns out to be\u2026 the kid next door!\" While lacking Bruce's trademark wit, the film offers gentle, family-friendly entertainment with an unusual sci-fi premise that was relatively rare for American cinema of the early 1950s.",
+      "truth": "The story begins when a mysterious rocket man from space crashes near a small town. The local townspeople are baffled by the alien visitor, but the incident leads to the discovery of a strange ray gun left behind by the rocket man. Young Timmy, an orphan living at the Good Shepherd Home for Children, stumbles upon this incredible device that has the power to compel anyone caught in its beam to tell the absolute truth.\n\nTimmy decides to use the ray gun to save his orphanage, which is facing foreclosure by the corrupt banker Big Bill Watkins, who schemes to seize the property. Using the truth-telling beam, Timmy exposes the banker's dishonest deals and saves the children from losing their home.\n\nMeanwhile, the young couple Tom Baxter and June Brown face obstacles in their romance. Timmy also uses the ray gun to help them confess their true feelings for each other, enabling the couple to overcome their misunderstandings and unite in love.\n\nThe rocket man himself departs as mysteriously as he arrived, leaving behind only the ray gun and the lessons about truth and love that Timmy and the townspeople have learned. The film ends on an optimistic note with the orphanage saved, the couple united, and the community better for having experienced this brief encounter with the unknown.",
+      "core": "The Rocket Man represents a fascinating footnote in 1950s American science fiction cinema. While the decade is best remembered for serious alien invasion narratives like \"The Day the Earth Stood Still\" and \"Invasion of the Body Snatchers,\" this film takes a lighter approach, using sci-fi as a framing device for a heartwarming family drama about orphans and true love.\n\nThe involvement of Lenny Bruce as co-screenwriter is perhaps the film's most historically interesting element, even though the finished product contains little of his characteristic satirical voice. The New York Times noted this as the \"strangest aspect\" of the low-budget production.\n\nThematically, the film explores truth as a force for good\u2014a utopian premise where absolute honesty naturally leads to justice. The ray gun functions as a metaphor for integrity, suggesting that truth-telling has the power to expose corruption and unite hearts. This optimistic worldview reflects the post-war American sensibility that goodness will prevail when hidden truths come to light.\n\nFor the archive, The Rocket Man serves as an example of how science fiction elements were being integrated into mainstream American filmmaking even in modest productions, paving the way for the more sophisticated sci-fi comedies of the later 1950s and 1960s.",
+      "created_at": "2026-06-12 17:58:22"
+    },
+    {
       "title": "The Saragossa Manuscript",
       "year": 1965,
       "medium": "Film",
@@ -15964,5 +15981,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 939
+  "count": 940
 }

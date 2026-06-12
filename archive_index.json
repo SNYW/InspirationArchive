@@ -12061,6 +12061,21 @@
       "created_at": "2026-03-02 02:34:34"
     },
     {
+      "title": "The Rocket Man",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Oscar Rudolph",
+      "raw_score": 6.45,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Family",
+      "image_filename": "rocket_man_1954.jpg",
+      "pitch": "When a mysterious rocket man crash-lands near an orphanage, a young orphan named Timmy discovers a ray gun that forces anyone caught in its beam to tell the truth. Using this impossible device, he sets out to save his home from foreclosure and unite a young couple in love. Released in 1954, this low-budget American comedy with science fiction elements stars Charles Coburn, Anne Francis, and John Agar, with a screenplay co-written by the legendary comedian Lenny Bruce. The film carries the tag line, \"Out-of-this-world laughter and down-to-earth charm when the face from space turns out to be\u2026 the kid next door!\" While lacking Bruce's trademark wit, the film offers gentle, family-friendly entertainment with an unusual sci-fi premise that was relatively rare for American cinema of the early 1950s.",
+      "created_at": "2026-06-12 17:58:22"
+    },
+    {
       "title": "The Saragossa Manuscript",
       "year": 1965,
       "medium": "Film",
@@ -14086,5 +14101,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 939
+  "count": 940
 }
