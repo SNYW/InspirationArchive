@@ -3248,6 +3248,23 @@
       "created_at": "2026-03-06 01:12:21"
     },
     {
+      "title": "Destination Moonbase-Alpha",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Gerry Anderson",
+      "raw_score": 2.8,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "Space Travel, Survival, Isolation",
+      "image_filename": "Destination_Moonbase_Alpha_1978.jpg",
+      "pitch": "Destination Moonbase-Alpha is a 1978 British science fiction film that continues the story of the cult TV series Space: 1999. After a catastrophic nuclear explosion propels the Moon out of Earth orbit, 300 colonists aboard Moonbase Alpha drift endlessly through space. When an advanced rescue ship arrives from Earth promising safe passage home, Commander John Koenig faces a terrible choice \u2014 trust the mysterious visitors or continue their desperate voyage into the unknown.\n\nThis is quintessential 1970s British space opera, brought to life by the legendary puppetry and effects team at Century 21 Productions. The film's special effects, including innovative matte paintings and model work, create a haunting vision of an abandoned Moonbase tumbling through the cosmos. The sense of isolation and claustrophobic dread as Alpha drifts further from Earth makes for compelling viewing.",
+      "truth": "The film opens with the catastrophic nuclear explosion on the Moon that propels Alpha and its 300 inhabitants into space. The crew, led by Commander John Koenig, struggles to survive as their resources dwindle and communications with Earth fade. When the advanced spacecraft Eagle arrives carrying a rescue team, the colonists hope for salvation.\n\nHowever, Koenig has undergone an experimental brain-soothing procedure after a crash and now experiences disturbing visions and altered perceptions. He suspects the rescue mission may not be what it appears. The crew faces a critical decision: trust the seemingly benevolent rescuers or continue their hopeless journey.\n\nThe truth reveals the visitors to be aliens who have been guiding humanity toward a specific destination. Koenig must choose between the comfort of the alien guidance or the uncertainty of maintaining human independence. The film ends with Alpha continuing its drift into deep space, the fate of its passengers unresolved.",
+      "core": "Destination Moonbase-Alpha explores themes of isolation, dependency, and the human condition when faced with seemingly miraculous salvation. The film questions whether salvation offered by unknown entities is truly beneficial or whether maintaining human autonomy, even in desperation, is a fundamental necessity.\n\nGerry Anderson's production represents the final chapter of the Space: 1999 universe and showcases the distinctive British approach to hard science fiction television. The film's low-budget origins (from a 1974 unaired pilot) give it an earnest, earnest quality that distinguishes it from Hollywood space operas of the era.\n\nThe visual effects, though dated by modern standards, convey a genuine sense of cosmic loneliness and the fragility of human existence in the face of infinite space.",
+      "created_at": "2026-06-12 23:23:26"
+    },
+    {
       "title": "Detonator Orgun",
       "year": 1991,
       "medium": "OVA",
@@ -16814,5 +16831,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 989
+  "count": 990
 }
