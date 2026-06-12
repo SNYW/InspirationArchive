@@ -12768,6 +12768,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Mysterious Castle in the Carpathians",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Old\u0159ich Lipsk\u00fd",
+      "raw_score": 3.0,
+      "total_ratings": 36,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Technology, Comedy",
+      "image_filename": "The_Mysterious_Castle_in_the_Carpathians_1981.jpg",
+      "pitch": "In 1897, at a mysterious castle in the Carpathian Mountains, the eccentric Professor Orfanik conducts bizarre scientific experiments\u2014including an early television and film camera\u2014while obsessed with opera. He keeps the preserved body of his favorite diva in a crypt beneath the castle. When Baron Robert Gorc arrives seeking hidden treasure, various characters scheme and compete for the prize amid mechanical contraptions, supernatural comedy, and operatic spectacles.\n\nThis Czechoslovak comedy blends Verne-style adventure with Czech humor and early cinematic wonder. Director Old\u0159ich Lipsk\u00fd creates a whimsical world where mad science meets theatrical spectacle.",
+      "truth": "The story centers on Professor Orfanik, a slightly deranged inventor living in a Carpathian castle who experiments with groundbreaking technology including television and a film camera\u2014decades ahead of their time. He is also an obsessed opera fan who maintains the preserved body of his beloved diva, Salsa Verde, in a crypt.\n\nWhen Baron Robert Gorc arrives at the castle hoping to claim hidden treasure, various characters become entangled in his schemes. The Baron's assistant, Butlers, and other visitors fall prey to Orfanik's mechanical inventions gone awry. Comedy erupts as characters mistaken identities, hidden passages, and the professor's television broadcasts create chaos.\n\nThe film culminates in an operatic spectacle where Orfanik's technology and theatrical obsessions collide with the treasure hunters' greed, leading to a resolution that celebrates curiosity and creativity over material gain.",
+      "core": "The Mysterious Castle in the Carpathians is a playful homage to Jules Verne's adventure novels filtered through Czechoslovak comedic sensibilities. The film satirizes the mad scientist trope while also celebrating technological optimism and the wonder of early cinema.\n\nDirector Old\u0159ich Lipsk\u00fd's final collaboration with screenwriter Ji\u0159\u00ed Brde\u010dka creates a unique visual world where imagination runs wild. Props were created by renowned animator Jan \u0160vankmajer, lending the film a distinctive surreal quality that bridges fantasy and science. The blend of Verne source material, Czech humor, and experimental filmmaking makes this a charming artifact of Eastern Bloc cinema.",
+      "created_at": "2026-06-12 15:02:39"
+    },
+    {
       "title": "The Mystery of the Third Planet",
       "year": 1981,
       "medium": "Animated Film",
@@ -15556,5 +15573,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 915
+  "count": 916
 }

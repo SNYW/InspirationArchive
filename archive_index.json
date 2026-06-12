@@ -11266,6 +11266,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Mysterious Castle in the Carpathians",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Old\u0159ich Lipsk\u00fd",
+      "raw_score": 3.0,
+      "total_ratings": 36,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Technology, Comedy",
+      "image_filename": "The_Mysterious_Castle_in_the_Carpathians_1981.jpg",
+      "pitch": "In 1897, at a mysterious castle in the Carpathian Mountains, the eccentric Professor Orfanik conducts bizarre scientific experiments\u2014including an early television and film camera\u2014while obsessed with opera. He keeps the preserved body of his favorite diva in a crypt beneath the castle. When Baron Robert Gorc arrives seeking hidden treasure, various characters scheme and compete for the prize amid mechanical contraptions, supernatural comedy, and operatic spectacles.\n\nThis Czechoslovak comedy blends Verne-style adventure with Czech humor and early cinematic wonder. Director Old\u0159ich Lipsk\u00fd creates a whimsical world where mad science meets theatrical spectacle.",
+      "created_at": "2026-06-12 15:02:39"
+    },
+    {
       "title": "The Mystery of the Third Planet",
       "year": 1981,
       "medium": "Animated Film",
@@ -13726,5 +13741,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 915
+  "count": 916
 }
