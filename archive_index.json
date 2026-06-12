@@ -13696,6 +13696,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Waking Up Yesterday",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Milan \u0160teindler",
+      "raw_score": 6.1,
+      "total_ratings": 21,
+      "origin": "Czech-Republic",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Love, Class Struggle",
+      "image_filename": "Waking_Up_Yesterday_2012.jpg",
+      "pitch": "A Czech teacher discovers a way to journey into the past \u2014 specifically to the late 1980s \u2014 to recover his lost love Eli\u0161ka. In the present (2012), Peter is a hopeless romantic who has failed at relationships, becoming a social laughing stock. But he knows that in 1988, everything was different: he and Eli\u0161ka were together, happy, before circumstances drove them apart.\n\nThe film is a bittersweet romantic comedy wrapped in time travel mechanics, set against the backdrop of late Communist Czechoslovakia. Peter's radical opinions about the socialist system make him a target for the secret police, even though he technically \u00bbknows\u00ab from his future knowledge that the regime will collapse within a year.\n\nWhat makes this film special is its dual nature: a personal quest for lost love that doubles as an inadvertent political commentary on a society that no longer exists.",
+      "created_at": "2026-06-12 18:27:48"
+    },
+    {
       "title": "Wakusei Robo Danguard Ace",
       "year": 1977,
       "medium": "Anime",
@@ -14161,5 +14176,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 944
+  "count": 945
 }

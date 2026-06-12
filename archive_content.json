@@ -15522,6 +15522,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Waking Up Yesterday",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Milan \u0160teindler",
+      "raw_score": 6.1,
+      "total_ratings": 21,
+      "origin": "Czech-Republic",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Love, Class Struggle",
+      "image_filename": "Waking_Up_Yesterday_2012.jpg",
+      "pitch": "A Czech teacher discovers a way to journey into the past \u2014 specifically to the late 1980s \u2014 to recover his lost love Eli\u0161ka. In the present (2012), Peter is a hopeless romantic who has failed at relationships, becoming a social laughing stock. But he knows that in 1988, everything was different: he and Eli\u0161ka were together, happy, before circumstances drove them apart.\n\nThe film is a bittersweet romantic comedy wrapped in time travel mechanics, set against the backdrop of late Communist Czechoslovakia. Peter's radical opinions about the socialist system make him a target for the secret police, even though he technically \u00bbknows\u00ab from his future knowledge that the regime will collapse within a year.\n\nWhat makes this film special is its dual nature: a personal quest for lost love that doubles as an inadvertent political commentary on a society that no longer exists.",
+      "truth": "Peter B\u0159ezina is a Czech language teacher in 2012 who has just been publicly humiliated at his school's anniversary celebration \u2014 his ex-wife has remarried, and his students mock him as a hopeless loser. Depressed, he discovers that his late father's old laboratory contains a functioning time machine.\n\nTraveling back to 1988, Peter arrives in Bratislava and tracks down Eli\u0161ka Kadlecov\u00e1, the woman he loved and lost. However, he quickly realizes that changing the past isn't simple: his presence and radical anti-communist opinions attract the attention of the StB (secret police). Meanwhile, 1988 Czechoslovakia is a tense place \u2014 the Velvet Revolution is a year away, and dissent is dangerous.\n\nPeter must navigate his relationship with Eli\u0161ka while avoiding arrest. The film explores whether he can truly change his fate, or whether the past is immutable. The ending reveals that Peter's \u00bbknowledge\u00ab of the future is both a curse and a gift \u2014 he knows the regime will fall, but cannot prove it without seeming insane.",
+      "core": "Waking Up Yesterday is a meditation on regret, the impossibility of reliving one's life, and the selective nature of memory. The time travel premise serves as a vehicle for exploring what Peter values most: not political freedom (which he takes for granted knowing it's coming), but personal connection.\n\nThe film is notable for its specific Czech setting \u2014 the late 1980s are rendered with careful detail, from the paranoia of the StB to the gray mundanity of everyday life under authoritarian rule. Peter's frustration with communism reads differently when he knows it has \u00bbalready ended\u00ab in his future.\n\nThematically, the film asks: if you could go back, would you really change anything, or would you make the same mistakes? Peter's knowledge of history doesn't give him wisdom in matters of the heart.",
+      "created_at": "2026-06-12 18:27:48"
+    },
+    {
       "title": "Wakusei Robo Danguard Ace",
       "year": 1977,
       "medium": "Anime",
@@ -16049,5 +16066,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 944
+  "count": 945
 }
