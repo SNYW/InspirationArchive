@@ -4291,6 +4291,21 @@
       "created_at": "2026-03-19 05:50:00"
     },
     {
+      "title": "Hydrozagadka",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Andrzej Kondratiuk",
+      "raw_score": 3.0,
+      "total_ratings": 38,
+      "origin": "Poland",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Satire, Authoritarianism",
+      "image_filename": "Images/Hydrozagadka.jpg",
+      "pitch": "During a sweltering summer heat wave in Warsaw, the city's water mysteriously begins to vanish. Scientists secretly call upon As (Ace), a mild-mannered engineer who lives a double life as Poland's greatest superhero. But As faces his toughest challenge yet\u2014a mysterious Maharaja in league with the villainous Doctor Spot, plotting to steal Poland's water supply and export it abroad.\n\nCreated as a Communist-era parody of American superhero films like Superman, Hydrozagadka unexpectedly became a satirical masterpiece that Polish audiences interpreted as a sharp critique of life under Communist rule. The film humorously parodied the empty slogans and false promises of the regime, using superhero conventions to expose the absurdity of Polish society in the 1970s.",
+      "created_at": "2026-06-12 14:52:39"
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -13696,5 +13711,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 913
+  "count": 914
 }

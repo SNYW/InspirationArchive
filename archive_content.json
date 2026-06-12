@@ -4863,6 +4863,23 @@
       "created_at": "2026-03-19 05:50:00"
     },
     {
+      "title": "Hydrozagadka",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Andrzej Kondratiuk",
+      "raw_score": 3.0,
+      "total_ratings": 38,
+      "origin": "Poland",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Satire, Authoritarianism",
+      "image_filename": "Images/Hydrozagadka.jpg",
+      "pitch": "During a sweltering summer heat wave in Warsaw, the city's water mysteriously begins to vanish. Scientists secretly call upon As (Ace), a mild-mannered engineer who lives a double life as Poland's greatest superhero. But As faces his toughest challenge yet\u2014a mysterious Maharaja in league with the villainous Doctor Spot, plotting to steal Poland's water supply and export it abroad.\n\nCreated as a Communist-era parody of American superhero films like Superman, Hydrozagadka unexpectedly became a satirical masterpiece that Polish audiences interpreted as a sharp critique of life under Communist rule. The film humorously parodied the empty slogans and false promises of the regime, using superhero conventions to expose the absurdity of Polish society in the 1970s.",
+      "truth": "Jan Walczak works as an ordinary engineer in Warsaw, but secretly serves as the superhero known as As (Ace). During a severe summer heat wave, Warsaw's water supply mysteriously begins to disappear. Scientists secretly recruit As to investigate and solve the mystery.\n\nAs discovers that a mysterious Maharaja has allied with the villainous Doctor Spot to steal Poland's water and transport it abroad to the Maharaja's country. Using his superpowers and wits, As must infiltrate the villains' operation, confront Doctor Spot and the Maharaja, and prevent them from draining Poland dry. The film culminates in As stopping the water heist and saving Warsaw's precious water supply.",
+      "core": "Hydrozagadka represents a fascinating artifact of Cold War Eastern Bloc cinema\u2014created as official parody of American superhero films, but ultimately becoming something far more subversive. Polish audiences immediately recognized the film as a satirical commentary on their own society: the Maharaja and Doctor Spot stealing Poland's water and exporting it elsewhere mirrors the economic exploitation and extraction of resources under Communist rule.\n\nThe \"better life\" slogans promised by the regime are exposed as hollow as the superhero's quest to save water\u2014a precious resource being stolen by foreign interests. The film demonstrates how superhero genres can be appropriated for social critique, using the language of American blockbusters to deliver a distinctly Polish message about power, extraction, and the gap between propaganda and reality.",
+      "created_at": "2026-06-12 14:52:39"
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -15522,5 +15539,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 913
+  "count": 914
 }
