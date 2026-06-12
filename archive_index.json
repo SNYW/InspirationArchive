@@ -11536,6 +11536,21 @@
       "created_at": "2026-03-04 08:17:03"
     },
     {
+      "title": "The Lost Missile",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Lester Wm. Berke",
+      "raw_score": 2.41,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "War, Technology, Cold War",
+      "image_filename": "the_lost_missile.jpg",
+      "pitch": "A mysterious missile-like object appears in orbit around Earth, racing five miles above the planet's surface. Its rocket engine blazes with intense heat, causing widespread devastation as it circles the globe. A thinly-veiled Cold War parable, The Lost Missile taps into the era's deepest fears about atomic weapons and civilization-ending technology.\n\nThe film centers on Dr. David Loring, a scientist at the Havenbrook Atomic Laboratory working on a hydrogen warhead for the Jove rocket. On the day he plans to marry his assistant Joan Woods, the missile appears and throws all plans into chaos. As military forces fail to destroy the object, cities are evacuated and destruction mounts.\n\nThis low-budget thriller relies heavily on stock footage of military exercises and civil defense drills, giving it an unsettling documentary realism. The relentless, unseen menace of the missile creates sustained tension as it orbits toward major cities.",
+      "created_at": "2026-06-12 22:17:42"
+    },
+    {
       "title": "The Lost World",
       "year": 1925,
       "medium": "Film",
@@ -14686,5 +14701,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 979
+  "count": 980
 }
