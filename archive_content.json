@@ -6376,6 +6376,23 @@
       "created_at": "2026-03-05 16:00:53"
     },
     {
+      "title": "Meteo",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Andr\u00e1s M\u00e9sz",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Dreams, Alienation",
+      "image_filename": null,
+      "pitch": "Meteo is a 1989 Hungarian science-fiction art film directed by Andr\u00e1s M\u00e9sz. The film follows Eckermann, a listless young computer expert in Budapest who spends most of his time lounging in a bathtub, holding imaginary conversations with cartoon characters - companions more popular with children than adults. His world is one of quiet alienation, where fantasy provides escape from the grey realities of late Communist Hungary.\n\nWhen his friends involve him in a scheme to steal money from a local gambling joint, Eckermann uses his technical skills to devise the plan. But even as he navigates this criminal underworld, he remains tethered to his private fantasy world, blurring the line between imagination and reality. The film is an atmospheric, dreamlike exploration of alienation and the underground culture of 1980s Budapest.",
+      "truth": "Eckermann (L\u00e1szl\u00f3 Kistam\u00e1s) is a young man living in Budapest who exists in a state of quiet alienation. He spends his days in a bathtub, conducting imaginary conversations with cartoon characters that populate his private fantasy world. His friend Berlioz (K\u00e1roly Eperjes) and other associates want to use Eckermann's technical skills for a scheme - stealing money from a local gambling joint.\n\nEckermann works out the plan for his friends, then returns to his bathtub and his imaginary companions. The line between his fantasy world and the criminal underworld he has involved himself in becomes increasingly blurred. Various characters drift through his life - a waitress at a local bar, a refugee girl, gangsters.\n\nThe film is not conventional narrative but rather an atmospheric, surreal experience. The heist itself is almost incidental to the deeper exploration of a young man's retreat into fantasy as a response to the grey, repressive world around him. The underground tunnel scenes shot in the K\u0151b\u00e1nya cellar system and factory scenes add to the claustrophobic, dreamlike quality.\n\nThe film quickly gained cult status in Hungary after its release and was presented at the Berlin International Film Festival in 1990.",
+      "core": "Meteo is a cult Hungarian sci-fi art film that explores themes of alienation, fantasy versus reality, and the underground culture of late 1980s Budapest. The film's dreamlike quality and its protagonist's retreat into a private fantasy world can be read as a metaphor for the broader societal retreat from political reality in Communist Hungary.\n\nThe choice of a protagonist who converses with imaginary cartoon companions reflects a generation's sense of disconnection from the official culture. The film's surreal, non-linear narrative and visual style mark it as a distinctive work of Hungarian cinema - more influenced by art cinema and surrealism than by conventional science fiction.\n\nMeteo won awards at the 1991 FilmFestival Cottbus and the 1990 Budapest Hungarian Film Festival, and gained significant cult status in Hungary after its release.",
+      "created_at": "2026-06-12 16:38:53"
+    },
+    {
       "title": "Metropolis",
       "year": 1927,
       "medium": "Film",
@@ -15879,5 +15896,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 934
+  "count": 935
 }
