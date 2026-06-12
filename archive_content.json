@@ -11850,6 +11850,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Gladiators",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Peter Watkins",
+      "raw_score": 3.06,
+      "total_ratings": 22,
+      "origin": "Sweden",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "War, Politics, Satire",
+      "image_filename": "The_Gladiators_1969.jpg",
+      "pitch": "In a near-future world where East and West have abolished traditional armies and nuclear weapons, a new system of conflict resolution has emerged: teams of highly trained combat specialists face each other in gladiatorial contests to settle international disputes. Swedish director Peter Watkins presents this chilling vision of militaristic entertainment as policy.\n\nThe film operates in the tradition of dystopian science fiction, imagining a world where warfare has been sanitized into spectacle. But beneath the polished combat presentations lies a disturbing truth about how societies can normalize violence when it's repackaged as sport.",
+      "truth": "The film takes place in a fictional future where nations no longer maintain standing armies. Instead, international conflicts are resolved through organized combat between elite teams of specialists. The story follows one such team as they prepare for and execute their mission.\n\nWatkins uses this premise to explore how societies dress up violence in the language of competition and professionalism. The gladiators are portrayed not as villains but as products of a system that has hollowed out the meaning of combat while retaining all its deadly consequences.",
+      "core": "The Gladiators represents Watkins' ongoing critique of media spectacle and manufactured consent. By treating warfare as entertainment, the film predicts contemporary concerns about embedded journalists, military PR, and the sanitization of conflict for public consumption.\n\nThe film's significance lies in its prescient examination of how violence can be repackaged for mass consumption\u2014a theme that resonates with modern reality television, esports, and the media's role in normalizing conflict.",
+      "created_at": "2026-06-12 19:27:37"
+    },
+    {
       "title": "The Glass Bees",
       "year": 1957,
       "medium": "Novel",
@@ -16202,5 +16219,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 953
+  "count": 954
 }

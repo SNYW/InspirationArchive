@@ -10456,6 +10456,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Gladiators",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Peter Watkins",
+      "raw_score": 3.06,
+      "total_ratings": 22,
+      "origin": "Sweden",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "War, Politics, Satire",
+      "image_filename": "The_Gladiators_1969.jpg",
+      "pitch": "In a near-future world where East and West have abolished traditional armies and nuclear weapons, a new system of conflict resolution has emerged: teams of highly trained combat specialists face each other in gladiatorial contests to settle international disputes. Swedish director Peter Watkins presents this chilling vision of militaristic entertainment as policy.\n\nThe film operates in the tradition of dystopian science fiction, imagining a world where warfare has been sanitized into spectacle. But beneath the polished combat presentations lies a disturbing truth about how societies can normalize violence when it's repackaged as sport.",
+      "created_at": "2026-06-12 19:27:37"
+    },
+    {
       "title": "The Glass Bees",
       "year": 1957,
       "medium": "Novel",
@@ -14296,5 +14311,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 953
+  "count": 954
 }
