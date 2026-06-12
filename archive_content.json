@@ -1059,8 +1059,8 @@
       "year": 1918,
       "medium": "Film",
       "creator": "Michael Curtiz, Edmund Fritz",
-      "raw_score": 0.0,
-      "total_ratings": 0,
+      "raw_score": null,
+      "total_ratings": null,
       "origin": "Hungary",
       "mood": "Pessimistic",
       "sub_genres": "Horror",
@@ -3883,7 +3883,7 @@
       "creator": "Created by Rockne S. O'Bannon",
       "raw_score": 3.7,
       "total_ratings": 25000,
-      "origin": "Australia , USA",
+      "origin": "Multinational",
       "mood": "Space Opera , Sci-Fi",
       "sub_genres": "",
       "topics": "Wormholes",
@@ -4869,7 +4869,7 @@
       "creator": "Directed by Gy\u00f6rgy P\u00e1lfi",
       "raw_score": 2.85,
       "total_ratings": 500,
-      "origin": "Hungary , Canada , France , Sweden , USA",
+      "origin": "Multinational",
       "mood": "Sci-Fi , Drama",
       "sub_genres": "",
       "topics": "Conspiracy",
@@ -5957,7 +5957,7 @@
       "creator": "Created by Lex Gigeroff, Paul Donovan, and Michael Donovan",
       "raw_score": 3.65,
       "total_ratings": 5000,
-      "origin": "Canada , Germany , UK",
+      "origin": "Multinational",
       "mood": "Dark Comedy , Sci-Fi",
       "sub_genres": "",
       "topics": "Space Opera",
@@ -8620,6 +8620,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Scenes with Beans",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Istv\u00e1n Szab\u00f3",
+      "raw_score": 3.81,
+      "total_ratings": 36,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Satire, Comedy",
+      "image_filename": "Scenes_with_Beans_1976.jpg",
+      "pitch": "Scenes with Beans is a delightfully absurd Hungarian science fiction comedy that takes the concept of alien observation to its most hilarious extreme. From somewhere in the cosmic void, an unseen entity watches over a entire civilization of sentient beans going about their daily lives on a distant planet. We witness their joys, triumphs, and tragedies - their weddings, their funerals, their petty squabbles and great loves - all played out with complete dramatic seriousness by these humble legumes. The comedy emerges from the deadpan commitment to the premise: what would we think if we knew we were being watched? And what would the watcher think of us?\n\nThis is the kind of strange, creative filmmaking that only emerges from state-subsidized Eastern European cinema, where experimental art films could find funding and audiences without the commercial pressures of Hollywood. Director Istv\u00e1n Szab\u00f3 would later become internationally famous for Mephisto and Colonel Rediv, but Scenes with Beans remains his most purely whimsical creation - a bean-themed answer to Jean-Luc Godard's whimsical science fiction.",
+      "truth": "The film presents a series of vignettes from the life of a civilization of sentient beans living on an unnamed planet. An unseen observer watches from the stars, chronicling the beans' daily activities with scientific detachment. We see their holidays and ordinary days, their celebrations and mourning, their wars and their loves. The beans go about their lives oblivious to the cosmic surveillance, living out the full range of human (or bean-) experience.\n\nAt first the watcher is content to observe, but eventually the beans become aware of the surveilling presence. Their reaction to this knowledge - their fear, their anger, their existential crisis at discovering they are not alone in the universe - forms the dramatic climax of the film. The ending remains ambiguous: is the watcher a god, a scientist, or simply a bored cosmic entity looking for entertainment?",
+      "core": "Scenes with Beans works on multiple levels as satire of both science fiction conventions and the human tendency to find meaning in observation. The beans represent humanity itself - going about our lives, never knowing who watches. The watcher represents every sci-fi alien observer narrative, every UFO abduction story, every prayer to an unseen god.\n\nThe film also serves as a pointed critique of surveillance culture, made decades before digital technology made it ubiquitous. By making the surveilled objects of laughter rather than the surveilling subject, Szab\u00f3 subverts the power dynamic. We laugh at the beans not knowing they are watched, but perhaps the real joke is on us - for who is really being absurd?\n\nThe deadpan treatment of inherently ridiculous material creates a unique comedic effect. The beans are played completely straight, with no winking at the audience, which makes the whole enterprise work. This is serious absurdist cinema in the tradition of Ionesco and Beckett, transposed to the science fiction genre.",
+      "created_at": "2026-06-12 17:23:29"
+    },
+    {
       "title": "Schizm: Mysterious Journey",
       "year": 2001,
       "medium": "Video Game",
@@ -9287,8 +9304,8 @@
       "year": 1954,
       "medium": "Film",
       "creator": "Tan Sing Hwat, Turino Djunaedy",
-      "raw_score": 0.0,
-      "total_ratings": 0,
+      "raw_score": null,
+      "total_ratings": null,
       "origin": "Indonesia",
       "mood": "Optimistic",
       "sub_genres": "Science-Fantasy",
@@ -15879,5 +15896,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 934
+  "count": 935
 }
