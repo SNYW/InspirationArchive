@@ -8331,6 +8331,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Running Delilah",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Richard Franklin",
+      "raw_score": 2.82,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Cyberpunk",
+      "topics": "Cybernetics, AI, Robots",
+      "image_filename": "Running_Delilah_1994.jpg",
+      "pitch": "Top agent Delilah dies in a risky mission against weapons dealer Kasharian. But death is not the end for her \u2014 she is revived using high-tech medicine and artificial body parts, transformed into an invincible superwoman. She returns to continue her fight against Kasharian, whose newest deal includes plutonium from Russia.\n\nThis 1994 made-for-television science fiction thriller was intended as the pilot episode for a TV series, starring Kim Cattrall and Billy Zane. Directed by Richard Franklin, it explores the intersection of human emotion and cybernetic enhancement.\n\nRunning Delilah offers a compelling take on the bionic woman archetype, blending Cold War intrigue with emerging cyberpunk themes. While the concept may echo RoboCop, itcarries its own identity through strong performances and a tense narrative.",
+      "truth": "Delilah (Christina) is a top operative who dies during a risky mission against the weapons dealer Kercharian. She is revived using high-tech medicine and given artificial body parts, transforming her into an invincible superwoman with enhanced strength and durability.\n\nShe returns to continue her fight against Kercharian, who is currently seeking plutonium from Russia. Working with her handler Paul and the mysterious organization, Delilah tracks down the weapons dealer while dealing with her new identity and capabilities.\n\nThe film introduces Delilah as she navigates her new life as a cybernetic operative, facing off against Kercharian's forces in a globe-spanning cat-and-mouse game. She ultimately stops the plutonium deal, but the organization has bigger plans for her abilities.\n\nThe production was filmed in 1992 but not broadcast until 1994. It was released on video in Japan, Sweden, and the UK in 1993, followed by the USA and Germany in 1994.",
+      "core": "Running Delilah explores themes of identity transformation through technology. Delilah is reborn as a cybernetic operative, raising questions about what makes us human \u2014 our bodies or our choices.\n\nThe film blends Cold War thriller elements with emerging cyberpunk themes of the 1990s. It predates many similar properties and stands as an interesting early take on the enhanced operative concept.\n\nWhile the pilot never led to a series, it remains a curious artifact of early 1990s sci-fi television, blending action with speculative elements about cybernetic enhancement.",
+      "created_at": "2026-06-12 16:04:56"
+    },
+    {
       "title": "S.O.S. Coast Guard",
       "year": 1937,
       "medium": "Serial Film",
@@ -15760,5 +15777,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 927
+  "count": 928
 }
