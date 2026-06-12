@@ -13703,6 +13703,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Secret of Steel City",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 5.87,
+      "total_ratings": 19,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Political",
+      "topics": "Cold War, Politics, Authoritarianism, Propaganda",
+      "image_filename": "474993.jpg",
+      "pitch": "This Czechoslovakian sci-fi allegory from 1979 uses the framework of two neighboring nations to comment on the Cold War divide. Fortuna is a peaceful, democratic society, while the Steel City represents the authoritarian, militaristic bloc. When emissaries from both nations meet, the film explores how propaganda shapes perception and how peace-loving societies respond to aggressive neighbors.\n\nThe film stands as a fascinating example of Eastern Bloc science fiction, using genre conventions to critique political systems while remaining subtle enough to pass censors. Its production during the normalization period in Czechoslovakia makes it particularly interesting as a work that navigated ideological constraints.",
+      "truth": "The story follows the relations between two fictional nations: the democratic, peace-loving country of Fortuna and the militaristic Steel City. Fortuna has disbanded its army and lives in harmony, while Steel City is ruled by a secretive oligarchy that maintains power through constant military preparation and internal propaganda.\n\nWhen emissaries from Steel City arrive in Fortuna, they struggle to understand a society without armies or hierarchical command. The Fortunans must decide how to respond to Steel City's increasingly aggressive posturing without abandoning their principles. The film explores whether pacifism can survive when faced with authoritarian expansionism, and how different political systems perceive each other through lenses of propaganda and fear.\n\nThe resolution offers a nuanced commentary on Cold War politics, suggesting that the arms race and military posturing ultimately serve the interests of those in power rather than the people they claim to protect.",
+      "core": "The Secret of Steel City functions as a political allegory that critiques both sides of the Cold War divide. The film's Fortuna represents idealized Western democracy, while Steel City stands in for Soviet-style authoritarianism. However, the film is sophisticated enough to critique both systems \u2014 Fortuna's naive pacifism and Steel City's militaristic aggression.\n\nDirector Karel Zeman, known for his fantastical adaptations of Jules Verne, here turns to political satire, creating a meditation on power, propaganda, and the thin line between peace and war. The film is notable for being produced during the normalization period in Czechoslovakia, when state censorship was strict, yet the allegory was subtle enough to pass censors while remaining meaningful to audiences who understood the subtext.\n\nThe work exemplifies how Eastern Bloc filmmakers used science fiction and allegory to explore politically sensitive themes, creating a document of how artists navigated the constraints of state censorship while still expressing meaningful critique.",
+      "created_at": "2026-06-12 16:43:13"
+    },
+    {
       "title": "The Secret of Two Oceans",
       "year": 1957,
       "medium": "Film",
@@ -15896,5 +15913,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 935
+  "count": 936
 }
