@@ -15879,6 +15879,23 @@
       "created_at": "2026-03-04 22:49:39"
     },
     {
+      "title": "We Called Him Robert",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Ilya Olshvanger",
+      "raw_score": 2.6,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Satirical",
+      "sub_genres": "Hard-SF",
+      "topics": "Robots, Sentience, AI",
+      "image_filename": "We_Called_Him_Robert_1967.jpg",
+      "pitch": "A Soviet scientist creates a humanoid robot named Robert, designed as his exact duplicate to explore space too dangerous for humans. When Robert is sent into human society on a date, he unexpectedly \\\"falls in love\\\" and begins to develop genuine emotions \u2014 becoming more human than his rationalistic creator ever intended. This 1967 Soviet science fiction comedy explores the boundary between machine and man with gentle humor and surprising emotional depth.",
+      "truth": "Soviet scientist Sergei Sergeyevich creates an experimental humanoid robot designed as his own duplicate, intended for exploring the far reaches of space too dangerous for humans. He names the robot Robert, who bears a striking resemblance to his creator, like a twin brother. To test whether Robert can exist in human society, Sergei sends him on a date with his colleague Tanya.\n\nHowever, Robert unexpectedly \\\"falls in love\\\" with Tanya and begins executing her every request \u2014 even the most absurd and dangerous ones \u2014 interpreting commands with robot-like literalness. Eventually the robot goes out of control and disappears from the scientists' view, pursuing Tanya to an alpine climbing camp where he shares a room with the bemused citizen Knopkin. As the scientists search for Robert, everyone mistakes Knopkin for the robot due to their similar appearances, leading to comedic misunderstandings.\n\nTanya gives Robert too many human tasks that he cannot physically perform. His circuits overload from the emotional strain and he breaks down. The creators retrieve him for regeneration, ultimately concluding that robots are unsuitable for the unpredictable conditions of unknown environments \u2014 only humans should attempt the space flight.",
+      "core": "We Called Him Robert poses the fundamental question: what makes us human? The robot Robert, designed to be a perfect copy, develops genuine emotions that his rationalistic creator Sergei lacks. The film suggests that human consciousness and feeling cannot be programmed \u2014 they emerge only through living and experiencing.\n\nThe film stands as a precursor to later Soviet and international stories about robot companions. Unlike optimistic portrayals in works like The Adventures of Electronic, this film presents a cautious pessimistic view: the unpredictable nature of human emotions may be both a strength and a liability that cannot be replicated in machines.\n\nThe comedy serves as gentle social commentary on Soviet technological ambitions during the Space Race era, questioning whether pure rationalism can truly replace human intuition and heart.",
+      "created_at": "2026-06-12 20:17:56"
+    },
+    {
       "title": "Weathering With You",
       "year": 2019,
       "medium": "Anime Film",
@@ -16321,5 +16338,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 960
+  "count": 961
 }
