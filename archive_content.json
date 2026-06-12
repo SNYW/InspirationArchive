@@ -13465,6 +13465,23 @@
       "created_at": "2026-03-19 10:38:34"
     },
     {
+      "title": "The Secret of the Telegian",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "Jun Fukuda",
+      "raw_score": 3.25,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror,Science-Fantasy",
+      "topics": "Teleportation,Crime,Revenge",
+      "image_filename": "The_Secret_of_the_Telegian_1960.jpg",
+      "pitch": "In 1960's Tokyo, a mysterious killer leaves gold dog tags at murder scenes\u2014a note demanding the victims to a remote \\\"Cave of Horrors\\\" amusement park attraction. Reporter Kirioka and Detective Kobayashi investigate, uncovering a web of greed, betrayal, and a secret weapon that could change the nature of physical reality itself.\n\nThe Secret of the Telegian is a taut, twisty tokusatsu thriller that blends noir crime drama with genuine science fiction. Director Jun Fukuda crafts an intricate puzzle-box plot where nothing is as it seems, and the identity of the killer remains genuinely mysterious until the final act. The teleportation device at the film's heart\u2014a machine capable of dematerializing and reconstructing matter anywhere in the world\u2014feels decades ahead of its time, predating similar concepts in mainstream Western cinema by years.\n\nThis is not a monster movie. Instead, Fukuda delivers a grown-up procedural mystery with sci-fi trappings, treating its speculative technology with deadly seriousness. The result is one of Toho's most underappreciated genre entries from an era better known for its kaiju spectacles.",
+      "truth": "Fourteen years ago, soldiers Onishi, Takashi, Taki, and an intelligence agent stole gold meant for a top-secret government project led by Dr. Nikki, a scientist developing teleportation technology. They killed their commanding officer Sudo and buried his body alongside the gold in a cave, then dynamited the entrance to hide their crime.\n\nIn the present day, a killer begins murdering the four surviving soldiers one by one, leaving gold dog tags and notes at each scene. Reporter Kirioka, Detective Kobayashi, and Captain Onosaki investigate, tracing the killer to a military-themed nightclub called Military-Land Cabaret.\n\nThey discover that Sudo and Dr. Nikki actually survived. Living in seclusion on a remote farm, Nikki perfected his teleportation machine. Sudo, consumed by revenge, used the device to hunt down his betrayers\u2014sending them notes via transmitter, then materializing to kill them with a bayonet.\n\nThe police trace Sudo to the farm but cannot prove his guilt. While in custody, Taki is killed via teleportation. Onishi flees to a coastal village, but Sudo sends a transmitter and kills him too. The police chase Sudo to Nikki's farm, where he begins to teleport\u2014but earthquakes damage the receiver, and Sudo dissolves into nothingness, his body destroyed at the molecular level.\n\nThe teleportation device is destroyed, but the question remains: was this justice, or something more monstrous?",
+      "core": "The Secret of the Telegian explores the moral weight of technology in the hands of men without conscience. Dr. Nikki's creation\u2014a device that could revolutionize warfare, commerce, and human existence\u2014becomes a tool for a single man's decades-long quest for vengeance. The film asks whether the fruits of science belong to humanity or to those corrupted by its power.\n\nThe film also functions as a capsule noir: four criminals bound by blood money, destroyed not by justice but by the weight of their own guilt. Sudo, the wronged soldier, becomes both hero and monster\u2014righteous in purpose, monstrous in method. His dissolution at the end suggests that pure revenge, untethered from law or mercy, leads only to annihilation.\n\nTechnically, the film represents a fascinating branch of Japanese sci-fi cinema\u2014the mature, human-scale thriller rather than the giant monster spectacle that defined Toho. That Fukuda would later direct multiple Godzilla films gives this earlier work an ironic context: here, the real monsters are human.",
+      "created_at": "2026-06-12 15:17:43"
+    },
+    {
       "title": "The Ship Who Sang",
       "year": 1969,
       "medium": "Novel",
@@ -15607,5 +15624,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 918
+  "count": 919
 }
