@@ -14179,6 +14179,23 @@
       "created_at": "2026-03-01 10:13:33"
     },
     {
+      "title": "The Princess and the Robot",
+      "year": 1984,
+      "medium": "Animated Film",
+      "creator": "Mauricio de Sousa",
+      "raw_score": 3.9,
+      "total_ratings": 15,
+      "origin": "Brazil",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel, Love, Friendship",
+      "image_filename": "The_Princess_and_the_Robot_1984.jpg",
+      "pitch": "The Princess and the Robot (A Princesa e o Rob\u00f4) is a 1984 Brazilian animated film based on Monica's Gang (Turma da M\u00f4nica), one of Brazil's most beloved children's comic book series. In this charming sci-fi adventure, a small robot on the distant planet of Carrotland enters a tournament to win the hand of Princess Mimi. When the robot faces his rival Lord Raider in the final, the match ends in a tie\u2014and a coin toss determines the winner. But Lord Raider objects, claiming a machine cannot have a true heart. The King grants the robot three days to journey to the pulsating star and return with it as his heart.",
+      "truth": "On the heart-shaped planet Carrotland, a pulsating star shoots across space and strikes a small robot who has fallen in love with Princess Mimi. The robot enters a tournament to win the princess's hand, facing the space traveler Lord Raider in the final. The match ends in a tie, and a coin toss declares the robot the winner. However, Lord Raider protests that a machine cannot possess a true heart. The King grants the robot three days to journey to the pulsating star and return with it inside his engine. Lord Raider attacks and transforms the robot into a gift box, ordering his assistants to abandon him on Planet Earth. The package lands in Jimmy Five's backyard, where Monica and her friends discover the robot and agree to help. Franklin builds a ship, but Lord Raider's accomplice Bugeye listens and warns his master. The robot retrieves the star and returns to Carrotland just in time, proving he has a true heart and earning the right to marry Princess Mimi.",
+      "core": "A heartfelt children's story about proving love transcends physical form. The robot must literally prove he has a heart by undertaking an impossible quest\u2014a metaphor for demonstrating genuine emotion through action rather than mere machinery. The film also celebrates friendship and loyalty, as Monica and her friends selflessly help a stranger. As one of the earliest Brazilian animated feature films with an original story (not just episodes compiled), it represents an important milestone in Brazilian animation.",
+      "created_at": "2026-06-12 23:18:40"
+    },
+    {
       "title": "The Prisoner",
       "year": 1967,
       "medium": "TV Series",
@@ -16797,5 +16814,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 988
+  "count": 989
 }
