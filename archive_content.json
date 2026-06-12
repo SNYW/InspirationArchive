@@ -13278,6 +13278,23 @@
       "created_at": "2026-06-12 15:02:39"
     },
     {
+      "title": "The Mysterious Wall",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Irina Povolotskaya, Mikhail Sadkovich",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Aliens, First Contact, Exploration",
+      "image_filename": "The_Mysterious_Wall_1967.jpg",
+      "pitch": "In the Siberian taiga, a mysterious wall of fog forms\u2014a dome two kilometers in diameter that appears and disappears with uncanny regularity. Soviet scientists are dispatched to investigate, each convinced they understand its nature, but the Wall has other plans. It responds to their attempts at contact by projecting vivid hallucinations drawn from their own past lives, forcing them to question whether what they're seeing is real, alien, or something deeper in the human mind.\n\nThis 1967 Soviet science fiction film operates on a genuinely alien logic. Rather than the typical flying saucer narrative, the Wall is an enigmatic presence that cannot be reasoned with or attacked\u2014only experienced. Director Irina Povolotskaya (in her only feature film) creates an atmosphere of mounting unease as the scientists' rational frameworks collapse under the weight of inexplicable phenomena.\n\nFor fans of slow-burn, philosophical sci-fi, The Mysterious Wall offers something rare: an Eastern Bloc answer to the cerebral mysteries of 1960s Western science fiction, grounded in the specific anxieties of Cold War Soviet society.",
+      "truth": "Scientist Yegor Lomov has been stationed near the mysterious Wall for three months, believing it to be an envoy of an alien civilization. Despite numerous failed attempts at contact, he persists in transmitting images toward the Wall using a military radar locator. The Wall responds by causing hallucinations\u2014vivid visions from the past lives of the radar operators\u2014and burning out their equipment.\n\nThe authorities grow concerned about Lomov's mental state and send his friend Andrey to replace him. Lomov's fianc\u00e9e Lena and military Sergeant Valentin accompany Andrey to the research station. Together, they fix the damaged locator and conduct experiments, developing the hypothesis that the hallucinations are caused by Martians studying human life through this method.\n\nThe climax arrives when Lena receives a vision suggesting that direct contact with the Wall is possible. She attempts to enter the dome, but it closes before she can reach it. The expedition returns to Moscow with their findings, holding a press conference where journalists and scientists debate the Wall's true nature. The film ends with Soviet scientists preparing a new, larger expedition for deeper study\u2014leaving the mystery unresolved.",
+      "core": "The Mysterious Wall stands as a distinctive artifact of Soviet science fiction cinema, reflecting the genre's Cold War tensions through an unusual lens. Unlike American films of the era\u2014which often portrayed aliens as threats to be defeated\u2014this Soviet film presents the alien as something fundamentally unknowable, a presence that cannot be conquered through technology or force.\n\nThe film explores themes of perception and reality, asking whether the hallucinations induced by the Wall are messages from an intelligence, psychological projections, or something in between. This epistemological uncertainty mirrors broader philosophical questions about knowledge itself\u2014the limits of scientific method when confronting genuinely unprecedented phenomena.\n\nDirector Irina Povolotskaya, working with co-director Mikhail Sadkovich, creates a visual atmosphere that predates similar Western films like Close Encounters of the Third Kind. The Wall itself remains a potent metaphor: an barrier between human understanding and something beyond, requiring not instrumentation but inner transformation to comprehend.",
+      "created_at": "2026-06-12 19:37:35"
+    },
+    {
       "title": "The Mystery of the Third Planet",
       "year": 1981,
       "medium": "Animated Film",
@@ -16236,5 +16253,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 955
+  "count": 956
 }
