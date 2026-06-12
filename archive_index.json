@@ -10726,6 +10726,21 @@
       "created_at": "2026-06-12 15:33:36"
     },
     {
+      "title": "The Invisible Man vs. The Human Fly",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "Mitsuo Murayama",
+      "raw_score": 3.04,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Science, Crime",
+      "image_filename": "The_Invisible_Man_vs_The_Human_Fly_1957.jpg",
+      "pitch": "Tokyo's streets are haunted by a ruthless serial killer with a peculiar method of stalking and killing his victims \u2014 the press has dubbed him the Human Fly. But help arrives from an unlikely source: a police officer who has been turned invisible by a scientific experiment. \n\nThe Invisible Man vs. The Human Fly is a 1957 Daiei production that mashups H.G. Wells' classic invisible man concept with a gritty crime thriller. It's Daiei's second film based on Wells' 1897 novel, following The Invisible Man Appears. The film was lost to Western audiences until Arrow Video's 2021 Blu-ray release \u2014 making it a truly obscure gem.",
+      "created_at": "2026-06-12 19:07:51"
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -14251,5 +14266,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 950
+  "count": 951
 }

@@ -12156,6 +12156,23 @@
       "created_at": "2026-06-12 15:33:36"
     },
     {
+      "title": "The Invisible Man vs. The Human Fly",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "Mitsuo Murayama",
+      "raw_score": 3.04,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Science, Crime",
+      "image_filename": "The_Invisible_Man_vs_The_Human_Fly_1957.jpg",
+      "pitch": "Tokyo's streets are haunted by a ruthless serial killer with a peculiar method of stalking and killing his victims \u2014 the press has dubbed him the Human Fly. But help arrives from an unlikely source: a police officer who has been turned invisible by a scientific experiment. \n\nThe Invisible Man vs. The Human Fly is a 1957 Daiei production that mashups H.G. Wells' classic invisible man concept with a gritty crime thriller. It's Daiei's second film based on Wells' 1897 novel, following The Invisible Man Appears. The film was lost to Western audiences until Arrow Video's 2021 Blu-ray release \u2014 making it a truly obscure gem.",
+      "truth": "A serial killer stalks Tokyo, murdering victims in a bizarre fashion \u2014 the Human Fly. Chief Inspector Wakabayashi leads the investigation, stymied by the killer's elusive methods. Meanwhile, Dr. Tsukioka has developed a revolutionary serum and tests it on himself, becoming completely invisible. Using his new abilities, Tsukioka secretly aids the police in hunting the Human Fly. Through his invisibility, Dr. Tsukioka is able to observe the killer's movements and ultimately helps trap him. The film ends with the killer captured and Dr. Tsukioka's invisibility reversed.",
+      "core": "This film is notable as one of the few 1950s Japanese adaptations of H.G. Wells' work, blending the timeless invisible man concept with the emerging sci-fi/horror genre. Director Mitsuo Murayama creates a unique hybrid \u2014 part crime thriller, part body horror \u2014 that predates similar Western mashups by decades. The film's obscurity (only 13 TMDB votes) makes it a genuine rarity, preserved and finally released internationally only in 2021.",
+      "created_at": "2026-06-12 19:07:51"
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -16151,5 +16168,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 950
+  "count": 951
 }
