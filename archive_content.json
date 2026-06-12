@@ -5509,6 +5509,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Killing in Istanbul",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Y\u0131lmaz Atadeniz",
+      "raw_score": 3.2,
+      "total_ratings": 10,
+      "origin": "Turkey",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Survival, Identity",
+      "image_filename": "Killing_in_Istanbul_1967.jpg",
+      "pitch": "Killing in Istanbul (Turkish: Kilink Istanbul'da) is a 1967 Turkish fantasy adventure superhero film, one of the earliest superhero movies produced in Turkey. Based on the Italian comic book character Killing (also known as Satanik), the film was directed by Y\u0131lmaz Atadeniz and features the masked vigilante Kilink battling criminals in Istanbul.\n\nThe film is notable as part of a wave of low-budget Turkish superhero films from the 1960s and 70s, which drew inspiration from European photo-comics and adventure serials. While crude by modern standards, these films represent an interesting chapter in Turkish genre cinema, where international comic book characters were adapted for local audiences seeking exciting action entertainment.\n\nThe film runs 71 minutes and was produced during a period when Turkish cinema was experimenting with various genres, including the emerging superhero action film. It features the typical hero-vs-villain storyline of the era, with the masked hero fighting to protect the innocent from criminal forces.",
+      "truth": "The film follows Orhan, who becomes U\u00e7an Adam (Flying Man), a masked superhero, as he battles the villain Kilink (based on the Italian comic character Killing). Professor Cemil creates a secret formula or device that attracts the attention of criminals, leading to a conflict where the hero must protect the scientist and his work from the evil forces.\n\nThe hero, wearing a distinctive mask and costume, fights various henchmen and the main villain in classic superhero fashion. The plot involves standard elements of the genre: a hero with a secret identity, a mad scientist or valuable invention threatened by criminals, and the hero's ultimate victory over evil.\n\nThe cast includes Irfan Atasoy as Orhan/U\u00e7an Adam, Pervin Par, Muzaffer Tema, Y\u0131ld\u0131r\u0131m Gencer as Kilink, and Suzan Avci. The film was shot in Istanbul and features the typical action sequences and dramatic confrontations expected of the superhero genre.",
+      "core": "Killing in Istanbul represents an interesting piece of cross-cultural adaptation in cinema history. The Killing character was an Italian comic series that ran from 1966-1969, known for its violent and gritty storytelling. The Turkish adaptation transformed this into a local superhero film, showing how international comic book characters traveled across borders and were reimagined for different markets.\n\nThese Turkish superhero films from the 1960s-70s are now considered cult classics, representing a unique moment in Turkish pop culture when American superhero comics were just beginning to reach global audiences, but local productions were already creating their own superhero cinema tradition.\n\nThe film is notable for its place in Turkish film history as an early example of the superhero genre in Turkish cinema, predating the modern superhero film boom by several decades. It also demonstrates the global reach of European comics and how character licenses were adapted across different media and markets.",
+      "created_at": "2026-06-12 18:36:20"
+    },
+    {
       "title": "Kin-dza-dza!",
       "year": 1986,
       "medium": "Film",
@@ -16066,5 +16083,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 945
+  "count": 946
 }

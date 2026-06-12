@@ -4861,6 +4861,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Killing in Istanbul",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Y\u0131lmaz Atadeniz",
+      "raw_score": 3.2,
+      "total_ratings": 10,
+      "origin": "Turkey",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Survival, Identity",
+      "image_filename": "Killing_in_Istanbul_1967.jpg",
+      "pitch": "Killing in Istanbul (Turkish: Kilink Istanbul'da) is a 1967 Turkish fantasy adventure superhero film, one of the earliest superhero movies produced in Turkey. Based on the Italian comic book character Killing (also known as Satanik), the film was directed by Y\u0131lmaz Atadeniz and features the masked vigilante Kilink battling criminals in Istanbul.\n\nThe film is notable as part of a wave of low-budget Turkish superhero films from the 1960s and 70s, which drew inspiration from European photo-comics and adventure serials. While crude by modern standards, these films represent an interesting chapter in Turkish genre cinema, where international comic book characters were adapted for local audiences seeking exciting action entertainment.\n\nThe film runs 71 minutes and was produced during a period when Turkish cinema was experimenting with various genres, including the emerging superhero action film. It features the typical hero-vs-villain storyline of the era, with the masked hero fighting to protect the innocent from criminal forces.",
+      "created_at": "2026-06-12 18:36:20"
+    },
+    {
       "title": "Kin-dza-dza!",
       "year": 1986,
       "medium": "Film",
@@ -14176,5 +14191,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 945
+  "count": 946
 }
