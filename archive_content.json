@@ -4642,6 +4642,23 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Giant Robo",
+      "year": 1967,
+      "medium": "TV Series",
+      "creator": "Mitsuteru Yokoyama",
+      "raw_score": 3.75,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Robots, Aliens, Rebellion, Survival",
+      "image_filename": "Giant_Robo_1967.jpg",
+      "pitch": "Giant Robo is a Japanese tokusatsu (live-action special effects) television series that aired from 1967 to 1968, following the adventures of a teenage boy who becomes the pilot of a giant fighting robot to defend Earth against an evil organization. The series originally aired as \\\"Johnny Sokko and His Flying Robot\\\" in the United States, where it became a cult classic among children who grew up in the late 1960s.\n\nThe show centers on Daisaku Kusama, an ordinary Japanese high school student who finds himself caught up in a dangerous game of international espionage. Mistaken for a secret agent, he is abducted by Big Fire (BF), a mysterious terrorist organization scheming to conquer the world. Barely escaping with his life, he returns home accompanied by UN secret agent Azuma\u2014but Big Fire pursues him, attempting to recapture the one thing Daisaku carries: the control device for GR-1, a giant combat robot left behind by an ancient civilization.\n\nWhat follows is a thrilling series of battles as Daisaku learns to pilot GR-1 against Big Fire's increasingly desperate forces\u2014the submarine-based GR-2, the aerial GR-3, and later the massive UFO mecha Dakolar. Each episode brings new threats, new allies, and new revelations about the secret history of the GR robots. The show balances action with the emotional journey of a young boy forced to grow up quickly, becoming Earth's unlikely defender.",
+      "truth": "The series opens with Daisaku Kusama, a teenage student in Japan, traveling to the fictional nation of T Country for his studies. During his journey, he is mistakenly identified as a secret agent by Big Fire, a global terrorist organization seeking to destabilize world governments. Daisaku is abducted and interrogated, but manages to escape with the help of UN secret agent Azuma.\n\nAzuma gives Daisaku a small device\u2014the only control mechanism for GR-1, a giant robot built by an ancient civilization. Big Fire wants GR-1, and will stop at nothing to get it. Over the course of the series, Daisaku learns that Big Fire possesses other GR units: GR-2 (a submarine-based naval robot), GR-3 (an aerial combat robot), and eventually the massive UFO mecha called Dakolar, capable of capturing entire cities.\n\nGR-1 itself is a marvel of ancient technology, powered by a nuclear engine in its abdomen. Armed with missile launchers in its head, laser beams from its eyes, and a heat ray cannon in its belt buckle, GR-1 is a formidable weapon. But it requires a human pilot to act\u2014Daisaku must bond with the robot both mentally and emotionally to activate its full potential.\n\nEach episode follows a formulaic structure: Big Fire plots some new scheme (stealing a hydrogen bomb, kidnapping scientists, attacking Tokyo), Daisaku and GR-1 must stop them, with setbacks and revelations along the way. The series gradually reveals that GR units were built by an ancient civilization as a last line of defense against some long-forgotten threat\u2014a mythology that would be explored further in later adaptations.\n\nThe series ends with Big Fire defeated, but the mystery of the GR units' true origins left open for future adventures.",
+      "core": "Giant Robo represents a fascinating moment in Japanese tokusatsu history\u2014a bridge between the giant monster shows (kaijin eiga) of the 1960s and the more complex mecha series that would define the 1970s. While later mecha anime would develop elaborate mythologies about giant robots, Giant Robo keeps its focus tight: this is a story about ordinary people rising to meet extraordinary circumstances.\n\nThe character of Daisaku Kusama is notable\u2014he is not a chosen one, not a military elite, but an ordinary teenager whose courage comes from necessity rather than destiny. His growth over the series\u2014from frightened student to confident robot pilot\u2014mirrors the audience's own coming-of-age journey. The show subtly emphasizes that heroism is not about special powers but about choosing to act when others cannot.\n\nThe GR robot designs themselves are iconic: GR-1's bulky, yet expressive face influenced decades of mecha design. The concept of ancient precursors leaving behind powerful technology for future generations would become a staple of the mecha genre.\n\nBeyond its genre influence, Giant Robo also reflects 1960s anxieties about nuclear technology\u2014both the bomb (a recurring McGuffin in the series) and nuclear power as GR-1's energy source. The show implicitly asks: can humanity be trusted with such power? The answer, through Daisaku, is cautiously optimistic.\n\nThe series' American export, \\\"Johnny Sokko and His Flying Robot,\\\" was a staple of weekend television for American children in the late 1960s and 1970s, introducing the mecha concept to Western audiences decades before Transformers or Power Rangers made it mainstream.",
+      "created_at": "2026-06-12 23:28:05"
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -6159,8 +6176,8 @@
       "year": 1891,
       "medium": "Novel",
       "creator": "Albert Robida",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 5.0,
+      "total_ratings": 1,
       "origin": "France",
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
@@ -10154,8 +10171,8 @@
       "year": 1905,
       "medium": "Short Story",
       "creator": "Rokeya Sakhawat Hossain",
-      "raw_score": 3.78,
-      "total_ratings": 0,
+      "raw_score": 3.0,
+      "total_ratings": 14,
       "origin": "India",
       "mood": "Optimistic",
       "sub_genres": "Utopia",
@@ -16831,5 +16848,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 990
+  "count": 991
 }

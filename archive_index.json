@@ -4096,6 +4096,21 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Giant Robo",
+      "year": 1967,
+      "medium": "TV Series",
+      "creator": "Mitsuteru Yokoyama",
+      "raw_score": 3.75,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Robots, Aliens, Rebellion, Survival",
+      "image_filename": "Giant_Robo_1967.jpg",
+      "pitch": "Giant Robo is a Japanese tokusatsu (live-action special effects) television series that aired from 1967 to 1968, following the adventures of a teenage boy who becomes the pilot of a giant fighting robot to defend Earth against an evil organization. The series originally aired as \\\"Johnny Sokko and His Flying Robot\\\" in the United States, where it became a cult classic among children who grew up in the late 1960s.\n\nThe show centers on Daisaku Kusama, an ordinary Japanese high school student who finds himself caught up in a dangerous game of international espionage. Mistaken for a secret agent, he is abducted by Big Fire (BF), a mysterious terrorist organization scheming to conquer the world. Barely escaping with his life, he returns home accompanied by UN secret agent Azuma\u2014but Big Fire pursues him, attempting to recapture the one thing Daisaku carries: the control device for GR-1, a giant combat robot left behind by an ancient civilization.\n\nWhat follows is a thrilling series of battles as Daisaku learns to pilot GR-1 against Big Fire's increasingly desperate forces\u2014the submarine-based GR-2, the aerial GR-3, and later the massive UFO mecha Dakolar. Each episode brings new threats, new allies, and new revelations about the secret history of the GR robots. The show balances action with the emotional journey of a young boy forced to grow up quickly, becoming Earth's unlikely defender.",
+      "created_at": "2026-06-12 23:28:05"
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -5435,8 +5450,8 @@
       "year": 1891,
       "medium": "Novel",
       "creator": "Albert Robida",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 5.0,
+      "total_ratings": 1,
       "origin": "France",
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
@@ -8960,8 +8975,8 @@
       "year": 1905,
       "medium": "Short Story",
       "creator": "Rokeya Sakhawat Hossain",
-      "raw_score": 3.78,
-      "total_ratings": 0,
+      "raw_score": 3.0,
+      "total_ratings": 14,
       "origin": "India",
       "mood": "Optimistic",
       "sub_genres": "Utopia",
@@ -14851,5 +14866,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 990
+  "count": 991
 }
