@@ -2296,6 +2296,21 @@
       "created_at": "2026-03-04 07:02:40"
     },
     {
+      "title": "Cosmic Journey",
+      "year": 1936,
+      "medium": "Film",
+      "creator": "Vasily Petrov",
+      "raw_score": 3.2,
+      "total_ratings": 22,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Exploration, Discovery",
+      "image_filename": "Cosmic_Journey_1936.jpg",
+      "pitch": "In 1936 Soviet Union, at the dawn of the space age that would not truly arrive for another three decades, director Vasily Petrov created a remarkable piece of speculative science fiction. \"Cosmic Journey\" (\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0439\u0441) imagines the first human voyage to the Moon\u2014a dream that consumed the Soviet imagination just as much as it did the American.\n\nThe film follows scientist Pavel Sedikh, a brilliant but impatient researcher who grows frustrated with the conservative Soviet space institute in Moscow. Dismissed by bureaucratic officials who deem his theories too radical, Sedikh takes matters into his own hands: he constructs his own spacecraft in secret and recruits two companions\u2014a bold female astronaut and a young boy\u2014to join him on the historic journey.\n\nThe film was remarkable for its era, featuring progressively realistic depictions of space travel and lunar landscapes through innovative special effects that were years ahead of their time. It captures the optimistic faith in progress that characterized early Soviet science propaganda.",
+      "created_at": "2026-06-12 16:07:25"
+    },
+    {
       "title": "Cosmic Soldier",
       "year": 1985,
       "medium": "Video Game",
@@ -13921,5 +13936,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 928
+  "count": 929
 }

@@ -2602,6 +2602,23 @@
       "created_at": "2026-03-04 07:02:40"
     },
     {
+      "title": "Cosmic Journey",
+      "year": 1936,
+      "medium": "Film",
+      "creator": "Vasily Petrov",
+      "raw_score": 3.2,
+      "total_ratings": 22,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Exploration, Discovery",
+      "image_filename": "Cosmic_Journey_1936.jpg",
+      "pitch": "In 1936 Soviet Union, at the dawn of the space age that would not truly arrive for another three decades, director Vasily Petrov created a remarkable piece of speculative science fiction. \"Cosmic Journey\" (\u041a\u043e\u0441\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0435\u0439\u0441) imagines the first human voyage to the Moon\u2014a dream that consumed the Soviet imagination just as much as it did the American.\n\nThe film follows scientist Pavel Sedikh, a brilliant but impatient researcher who grows frustrated with the conservative Soviet space institute in Moscow. Dismissed by bureaucratic officials who deem his theories too radical, Sedikh takes matters into his own hands: he constructs his own spacecraft in secret and recruits two companions\u2014a bold female astronaut and a young boy\u2014to join him on the historic journey.\n\nThe film was remarkable for its era, featuring progressively realistic depictions of space travel and lunar landscapes through innovative special effects that were years ahead of their time. It captures the optimistic faith in progress that characterized early Soviet science propaganda.",
+      "truth": "The film opens with scientist Pavel Sedikh presenting his theories about space travel to the Soviet space institute in Moscow. The conservative administrators reject his proposals as too dangerous and impractical, dismissing him as a dreamer. Frustrated by bureaucratic obstruction, Sedikh retreats to work in isolation.\n\nUndeterred, Sedikh secretly builds his own spacecraft, convincing a young woman astronaut and a boy to join his crew. Together, they launch on humanity's first journey to the Moon. The film depicts their voyage through space with impressive special effects for the era, showing realistic zero-gravity conditions and the vastness of space.\n\nUpon reaching the lunar surface, the crew explores the Moon's desolate landscape, conducting experiments and planting the Soviet flag on the barren terrain. The journey home is successful, and they return as heroes, their achievement celebrated by the nation.\n\nThe film ends with philosophical reflections on humanity's place in the universe and the infinite possibilities that await those bold enough to pursue them.",
+      "core": "\"Cosmic Journey\" stands as a fascinating artifact of early Soviet science fiction\u2014a vision of space exploration created decades before it became reality. The film reflects the unique ideological position of 1930s Soviet Union: simultaneously conservative in politics but radical in scientific ambition.\n\nThe protagonist's struggle against bureaucratic obstruction mirrors a common theme in Soviet literature\u2014the brilliant individual versus the system. Yet the film ultimately celebrates collective achievement and scientific progress, with the protagonists returning as national heroes.\n\nTechnically, the film was notable for its innovative special effects, which predated similar work in Hollywood by years. The film's optimistic vision of space travel proved influential, helping cement the space voyage as a central motif in science fiction.\n\nPerhaps most significantly, the film demonstrates that the dream of space exploration was not limited to any one nation\u2014it was a universal human aspiration that found expression even in the most politically restrictive circumstances.",
+      "created_at": "2026-06-12 16:07:25"
+    },
+    {
       "title": "Cosmic Soldier",
       "year": 1985,
       "medium": "Video Game",
@@ -15777,5 +15794,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 928
+  "count": 929
 }
