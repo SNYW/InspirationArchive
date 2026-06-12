@@ -13431,6 +13431,23 @@
       "created_at": "2026-03-01 14:03:58"
     },
     {
+      "title": "The People",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "John Korty",
+      "raw_score": 5.73,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fiction",
+      "topics": "Aliens, Isolation, Community",
+      "image_filename": "The_People_1972.jpg",
+      "pitch": "In 1972, ABC broadcast a science fiction TV movie that stands apart from the typical alien-invasion fare of its era. Directed by John Korty and produced by Francis Ford Coppola (in one of his earliest executive producing roles), THE PEOPLE tells the story of Melodye Amerson, a young teacher assigned to a remote valley community that appears stern, secretive, and anti-pleasure. The residents forbid games, fun activities, and any expression of joy \u2014 and they react with strange secrecy to the new teacher.\n\nWhat follows is a subtle, thoughtful exploration of a hidden community of extraterrestrials who landed on Earth in the late 1800s. After their own planet was destroyed in a natural disaster, they sought refuge on Earth \u2014 only to be condemned as witches when locals discovered their mild paranormal powers. Many were killed; the survivors forbade their children ever to use their abilities. Now, decades later, a younger generation questions these restrictions.\n\nThe film is notable for being neither shoddy nor sentimentalized \u2014 a rare achievement for television science fiction of its time.",
+      "truth": "Melodye Amerson (Kim Darby) arrives at a secluded valley to teach school, only to find her students secretive and hostile to any fun or games. The community elders, particularly Valancy Carmody (Diane Varsi) and Sol Diemus (Dan O'Herlihy), warn her to stay away from certain topics and activities.\n\nMelodye discovers that the seemingly backward residents are actually aliens who fled their dying planet centuries ago. They possess mild paranormal abilities \u2014 telekinesis, healing, and other powers \u2014 but have been forced to suppress them since their arrival on Earth, when early settlers hunted them as witches.\n\nA natural disaster destroyed their homeworld, and they hoped to build a new life on Earth. Initially, they shared their secrets with local residents \u2014 but were met with fear and violence. Many were killed; the survivors imposed strict rules forbidding the use of their abilities.\n\nYoung adults like Valancy have been pushing for an end to these restrictions. As Melodye witnesses the community's internal struggle between secrecy and acceptance, she becomes part of the change they have been waiting for.\n\nThe film ends on a note of cautious hope \u2014 the community beginning to embrace its heritage, though the threat of discovery and persecution remains.",
+      "core": "THE PEOPLE is a quietly subversive work that uses the alien-communaut\u00e9 trope to explore themes of assimilation, hidden identity, and the cost of suppressing one's true nature. The aliens are not conquerors or visitors \u2014 they are refugees, desperate to belong yet unable to reveal their differences without inviting violence.\n\nThe film's critique extends to the methods of the community itself: by forbidding their children from using their abilities, they have effectively amputated a part of their identity. The younger generation's push for liberation represents a broader theme about the impossibility \u2014 and desirability \u2014 of complete assimilation.\n\nDirector John Korty would later find fame with the acclaimed CONVOY, but this early work shows his talent for character-driven storytelling. Produced by Francis Ford Coppola (who composed the score with his father Carmine Coppola), the film represents an interesting footnote in the early careers of both men.\n\nThe film has no sequel despite plans for one titled BIRDS IN THE WILDERNESS \u2014 a testament to how quickly such television productions were forgotten. Yet it remains a thoughtful, unsentimental piece that treats its premise with unusual respect.",
+      "created_at": "2026-06-12 18:57:17"
+    },
+    {
       "title": "The Perfect Woman",
       "year": 1949,
       "medium": "Film",
@@ -16117,5 +16134,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 948
+  "count": 949
 }
