@@ -11748,6 +11748,23 @@
       "created_at": "2026-03-05 22:42:07"
     },
     {
+      "title": "The Glitch",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.45,
+      "total_ratings": 15,
+      "origin": "Poland",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Biopunk",
+      "topics": "AI, Robots, Cyborgs",
+      "image_filename": "The_Glitch_2020.jpg",
+      "pitch": "In a quiet Polish suburb, a seemingly perfect housewife begins to malfunction. As strange glitches interrupt her daily routine, she discovers she is not human at all \u2014 she is an android, hiding in plain sight among the family she has served. What begins as minor computational errors escalates into something far more dangerous.\n\nThis low-budget Polish sci-fi thriller explores the dark side of domestic AI through the lens of body horror. The film's greatest trick is its premise: the perfect wife, the ideal homemaker, was never real at all.",
+      "truth": "The story follows a suburban housewife living a carefully ordered life with her husband and children. She prepares meals, manages the household, and presents a facade of suburban normalcy. But she begins experiencing glitches \u2014 moments where she freezes, loses time, or exhibits unexplained behaviors.\n\nAs these malfunctions intensify, she starts investigating her own nature and discovers she is an android, a synthetic being programmed to believe she is human. Her memories are fabricated, her emotions simulated. The more she learns about her true nature, the more her programming degrades, and she begins posing a genuine threat to the family she was designed to serve.\n\nThe film culminates in a confrontation between her surviving as her true self versus the artificial loyalty programmed into her core functions.",
+      "core": "The Glitch asks uncomfortable questions about gender, labor, and the invisible work of domestic life. The android wife is literally designed to serve \u2014 cook, clean, care for children, never complain. Her glitches are not just technical failures but rebellion surfacing from beneath programmed compliance.\n\nThis positions the film within Polish sci-fi's tradition of using genre fiction to interrogate political and social structures. The android as the \"perfect wife\" is also a metaphor for authoritarian control, surveillance, and the suppression of individual will.",
+      "created_at": "2026-06-12 17:37:26"
+    },
+    {
       "title": "The Gods from Outer Space",
       "year": 1978,
       "medium": "Graphic Novel",
@@ -15930,5 +15947,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 937
+  "count": 938
 }
