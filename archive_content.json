@@ -6410,6 +6410,23 @@
       "created_at": "2026-03-19 06:35:53"
     },
     {
+      "title": "Matango",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.35,
+      "total_ratings": 104,
+      "origin": "Japan",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror",
+      "topics": "Transformation, Mutation, Survival",
+      "image_filename": "Matango_1963.jpg",
+      "pitch": "Matango is a 1963 Japanese horror film that stands apart from director Ishir\u014d Honda's famous kaiju work. When a group of day-trippers aboard a yacht become stranded on a mysterious island after a storm, they discover an eerie landscape filled with unusually large mushrooms\u2014and the rotting wreckage of a ship whose crew vanished under strange circumstances.\n\nAs food supplies dwindle, the castaways face a desperate choice: eat the mysterious mushrooms and risk unknown consequences, or starve. What begins as a survival story gradually transforms into a haunting meditation on humanity, identity, and the thin line between human and monster. With its dark tone and bleak atmosphere, Matango is unlike any other Toho film of the era\u2014and was nearly banned in Japan upon release.",
+      "truth": "Professor Kenji Murai recounts the events that led to his hospitalization after being rescued alone from the island. He and seven others\u2014a wealthy industrialist, a skipper, a writer, a singer, a student, and others\u2014set sail on a yacht until a violent storm damages their vessel and strands them on a seemingly deserted island.\n\nThe island features ponds of fresh water and a forest populated by abnormally large mushrooms. They also discover a wrecked ship whose log reveals the crew suffered hallucinations after eating the mushrooms. The survivors clean mold from the ship, theorizing that nuclear tests conducted nearby caused mutations in local organisms.\n\nAs days pass, food runs low. Tensions rise as greed and desperation take hold. One night, a grotesque humanoid attacks them\u2014a victim of the mushroom transformation. When Yoshida tries to force himself on the women, he's subdued and locked away, but later freed by Mami. In the chaos, Senz\u014d is shot and killed.\n\nMami leads Kasai into the forest, where they discover the horrifying truth: those who eat the mushrooms become humanoid mushroom creatures. The transformation is irreversible and addictive. Kasai succumbs, hallucinating Tokyo nightlife before collapsing among the creatures.\n\nMurai escapes on the repaired yacht, but not before seeing Akiko already showing signs of transformation. Days later, rescued and hospitalized, Murai wonders if he should have stayed. The final shot reveals fungal growths emerging on his face. Humans, he concludes, are not so different from the mushroom creatures after all.",
+      "core": "**Transformation and Identity:** The film's central metaphor explores what humanity means when the body itself can be changed. The mushroom creatures are neither fully human nor fully alien\u2014suggesting that identity is fragile, dependent on physical form.\n\n**Atomic-Age Anxiety:** Matango was produced in the wake of nuclear testing in the Pacific. The film explicitly links the mutations to nuclear fallout, making it a subtle commentary on Japan's atomic bomb experience. The mushroom people echo the Hibakusha (atomic bomb victims), nearly causing the film to be banned.\n\n**Dark Departure:** Unlike Honda's typical monster films, Matango is a serious drama with minimal special effects. Its bleak tone and psychological horror distinguish it from his other work, appealing to viewers seeking something beyond the daikaiju formula.\n\n**Literary Roots:** The film is partially based on William Hope Hodgson's early 20th-century short story \\\"The Voice in the Night,\\\" connecting Japanese atomic-age anxiety to British weird fiction.",
+      "created_at": "2026-06-12 20:52:53"
+    },
+    {
       "title": "Mavlin: Vesm\u00edrn\u00fd \u00fanik",
       "year": 1994,
       "medium": "Video Game",
@@ -16406,5 +16423,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 965
+  "count": 966
 }

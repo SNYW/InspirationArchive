@@ -5656,6 +5656,21 @@
       "created_at": "2026-03-19 06:35:53"
     },
     {
+      "title": "Matango",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.35,
+      "total_ratings": 104,
+      "origin": "Japan",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror",
+      "topics": "Transformation, Mutation, Survival",
+      "image_filename": "Matango_1963.jpg",
+      "pitch": "Matango is a 1963 Japanese horror film that stands apart from director Ishir\u014d Honda's famous kaiju work. When a group of day-trippers aboard a yacht become stranded on a mysterious island after a storm, they discover an eerie landscape filled with unusually large mushrooms\u2014and the rotting wreckage of a ship whose crew vanished under strange circumstances.\n\nAs food supplies dwindle, the castaways face a desperate choice: eat the mysterious mushrooms and risk unknown consequences, or starve. What begins as a survival story gradually transforms into a haunting meditation on humanity, identity, and the thin line between human and monster. With its dark tone and bleak atmosphere, Matango is unlike any other Toho film of the era\u2014and was nearly banned in Japan upon release.",
+      "created_at": "2026-06-12 20:52:53"
+    },
+    {
       "title": "Mavlin: Vesm\u00edrn\u00fd \u00fanik",
       "year": 1994,
       "medium": "Video Game",
@@ -14476,5 +14491,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 965
+  "count": 966
 }
