@@ -868,6 +868,23 @@
       "created_at": "2026-03-02 07:05:18"
     },
     {
+      "title": "Alag",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Ashu Trikha",
+      "raw_score": 2.3,
+      "total_ratings": 11,
+      "origin": "India",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Children, Survival",
+      "image_filename": "Alag_2006.jpg",
+      "pitch": "Alag (English: Different) is a 2006 Indian Hindi-language science-fiction film about a young man named Tejas who possesses extraordinary supernatural powers, including telekinesis, telepathy, and the ability to control lightning and magnetism.\n\nThe story begins when widower Hemant Rastogi dies of a heart attack in Mahabaleshwar. Police discovering his home find Tejas, his only son, locked in the basement \u2014 hidden away from the world since childhood due to an extreme sensitivity to sunlight. Tejas has spent his entire life in isolation, his only companions being his father and the books provided to him.\n\nWhen Tejas is taken to the P.R. Institute for rehabilitation, he begins displaying telekinetic abilities that set him apart from the other residents. Ostracised and feared, he finds a chance at redemption when he awakens the comatose Gayatri Rana. But when scientists and doctors seek to exploit his powers for experiments, Tejas is abducted by the sinister Dr. Richard Dyer.\n\nThe film explores themes of otherness, the exploitation of those who are different, and whether true belonging is possible in a world that fears exceptional abilities.",
+      "truth": "Widower Hemant Rastogi lives alone in Mahabaleshwar with his young son Tejas. Due to Tejas' extreme sensitivity to sunlight \u2014 his eyes turn red when exposed to it \u2014 the boy has never left the basement. After Hemant dies suddenly of a heart attack, police break into the house and discover Tejas in the basement.\n\nTejas is placed under the care of Purva Rana, who runs the P.R. Institute for young criminals. At the institute, Tejas begins displaying telekinetic powers that alarm the other residents. A near-fatal accident involving a security guard and the death of a fellow youngster lead the other boys to fear and ostracise him further.\n\nHowever, Tejas redeems himself when he awakens Pushkar Rana's wife Gayatri from a coma-like state. Accepted into the wealthy Rana household, Tejas finally seems to find a home. But soon doctors and scientists \u2014 eager to study his powers \u2014 pressure Pushkar to hand him over for experiments. When both Tejas and Pushkar refuse, Dr. Richard Dyer abducts Tejas and imprisons him in a glass chamber.\n\nPurva discovers the abduction and attempts a rescue, but is fatally injured by Dr. Dyer. Witnessing this, Tejas' rage triggers a massive surge of his powers. The glass cage shatters, killing Dr. Dyer but also electrocuting Purva, who dies in the chaos. Tejas tries to revive her but fails.\n\nHeartbroken and guilty, Tejas returns to his basement home in Mahabaleshwar, haunted by memories of Purva and lost in darkness and guilt.",
+      "core": "Alag is a noteworthy example of early Indian superhero cinema that tackles the theme of profound isolation and what it means to be different. The film's central metaphor \u2014 a child hidden in a basement, separated from the world due to his sensitivity \u2014 speaks to experiences of alienation and being set apart from society.\n\nThe film examines how those with exceptional abilities are often exploited by institutions and those in power. Dr. Dyer represents the scientific establishment that seeks to possess and experiment on those who are different rather than understand them. Tejas' journey from hidden basement to glass cage mirrors the way society often treats the Other \u2014 first hiding them away, then trying to control them.\n\nDespite its modest box office returns (\u20b956 lakh against an \u20b98 crore budget), Alag stands as an interesting artifact of mid-2000s Indian genre cinema, attempting to blend Western superhero tropes with Indian emotional storytelling. The film's themes of chosen family, redemption through sacrifice, and the tragedy of being unable to save those you love resonate with classic superhero narratives while grounding them in distinctly Indian emotional contexts.",
+      "created_at": "2026-06-12 19:48:14"
+    },
+    {
       "title": "Alan Wake",
       "year": 2010,
       "medium": "Video Game",
@@ -16253,5 +16270,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 956
+  "count": 957
 }
