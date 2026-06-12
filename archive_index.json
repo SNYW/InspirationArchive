@@ -8041,6 +8041,21 @@
       "created_at": "2026-03-06 03:09:55"
     },
     {
+      "title": "Signals: A Space Adventure",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Robert von Rhyannon",
+      "raw_score": 5.03,
+      "total_ratings": 15,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Space Travel, Space, AI",
+      "image_filename": "signals_space_adventure_1970.jpg",
+      "pitch": "In the mid-21st century, a deep space exploration vessel suddenly goes off the radar, losing all contact with Earth. When a routine patrol crew investigates the silent ship, they discover something is deeply wrong aboard\u2014and the answers they find may be more dangerous than the mystery they came to solve.\n\nThis 1970 West German sci-fi film predates many classic space opera tropes while sharing DNA with the paranoid thrillers of its era. With only 15 votes on TMDB, it's a genuinely obscure find that offers atmospheric tension over spectacle.",
+      "created_at": "2026-06-12 20:58:14"
+    },
+    {
       "title": "Silent Running",
       "year": 1972,
       "medium": "Film",
@@ -14491,5 +14506,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 966
+  "count": 967
 }
