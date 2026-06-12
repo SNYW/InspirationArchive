@@ -2670,6 +2670,23 @@
       "created_at": "2026-03-02 13:15:10"
     },
     {
+      "title": "Cosmodrama",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.5,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Space, Isolation",
+      "image_filename": "Cosmodrama_2015.jpg",
+      "pitch": "Seven astronauts wake aboard a self-operating spaceship with no memory of their mission or origin. The ship drifts through space as they grapple with fundamental questions: Where did they come from? Where are they going? As the vessel carries them forward, they have nothing but time to meditate on matter, life, and the nature of the universe itself. The film poses existential questions wrapped in the trappings of hard science fiction.",
+      "truth": "The astronauts awaken in a sleek spacecraft with no knowledge of their identities or purpose. As the ship operates autonomously, they explore its corridors and attempt to piece together clues about their mission. Through philosophical discourse and scientific speculation, they debate the nature of their existence, the possibility of their origins, and what lies ahead. The ambiguity of their situation becomes both their prison and their liberation.",
+      "core": "Cosmodrama is a meditative exercise in existential science fiction. Rather than delivering action or resolution, the film uses the isolated astronauts as a lens to examine humanity's place in the cosmos. The lack of definitive answers about their mission or destination mirrors the fundamental uncertainty of human existence. The ship becomes a metaphor for life itself: moving forward into the unknown, driven by forces we do not understand.",
+      "created_at": "2026-06-12 16:32:50"
+    },
+    {
       "title": "Counterweight",
       "year": 2021,
       "medium": "Novel",
@@ -15862,5 +15879,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 933
+  "count": 934
 }
