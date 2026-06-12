@@ -9751,6 +9751,21 @@
       "created_at": "2026-03-05 16:24:17"
     },
     {
+      "title": "The Cremators",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Harry Essex",
+      "raw_score": 1.39,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Survival",
+      "image_filename": "The_Cremators_1972.jpg",
+      "pitch": "In 1972, director Harry Essex crafted one of the era's most unsettling low-budget sci-fi horror films. Based on Julian May's short story \"Dune Roller,\" The Cremators introduces an alien life form \u2014 a huge, amorphous ball of living matter \u2014 that arrives on Earth and begins absorbing human beings to regenerate itself.\n\nThe film opens with the creature's arrival in a quiet American town. At first dismissed as a curiosity, it quickly reveals its predatory nature: anyone who gets too close is consumed and absorbed into its growing mass. As the entity grows larger and more aggressive, the townspeople must confront an enemy that cannot be killed through conventional means \u2014 it simply absorbs any weapon or attacker thrown against it.\n\nWhat elevates The Cremators beyond typical B-movie fare is its unflinching look at human vulnerability. The creature serves as an unstoppable force of consumption, a dark mirror to humanity's own predatory instincts. The film's modest budget actually works in its favor, as the practical effects create genuinely unsettling imagery of organic transformation and absorption.",
+      "created_at": "2026-06-12 21:07:20"
+    },
+    {
       "title": "The Crimson Ghost",
       "year": 1946,
       "medium": "Serial Film",
@@ -14521,5 +14536,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 968
+  "count": 969
 }
