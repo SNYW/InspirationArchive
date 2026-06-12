@@ -4710,6 +4710,23 @@
       "created_at": "2026-03-01 13:34:25"
     },
     {
+      "title": "H2S",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Roberto Faenza",
+      "raw_score": 2.95,
+      "total_ratings": 11,
+      "origin": "Italy",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Rebellion, Authoritarianism, Politics",
+      "image_filename": "H2S_1969.jpg",
+      "pitch": "H2S is a 1969 Italian dystopian science-fiction film directed by Roberto Faenza. Although filmed in 1968 and officially released in 1969, the film was immediately banned in Italy due to its political content and was only distributed in 1971. Set in the near future, it portrays a student revolt against a oppressive dictatorship.\n\nThe film stars Denis Gilmore as Tommaso, a young student who flees from the totalitarian regime and finds refuge with a mysterious girl in a surreal wilderness setting before ultimately returning to confront the system. The story serves as a pointed political allegory reflecting the turbulent political climate of late 1960s Europe.",
+      "truth": "The film is set in the near future in a dystopian society ruled by a totalitarian dictatorship. Tommaso, a young student, escapes from the oppressive regime and goes on the run. He meets a girl and they retreat to a remote snowy wilderness, living together in a surreal igloo-like shelter. The film explores their isolation and relationship away from the system.\n\nEventually, Tommaso decides to return to civilization to join the resistance movement against the dictatorship. The story culminates in his involvement in a student revolution against the authoritarian regime. The film was banned in Italy upon completion due to its controversial political themes and only gained a limited release in 1971 after years of censorship battles.",
+      "core": "H2S is a political allegory that reflects the revolutionary spirit of May 1968 in Europe. The film directly addresses themes of authoritarianism, student activism, and the struggle for freedom against oppressive regimes. Faenza created this work as a critique of political repression and censorship.\n\nThe film's delayed release due to censorship only added to its controversial reputation, making it a forgotten gem of Italian science-fiction cinema. It stands as a rare example of Italian dystopian cinema from the late 1960s, pre-dating many of the more famous American dystopian films of the 1970s.",
+      "created_at": "2026-06-12 22:13:19"
+    },
+    {
       "title": "Haibane Renmei",
       "year": 2002,
       "medium": "Anime",
@@ -16627,5 +16644,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 978
+  "count": 979
 }
