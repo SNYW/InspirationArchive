@@ -15964,6 +15964,23 @@
       "created_at": "2026-03-01 10:35:50"
     },
     {
+      "title": "Transformers: Zone",
+      "year": 1990,
+      "medium": "OVA",
+      "creator": "Toei Animation",
+      "raw_score": 5.8,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Robots, Aliens, Rebellion, Space Travel",
+      "image_filename": "transformers_zone_1990.jpg",
+      "pitch": "Transformers: Zone is a 1990 Japanese OVA that serves as the final chapter in the Transformers Generation 1 saga. When the mysterious three-faced insectoid being Violen Jiger dispatches the Nine Great Demon Generals\u2014including Devastator, Menasor, Bruticus, and others\u2014to acquire \\\"Zone Energy,\\\" the Autobots must rise to defend Earth and uncover the power of the legendary Zodiac. It's a compact, action-packed 30-minute adventure that delivers classic transforming robot action.\n\nOriginally intended to be a full TV series, Zone was forced to become direct-to-video due to less than expected toy sales. It stands as the last TF Generation 1 animated movie and the final entry in the Japanese Transformers G1 saga.",
+      "truth": "The story begins with the destruction of planet Feminia by Violen Jiger, who seeks Zone Energy and the powerful Zodiac. Star Saber is caught in the destruction but is rescued by Dai Atlas, a Powered Master who becomes the new Autobot commander on Earth.\n\nThe Decepticons launch an attack on Earth, but Dai Atlas and Sonic Bomber repel them. During the battle, they unlock the Zodiac's power that was hidden on Earth. Meanwhile, the nine Great Demon Generals\u2014Devastator, Menasor, Bruticus, Trypticon, Predaking, Abominus, King Poseidon, Overlord, and BlackZarak\u2014were dispatched to acquire Zone Energy, destroying Feminia in the process.\n\nThe series was cancelled after just one episode at 25 minutes. A manga continuation was published in TV Magazine between 1990 and 1991, continuing the story.",
+      "core": "Transformers: Zone represents both the end of an era and an interesting curiosity in the Transformers franchise. As the final G1 animated production, it carries weight as a conclusion to a beloved era that began in the 1980s.\n\nWhat makes Zone fascinating is how commercial pressures forced it to be direct-to-video\u2014a pattern seen in many anime productions. The Powered Masters toyline concept introduced here had lasting influence on the franchise's mythology.\n\nThe OVA is notable for its roster of iconic Combiners (the gestalt Decepticons), making it a treat for fans of the classic toyline. Despite its brevity, Zone introduced elements that would echo through later Transformers media.",
+      "created_at": "2026-06-12 23:47:13"
+    },
+    {
       "title": "Treasure Planet",
       "year": 1982,
       "medium": "Animated Film",
@@ -16882,5 +16899,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 993
+  "count": 994
 }
