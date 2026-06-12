@@ -3886,6 +3886,21 @@
       "created_at": "2026-03-05 19:13:36"
     },
     {
+      "title": "Future Boy Conan",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Hayao Miyazaki",
+      "raw_score": 4.18,
+      "total_ratings": 213,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Steampunk",
+      "topics": "Survival, Exploration, Rebellion, Family",
+      "image_filename": "Future_Boy_Conan_1978.jpg",
+      "pitch": "In a post-apocalyptic future where World War III devastated Earth, a young boy named Conan was born on a remote island settlement formed by survivors of a failed space exodus. Raised by his elderly adoptive grandfather among the last remnants of humanity, Conan lives a simple life until a girl named Lana washes ashore\u2014the first stranger and person his own age he has ever seen. \n\nWhen Lana is kidnapped by the technologically advanced city-state of Industria, Conan sets sail across the dangerous ocean to rescue her, encountering allies and enemies in a world where humanity clings to survival among scattered islands. This 1978 series marks Hayao Miyazaki's directorial debut and established many themes he would later perfect in his Studio Ghibli masterpieces.\n\nWith its optimistic outlook and faith in the next generation, Future Boy Conan stands as a rare post-apocalyptic story that believes humanity can learn from its mistakes and build a better future.",
+      "created_at": "2026-06-12 23:52:47"
+    },
+    {
       "title": "Future War 198X",
       "year": 1982,
       "medium": "OVA",
@@ -14911,5 +14926,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 994
+  "count": 995
 }

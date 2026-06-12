@@ -4404,6 +4404,23 @@
       "created_at": "2026-03-05 19:13:36"
     },
     {
+      "title": "Future Boy Conan",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Hayao Miyazaki",
+      "raw_score": 4.18,
+      "total_ratings": 213,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Steampunk",
+      "topics": "Survival, Exploration, Rebellion, Family",
+      "image_filename": "Future_Boy_Conan_1978.jpg",
+      "pitch": "In a post-apocalyptic future where World War III devastated Earth, a young boy named Conan was born on a remote island settlement formed by survivors of a failed space exodus. Raised by his elderly adoptive grandfather among the last remnants of humanity, Conan lives a simple life until a girl named Lana washes ashore\u2014the first stranger and person his own age he has ever seen. \n\nWhen Lana is kidnapped by the technologically advanced city-state of Industria, Conan sets sail across the dangerous ocean to rescue her, encountering allies and enemies in a world where humanity clings to survival among scattered islands. This 1978 series marks Hayao Miyazaki's directorial debut and established many themes he would later perfect in his Studio Ghibli masterpieces.\n\nWith its optimistic outlook and faith in the next generation, Future Boy Conan stands as a rare post-apocalyptic story that believes humanity can learn from its mistakes and build a better future.",
+      "truth": "The story begins in July 2008, after a devastating war fought with ultra-magnetic weapons destroys civilization. The continents sink beneath the sea, and survivors crash-land on what they call Remnant Island. Twenty-two years later, Conan is born on the island. When he is eleven, his grandfather dies, and Lana\u2014a girl from another island called High Harbor\u2014washes ashore after escaping abduction by Industrian soldiers.\n\nConan builds a raft to rescue Lana but is captured and brought to Industria, a dystopian island nation ruled by the power-hungry administrator Lepka. Conan befriends Jimsy, a feral boy, and together they navigate Industrian society. They discover that Lana's grandfather Dr. Lao developed the technology for orbital solar power\u2014which could rebuild civilization but was also the weapon that caused the apocalypse.\n\nAfter multiple adventures, Conan and his friends locate Dr. Lao, restore the solar power, and overthrow Lepka's regime. The group escapes before another cataclysmic earthquake destroys Industria. Concluding with Conan and Lana setting sail to build a new world together, carrying only the positive lessons from the past.",
+      "core": "Future Boy Conan represents Hayao Miyazaki's directorial debut and the formative work that established his signature themes: the importance of nature, the power of individual agency, and faith in young people to create a better future.\n\nUnlike typical post-apocalyptic fiction that wallows in despair, Miyazaki insisted on an optimistic narrative. He transformed Alexander Key's pessimistic source novel into a story where children are not victims but agents of change. The contrast between Conan's innocent determination and Lepka's corrupting greed for power forms the moral heart of the series.\n\nTechnically, the series showcases Miyazaki's emerging talents in environmental storytelling\u2014detailed depictions of island life, ocean navigation, and the relationship between humans and their environment. The steampunk aesthetic of Industria, with its triangular towers and salvaged technology, influenced decades of anime design.\n\nAs Miyazaki's only fully-directed television series, Future Boy Conan remains a crucial precursor to Nausica\u00e4 of the Valley of the Wind and Studio Ghibli's later masterpieces.",
+      "created_at": "2026-06-12 23:52:47"
+    },
+    {
       "title": "Future War 198X",
       "year": 1982,
       "medium": "OVA",
@@ -16899,5 +16916,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 994
+  "count": 995
 }
