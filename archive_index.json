@@ -2060,7 +2060,7 @@
       "year": 1998,
       "medium": "Film",
       "creator": "Bennett Cohen",
-      "raw_score": 6.2,
+      "raw_score": 3.1,
       "total_ratings": 11,
       "origin": "USA",
       "mood": "Tense",
@@ -5000,7 +5000,7 @@
       "year": 1932,
       "medium": "Film",
       "creator": "G.W. Pabst",
-      "raw_score": 5.1,
+      "raw_score": 2.55,
       "total_ratings": 8,
       "origin": "France",
       "mood": "Surreal",
@@ -5885,7 +5885,7 @@
       "year": 1989,
       "medium": "Film",
       "creator": "Ildik\u00f3 Enyedi",
-      "raw_score": 6.51,
+      "raw_score": 3.255,
       "total_ratings": 47,
       "origin": "Hungary",
       "mood": "Cerebral",
@@ -5909,21 +5909,6 @@
       "image_filename": "My_Beautiful_Girl_Mari_2002.jpg",
       "pitch": "My Beautiful Girl, Mari is a 2002 South Korean animated film that follows Kim Nam-woo, a young boy struggling through life as the people around him constantly leave. His best friend Jun-ho is going to study in Seoul, and his widowed mother is paying more attention to her new boyfriend. To escape his loneliness, Nam-woo retreats into a dream world where he meets a mysterious girl named Mari. The film blends surrealistic fantasy with a sensitive coming-of-age narrative, exploring themes of loss, maturation, and the blurred boundary between dreams and reality. It was South Korea's first feature-length animated film to gain international attention and won the Grand Prix at the Annecy International Animation Film Festival.",
       "created_at": "2026-03-02 23:45:59"
-    },
-    {
-      "title": "My Twentieth Century",
-      "year": 1989,
-      "medium": "Film",
-      "creator": "Ildik\u00f3 Enyedi",
-      "raw_score": 6.51,
-      "total_ratings": 47,
-      "origin": "Hungary",
-      "mood": "Surreal",
-      "sub_genres": "Science-Fantasy",
-      "topics": "Identity, Time Travel, Exploration",
-      "image_filename": null,
-      "pitch": "In Budapest, 1880, two twin sisters are born at the exact moment Thomas Edison presents his electric lightbulb to the world. Orphaned and separated in childhood, they grow up on opposite poles of society\u2014one becomes a na\u00efve, bomb-toting anarchist, the other a pampered courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1900, in this mind-bending meditation on identity, choice, and the paths our lives might have taken.\n\nIldik\u00f3 Enyedi's debut feature is a haunting, erotic fantasy that treats time as fluid and identity as fragmented. The film won the Golden Camera at Cannes and was Hungary's submission for the Academy Awards. Its dreamy, non-linear structure anticipates everything from cloud Atlas to Dark, rendered in sumptuous period production design and a hypnotic score.",
-      "created_at": "2026-06-12 14:47:58"
     },
     {
       "title": "Mysterious Island",
@@ -6935,7 +6920,7 @@
       "year": 1974,
       "medium": "Film",
       "creator": "Toshio Masuda",
-      "raw_score": 5.91,
+      "raw_score": 2.955,
       "total_ratings": 16,
       "origin": "Japan",
       "mood": "Pessimistic",
@@ -9065,7 +9050,7 @@
       "year": 1911,
       "medium": "Film",
       "creator": "Walter R. Booth",
-      "raw_score": 6.17,
+      "raw_score": 3.085,
       "total_ratings": 12,
       "origin": "UK",
       "mood": "Optimistic",
@@ -12095,7 +12080,7 @@
       "year": 1979,
       "medium": "Film",
       "creator": "",
-      "raw_score": 5.87,
+      "raw_score": 2.935,
       "total_ratings": 19,
       "origin": "Czechoslovakia",
       "mood": "Satirical",
@@ -12796,21 +12781,6 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
-      "title": "The Word for World is Forest (1976)",
-      "year": 1976,
-      "medium": "Novella",
-      "creator": "Ursula K. Le Guin",
-      "raw_score": 4.0,
-      "total_ratings": 500,
-      "origin": null,
-      "mood": null,
-      "sub_genres": null,
-      "topics": null,
-      "image_filename": "The_Word_for_World_is_Forest_1976.jpg",
-      "pitch": "(Non-Spoiler Breakdown)\n\nOn the forest world of Athshe, a peaceful civilization of small, gentle humans has lived in harmony with their environment for millennia. When Earth colonists arrive to exploit the planet's valuable timber resources, they bring with them brutal technology and an assumption of superiority. The Athsheans' word for \"world\" is \"forest\"\u2014they cannot conceive of existence without the green world that sustains them. But the colonists see only profit, and they begin clear-cutting the sacred woods with no regard for the ecological or spiritual devastation left in their wake.\n\nWhat begins as exploitation escalates into massacre when the colonists' leader, a man called the Captain, orders the systematic destruction of Athshean villages after a failed rebellion. But the Athsheans possess a secret weapon: their dreams are shared, their consciousness collective, and their capacity for violence\u2014once awakened\u2014cannot be easily contained. This is a brutal meditation on how the oppressed become the oppressor, and how violence begets violence in an endless cycle.",
-      "created_at": "2026-02-28 13:24:41"
-    },
-    {
       "title": "The World Beyond",
       "year": 2024,
       "medium": "Manga",
@@ -13490,7 +13460,7 @@
       "year": 1991,
       "medium": "Film",
       "creator": "Unknown",
-      "raw_score": 5.5,
+      "raw_score": 2.75,
       "total_ratings": 10,
       "origin": "Soviet-Union",
       "mood": "Tense",
@@ -14041,5 +14011,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 936
+  "count": 934
 }

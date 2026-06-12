@@ -2334,7 +2334,7 @@
       "year": 1998,
       "medium": "Film",
       "creator": "Bennett Cohen",
-      "raw_score": 6.2,
+      "raw_score": 3.1,
       "total_ratings": 11,
       "origin": "USA",
       "mood": "Tense",
@@ -5666,7 +5666,7 @@
       "year": 1932,
       "medium": "Film",
       "creator": "G.W. Pabst",
-      "raw_score": 5.1,
+      "raw_score": 2.55,
       "total_ratings": 8,
       "origin": "France",
       "mood": "Surreal",
@@ -6669,7 +6669,7 @@
       "year": 1989,
       "medium": "Film",
       "creator": "Ildik\u00f3 Enyedi",
-      "raw_score": 6.51,
+      "raw_score": 3.255,
       "total_ratings": 47,
       "origin": "Hungary",
       "mood": "Cerebral",
@@ -6697,23 +6697,6 @@
       "truth": "The story begins with Nam-woo spending his summer vacation in a seaside town, feeling abandoned as everyone important to him prepares to leave. His friend Jun-ho is moving to Seoul for studies, and his mother is increasingly distant due to her new relationship. Feeling invisible and alone, Nam-woo discovers a surreal dream world accessible from the beach.\n\nIn this dreamscape, he encounters Mari\u2014a mysterious, ethereal girl who seems to exist between reality and fantasy. As Nam-woo spends more time with Mari, the lines between his waking life and dreams begin to blur. The film presents sequences that may be literal dreams, metaphorical explorations of his subconscious, or some combination of both.\n\nThroughout his journey, Nam-woo encounters various symbolic figures and scenarios that represent his fears, desires, and growing understanding of loss and change. Adult versions of Nam-woo and Jun-ho also appear in the dream world, offering glimpses of possible futures. The film culminates in Nam-woo's confrontation with his own loneliness and his gradual acceptance that people leaving is a part of life\u2014a necessary step toward maturation.",
       "core": "**Dreams as Escapism and Self-Discovery:** The film uses surrealistic dream sequences not merely as visual spectacle but as a psychological landscape where the protagonist can confront his fears. Mari herself may represent Nam-woo's idealization of connection or his struggle to maintain childhood innocence in the face of adult responsibilities.\n\n**Isolation and Abandonment:** The central emotional thrust concerns the pain of being left behind. Nam-woo's experience mirrors universal childhood fears of abandonment, rendered through the specific Korean context of rapid modernization and social mobility forcing families to relocate.\n\n**The Annecy Recognition:** Winning the Grand Prix at the prestigious Annecy International Animation Film Festival marked a watershed moment for Korean animation, demonstrating that Korean animators could achieve international artistic standards. The film paved the way for subsequent Korean animated features.\n\n**Visual Poetry:** The film is notable for its distinctive visual style that combines traditional 2D animation with surreal, painterly sequences. Its dream sequences employ experimental techniques that set it apart from conventional animation, creating an atmosphere both haunting and beautiful.\n\nThe film remains significant as a pioneering work that established international recognition for Korean animation, proving that animated films could tackle mature, emotional themes beyond children's entertainment.",
       "created_at": "2026-03-02 23:45:59"
-    },
-    {
-      "title": "My Twentieth Century",
-      "year": 1989,
-      "medium": "Film",
-      "creator": "Ildik\u00f3 Enyedi",
-      "raw_score": 6.51,
-      "total_ratings": 47,
-      "origin": "Hungary",
-      "mood": "Surreal",
-      "sub_genres": "Science-Fantasy",
-      "topics": "Identity, Time Travel, Exploration",
-      "image_filename": null,
-      "pitch": "In Budapest, 1880, two twin sisters are born at the exact moment Thomas Edison presents his electric lightbulb to the world. Orphaned and separated in childhood, they grow up on opposite poles of society\u2014one becomes a na\u00efve, bomb-toting anarchist, the other a pampered courtesan. Their paths cross once again on the Orient Express on New Year's Eve 1900, in this mind-bending meditation on identity, choice, and the paths our lives might have taken.\n\nIldik\u00f3 Enyedi's debut feature is a haunting, erotic fantasy that treats time as fluid and identity as fragmented. The film won the Golden Camera at Cannes and was Hungary's submission for the Academy Awards. Its dreamy, non-linear structure anticipates everything from cloud Atlas to Dark, rendered in sumptuous period production design and a hypnotic score.",
-      "truth": "The film opens in 1880 Budapest, where twin sisters D\u00f3ra and Lili are born at the precise moment Edison unveils his lightbulb. Their mother dies in childbirth, and the orphaned twins survive by selling matches. One night, two strangers flip a coin and each takes a girl, separating them forever.\n\nTwenty years later, on the Orient Express on New Year's Eve 1900, the twins cross paths again. D\u00f3ra, now a drifter and petty con artist, is aboard the train trying to scam passengers. Lili, now a revolutionary anarchist carrying a bomb to assassinate the minister of the interior, is also aboard. They glimpse each other but don't recognize their twin.\n\nAt a library, Lili meets Z, a man who becomes obsessed with her. Meanwhile, Z later encounters D\u00f3ra on a ship, mistakes her for Lili, and they have a passionate encounter. When Z and Lili meet again, he takes her to his apartment, and they also sleep together\u2014each believing the other is someone else.\n\nThe climax comes when Lili attempts to assassinate the minister with her bomb but cannot go through with it after looking into his eyes. She flees to a funhouse, where she finally encounters D\u00f3ra face to face. Z arrives and briefly sees both twins together before they escape. The film ends with the suggestion that these parallel lives might have been one.",
-      "core": "My Twentieth Century is a meditation on the Contingency of identity. If we had been born to different parents, raised in different circumstances, would we still be \"us\"? Enyedi poses this question through her twin protagonists\u2014one choosing revolution, the other pleasure\u2014but both haunted by the sense that their lives are incomplete, that some other version of themselves exists elsewhere.\n\nThe film also functions as an allegory for Central Europe's turbulent 20th century, compressed into one night on the Orient Express. The anarchist carries a bomb; the courtesan carries secrets. Neither gets what they want. The choices we make in one moment calcify into the lives we live forever\u2014and there's no going back.\n\nVisually, Enyedi employs a dreamlike palette and deliberate pacing that rewards patient viewing. The film demands multiple viewings to fully grasp its layers.",
-      "created_at": "2026-06-12 14:47:58"
     },
     {
       "title": "Mysterious Island",
@@ -7859,7 +7842,7 @@
       "year": 1974,
       "medium": "Film",
       "creator": "Toshio Masuda",
-      "raw_score": 5.91,
+      "raw_score": 2.955,
       "total_ratings": 16,
       "origin": "Japan",
       "mood": "Pessimistic",
@@ -10273,7 +10256,7 @@
       "year": 1911,
       "medium": "Film",
       "creator": "Walter R. Booth",
-      "raw_score": 6.17,
+      "raw_score": 3.085,
       "total_ratings": 12,
       "origin": "UK",
       "mood": "Optimistic",
@@ -13707,7 +13690,7 @@
       "year": 1979,
       "medium": "Film",
       "creator": "",
-      "raw_score": 5.87,
+      "raw_score": 2.935,
       "total_ratings": 19,
       "origin": "Czechoslovakia",
       "mood": "Satirical",
@@ -14502,23 +14485,6 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
-      "title": "The Word for World is Forest (1976)",
-      "year": 1976,
-      "medium": "Novella",
-      "creator": "Ursula K. Le Guin",
-      "raw_score": 4.0,
-      "total_ratings": 500,
-      "origin": null,
-      "mood": null,
-      "sub_genres": null,
-      "topics": null,
-      "image_filename": "The_Word_for_World_is_Forest_1976.jpg",
-      "pitch": "(Non-Spoiler Breakdown)\n\nOn the forest world of Athshe, a peaceful civilization of small, gentle humans has lived in harmony with their environment for millennia. When Earth colonists arrive to exploit the planet's valuable timber resources, they bring with them brutal technology and an assumption of superiority. The Athsheans' word for \"world\" is \"forest\"\u2014they cannot conceive of existence without the green world that sustains them. But the colonists see only profit, and they begin clear-cutting the sacred woods with no regard for the ecological or spiritual devastation left in their wake.\n\nWhat begins as exploitation escalates into massacre when the colonists' leader, a man called the Captain, orders the systematic destruction of Athshean villages after a failed rebellion. But the Athsheans possess a secret weapon: their dreams are shared, their consciousness collective, and their capacity for violence\u2014once awakened\u2014cannot be easily contained. This is a brutal meditation on how the oppressed become the oppressor, and how violence begets violence in an endless cycle.",
-      "truth": "(Full Story Breakdown)\n\nThe novella is set on Athshe, a planet where the indigenous humanoid population has developed a unique culture centered on their forest environment. For the Athsheans, the forest is not merely home\u2014it is the source of their spirituality, their identity, and their very language. Their word for \"world\" and \"forest\" is the same. They are a gentle people who resolve conflict through shared dreaming and have no concept of war.\n\nEarth, in Le Guin's future, is overpopulated and desperate for resources. The Company sends colonists to Athshe to harvest the valuable timber that covers most of the planet. The colonists are a mix of desperate poor people and Company representatives, and they establish a small settlement surrounded by the endless forest.\n\nThe Captain, the leader of the colonists, is a brutal man who sees the Athsheans as subhuman\u2014mere \"creatures\" to be used and discarded. He takes several Athshean women as concubines, including a woman named Lyubov (who becomes the closest thing the story has to a protagonist among the colonists). The Athsheans tolerate this at first, believing their dreams will eventually show the colonists the error of their ways.\n\nBut the colonists escalate. They clear-cut vast swaths of forest to build their settlement and processing facilities. They shoot Athsheans who try to stop them. They destroy the sacred trees without remorse. The Athsheans' dreams become nightmares\u2014shared visions of destruction that spread through their collective consciousness.\n\nA young Athshean man named Selver attempts to reach out to the colonists peacefully. He learns their language, tries to explain the sacred nature of the forest, and even forms a brief, tentative friendship with one of the colonists. But the Captain responds by having Selver tortured and nearly killed. When Selver finally returns to his people, he brings with him the knowledge of human cruelty\u2014and the seeds of vengeance.\n\nThe revolution, when it comes, is swift and terrifying. The Athsheans use their understanding of the forest\u2014gained over millennia\u2014to wage guerrilla warfare against the colonists. They move silently through the trees, strike without warning, and vanish. They learned violence from the humans; now they use it with devastating effectiveness.\n\nBut Selver's wife, the Athshean woman who was taken by the Captain and who has been living among the colonists, has changed. She has learned to want things\u2014to desire, to compete, to hate. When she kills the Captain in his sleep, she does it not for revenge but because she has become human in the worst possible way.\n\nThe novella ends with the surviving colonists fleeing the planet, their dream of exploitation shattered. But the victory is hollow. The Athsheans have won, but they have lost their innocence\u2014their collective dream is now colored with violence, ambition, and blood. They have become what they despised.",
-      "core": "(Themes & Meaning)\n\nThe Word for World is Forest is one of Le Guin's most politically charged works, and it operates on multiple levels simultaneously. On the surface, it's a clear allegory for colonialism and the destruction of indigenous cultures\u2014the parallels to European colonization of the Americas, Africa, and Asia are explicit and intentional.\n\nBut Le Guin goes deeper. The core question the novella asks is: what does colonization cost the colonizer? The Captain and his men don't just exploit the Athsheans\u2014they are destroyed by the act of exploitation. Their humanity erodes with every tree felled, every Athshean killed. By the end, the colonists are as trapped in their violence as the Athsheans were trapped in their peaceful naivety.\n\nThe collective dream of the Athsheans is crucial to understanding the novel's vision. Their consciousness is shared, their experiences communal. This isn't just worldbuilding\u2014it's Le Guin's commentary on how isolated, individual human consciousness can lead to cruelty. The Athsheans lack the psychological distance that allows humans to dehumanize \"the other.\" When they finally do adopt human violence, it corrupts their entire collective consciousness.\n\nLe Guin also explores gender and power through the character of Lyubov and Selver's wife. Both women are caught between cultures, and both are transformed by their experiences. The Captain's treatment of Athshean women isn't just sexual exploitation\u2014it's the colonizer's impulse to possess and control extended to every aspect of the dominated culture.\n\nThe final irony is that the Athsheans' \"victory\" is also their defeat. They have saved their forest, but they have lost their souls. Violence, once introduced, cannot be easily expelled. The dreams that once showed only beauty now show blood. Le Guin offers no easy hope\u2014the cost of resistance is always paid in innocence.\n\nThis is essential reading for anyone interested in science fiction's capacity for political critique. Le Guin accomplishes in 150 pages what many novelists fail to achieve in entire novels: a seamless fusion of speculative premise, moral philosophy, and devastating storytelling.",
-      "created_at": "2026-02-28 13:24:41"
-    },
-    {
       "title": "The World Beyond",
       "year": 2024,
       "medium": "Manga",
@@ -15288,7 +15254,7 @@
       "year": 1991,
       "medium": "Film",
       "creator": "Unknown",
-      "raw_score": 5.5,
+      "raw_score": 2.75,
       "total_ratings": 10,
       "origin": "Soviet-Union",
       "mood": "Tense",
@@ -15913,5 +15879,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 936
+  "count": 934
 }
