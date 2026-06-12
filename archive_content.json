@@ -11765,6 +11765,23 @@
       "created_at": "2026-03-05 19:55:34"
     },
     {
+      "title": "The Flight of Mr. McKinley",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Mikhail Schweitzer",
+      "raw_score": 4.4,
+      "total_ratings": 12,
+      "origin": "Soviet-Union",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Time-Travel, Isolation, Technology",
+      "image_filename": "The_Flight_of_Mr._McKinley_1975.jpg",
+      "pitch": "In 1970s Soviet Union, a humble clerk named McKinley lives in a world haunted by the shadow of nuclear apocalypse. A shy, introspective man who longs for children but is paralyzed by his fear of global catastrophe, he becomes obsessed with a revolutionary technology: the salvatory \u2014 an underground facility where the wealthy and desperate can hibernated for centuries, waking up in a future that might be kinder than the present they fled.\n\nThis two-part Soviet science fiction film explores the human cost of escapism with quiet, melancholic intensity. McKinley's journey from curious observer to committed fugitive traces a path through Cold War anxieties about nuclear war, corporate commodification of hope, and the question of whether running away is ever truly a solution.",
+      "truth": "The film opens with McKinley (Donatas Banionis), a humble advertising clerk in Moscow, living in constant fear of nuclear war. He is infatuated with children but too anxious to start a family of his own. When he learns of the salvatories \u2014 commercial underground hibernation facilities operated by the SBS corporation \u2014 he becomes obsessed with escaping to a distant future.\n\nAt an SBS press conference, McKinley ingratiates himself with the company's management and gains access to one of their facilities. He is drawn deeper into the seductive promise of the salvatories: for a substantial fee, clients can hibernate in suspended animation for a century or more, awakening in what they hope will be a more peaceful world.\n\nMcKinley eventually commits a crime to secure his place in a salvatory. He is placed in hibernation and wakes up in a post-apocalyptic wasteland \u2014 the future he fled to is even worse than the present he tried to escape. The film ends with McKinley's despair at discovering that running from one's problems does not solve them.",
+      "core": "The Flight of Mr. McKinley is a haunting meditation on the Cold War psyche. It captures the particular anxiety of an era when ordinary people contemplated the end of civilization and wondered whether survival itself was worthwhile. The salvatories represent the ultimate expression of hopelessness \u2014 not survival, but escape; not living, but postponement.\n\nThe film's quiet pessimism anticipates later works like Russia's Metro 2033 and the broader post-apocalyptic genre. It asks an uncomfortable question: if the present is unbearable and the future is uncertain, what remains? McKinley's tragic awakening suggests that there is no running from the consequences of human choices.\n\nDonatas Banionis, better known as the star of Tarkovsky's Solaris, brings his characteristic melancholy to this lesser-known but equally haunting role.",
+      "created_at": "2026-06-12 20:13:16"
+    },
+    {
       "title": "The Forbidden Quest",
       "year": 1993,
       "medium": "Film",
@@ -16304,5 +16321,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 959
+  "count": 960
 }
