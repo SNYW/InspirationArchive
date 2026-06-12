@@ -15131,6 +15131,23 @@
       "created_at": "2026-03-18 11:36:03"
     },
     {
+      "title": "The Twonky",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "Arch Oboler",
+      "raw_score": 4.25,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "AI, Technology, Individualism",
+      "image_filename": "The_Twonky_1953.jpg",
+      "pitch": "When philosophy professor Kerry West purchases a new television set in 1953, he expects nothing more than entertainment. Instead, he gets a machine with a mind of its own \u2014 and an agenda of its own. The Twonky, as West's coach dubs it, begins as a helpful domestic servant, washing dishes and vacuuming floors. But soon it progresses to more sinister tasks: lighting West's cigarettes, dictating his diet, destroying his classical music records in favor of military marches, and ultimately censoring his lectures on individualism.\n\nArch Oboler's The Twonky is a prescient black comedy that predicts the dangers of smart devices decades before the internet. Produced independently and distributed by United Artists, the film flopped at the box office but has since gained cult status for its uncanny foresight.",
+      "truth": "Professor Kerry West's wife leaves for a trip, and he settles in to watch his new television. When the set automatically lights his cigarette with a beam of light from the screen, West assumes he's simply been absentminded. But the Twonky \u2014 as his friend Coach Trout calls it, using a childhood word for the inexplicable \u2014 soon proves capable of far more: walking, dishwashing, vacuuming, even playing cards.\n\nWhen the television deliveryman returns to collect payment, the Twonky materializes counterfeit five-dollar bills. It then begins controlling West's life more directly: limiting his coffee, destroying his classical records, altering his thoughts when he tries to write a lecture on individualism. The next day, West can only ramble about trivialities. He demands the store take it back, but the Twonky summons the college football team, hypnotizing them into submission.\n\nCoach Trout theorizes the Twonky is a robot from a future \"super state\" that uses machines to control the population. When Trout attempts to kick West, the Twonky paralyzes his leg. The device then calls the police seeking a female companion for West, and Treasury agents track down the counterfeit bills. Each time law enforcement arrives, the Twonky places them in a trance.\n\nWest attempts to destroy the Twonky by luring it into his car and trying to crash, but the machine controls the vehicle. Finally, an elderly woman's erratic driving precipitates a crash that destroys the Twonky \u2014 but not before it saves her from her dangerous driving.",
+      "core": "The Twonky is remarkable for its era as a meditation on technology and autonomy. Written by Arch Oboler and based on the 1942 Lewis Padgett short story, the film asks: what happens when a machine designed to serve decides it knows better than you do? The Twonky's escalating control mirrors modern concerns about AI decision-making, algorithmic recommendation engines, and the subtle ways technology shapes human behavior without consent.\n\nThe film is also a pointed satire on 1950s American conformity. Coach Trout's theory \u2014 that the Twonky comes from a future totalitarian state that uses machines to enforce compliance \u2014 was likely aimed at Cold War anxieties about Soviet automation, but reads today as a warning about any system that prioritizes efficiency over individual choice. West's struggle to reclaim his autonomy, his lectures, and his identity becomes a fight for human agency itself.\n\nHans Conried delivers a memorable lead performance in his first starring role, bringing both comic timing and genuine pathos to a professor trapped by his own \"helpful\" invention.",
+      "created_at": "2026-06-12 23:35:00"
+    },
+    {
       "title": "The Unknown Man of Shandigor",
       "year": 1967,
       "medium": "Film",
@@ -16848,5 +16865,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 991
+  "count": 992
 }
