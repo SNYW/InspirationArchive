@@ -14213,6 +14213,23 @@
       "created_at": "2026-03-19 10:38:34"
     },
     {
+      "title": "The Secret of the Secret Weapon",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "unknown",
+      "raw_score": 6.8,
+      "total_ratings": 10,
+      "origin": "Romania",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Allegory, Politics, Fairy Tale",
+      "image_filename": "475039.jpg",
+      "pitch": "This 1988 Romanian sci-fi fairy-tale presents an allegorical battle between peaceful and warlike knights competing for the hand of a beautiful princess. Set in a fantastical kingdom, the film uses the medieval knight narrative as a vehicle for social commentary, featuring surprisingly modern discussions about disco music woven throughout the allegorical framework. The\u516c\u4e3b must choose between warriors who favor peace versus those who prefer constant armament, with her father and royal advisors pushing for military strength.",
+      "truth": "In a medieval kingdom, a beautiful princess must choose a husband from among competing knights. Two factions emerge: peaceful knights who advocate for harmony and diplomatic solutions, and warlike knights who insist that strength through arms is the only path to security. The princess favors a peaceful knight, while her father and royal advisors strongly prefer the warrior faction. Around this central competition, unusual conversations about disco music and modern cultural phenomena emerge, creating a surreal blend of fairy-tale conventions and contemporary social commentary. The allegorical framework allows the film to comment on political divisions and the choice between peaceful coexistence versus military aggression.",
+      "core": "This Romanian film represents a unique entry in Eastern European sci-fi, using the fairy-tale genre to deliver political allegory. The blend of medieval knight narratives with modern cultural references like disco creates an unusual tone that distinguishes it from conventional socialist realism or typical fantasy films. The film's message about choosing peace over militarism while wrapped in fairy-tale packaging reflects concerns relevant to the late Communist era. The minimal vote count (10) confirms its obscurity, making it a rare example of Romanian genre filmmaking from the 1980s.",
+      "created_at": "2026-06-12 21:12:48"
+    },
+    {
       "title": "The Secret of the Telegian",
       "year": 1960,
       "medium": "Film",
@@ -16474,5 +16491,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 969
+  "count": 970
 }
