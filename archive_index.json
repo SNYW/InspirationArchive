@@ -10771,6 +10771,21 @@
       "created_at": "2026-02-28 10:16:45"
     },
     {
+      "title": "The Hyperboloid of Engineer Garin",
+      "year": 1965,
+      "medium": "Film",
+      "creator": "Aleksandr Gerasimov",
+      "raw_score": 2.45,
+      "total_ratings": 18,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Technology, Robots, Megacorps",
+      "image_filename": "The_Hyperboloid_of_Engineer_Garin_1965.jpg",
+      "pitch": "In Soviet Russia, 1965, a brilliant engineer named Petr Garin possesses a devastating weapon\u2014a beam-shooting device called the hyperboloid that can destroy any target at any distance. While authorities search for a missing scientist, Garin plots to use his invention to achieve world domination, offering it to the highest bidder. Only Vasily Shelga, a former colleague, stands between Garin and global chaos.\n\nThis Soviet science fiction film adapts Aleksey Tolstoy's 1927 novel, blending Cold War paranoia with early cinematic\u7279\u6548. The hyperboloid\u2014a \"death ray\" device decades before real lasers\u2014represents both the promise and peril of technology in the wrong hands. Director Aleksandr Gerasimov delivers a tense cat-and-mouse thriller that feels strikingly modern despite its vintage Soviet production.",
+      "created_at": "2026-06-12 20:42:46"
+    },
+    {
       "title": "The Impossible Voyage",
       "year": 1904,
       "medium": "Film",
@@ -14446,5 +14461,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 963
+  "count": 964
 }
