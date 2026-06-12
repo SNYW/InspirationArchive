@@ -7606,6 +7606,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Running Against Time",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Bruce Seth Green",
+      "raw_score": 3.1,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Vietnam War, History",
+      "image_filename": "Running_Against_Time_1990.jpg",
+      "pitch": "A time-traveling professor races against the clock in this obscure 1990 sci-fi TV movie. David Rhodes, a college history professor, is haunted by his older brother Chris's death in Vietnam in 1966. When his girlfriend Laura interviews an eccentric physics professor about revolutionary time travel theories, David discovers a way to travel back to the 1960s. He embarks on a desperate mission: prevent his brother's death and stop the assassination of President John F. Kennedy.\n\nBut trapped in a time warp with no way back to his present, David finds himself unable to effect any change. The film explores the paradoxes of time travel and the weight of history itself.",
+      "created_at": "2026-06-12 20:33:11"
+    },
+    {
       "title": "Running Delilah",
       "year": 1994,
       "medium": "Film",
@@ -14431,5 +14446,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 962
+  "count": 963
 }

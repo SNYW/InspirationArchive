@@ -8620,6 +8620,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Running Against Time",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Bruce Seth Green",
+      "raw_score": 3.1,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Vietnam War, History",
+      "image_filename": "Running_Against_Time_1990.jpg",
+      "pitch": "A time-traveling professor races against the clock in this obscure 1990 sci-fi TV movie. David Rhodes, a college history professor, is haunted by his older brother Chris's death in Vietnam in 1966. When his girlfriend Laura interviews an eccentric physics professor about revolutionary time travel theories, David discovers a way to travel back to the 1960s. He embarks on a desperate mission: prevent his brother's death and stop the assassination of President John F. Kennedy.\n\nBut trapped in a time warp with no way back to his present, David finds himself unable to effect any change. The film explores the paradoxes of time travel and the weight of history itself.",
+      "truth": "David Rhodes is a history professor obsessed with his brother's death in Vietnam. His girlfriend Laura interviews eccentric physics professor Dr. Koopman, whose time travel theories give David hope. Using Dr. Koopman's equipment, David travels back to 1963, arriving just before JFK's assassination.\n\nHowever, David finds himself trapped in the past, unable to return to his present time. Each attempt to change history seems to create new problems. The film follows David's struggle to find a way back while grappling with the impossibility of altering events that have already happened. The resolution involves accepting the unchangeable nature of certain historical events.",
+      "core": "Running Against Time is a modest but thoughtful entry in the time travel genre, made for TV in the pre-Stargate era of alternate history storytelling. Based on Stanley Shapiro's novel \"A Time to Remember,\" it tackles the same themes as more famous works like \"The Man Who Never Was\" but in a lower-key, more personal way.\n\nThe film asks whether some events are truly fixed points in time that cannot be altered, and what it means to live with historical trauma. Its focus on the JFK assassination gives it a particular period flavor - this was made while the event was still within living memory and the wounds of Vietnam were fresher.",
+      "created_at": "2026-06-12 20:33:11"
+    },
+    {
       "title": "Running Delilah",
       "year": 1994,
       "medium": "Film",
@@ -16355,5 +16372,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 962
+  "count": 963
 }
