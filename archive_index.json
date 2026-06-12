@@ -9451,6 +9451,21 @@
       "created_at": "2026-03-18 09:51:52"
     },
     {
+      "title": "The Black Bomber",
+      "year": 1992,
+      "medium": "Film",
+      "creator": "Darko Baji\u0107",
+      "raw_score": 6.43,
+      "total_ratings": 27,
+      "origin": "Serbia",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism, Propaganda, Revolution, Media",
+      "image_filename": "The_Black_Bomber_1992.jpg",
+      "pitch": "In near-future Belgrade (1999), an authoritarian regime has tightened its grip on the city. Radio host Crni broadcasts anti-establishment messages on underground station Boom 92 \u2014 until authorities shut it down as subversive. Refusing silence, he transforms his pickup truck into a roving broadcast studio, The Black Bomber, continuing his pirate broadcasts from the streets while evading police.\n\nThe film captures the tension of early 1990s Serbia during the Yugoslav Wars, when independent media faced suppression. It's a gritty political thriller about one man's refusal to be silenced.",
+      "created_at": "2026-06-12 21:28:14"
+    },
+    {
       "title": "The Black Cloud",
       "year": 1957,
       "medium": "Novel",
@@ -14581,5 +14596,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 972
+  "count": 973
 }
