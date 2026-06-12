@@ -653,7 +653,7 @@ function loadMedia() {
     const fl = media.filter(m => { 
         if(mf !== 'all') {
             if (mf === 'Novel') {
-                if (!m.medium.includes('Novel') || m.medium.includes('Graphic') || m.medium.includes('Visual')) return false;
+                if (m.medium !== 'Novel' && m.medium !== 'Novella') return false;
             } else {
                 if (!m.medium.includes(mf)) return false; 
             }
