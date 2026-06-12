@@ -5176,6 +5176,21 @@
       "created_at": "2026-03-03 20:46:40"
     },
     {
+      "title": "LFO",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Antonio Tubl\u00e9n",
+      "raw_score": 6.21,
+      "total_ratings": 31,
+      "origin": "Sweden",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Mental Health",
+      "image_filename": "LFO_2013.jpg",
+      "pitch": "In the basement of an ordinary Swedish apartment building, Robert Nord spends his nights experimenting with sound frequencies on his synthesizer. When a heated argument with his wife Clara leads to a breakthrough discovery\u2014that certain sound waves can hypnotize the human mind\u2014Robert begins testing his power on his new neighbors. What begins as harmless curiosity spirals into something far darker: a man who has lost his family and sanity, seeking to recreate the family he destroyed through mind control.\n\nLFO (Low Frequency Oscillation) is a 2013 Swedish-Danish science fiction film that explores the dark psychology of obsession and power. The film premiered at Fantastic Fest and went on to win multiple festival awards, praised for its unsettling exploration of the \"mad scientist\" trope and its sharp commentary on manipulation.",
+      "created_at": "2026-06-12 21:37:28"
+    },
+    {
       "title": "La Charcuterie m\u00e9canique",
       "year": 1895,
       "medium": "Film",
@@ -14596,5 +14611,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 973
+  "count": 974
 }

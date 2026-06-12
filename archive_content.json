@@ -5866,6 +5866,23 @@
       "created_at": "2026-03-03 20:46:40"
     },
     {
+      "title": "LFO",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Antonio Tubl\u00e9n",
+      "raw_score": 6.21,
+      "total_ratings": 31,
+      "origin": "Sweden",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Mental Health",
+      "image_filename": "LFO_2013.jpg",
+      "pitch": "In the basement of an ordinary Swedish apartment building, Robert Nord spends his nights experimenting with sound frequencies on his synthesizer. When a heated argument with his wife Clara leads to a breakthrough discovery\u2014that certain sound waves can hypnotize the human mind\u2014Robert begins testing his power on his new neighbors. What begins as harmless curiosity spirals into something far darker: a man who has lost his family and sanity, seeking to recreate the family he destroyed through mind control.\n\nLFO (Low Frequency Oscillation) is a 2013 Swedish-Danish science fiction film that explores the dark psychology of obsession and power. The film premiered at Fantastic Fest and went on to win multiple festival awards, praised for its unsettling exploration of the \"mad scientist\" trope and its sharp commentary on manipulation.",
+      "truth": "Robert Nord is an awkward, socially isolated man who spends most of his time in his basement playing with synthesizers. After an argument with his wife Clara\u2014who he suspects is unfaithling\u2014he discovers he can create a hypnotic frequency that gives him control over people's minds.\n\nWhen new neighbors Simon and Linn move in next door, Robert sees an opportunity. He invites them over and tests his frequency on them, commanding Simon to perform menial tasks and Linn to have sex with him. His wife Clara is revealed to be a hallucination\u2014she and their son Sebastian died when Robert himself sabotaged the family car. Despite knowing this, Robert forces Simon and Linn to become his surrogate family.\n\nAfter weeks of captivity, the police investigate the missing neighbors. Robert hypnotizes them into leaving. Unsatisfied with his fake family, he eventually releases Simon and Linn but continues to manipulate them. When Linn discovers Simon cheating, Robert hypnotizes them into accepting him as a marriage counselor\u2014and forces Linn to have sex with him again while Simon watches.\n\nAs Robert's power grows, he expands his experiment to the world. He rises to power as ruler of Earth, implementing sweeping changes. But his message becomes increasingly antihumanist\u2014until he commands all of humanity to commit mass suicide.",
+      "core": "LFO is a disturbing meditation on grief, guilt, and the corruption that comes from unchecked power. Robert is not a traditional villain\u2014he is a broken man who cannot accept his own actions, so he recreates reality to suit his needs. The film asks: what happens when someone with power over others has no power over their own past?\n\nThe use of sound as a weapon is both metaphor and literal device\u2014sound being the sense we cannot turn off, unlike sight. Robert's frequency is the ultimate invasion of privacy, bypassing consent entirely.\n\nThematically, the film explores isolation and how technology can amplify existing psychological states. Robert was already disconnected from reality before his discovery; the frequency simply gave him the tools to enforce that disconnection on everyone else.\n\nThe film's Swedish setting adds to its atmosphere\u2014a reserved, orderly society where such horror can fester beneath the surface. The cold, precise cinematography mirrors Robert's own detachment from morality.",
+      "created_at": "2026-06-12 21:37:28"
+    },
+    {
       "title": "La Charcuterie m\u00e9canique",
       "year": 1895,
       "medium": "Film",
@@ -16542,5 +16559,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 973
+  "count": 974
 }
