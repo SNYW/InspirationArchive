@@ -11416,6 +11416,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Octopuses from the Second Floor",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.3,
+      "total_ratings": 14,
+      "origin": "Czechoslovakia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Ecology, Children",
+      "image_filename": "The_Octopuses_from_the_Second_Floor_1987.jpg",
+      "pitch": "In this charming Czechoslovak children's sci-fi film from 1987, young siblings Eva and Johnny are stuck on vacation with their bickering parents at a polluted lakeside resort. During a swim, they discover something extraordinary in the murky water: two friendly, sentient octopuses unlike any creature on Earth. These strange beings are made of an unusual material that attracts electricity, giving them unusual abilities. The children take the octopuses as pets, hiding them from their parents and the authorities. The film is a sweet, inventive tale of childhood imagination confronting environmental anxiety \u2014 the octopuses literally embody the pollution of the lake they inhabit. It's a lesser-known gem of Eastern Bloc children's cinema, blending fantasy with an ecological message decades before it became mainstream.",
+      "created_at": "2026-06-12 15:22:50"
+    },
+    {
       "title": "The Ogre of Athens",
       "year": 1956,
       "medium": "Film",
@@ -13786,5 +13801,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 919
+  "count": 920
 }

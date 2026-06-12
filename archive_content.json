@@ -12938,6 +12938,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Octopuses from the Second Floor",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.3,
+      "total_ratings": 14,
+      "origin": "Czechoslovakia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Ecology, Children",
+      "image_filename": "The_Octopuses_from_the_Second_Floor_1987.jpg",
+      "pitch": "In this charming Czechoslovak children's sci-fi film from 1987, young siblings Eva and Johnny are stuck on vacation with their bickering parents at a polluted lakeside resort. During a swim, they discover something extraordinary in the murky water: two friendly, sentient octopuses unlike any creature on Earth. These strange beings are made of an unusual material that attracts electricity, giving them unusual abilities. The children take the octopuses as pets, hiding them from their parents and the authorities. The film is a sweet, inventive tale of childhood imagination confronting environmental anxiety \u2014 the octopuses literally embody the pollution of the lake they inhabit. It's a lesser-known gem of Eastern Bloc children's cinema, blending fantasy with an ecological message decades before it became mainstream.",
+      "truth": "The film opens with the Kessler family arriving at a lakeside vacation spot. Parents Josef and Marta spend their time arguing, leaving children Eva and Johnny to explore on their own. While swimming in the polluted lake, Johnny spots something unusual in the murky water \u2014 two small creatures with multiple tentacles, glowing faintly. Despite the water's contamination, these octopuses are alive and intelligent. The children befriend them and name the larger one Octy and the smaller oneinky.\n\nThe octopuses possess an extraordinary property: their bodies attract and conduct electricity. This allows them to glow in the dark and even power small appliances. The children keep their new pets hidden in a shed, care for them, and teach them tricks. Their father works on a car radio, and the octopuses accidentally help fix it by absorbing static electricity.\n\nMeanwhile, a local scientist Dr. Horacek becomes suspicious of the children's activities and investigates. He discovers the octopuses and realizes they represent a new form of life, possibly evolved from the polluted lake's ecosystem. Rather than expose the children, he helps them understand the creatures need to return to their natural habitat.\n\nThe film ends with the family leaving the resort. Eva and Johnny reluctantly release the octopuses back into the lake, promising to visit them again. The parents, unaware of what their children experienced, continue their bickering \u2014 but the children share a secret that transforms their summer from dull to unforgettable.",
+      "core": "The Octopuses from the Second Floor is a fascinating artifact of late Communist-era Czechoslovak cinema. It combines the traditional children's film format \u2014 adventurous kids, mysterious discoveries \u2014 with an unexpected ecological consciousness. The octopuses are literal manifestations of environmental pollution, yet they're portrayed as friendly and lovable, not as monsters. This contradiction reflects a sophisticated approach to ecological messaging: pollution creates new life even as it destroys old.\n\nThe film's low-tech approach to special effects gives it an innocent charm absent from modern CGI-laden children's films. The octopuses, likely practical puppets, have a tangible quality that grounds the fantasy. The 1987 setting places it firmly in the tail end of the Cold War, when Eastern Bloc children's cinema was producing distinctive, non-commercial work outside Hollywood's influence.\n\nThematically, the film explores childhood agency against adult authority. The children keep secrets from their parents not out of rebellion but out of a desire to protect their discoveries. The bickering parents represent a world of adult concerns that children must navigate around to find wonder. This structure is universal to children's cinema but gets a particular spin in the Czechoslovak context, where the resort itself feels like a state-run facility and the children's escape into nature becomes both personal and political.",
+      "created_at": "2026-06-12 15:22:50"
+    },
+    {
       "title": "The Ogre of Athens",
       "year": 1956,
       "medium": "Film",
@@ -15624,5 +15641,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 919
+  "count": 920
 }
