@@ -6529,6 +6529,23 @@
       "created_at": "2026-03-02 16:57:36"
     },
     {
+      "title": "Meatball Machine",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Y\u016bdai Yamaguchi, Jun'ichi Yamamoto",
+      "raw_score": 5.31,
+      "total_ratings": 86,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Biopunk",
+      "topics": "Cybernetics, Transhumanism, Isolation, Love, Survival",
+      "image_filename": "Meatball_Machine_2005.jpg",
+      "pitch": "A lonely factory worker discovers an alien parasite that transforms his crush into a bio-mechanical monster \u2014 and soon discovers he harbors the same creature inside him. In this extreme Japanese body horror film, parasitic alien organisms take over human bodies, converting flesh into deadly weapons for brutal turf wars between NecroBorgs.\n\nMeatball Machine is a gorier, more visceral cousin to Tsukamoto's Tetsuo: The Iron Man, directed by Y\u016bdai Yamaguchi (Tokyo Gore Police) with special effects by Yoshihiro Nishimura (The Machine Girl). The film serves up over-the-top practical effects, splatter violence, and a surprisingly sweet undercurrent about two isolated people who can finally connect \u2014 after becoming monsters.\n\nThe 70-minute version was originally released in 1999, then re-edited into a 90-minute theatrical cut in 2005. Both versions deliver the same wild premise: alien parasites invade Earth, take human hosts, and turn them into weapon-wielding killing machines. But it's the human drama beneath all the gore that elevates this beyond mere splatter flick.",
+      "truth": "Y\u014dji is a shy, isolated factory worker who spends his days silently pining for his co-worker Sachiko but lacks the courage to confess. One night, after being assaulted by a crossdresser in a theater, Y\u014dji discovers what appears to be an alien insect creature and hides it in his apartment.\n\nThe next evening, Y\u014dji witnesses Sachiko being sexually attacked by a coworker named Tanaka. He tries to help her but is brutally beaten. Sachiko feels sorry for him and accompanies him back to his apartment. During an intimate moment, the alien parasite emerges and penetrates Sachiko, transforming her into a NecroBorg \u2014 a bio-mechanical monster whose body generates deadly weapons from her own flesh.\n\nSoon after, Y\u014dji becomes infected as well. The parasites inside both hosts force them to fight other NecroBorgs who have emerged across the city. A parallel subplot involves a grieving scientist father whose daughter has also been infected, and he vows to destroy all the NecroBorgs.\n\nThe film builds to an emotional climax: Y\u014dji and Sachiko, now both transformed into NecroBorgs, are forced to battle each other to the death. Despite their feelings for each other, the parasites controlling their bodies leave no choice. The film ends ambiguously \u2014 one version has them destroyed, another suggests they may have broken free from the parasites' control.",
+      "core": "Meatball Machine explores the dark side of human isolation and the desperate need for connection. Y\u014dji and Sachiko are two lonely people who cannot express their feelings in normal human society \u2014 they only find each other after becoming something other than human. The transformation into NecroBorgs is both curse and twisted liberation: they finally have power and presence, but lose their humanity.\n\nThe film is a commentary on alienation in modern society \u2014 the creatures represent the extreme we become when unable to connect with others. The body horror serves as literal manifestation of emotional isolation turned biological. The parasites represent the external forces (loneliness, despair, desire) that take over our lives when we can't break through our own barriers.\n\nCritics have compared it unfavorably to Tetsuo: The Iron Man, calling it a \"resume reel\" for effects work. But fans appreciate it as a cult classic of the Japanese splatter scene \u2014 a gorier, more fun take on body horror that doesn't take itself entirely seriously. The practical effects, particularly the NecroBorg designs by Yoshihiro Nishimura, are genuinely creative and disturbing.",
+      "created_at": "2026-06-12 22:05:22"
+    },
+    {
       "title": "Megazone 23",
       "year": 1985,
       "medium": "Anime",
@@ -16610,5 +16627,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 977
+  "count": 978
 }
