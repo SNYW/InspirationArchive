@@ -4681,6 +4681,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Invisible Adversaries",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "Valie Export",
+      "raw_score": 6.73,
+      "total_ratings": 11,
+      "origin": "Austria",
+      "mood": "Surreal",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Identity, Gender, Aliens",
+      "image_filename": "invisible_adversaries_1977.jpg",
+      "pitch": "Invisible Adversaries is a 1977 Austrian experimental feature film that serves as a feminist reimagining of the body-snatcher genre. Directed by Valie Export in her debut feature, the film follows Anna, a fashion photographer in contemporary Vienna, who begins to suspect that extraterrestrial beings are colonizing the minds of her fellow citizens, raising their aggression quotient and threatening to replace human consciousness entirely.\n\nThe film is a visually striking work that blends narrative experimentation with theory, combining elements of Cubism, Surrealism, Dada, and avant-garde cinema. Export uses mirrors, still photography, video, dance, and films-within-the-film to create what critics have called \"one of the richest avant-garde features of the 1970s.\" The result is both a personal exploration of female identity and a chilling examination of how external forces\u2014media, politics, technology\u2014can colonize the inner self.\n\nThis is essential viewing for fans of experimental cinema and feminist theory, offering a female perspective on the alien-invasion narrative that predates similar works by decades. Its winning combination of sexual frankness and visual wit makes it a landmark of Austrian cinema and a crucial text in the history of women's filmmaking.",
+      "created_at": "2026-06-12 20:05:25"
+    },
+    {
       "title": "Iria: Zeiram the Animation",
       "year": 1994,
       "medium": "OVA",
@@ -14371,5 +14386,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 958
+  "count": 959
 }
