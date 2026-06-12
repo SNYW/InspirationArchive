@@ -6971,6 +6971,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Monster from the Ocean Floor",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Wyott Ordung",
+      "raw_score": 1.89,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror,Science-Fantasy",
+      "topics": "Aliens,Survival",
+      "image_filename": "Monster_from_the_Ocean_Floor_1954.jpg",
+      "pitch": "A 1954 American science fiction monster film that marks the directorial debut of Wyott Ordung and the first film produced by a young Roger Corman. The story follows Julie Blair, an American artist vacationing at a seaside village in Mexico, who investigates rumors of a man-eating sea monster dwelling in the cove. She teams up with skeptical marine biologist Steve Dunning, and together they discover a giant amoeba terrorizing the coastline. With limited resources but plenty of determination, Julie obtains a tissue sample from the creature, leading to an underwater battle in a one-man submarine.",
+      "truth": "Julie Blair is an American artist enjoying a vacation at a coastal village in Mexico. She hears local stories about a mysterious man-eating creature living in the cove. She meets Steve Dunning, a marine biologist conducting research in the area, and they become romantically involved. Julie investigates the rumors of sea monster attacks and unexplained disappearances, but Dunning remains skeptical. When a diver is found dead, Julie takes action. She spots a massive amoeba rising from the ocean and manages to secure a tissue sample from the creature. Confronted with undeniable proof, Dunning pilots a one-man submarine to attack and destroy the monster. The film features early appearances from Jonathan Haze and a young Roger Corman himself in minor roles.",
+      "core": "This modest B-movie is notable as Roger Corman's first produced film, launching a career that would redefine American independent cinema. Despite its tiny budget\u2014reportedly $12,000-$15,000\u2014and familiar creature-at-large premise, the film is noteworthy for its capable female protagonist who drives the investigation and saves the day. The picture represents the birth of Corman's penny-pinching production philosophy: maximum impact with minimum resources. It also established relationships that would lead to the creation of American International Pictures, which dominated teen-oriented sci-fi and horror films through the 1950s and 60s.",
+      "created_at": "2026-06-12 23:37:21"
+    },
+    {
       "title": "Morel's Invention",
       "year": 1974,
       "medium": "Film",
@@ -16865,5 +16882,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 992
+  "count": 993
 }
