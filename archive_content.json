@@ -3945,6 +3945,23 @@
       "created_at": "2026-05-24 14:36:11"
     },
     {
+      "title": "Ferat Vampire",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Juraj Herz",
+      "raw_score": 53.0,
+      "total_ratings": 39,
+      "origin": "Czechoslovakia",
+      "mood": "Eerie",
+      "sub_genres": "Horror,Science-Fantasy",
+      "topics": "Technology,Consumption,Corruption",
+      "image_filename": "Ferat_Vampire_1982.jpg",
+      "pitch": "In this Czechoslovak horror-sci-fi hybrid, a doctor named Marek is horrified to discover that his nurse Mima has signed a contract with the mysterious foreign car manufacturer Ferat to become a rally driver. Rumors begin to circulate that the Ferat sports car\u2014painted an eerie white and impossibly fast\u2014does not run on petrol, but on human blood. As Mima races to victory after victory, driving the uncanny vehicle, Dr. Marek becomes obsessed with proving the truth behind the blood-soaked engine.\n\nDirected by Juraj Herz, a master of Czechoslovak gothic cinema, the film blends industrial horror with dark satire. The car itself\u2014a prototype \u0160koda 110 Super Sport that never entered production\u2014becomes a character unto itself, sleek and predatory, its engine whining like something alive and starving.",
+      "truth": "Dr. Marek works at a hospital alongside his girlfriend Mima, a talented nurse and occasional rally driver. When Mima signs a contract with the foreign car company Ferat to become their factory rally driver, her colleagues are shocked\u2014foreign contracts were rare in communist Czechoslovakia. Almost immediately, rumors begin to circulate: the Ferat car doesn't run on gasoline, but on blood.\n\nDr. Marek becomes obsessed with proving this theory. He visits a scientist friend, Dr. Kaplan, who confirms the car's fuel consumption is impossible\u2014it burns far more than any engine should. Kaplan hypothesizes the car runs on some unknown fuel, perhaps organic. Mima wins race after race, but she begins to change, becoming cold and distant. Her colleague Luisa disappears.\n\nMarek and another colleague K\u0159\u00ed\u017e investigate the Ferat factory, discovering hidden rooms and what appears to be a blood transfusion system in the car's fuel lines. They realize the car literally consumes human blood to achieve its incredible performance. Mima has been unknowingly fueling the car with the lives of others\u2014and perhaps her own.\n\nIn the climax, Mima crashes the car during a race. She survives but is revealed to be the final component\u2014the car was designed to eventually consume its driver. Marek arrives to save her, and the car explodes. Mima survives but is forever changed by the experience.",
+      "core": "Ferat Vampire works on multiple levels: as a literal horror film about a blood-drinking car, and as a satirical commentary on consumerism, foreign exploitation, and the communist-era fascination with Western products. The car represents the seductive but dangerous lure of Western capitalism\u2014promising speed, success, and glory, but demanding a terrible price in return.\n\nHerz, drawing on the story by Josef Nesvadba, creates a unique hybrid of gothic horror and science fiction. The film's most memorable element is the car itself\u2014a real \u0160koda prototype that became legendary through the film, now preserved and occasionally displayed at automotive events. The film's blend of industrial anxiety, romantic betrayal, and supernatural horror makes it a singular work in the Czechoslovak canon.",
+      "created_at": "2026-06-12 18:22:27"
+    },
+    {
       "title": "Filibus",
       "year": 1915,
       "medium": "Film",
@@ -16032,5 +16049,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 943
+  "count": 944
 }
