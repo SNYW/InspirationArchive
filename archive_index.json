@@ -2716,6 +2716,21 @@
       "created_at": "2026-03-06 01:12:21"
     },
     {
+      "title": "Detonator Orgun",
+      "year": 1991,
+      "medium": "OVA",
+      "creator": "Masami \u014cbari",
+      "raw_score": 3.2,
+      "total_ratings": 3051,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Transhumanism, VR, Aliens, Space Travel",
+      "image_filename": "Detonator_Orgun_1991.jpg",
+      "pitch": "Detonator Orgun is a 1991 Japanese OVA that follows college student Tomoru Shindo, who begins receiving strange signals through a sleep-enhancing device. Each night, the dreams grow more vivid, centering on a mysterious alien warrior named Orgun and a woman suppressed by hostile forces across dimensions. Tomoru doesn't realize he's being drawn into a cosmic conflict until the memories of a dying alien champion begin overwriting his own mind.\n\nThe series features striking visuals by Masami \u014cbari\u2014character designer for Macross Plus\u2014and a groundbreaking electronic score by Susumu Hirasawa. It's a mind-bending exploration of identity, dreams, and humanity's place in the cosmos.",
+      "created_at": "2026-06-12 15:12:32"
+    },
+    {
       "title": "Deus Ex",
       "year": 2000,
       "medium": "Video Game",
@@ -4301,7 +4316,7 @@
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
       "topics": "Ecology, Satire, Authoritarianism",
-      "image_filename": null,
+      "image_filename": "Hydrozagadka.jpg",
       "pitch": "During a sweltering summer heat wave in Warsaw, the city's water mysteriously begins to vanish. Scientists secretly call upon As (Ace), a mild-mannered engineer who lives a double life as Poland's greatest superhero. But As faces his toughest challenge yet\u2014a mysterious Maharaja in league with the villainous Doctor Spot, plotting to steal Poland's water supply and export it abroad.\n\nCreated as a Communist-era parody of American superhero films like Superman, Hydrozagadka unexpectedly became a satirical masterpiece that Polish audiences interpreted as a sharp critique of life under Communist rule. The film humorously parodied the empty slogans and false promises of the regime, using superhero conventions to expose the absurdity of Polish society in the 1970s.",
       "created_at": "2026-06-12 14:52:39"
     },
@@ -13756,5 +13771,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 917
+  "count": 918
 }

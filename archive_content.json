@@ -3078,6 +3078,23 @@
       "created_at": "2026-03-06 01:12:21"
     },
     {
+      "title": "Detonator Orgun",
+      "year": 1991,
+      "medium": "OVA",
+      "creator": "Masami \u014cbari",
+      "raw_score": 3.2,
+      "total_ratings": 3051,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Transhumanism, VR, Aliens, Space Travel",
+      "image_filename": "Detonator_Orgun_1991.jpg",
+      "pitch": "Detonator Orgun is a 1991 Japanese OVA that follows college student Tomoru Shindo, who begins receiving strange signals through a sleep-enhancing device. Each night, the dreams grow more vivid, centering on a mysterious alien warrior named Orgun and a woman suppressed by hostile forces across dimensions. Tomoru doesn't realize he's being drawn into a cosmic conflict until the memories of a dying alien champion begin overwriting his own mind.\n\nThe series features striking visuals by Masami \u014cbari\u2014character designer for Macross Plus\u2014and a groundbreaking electronic score by Susumu Hirasawa. It's a mind-bending exploration of identity, dreams, and humanity's place in the cosmos.",
+      "truth": "Tomoru Shindo is a college student who uses a neural device to record his dreams. He picks up signals from an unknown source\u2014a dying alien warrior named Orgun, who was assassinated on the Moon and sent his final thoughts as a beacon. Professor Michi Kanzaki of the Earth Defense Force also receives these signals and decodes them as blueprints for an alien body. The EDF creates robotic suits based on Orgun's form to defend against the Evoluders\u2014descendants of a crewed space mission to Cygnus sent 200 years ago, who evolved into mechanical beings due to time dilation.\n\nTomoru is increasingly consumed by Orgun's memories and pain, losing grip on his own reality. He eventually bonds with Orgun, using the EDF's robotic suits to battle the Evoluders. In the final confrontation, Kumi uses telekinetic powers to move the Sun, allowing Orgun to destroy the antimatter cannon. Orgun dies, but Earth is saved. The Evoluders depart peacefully under their new leader Mhiku.",
+      "core": "Detonator Orgun explores transhumanism and the boundaries between human consciousness and alien identity. The dream sequences blur the line between self and other, while the Evoluders represent humanity's potential future transformed by technology. It questions whether identity persists when the body and mind are fundamentally altered\u2014a theme that would later be explored in works like Ghost in the Shell. The series also examines humanity's cosmic role and responsibility, using the EDF's military response versus the Evoluders' peaceful departure as a commentary on conflict resolution.",
+      "created_at": "2026-06-12 15:12:32"
+    },
+    {
       "title": "Deus Ex",
       "year": 2000,
       "medium": "Video Game",
@@ -4873,7 +4890,7 @@
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
       "topics": "Ecology, Satire, Authoritarianism",
-      "image_filename": null,
+      "image_filename": "Hydrozagadka.jpg",
       "pitch": "During a sweltering summer heat wave in Warsaw, the city's water mysteriously begins to vanish. Scientists secretly call upon As (Ace), a mild-mannered engineer who lives a double life as Poland's greatest superhero. But As faces his toughest challenge yet\u2014a mysterious Maharaja in league with the villainous Doctor Spot, plotting to steal Poland's water supply and export it abroad.\n\nCreated as a Communist-era parody of American superhero films like Superman, Hydrozagadka unexpectedly became a satirical masterpiece that Polish audiences interpreted as a sharp critique of life under Communist rule. The film humorously parodied the empty slogans and false promises of the regime, using superhero conventions to expose the absurdity of Polish society in the 1970s.",
       "truth": "Jan Walczak works as an ordinary engineer in Warsaw, but secretly serves as the superhero known as As (Ace). During a severe summer heat wave, Warsaw's water supply mysteriously begins to disappear. Scientists secretly recruit As to investigate and solve the mystery.\n\nAs discovers that a mysterious Maharaja has allied with the villainous Doctor Spot to steal Poland's water and transport it abroad to the Maharaja's country. Using his superpowers and wits, As must infiltrate the villains' operation, confront Doctor Spot and the Maharaja, and prevent them from draining Poland dry. The film culminates in As stopping the water heist and saving Warsaw's precious water supply.",
       "core": "Hydrozagadka represents a fascinating artifact of Cold War Eastern Bloc cinema\u2014created as official parody of American superhero films, but ultimately becoming something far more subversive. Polish audiences immediately recognized the film as a satirical commentary on their own society: the Maharaja and Doctor Spot stealing Poland's water and exporting it elsewhere mirrors the economic exploitation and extraction of resources under Communist rule.\n\nThe \"better life\" slogans promised by the regime are exposed as hollow as the superhero's quest to save water\u2014a precious resource being stolen by foreign interests. The film demonstrates how superhero genres can be appropriated for social critique, using the language of American blockbusters to deliver a distinctly Polish message about power, extraction, and the gap between propaganda and reality.",
@@ -15590,5 +15607,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 917
+  "count": 918
 }
