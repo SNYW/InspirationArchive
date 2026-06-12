@@ -8866,6 +8866,21 @@
       "created_at": "2026-03-05 05:17:16"
     },
     {
+      "title": "The Automatic Motorist",
+      "year": 1911,
+      "medium": "Film",
+      "creator": "Walter R. Booth",
+      "raw_score": 6.17,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel",
+      "image_filename": null,
+      "pitch": "A robot chauffeur takes a newly married couple on their honeymoon in this 1911 British silent comic trick film \u2014 first to the planet Saturn, then on a magical trip under the sea. One of the earliest examples of sci-fi comedy, The Automatic Motorist uses clever practical effects to imagine a future where machines do the driving and the impossible becomes a romantic adventure.\n\nPart of the Kineto Films catalog, the film is a \\\"virtual remake of The '?' Motorist (1906), but on a bigger scale,\\\" according to film historians. It represents the playful, imaginative side of early cinema's engagement with new technologies like the automobile and the promise of scientific discovery.",
+      "created_at": "2026-06-12 14:57:33"
+    },
+    {
       "title": "The Awful Dr. Orloff",
       "year": 1962,
       "medium": "Film",
@@ -13711,5 +13726,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 914
+  "count": 915
 }

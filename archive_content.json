@@ -10048,6 +10048,23 @@
       "created_at": "2026-03-05 05:17:16"
     },
     {
+      "title": "The Automatic Motorist",
+      "year": 1911,
+      "medium": "Film",
+      "creator": "Walter R. Booth",
+      "raw_score": 6.17,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel",
+      "image_filename": null,
+      "pitch": "A robot chauffeur takes a newly married couple on their honeymoon in this 1911 British silent comic trick film \u2014 first to the planet Saturn, then on a magical trip under the sea. One of the earliest examples of sci-fi comedy, The Automatic Motorist uses clever practical effects to imagine a future where machines do the driving and the impossible becomes a romantic adventure.\n\nPart of the Kineto Films catalog, the film is a \\\"virtual remake of The '?' Motorist (1906), but on a bigger scale,\\\" according to film historians. It represents the playful, imaginative side of early cinema's engagement with new technologies like the automobile and the promise of scientific discovery.",
+      "truth": "An inventor has created an extraordinary automatic automobile \u2014 a robot chauffeur capable of driving itself without a human at the wheel. For his honeymoon, he and his new wife climb into the remarkable machine, expecting a simple drive to their destination. But the robot has other plans.\n\nThe mechanical chauffeur deviates from the expected route, taking the couple on an extraordinary journey beyond Earth itself. They soar through space to Saturn, where they encounter the King of the Rings \u2014 a whimsical ruler presiding over Saturn's famous rings. After this celestial visit, the robot descends with them beneath the waves of an ocean, to an underwater palace complete with sea creatures and aquatic wonders.\n\nThe entire fantastical adventure \u2014 the space flight to Saturn and the undersea journey \u2014 is revealed to have been a kind of vision or reverie. The couple find themselves back on Earth, safe and sound, perhaps having fallen asleep on their honeymoon journey. The robot chauffeur waits patiently, ready to continue what was meant to be a simple drive.",
+      "core": "The Automatic Motorist is a fascinating artifact of early 20th-century optimism around new technologies. Made in 1911, when automobiles were still a novelty and the word \\\"robot\\\" had only recently been coined (from Karel \u010capek's R.U.R. in 1920, the concept was in the air), the film imagines machines not as threats but as servants of romance and adventure.\n\nDirector Walter R. Booth, one of Britain's pioneering filmmakers, uses the trick film techniques of the era \u2014 multiple exposures, stop-motion, and miniatures \u2014 to achieve effects that would have seemed miraculous to contemporary audiences. The film prefigures the comic sci-fi adventures of the 20th century while remaining rooted in the Victorian-era confidence in progress and invention.\n\nWhat makes this film notable in the archive is its sheer whimsy and unashamed optimism \u2014 a stark contrast to the darker sci-fi narratives that would dominate the genre. It reminds us that science fiction has always had a playful, imaginative branch that celebrates the possibilities of technology rather than warning against them.",
+      "created_at": "2026-06-12 14:57:33"
+    },
+    {
       "title": "The Awful Dr. Orloff",
       "year": 1962,
       "medium": "Film",
@@ -15539,5 +15556,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 914
+  "count": 915
 }
