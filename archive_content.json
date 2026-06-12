@@ -15233,6 +15233,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "White Hole",
+      "year": 1979,
+      "medium": "Short Film",
+      "creator": "Toshio Matsumoto",
+      "raw_score": 3.15,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space, Exploration",
+      "image_filename": "White_Hole_1979.jpg",
+      "pitch": "White Hole is a mesmerizing six-minute experimental journey through the psychedelic vastness of space, directed by avant-garde filmmaker Toshio Matsumoto. Created in 1979, this short film represents a unique fusion of visual art and science fiction cinema\u2014a brief but profound meditation on the cosmos and human consciousness.\n\nThe film presents an abstract, dreamlike exploration of space imagery, where visual compositions seem to emerge from and dissolve back into the cosmic void. Working with composer Joji Yuasa's electronic score, Matsumoto creates an immersive audiovisual experience that feels less like a narrative film and more like a portal into another dimension. The white hole of the title suggests both an absence and a presence\u2014a gateway or transformation point in the fabric of space-time.\n\nFor fans of experimental cinema and psychedelic art films, White Hole offers a rare glimpse into the Japanese avant-garde scene of the late 1970s, when artists were exploring consciousness through the lens of Eastern philosophy and cosmic wonder.",
+      "truth": "White Hole is an experimental short film that abandons conventional narrative structure entirely. The six-minute runtime consists entirely of abstract visual compositions\u2014patterns of light, geometric forms, and cosmic imagery that seem to shift and transform before the viewer's eyes.\n\nThe film emerged from Matsumoto's metaphysical quests amid his study of the Upanishads, the ancient philosophical texts exploring consciousness and reality. There are no characters, no dialogue, and no traditional plot. Instead, viewers experience a flow of imagery that evokes the sensation of traveling through space itself\u2014perhaps entering a white hole (the theoretical opposite of a black hole), where matter and energy might emerge rather than be consumed.\n\nThe score by Joji Yuasa, a pioneer in Japanese electronic music, provides an otherworldly soundscape that complements the visual journey. Together, image and sound create an immersive meditation on humanity's place in the cosmos.",
+      "core": "White Hole represents a fascinating intersection of science fiction and experimental art cinema. While not a narrative science fiction film in any traditional sense, it engages with the same cosmic questions that define the genre\u2014what lies beyond our known universe? What is the nature of space, time, and consciousness?\n\nMatsumoto was part of a generation of Japanese filmmakers who brought Eastern philosophical concepts to bear on avant-garde cinema. The Upanishads, with their exploration of ultimate reality and the self, inform the film's philosophical underpinnings. The title's suggestion of a \"white hole\"\u2014theoretical cosmic phenomena from which matter emerges\u2014positions the film as a counterpoint to the black holes that had captured the scientific imagination of the era.\n\nAt just six minutes, White Hole functions as a brief but intense experience\u2014a cosmic eye blink that leaves viewers contemplating the vastness suggested by its imagery. It belongs in the Inspiration Archive as an example of how science fiction themes can be explored through non-narrative, experimental means.",
+      "created_at": "2026-06-12 15:07:55"
+    },
+    {
       "title": "Who Wants to Kill Jessie?",
       "year": 1966,
       "medium": "Film",
@@ -15573,5 +15590,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 916
+  "count": 917
 }
