@@ -541,6 +541,10 @@ async function loadMediaList() {
 
         loadMedia();
 
+        // Roll hero once and start rotation — decoupled from filter/search interactions
+        updateHero();
+        heroInterval = setInterval(updateHero, 30000);
+
         // Prefetch full detail data in the background so first modal open is instant
         setTimeout(() => ensureDetailData(), 1500);
 
@@ -561,51 +565,74 @@ function openModalBySlug(slug) {
     if (targetMedia) openModal(targetMedia);
 }
 
-function updateHero() { 
+function weightedPick(items) {
+    // Weight by quality and obscurity: higher rating + outer tier = more likely to appear
+    const weights = items.map(m => {
+        const rw = Math.pow(Math.max(0, m.rating - 3.9), 2);
+        const ow = m.obscurityTier === 'outer' ? 1.5 : 1.0;
+        return rw * ow;
+    });
+    const total = weights.reduce((a, b) => a + b, 0);
+    if (total === 0) return items[Math.floor(Math.random() * items.length)];
+    let r = Math.random() * total;
+    for (let i = 0; i < items.length; i++) {
+        r -= weights[i];
+        if (r <= 0) return items[i];
+    }
+    return items[items.length - 1];
+}
+
+function updateHero() {
     const container = document.getElementById('heroSection');
-    if(!media.length) return; 
-    
-    const topPicksPool = media.filter(m => m.rating >= 3.5 && (m.obscurityTier === 'outer' || m.obscurityTier === 'deep'));
-    
+    if(!media.length) return;
+
+    const topPicksPool = media.filter(m => m.rating >= 4.0 && (m.obscurityTier === 'outer' || m.obscurityTier === 'deep'));
+
     if (topPicksPool.length === 0) {
         container.classList.add('hidden');
         return;
     }
 
     container.classList.add('fade-out');
-    
+
     setTimeout(() => {
         const categories = [
-            { name: 'Film', filter: m => m.medium.toLowerCase().includes('film') || m.medium.toLowerCase().includes('movie') },
-            { name: 'Novel', filter: m => (m.medium.toLowerCase().includes('novel') || m.medium.toLowerCase().includes('book')) && !m.medium.toLowerCase().includes('graphic') && !m.medium.toLowerCase().includes('visual') },
-            { name: 'Anime', filter: m => m.medium.toLowerCase().includes('anime') || m.medium.toLowerCase().includes('animat') },
-            { name: 'Graphic Novel', filter: m => m.medium.toLowerCase().includes('graphic') || m.medium.toLowerCase().includes('manga') || m.medium.toLowerCase().includes('comic') },
-            { name: 'Game', filter: m => m.medium.toLowerCase().includes('game') || m.medium.toLowerCase().includes('interactive') }
+            { filter: m => ['Film','Animated Film','Serial Film','Short Film','Anime Film'].includes(m.medium) },
+            { filter: m => m.medium === 'TV Series' },
+            { filter: m => ['Novel','Novella','Short Story'].includes(m.medium) },
+            { filter: m => ['Anime','OVA'].includes(m.medium) },
+            { filter: m => ['Graphic Novel','Manga'].includes(m.medium) },
+            { filter: m => m.medium === 'Video Game' },
         ];
 
+        const used = new Set();
         let selectedPicks = [];
-        
+
         categories.forEach(cat => {
-            const available = topPicksPool.filter(cat.filter);
+            const available = topPicksPool.filter(m => cat.filter(m) && !used.has(m.title));
             if (available.length > 0) {
-                const validOptions = available.filter(item => !selectedPicks.find(p => p.title === item.title));
-                if (validOptions.length > 0) {
-                    const randomPick = validOptions[Math.floor(Math.random() * validOptions.length)];
-                    selectedPicks.push(randomPick);
-                }
+                const pick = weightedPick(available);
+                selectedPicks.push(pick);
+                used.add(pick.title);
             }
         });
 
+        // Shuffle category picks, cap at 5
+        selectedPicks.sort(() => Math.random() - 0.5);
+        if (selectedPicks.length > 5) selectedPicks = selectedPicks.slice(0, 5);
+
+        // Fill remaining slots from pool using weighted pick
         if (selectedPicks.length < 5) {
-            const unusedPicks = topPicksPool.filter(item => !selectedPicks.find(p => p.title === item.title));
-            unusedPicks.sort(() => 0.5 - Math.random()); 
-            
-            while (selectedPicks.length < 5 && unusedPicks.length > 0) {
-                selectedPicks.push(unusedPicks.pop());
+            const remaining = topPicksPool.filter(m => !used.has(m.title));
+            while (selectedPicks.length < 5 && remaining.length > 0) {
+                const pick = weightedPick(remaining);
+                selectedPicks.push(pick);
+                used.add(pick.title);
+                remaining.splice(remaining.indexOf(pick), 1);
             }
         }
 
-        selectedPicks.sort(() => 0.5 - Math.random());
+        selectedPicks.sort(() => Math.random() - 0.5);
 
         let gridHtml = '';
         
@@ -715,10 +742,8 @@ function loadMedia() {
     if(isFiltering) {
         h.classList.add('hidden');
     } else {
-        updateHero();
-        if(heroInterval) clearInterval(heroInterval);
-        heroInterval = setInterval(updateHero, 30000); 
-    } 
+        h.classList.remove('hidden');
+    }
     
     // Instead of rendering all elements, trigger the first batch
     renderNextBatch();
