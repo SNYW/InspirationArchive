@@ -129,8 +129,15 @@
         .tag-filters { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
         .tag-select-group { display: flex; flex-direction: column; gap: 0.25rem; }
         .tag-select-group label { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600; margin-left: 0.5rem; }
-        .tag-select { background: var(--bg); color: var(--text); border: 1px solid var(--border); padding: 0.5rem 1rem; border-radius: 8px; font-family: inherit; font-size: 0.9rem; outline: none; cursor: pointer; min-width: 140px; transition: border-color 0.2s; appearance: none; }
+        .tag-select { background: var(--bg); color: var(--text); border: 1px solid var(--border); padding: 0.5rem 1rem; border-radius: 8px; font-family: inherit; font-size: 0.9rem; outline: none; cursor: pointer; min-width: 140px; transition: all 0.2s; appearance: none; }
         .tag-select:focus { border-color: var(--accent); }
+        .tag-select.active { border-color: var(--accent); box-shadow: 0 0 8px var(--accent-dim); color: var(--text); }
+
+        .filter-results-bar { display: flex; align-items: center; justify-content: space-between; padding: 0.4rem 0.25rem; margin-bottom: 0.5rem; min-height: 1.8rem; }
+        .results-count { font-size: 0.8rem; color: var(--text-muted); font-weight: 600; letter-spacing: 0.05em; }
+        .clear-filters-btn { background: transparent; border: 1px solid var(--border); color: var(--text-muted); padding: 0.25rem 0.75rem; border-radius: 20px; cursor: pointer; font-family: inherit; font-size: 0.75rem; font-weight: 600; transition: all 0.2s; display: none; }
+        .clear-filters-btn:hover { border-color: var(--accent); color: var(--accent); }
+        .clear-filters-btn.visible { display: block; }
         
         /* --- METRICS & BADGES --- */
         .badge-row { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-bottom: 1rem; }
@@ -290,6 +297,7 @@
         <div class="search-container">
             <select id="sortFilter" class="sort-select" onchange="loadMedia()">
                 <option value="recent">Sort: Added</option>
+                <option value="rating">Sort: Rating ↓</option>
                 <option value="year-newest">Year - Newest</option>
                 <option value="year-oldest">Year - Oldest</option>
                 <option value="title">Sort: Title</option>
@@ -350,6 +358,11 @@
         </div>
     </div>
     
+    <div class="filter-results-bar">
+        <span class="results-count" id="resultsCount"></span>
+        <button class="clear-filters-btn" id="clearFiltersBtn" onclick="clearAllFilters()">Clear Filters</button>
+    </div>
+
     <div id="heroSection" class="top-picks-container hidden"></div>
     <div class="grid" id="mediaGrid"><div class="loading">Initializing Archive Uplink...</div></div>
     
@@ -722,22 +735,33 @@ function loadMedia() {
         } else if (sortVal === 'year-oldest') {
             return getSafeYear(a.year, 9999) - getSafeYear(b.year, 9999);
         } else if (sortVal === 'title') {
-            return a.title.localeCompare(b.title); 
+            return a.title.localeCompare(b.title);
+        } else if (sortVal === 'rating') {
+            return (b.rating || 0) - (a.rating || 0);
         } else {
             return new Date(b.created_at) - new Date(a.created_at);
         }
     });
-    
-    currentFilteredMedia=fl; 
-    
+
+    currentFilteredMedia=fl;
+
+    const isFiltering = sq.length > 0 || mf !== 'all' || cf !== 'all' || uf !== 'all' || gf !== 'all' || tf !== 'all' || rf !== 'all' || of !== 'all';
+
+    // Update results count and clear button
+    const countEl = document.getElementById('resultsCount');
+    const clearBtn = document.getElementById('clearFiltersBtn');
+    if (countEl) countEl.textContent = `${fl.length} ${fl.length === 1 ? 'entry' : 'entries'}`;
+    if (clearBtn) clearBtn.classList.toggle('visible', isFiltering);
+
+    // Highlight active filter dropdowns
+    updateFilterStates();
+
     if(!fl.length){
         h.classList.add('hidden');
         g.innerHTML='<div class="loading">No visions match these parameters.</div>';
         document.getElementById('scrollSentinel').style.display = 'none';
         return;
-    } 
-    
-    const isFiltering = sq.length > 0 || mf !== 'all' || cf !== 'all' || uf !== 'all' || gf !== 'all' || tf !== 'all' || rf !== 'all' || of !== 'all';
+    }
     
     if(isFiltering) {
         h.classList.add('hidden');
@@ -988,6 +1012,37 @@ function openStats() {
 
 function closeStats() { document.getElementById('statsModal').classList.remove('open'); }
 document.getElementById('statsModal').addEventListener('click',function(e){if(e.target===this)closeStats();});
+
+function updateFilterStates() {
+    const defaults = { countryFilter: 'all', moodFilter: 'all', genreFilter: 'all', topicFilter: 'all', ratingFilter: 'all', obscurityFilter: 'all' };
+    Object.entries(defaults).forEach(([id, def]) => {
+        const el = document.getElementById(id);
+        if (el) el.classList.toggle('active', el.value !== def);
+    });
+}
+
+function clearAllFilters() {
+    document.getElementById('countryFilter').value = 'all';
+    document.getElementById('moodFilter').value = 'all';
+    document.getElementById('genreFilter').value = 'all';
+    document.getElementById('topicFilter').value = 'all';
+    document.getElementById('ratingFilter').value = 'all';
+    document.getElementById('obscurityFilter').value = 'all';
+    document.getElementById('searchInput').value = '';
+    document.querySelectorAll('.filter-btn').forEach(x => x.classList.remove('active'));
+    document.querySelector('.filter-btn[data-filter="all"]').classList.add('active');
+    loadMedia();
+}
+
+// Escape key: close modal or clear search
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+        const modal = document.getElementById('modal');
+        if (modal.classList.contains('open')) { closeModal(); return; }
+        const statsModal = document.getElementById('statsModal');
+        if (statsModal.classList.contains('open')) { closeStats(); return; }
+    }
+});
 
 // Filters
 document.querySelectorAll('.filter-btn').forEach(b=>{b.onclick=()=>{document.querySelectorAll('.filter-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');loadMedia();};});
