@@ -5530,8 +5530,8 @@
       "year": 1970,
       "medium": "Animated Short",
       "creator": "V\u00e1clav Mergl",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.0,
+      "total_ratings": 1,
       "origin": "Czechoslovakia ,",
       "mood": "Eerie ,",
       "sub_genres": "Horror ,",
@@ -7519,8 +7519,8 @@
       "year": 1950,
       "medium": "Animated Film",
       "creator": "Ji\u0159\u00ed Trnka",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.25,
+      "total_ratings": 10,
       "origin": "Czechoslovakia ,",
       "mood": "Optimistic ,",
       "sub_genres": "Science-Fantasy ,",
@@ -7536,8 +7536,8 @@
       "year": 1965,
       "medium": "Anime",
       "creator": "Sato \u014ckura (director), TCJ (studio)",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 2.78,
+      "total_ratings": 340,
       "origin": "Japan ,",
       "mood": "Optimistic ,",
       "sub_genres": "Space-Opera ,",
@@ -9848,8 +9848,8 @@
       "year": 1965,
       "medium": "Anime",
       "creator": "Osamu Tezuka",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.28,
+      "total_ratings": 484,
       "origin": "Japan ,",
       "mood": "Cerebral ,",
       "sub_genres": "Space-Opera, Science-Fantasy ,",
@@ -10001,8 +10001,8 @@
       "year": 1985,
       "medium": "Animated Short",
       "creator": "Richard Condie",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.55,
+      "total_ratings": 65,
       "origin": "Canada ,",
       "mood": "Satirical ,",
       "sub_genres": ",",
@@ -11454,7 +11454,7 @@
       "topics": "Transhumanism, Isolation",
       "image_filename": "The_Hands_of_Orlac_1924.jpg",
       "pitch": "The Hands of Orlac is a 1924 Austrian silent horror film directed by Robert Wiene, starring Conrad Veidt in one of his most iconic performances. The film centers on concert pianist Paul Orlac, whose hands are tragically destroyed in a railway accident. Desperate to save his career, his wife persuades a surgeon to transplant the hands of a recently executed murderer named Vasseur. However, upon learning the truth, Orlac becomes consumed by horror\u2014convinced he has inherited the murderer's violent impulses. As his mental state deteriorates, he finds himself haunted by the belief that he may have murdered his own father with a knife similar to the one used by Vasseur. This atmospheric silent film stands as a remarkable example of early Expressionist cinema exploring themes of identity, body horror, and the psychological consequences of scientific intervention.",
-      "truth": "",
+      "truth": "Paul Orlac, a renowned concert pianist, suffers devastating injuries in a catastrophic railway accident that destroys both of his hands. His wife Yvonne desperately pleads with the renowned surgeon Dr. Serra to attempt a revolutionary hand transplant. The surgeon agrees, transplanting the hands of Vasseur\u2014a recently executed murderer\u2014onto Orlac's arms.\n\nInitially thrilled to regain partial use of his hands, Orlac's joy turns to terror when he discovers the donor's identity. Haunted by the belief that he has inherited a murderer's predisposition to violence, Orlac becomes obsessed with the knife used in Vasseur's crimes. His mental state deteriorates rapidly as he experiences violent impulses.\n\nWhen Paul learns his wealthy father has been murdered with a knife identical to Vasseur's weapon, Orlac becomes convinced he committed the crime in a dissociative state. He confesses to the police, only for them to discover that Vasseur was actually innocent of the murder for which he was executed.\n\nThe truth emerges: a con man named Nera, who was Vasseur's associate, created rubber gloves with Vasseur's fingerprints to frame the innocent man. Meanwhile, Orlac's new hands\u2014now revealed to belong to an innocent man\u2014symbolize the film's exploration of identity beyond physical attributes. The conclusion suggests that one's moral character is determined by the heart and mind, not by the flesh.",
       "core": "**Body Horror and Transhumanism:** The Hands of Orlac represents one of the earliest explorations of body horror in cinema, predating modern science fiction's fascination with organ transplants, cybernetic augmentation, and genetic modification. The film interrogates the limits of medical intervention and the psychological consequences of violating the body's integrity. The transplanted hands become a metaphor for the self's instability\u2014can identity survive physical transformation?\n\n**Identity and the Uncanny:** Drawing on Expressionist techniques, the film explores themes of doppelg\u00e4ngers, split personalities, and the boundaries between self and other. Veidt's performance captures Orlac's descent into madness with remarkable physicality. The question of whether the donor's hands carry their owner's soul resonates with contemporary debates about consciousness and physical form.\n\n**Early Science Fiction Cinema:** The film occupies a fascinating position at the intersection of horror, science fiction, and Expressionist art cinema. The hand transplant premise, while now commonplace in science fiction, was genuinely groundbreaking in 1924. The film asks whether science can overcome physical limitation without psychological consequence\u2014a question that remains relevant in the age of organ transplants, prosthetics, and potential future genetic engineering.\n\n**German Expressionist Aesthetics:** Though Austrian production, the film shares visual and thematic elements with the German Expressionist movement. The stark lighting, distorted shadows, and psychological intensity align it with classics like The Cabinet of Dr. Caligari. The film's exploration of madness and the unconscious mind reflects broader Expressionist preoccupations with the irrational and the fragmented self.\n\nThe Hands of Orlac remains significant as an early exploration of themes that would become central to science fiction: the relationship between mind and body, the ethics of radical medical intervention, and the psychological cost of playing God with human flesh.",
       "created_at": "2026-03-05 10:27:29"
     },
@@ -11659,7 +11659,7 @@
       "image_filename": "The_Iron_Dream_1972.jpg",
       "pitch": "In an alternate timeline where Adolf Hitler won World War II, a genre novelist named \"Aloysius\" writes Lord of the Swastika\u2014a pulp science fiction epic about a future nuclear apocalypse and the rise of a \"Ferryman\" who guides humanity through the aftermath. But here's the twist: the novel-within-a-novel is actually the Nazi author's fictionalized autobiography, blending fascist mythology with pulp sci-fi tropes. Spinrad presents this entire meta-text as if it were a real artifact, complete with a faux-critical introduction analyzing the novel's \"political subtext.\"",
       "truth": "The Iron Dream presents itself as a science fiction novel written by \"Adolf Hitler\" (here spelled \"Aloysius\" to slightly fictionalize) in an alternate timeline where Germany won WWII. The novel follows theFerryman, a figure who emerges after humanity destroys itself in nuclear war and becomes a messianic leader guiding a tribe of survivors through a post-apocalyptic wasteland. The narrative is a blend of heroic pulp fiction and Nazi mythology\u2014the Ferryman is a superman-like figure who will lead the \"Aryan\" survivors to dominion over the \"inferior\" remnants of humanity.\n\nHowever, the novel is more than just a story. Spinrad frames it with a critical introduction by a fictional critic named \"Homer Whipple,\" who analyzes the text and its \"political subtext\" in deadpan academic fashion. The real meat of the book is the meta-layer: how fascist ideology infects genre fiction, how power fantasy narratives reinforce authoritarian mindsets, and how readers can be seduced by charismatic leaders in fiction.\n\nThe alternate history premise allows Spinrad to explore how Nazi ideology would look if it had continued to evolve through the genre fiction of the 1950s-60s\u2014complete with the tropes of the time: mutant survivors, post-nuclear wastelands, and muscular leadership figures. The novel is both a satire of pulp sci-fi and a pointed critique of fascism's aesthetic appeal.",
-      "core": "",
+      "core": "The Iron Dream is a brilliant piece of meta-fiction that asks uncomfortable questions about the relationship between genre fiction and politics. Spinrad is exploring how the power fantasies embedded in classic science fiction\u2014the superhuman hero, the chosen one, the muscular leadership\u2014can echo fascist ideology. The novel-within-a-novel is designed to be uncomfortably compelling: even knowing it's Nazi propaganda, readers might find themselves rooting for the Ferryman.\n\nThe book is also a pointed critique of how ideology shapes storytelling. In our timeline, Spinrad argues, American pulp sci-fi was shaped by democratic values; in Hitler's timeline, the same genre was weaponized to perpetuate Nazi mythology. The \"critical introduction\" by Whipple adds another layer, showing how even well-meaning analysis can inadvertently legitimize the text it's critiquing.\n\nThe core question the novel poses: Are the power fantasies of sci-fi inherently dangerous, or is it the ideology that poisons them? Spinrad doesn't give easy answers\u2014instead, he forces readers to confront their own susceptibility to charismatic leadership narratives, even when (especially when) they're dressed up as entertainment.",
       "created_at": "2026-02-28 07:28:14"
     },
     {
@@ -13975,6 +13975,23 @@
       "created_at": "2026-03-03 17:03:00"
     },
     {
+      "title": "The White Disease",
+      "year": 1937,
+      "medium": "Film",
+      "creator": "Hugo Haas",
+      "raw_score": 6.88,
+      "total_ratings": 16,
+      "origin": "Czechoslovakia",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Pandemic, Politics, Power",
+      "image_filename": "The_White_Disease_1937.jpg",
+      "pitch": "A 1937 Czech dystopian film based on Karel \u010capek's prophetic play. In an unnamed country resembling Nazi Germany, a mysterious disease called morbus chengi\u2014the White Disease\u2014is spreading. This form of leprosy targets only those over 45, and the government, led by the iron-fisted Marshal, sees opportunity in the crisis rather than a call to heal. As the death toll rises, the regime prepares for military expansion while doctors scramble for a cure.\n\nThe film is a stark warning about authoritarianism, nationalism, and the weaponization of crisis. With war looming on the European horizon, \u010capek's allegory proved tragically prescient.",
+      "truth": "The White Disease begins in a country descending into fascism under the Marshal, a dictator who exploits every crisis for power. A mysterious ailment\u2014morbus chengi\u2014is killing citizens over 45 years old. The symptoms resemble leprosy, and there is no known cure.\n\nDoctor Gal\u00e9n, a physician who treats the poor, discovers an effective cure but refuses to reveal it. He demands world peace as payment, believing that only the threat of mass death can force an end to the Marshal's warmongering. Meanwhile, the government stages a fake cure\u2014cosmetic treatments for wealthy patients\u2014to maintain public order.\n\nThe regime uses the pandemic as a pretext to invade a neighboring small nation, sparking international conflict. Other European powers declare war in response. The Marshal, confident in his military genius, believes he is invincible\u2014until he contracts the White Disease himself. Facing death, he desperately seeks Gal\u00e9n, the only one who can save him. But Gal\u00e9n has vanished, and with him goes the Marshal's only hope.\n\nThe film ends with the country at war, the disease still spreading, and the dictator dying alone. The allegory is clear: those who wield power for conquest will ultimately be destroyed by the crises they exploit.",
+      "core": "Karel \u010capek wrote The White Disease in 1937 as Europe slid toward fascism. The play is both a literal warning about disease and a metaphor for ideological contagion\u2014the \"white disease\" of nationalism, militarism, and authoritarian thinking that infected Europe in the 1930s.\n\nThe film critiques how regimes weaponize crises. The Marshal uses the pandemic to consolidate power and expand territory, exactly as \u010capek feared. The character's name\u2014\"the Marshal\"\u2014deliberately echoes military dictatorship.\n\nDoctor Gal\u00e9n represents the ethical dilemma of withholding salvation for political demands. His choice to use the cure as leverage forces the question: is it justified to let people die to achieve peace?\n\nThe work remains disturbingly relevant\u2014asking whether governments should withhold medical solutions for political gain, and whether crisis response reveals the true nature of power.",
+      "created_at": "2026-06-12 13:25:41"
+    },
+    {
       "title": "The Witches of Karres",
       "year": 1966,
       "medium": "Novel",
@@ -15386,5 +15403,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 905
+  "count": 906
 }
