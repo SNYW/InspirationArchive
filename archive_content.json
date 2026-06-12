@@ -715,6 +715,23 @@
       "created_at": "2026-03-19 00:23:13"
     },
     {
+      "title": "Afronauts",
+      "year": 2014,
+      "medium": "Short Film",
+      "creator": "Nuotama Bodomo",
+      "raw_score": 3.35,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Aliens, Rebellion",
+      "image_filename": "Afronauts_2014.jpg",
+      "pitch": "Afronauts is a 14-minute Afrofuturist short film about Zambian outcasts preparing to beat America in the space race to the Moon. Written and directed by Ghanaian filmmaker Nuotama Bodomo, this NYU Tisch thesis film reimagines a little-known true story from the 1960s: schoolteacher Edward Mukuka Nkoloso's Zambian Space Academy, which trained 17-year-old Matha Mwamba and two cats to become astronauts by rolling them down hills in oil drums.\n\nSet in an alternate 1960s, the film follows 17-year-old Matha as she is chosen to be Zambia's first person to land on the Moon. Through a series of improvised space training experiments, Matha deals with the weight of expectations placed upon her while her aunt fears she is being used as a disposable sacrifice. The film challenges the Western gaze and imagines Africans traveling to space\u2014not as colonial subjects, but as pioneers claiming their place among the stars.\n\nWith its black-and-white aesthetic echoing 1960s newsreels, Afronauts questions the validity of historical narratives about Africa while creating something truly otherworldly.",
+      "truth": "The film opens with Matha being selected as the first Afronaut. Nkoloso, the charismatic leader of the Zambian Space Academy, presents her as Zambia's hope\u2014a young woman who will beat America to the Moon. The training sequences are both absurd and touching: Matha and two cats are rolled down hills in oil drums to simulate weightlessness, performing physical exercises meant to prepare them for zero gravity.\n\nAs Matha trains, her aunt Sunday grows concerned. She sees the program as exploitation\u2014that Matha is being used as a propaganda tool, a disposable sacrifice for Nkoloso's dream of proving Zambian superiority to the West. The tension between Matha's ambition and her aunt's fear forms the emotional core of the film.\n\nThe film culminates in a launch sequence, though the actual Moon landing is left ambiguous\u2014reflecting both the speculative nature of the film and the reality that Nkoloso's program never actually reached space. The film ends with Matha's journey toward the stars, whatever that may mean.",
+      "core": "Afronauts is a bold reclamation of Afrofuturism\u2014imagining African futures that were stolen by colonialism. The film uses the true story of Nkoloso's space program as a jumping-off point to explore themes of technological agency, self-determination, and the erasure of African contributions to global history.\n\nThe film challenges viewers to question what histories we've been told about who gets to explore, who gets to innovate, and who gets to dream of the stars. By placing Black African women at the center of a space narrative, Bodomo flips the colonial gaze on its head\u2014asking not just whether Africans can reach space, but why the West so aggressively wrote them out of that story.\n\nThe black-and-white aesthetic serves a dual purpose: it evokes 1960s ethnography and newsreels (which often portrayed Africa through a Western lens) while also creating a sense of timelessness and otherworldliness. This tension between the real and the speculative is the film's greatest strength.",
+      "created_at": "2026-06-12 13:57:16"
+    },
+    {
       "title": "After Yang",
       "year": 2021,
       "medium": "Film",
@@ -15437,5 +15454,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 908
+  "count": 909
 }
