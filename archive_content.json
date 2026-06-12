@@ -13873,6 +13873,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Sky Calls",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Mikhail Karyukov",
+      "raw_score": 1.8,
+      "total_ratings": 14,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Exploration, First Contact, War",
+      "image_filename": "The_Sky_Calls_1959.jpg",
+      "pitch": "In 1959 Soviet Union, a pioneering science fiction film emerged that would later become an unlikely footnote in American cinema history. \"The Sky Calls\" (Nebo Zovyot) depicts a fictional space race between two superpowers competing to reach Mars first. When the American vessel suffers a catastrophic malfunction, the Soviet crew must make a desperate choice: maintain their lead in the race, or attempt a perilous rescue of their rivals.\n\nThis Cold War-era film carries the unique distinction of being re-edited and dubbed by a young Francis Ford Coppola in 1962 for American release as \"Battle Beyond the Sun.\" The American version altered characters and settings to remove obvious Soviet references, creating a surreal alternate history where the space race plays out between fictional nations.",
+      "truth": "The film opens with a reporter interviewing Dr. Kornev about Soviet progress in space travel. Through a framing device, the reporter daydreams about humanity's future in space. In this vision, a Soviet spacecraft called the Rodina launches toward Mars, competing with an American vessel named Typhoon.\n\nThe Americans rush their launch in order to beat the Soviets to the Red Planet. However, their vessel suffers a critical malfunction and becomes stranded on the asteroid Icarus with rapidly depleting fuel. The Soviet crew faces a moral dilemma: continue to Mars as planned, or divert to rescue their American rivals.\n\nThey choose the latter, but their mission costs them precious fuel. Both crews become stranded together on the asteroid, awaiting a rescue mission that may claim another crew's lives. The film ends with this cliffhanger, leaving the fates of both space crews uncertain.\n\nThe American 1962 version, \"Battle Beyond the Sun,\" changed character names and replaced references to USSR and USA with fictional nations called North Hemis and South Hemis. Coppola added monster sequences and footage from the Rose Parade in Pasadena.",
+      "core": "\"The Sky Calls\" stands as a remarkable artifact of Cold War science fiction, depicting the space race with surprising cooperation rather than conflict. The Soviet film's portrayal of astronauts choosing humanity over national prestige reflects an idealistic vision that transcended geopolitical rivalry.\n\nThe film's connection to Francis Ford Coppola\u2014before he became an American cinema legend\u2014makes it a fascinating piece of cinematic history. His involvement with this Soviet material while a film student represents an unlikely bridge between two cinematic traditions during the height of the Cold War.\n\nThe film's technical ambition for 1959 is notable: it depicts space stations, interplanetary travel, and asteroid encounters with creative special effects. Though primitive by modern standards, it represents early Soviet science fiction cinema's engagement with space exploration themes, predating the actual moon landing by a decade.",
+      "created_at": "2026-06-12 18:02:58"
+    },
+    {
       "title": "The Snow Queen",
       "year": 1980,
       "medium": "Novel",
@@ -15981,5 +15998,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 940
+  "count": 941
 }
