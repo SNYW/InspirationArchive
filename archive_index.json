@@ -10486,6 +10486,21 @@
       "created_at": "2026-03-18 20:51:24"
     },
     {
+      "title": "Steel Jeeg",
+      "year": 1975,
+      "medium": "Anime",
+      "creator": "Go Nagai",
+      "raw_score": 4.13,
+      "total_ratings": 89,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Cybernetics, Robots, Aliens",
+      "image_filename": "steel_jeeg.jpg",
+      "pitch": "Steel Jeeg (1975) pioneered magnetic robot assembly. After a racing accident, Hiroshi Shiba is saved by his scientist father using an ancient bronze bell from the lost Jamatai Kingdom, implanted in his body, turning him into a cyborg. When underground queen Himika awakens to reclaim Earth, Hiroshi becomes the pilot of Steel Jeeg, defending Japan from the invading haniwa warriors.",
+      "created_at": "2026-06-13 18:58:16"
+    },
+    {
       "title": "Stories Untold",
       "year": 2017,
       "medium": "Video Game",
@@ -17731,5 +17746,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1182
+  "count": 1183
 }
