@@ -10167,6 +10167,23 @@
       "created_at": "2026-03-18 20:08:13"
     },
     {
+      "title": "Random Quest",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.35,
+      "total_ratings": 11,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "Parallel Universe, Identity, Science",
+      "image_filename": "Random_Quest_2006.jpg",
+      "pitch": "A scientist wakes up in a parallel universe after an experimental procedure\u2014one that resembles his own world but with unsettling differences. His career, relationships, and history have all diverged. This British film quietly explores identity and the roads not taken.",
+      "truth": "Following a procedure to bridge parallel dimensions, the protagonist finds himself in a reality that mirrors his own but diverged significantly. He meets versions of people he knows\u2014friends, colleagues, romantic interests\u2014whose lives unfolded differently. He must decide whether to search for a way back or accept this new reality.",
+      "core": "Random Quest uses the parallel universe concept to explore identity fragility. Would we recognize ourselves if our choices had diverged? A contemplative British SF that prioritizes psychological interiority over spectacle.",
+      "created_at": "2026-06-13 18:43:34"
+    },
+    {
       "title": "Raumpatrouille Orion",
       "year": 1966,
       "medium": "TV Series",
@@ -20044,5 +20061,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1179
+  "count": 1180
 }
