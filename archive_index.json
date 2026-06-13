@@ -7861,6 +7861,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Paradiso",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.7,
+      "total_ratings": 10,
+      "origin": "Bulgaria",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Love, Ecology",
+      "image_filename": "Paradiso_2025.jpg",
+      "pitch": "Inside a cold and rusty bunker, two survivors endure the aftermath of nuclear war. Georgi is dying from heavy radiation sickness, and Irina desperately repairs his old beloved guitar so he can hear music one last time. This intimate Bulgarian film captures the final moments of love in the shadow of extinction, where music becomes the last expression of humanity against the silence of death.\n\nThe film presents a quiet, emotionally devastating portrait of two people clinging to each other and to the remnants of their humanity as civilization lies in ruins above. Without exposition or flashback to explain the war itself, the focus remains entirely on the intimate human drama unfolding in the bunker.",
+      "created_at": "2026-06-13 12:51:07"
+    },
+    {
       "title": "Paranoia Agent",
       "year": 2004,
       "medium": "Anime",
@@ -16771,5 +16786,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1118
+  "count": 1119
 }

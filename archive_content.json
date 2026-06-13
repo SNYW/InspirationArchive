@@ -8909,6 +8909,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Paradiso",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.7,
+      "total_ratings": 10,
+      "origin": "Bulgaria",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Love, Ecology",
+      "image_filename": "Paradiso_2025.jpg",
+      "pitch": "Inside a cold and rusty bunker, two survivors endure the aftermath of nuclear war. Georgi is dying from heavy radiation sickness, and Irina desperately repairs his old beloved guitar so he can hear music one last time. This intimate Bulgarian film captures the final moments of love in the shadow of extinction, where music becomes the last expression of humanity against the silence of death.\n\nThe film presents a quiet, emotionally devastating portrait of two people clinging to each other and to the remnants of their humanity as civilization lies in ruins above. Without exposition or flashback to explain the war itself, the focus remains entirely on the intimate human drama unfolding in the bunker.",
+      "truth": "The film takes place entirely inside a bunker in post-nuclear Bulgaria. Georgi, severely ill from radiation sickness, is nearing death. His partner Irina decides to repair his old guitar, which was damaged in the chaos of the nuclear war. As she carefully fixes the instrument, memories of their life before the war surface through brief flashbacks.\n\nGeorgi drifts in and out of consciousness, haunted by visions of their past happiness. Irina works tirelessly on the guitar, her hands bloodied from the effort of restringing and tuning the old instrument. When she finally completes the repairs and plays, the music brings Georgi a final moment of clarity and peace.\n\nThe film ends with Irina playing alone as Georgi passes away, the sound of the guitar echoing in the empty bunker - a final tribute to love and art in a world that has ended.",
+      "core": "Paradiso explores love as a form of resistance against annihilation. In the aftermath of catastrophic destruction, the act of repairing the guitar becomes a testament to human resilience - the preservation of beauty and meaning even when facing complete extinction. The guitar serves as a symbol of art's enduring power: music transcends the ruinous world above.\n\nThe film stands as a meditation on mortality, memory, and what we choose to hold onto when everything else is lost. In its quiet, intimate approach, it echoes the tradition of intimate post-apocalyptic dramas that find profound human meaning in small gestures rather than spectacular destruction. The choice to focus on music - an art form of vibration and air - as the final act of the protagonists suggests that beauty itself is what makes us human.",
+      "created_at": "2026-06-13 12:51:07"
+    },
+    {
       "title": "Paranoia Agent",
       "year": 2004,
       "medium": "Anime",
@@ -19007,5 +19024,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1118
+  "count": 1119
 }
