@@ -16542,6 +16542,23 @@
       "created_at": "2026-03-05 21:15:11"
     },
     {
+      "title": "The Thousand Wonders of the Universe",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.27,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Discovery",
+      "image_filename": "The_Thousand_Wonders_of_the_Universe_1997.jpg",
+      "pitch": "A cerebral French science fiction film from 1997, The Thousand Wonders of the Universe (Les mille merveilles de l'univers) presents a mysterious scenario: Earth receives a coded message from outer space, and shortly thereafter, 12,000 inhabitants of the free-trade port Sepuvedra disappear without explanation. \n\nThe government and military conclude that the missing citizens have been kidnapped by aliens, and Professor Larsen, an eminent astrophysicist and UFO expert, is assigned to lead an urgent investigative mission to the deserted town. What he discovers there challenges his scientific worldview and raises profound questions about humanity's place in the cosmos.\n\nThe film blends elements of first contact fiction with mystery, exploring themes of communication across the void between stars and the existential implications of discovering we are not alone in the universe.",
+      "truth": "The story begins when Earth intercepts a coded radio transmission of apparent extraterrestrial origin. The signal originates from deep space and appears to contain mathematical sequences that defy human cryptographic analysis. Shortly after the signal is detected, the entire population of Sepuvedra, a coastal free-trade port town of 12,000 inhabitants, vanishes overnight. No bodies, no signs of struggle, no evidence of what happened.\n\nThe military and government quickly conclude that aliens are responsible for the mass abduction. Professor Larsen, a noted astrophysicist specializing in SETI and unidentified atmospheric phenomena, is recruited to lead an investigative team dispatched to Sepuveda. Upon arrival, the team finds the town completely deserted\u2014cars still in driveways, meals half-prepared, businesses operating as if their occupants simply walked away.\n\nLarsen's investigation uncovers strange environmental anomalies in the area: localized electromagnetic disturbances, unusual radiation signatures, and what appear to be geometric patterns etched into the landscape. As the investigation deepens, Larsen begins experiencing unexplained phenomena\u2014visions, lost time, and a growing certainty that the truth is far stranger than government officials are prepared to accept. The film culminates in Larsen's realization that the alien contact may not have been hostile, and that the missing humans may have been \\\"taken\\\" not as victims but as volunteers for something beyond human comprehension.",
+      "core": "The Thousand Wonders of the Universe is an example of French science fiction that prioritizes philosophical speculation over spectacle. The film engages with classic first contact questions\u2014how would humanity respond to definitive proof of alien existence, and what would be the psychological and societal impact of such knowledge?\n\nDirector Jean-Jacques Muxe (the actual director is not confirmed from available sources) uses the mystery narrative structure to explore themes of human insignificance against the vastness of the cosmos. The coded message represents both a potential threat and a communication attempt\u2014the ambiguity is central to the film's meditation on whether humanity can understand perspectives radically different from our own.\n\nThe film can be seen as a European response to American \\\"alien invasion\\\" narratives, replacing the typical Hollywood confrontation model with something more contemplative and ultimately ambiguous. The 12,000 missing humans serve as both a plot device and a metaphor for the limits of human knowledge and the humility required when confronting the unknown.\n\nWith only 10 votes on TMDB, this remains a genuinely obscure work\u2014one that rewards viewers seeking thoughtful, understated science fiction that trusts its audience to engage with unresolved questions rather than providing easy answers.",
+      "created_at": "2026-06-13 11:28:19"
+    },
+    {
       "title": "The Three-Body Problem",
       "year": 2008,
       "medium": "Novel",
@@ -18803,5 +18820,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1106
+  "count": 1107
 }

@@ -14596,6 +14596,21 @@
       "created_at": "2026-03-05 21:15:11"
     },
     {
+      "title": "The Thousand Wonders of the Universe",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.27,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Discovery",
+      "image_filename": "The_Thousand_Wonders_of_the_Universe_1997.jpg",
+      "pitch": "A cerebral French science fiction film from 1997, The Thousand Wonders of the Universe (Les mille merveilles de l'univers) presents a mysterious scenario: Earth receives a coded message from outer space, and shortly thereafter, 12,000 inhabitants of the free-trade port Sepuvedra disappear without explanation. \n\nThe government and military conclude that the missing citizens have been kidnapped by aliens, and Professor Larsen, an eminent astrophysicist and UFO expert, is assigned to lead an urgent investigative mission to the deserted town. What he discovers there challenges his scientific worldview and raises profound questions about humanity's place in the cosmos.\n\nThe film blends elements of first contact fiction with mystery, exploring themes of communication across the void between stars and the existential implications of discovering we are not alone in the universe.",
+      "created_at": "2026-06-13 11:28:19"
+    },
+    {
       "title": "The Three-Body Problem",
       "year": 2008,
       "medium": "Novel",
@@ -16591,5 +16606,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1106
+  "count": 1107
 }
