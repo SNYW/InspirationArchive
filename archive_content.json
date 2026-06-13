@@ -2381,6 +2381,23 @@
       "created_at": "2026-06-13 11:39:34"
     },
     {
+      "title": "Broadcast",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 4.1,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "Transhumanism, VR, Megacorps",
+      "image_filename": "broadcast_2022.jpg",
+      "pitch": "After an eccentric billionaire creates a drug called INOC which stops the aging process effectively eliminating death itself, the future of a world where death no longer exists is seen. Through a seemingly harmless children's toy, the story of the fate of mankind is told while also revealing an elusive truth to its unknowing spectator.",
+      "truth": "In a near-future world, a brilliant but eccentric billionaire develops INOC, a revolutionary drug that halts cellular aging and effectively eliminates death. Society transforms as mortality becomes optional, leading to profound changes in human behavior, economics, and relationships. The narrative unfolds through the perspective of a seemingly innocent children's toy that serves as an unexpected window into this transformed world. As the toy is passed between owners, it witnesses various episodes of human life in this new reality, gradually revealing darker truths hidden beneath the surface of immortality. The story explores what happens when humanity no longer faces its greatest equalizer - death itself.",
+      "core": "Broadcast poses uncomfortable questions about the nature of human existence when mortality is removed from the equation. If death no longer holds power over us, what drives ambition, love, or meaning? The film suggests that death gives life its urgency and significance - remove it, and society may lose not just its fear, but its purpose. The children's toy framing device serves as ironic commentary: innocence observing a world that has fundamentally broken one of nature's most ancient cycles. The film operates in the tradition of thoughtful sci-fi that uses speculative premises to examine contemporary anxieties about technology, corporate power, and the pursuit of eternal life.",
+      "created_at": "2026-06-13 11:48:26"
+    },
+    {
       "title": "Br\u00e1ny Skeldalu",
       "year": 1998,
       "medium": "Video Game",
@@ -18854,5 +18871,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1109
+  "count": 1110
 }
