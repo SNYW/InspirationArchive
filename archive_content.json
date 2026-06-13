@@ -1854,6 +1854,23 @@
       "created_at": "2026-06-13 00:48:24"
     },
     {
+      "title": "Automania 2000",
+      "year": 1963,
+      "medium": "Animated Film",
+      "creator": "John Halas, Joy Batchelor",
+      "raw_score": 3.58,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Consumerism, Ecology, Technology",
+      "image_filename": "Automania_2000_1963.jpg",
+      "pitch": "A brilliant scientist in an ivory tower endlessly produces ever-newer cars to satisfy America's automobile-obsessed public. Created by John Halas and Joy Batchelor (Animal Farm), this British animated short uses distinctive blockprint animation to deliver a darkly satiric warning about consumerism and unchecked technology. A proto-Black Mirror from 1963.",
+      "truth": "In near-future America, the population demands endless novelty in automobiles. A brilliant scientist works in isolation, creating increasingly absurd vehicles to meet their demands. As cars multiply, the world becomes choked with automobiles, trapping humanity in a cycle of consumption. The scientist's creation escapes his control.",
+      "core": "Prescient sci-fi predicting our car-dependent society. Halas and Batchelor (Animal Farm) deliver a satire on consumerism and unchecked tech. The blockprint animation masks a genuinely dark message. First British short film nominated for an Oscar.",
+      "created_at": "2026-06-13 18:13:10"
+    },
+    {
       "title": "Avalon",
       "year": 2001,
       "medium": "Film",
@@ -19959,5 +19976,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1174
+  "count": 1175
 }
