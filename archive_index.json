@@ -4231,6 +4231,21 @@
       "created_at": "2026-03-01 15:23:42"
     },
     {
+      "title": "Fireball XL5",
+      "year": 1962,
+      "medium": "TV Series",
+      "creator": "Gerry and Sylvia Anderson",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Exploration, Robots",
+      "image_filename": "Fireball_XL5_1962.jpg",
+      "pitch": "Fireball XL5 is a 1962 British puppet sci-fi series about Fireball XL5, a spacecraft of the World Space Patrol patrolling the cosmos in 2062. Commanded by Colonel Steve Zodiac, the crew defends Earth from interstellar threats.",
+      "created_at": "2026-06-13 19:35:47"
+    },
+    {
       "title": "First Spaceship on Venus",
       "year": 1960,
       "medium": "Film",
@@ -17821,5 +17836,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1188
+  "count": 1189
 }
