@@ -5596,6 +5596,21 @@
       "created_at": "2026-03-01 23:43:47"
     },
     {
+      "title": "Lightspeed Electroid Albegas",
+      "year": 1983,
+      "medium": "Anime",
+      "creator": "Toei Animation",
+      "raw_score": 8.1,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha,Space-Opera",
+      "topics": "Robots,Aliens,Space Travel,Rebellion",
+      "image_filename": "Lightspeed_Electroid_Albegas_1983.jpg",
+      "pitch": "Lightspeed Electroid Albegas is a 1983-84 Japanese anime series following three high school robotics prodigies who must defend Earth from the Derinja, an alien civilization that has already subjugated most of the galaxy. When their award-winning competition robots are upgraded into combat machines by Professor Mizuki, the three students\u2014Daisaku, Tetsuya, and Hotaru\u2014combine their individual machines into Albegas, a powerful super robot with six different stackable formations. Each formation serves a different combat function, allowing Albegas to adapt to various enemy Mecha-Fighters. The series combines classic super robot action with educational themes about teamwork and innovation, packaged with the characteristic energy and enthusiasm of early 1980s Toei Animation.",
+      "created_at": "2026-06-13 00:02:46"
+    },
+    {
       "title": "Lily C.A.T.",
       "year": 1987,
       "medium": "OVA",
@@ -14941,5 +14956,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 996
+  "count": 997
 }

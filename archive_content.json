@@ -6342,6 +6342,23 @@
       "created_at": "2026-03-01 23:43:47"
     },
     {
+      "title": "Lightspeed Electroid Albegas",
+      "year": 1983,
+      "medium": "Anime",
+      "creator": "Toei Animation",
+      "raw_score": 8.1,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha,Space-Opera",
+      "topics": "Robots,Aliens,Space Travel,Rebellion",
+      "image_filename": "Lightspeed_Electroid_Albegas_1983.jpg",
+      "pitch": "Lightspeed Electroid Albegas is a 1983-84 Japanese anime series following three high school robotics prodigies who must defend Earth from the Derinja, an alien civilization that has already subjugated most of the galaxy. When their award-winning competition robots are upgraded into combat machines by Professor Mizuki, the three students\u2014Daisaku, Tetsuya, and Hotaru\u2014combine their individual machines into Albegas, a powerful super robot with six different stackable formations. Each formation serves a different combat function, allowing Albegas to adapt to various enemy Mecha-Fighters. The series combines classic super robot action with educational themes about teamwork and innovation, packaged with the characteristic energy and enthusiasm of early 1980s Toei Animation.",
+      "truth": "Three talented students at Aoba Advanced Technology High School\u2014Daisaku Enj\u014dji, Tetsuya Jin, and Hotaru Mizuki\u2014create innovative robots for a school competition. Meanwhile, the Derinja, a purple-skinned alien race led by Grand Deram (an energy being residing in their home planet's core), has conquered most of the galaxy and now targets Earth for invasion.\n\nProfessor Mizuki, Hotaru's father, modifies the students' competition robots into combat machines. When combined, they form Albegas, a super robot with six stackable formations. The individual robots\u2014Alpha, Beta, and Gamma\u2014derive their names from the Greek alphabet. Each formation has unique capabilities, and the primary weapon is the Sanbai Plasma Sword, capable of splitting enemy Mecha-Fighters in half.\n\nThe Derinja's invasion force is led by President Azass at an orbital base, with Generalissimo Duston as the army officer. They deploy various Mecha-Fighter robots each episode. The protagonists face escalating threats until Duston is defeated in Episode 27, followed by Azass in Episode 29. New villains Bios and his lieutenant Dari take command, with Dari captured in Episode 44.\n\nIn the final episode, Albegas destroys Grand Deram, causing the Deram planet to explode and dematerializing all remaining Derinja. Earth is saved, and the three friends have grown through their shared ordeal.",
+      "core": "Lightspeed Electroid Albegas represents a quintessential example of the early 1980s super robot genre that dominated Japanese anime. The series exemplifies the \"combination\" subgenre, where multiple smaller robots merge into a single powerful form\u2014a trope that resonated with young audiences during that era.\n\nThe educational undercurrent is notable: the protagonists are presented as gifted young inventors whose technical skills directly enable Earth's defense. This reflects the period's optimism about technology and youth as agents of positive change. The three-student team structure, each with distinct personalities and specializations, established a character template that influenced countless subsequent mecha series.\n\nWhile the show follows standard monster-of-the-week formulas, it distinguishes itself through the variety of Albegas' six formations and the creative weapon designs. The series achieved moderate popularity across Latin America, Spain, and Italy during the late 1980s, introducing international audiences to Japanese anime.\n\nToday, Albegas is remembered primarily by collectors and nostalgia audiences. The series was licensed to Discotek Media for North American release, preserving it for modern viewing. It represents an accessible entry point to understanding the evolution of the mecha genre before the darker, more complex works of the late 1980s and 1990s shifted the genre's direction.",
+      "created_at": "2026-06-13 00:02:46"
+    },
+    {
       "title": "Lily C.A.T.",
       "year": 1987,
       "medium": "OVA",
@@ -16933,5 +16950,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 996
+  "count": 997
 }
