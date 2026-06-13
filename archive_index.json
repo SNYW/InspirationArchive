@@ -1291,6 +1291,21 @@
       "created_at": "2026-03-05 05:06:47"
     },
     {
+      "title": "Anti-Clock",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Jane Arden, Jack Bond",
+      "raw_score": 3.2,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Identity, Time-Travel, Surreal",
+      "image_filename": "Anti-Clock_1979.jpg",
+      "pitch": "1979 British experimental sci-fi drama. Directed by Jane Arden and Jack Bond, it uses pioneering video techniques to explore a man whose time begins to reverse. Dream-like journey through memory and identity. Opened the 1979 London Film Festival but had no British distribution. Withdrawn after Arden's 1982 suicide, unseen until BFI restored it in 2009.",
+      "created_at": "2026-06-13 13:52:40"
+    },
+    {
       "title": "Apollo's Song",
       "year": 1970,
       "medium": "Manga",
@@ -16921,5 +16936,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1128
+  "count": 1129
 }
