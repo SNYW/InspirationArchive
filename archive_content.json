@@ -1633,6 +1633,23 @@
       "created_at": "2026-03-06 11:55:49"
     },
     {
+      "title": "Attack of the Robots",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Jes\u00fas Franco",
+      "raw_score": 2.68,
+      "total_ratings": 15,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Surveillance, Politics, Mind Control",
+      "image_filename": "Attack_of_the_Robots_1966.jpg",
+      "pitch": "A campy 1966 Euro-spy thriller with a sci-fi twist, Attack of the Robots stars Eddie Constantine as Al Pereira, a retired Interpol agent pulled back into service to investigate a string of political assassinations committed across Europe. The killers are unlike any he has faced before: robot-like figures with black-framed glasses and strange darkened skin who die upon capture, their flesh reverting to normal. Constantine's wise-cracking spy must untangle a web of international intrigue before the killers strike again.\n\nDirected by Jes\u00fas Franco (The Diabolical Dr. Z) and written by Jean-Claude Carri\u00e8re, the film is a playful deconstruction of the spy genre. It embraces Cold War paranoia and countercultural anxiety about mass manipulation, wrapped in stylish euro-trash aesthetics.",
+      "truth": "Politicians begin dying across Europe, each victim killed by individuals who appear robotic \u2014 people with black-framed glasses and an eerie, darkened complexion. When cornered, these assassins simply die, their skin instantly reverting to normal. Interpol discovers all victims share one trait: they were all Rh-negative blood type, and the killers all had the same type \u2014 Rh-positive. The agency decides to use this as bait, recruiting a retired agent with matching blood type as live bait.\n\nAl Pereira (Eddie Constantine), a cynical, womanizing spy dragged out of retirement, assumes the identity of Frank Froeba and heads to Alicante. There, he is immediately targeted by the servants of Lee-Wee, a Chinese crime syndicate boss also trying to solve the mystery for his own gain. Pereira thwarts the attack and continues investigating.\n\nHe encounters Cynthia Lewis (Sophie Hardy), a beautiful woman he suspects is connected to the criminals. Through further investigation, Pereira discovers the true masterminds: Lady Cecilia and Sir Percy, a wealthy European couple who have created an army of mind-controlled assassins using experimental methods. Their army of \"robots\" \u2014 ordinary people psychologically conditioned to kill \u2014 is meant to destabilize governments and seize power.\n\nThe film ends with Pereira confronting the couple and dismantling their scheme, though the fate of Cynthia \u2014 whether she was a victim or collaborator \u2014 remains ambiguously tied to the film's final moments.",
+      "core": "Attack of the Robots is a fascinating artifact of mid-1960s European cinema, blending spy thriller conventions with emerging sci-fi anxieties about mind control and mass manipulation. The film predates similar themes explored in The Manchurian Candidate by two years, offering a European take on Cold War paranoia and the fear of unconscious programming.\n\nJes\u00fas Franco and Jean-Claude Carri\u00e8re deliberately subvert Eddie Constantine's established tough-guy persona, making Al Pereira bumbling and lecherous rather than heroic. This self-aware approach comments on the genre's formulas while still delivering pulpy entertainment. The \"robots\" of the title are not mechanical \u2014 they are humans stripped of free will, a metaphor for authoritarian control that resonates beyond the film's era.\n\nThe film's success in Spain and France upon release demonstrates its commercial appeal, while its obscurity today makes it a rewarding find for fans of Euro-spy and cult sci-fi cinema.",
+      "created_at": "2026-06-13 00:48:24"
+    },
+    {
       "title": "Avalon",
       "year": 2001,
       "medium": "Film",
@@ -17052,5 +17069,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1003
+  "count": 1004
 }
