@@ -12856,6 +12856,21 @@
       "created_at": "2026-02-28 23:35:30"
     },
     {
+      "title": "The Longest Voyage",
+      "year": 1960,
+      "medium": "Short Story",
+      "creator": "Poul Anderson",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Hard-SF, Exploration",
+      "topics": "Exploration, First Contact, Discovery",
+      "image_filename": "The_Longest_Voyage_1960.jpg",
+      "pitch": "The Longest Voyage is a Hugo-winning science fiction novelette by Poul Anderson that stands as one of the most beautiful explorations of the Age of Exploration metaphor in science fiction. Set on a distant world where a technological civilization is just beginning to discover the possibility of circumnavigation, the story follows a party of daring explorers who attempt to map their entire world by sea. In unknown waters, they encounter an island civilization that claims to have a prophet who fell from the stars\u2014a first contact scenario that challenges everything the explorers believe about their world.\n\nThe story won the 1961 Hugo Award for Best Short Fiction (the category that would later become Best Short Story), and has been praised for its lyricism, compassion, and the relish it takes in the bristling strangeness and wonder of the world. Unlike typical hard SF that prioritizes technology over emotion, Anderson weaves a tale that celebrates both the scientific wonder of exploration and the deeply human desire to understand our place in the universe.",
+      "created_at": "2026-06-13 10:54:30"
+    },
+    {
       "title": "The Lost City",
       "year": 1935,
       "medium": "Serial Film",
@@ -16531,5 +16546,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1102
+  "count": 1103
 }
