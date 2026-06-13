@@ -12275,6 +12275,23 @@
       "created_at": "2026-03-04 22:19:10"
     },
     {
+      "title": "The Asphyx",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Peter Newbrook",
+      "raw_score": 3.02,
+      "total_ratings": 81,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Immortality, Death, Science",
+      "image_filename": "The_Asphyx_1972.jpg",
+      "pitch": "Victorian scientist Sir Hugo Cunningham discovers that photographs of the dying reveal a strange blur\u2014an \\\"asphyx,\\\" a personal death entity from Greek myth. Using phosphorus and water, he learns to trap this entity, potentially granting immortality. But his obsession leads to tragic consequences.",
+      "truth": "Cunningham discovers the asphyx, a personal death entity, through photographs. He learns phosphorus can trap it. With Giles, he captures a guinea pig's asphyx, then attempts his own. Christina is decapitated. Giles sabotages the equipment, causing an explosion. The immortal Cunningham wanders the 1970s, crushed beneath vehicles but still alive\u2014immortality as punishment.",
+      "core": "The Asphyx explores humanity's obsession with conquering death through gothic science-fantasy. Cunningham's quest becomes his punishment\u2014forced to live indefinitely. An intriguing early 1970s British fusion of Victorian ghost story with steampunk revisionism.",
+      "created_at": "2026-06-13 13:57:56"
+    },
+    {
       "title": "The Astounding She-Monster",
       "year": 1958,
       "medium": "Film",
@@ -19194,5 +19211,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1129
+  "count": 1130
 }
