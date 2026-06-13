@@ -12649,6 +12649,23 @@
       "created_at": "2026-03-18 23:20:49"
     },
     {
+      "title": "The Boy Who Turned Yellow",
+      "year": 1972,
+      "medium": "Short Film",
+      "creator": "Michael Powell, Emeric Pressburger",
+      "raw_score": 2.85,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Children, Dreams, Time",
+      "image_filename": "the_boy_who_turned_yellow.jpg",
+      "pitch": "The final collaboration from Powell and Pressburger, made for the Children's Film Foundation. After losing his pet mouse at the Tower of London, young John is sent home from school \u2014 and suddenly everything turns yellow. A surreal adventure follows as he meets Nick, a yellow man made of electricity, and returns to the Tower to find his missing mouse.",
+      "truth": "After losing his pet mouse at the Tower of London, young John is sent home from school. That afternoon, the entire London Underground train turns bright yellow. He meets Nick, a yellow man made of electricity, who helps him return to the Tower to find his mouse \u2014 but the Yeoman Warders threaten him with execution. He finds his mouse, then awakens back in class. Was it all a dream?",
+      "core": "Powell and Pressburger's final feature explores childhood imagination and the line between reality and fantasy. Made for the Children's Film Foundation with their signature dreamlike quality and cinematography.",
+      "created_at": "2026-06-13 14:35:13"
+    },
+    {
       "title": "The Brother from Another Planet",
       "year": 1984,
       "medium": "Film",
@@ -19313,5 +19330,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1136
+  "count": 1137
 }
