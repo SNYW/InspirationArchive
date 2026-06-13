@@ -13351,6 +13351,21 @@
       "created_at": "2026-03-05 10:27:29"
     },
     {
+      "title": "The Hasty Hare",
+      "year": 1952,
+      "medium": "Short Film",
+      "creator": "Chuck Jones",
+      "raw_score": 3.42,
+      "total_ratings": 30,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "the_hasty_hare_1952.jpg",
+      "pitch": "Marvin the Martian and his dog K-9 land on Earth with orders to bring back an Earth creature for study. Their target: Bugs Bunny, who mistakes the helmeted aliens for Halloween trick-or-treaters. When Marvin's disintegrating gun comes out, it becomes a classic Looney Tunes showdown.",
+      "created_at": "2026-06-13 21:21:06"
+    },
+    {
       "title": "The Head",
       "year": 1959,
       "medium": "Film",
@@ -18091,5 +18106,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1206
+  "count": 1207
 }
