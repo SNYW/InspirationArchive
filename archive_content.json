@@ -8824,6 +8824,23 @@
       "created_at": "2026-03-04 04:44:59"
     },
     {
+      "title": "Rafadan Tayfa: G\u00f6beklitepe",
+      "year": 2019,
+      "medium": "Animated Film",
+      "creator": "\u0130smail Fidan",
+      "raw_score": 2.8,
+      "total_ratings": 10,
+      "origin": "Turkey",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Discovery, Children, Friendship",
+      "image_filename": "rafadan_tayfa_gobeklitepe.jpg",
+      "pitch": "A group of children in Istanbul stumble upon a mysterious artifact connected to the groundbreaking archaeological discovery of G\u00f6beklitepe, one of the world's oldest temples dating back to 9600 BCE. When young Ak\u0131n receives a strange copper tray from his friend Veysi in \u015eanl\u0131urfa, the Rafadan Tayfa is drawn into an adventure involving ancient secrets, treasure hunters, and a race against time to protect Turkey's invaluable cultural heritage. The film blends modern children's adventure storytelling with real archaeological discoveries, creating a unique educational entertainment experience.\n\nThe animated feature is a spin-off from the popular Turkish children's TV series Rafadan Tayfa, which portrays the mahalle (neighborhood) culture of 1980s and 1990s Turkey. This film takes the beloved characters on an exciting journey through actual Turkish history and archaeology.",
+      "truth": "The story begins when the discovery of G\u00f6beklitepe and the subsequent excavations cause excitement around the world. During this time, Ak\u0131n receives a mysterious package from his friend Veysi in \u015eanl\u0131urfa. The copper tray that arrives is ancient and appears to be connected to the G\u00f6beklitepe site.\n\nWhen Veysi calls in a panicked state, warning that danger is coming, the Rafadan Tayfa crew decides to investigate. They travel to \u015eanl\u0131urfa to learn more about the artifact and to help their friend. Along the way, they discover that there are treasure hunters and criminals who are trying to steal ancient artifacts from the G\u00f6beklitepe excavation site.\n\nThe children must use their wits, teamwork, and bravery to protect the archaeological site and recover the missing pieces of history. They face various challenges but ultimately succeed in stopping the bad guys and preserving Turkey's cultural heritage. The film ends with the children gaining a deeper appreciation for their country's ancient history and the importance of protecting archaeological treasures.",
+      "core": "Rafadan Tayfa: G\u00f6beklitepe is notable for its unique blend of Turkish cultural heritage and children's entertainment. By using the real-world archaeological site of G\u00f6beklitepe as a backdrop, the film introduces young viewers to one of humanity's oldest known religious sites, predating Stonehenge and the Egyptian pyramids by thousands of years.\n\nThe film promotes positive themes including friendship, teamwork, curiosity, and respect for cultural heritage. It represents a growing trend in Turkish animation to incorporate educational elements into entertaining stories. The Rafadan Tayfa series itself broke viewership records on TRT \u00c7ocuk and has a multi-generational audience appeal.\n\nThis film is particularly significant as it connects modern Turkish childhood experiences with ancient Anatolian history, creating a bridge between contemporary life and the nation's deep historical roots. The G\u00f6beklitepe setting is especially meaningful as it represents Turkey's contribution to world civilization and humanity's shared heritage.",
+      "created_at": "2026-06-13 04:18:24"
+    },
+    {
       "title": "Raji: An Ancient Epic",
       "year": 2020,
       "medium": "Video Game",
@@ -17596,5 +17613,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1035
+  "count": 1036
 }
