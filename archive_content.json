@@ -17103,6 +17103,23 @@
       "created_at": "2026-06-13 02:19:00"
     },
     {
+      "title": "The Tomorrow People",
+      "year": 1973,
+      "medium": "TV Series",
+      "creator": "Roger Price",
+      "raw_score": 3.46,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Evolution, Transhumanism, Friendship",
+      "image_filename": "the_tomorrow_people_1973.jpg",
+      "pitch": "British children's sci-fi from Thames Television. Teenagers with psychic powers \u2014 telepathy, telekinesis, and teleportation \u2014 operate from a secret Underground station base. They help new \\\"Tomorrow People\\\" through transformation while defending Earth. Their genetic code prevents killing \u2014 a \\\"prime barrier\\\" tied to evolution.",
+      "truth": "John finds other children with psychic abilities and establishes The Lab. Using AI computer TIM, they monitor for new \\\"break outs.\\\" Over six series (1973-1979), they face alien threats and the Galactic Federation. New characters join each season. They encounter alien invasions, time travel, and political satire, balanced with cooperation themes.",
+      "core": "ITV's answer to Doctor Who. The Homo superior concept inspired David Bowie's song. Explores genetic destiny and whether evolution leads to moral progress. The \\\"prime barrier\\\" \u2014 inability to kill \u2014 presents a utopian vision. Cult status via Big Finish audio plays.",
+      "created_at": "2026-06-13 14:13:06"
+    },
+    {
       "title": "The Tower",
       "year": 1987,
       "medium": "Graphic Novel",
@@ -19245,5 +19262,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1132
+  "count": 1133
 }
