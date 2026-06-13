@@ -8059,6 +8059,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Murder on the Moon",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "John D. McGivern",
+      "raw_score": 3.83,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Space-Opera",
+      "topics": "Space Travel, War, First Contact",
+      "image_filename": "murder_on_the_moon_1989.jpg",
+      "pitch": "After nuclear war devastates Earth, the US and Soviet Union operate a joint lunar research station. When a murder occurs, American and Soviet investigators must work together to solve the crime.",
+      "truth": "A senior researcher is murdered on a joint US-Soviet lunar outpost. Investigators David Keller and Irina Volkov must set aside Cold War suspicions to find the killer\u2014a Chinese technician seeking to provoke a new conflict.",
+      "core": "Murder on the Moon channels late-1980s nuclear anxiety into a sci-fi setting. The Moon becomes a metaphor for fragile d\u00e9tente, where former enemies must cooperate or perish together.",
+      "created_at": "2026-06-13 14:04:30"
+    },
+    {
       "title": "Mutant Action",
       "year": 1993,
       "medium": "Film",
@@ -19211,5 +19228,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1130
+  "count": 1131
 }
