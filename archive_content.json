@@ -14825,6 +14825,23 @@
       "created_at": "2026-03-19 10:38:34"
     },
     {
+      "title": "The Secret of the Iron Door",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Mikhail Yuzovsky",
+      "raw_score": 3.26,
+      "total_ratings": 17,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Children, Friendship, Sacrifice",
+      "image_filename": "The_Secret_of_the_Iron_Door_1970.jpg",
+      "pitch": "In 1970s Soviet Union, a mischievous fourth-grader named Tolik Ryzhkov stumbles upon a box of magical matches in a transformer booth. Each match, when broken, acts like a one-use magic wand, granting the wielder's deepest wish. This charming children's film follows Tolik's journey from selfish wishes to discovering the true power of friendship and selflessness.\n\nThe Soviet sci-fi/fantasy blends imaginative worldbuilding with heartwarming themes about growing up. The magical island sequences and the wizard's attempt to corrupt Tolik create genuine tension, while the resolution affirms that courage and loyalty matter more than magic. It's a delightful time capsule of Soviet-era children's cinema.",
+      "truth": "Fourth-grader Tolik Ryzhkov is a habitual fibber and mischievous boy who stumbles upon a box of magical matches while hiding in a transformer booth. Each match, when broken, grants a single wish\u2014but only for the one who breaks it.\n\nInitially, Tolik uses the matches for selfish desires\u2014wanting new boots, wanting money\u2014which strains his relationships with his friends, particularly his best friend Mishka. After they reconcile, Tolik shares the matches with Mishka, who uses them selflessly to help others.\n\nThis angers the matches' original owner\u2014a young wizard who had used a similar box to create an isolated island where he rules over a world centered entirely on himself. The wizard abducts Tolik, Mishka, Mishka's brother, and their dog, imprisoning the others and attempting to corrupt Tolik into becoming like him.\n\nOn the island, Tolik discovers that true strength lies not in magic but in loyalty and courage. Defying the wizard's manipulations, Tolik rescues his friends through cleverness and teamwork, without relying on magic. In a final act of selflessness, Tolik destroys the last magical match, renouncing its power and breaking the wizard's hold.\n\nReturning to the real world, Tolik finds that the good deeds done for others with the matches remain intact, affirming the value of kindness and friendship.",
+      "core": "The Secret of the Iron Door is a quintessential Soviet children's film that uses fantasy elements to explore moral themes. The magical matches serve as a metaphor for temptation and the choice between selfish and selfless action.\n\nThe film critiques the corrupting nature of unlimited power\u2014the wizard became isolated and narcissistic through his magic. Tolik's journey represents the transition from childhood self-centeredness to mature friendship, learning that true strength comes from loyalty and courage rather than magical solutions.\n\nAs a 1970 Soviet children's production, it reflects the era's optimism about science and rationality while grounding its message in universal childhood concerns. The practical effects and production design create a distinctive visual style unique to Eastern Bloc cinema of the period.",
+      "created_at": "2026-06-13 01:28:34"
+    },
+    {
       "title": "The Secret of the Secret Weapon",
       "year": 1988,
       "medium": "Film",
@@ -17171,5 +17188,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1010
+  "count": 1011
 }

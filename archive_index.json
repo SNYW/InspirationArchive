@@ -13081,6 +13081,21 @@
       "created_at": "2026-03-19 10:38:34"
     },
     {
+      "title": "The Secret of the Iron Door",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Mikhail Yuzovsky",
+      "raw_score": 3.26,
+      "total_ratings": 17,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Children, Friendship, Sacrifice",
+      "image_filename": "The_Secret_of_the_Iron_Door_1970.jpg",
+      "pitch": "In 1970s Soviet Union, a mischievous fourth-grader named Tolik Ryzhkov stumbles upon a box of magical matches in a transformer booth. Each match, when broken, acts like a one-use magic wand, granting the wielder's deepest wish. This charming children's film follows Tolik's journey from selfish wishes to discovering the true power of friendship and selflessness.\n\nThe Soviet sci-fi/fantasy blends imaginative worldbuilding with heartwarming themes about growing up. The magical island sequences and the wizard's attempt to corrupt Tolik create genuine tension, while the resolution affirms that courage and loyalty matter more than magic. It's a delightful time capsule of Soviet-era children's cinema.",
+      "created_at": "2026-06-13 01:28:34"
+    },
+    {
       "title": "The Secret of the Secret Weapon",
       "year": 1988,
       "medium": "Film",
@@ -15151,5 +15166,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1010
+  "count": 1011
 }
