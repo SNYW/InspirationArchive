@@ -11686,6 +11686,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Butterfly",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "Kim Jee-woon",
+      "raw_score": 3.1,
+      "total_ratings": 11,
+      "origin": "South-Korea",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia",
+      "topics": "Memory, Identity, Loss",
+      "image_filename": "The_Butterfly_2001.jpg",
+      "pitch": "In near-future Korea, an oblivion virus causing memory loss has become a tourist industry for those wanting to forget. Anna Kim travels there to erase her trauma\u2014but forms bonds that make her question whether forgetting is truly freedom.",
+      "created_at": "2026-06-13 19:11:24"
+    },
+    {
       "title": "The Cabinet of Dr. Caligari",
       "year": 1920,
       "medium": "Film",
@@ -17761,5 +17776,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1184
+  "count": 1185
 }
