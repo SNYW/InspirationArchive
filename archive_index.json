@@ -6725,14 +6725,14 @@
       "year": 2001,
       "medium": "Film",
       "creator": "Moon Seung-wook",
-      "raw_score": 3.14,
+      "raw_score": 3.1,
       "total_ratings": 11,
       "origin": "South-Korea",
       "mood": "Melancholic",
       "sub_genres": "Dystopia",
-      "topics": "Memory, Pandemic, Ecology",
+      "topics": "Memory, Pandemic, Isolation",
       "image_filename": "Nabi_2001.jpg",
-      "pitch": "Nabi (Korean for \\\"Butterfly\\\") is a 2001 South Korean science fiction film set in a near-future dystopia where an \\\"oblivion virus\\\" causes memory loss. The virus has become the center of a dark tourism industry\u2014visitors from around the world pay to be infected and forget their painful pasts. The film follows Anna Kim, a German woman of Korean descent, who travels to this ruined city seeking to erase the memory of her abortion.\n\nHer journey unfolds through the rain-soaked streets of an unnamed Korean city plagued by acid rain and lead poisoning. Guided by the enigmatic Yuki, a seven-months-pregnant young woman who needs the money to survive, and driver K, an amnesiac orphan searching for his lost identity, Anna searches for the oblivion virus. What begins as a transactional journey becomes a profound meditation on memory, loss, and the bonds that form when three wounded people find each other in the ruins.\n\nThe film marked the debut of Kang Hye-jung, who won Best Actress at the Puchon International Fantastic Film Festival, while Kim Ho-jung won the Bronze Leopard for Best Actress at the Locarno International Film Festival.",
+      "pitch": "In a near-future Korea plagued by acid rain, lead poisoning, and a mysterious \\\"oblivion virus\\\" that causes memory loss, a tourist industry has emerged: travelers from around the world pay to be deliberately infected with the virus, hoping to erase painful memories from their past. This is the premise of Nabi (Butterfly), a 2001 South Korean science fiction feature that flew under the radar of most international audiences.\n\nThe film follows Anna Kim, a German woman of Korean descent who arrives in the city seeking the oblivion virus to forget the trauma of a recent abortion. She is assigned Yuki, a seven-months-pregnant virus guide who needs money to support her unborn child, and K, a new driver who secretly hopes that one of his passengers will recognize him from an old photograph\u2014though he has no memory of his own past. As the three navigate the city's toxic landscape, bonds form between them, leading to a devastating climax at the edge of the sea.\n\nShot on a shoestring budget of $380,000 and transferred from digital video to 35mm, Nabi is a visual meditation on memory, loss, and the weight of what we choose to forget.",
       "created_at": "2026-06-12 21:52:51"
     },
     {
@@ -9659,6 +9659,21 @@
       "image_filename": "technotise_edit_and_i_2009.jpg",
       "pitch": "In a dystopian Belgrade of 2074, one animated feature film dares to ask: what happens when memory becomes evidence? Edit Stefanovi\u0107, a struggling psychology student, makes a desperate choice\u2014installing an illegal military chip that records everything she sees\u2014in hopes of finally passing her exams. But the chip doesn't just record; it stores, analyzes, and perhaps remembers too much.\n\nThis Serbian animated sci-fi film stands as a rare find\u2014one of the first feature-length animated productions from Serbia, blending Western animation aesthetics with Eastern European anxieties about surveillance, corporate power, and the price of knowledge. The film's cerebral tone rewards patient viewers who appreciate philosophical questions over action spectacle.",
       "created_at": "2026-06-13 03:18:30"
+    },
+    {
+      "title": "Teenage Monster",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "Jacques R. Marquette",
+      "raw_score": 3.91,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Evolution, Isolation, Survival",
+      "image_filename": "teenage_monster.jpg",
+      "pitch": "An eerie blend of Western and science fiction horror from the 1950s atomic age. In 1880, young Charlie Cannon and his gold prospector father witness a meteorite crash in the desert. His father is killed, but Charlie is exposed to mysterious rays that cause him to age rapidly\u2014transforming him into a hairy, aggressive man-beast. His mother Ruth hides him from the town, which believes him dead.\n\nSeven years later, Charlie escapes his confinement and terrorizes the community. After his mother strikes gold and moves to town hoping a real home will calm her son, he only grows more dangerous\u2014kidnapping a young woman named Kathy after killing her abusive boyfriend. But Kathy is not the victim she appears: she manipulates Charlie to kill for her, blackmailing his mother until the final showdown forces Charlie to confront her lies.\n\nThis obscure B-movie stands apart from typical 1950s sci-fi horror through its sympathetic portrayal of the monster as a victim of circumstance rather than pure evil, and its Western setting provides a grittier backdrop than the usual small-town laboratory.",
+      "created_at": "2026-06-13 06:34:55"
     },
     {
       "title": "Teenagent",
@@ -15841,5 +15856,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1056
+  "count": 1057
 }
