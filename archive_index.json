@@ -5836,6 +5836,21 @@
       "created_at": "2026-03-05 20:25:28"
     },
     {
+      "title": "K-9 and Company",
+      "year": 1981,
+      "medium": "TV Series",
+      "creator": "Terence Dudley",
+      "raw_score": 3.25,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Friendship, Robots, Supernatural",
+      "image_filename": "K-9_and_Company_1981.jpg",
+      "pitch": "A one-episode 1981 Doctor Who spin-off pilot featuring Sarah Jane Smith and the robotic dog K9. When Sarah visits her aunt's village, she and K9 investigate disappearances and uncover a local witchcraft cult planning ritual murder. The Christmas special pilot never led to a series \u2014 but the characters returned in 2007's The Sarah Jane Adventures.",
+      "created_at": "2026-06-13 17:07:46"
+    },
+    {
       "title": "Kaadu",
       "year": 1952,
       "medium": "Film",
@@ -17461,5 +17476,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1164
+  "count": 1165
 }
