@@ -10636,6 +10636,21 @@
       "created_at": "2026-03-18 07:35:37"
     },
     {
+      "title": "Terrahawks",
+      "year": 1983,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson, Christopher Burr",
+      "raw_score": 3.0,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Robots, Space",
+      "image_filename": "terrahawks.jpg",
+      "pitch": "Gerry Anderson's return to puppet SF after over a decade away. In 2020, an elite task force called the Terrahawks defends Earth from alien android Zelda's invasion force. Less straight-laced than Thunderbirds, it embraces tongue-in-cheek humor.",
+      "created_at": "2026-06-13 16:07:39"
+    },
+    {
       "title": "Terror Is a Man",
       "year": 1959,
       "medium": "Film",
@@ -17281,5 +17296,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1152
+  "count": 1153
 }
