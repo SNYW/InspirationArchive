@@ -17324,6 +17324,23 @@
       "created_at": "2026-03-05 15:13:27"
     },
     {
+      "title": "The Tree House",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Nguyen Vo Tien",
+      "raw_score": 3.075,
+      "total_ratings": 10,
+      "origin": "Vietnam",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Isolation, Dreams",
+      "image_filename": "The_Tree_House_2019.jpg",
+      "pitch": "In 2045, a filmmaker travels to Mars to make a film about home. Alone on the red planet, memories of faces and moments flood his mind\u2014a visual poem about creativity and longing.",
+      "truth": "The protagonist travels to Mars in 2045 to create a film about home. Alone in the Martian landscape, memories of loved ones and pivotal moments manifest as moving images. The narrative is ambiguous\u2014are these real recollections or constructs? The ending leaves his mission's success uncertain.",
+      "core": "A meditation on artistic creation: can art preserve what we love when stranded in space? The Vietnamese origin adds dimension\u2014a sci-fi introspection outside the genre's usual territories. Uses the vastness of space to explore interiority.",
+      "created_at": "2026-06-13 15:24:01"
+    },
+    {
       "title": "The Truth of Fact, the Truth of Feeling",
       "year": 2016,
       "medium": "Short Story",
@@ -19449,5 +19466,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1144
+  "count": 1145
 }
