@@ -7201,6 +7201,21 @@
       "created_at": "2026-03-06 15:42:35"
     },
     {
+      "title": "Night Slaves",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Ted Post",
+      "raw_score": 5.93,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens,Surveillance",
+      "image_filename": "Night_Slaves_1970.jpg",
+      "pitch": "Clay and Marjorie, an estranged married couple, take a vacation together while Clay recuperates from a serious auto accident. They arrive in a sleepy little town which seems normal enough by day\u2014but at night, the townspeople begin acting strangely, leaving town in trucks and always returning by morning. Marjorie also begins to act strangely, with no one having any memories of their nighttime activities. Only Clay seems unaffected\u2014due to a metal plate in his head from his accident. No one believes his increasingly frantic warnings about what's happening in this town. \n\nThis 1970 ABC Movie of the Week stands out for its genuinely creepy atmosphere and its surprising subtext: a subversive commentary on exploited migrant workers that gives the otherwise conventional horror plot an unexpected edge.",
+      "created_at": "2026-06-13 10:25:51"
+    },
+    {
       "title": "Night on the Galactic Railroad",
       "year": 1985,
       "medium": "Animated Film",
@@ -16441,5 +16456,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1096
+  "count": 1097
 }

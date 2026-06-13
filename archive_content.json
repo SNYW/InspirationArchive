@@ -8161,6 +8161,23 @@
       "created_at": "2026-03-06 15:42:35"
     },
     {
+      "title": "Night Slaves",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Ted Post",
+      "raw_score": 5.93,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens,Surveillance",
+      "image_filename": "Night_Slaves_1970.jpg",
+      "pitch": "Clay and Marjorie, an estranged married couple, take a vacation together while Clay recuperates from a serious auto accident. They arrive in a sleepy little town which seems normal enough by day\u2014but at night, the townspeople begin acting strangely, leaving town in trucks and always returning by morning. Marjorie also begins to act strangely, with no one having any memories of their nighttime activities. Only Clay seems unaffected\u2014due to a metal plate in his head from his accident. No one believes his increasingly frantic warnings about what's happening in this town. \n\nThis 1970 ABC Movie of the Week stands out for its genuinely creepy atmosphere and its surprising subtext: a subversive commentary on exploited migrant workers that gives the otherwise conventional horror plot an unexpected edge.",
+      "truth": "Clay Howard and his estranged wife Marjorie arrive in a small town while Clay recovers from a serious car accident. During the day, the town appears perfectly normal, but at night, the residents behave strangely\u2014they gather in trucks and leave town, always returning by morning with no memory of where they've been.\n\nMarjorie begins acting differently, becoming distant and secretive. Clay notices she's one of the townspeople who leaves every night, but she has no recollection of her nighttime activities come morning. The townspeople dismiss Clay's concerns as imagination or trauma from his accident.\n\nOnly Clay remains unaffected\u2014doctors discover the metal plate in his head from his accident acts as a shield against whatever is affecting the others. He begins to investigate, finding evidence that the townspeople are being taken somewhere each night to perform involuntary labor. The revelation comes too early in the film, but the underlying twist is that the town is secretly harvesting the free labor of its residents through some form of alien or hypnotic control, with themes mirroring real-world exploitation of migrant workers.",
+      "core": "Night Slaves is notable primarily for its unexpectedly subversive subtext. Made in 1970 at the height of Cesar Chavez's leadership of the United Farm Workers, the film secretly comments on the exploitation of migrant laborers\u2014middle-class white people being herded onto trucks and hauled off to perform involuntary labor, just as real farm workers were being exploited in fields across America.\n\nThe metal plate that protects Clay serves as both a literal plot device and a metaphor for the way certain people are shielded from seeing or participating in systems of exploitation. Those who are \"different\" enough to notice the machinery of oppression often find themselves isolated, disbelieved, and unable to convince others of what's really happening.\n\nThe film is also notable for featuring Sharon Gless in her acting debut\u2014she would later become famous for Cagney & Lacey and the series remake of The Lost Boys. Director Ted Post had worked with star James Franciscus the previous year on Beneath the Planet of the Apes.",
+      "created_at": "2026-06-13 10:25:51"
+    },
+    {
       "title": "Night on the Galactic Railroad",
       "year": 1985,
       "medium": "Animated Film",
@@ -18633,5 +18650,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1096
+  "count": 1097
 }
