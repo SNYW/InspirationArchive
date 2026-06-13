@@ -5236,6 +5236,21 @@
       "created_at": "2026-03-04 02:48:09"
     },
     {
+      "title": "I Killed Einstein Gentlemen",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Old\u0159ich Lipsk\u00fd",
+      "raw_score": 2.915,
+      "total_ratings": 29,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time Travel, Satire, Science",
+      "image_filename": "I_Killed_Einstein_Gentlemen_1970.jpg",
+      "pitch": "In this zany Czechoslovakian sci-fi comedy, a nuclear time travel experiment goes catastrophically wrong, causing an atomic blast that covers Europe with radiation making women grow beards and lose the ability to have children. The United Nations convenes an emergency summit, and the desperate solution they devise: travel back to 1905 and assassinate Albert Einstein before he can develop his theories.\n\nThe film features what is now recognized as one of the earliest predictions of the selfie stick\u2014a character uses a device that projects a sleeping person's dreams onto a screen, decades before such technology existed. Directed by Old\u0159ich Lipsk\u00fd and starring Ji\u0159\u00ed Sov\u00e1k, this is a gleefully absurd piece of Cold War Czechoslovakian cinema.",
+      "created_at": "2026-06-13 12:38:07"
+    },
+    {
       "title": "I Killed Einstein, Gentlemen",
       "year": 1970,
       "medium": "Film",
@@ -16741,5 +16756,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1116
+  "count": 1117
 }

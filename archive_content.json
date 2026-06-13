@@ -5934,6 +5934,23 @@
       "created_at": "2026-03-04 02:48:09"
     },
     {
+      "title": "I Killed Einstein Gentlemen",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Old\u0159ich Lipsk\u00fd",
+      "raw_score": 2.915,
+      "total_ratings": 29,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time Travel, Satire, Science",
+      "image_filename": "I_Killed_Einstein_Gentlemen_1970.jpg",
+      "pitch": "In this zany Czechoslovakian sci-fi comedy, a nuclear time travel experiment goes catastrophically wrong, causing an atomic blast that covers Europe with radiation making women grow beards and lose the ability to have children. The United Nations convenes an emergency summit, and the desperate solution they devise: travel back to 1905 and assassinate Albert Einstein before he can develop his theories.\n\nThe film features what is now recognized as one of the earliest predictions of the selfie stick\u2014a character uses a device that projects a sleeping person's dreams onto a screen, decades before such technology existed. Directed by Old\u0159ich Lipsk\u00fd and starring Ji\u0159\u00ed Sov\u00e1k, this is a gleefully absurd piece of Cold War Czechoslovakian cinema.",
+      "truth": "Professor David Moore and his colleague Professor Frank Pech develop a revolutionary time travel device. During a demonstration, the machine goes haywire and triggers a nuclear explosion covering all of Europe with a mysterious radiation. The catastrophic side effect: women begin growing beards and become completely infertile. The world's population faces extinction.\n\nThe United Nations convenes an emergency summit. The scientists conclude that the only solution is to travel back in time to 1905, to the period when Albert Einstein was developing his theory of relativity, and assassinate him before his research can lead to nuclear weapons. The hope is that without Einstein's work, nuclear technology will never be developed.\n\nAgent Karel Bures is trained for the mission, but on the morning of the scheduled time jump, he dies of a heart attack. His identical twin brother Jan, a naive and earnest man, impersonates him and takes the mission. Jan travels back to 1905, but finds himself falling in love with the past\u2014with period music, with the simpler life, with a woman named Betsy. He loses his will to complete the mission, ultimately choosing love over genocide.\n\nThe film ends with Jan returning to the present to find the world still suffering from the radiation effects\u2014but he's made his choice.",
+      "core": "This is a gleefully absurdist satirical comedy that uses science fiction to lampoon humanity's relationship with scientific progress. The core joke is darkly brilliant: what if we blamed science itself for the problems it creates, and decided to eliminate the scientists? The film suggests that scientific knowledge, once created, cannot be un-created\u2014and that the real question is not whether progress happens, but how we choose to live with its consequences.\n\nThe film's most prescient moment is the dream-projection device, essentially a selfie stick for the subconscious\u2014decades before the smartphone made such devices ubiquitous. It also features a talking computer with a personality decades before HAL 9000.\n\nAs a Czechoslovakian production from 1970, it reflects the peculiar anxieties of Cold War Eastern Europe: nuclear\u6050\u60e7, the arms race, and a darkly humorous fatalism about the unstoppable march of technology. Yet it refuses to be didactic, remaining a joyful, inventive, and deeply weird piece of cinema.",
+      "created_at": "2026-06-13 12:38:07"
+    },
+    {
       "title": "I Killed Einstein, Gentlemen",
       "year": 1970,
       "medium": "Film",
@@ -18973,5 +18990,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1116
+  "count": 1117
 }
