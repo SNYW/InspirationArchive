@@ -2398,6 +2398,23 @@
       "created_at": "2026-03-06 06:27:38"
     },
     {
+      "title": "California Crisis: Gun Salvo",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 4.9,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Conspiracy, Survival, Discovery",
+      "image_filename": "california_crisis_gun_salvo.jpg",
+      "pitch": "In 1986 California, two carefree young women named Noera and Marcia stumble upon wreckage from a military convoy containing a mysterious object. What begins as a curious discovery soon pulls them into a vast government conspiracy of international proportions. Their search for answers leads them from the highways of California to the heart of Death Valley, where they uncover a secret that could change the world\u2014or destroy it.\n\nThis obscure Japanese B-movie offers a pulp sci-fi thriller that embraces its low-budget roots. The premise mixes government conspiracy thriller elements with desert road movie atmosphere, creating an unexpectedly tense cat-and-mouse chase through the American Southwest. The mystery object serves as both MacGuffin and metaphor for hidden truths buried beneath the desert sand.",
+      "truth": "Noera and Marcia are driving through the California desert when they happen upon the wreckage of a military convoy. Among the debris, they discover a strange, glowing object that they take with them. Almost immediately, they notice they're being followed by government agents.\n\nThe women are pursued across the desert as they try to understand what the object is and why the government wants it so badly. Their journey takes them deeper into the mystery, eventually leading them to a hidden facility in Death Valley where the true scale of the conspiracy is revealed.\n\nThe object turns out to be an advanced piece of technology\u2014or perhaps something far more dangerous. The film ends with the women facing a choice: expose the truth or become victims of the conspiracy themselves.",
+      "core": "California Crisis: Gun Salvo is a fascinating artifact of 1980s Japanese B-movie cinema, offering a unique take on the American conspiracy thriller genre from an outsider's perspective. The film explores themes of government secrecy, the price of discovery, and the vulnerability of ordinary citizens caught in extraordinary circumstances.\n\nThe choice to set a Japanese film in California and cast American actresses gives the work an unusual cultural position\u2014neither fully Japanese nor authentically American, but a curious hybrid that reflects Japan's long history of engaging with American pop culture and Hollywood imagery.\n\nWhile the film is clearly a low-budget production, it compensates with genuine tension and a premise that anticipates many later conspiracy thrillers. The desert setting provides effective atmosphere, and the mysterious object at the center of the plot serves as a vehicle for exploring questions about technology, government power, and the cost of truth.",
+      "created_at": "2026-06-13 06:43:28"
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -17987,5 +18004,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1058
+  "count": 1059
 }

@@ -2116,6 +2116,21 @@
       "created_at": "2026-03-06 06:27:38"
     },
     {
+      "title": "California Crisis: Gun Salvo",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 4.9,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Conspiracy, Survival, Discovery",
+      "image_filename": "california_crisis_gun_salvo.jpg",
+      "pitch": "In 1986 California, two carefree young women named Noera and Marcia stumble upon wreckage from a military convoy containing a mysterious object. What begins as a curious discovery soon pulls them into a vast government conspiracy of international proportions. Their search for answers leads them from the highways of California to the heart of Death Valley, where they uncover a secret that could change the world\u2014or destroy it.\n\nThis obscure Japanese B-movie offers a pulp sci-fi thriller that embraces its low-budget roots. The premise mixes government conspiracy thriller elements with desert road movie atmosphere, creating an unexpectedly tense cat-and-mouse chase through the American Southwest. The mystery object serves as both MacGuffin and metaphor for hidden truths buried beneath the desert sand.",
+      "created_at": "2026-06-13 06:43:28"
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -15871,5 +15886,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1058
+  "count": 1059
 }
