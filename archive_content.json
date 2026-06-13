@@ -4744,6 +4744,23 @@
       "created_at": "2026-06-12 16:28:02"
     },
     {
+      "title": "Goldengirl",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Joseph Sargent",
+      "raw_score": 2.68,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Genetic Engineering, Transhumanism, Corporate Power",
+      "image_filename": "Goldengirl_1979.jpg",
+      "pitch": "Goldengirl is a 1979 American sci-fi sports drama directed by Joseph Sargent, starring James Coburn and Susan Anton in her screen debut. The film offers a biting satire of sports exploitation and the dark side of scientific ambition.\n\nA neo-Nazi scientist named Dr. William Serafin has developed a method to create physically superior humans through a regime of vitamins and hormones administered from childhood. He tests his experiment on his adopted daughter, Goldine, raising her as a human laboratory animal. When she reaches adulthood, Serafin declares his \\\"Goldengirl\\\" will enter and win three races at the 1980 Moscow Olympics \u2014 proving his scientific theory correct and turning a profit for the businessmen who have invested in her future.\n\nThe film weaves together themes of scientific ethics, athletic exploitation, and the commodification of human life into a provocative (if uneven) package that was notably ahead of its time in addressing concerns now central to sports scandals and genetic ethics debates.",
+      "truth": "Dr. William Serafin, a former Nazi doctor who escaped prosecution, has spent decades developing a method to create physically superior humans. He adopts a girl at birth and names her Goldine, subjecting her to a rigorous program of vitamins, hormones, and specialized training from childhood.\n\nNow an adult, Goldine is a physical marvel \u2014 but emotionally stunted and socially naive. Serafin enters her in the 1980 Moscow Olympics to win three track events, funding the operation by pre-selling shares in her future to a syndicate of businessmen. They send merchandising expert Jack Dryden to monitor their investment.\n\nGoldine's personal and emotional development is left in the hands of Dr. Sammy Lee, a psychologist hired to prepare her for public exposure. As Goldine trains and competes, tensions rise between the investors, Serafin, and Goldine herself \u2014 who begins to question her identity and purpose.\n\nAt the Moscow Olympics, Goldine competes but the results are unexpected. The film ends with ambiguous implications about whether the experiment truly succeeded or failed, and what Goldine's future holds as a person rather than a product.",
+      "core": "Goldengirl is a prescient film that anticipated many modern debates about genetic engineering, athletic enhancement, and the commodification of athletes. The film asks uncomfortable questions about the ethics of creating human beings for profit and glory \u2014 questions that resonate strongly in an era of gene doping and sports exploitation scandals.\n\nDirector Joseph Sargent brings the same brisk style from his earlier Colossus: The Forbin Project, delivering a wittily conceived satire that takes dead aim at the big business surrounding so-called amateur sports. The film draws explicit parallels between Serafin's Nazi past and his present-day exploitation of Goldine, suggesting that the scientific pursuit of the \\\"perfect\\\" human has troubling ethical roots.\n\nWhile the execution is uneven and the film was a box office flop, Goldengirl deserves recognition as an early example of sci-fi engaging seriously with transhumanism and genetic engineering ethics \u2014 themes that would become central to the genre in subsequent decades.",
+      "created_at": "2026-06-13 01:07:35"
+    },
+    {
       "title": "Golem",
       "year": 1979,
       "medium": "Film",
@@ -17103,5 +17120,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1006
+  "count": 1007
 }
