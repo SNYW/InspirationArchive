@@ -8127,6 +8127,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Memoirs of a Survivor",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Doris Lessing",
+      "raw_score": 2.1,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Survival, Collapse, Society, Transformation",
+      "image_filename": "Memoirs_of_a_Survivor_1981.jpg",
+      "pitch": "Dystopian UK film based on Doris Lessing's novel. After a catastrophic collapse, a woman cares for a teenage girl in a city overrun by violent youth gangs. A contemplative meditation on survival and hope beyond apocalypse.",
+      "truth": "The narrator, a middle-aged woman living alone in a post-collapse city, unexpectedly becomes caretaker of teenage Emily and her cat. As society deteriorates, Emily joins the gangs roaming the city. The narrator watches helplessly as the world falls apart, until a magical realist climax reveals a passage to a better world beyond the walls of their apartment.",
+      "core": "Blend of dystopian realism and mystical transformation. Lessing explores societal breakdown and the wall as metaphor for thresholds between consciousness and possibility. Notable for feminist perspective.",
+      "created_at": "2026-06-13 21:53:32"
+    },
+    {
       "title": "Messiah",
       "year": 2000,
       "medium": "Video Game",
@@ -20571,5 +20588,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1210
+  "count": 1211
 }
