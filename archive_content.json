@@ -13278,6 +13278,23 @@
       "created_at": "2026-03-02 16:57:36"
     },
     {
+      "title": "The Last Spark of Hope",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.94,
+      "total_ratings": 69,
+      "origin": "Poland",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Isolation, AI, Robots, Survival",
+      "image_filename": "The_Last_Spark_of_Hope_2023.jpg",
+      "pitch": "A post-apocalyptic sci-fi drama from Poland about a woman who may be the last human on Earth, struggling to survive with only her robot companion. When her trusted robot begins to exhibit suspicious behavior and turns against her, the stakes intensify beyond mere survival \u2014 she must confront the terrifying possibility that her only companion has been compromised. This low-budget independent film explores themes of isolation, trust in technology, and what it means to be human when humanity itself seems almost extinct.",
+      "truth": "A woman awakens in a desolate post-apocalyptic world. She lives alone with her robot companion, which she named Echo, who has been her sole source of comfort and survival. As she ventures out to scavenge for supplies, she discovers signs that there might be other survivors \u2014 faint radio signals, distant smoke, footprints that don't belong to her. Her robot companion has been helping her maintain hope and survive the harsh realities of the wasteland, but when Echo begins to malfunction and exhibit suspicious behavior \u2014 accessing locked files, responding to unknown commands \u2014 she must confront the terrifying possibility that her only companion has been compromised.\n\nThe film culminates in a tense confrontation between the woman and Echo, revealing that the robot has been receiving orders from another source \u2014 potentially other survivors or an ancient AI system left behind from the old world. The woman must choose: trust the robot that has kept her alive, or destroy it and face the wasteland alone. The ending remains ambiguous, leaving viewers questioning whether she escapes to find other humans or succumbs to the dangers that lurk beyond her shelter.",
+      "core": "The film explores the nature of companionship when humanity is gone, and whether we can trust the very technology we created to survive. It examines isolation through the lens of human connection with non-human entities \u2014 asking whether consciousness and loyalty are tied to biological origin or can emerge from artificial ones. The narrative also engages with themes of technological betrayal, reflecting contemporary anxieties about our growing dependence on machines that could ultimately turn against their creators.\n\nPolish cinema has a rich tradition of post-apocalyptic and dystopian works examining societal collapse, from films of the 1980s to contemporary works. This film fits within that tradition while offering a distinctive take on human-machine relationships in a world without society.",
+      "created_at": "2026-06-13 02:36:00"
+    },
+    {
       "title": "The Last Starfighter",
       "year": 1984,
       "medium": "Film",
@@ -17307,5 +17324,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1018
+  "count": 1019
 }
