@@ -17392,6 +17392,23 @@
       "created_at": "2026-06-13 15:24:01"
     },
     {
+      "title": "The Tripods",
+      "year": 1984,
+      "medium": "TV Series",
+      "creator": "John Christopher",
+      "raw_score": 3.58,
+      "total_ratings": 18,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Aliens, Rebellion, Survival",
+      "image_filename": "the_tripods_1984.jpg",
+      "pitch": "In 2089, humanity lives under alien Tripods\u2014gigantic three-legged machines. Every teenager undergoes \\\"Capping\\\" at 14, a brain implant suppressing free will. When Will Parker chooses resistance over conformity, he joins the White Mountains movement.",
+      "truth": "In 2089, Will Parker is about to accept his Capping until he meets a \\\"fake-Capped\\\" man. With cousin Henry, he escapes to join the resistance. Series 1 adapts \\\"The White Mountains\\\"; Series 2 adapts \\\"The City of Gold and Lead,\\\" where Will infiltrates a Tripod city and learns the Masters will reshape Earth's atmosphere, killing humanity. The third book was never filmed.",
+      "core": "The Tripods explores authoritarian control through manufactured consent\u2014the \\\"Caps\\\" represent propaganda and ideological repression. The 1984 BBC series pioneered computer-generated graphics for the Tripod machines. John Christopher's trilogy became foundational young adult SF.",
+      "created_at": "2026-06-13 15:52:32"
+    },
+    {
       "title": "The Truth of Fact, the Truth of Feeling",
       "year": 2016,
       "medium": "Short Story",
@@ -19534,5 +19551,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1149
+  "count": 1150
 }
