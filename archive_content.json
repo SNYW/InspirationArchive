@@ -13431,6 +13431,23 @@
       "created_at": "2026-03-03 02:48:12"
     },
     {
+      "title": "The Falls",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Peter Greenaway",
+      "raw_score": 3.6,
+      "total_ratings": 37,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Post-Apocalypse, Science-Fantasy",
+      "topics": "Evolution, Mutation, Isolation, Memory",
+      "image_filename": "the_falls_1980.jpg",
+      "pitch": "After a mysterious catastrophe, survivors develop bird-like mutations, dream of flight, speak new languages, and stop aging. Greenaway's mock documentary catalogs 92 people whose surnames begin with FALL.",
+      "truth": "The VUE devastates the world, leaving survivors with strange conditions. The film presents 92 profiles in bureaucratic style: a pilot afraid of sky, twins sharing one heartbeat, a woman turning to feathers. Clinical narration documents extraordinary trauma with mundane routine.",
+      "core": "Greenaway questions whether institutions can process the unknowable. The bureaucratic lens creates dark comedy while revealing how humans normalize the extraordinary. Bird imagery represents transformation and escape. Full experimental form.",
+      "created_at": "2026-06-13 13:47:32"
+    },
+    {
       "title": "The Fantastic Adventures of Unico",
       "year": 1981,
       "medium": "Anime Film",
@@ -19160,5 +19177,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1127
+  "count": 1128
 }
