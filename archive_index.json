@@ -7220,8 +7220,8 @@
       "year": 1903,
       "medium": "Novel",
       "creator": "Jerzy \u017bu\u0142awski",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.85,
+      "total_ratings": 173,
       "origin": "Poland",
       "mood": "Pessimistic",
       "sub_genres": "Space-Opera",
@@ -15076,6 +15076,21 @@
       "created_at": "2026-02-28 23:35:30"
     },
     {
+      "title": "Torture Ship",
+      "year": 1939,
+      "medium": "Film",
+      "creator": "Victor Halperin",
+      "raw_score": 1.88,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Science-Fiction",
+      "topics": "Mad Scientist, Crime, Ethics",
+      "image_filename": "Torture_Ship_1939.jpg",
+      "pitch": "Torture Ship is a 1939 American science fiction horror film directed by Victor Halperin, based on Jack London's 1899 short story \\\"A Thousand Deaths\\\". The film stars Lyle Talbot as Dr. Herbert Stander, a mad scientist who conducts twisted experiments on the criminal mind aboard his private ship, using captured criminals as unwilling test subjects.\n\nThe film was one of the earliest adaptations of London's work and represents an intriguing early entry in the sci-fi horror genre, predating many of the more famous monster movies of the 1940s. Its premise of a scientist using his vessel as a floating laboratory for unethical experiments places it firmly in the tradition of mad scientist cinema that would flourish in subsequent decades.",
+      "created_at": "2026-06-13 07:33:23"
+    },
+    {
       "title": "Tot\u00f2 in the Moon",
       "year": 1958,
       "medium": "Film",
@@ -16006,5 +16021,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1067
+  "count": 1068
 }

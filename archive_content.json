@@ -8182,8 +8182,8 @@
       "year": 1903,
       "medium": "Novel",
       "creator": "Jerzy \u017bu\u0142awski",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.85,
+      "total_ratings": 173,
       "origin": "Poland",
       "mood": "Pessimistic",
       "sub_genres": "Space-Opera",
@@ -17086,6 +17086,23 @@
       "created_at": "2026-02-28 23:35:30"
     },
     {
+      "title": "Torture Ship",
+      "year": 1939,
+      "medium": "Film",
+      "creator": "Victor Halperin",
+      "raw_score": 1.88,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Science-Fiction",
+      "topics": "Mad Scientist, Crime, Ethics",
+      "image_filename": "Torture_Ship_1939.jpg",
+      "pitch": "Torture Ship is a 1939 American science fiction horror film directed by Victor Halperin, based on Jack London's 1899 short story \\\"A Thousand Deaths\\\". The film stars Lyle Talbot as Dr. Herbert Stander, a mad scientist who conducts twisted experiments on the criminal mind aboard his private ship, using captured criminals as unwilling test subjects.\n\nThe film was one of the earliest adaptations of London's work and represents an intriguing early entry in the sci-fi horror genre, predating many of the more famous monster movies of the 1940s. Its premise of a scientist using his vessel as a floating laboratory for unethical experiments places it firmly in the tradition of mad scientist cinema that would flourish in subsequent decades.",
+      "truth": "The film opens with Lt. Bob Bennett (Lyle Talbot) arriving at Dr. Herbert Stander's private ship to investigate reports of missing criminals. Dr. Stander claims he is conducting legitimate research into the criminal mind, but Bennett soon discovers that the scientist has been using his captive subjects for dangerous experiments.\n\nAmong the prisoners are Joan Martel (Julie Bishop), who was arrested for murder, and several hardened criminals including Harry \\\"The Carver\\\" Bogard (Russell Hopton). Dr. Stander subjects them to various psychological and physical experiments designed to study criminal behavior and its causes.\n\nAs the experiments progress, the true nature of Stander's work becomes increasingly disturbing. He pushes his subjects to their limits, apparently seeking to prove theories about the nature of evil and whether criminals are born or made. The film builds to a confrontation between Bennett\u2014who has grown suspicious of Stander's methods\u2014and the doctor himself.\n\nThe exact resolution varies from typical film summaries, but the core narrative involves Stander's experiments ultimately leading to tragedy, with his own hubris and ethical violations causing his downfall. The film was notable for its dark subject matter and the unflinching portrayal of a scientist willing to violate basic principles of medical ethics in pursuit of his research.",
+      "core": "Torture Ship represents an early example of the mad scientist horror genre, predating the classic Universal monster films of the 1940s. Based on Jack London's short story originally published in 1899, the film grapples with questions of scientific ethics that remain relevant today.\n\nThe film explores the tension between scientific progress and moral constraints\u2014a theme that runs through much of early science fiction. Dr. Stander represents the scientist who believes that knowledge justifies any means, using his captives as test subjects without their consent.\n\nAs an adaptation of London's work, the film also reflects late 19th-century anxieties about the nature of criminality and whether evil is inherent or environmental. The horror here is not extraterrestrial or supernatural, but rather the very human capability for scientific cruelty.\n\nThe film's status as an obscure 1930s horror-sci-fi hybrid makes it a fascinating artifact of early genre cinema. Its straightforward approach to dark material and its period setting give it a gritty, earnest quality that distinguishes it from later, more stylized entries in the genre.",
+      "created_at": "2026-06-13 07:33:23"
+    },
+    {
       "title": "Tot\u00f2 in the Moon",
       "year": 1958,
       "medium": "Film",
@@ -18140,5 +18157,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1067
+  "count": 1068
 }
