@@ -3129,6 +3129,23 @@
       "created_at": "2026-05-24 18:06:30"
     },
     {
+      "title": "Day of Wrath",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Sulambek Mamilov",
+      "raw_score": 3.05,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Genetic Engineering, Science, Survival",
+      "image_filename": "Day_of_Wrath_1985.jpg",
+      "pitch": "A Soviet journalist investigates mysterious disappearances in a forbidden forest zone, only to uncover a geneticist's dark secret \u2014 a new race of intelligent, emotionless bear-creatures created through forbidden experiments. This 1985 Soviet sci-fi horror blends ecological warning with body horror, exploring the dangerous consequences of unchecked scientific ambition and the question of what happens when we create life without a soul.",
+      "truth": "Journalist Betli arrives in a remote zone to investigate reports of missing villagers. He meets forester Meller, who explains that the forest once housed Dr. Fiedler's secret laboratory where the scientist conducted genetic experiments. Fiedler created the otarks \u2014 bear-like creatures with human-level intelligence but no emotions, compassion, or moral sense. The otarks have been capturing villagers and conducting their own experiments on them. Meller hunts and kills many of the creatures, but ultimately both he and Betli are killed in the confrontation. Before dying, Betli manages to record his entire story on camera, documenting the truth. In the aftermath, the surviving villagers arm themselves and launch an assault on the otarks, destroying the creatures in a violent reckoning \u2014 the Day of Wrath.",
+      "core": "Day of Wrath explores the dangers of scientific hubris and the ethical void at the heart of creation without conscience. The otarks function as a dark mirror to humanity \u2014 intelligent beings devoid of empathy, representing what humanity might become without moral grounding. The film asks whether knowledge without wisdom leads inevitably to destruction, and whether scientists who play creator can ever truly control their creations. This Soviet-era warning about the dangers of genetic engineering resonates powerfully in the age of CRISPR and gene editing.",
+      "created_at": "2026-06-13 06:37:59"
+    },
+    {
       "title": "Dead Dead Demon's Dededede Destruction",
       "year": 2014,
       "medium": "Manga",
@@ -17970,5 +17987,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1057
+  "count": 1058
 }
