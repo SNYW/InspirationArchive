@@ -9555,6 +9555,23 @@
       "created_at": "2026-03-04 19:48:27"
     },
     {
+      "title": "Quark",
+      "year": 1977,
+      "medium": "TV Series",
+      "creator": "Buck Henry",
+      "raw_score": 3.37,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Satire, Space Travel, Bureaucracy",
+      "image_filename": "Quark_1977.jpg",
+      "pitch": "Quark is a 1977 American science fiction sitcom that parodies Star Trek and other classic space operas. Created by Buck Henry, co-creator of the spy spoof Get Smart, the show follows Commander Adam Quark and his crew on the United Galaxy Sanitation Patrol Cruiser \u2014 an interstellar garbage scow operating out of Space Station Perma One in the year 2226. Quark longs for glamorous, important assignments but finds himself collecting \"space baggies\" instead. The show is a loving tribute to Star Trek, with specific episodes satirizing Star Wars, 2001: A Space Odyssey, Buck Rogers, and Flash Gordon.",
+      "truth": "The series follows Commander Adam Quark (Richard Benjamin), a skilled but extraordinarily unlucky officer assigned to the United Galaxy Sanitation Patrol. His crew includes the Bettys, identical clone navigators who speak in unison and each claim the other is the clone; Gene/Jean (Tim Thomerson), a transmute with both male and female chromosomes whose personalities switch between a macho warrior and a demure pacifist; Ficus Pandorata (Richard Kelton), a sentient plant who lacks all human emotion but is extremely intelligent; Andy, a cowardly neurotic robot; and O.B. Mudd, a mad scientist who appears only in the pilot.\n\nTheir supervisor is Otto Bob Palindrome (Conrad Janis), a petty bureaucrat who gives new definition to the word \"petty\" \u2014 a tyrant to his subordinates and a toady to his superiors. The Head is a disembodied being to whom Palindrome answers, with a trademark sign-off of \"The galaxy, ad infinitum!\"\n\nThe show ran for 8 episodes in 1977-78, broadcast on NBC. It was cancelled in April 1978, though the complete series was later released on DVD in 2008. The show drew heavily from Star Trek as a source of parody, with three episodes being direct parodies of specific Star Trek episodes.",
+      "core": "Quark stands as one of the earliest American television attempts to deconstruct the space opera format through comedy, predating similar parodies like Galaxy Quest by over two decades. Buck Henry brought his expertise from Get Smart to create a show that functions both as affectionate tribute and sharp satire of the science fiction genre.\n\nThe show explores themes of bureaucratic frustration, the gap between ambition and reality, and the absurdities of hierarchy through the lens of space exploration. The characters represent archetypal science fiction tropes \u2014 the strait-laced captain, the alien science officer, the robot \u2014 while subverting them through comedy.\n\nQuark earned one Emmy Award nomination for costume designer Grady Hunt's work. The series has developed a cult following and was referenced in Breaking Bad, where character Gale Boetticher creates a music video featuring footage from the show. It remains a fascinating artifact of late 1970s American science fiction comedy.",
+      "created_at": "2026-06-13 12:43:10"
+    },
+    {
       "title": "Quatermass and the Pit",
       "year": 1958,
       "medium": "Serial Film",
@@ -18990,5 +19007,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1117
+  "count": 1118
 }

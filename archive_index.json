@@ -8431,6 +8431,21 @@
       "created_at": "2026-03-04 19:48:27"
     },
     {
+      "title": "Quark",
+      "year": 1977,
+      "medium": "TV Series",
+      "creator": "Buck Henry",
+      "raw_score": 3.37,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Satire, Space Travel, Bureaucracy",
+      "image_filename": "Quark_1977.jpg",
+      "pitch": "Quark is a 1977 American science fiction sitcom that parodies Star Trek and other classic space operas. Created by Buck Henry, co-creator of the spy spoof Get Smart, the show follows Commander Adam Quark and his crew on the United Galaxy Sanitation Patrol Cruiser \u2014 an interstellar garbage scow operating out of Space Station Perma One in the year 2226. Quark longs for glamorous, important assignments but finds himself collecting \"space baggies\" instead. The show is a loving tribute to Star Trek, with specific episodes satirizing Star Wars, 2001: A Space Odyssey, Buck Rogers, and Flash Gordon.",
+      "created_at": "2026-06-13 12:43:10"
+    },
+    {
       "title": "Quatermass and the Pit",
       "year": 1958,
       "medium": "Serial Film",
@@ -16756,5 +16771,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1117
+  "count": 1118
 }
