@@ -16865,6 +16865,23 @@
       "created_at": "2026-03-03 16:31:47"
     },
     {
+      "title": "Ultraman Zearth",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Tsuburaya Productions",
+      "raw_score": 3.73,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Aliens, Parody",
+      "image_filename": "Ultraman_Zearth_1996.jpg",
+      "pitch": "Ultraman Zearth is a 1996 Japanese tokusatsu film that serves as a loving parody of the iconic Ultraman franchise. Released to celebrate the 30th anniversary of the original Ultraman, the film introduces a hero unlike any traditional Ultra warrior\u2014a peculiar alien from the Land of Pikari in Nebula Z95 who has an obsessive fixation on cleanliness.\n\nThe hero's human identity is Katsuto Asahi, a young man who shares Zearth's peculiar aversion to dirt. What makes Ultraman Zearth truly unique is his transformation method: rather than dramatic poses or mystical devices, he transforms by using an electric toothbrush called the Pikari Brusher\u2014a detail that perfectly encapsulates the film's comedic tone. His mission on Earth is to combat pollution and the monsters that threaten the planet, though his hygiene fixation often proves more troublesome than helpful.\n\nThe film strikes a careful balance between genuine tokusatsu action and self-aware humor, making it an ideal entry for fans of the Ultra series looking for something different. The parody extends beyond the hero to include send-ups of classic Ultraman tropes, characters from the original series appearing in comedic contexts, and a generally lighter take on the alien superhero formula.",
+      "truth": "The film opens with the introduction of the Mysterious Yonder Defence Organization (MYDO), an international defense organization that disguises its headquarters as an Idemitsu gas station in central Tokyo. Their mission: protect Earth from alien threats, particularly those seeking to exploit the planet's resources.\n\nThe main villain is Alien Benzen, who arrives on Earth in his human form Akuma Ogami, seeking gold to treat his chronic gas-related illness. He deploys a monster called Cotten-Poppe, which absorbs gold from throughout Japan. Meanwhile, Katsuto Asahi discovers his alien heritage and transforms into Ultraman Zearth to battle the creature.\n\nThroughout the film, Zearth attempts to defeat Cotten-Poppe using his signature Speciu-Shula Ray attack, but learns that the monster's energy absorption makes it vulnerable to his attacks. After paralyzing the creature, Zearth flies it into space where it detonates safely. The film concludes with Benzen's defeat and Zearth's continued watch over Earth.\n\nA sequel, Ultraman Zearth 2: Superman Big Battle - Light and Shadow, followed in 1997, introducing Ultraman Shadow (an evil counterpart) and further expanding the comedic universe.",
+      "core": "Ultraman Zearth represents a unique moment in the Ultra Series history\u2014a deliberate departure from the franchise's typically earnest tone to embrace self-parody. Created for the 30th anniversary of Ultraman, the film honors its predecessor while poking fun at the conventions that made the series famous.\n\nThe central joke\u2014transforming with a toothbrush\u2014embodies the film's approach: taking something mundane and giving it cosmic significance, much like the original series did with everyday objects. This inversion of Ultraman logic becomes the film's defining comedic device.\n\nBeyond humor, Zearth carries themes of environmentalism, with pollution serving as the primary threat. The hero's obsession with cleanliness, while played for laughs, reflects genuine concerns about Earth's ecological state. The MYDO organization, disguised as a gas station, adds another layer of commentary on corporate disguise and environmental responsibility.\n\nThe film also functions as a celebration of the Ultra franchise's legacy, featuring cameo appearances by actors from the original series in comedic contexts\u2014a gesture that acknowledges fan investment while maintaining the playful tone. Ultraman Zearth remains a cult favorite for its unique approach to the tokusatsu genre.",
+      "created_at": "2026-06-13 04:37:53"
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -17647,5 +17664,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1038
+  "count": 1039
 }

@@ -14881,6 +14881,21 @@
       "created_at": "2026-03-03 16:31:47"
     },
     {
+      "title": "Ultraman Zearth",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Tsuburaya Productions",
+      "raw_score": 3.73,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Aliens, Parody",
+      "image_filename": "Ultraman_Zearth_1996.jpg",
+      "pitch": "Ultraman Zearth is a 1996 Japanese tokusatsu film that serves as a loving parody of the iconic Ultraman franchise. Released to celebrate the 30th anniversary of the original Ultraman, the film introduces a hero unlike any traditional Ultra warrior\u2014a peculiar alien from the Land of Pikari in Nebula Z95 who has an obsessive fixation on cleanliness.\n\nThe hero's human identity is Katsuto Asahi, a young man who shares Zearth's peculiar aversion to dirt. What makes Ultraman Zearth truly unique is his transformation method: rather than dramatic poses or mystical devices, he transforms by using an electric toothbrush called the Pikari Brusher\u2014a detail that perfectly encapsulates the film's comedic tone. His mission on Earth is to combat pollution and the monsters that threaten the planet, though his hygiene fixation often proves more troublesome than helpful.\n\nThe film strikes a careful balance between genuine tokusatsu action and self-aware humor, making it an ideal entry for fans of the Ultra series looking for something different. The parody extends beyond the hero to include send-ups of classic Ultraman tropes, characters from the original series appearing in comedic contexts, and a generally lighter take on the alien superhero formula.",
+      "created_at": "2026-06-13 04:37:53"
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -15571,5 +15586,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1038
+  "count": 1039
 }
