@@ -18072,6 +18072,23 @@
       "created_at": "2026-03-04 22:49:39"
     },
     {
+      "title": "We",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Vojt\u011bch Jasn\u00fd",
+      "raw_score": 2.38,
+      "total_ratings": 12,
+      "origin": "Germany",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism,Surveillance,Rebellion",
+      "image_filename": "We_1982.jpg",
+      "pitch": "In a world of perfect conformity, one man begins to question everything. Based on Yevgeny Zamyatin's prophetic 1921 novel\u2014the work that inspired George Orwell's 1984 and Aldous Huxley's Brave New World\u2014We presents a chilling vision of a totalitarian state built on mathematical precision and rational efficiency.\n\nOne thousand years after the One State's conquest of the world, the massive spaceship Integral is under construction, designed to spread the state's proven recipe for justice and happiness to other planets. Its chief engineer, D-503 (Dieter Laser), is a model citizen\u2014until he meets I-330 (Sabine von Maydell), a woman whose very existence is an act of rebellion. Against the backdrop of glass walls and uniformed citizens marching in perfect step, D-503 begins to experience something the state cannot tolerate: the stirrings of individual thought and forbidden emotion.\n\nThe film is a meditation on the price of perfection\u2014and the indomitable human spirit that resists it.",
+      "truth": "One thousand years after the One State conquered the entire world, the spaceship Integral is being built to spread the state's perfected formula for happiness to extraterrestrial planets. D-503, the project's chief engineer, is a loyal citizen whose life is defined by schedules, uniformity, and absolute obedience to the Benefactor.\n\nAssigned visits from O-90 provide D-503 with prescribed companionship, but his existence is fundamentally empty\u2014until he encounters I-330 during a mandated walk. She smokes, drinks, and flirts openly\u2014acts that are criminal in the One State. D-503 is both repelled and fascinated by her.\n\nI-330 invites D-503 to the Ancient House, the only opaque building in the glass city, where she reveals the existence of the Mephi\u2014a secret society plotting to bring down the One State. She takes D-503 through hidden tunnels beyond the Green Wall, where he encounters humans who have reverted to primitive nature, their bodies covered in fur.\n\nDespite his ideological training, D-503 begins aiding the rebellion. When O-90 becomes pregnant, D-503 arranges for her to escape beyond the Wall. But the Mephi uprising fails. D-503 is captured and subjected to the \"Great Operation\"\u2014a psycho-surgical procedure that removes imagination and emotion, leaving him a compliant \"tractor in human form.\"\n\nI-330 is tortured and executed. D-503, now stripped of his humanity, willingly betrays the rebellion. The One State survives, but the ending is ambiguous\u2014the Green Wall crumbles, birds return to the city, and people begin committing acts of rebellion. As I-330 stated: there is no final revolution.",
+      "core": "We is one of the earliest filmed adaptations of Yevgeny Zamyatin's foundational dystopian novel\u2014a work that predates and directly influenced both Orwell's 1984 and Huxley's Brave New World. Zamyatin wrote We in 1920-1921, during the early Soviet period, and the novel was not published in Russia until 1988 due to censorship.\n\nThe film examines themes of totalitarianism, rationalism taken to its logical extreme, and the human cost of absolute conformity. The One State's use of Frederick Winslow Taylor's scientific management principles reflects Zamyatin's critique of industrial efficiency as a model for social organization.\n\nThe glass architecture of the One State serves as both literal and metaphorical surveillance\u2014the citizens live in transparent housing, watched always by the Bureau of Guardians. This prefigures the panopticon society that Orwell would later describe.\n\nThe film's greatest strength is its psychological depth: D-503's transformation from compliant engineer to rebel to lobotomized loyalist traces the complete arc of individuality crushed by authoritarian systems. His diary\u2014the narrative frame of both novel and film\u2014becomes a document of humanity's final stand.\n\nVojt\u011bch Jasn\u00fd, the Czech director best known for The Cassandra Cat and The Getaway, brings a European art-house sensibility to the material, prioritizing interiority and philosophical tension over spectacle.",
+      "created_at": "2026-06-13 10:13:43"
+    },
+    {
       "title": "We Called Him Robert",
       "year": 1967,
       "medium": "Film",
@@ -18599,5 +18616,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1094
+  "count": 1095
 }
