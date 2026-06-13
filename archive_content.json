@@ -1480,6 +1480,23 @@
       "created_at": "2026-06-13 06:47:26"
     },
     {
+      "title": "Arabela se vrac\u00ed aneb Rumburak kr\u00e1lem \u0158\u00ed\u0161e poh\u00e1dek",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "V\u00e1clav Vorl\u00ed\u010dek",
+      "raw_score": 6.93,
+      "total_ratings": 14,
+      "origin": "Czechoslovakia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Fairy Tale, Magic, Family",
+      "image_filename": "Arabela_se_vraci_1993.jpg",
+      "pitch": "Arabela se vrac\u00ed (literally \\\"Arabela Returns\\\"), known in English as Arabela Returns or Rumburak: The King of the Fairytale Kingdom, is a 1993 Czechoslovak children's television fantasy series and sequel to the beloved Arabela (1979-1981). The story resumes ten years after the original series concluded, reuniting the Majer family with the magical characters from the Fairytale Kingdom.\n\nThe series blends fairy tale conventions with modern Czech family life, exploring what happens when the boundary between worlds is re-opened. Unlike its predecessor, this sequel introduces new threats to the Fairytale Kingdom and gives Rumburak\u2014originally the villain\u2014a chance at heroism as he must prove himself worthy of the crown.",
+      "truth": "Ten years have passed since the events of the original Arabela series. Arabela and Petr Majer have been married but remain childless, continuing to wish for a family. Their children from the first series, Honz\u00edk and Ma\u0159enka, have grown up to become university students studying folklore\u2014the academic study of fairy tales.\n\nThe Fairytale Kingdom faces a new crisis: the giant Balibul, banished from the Land of Giants for being a vegetarian, seeks refuge near the kingdom. Meanwhile, the magical connection between worlds, maintained through the magic bell buried in the Majers' garden, remains severed\u2014until events draw both worlds together once more.\n\nRumburak, the former antagonist who was transformed into a household appliance in the original series' finale, has apparently been restored and now serves as a key figure in defending the kingdom. The evil witch also returns. The series follows the Majer family's continued adventures as they navigate the competing demands of the human and fairy tale worlds, with Honz\u00edk and Ma\u0159enka using their folklore studies to help resolve magical crises.\n\nThe series did not achieve the same popularity as its predecessor, but it remains a nostalgic favorite among Czech viewers who grew up with the original Arabela.",
+      "core": "Arabela Returns explores themes of growth, tradition, and the evolving relationship between stories and reality. By making Honz\u00edk and Ma\u0159enka folklore students, the series meta-textually examines how societies preserve and transmit fairy tales across generations.\n\nThe sequel also examines redemption and second chances through Rumburak's transformation from villain to king\u2014suggesting that even those who have caused harm can earn redemption through service to others. The series continues the original's exploration of the boundary between rational modern life and the magical world of fairy tales, asking whether such boundaries should be maintained or celebrated.\n\nAs a Czechoslovak production from 1993, the series represents the final years before the Velvet Divorce split the country into the Czech Republic and Slovakia, making it a piece of late Czechoslovak cultural heritage.",
+      "created_at": "2026-06-13 07:47:38"
+    },
+    {
       "title": "Arcade",
       "year": 1993,
       "medium": "Film",
@@ -18191,5 +18208,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1070
+  "count": 1071
 }
