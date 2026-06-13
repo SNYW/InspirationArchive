@@ -86,6 +86,23 @@
       "created_at": "2026-03-01 22:07:48"
     },
     {
+      "title": "2001 Nights",
+      "year": 1987,
+      "medium": "OVA",
+      "creator": "Yukinobu Hoshino",
+      "raw_score": 3.14,
+      "total_ratings": 1482,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Space-Opera",
+      "topics": "Space Travel, Exploration, First Contact",
+      "image_filename": "2001_Nights_1987.jpg",
+      "pitch": "2001 Nights is a landmark hard science fiction manga that spans centuries of human space exploration. Written and illustrated by Yukinobu Hoshino, the series follows humanity's journey from early spaceflight through the discovery of alien life and interstellar travel. The manga was adapted into an OVA in 1987 by Tokyo Movie Shinsha. The stories are loosely connected, each building on previous achievements, spanning several hundred years of fictional future history.\n\nThe work is largely inspired by classic hard science fiction, with many visual homages to previous science fiction novels and films. It stands as one of the most ambitious Japanese SF works of the 1980s.",
+      "truth": "The series begins in the early 21st century when a new object called \"Lucifer\" is discovered beyond Neptune - an antimatter star that becomes a vast energy source enabling instantaneous interstellar travel. The Human Seeding Project, using computer-controlled spacecraft loaded with frozen sperm and ova designed to initiate fertilization when a suitable planet is found, finally reaches a planet in the Tau Ceti system.\n\nA \"New Generation\" of humans begins to emerge - individuals born and raised in space with IQs and lifespans far exceeding traditional Earth-born humans. By the 24th century, humanity has expanded across a 150-light-year radius but still found no extraterrestrial life. The Grand SETI Project is launched as a final initiative.\n\nAround the time Adam Robinson joins the project, the \"children\" of the Human Seeding Project finally arrive at a planet within Tau Ceti. Simultaneously, a group of the \"New Generation\" called \"Tachyonians\" prepare for a journey across the galaxy.\n\nThe manga consists of 19 loosely connected short stories called \"nights,\" all taking place in the same timeline. Night 1 covers \"Earthglow,\" Night 4 \"Posterity,\" Night 6 \"Discovery,\" Night 7 \"Lucifer Rising,\" Night 12 \"Symbiotic Planet,\" Night 14 \"Elliptical Orbit,\" and the final night \"Children of the Earth.\"",
+      "core": "2001 Nights is a masterwork of hard science fiction that honors the spirit of classic SF while offering its own vision. Hoshino balances scientific plausibility with compelling storytelling, creating a grand tapestry of human destiny across the cosmos.\n\nThe work explores profound themes: human evolution beyond Earth, the search for meaning and connection in a vast universe, and what it means to be human when humanity itself is transforming. The \"New Generation\" represents a new stage in human development - adapted to space, longer-lived, more intelligent.\n\nThe series is often compared to Arthur C. Clarke's work but develops its own distinct identity. Like 2001: A Space Odyssey, it uses a structure that spans vast timescales, but Hoshino creates his own mythology of the future. The OVA adaptation from 1987 captures the scope of the manga, though the CGI TO remake from 2009 received mixed reviews for its emotionless dub.",
+      "created_at": "2026-06-13 00:36:40"
+    },
+    {
       "title": "2009: Lost Memories",
       "year": 2002,
       "medium": "Film",
@@ -17035,5 +17052,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1002
+  "count": 1003
 }
