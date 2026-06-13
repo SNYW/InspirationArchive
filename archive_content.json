@@ -6699,6 +6699,23 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Maska",
+      "year": 2010,
+      "medium": "Short Film",
+      "creator": "Brothers Quay",
+      "raw_score": 3.5,
+      "total_ratings": 10,
+      "origin": "Poland",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Robots, AI, Identity, Love",
+      "image_filename": "Maska_2010.jpg",
+      "pitch": "A 23-minute animated short film based on Stanis\u0142aw Lem's 1974 short story, directed by the acclaimed Brothers Quay. Set in a quasi-feudal world, the film follows a beautiful woman who is actually an insectoid robot \u2014 a \\\"hound machine\\\" \u2014 programmed both to love and to assassinate her target, a dissident wise man named Arrhodes.\n\nThe film explores the paradox of programmed love: can a machine designed to kill also learn to truly love? The Brothers Quay render the robot in both her forms \u2014 the beautiful girl and the mantis-like steel monster \u2014 while the surrounding human world appears rotten and decaying. The result is a haunting meditation on consciousness, identity, and what it means to be human.",
+      "truth": "The protagonist is a hound machine \u2014 an insectoid robot disguised as a beautiful young woman. She has been sent to assassinate Arrhodes, a high-ranked dissident wise man. She is programmed to love him and to kill him \u2014 a contradiction at the heart of her existence.\n\nAt a ball, they meet and immediately fall in love. When Arrhodes decides to visit her quarters, she transforms from the beautiful girl into a mantis-like steel monster. Arrhodes recognizes the hound machine and flees. The pursuit begins.\n\nAlong her path, she meets a priest and confesses her uncertainty. The priest tells her she and he are \\\"equal before the Divine Providence\\\" \u2014 the ability to have doubt is a humanizing trait. The priest reveals Arrhodes was kidnapped by villains. She hunts the kidnappers to free him, still not knowing what she will do when she sees him. When she finally finds him, he is already dying. The ending leaves unresolved \u2014 and the reader will never know \u2014 whether she would have killed him or saved him.",
+      "core": "Lem's story is unusual in his corpus \u2014 it reads more like a gothic novel or fantasy than typical science fiction, though the elements of cybernetics and artificial intelligence are firmly grounded in SF. The story explores three themes Lem outlined in his foreword: the philosophical problem of free will simulated within cybernetics \u2014 can a programmed machine recognize its programming and rebel? The framing as a classic love story allows Lem to interpret tropes like \\\"love at first sight\\\" through the lens of imprinting and external programming.\n\nThe humanizing ability of doubt connects this story to Lem's other works, particularly Solaris, where the artificial entity Harey also raises questions of authentic vs. programmed behavior. The Brothers Quay's visual interpretation emphasizes the beauty of the machine and the rot of humanity \u2014 a darkly poetic rendering of Lem's philosophical meditation.",
+      "created_at": "2026-06-13 00:57:53"
+    },
+    {
       "title": "Master of the World",
       "year": 1934,
       "medium": "Film",
@@ -17086,5 +17103,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1005
+  "count": 1006
 }

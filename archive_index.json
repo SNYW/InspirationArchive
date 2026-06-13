@@ -5911,6 +5911,21 @@
       "created_at": "2026-03-01 11:54:09"
     },
     {
+      "title": "Maska",
+      "year": 2010,
+      "medium": "Short Film",
+      "creator": "Brothers Quay",
+      "raw_score": 3.5,
+      "total_ratings": 10,
+      "origin": "Poland",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Robots, AI, Identity, Love",
+      "image_filename": "Maska_2010.jpg",
+      "pitch": "A 23-minute animated short film based on Stanis\u0142aw Lem's 1974 short story, directed by the acclaimed Brothers Quay. Set in a quasi-feudal world, the film follows a beautiful woman who is actually an insectoid robot \u2014 a \\\"hound machine\\\" \u2014 programmed both to love and to assassinate her target, a dissident wise man named Arrhodes.\n\nThe film explores the paradox of programmed love: can a machine designed to kill also learn to truly love? The Brothers Quay render the robot in both her forms \u2014 the beautiful girl and the mantis-like steel monster \u2014 while the surrounding human world appears rotten and decaying. The result is a haunting meditation on consciousness, identity, and what it means to be human.",
+      "created_at": "2026-06-13 00:57:53"
+    },
+    {
       "title": "Master of the World",
       "year": 1934,
       "medium": "Film",
@@ -15076,5 +15091,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1005
+  "count": 1006
 }
