@@ -3248,6 +3248,23 @@
       "created_at": "2026-03-07 00:12:03"
     },
     {
+      "title": "Dead Mountaineer's Hotel",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Grigori Kromanov",
+      "raw_score": 3.1,
+      "total_ratings": 56,
+      "origin": "Estonia",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Sentience, Detection",
+      "image_filename": "Dead_Mountaineer_s_Hotel_1979.jpg",
+      "pitch": "In the isolated peaks of the Alps, a remote hotel becomes the setting for one of the most bizarre locked-room mysteries ever committed to film. When Inspector Peter Glebsky arrives at the Dead Mountaineer's Hotel seeking a quiet vacation, he gets far more than he bargained for\u2014an avalanche cuts the hotel off from the outside world, and guests begin dying under impossible circumstances.\n\nThis Soviet-Estonian production, directed by Grigori Kromanov and based on the novel by Arkady and Boris Strugatsky, blends detective fiction with cosmic science fiction in ways that subvert every convention of both genres. The film plays as a proper mystery\u2014atmospheric, tense, and meticulously plotted\u2014before revealingsomething utterly unexpected: that the hotel's most peculiar guests are not human at all.\n\nThe film exists in a unique space\u2014part Alpine horror, part philosophical absurdism, part Soviet-era speculation on extraterrestrial intelligence. It's a movie that genuinely keeps you guessing, and then delivers answers that transform everything you thought you knew.",
+      "truth": "Inspector Peter Glebsky, eager to escape the tedium of his work, takes a two-week vacation at the Dead Mountaineer's Hotel in the Alps. The hotel's owner, Alek Snevar, regales him with stories of a dead mountaineer, and Glebsky settles in among the unusual guests\u2014including the famous magician du Barnstoker, the enigmatic physicist Simon Simone, and the perpetually drunk Mr. Moses with his beautiful wife.\n\nStrange pranks begin plaguing the guests. Then an avalanche blocks the only road out, trapping everyone inside. A mysterious stranger arrives asking for a guest named Olaf Andvarafors\u2014then faints. The next morning, Olaf is found dead in his locked room, his hand reaching toward a mysterious device.\n\nGlebsky investigates and uncovers a web of deception. Mr. Moses is revealed to be an alien observer, and his wife a robot. The device in Olaf's suitcase is an \"accumulator\" that powers robotic beings. The stranger who arrived at the door\u2014Luarvik L. Luarvik\u2014is also an alien, come to retrieve the device before it falls into the wrong hands.\n\nAs Glebsky struggles to understand what's happening, the aliens attempt to flee in a helicopter\u2014only to be shot down. The film ends with the mystery unresolved in conventional terms, the aliens dead, and Glebsky left to contemplate what he witnessed.",
+      "core": "The Strugatsky brothers wrote the screenplay themselves, and the film represents their distinctive approach to science fiction\u2014a genre exercise that deliberately breaks its own rules. The film begins as a perfectly conventional locked-room mystery, complete with suspicious guests, mysterious notes, and a detective protagonist following clues. Then it makes its radical gambit: introducing genuine supernatural\u2014or rather extraterrestrial\u2014elements in direct violation of detective fiction's conventions.\n\nThe film asks what happens when an ordinary person encounters the genuinely unknowable. Glebsky is outmatched not by a clever human criminal but by beings whose nature he cannot comprehend. His rationalist worldview\u2014the belief that all mysteries can be solved through logic\u2014collapses when faced with actual aliens operating on principles he cannot grasp.\n\nThis was a remarkably bold project for Soviet Estonia in 1979, blending Western genre conventions with Soviet-era speculative fiction. The Strugatskys had fallen from favor with Soviet publishers, yet this adaptation slipped through with minimal censorship changes. It's a unique artifact\u2014Estonian cinema's most ambitious science fiction production, and a film that rewards multiple viewings.",
+      "created_at": "2026-06-13 08:58:37"
+    },
+    {
       "title": "Dead Space",
       "year": 2023,
       "medium": "Video Game",
@@ -18395,5 +18412,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1082
+  "count": 1083
 }
