@@ -12481,6 +12481,21 @@
       "created_at": "2026-06-13 02:42:49"
     },
     {
+      "title": "The Humanoid",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Aldo Lado",
+      "raw_score": 1.85,
+      "total_ratings": 37,
+      "origin": "Italy",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Robots, Space Travel, AI, Rebellion",
+      "image_filename": "The_Humanoid_1979.jpg",
+      "pitch": "A 1979 Italian sci-fi film that wears its Star Wars influences proudly. Directed by Aldo Lado (who went by the alias \\\"George B. Lewis\\\" as a nod to George Lucas), The Humanoid is a pulpy space opera about a peaceful planet called Metropolis threatened by an evil warlord named Graal and his mad scientist Dr. Kraspin. Kraspin creates a supersoldier called a \\\"Humanoid\\\" through chemical mutation, using an element called Kapitron. The film features a giant henchman named Golob who gets turned into the unstoppable Humanoid, then breaks free of his control chips to help the heroes. It's campy, fun, and full of deliberately Star Wars-inspired designs - from the Darth Vader-like villain to the triangle-shaped spaceship.",
+      "created_at": "2026-06-13 13:18:03"
+    },
+    {
       "title": "The Hunteress",
       "year": 2022,
       "medium": "Film",
@@ -16831,5 +16846,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1122
+  "count": 1123
 }

@@ -14145,6 +14145,23 @@
       "created_at": "2026-06-13 02:42:49"
     },
     {
+      "title": "The Humanoid",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Aldo Lado",
+      "raw_score": 1.85,
+      "total_ratings": 37,
+      "origin": "Italy",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Robots, Space Travel, AI, Rebellion",
+      "image_filename": "The_Humanoid_1979.jpg",
+      "pitch": "A 1979 Italian sci-fi film that wears its Star Wars influences proudly. Directed by Aldo Lado (who went by the alias \\\"George B. Lewis\\\" as a nod to George Lucas), The Humanoid is a pulpy space opera about a peaceful planet called Metropolis threatened by an evil warlord named Graal and his mad scientist Dr. Kraspin. Kraspin creates a supersoldier called a \\\"Humanoid\\\" through chemical mutation, using an element called Kapitron. The film features a giant henchman named Golob who gets turned into the unstoppable Humanoid, then breaks free of his control chips to help the heroes. It's campy, fun, and full of deliberately Star Wars-inspired designs - from the Darth Vader-like villain to the triangle-shaped spaceship.",
+      "truth": "In the future, the planet Metropolis is a peaceful utopia led by the Great Brother. His evil brother Graal escapes from prison and teams up with Dr. Kraspin, a mad scientist who wants to create an army of \\\"Humanoids\\\" - supersoldiers mutated by the powerful element Kapitron. They raid the Grovan Institute to steal Kapitron and kill scientist Barbara Gibson, who had exposed Kraspin's horrors.\n\nGraal transforms his pilot Golob into the first Humanoid - a hulking superhuman with immense strength but under mental control. Golob is sent to destroy the Great Brother but is stopped when Barbara's young student Tom Tom removes his control chip. Now free, Golob joins Barbara and security officer Nick to stop Graal's plans.\n\nMeanwhile, Kraspin builds a giant Kapitron missile to turn all of Metropolis into mindless Humanoids. The heroes launch a rescue mission to save Barbara. In the climax, Golob kills Kraspin by toppling the rocket launch pad. The queen dies from rapid aging when cut off from Kraspin's youth serum. Graal is destroyed when his ship is hit by the Kapitron rocket. Tom Tom departs with mysterious travelers revealed to be from Tibet in the ancient past.",
+      "core": "The Humanoid is notable as an Italian response to Star Wars - deliberately borrowing elements and wearing them as a badge of honor. Director Aldo Lado used the pseudonym \\\"George B. Lewis\\\" as a direct nod to George Lucas.\n\nBeyond the campy space opera surface, the film explores themes of power and control. Kraspin's obsession with creating obedient soldiers reflects anxieties about military science run amok. The youth serum keeping the queen young symbolizes immortality as tyranny - she dies the moment it's taken away.\n\nThe most interesting theme is humanity versus humanness: Golob, as a mutated Humanoid, should be a mindless monster, but he regains his conscience and helps the heroes. The film suggests that true humanity is a choice, not a biological accident.\n\nThe cast includes Richard Kiel (the towering Jaws from James Bond) as Golob and Barbara Bach (later a Bond girl) as Lady Agatha. Ennio Morricone composed the score.",
+      "created_at": "2026-06-13 13:18:03"
+    },
+    {
       "title": "The Hunteress",
       "year": 2022,
       "medium": "Film",
@@ -19075,5 +19092,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1122
+  "count": 1123
 }
