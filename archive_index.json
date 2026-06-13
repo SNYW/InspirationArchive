@@ -5686,6 +5686,21 @@
       "created_at": "2026-03-04 00:47:18"
     },
     {
+      "title": "Invasion: Earth",
+      "year": 1998,
+      "medium": "TV Series",
+      "creator": "Jed Mercurio",
+      "raw_score": 3.16,
+      "total_ratings": 16,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Hard-SF",
+      "topics": "Aliens, First Contact, War",
+      "image_filename": "Invasion_Earth_1998.jpg",
+      "pitch": "A dark British sci-fi series from 1998. When an alien craft crashes in Scotland, a NATO team discovers an invasion by the nDs, hostile inter-dimensional beings who harvest humans. Six episodes deliver a bleak take on first contact.",
+      "created_at": "2026-06-13 20:07:48"
+    },
+    {
       "title": "Invasi\u00f3n",
       "year": 1969,
       "medium": "Film",
@@ -17911,5 +17926,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1194
+  "count": 1195
 }
