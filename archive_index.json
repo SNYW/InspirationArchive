@@ -3436,6 +3436,21 @@
       "created_at": "2026-03-01 23:43:47"
     },
     {
+      "title": "Doomwatch",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Peter Sasdy",
+      "raw_score": 3.07,
+      "total_ratings": 25,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Ecology, Survival, Science",
+      "image_filename": "Doomwatch_1972.jpg",
+      "pitch": "A 1972 British eco-horror based on the BBC series. Doomwatch investigator Dr. Del Shaw arrives on remote Balfe Island to investigate an oil spillage but finds villagers suffering from aggression and deformities caused by illegally dumped growth stimulants contaminating their fish supply.",
+      "created_at": "2026-06-13 14:22:37"
+    },
+    {
       "title": "Doraemon",
       "year": 1969,
       "medium": "Manga",
@@ -17011,5 +17026,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1134
+  "count": 1135
 }
