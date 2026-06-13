@@ -16134,6 +16134,23 @@
       "created_at": "2026-03-05 16:53:59"
     },
     {
+      "title": "The Man in the White Suit",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Alexander Mackendrick",
+      "raw_score": 3.45,
+      "total_ratings": 207,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Satire",
+      "topics": "Science, Technology, Corporate Power, Class Struggle, Innovation",
+      "image_filename": "The_Man_in_the_White_Suit_1951.jpg",
+      "pitch": "A brilliant chemist invents a fabric that never wears out or gets dirty, only to face opposition from both mill owners and unions who realise his invention will destroy the textile industry. Ealing Studios delivers a witty, razor-sharp satire on progress.",
+      "truth": "Sidney Stratton creates a luminous white suit from his revolutionary fibre. Both mill owners and unions oppose him, fearing economic collapse. Pursued through the streets, his unstable suit disintegrates. Dismissed the next day, he departs with renewed insight.",
+      "core": "British sci-fi social satire asking what happens when progress threatens the economy. Both capital and labour unite against the inventor. The glowing suit symbolises brilliance destroyed by its own luminosity \u2014 for every advance, you pay a price.",
+      "created_at": "2026-06-13 19:42:51"
+    },
+    {
       "title": "The Man with the Lens",
       "year": 1961,
       "medium": "Film",
@@ -20214,5 +20231,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1189
+  "count": 1190
 }
