@@ -14689,6 +14689,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Madness of Dr. Tube",
+      "year": 1915,
+      "medium": "Film",
+      "creator": "Louis Feuillade",
+      "raw_score": 2.6,
+      "total_ratings": 25,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Discovery, Reality",
+      "image_filename": "The_Madness_of_Dr_Tube_1915.jpg",
+      "pitch": "The Madness of Dr. Tube is a whimsical early science fiction short from French pioneer Louis Feuillade, best known for his Fant\u00f4mas serials. The film follows a wacky scientist who believes he has developed a powder capable of distorting reality for anyone who inhales it.\n\nEager to test his invention, Dr. Tube experiments on his young boy assistant, his pets, and his nieces with their beaux. The powder works \u2014 temporarily transforming their appearances in hilarious and surreal ways. But chaos ensues when his nieces don't find their transformed reflections as amusing as everyone else, leading to panic and mayhem.\n\nThis early silent film represents a charming, experimental approach to special effects and reality-bending concepts \u2014 themes that would later become central to science fiction. Its playful tone and crude but imaginative transformations make it a fascinating historical artifact.",
+      "truth": "Dr. Tube, an eccentric scientist in his cluttered laboratory, proudly unveils his latest invention: a mysterious powder that he claims can distort reality for those who inhale it. To prove his theory, he experiments on his young boy assistant first. The powder works \u2014 the boy's head swells to enormous proportions, then shrinks, delighting the scientist.\n\nEncouraged by this success, Dr. Tube tests the powder on his pets \u2014 a cat and a dog \u2014 whose bodies similarly warp and twist in impossible ways. His nieces and their beaux arrive for a visit, and Dr. Tube eagerly demonstrates his invention to them. The young couples inhale the powder and begin seeing the world in wildly distorted ways \u2014 furniture floats, faces stretch, and reality itself seems to melt and reform around them.\n\nHowever, when the nieces catch a glimpse of their own reflections and see themselves transformed into grotesque forms, they are far from amused. Instead of laughing like the others, they panic and flee in terror. The chaos becomes too much for Dr. Tube, who must now scramble to find an antidote or reverse the effects before anyone is seriously harmed.\n\nThe film ends with Dr. Tube successfully reversing the transformations, and order is restored \u2014 though the scientist is left wondering if his invention will ever be truly appreciated.",
+      "core": "The Madness of Dr. Tube is notable as an early experiment in science fiction special effects and the concept of altered perception through science. Feuillade explores the idea that science can change not just the world around us, but our very reality \u2014 a theme that would become foundational to the genre.\n\nThe film also reflects early 20th century anxieties about scientific progress: here, science is both wondrous and dangerous, capable of both amusement and harm. The scientist is well-meaning but somewhat bumbling, reflecting a ambivalent attitude toward unchecked scientific experimentation.\n\nTechnically, the film uses practical effects and in-camera tricks to achieve its transformations, representing the state of special effects art in 1915. It's a charming artifact of cinema's infancy, showing that the impulse to visualize impossible realities through film was present from the very beginning of the medium.",
+      "created_at": "2026-06-13 11:09:47"
+    },
+    {
       "title": "The Man Who Came Early",
       "year": 1956,
       "medium": "Short Story",
@@ -18786,5 +18803,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1105
+  "count": 1106
 }
