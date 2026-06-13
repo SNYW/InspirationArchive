@@ -9556,6 +9556,21 @@
       "created_at": "2026-03-02 10:03:59"
     },
     {
+      "title": "SF Saiyuuki Starzinger",
+      "year": 1978,
+      "medium": "Anime",
+      "creator": "Toei Animation",
+      "raw_score": 3.52,
+      "total_ratings": 1159,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Aliens, Sentience",
+      "image_filename": "SF_Saiyuuki_Starzinger_1978.jpg",
+      "pitch": "Princess Aurora volunteers to become the new Queen of the dying Great Planet. She must journey across the galaxy with three cyborg warriors to collect the Celestial Treasures and save the universe from the mutant menace.",
+      "created_at": "2026-06-13 21:44:58"
+    },
+    {
       "title": "SOMA",
       "year": 2015,
       "medium": "Video Game",
@@ -18121,5 +18136,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1208
+  "count": 1209
 }
