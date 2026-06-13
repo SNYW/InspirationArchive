@@ -9691,6 +9691,23 @@
       "created_at": "2026-03-18 16:08:34"
     },
     {
+      "title": "Quest for Love",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Ralph Thomas",
+      "raw_score": 3.39,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Time-Travel, Love, Identity",
+      "image_filename": "Quest_for_Love_1971.jpg",
+      "pitch": "When Colin Trafford's particle accelerator demo fails, he wakes in a parallel world where WWII never happened and he's married to a stranger. Based on John Wyndham's \"Random Quest.\"",
+      "truth": "Colin awakens in an alternate reality where he's a famous author whose marriage to Ottilie is failing. He falls in love with her, but she has a terminal heart condition. She dies in his arms\u2014and Colin wakes in his original world. He finds Ottilie's counterpart, saves her, and introduces himself for the first time.",
+      "core": "British parallel-universe sci-fi with cerebral focus on identity and love. The film asks: is the self defined by consciousness or relationships? Colin becomes a better person through loving Ottilie\u2014suggesting love transcends any reality. Joan Collins cited this as one of her proudest performances.",
+      "created_at": "2026-06-13 14:07:38"
+    },
+    {
       "title": "Quintet",
       "year": 1979,
       "medium": "Film",
@@ -19228,5 +19245,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1131
+  "count": 1132
 }

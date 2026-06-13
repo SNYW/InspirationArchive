@@ -8551,6 +8551,21 @@
       "created_at": "2026-03-18 16:08:34"
     },
     {
+      "title": "Quest for Love",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Ralph Thomas",
+      "raw_score": 3.39,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Time-Travel, Love, Identity",
+      "image_filename": "Quest_for_Love_1971.jpg",
+      "pitch": "When Colin Trafford's particle accelerator demo fails, he wakes in a parallel world where WWII never happened and he's married to a stranger. Based on John Wyndham's \"Random Quest.\"",
+      "created_at": "2026-06-13 14:07:38"
+    },
+    {
       "title": "Quintet",
       "year": 1979,
       "medium": "Film",
@@ -16966,5 +16981,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1131
+  "count": 1132
 }
