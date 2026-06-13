@@ -1771,6 +1771,21 @@
       "created_at": "2026-06-12 22:37:01"
     },
     {
+      "title": "Beast Man Snow Man",
+      "year": 1955,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 2.47,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Evolution, Isolation, Survival",
+      "image_filename": "Beast_Man_Snow_Man_1955.jpg",
+      "pitch": "A 1955 Toho kaiju film that predates many of the Godzilla series entries, \\\"Beast Man Snow Man\\\" (known in English as \\\"Half Human\\\") is a thoughtful meditation on humanity's relationship with nature. Directed by Ishir\u014d Honda and with special effects by Eiji Tsuburaya, this film stands out from typical monster movies by giving the creature genuine sentience and tragic depth. The Snow Man is not a mindless destroyer but a sentient being who helps humans and feels deep emotions \u2014 a far cry from the typical kaiju of the era. The film was released in America as \\\"Half Human\\\" with added footage and narration.",
+      "created_at": "2026-06-13 08:13:09"
+    },
+    {
       "title": "Beforeigners",
       "year": 2019,
       "medium": "TV Series",
@@ -16126,5 +16141,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1075
+  "count": 1076
 }
