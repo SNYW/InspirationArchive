@@ -16474,6 +16474,23 @@
       "created_at": "2026-06-13 10:04:41"
     },
     {
+      "title": "The Testament of Professor Dowell",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Alexander Belyaev",
+      "raw_score": 2.52,
+      "total_ratings": 15,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Science, Immortality, Cloning",
+      "image_filename": "The_Testament_of_Professor_Dowell_1984.jpg",
+      "pitch": "A Soviet science fiction film based on Alexander Belyaev's classic 1925 novel. When a prominent scientist vanishes, his best student inherits his work \u2014 only to discover that the professor's head has been kept alive in secret, guiding experiments from beyond the grave. The film explores the dark ethics of immortality through the story of Dr. Kern, who murders his mentor and uses Professor Dowell's living head to extract scientific secrets.\n\nThe film was directed by Leonid Menaker and loosely adapts Belyaev's original novel. It belongs in this archive as a landmark of Soviet science fiction cinema, representing the Soviet Union's contribution to the genre during the Cold War era.",
+      "truth": "Professor Dowell and his assistant Dr. Kern work together on medical experiments involving life support for separated body parts. Dowell trusts Kern completely, but Kern secretly murders him and keeps Dowell's head alive using his experimental apparatus. Using the head, Kern continues his research and extracts scientific secrets from his dead mentor.\n\nA young medical student named Marie Loren becomes Kern's new assistant and discovers his deception \u2014 she finds Professor Dowell's head still alive and realize Kern murdered him. To silence her, Kern has Marie committed to a false lunatic asylum.\n\nContinuing his experiments, Kern transplants the head of a young woman to a new body. That body belongs to the girlfriend of a friend of Dowell's son, who recognizes her when she flees Kern's laboratory. Together, Dowell's son and his friend free Marie Loren from the asylum.\n\nKern wants to take credit for all the discoveries, but Dowell's son and Marie help the professor's head get in front of the cameras to reveal the truth. Before dying for good, Professor Dowell's head tells all. Dr. Kern is arrested and executed by a police detective.",
+      "core": "\"The Testament of Professor Dowell\" explores timeless themes of scientific ethics, immortality, and the corruption of power. Belyaev's original 1925 novel predates many classic horror and science fiction themes, creating an eerie parallel to Mary Shelley's Frankenstein while adding distinctly Soviet concerns about the ethical limits of scientific progress.\n\nThe film adaptation (1984) reflects Cold War anxieties about the misuse of science for personal gain. Both novel and film can be read as an allegory for the Soviet revolution \u2014 a leader who could not predict the horrible ends to which his activities would lead. The living head as a symbol of preserved consciousness that can still think, speak, and influence events raises questions about identity and what constitutes life that remain relevant today.\n\nThis entry represents Soviet science fiction at its most philosophically ambitious, tackling questions of consciousness, scientific responsibility, and the moral boundaries of discovery.",
+      "created_at": "2026-06-13 11:06:07"
+    },
+    {
       "title": "The Things",
       "year": 2010,
       "medium": "Short Story",
@@ -18769,5 +18786,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1104
+  "count": 1105
 }
