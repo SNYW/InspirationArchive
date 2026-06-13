@@ -18993,6 +18993,22 @@
       "watch_url": null
     },
     {
+      "title": "When Dinosaurs Ruled the Earth",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Val Guest",
+      "raw_score": 3.05,
+      "total_ratings": 94,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Survival, Exploration, Love",
+      "image_filename": "When_Dinosaurs_Ruled_the_Earth_1970.jpg",
+      "pitch": "A 1970 Hammer Films fantasy featuring spectacular stop-motion dinosaurs. Sanna, condemned to sacrifice, escapes and is rescued by fisherman Tara. Together they navigate a prehistoric world of dinosaurs and tribal warfare. Nominated for an Academy Award for Best Visual Effects.",
+      "created_at": "2026-06-13 22:22:44",
+      "watch_url": null
+    },
+    {
       "title": "When Gravity Fails",
       "year": 1986,
       "medium": "Novel",
@@ -19457,5 +19473,5 @@
       "watch_url": null
     }
   ],
-  "count": 1216
+  "count": 1217
 }
