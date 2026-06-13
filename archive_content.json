@@ -19313,6 +19313,23 @@
       "created_at": "2026-02-28 09:21:12"
     },
     {
+      "title": "Whoops Apocalypse",
+      "year": 1982,
+      "medium": "TV Series",
+      "creator": "Andrew Marshall, David Renwick",
+      "raw_score": 3.45,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Satire",
+      "topics": "Politics, War, Satire",
+      "image_filename": "Whoops_Apocalypse_1982.jpg",
+      "pitch": "A six-part 1982 British sitcom about the weeks leading up to nuclear apocalypse. Nuclear alerts are triggered by Space Invaders machines. US President Johnny Cyclops (Reagan parody) is advised by The Deacon who claims a hotline to God. Soviet Premier Dubienkin is a series of clones. British PM Kevin Pork believes he's Superman. Cold War farce.",
+      "truth": "The Deacon develops the Quark Bomb. Arms smuggler Lacrobat (John Cleese) steals it for Iran. Soviets invade for oil. British PM Kevin Pork goes insane believing he's Superman. The Quark Bomb detonates in Israel. The Shah crashes a shuttle into the Kremlin. Russia launches missiles at America. The title sequence showed the nuclear wasteland all along.",
+      "core": "Early 1980s British political satire treating nuclear annihilation as farce. Cast included John Cleese, Richard Griffiths, Alexei Sayle early in careers. Title sequence shows the aftermath from the start, creating dramatic irony.",
+      "created_at": "2026-06-13 16:37:41"
+    },
+    {
       "title": "Wicked City",
       "year": 1987,
       "medium": "Anime",
@@ -19687,5 +19704,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1158
+  "count": 1159
 }
