@@ -2296,6 +2296,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Blindpassasjer",
+      "year": 1978,
+      "medium": "TV Series",
+      "creator": "Jon Bing, Tor \u00c5ge Bringsv\u00e6rd",
+      "raw_score": 3.36,
+      "total_ratings": 11,
+      "origin": "Norway",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Aliens, Robots, First Contact, Space Travel, Isolation",
+      "image_filename": "blindpassasjer.jpg",
+      "pitch": "Blindpassasjer (literally \\\"Stowaway\\\") is the first science fiction series to air on Norwegian television. The three-episode 1978 series follows the crew of the starship Marco Polo as they return to Earth from the distant planet Rossum. When the crew awakens from hibernation, mysterious images appear on security footage\u2014a ghostly figure moving through the ship. Their investigation reveals one crew member has been replaced by a Biomat, a biological android from Rossum that has perfectly assumed their colleague's appearance and memories.\n\nWritten by Jon Bing and Tor \u00c5ge Bringsv\u00e6rd, the series won the 1978 Riverton Prize and represents an important early example of Norwegian science fiction television. The premise\u2014a body-snatcher narrative set in space\u2014builds tension as the crew must identify the impostor among them.",
+      "truth": "The story begins with the five crew members of the starship Marco Polo waking from hibernation during their return journey from Rossum. Shortly after awakening, security footage reveals a mysterious ghostly figure\u2014a stowaway\u2014moving through the ship's corridors. The crew is shaken when investigations reveal that one of them has been replaced by a Biomat, a biological android from Rossum that has perfectly assumed their colleague's appearance and memories.\n\nThe tension escalates as the crew must determine who among them is human and who has been replaced, while the Biomat secretly works to complete its mission. The series explores themes of identity, trust, and the nature of humanity when confronted with near-perfect artificial life.",
+      "core": "Blindpassasjer is noteworthy as the first science fiction series to air on Norwegian television, representing an important early example of Nordic sci-fi. The story explores questions of identity and what it means to be human when confronted with artificial life that can perfectly replicate a person. The body-snatcher premise in a space setting raises philosophical questions about consciousness, trust, and the boundaries between human and artificial intelligence.",
+      "created_at": "2026-06-13 09:07:39"
+    },
+    {
       "title": "BloodNet",
       "year": 1993,
       "medium": "Video Game",
@@ -18429,5 +18446,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1084
+  "count": 1085
 }
