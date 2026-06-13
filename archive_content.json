@@ -11170,6 +11170,23 @@
       "created_at": "2026-03-04 03:59:39"
     },
     {
+      "title": "Star Cops",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "Chris Boucher",
+      "raw_score": 3.09,
+      "total_ratings": 16,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Law, Police",
+      "image_filename": "star_cops.jpg",
+      "pitch": "In 2027, humanity has colonized the Moon, Mars, and five space stations. Commander Nathan Spring builds the International Space Police Force to keep peace across the solar system\u2014a hard SF police procedural ahead of its time.",
+      "truth": "Spring leads the ISPF, haunted by his past: as a young detective he arrested his own father for industrial espionage. With his multinational team on Moonbase, he investigates nine cases\u2014murders, kidnappings, and hoaxes. A planned tenth episode was never made.",
+      "core": "Star Cops commits to hard SF realism\u2014weightlessness, radiation, months-long journeys. Influenced by the Space Shuttle era, it explores law in a frontier, drawing Western comparisons. The \"sins of the father\" theme and critical reappraisal make it a forgotten British SF gem.",
+      "created_at": "2026-06-13 13:42:21"
+    },
+    {
       "title": "Star Odyssey",
       "year": 1979,
       "medium": "Film",
@@ -19143,5 +19160,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1126
+  "count": 1127
 }
