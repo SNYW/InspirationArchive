@@ -12955,6 +12955,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Great Space Journey",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Aleksey Fedorovich",
+      "raw_score": 2.7,
+      "total_ratings": 18,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Children, Discovery",
+      "image_filename": "The_Great_Space_Journey_1975.jpg",
+      "pitch": "The Great Space Journey is a 1975 Soviet sci-fi adventure film about three youngsters who must take command of an interstellar expedition when their adult captain falls ill and is forced into quarantine. The film was produced by Moscow's Gorky Film Studio during the Soviet era, part of a wave of children's science fiction cinema that blended space age optimism with coming-of-age storytelling.\n\nThe premise is simple but effective: a group of children aboard a space vessel must step up when the adult crew can no longer lead. This represents a uniquely Soviet vision of youthful competence\u2014a genre that predates similar Western \"kids save the world\" narratives by decades. The film offered Soviet children a vision of themselves as capable of great things, literally reaching for the stars.\n\nWith only 18 votes on TMDB, this remains a genuinely obscure piece of Soviet children's cinema, largely forgotten outside of those who remember watching it on Soviet television.",
+      "truth": "Three young protagonists find themselves aboard an interstellar spacecraft on a long-distance journey. When the adult captain becomes ill and must be quarantined for medical reasons, the children are left to navigate the ship themselves. The story follows their journey as they must make decisions normally reserved for adults, learning teamwork, responsibility, and courage along the way.\n\nThe exact plot details are difficult to verify due to the film's obscurity, but the core narrative follows the classic Soviet children's adventure format: young protagonists prove their worth through trial and tribulation, ultimately successfully completing their mission through cooperation and bravery. The film emphasized collective achievement over individual heroism, a hallmark of Soviet children's storytelling.",
+      "core": "The Great Space Journey reflects the Soviet space program's optimism about the future and children's role in it. Made in 1975, at the height of the Space Race era, the film offered young Soviet viewers a chance to see themselves as the next generation of space explorers.\n\nThe concept of children commanding a space vessel was not unique to Soviet cinema\u2014they produced numerous such films in the 1960s-70s\u2014but this film stands as a representative example of a genre that blended propaganda (the state celebrating its youth) with genuine entertainment. The underlying message\u2014that children are capable of great responsibility\u2014resonates beyond its ideological context.\n\nThe film's obscurity today (only 18 votes on TMDB) speaks to how Soviet children's cinema failed to achieve international reach. Unlike Tarkovsky's more art-house Soviet science fiction, films like this were made for domestic television and never found international distribution or home video preservation.",
+      "created_at": "2026-06-13 04:13:04"
+    },
+    {
       "title": "The Green Cat",
       "year": 1983,
       "medium": "OVA",
@@ -17579,5 +17596,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1034
+  "count": 1035
 }
