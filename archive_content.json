@@ -5747,6 +5747,23 @@
       "created_at": "2026-03-07 00:26:19"
     },
     {
+      "title": "Japon \u0130\u015fi",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Kartal Tibet",
+      "raw_score": 2.9,
+      "total_ratings": 68,
+      "origin": "Turkey",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Love, AI",
+      "image_filename": "Japon_\u0130\u015fi_1987.jpg",
+      "pitch": "In this 1987 Turkish sci-fi comedy, a hapless romantic named Veysel pines for the beautiful singer Ba\u015fak, who spurns his advances. After rescuing a Japanese tourist from an accident, Veysel receives an unexpected gift: a robot double of Ba\u015fak, sent from Japan in gratitude. The android is indistinguishable from the real singer\u2014and far more affectionate.\n\nThe film plays as a gentle satire of sci-fi fantasies about the perfect partner: a lookalike without the original's attitude. It's a charming period piece that blends 1980s Turkish popular culture with robot technology that was then futuristic. The comedy relies on misunderstandings and the absurdity of passing off an android as one's spouse.",
+      "truth": "Veysel works in a small shop in Turkey and has been in love with Ba\u015fak, a famous singer, for years\u2014but she barely notices him. One day, Veysel heroically saves a Japanese tourist from being hit by a car. Grateful, the tourist returns to Japan.\n\nMonths later, a package arrives for Veysel: it's a gift from the Japanese tourist. Inside is a stunning android\u2014an exact replica of Ba\u015fak. The robot has Ba\u015fak's face and voice but is programmed to be affectionate and obedient. Veysel introduces the android as his wife and she takes over household duties, treating him with the love Ba\u015fak never showed.\n\nThe real Ba\u015fak eventually discovers the double and is intrigued\u2014or perhaps jealous\u2014that someone would create a copy of her. The film culminates in comedic confusion: which Ba\u015fak does Veysel actually love? The one with free will who rejected him, or the one who mirrors her appearance but has no autonomy?\n\nThe resolution is bittersweet and leaves the question unanswered\u2014perhaps Veysel loved the idea of Ba\u015fak all along.",
+      "core": "Japon \u0130\u015fi is a time capsule of 1980s Turkish popular culture and its relationship with foreign technology. Japan in the 1980s represented cutting-edge technology to Turkey\u2014a source of wonder and aspiration. The film uses this fascination to explore love, desire, and the nature of relationships.\n\nAt its core, the film asks: Is love about the person themselves, or about the role they play? The robot Ba\u015fak offers everything the real Ba\u015fak doesn't\u2014affection, attention, obedience. But she's hollow: a mirror without a soul. This is a satirical take on the sci-fi trope of the perfect partner, suggesting that what we want may not be what we need.\n\nThe comedy is gentle and family-friendly, the kind of popular entertainment that was common in Turkish cinema of the 1980s. It's not ambitious in its SF world-building, but it's a fascinating artifact of how non-Western cultures engaged with sci-fi concepts.",
+      "created_at": "2026-06-13 03:08:10"
+    },
+    {
       "title": "Je t'aime, je t'aime",
       "year": 1968,
       "medium": "Film",
@@ -17392,5 +17409,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1023
+  "count": 1024
 }
