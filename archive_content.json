@@ -10388,6 +10388,23 @@
       "created_at": "2026-03-18 12:08:55"
     },
     {
+      "title": "Sapphire & Steel",
+      "year": 1979,
+      "medium": "TV Series",
+      "creator": "Peter J. Hammond",
+      "raw_score": 3.6,
+      "total_ratings": 25,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Supernatural, Time",
+      "image_filename": "sapphire_steel_1979.jpg",
+      "pitch": "Sapphire and Steel are interdimensional operatives \u2014 elements taking human form \u2014 sent to investigate breaches in time. They appear at locations where the past threatens to break through into the present. The eerie tone and minimalist budget create unease through suggestion. ATV for ITV, 1979-1982, 34 episodes.",
+      "truth": "Sapphire and Steel investigate temporal breaches caused by old objects bleeding into the present. Over six adventures, they encounter ghosts of time and other operatives like Lead and Silver. Each episode is self-contained while building mythology. The final adventure ends on an unresolved cliffhanger with protagonists trapped in a motorway caf\u00e9.",
+      "core": "Time here is an active malevolent force \u2014 a corridor with weak spots where the past breaks through. The element operatives and shopping-list opening narration are cult touchstones. Never repeated on UK terrestrial TV, its ambiguity and unresolved ending create enduring mystique.",
+      "created_at": "2026-06-13 15:17:36"
+    },
+    {
       "title": "Saturn Apartments",
       "year": 2005,
       "medium": "Manga",
@@ -19432,5 +19449,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1143
+  "count": 1144
 }
