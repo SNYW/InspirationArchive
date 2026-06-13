@@ -4914,6 +4914,23 @@
       "created_at": "2026-03-01 23:23:30"
     },
     {
+      "title": "Genocide",
+      "year": 1968,
+      "medium": "Film",
+      "creator": "Kazui Nihonmatsu",
+      "raw_score": 2.57,
+      "total_ratings": 24,
+      "origin": "Japan",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror, Dystopia",
+      "topics": "War, Pandemic, Ecology",
+      "image_filename": "Genocide_1968.jpg",
+      "pitch": "Genocide is a 1968 Japanese science fiction horror film that weaves together nuclear anxiety, insect apocalypse, and Cold War paranoia into one of the most unsettling tokusatsu productions of its era. Directed by Kazui Nihonmatsu and scored by Shunsuke Kikuchi, the film was released by Shochiku as a double feature with The Living Skeleton.\n\nThe premise begins with an American bomber carrying a hydrogen bomb crashing on a remote island after being attacked by a massive swarm of insects. A US search party is dispatched to recover the bomb, while local residents and scientists uncover a terrifying conspiracy involving genetically evolved insects planning global genocide. The film builds toward an apocalyptic conclusion where humanity faces annihilation\u2014not from nuclear fire, but from the very ecosystem it has disturbed.\n\nWhat makes Genocide remarkable is its layered allegory: the insects become a metaphor for the unchecked consequences of scientific experimentation, while the American military's plan to cover up the incident by detonating their own H-bomb exposes the moral bankruptcy of Cold War powers. The film was Shochiku's last horror production and has since gained cult status for its audacious ambition.",
+      "truth": "The film opens with stock footage of an atomic blast, establishing the nuclear context. The action shifts to the Anan Archipelago, a fictional island group resembling the Ryukyu Islands, where Akiyama Joji is collecting rare insects for biologist Dr. Nagumo\u2014but is found with Annabelle, a mysterious blonde woman.\n\nOverhead, an American bomber carrying an H-bomb experiences an insect-induced flashback in one of its crew, Charly. The plane is engulfed by a massive swarm of insects and crashes with four parachutes spotted descending. A US Air Force search party is dispatched to recover the missing H-bomb, led by Lieutenant-Colonel Gordon.\n\nMeanwhile, on another island, Joji's wife Yukari fights off the advances of her employer Kudo while dealing with suspicions about Joji's prolonged absence. The American search party finds Charly unconscious and discovers the dead bodies of the other airmen, marked by strange wounds. Joji, found with a military-issue watch under an abandoned parachute, is arrested and accused of the airmen\u2019s deaths.\n\nDr. Nagumo receives a plea for help from Yukari and arrives to assist Joji. His investigation reveals the wounds were caused by insect bites\u2014but his claims are met with skepticism. Annabelle is revealed to have a deep connection with the insects, driven by a traumatic past involving her family's torture during the war. She is also involved with Eastern bloc spies planning to use the insects as a weapon.\n\nCharly, tortured by the spies, confirms the existence of the H-bomb before being dumped back on the island. His madness and subsequent death reveal more about the insects' deadly capabilities, including laying eggs in human tissue. As the situation escalates, Nagumo and his allies are captured by the spies and Annabelle, who reveals her plan to use the insects for global genocide.\n\nIn a final effort, Joji sacrifices himself to save Yukari from the attacking insects. Nagumo and the survivors attempt to evacuate\u2014but the Americans, led by Gordon, plan to detonate the H-bomb to cover up the incident and eliminate the insect threat. Despite Nagumo's desperate attempts to prevent the detonation, the film ends on a note of impending doom.",
+      "core": "Genocide operates on multiple allegorical levels. At the surface, it's a tokusatsu monster film\u2014but beneath the insect\u7279\u6548 lies a searing critique of Cold War militarism and scientific hubris. The American military's willingness to detonate their own hydrogen bomb to cover up a scandal exposes the moral bankruptcy of nuclear deterrence logic.\n\nThe insects themselves represent nature's revenge\u2014a theme that resonated deeply in post-war Japan, where the trauma of atomic bombing made ecological retribution a potent cultural anxiety. Annabelle's backstory, involving her family's torture during the war, personalizes this vendetta into something more unsettling: she isn't merely fighting for an ideology but channeling generational trauma into species-wide genocide.\n\nThe film also critiques American military presence in Japan and the lingering suspicions about nuclear weapons on Japanese soil. By having the solution to the insect crisis be yet another nuclear detonation, the film suggests that humanity's default response to existential threats is more destruction\u2014an insight that feels tragically prescient.\n\nAs Shochiku's final horror film, Genocide stands as a dark capstone to the studio's 1960s output: ambitious, bleak, and unwilling to offer false hope. Its combination of ecological horror, Cold War paranoia, and feminist critique (women are portrayed as both victims and perpetrators of violence) makes it a fascinating artifact of its era.",
+      "created_at": "2026-06-13 07:52:49"
+    },
+    {
       "title": "Genocyber",
       "year": 1994,
       "medium": "Anime",
@@ -18208,5 +18225,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1071
+  "count": 1072
 }
