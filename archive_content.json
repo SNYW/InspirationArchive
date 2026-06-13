@@ -3809,6 +3809,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Department S",
+      "year": 1969,
+      "medium": "TV Series",
+      "creator": "Dennis Spooner, Monty Berman",
+      "raw_score": 2.67,
+      "total_ratings": 16,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Espionage, Technology, Crime",
+      "image_filename": "Department_S_1969.jpg",
+      "pitch": "A stylish 1969 British spy-fi adventure series for ITV. When Interpol faces cases too bizarre for regular agents, they call Department S \u2014 a secret Paris division led by ex-FBI agent Stewart Sullivan, novelist Jason King, and computer expert Annabelle Hurst. Each episode blends 1960s spy thriller intrigue with speculative elements.",
+      "truth": "Department S operates from Interpol HQ in Paris. Cases include planes landing with no pilots and officials found transformed into skeletons. Stewart Sullivan handles field work, Jason King uses his novelist's mind to crack cases, and Annabelle Hurst provides tech expertise. 28 episodes ran from 1969-1970.",
+      "core": "Department S represents 1960s ITC adventure programming at its peak. Notable for one of television's first female computer experts. Jason King \u2014 a novelist who solves crimes with creative writing \u2014 reflects a uniquely 1960s fantasy of intellect prevailing over force.",
+      "created_at": "2026-06-13 21:08:16"
+    },
+    {
       "title": "Der Androj\u00e4ger",
       "year": 1982,
       "medium": "TV Series",
@@ -20469,5 +20486,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1204
+  "count": 1205
 }
