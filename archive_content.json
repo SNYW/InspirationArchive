@@ -13533,6 +13533,23 @@
       "created_at": "2026-03-06 22:58:32"
     },
     {
+      "title": "The Final Executioner",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Romolo Guerrieri",
+      "raw_score": 1.91,
+      "total_ratings": 16,
+      "origin": "Italy",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Dystopia, Class Struggle",
+      "image_filename": "the_final_executioner_1984.jpg",
+      "pitch": "In a post-nuclear Italy, fallout has contaminated most of the population while a select few \\\"clean\\\" elites survive in isolated towns. These wealthy survivors have turned hunting the contaminated masses into a deadly sport\u2014dispatching them to preserves where they're hunted for entertainment like game animals. When elite cybernetic expert Alan Tanner discovers his wife is next on the execution list, he tries to expose the truth, only to be stripped of his privileges and sent to a preserve himself. Now hunted, Alan must survive the brutal wasteland and seek revenge against the elite who condemned humanity's remaining millions to death.\n\nThis 1984 Italian post-apocalyptic film arrives at the height of the genre's popularity, offering a grim vision of a future where the wealthy have literally privatized survival itself. Director Romolo Guerrieri crafts a punishing world where the line between hunter and hunted blurs, and the only escape is violent resistance or death.",
+      "truth": "After nuclear war devastates Italy, the surviving population is divided into two groups: the \\\"clean\\\" elites who live in protected towns, and the contaminated masses confined to wasteland preserves. The elites have turned human hunting into a sport, having already killed nearly 80 million people.\n\nAlan Tanner (William Mang), a cybernetic expert among the elite, learns his wife is scheduled to be sent to the preserves\u2014a death sentence. He attempts to expose the truth about the hunts, but is stripped of his privileges and exiled to a preserve himself. There, Alan witnesses the brutal reality of the hunting grounds, where his fellow humans are pursued for sport.\n\nAfter being shot and left for dead, Alan washes up at the home of Sam (Woody Strode), an ex-cop who trains him in survival and combat. Together, they mount an assault on the elite's citadel, leading to a bloody final confrontation where Alan seeks vengeance against those who condemned millions to death.\n\nThe film ends with Alan and Sam fighting their way through the hunters, though the cost is devastating.",
+      "core": "The Final Executioner stands as a grim artifact of Italian post-apocalyptic cinema, offering a brutal class allegory beneath its exploitation trappings. The film explicitly frames its world as one where the wealthy have escaped the consequences of nuclear war by condemning everyone else to die\u2014then hunting them for sport.\n\nWhat distinguishes this film from its contemporaries is its unflinching (if heavy-handed) focus on class as the driving force of post-apocalyptic hierarchy. The elite aren't just survivors\u2014they're executioners who've turned mass murder into recreation. Alan isn't a chosen one or resistance leader; he's a man driven to violence by personal loss, trained by a grizzled mentor in a narrative that predates similar Hollywood action films by years.\n\nCritics dismissed the film as a generic entry in a crowded genre, though Kim Newman noted it as \\\"the best of a bad lot\\\" among Italian post-apocalyptic films. Its real historical value lies in capturing the anxieties of the nuclear age through the lens of European exploitation cinema\u2014a reminder that the apocalypse was never a great equalizer, but another arena for existing power structures to operate unchecked.",
+      "created_at": "2026-06-13 13:13:57"
+    },
+    {
       "title": "The Final Programme",
       "year": 1973,
       "medium": "Film",
@@ -19058,5 +19075,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1121
+  "count": 1122
 }
