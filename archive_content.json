@@ -8569,6 +8569,23 @@
       "created_at": "2026-03-04 13:18:04"
     },
     {
+      "title": "Princess Knight",
+      "year": 1967,
+      "medium": "Anime",
+      "creator": "Osamu Tezuka",
+      "raw_score": 3.46,
+      "total_ratings": 1858,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Identity, Gender, Fairy Tale",
+      "image_filename": "Princess_Knight_1967.jpg",
+      "pitch": "Princess Knight (Ribon no Kishi) is a pioneering 1967 anime series by Osamu Tezuka that follows Sapphire, a young princess born with both a boy's heart and a girl's heart. To inherit the throne of Silverland where only males may rule, she must pretend to be a prince while secretly longing to be herself.\n\nThe series was inspired by the all-female Takarazuka Revue, where women perform both male and female roles. Tezuka transposed this theatrical tradition into manga and anime, creating one of the first works to explore gender identity through a female superhero lens. At night, Sapphire dons a Zorro-style mask to fight crime as the Phantom Knight.\n\nThis 52-episode series launched the World Masterpiece Theater and established countless trends in sh\u014djo manga that followed. It balances adventure, romance, and fairy tale fantasy while quietly questioning the rigid gender expectations of 1960s Japan.",
+      "truth": "Sapphire is born to the King of Silverland, but due to succession laws barring females, her father announces the baby as a boy. What the court doesn't know: Sapphire was born with two hearts\u2014a blue heart of a boy and a pink heart of a girl. An angel named Tink is sent to retrieve her extra heart, but she refuses to give it up.\n\nGrowing up as Prince Sapphire, she meets Franz, the prince of neighboring Goldland, who knows her as three different people: the prince, the princess, and the masked Phantom Knight\u2014each persona generating different feelings. Meanwhile, the evil Duke Duralumin schemes to take over the kingdom through his son Plastic, constantly trying to expose Sapphire's true gender.\n\nThe main antagonist becomes Mr. X, ruler of the fascist X-Union, who stages a coup d'\u00e9tat. The King and Queen are captured and executed. Sapphire and Franz rally the people using three magic balls given by her parents, leading to the final battle at Silverland Castle. After defeating Mr. X and his forces, Sapphire's parents are resurrected by God in exchange for Tink's sacrifice.\n\nSapphire and Franz marry, and Tink's spirit returns to heaven with earned wings. The series concludes with Sapphire finally able to be her true self.",
+      "core": "Princess Knight is widely regarded as one of the most influential works in sh\u014djo manga history. It pioneered the gender-bending heroine archetype and established narrative-driven storytelling for girl readers\u2014a departure from the action-focused boys' manga that dominated.\n\nThe series invites multiple interpretations of its gender politics. Some critics see it as feminist\u2014a girl succeeding in a man's world by mastering both masculine and feminine qualities. Others argue it reinforces traditional roles, since Sapphire's strength comes from her \"boy's heart\" and she ultimately returns to feminine domesticity through marriage.\n\nWhat is undeniable is its influence: it started the tradition of androgynous heroines in manga and anime, directly inspiring works across the industry. The concept of a protagonist with dual-gender hearts prefigures later explorations of gender fluidity in Japanese media.\n\nTezuka's production drew from Takarazuka Revue, Christian mythology, and European fairy tales into a \"trippy pop culture pastiche\" that defined the aesthetic of sh\u014djo manga for decades to come.",
+      "created_at": "2026-06-13 04:08:18"
+    },
+    {
       "title": "Princess Mononoke",
       "year": 1997,
       "medium": "Anime Film",
@@ -17562,5 +17579,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1033
+  "count": 1034
 }

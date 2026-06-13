@@ -7561,6 +7561,21 @@
       "created_at": "2026-03-04 13:18:04"
     },
     {
+      "title": "Princess Knight",
+      "year": 1967,
+      "medium": "Anime",
+      "creator": "Osamu Tezuka",
+      "raw_score": 3.46,
+      "total_ratings": 1858,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Identity, Gender, Fairy Tale",
+      "image_filename": "Princess_Knight_1967.jpg",
+      "pitch": "Princess Knight (Ribon no Kishi) is a pioneering 1967 anime series by Osamu Tezuka that follows Sapphire, a young princess born with both a boy's heart and a girl's heart. To inherit the throne of Silverland where only males may rule, she must pretend to be a prince while secretly longing to be herself.\n\nThe series was inspired by the all-female Takarazuka Revue, where women perform both male and female roles. Tezuka transposed this theatrical tradition into manga and anime, creating one of the first works to explore gender identity through a female superhero lens. At night, Sapphire dons a Zorro-style mask to fight crime as the Phantom Knight.\n\nThis 52-episode series launched the World Masterpiece Theater and established countless trends in sh\u014djo manga that followed. It balances adventure, romance, and fairy tale fantasy while quietly questioning the rigid gender expectations of 1960s Japan.",
+      "created_at": "2026-06-13 04:08:18"
+    },
+    {
       "title": "Princess Mononoke",
       "year": 1997,
       "medium": "Anime Film",
@@ -15496,5 +15511,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1033
+  "count": 1034
 }
