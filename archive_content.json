@@ -3520,6 +3520,23 @@
       "created_at": "2026-03-03 03:03:03"
     },
     {
+      "title": "Dororo to Hyakkimaru",
+      "year": 1969,
+      "medium": "Anime",
+      "creator": "Osamu Tezuka",
+      "raw_score": 3.65,
+      "total_ratings": 6819,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Transhumanism, Cybernetics, Rebellion",
+      "image_filename": "Dororo_to_Hyakkimaru_1969.jpg",
+      "pitch": "In feudal Japan, a ruthless warlord makes a chilling bargain: sacrifice his unborn son to 48 demons in exchange for the power to conquer the land. The child is born missing 48 body parts\u2014limbs, organs, senses\u2014and cast into a river to die.\n\nFifteen years later, the child has survived, reconstructed piece by piece with prosthetic weapons and tools. He calls himself Hyakkimaru. Meanwhile, in the war-torn countryside, a orphaned thief named Dororo robs samurai and peasants alike to survive. When their paths cross, Dororo mistakes Hyakkimaru for a wealthy noble and attempts to rob him\u2014only to discover the young warrior is neither wealthy nor, in any normal sense, human.\n\nThis is Osamu Tezuka's dark meditation on what it means to be human, told through the developing friendship between a boy made of machinery and a boy made of cunning.",
+      "truth": "The series follows Hyakkimaru as he journeys to reclaim the 48 body parts stolen from him by demons, each demon possessing a different part of a warlord's realm. Each time he destroys a demon, he regains a piece of himself\u2014his hearing, his limbs, his voice.\n\nDororo accompanies him, initially for selfish reasons (Hyakkimaru's prosthetics make him seem wealthy), but genuinely comes to care for his strange companion. Together they encounter a series of bosses and morally complex figures: a hermit who can see the future but is blind, a friendly kappa, various samurai warlords, and most importantly, Hyakkimaru's father Daigo Kagemitsu.\n\nThe core of the series is the question of Hyakkimaru's humanity. He was born human but made monstrous by his father's ambition. His prosthetic body parts give him extraordinary abilities but mark him as other. Throughout the series, he must decide whether to become a human with a heart, or a demon with power.\n\nIn the final arc, Hyakkimaru confronts his father and learns the full truth: his body parts were not stolen by demons but willingly given by his father in exchange for worldly power. The demons were merely the brokers. Daigo refuses to show remorse, insisting his actions brought peace to the land. Hyakkimaru must make an impossible choice: kill his father and reclaim his humanity, or spare him and remain forever incomplete.",
+      "core": "Dororo to Hyakkimaru stands as one of Tezuka's most philosophically ambitious works, exploring themes of identity, sacrifice, and what constitutes humanity. Is Hyakkimaru human because he was born human, or does his mechanical body make him something else? The series refuses easy answers.\n\nThe 48 demons parallel the 48 roguelike provinces of the body in Buddhist anatomy, grounding Hyakkimaru's quest in Eastern philosophical concepts while presenting them through a Western adventure narrative structure. Each recovered body part comes at a moral cost, forcing Hyakkimaru to question whether his growing power justifies the violence he commits.\n\nTezuka uses Dororo as a counterweight\u2014a completely 'normal' human whose lack of special powers makes him more sympathetic. Yet it's Dororo who provides the emotional core, teaching Hyakkimaru about friendship, compassion, and the value of ordinary human connection.\n\nThe series also functions as a critique of feudal power and the deals made by those who seek dominion. Daigo Kagemitsu is not a cartoon villain but a man who convinced himself that sacrificing one child could bring peace to thousands\u2014a utilitarian horror that remains tragically relevant.",
+      "created_at": "2026-06-13 02:48:44"
+    },
+    {
       "title": "Dorsai!",
       "year": 1959,
       "medium": "Novel",
@@ -17358,5 +17375,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1021
+  "count": 1022
 }
