@@ -7951,6 +7951,21 @@
       "created_at": "2026-03-06 12:26:41"
     },
     {
+      "title": "One Day",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Hou Chi-jan",
+      "raw_score": 3.55,
+      "total_ratings": 17,
+      "origin": "Taiwan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Dreams, Memory, Love",
+      "image_filename": "one_day_2010.jpg",
+      "pitch": "One Day is a 2010 Taiwanese fantasy that blurs the line between dreams and waking life. A cleaning woman on a military ferry is haunted by recurring dreams of a stranger, then meets him in reality. Hou Chi-jan's poetic film asks: which world is real?",
+      "created_at": "2026-06-13 17:21:06"
+    },
+    {
       "title": "Onesime, Clockmaker",
       "year": 1912,
       "medium": "Film",
@@ -17491,5 +17506,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1166
+  "count": 1167
 }
