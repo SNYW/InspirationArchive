@@ -4036,6 +4036,21 @@
       "created_at": "2026-03-19 07:09:37"
     },
     {
+      "title": "Fantastic Max",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Judy Rothman Rof\u00e9, Robin Lyons, Mike Young",
+      "raw_score": 3.73,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Children, Friendship",
+      "image_filename": "Fantastic_Max_1988.jpg",
+      "pitch": "Hanna-Barbera animated series about a mohawked toddler whose toys come alive for space adventures. Max, his alien doll FX, and robot A.B. Sitter blast off in a rocket ship to help aliens across the galaxy. 1980s US-UK co-production for BBC and US syndication.",
+      "created_at": "2026-06-13 17:37:56"
+    },
+    {
       "title": "Fantastic Planet",
       "year": 1973,
       "medium": "Animated Film",
@@ -17536,5 +17551,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1169
+  "count": 1170
 }
