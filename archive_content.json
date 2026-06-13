@@ -6087,6 +6087,23 @@
       "created_at": "2026-03-06 08:40:40"
     },
     {
+      "title": "Jackpot 2",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Matti Ij\u00e4s",
+      "raw_score": 2.73,
+      "total_ratings": 15,
+      "origin": "Finland",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Youth, Game",
+      "image_filename": "Jackpot_2_1982.jpg",
+      "pitch": "In a post-apocalyptic Helsinki reduced to ruins, three young people drift through the skeletal remains of the city on a Friday evening. The boys obsessively chase one thing: the legendary Flip-Flop pinball machine, the last working arcade in the blasted urban landscape. This Finnish oddity channels the existential ennui of youth culture through the neon glow of pinball bumpers, creating a haunting meditation on what people cling to when civilization collapses.",
+      "truth": "The film follows two boys and a girl as they navigate the ruined city streets. The boys are fixated on reaching the legendary Flip-Flop pinball machine, treating it as a quest of almost religious significance. The post-disaster setting is established through environmental storytelling - burnt-out buildings, empty streets, the sense of something cataclysmic that happened. The pinball machine represents hope, normalcy, or perhaps just distraction from the harsh reality of their world.",
+      "core": "Jackpot 2 is a fascinating artifact of early 80s Finnish cinema, treating video game culture as a lens for post-apocalyptic survival. The film asks what humanity preserves when everything else is lost - in this case, not knowledge or culture, but the simple pursuit of play. The pinball machine becomes a symbol of resilience through trivial pleasure, a counterpoint to the grave setting. It's a relatively rare piece of early video game cinema that predates the widespread genre.",
+      "created_at": "2026-06-13 09:39:15"
+    },
+    {
       "title": "Jaithra Yaathra",
       "year": 1987,
       "medium": "Film",
@@ -18480,5 +18497,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1087
+  "count": 1088
 }
