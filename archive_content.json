@@ -17885,6 +17885,23 @@
       "created_at": "2026-03-06 14:12:15"
     },
     {
+      "title": "Welcome II the Terrordome",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Ngozi Onwurah",
+      "raw_score": 5.91,
+      "total_ratings": 11,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Race, Survival, Authoritarianism",
+      "image_filename": "welcome_ii_the_terrordome.jpg",
+      "pitch": "Welcome II the Terrordome is a bold 1995 British sci-fi film that presents a brutal dystopian vision of a future where Black people have been forcibly segregated into a massive inner-city ghetto called the Terrordome. Directed by Ngozi Onwurah, one of Britain's few Black female filmmakers of the era, this film serves as a sharp allegory for colonialism, racism, and the structural violence of systemic oppression.\n\nThe story follows Spike and his sister Anjela, who live trapped within the Terrordome's walls. When Spike's pregnant white girlfriend Jodie seeks refuge there after fleeing an abusive relationship, the tensions of race, class, and power explode. After a police trap results in the death of Spike's young nephew Hector, Anjela embarks on a violent rampage against the police.\n\nOnwurah's film is notable for its unapologetic engagement with issues of race, gender, and power. The Terrordome itself is a powerful visual metaphor for the racialized ghettos created by decades of discriminatory housing policy and social neglect. The film was controversial upon release for its explicit violence and unflinching critique of both institutional racism and internal community tensions.",
+      "truth": "The film opens in the Terrordome, a massive fortified ghetto where all Black citizens have been forced to live under constant police surveillance. Spike and his sister Anjela are residents, struggling to survive in this oppressive environment. Anjela's young son Hector is an 11-year-old boy trying to navigate the dangers of their neighborhood.\n\nJodie, Spike's white girlfriend, arrives at the Terrordome seeking escape from her abusive white boyfriend. She is pregnant with Spike's child, which creates tension in their interracial relationship. Jodie's presence draws attention from the police, who set up a trap that results in young Hector being killed.\n\nThe death of Hector becomes the catalyst for Anjela's transformation. Driven to despair and rage, she goes on a violent rampage against the police, exacting revenge for her son's death. The film ends with Anjela's vengeful attack, leaving the audience with an image of explosive resistance against oppressive systems.\n\nThe film also touches on themes of internal community conflict, showing how oppression creates fractures within the community itself. The relationship between Spike and Jodie, and the resulting pregnancy, represents both the possibility of connection across racial lines and the dangers that come with defying the system's rules.",
+      "core": "Welcome II the Terrordome is a radical work of Black British cinema that interrogates the legacies of colonialism and systemic racism within the supposedly post-racial West. Onwurah, drawing on her own experiences as a mixed-race woman who grew up facing both racial abuse and internal family conflict over identity, crafts a film that refuses easy answers or comfortable resolutions.\n\nThe Terrordome as a setting is a powerful allegorical space - it recalls both the historical internment of Black populations in various contexts and the carceral geographies of contemporary urban ghettos. The film's setting suggests that the historical forced segregation of apartheid and Jim Crow have simply evolved into new architectural and social forms of control.\n\nWhat distinguishes Onwurah's film is its refusal to center white guilt or redemption. Instead, it focuses on Black agency, even when that agency manifests as violent resistance. Anjela's rampage can be read as a critique of both the external oppressive system and the internal community dynamics that perpetuate victimhood.\n\nThe film also presciently anticipated themes that would become central to Afrofuturist discourse - the imagining of separate Black futures, the question of whether integration or separation offers the path to liberation, and the costs of surviving within hostile systems. Welcome II the Terrordome remains a rare example of Black British speculative fiction that takes race as its central concern.",
+      "created_at": "2026-06-13 08:34:35"
+    },
+    {
       "title": "Welcome to the Space Show",
       "year": 2010,
       "medium": "Anime Film",
@@ -18344,5 +18361,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1079
+  "count": 1080
 }

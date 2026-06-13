@@ -15781,6 +15781,21 @@
       "created_at": "2026-03-06 14:12:15"
     },
     {
+      "title": "Welcome II the Terrordome",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Ngozi Onwurah",
+      "raw_score": 5.91,
+      "total_ratings": 11,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Race, Survival, Authoritarianism",
+      "image_filename": "welcome_ii_the_terrordome.jpg",
+      "pitch": "Welcome II the Terrordome is a bold 1995 British sci-fi film that presents a brutal dystopian vision of a future where Black people have been forcibly segregated into a massive inner-city ghetto called the Terrordome. Directed by Ngozi Onwurah, one of Britain's few Black female filmmakers of the era, this film serves as a sharp allegory for colonialism, racism, and the structural violence of systemic oppression.\n\nThe story follows Spike and his sister Anjela, who live trapped within the Terrordome's walls. When Spike's pregnant white girlfriend Jodie seeks refuge there after fleeing an abusive relationship, the tensions of race, class, and power explode. After a police trap results in the death of Spike's young nephew Hector, Anjela embarks on a violent rampage against the police.\n\nOnwurah's film is notable for its unapologetic engagement with issues of race, gender, and power. The Terrordome itself is a powerful visual metaphor for the racialized ghettos created by decades of discriminatory housing policy and social neglect. The film was controversial upon release for its explicit violence and unflinching critique of both institutional racism and internal community tensions.",
+      "created_at": "2026-06-13 08:34:35"
+    },
+    {
       "title": "Welcome to the Space Show",
       "year": 2010,
       "medium": "Anime Film",
@@ -16186,5 +16201,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1079
+  "count": 1080
 }
