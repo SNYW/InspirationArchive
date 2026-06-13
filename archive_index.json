@@ -7591,6 +7591,21 @@
       "created_at": "2026-03-19 03:41:27"
     },
     {
+      "title": "Probud\u00edm se v\u010dera",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Miloslav \u0160m\u00eddmajer",
+      "raw_score": 3.05,
+      "total_ratings": 21,
+      "origin": "Czech-Republic",
+      "mood": "Satirical",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Memory, Love",
+      "image_filename": "Probudim_se_vcera_2012.jpg",
+      "pitch": "In this Czech time-travel comedy, a forty-something loser gets a chance to rewrite his own history. When Petr Kov\u00e1\u0159 discovers a laboratory offering one-way trips to the past, he leaps at the opportunity to return to June 1989 \u2014 not to prevent a catastrophe or save the world, but simply to win back Eli\u0161ka, the girl who got away in high school.\n\nThere\\'s just one catch: he arrives in the body of his eighteen-year-old self, complete with all the wisdom, cynicism, and regret of four decades. The result is a fish-out-of-water comedy that uses time travel as a lens to examine what we\\'d really do with a second chance \u2014 and whether we\\'d even recognize ourselves if we got it.\n\nPart coming-of-age story, part nostalgic romp through the final days of communist Czechoslovakia, \"Probud\u00edm se v\u010dera\" balances humor with genuine heart. Petr\\'s attempts to use foreknowledge to \"win\" Eli\u0161ka lead to predictably unpredictable results.",
+      "created_at": "2026-06-13 04:34:05"
+    },
+    {
       "title": "Promare",
       "year": 2019,
       "medium": "Anime Film",
@@ -14761,6 +14776,21 @@
       "created_at": "2026-03-06 01:28:14"
     },
     {
+      "title": "Turks in Space",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Kartal Tibet (director), Murat Boyacioglu (writer)",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Turkey",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, AI",
+      "image_filename": null,
+      "pitch": "Turks in Space (D\u00fcnyay\u0131 Kurtaran Adam\u0131n O\u011flu, literally \\\"The Son of the Man Who Saved the World\\\") is a 2006 Turkish science fiction action comedy film and the sequel to \\\"The Man Who Saved the World.\\\" Directed by Kartal Tibet and starring C\u00fcneyt Ark\u0131n reprising his iconic role, the film is set in the year 2055, when the world exists in a state of turmoil awaiting the formation of a government that can establish universal peace. The Orion Union\u2014an uneasy alliance of planetary states\u2014stands as the only governance preventing total chaos.\n\nThe story follows Murat's son, who works alongside his twin brother (though neither knows of the other's existence) to save the world from various threats. The film is infamous for its exceptionally low rating on IMDb\u20141.5 stars, placing it among the lowest-rated movies ever\u2014making it a fascinating cult object for fans of obscure international sci-fi.",
+      "created_at": "2026-06-13 04:30:00"
+    },
+    {
       "title": "UFO Robot Grendizer",
       "year": 1975,
       "medium": "TV Series",
@@ -15541,5 +15571,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1036
+  "count": 1038
 }
