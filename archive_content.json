@@ -12904,6 +12904,23 @@
       "created_at": "2026-03-18 23:20:49"
     },
     {
+      "title": "The Box of Delights",
+      "year": 1984,
+      "medium": "TV Series",
+      "creator": "John Masefield (book), Alan Seymour (adaptation), Patrick Troughton, Robert Stephens",
+      "raw_score": 4.0,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Children, Fairy Tale",
+      "image_filename": "The_Box_of_Delights_1984.jpg",
+      "pitch": "Kay Harker receives a magical box from Cole Hawlings, an elderly Punch and Judy man who is actually the medieval philosopher Ramon Llull in disguise. The box allows its owner to shrink, fly, and experience wonders - but evil magician Abner Brown will do anything to possess it. A groundbreaking 1984 BBC children's series.",
+      "truth": "Kay meets Cole at a railway station and is entrusted with the magical box. Abner Brown and his gang pursue Kay across England as he protects the box. Kay learns Cole is Ramon Llull, living for centuries using the box's powers. The series follows Kay's adventures as he fends off Abner's followers and confronts the villain at Christmas.",
+      "core": "Sophisticated British children's TV that respects its audience. Explores innocence vs corruption and children's courage. Notable for innovative effects and atmospheric production. A cult classic.",
+      "created_at": "2026-06-13 16:52:49"
+    },
+    {
       "title": "The Boy Who Turned Yellow",
       "year": 1972,
       "medium": "Short Film",
@@ -19738,5 +19755,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1161
+  "count": 1162
 }
