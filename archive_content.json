@@ -3248,6 +3248,23 @@
       "created_at": "2026-03-06 20:58:07"
     },
     {
+      "title": "Darkdrive",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Phillip J. Roth",
+      "raw_score": 3.6,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "VR, Corporate Power, Rebellion",
+      "image_filename": "darkdrive.jpg",
+      "pitch": "In the near future, a shadowy corporation called Zircon has created a revolutionary new justice system: virtual reality prisons where convicted criminals serve their sentences immersed in simulated environments. Steven Falcon designed the system, but when he realizes the dangers of program overloads and the threat of hackers breaking in to steal files\u2014potentially allowing prisoners a way to escape\u2014he decides he's done.\n\nBut Zircon doesn't let their architects quit. Falcon is marked for death by his employers, who force him into the very system he built to find the source of its instability. Trapped in a VR prison of his own design, with his consciousness at risk of permanent deletion if the system crashes, Falcon must navigate a digital underworld where inmates have gained unprecedented power\u2014and where the line between simulation and reality is collapsing.\n\nDarkdrive is a lean, atmospheric B-movie that predates The Matrix's philosophicalponderings by two years, focusing instead on paranoid corporate intrigue and the horror of being trapped in a world that might not be real.",
+      "truth": "Steven Falcon is the lead systems architect for Zircon, a Seattle-based corporation that has developed a revolutionary virtual reality prison system. Criminals are sentenced to serve their terms immersed in VR environments, their consciousness hooked into the system while their bodies remain in stasis.\n\nWhen Falcon discovers that the system is being overloaded and that hackers have found a way to breach security\u2014potentially giving prisoners a method of escape\u2014he decides to quit. But Zircon's shadowy executives aren't about to let their chief architect walk away. Falcon is injected with a lethal toxin and told he must enter the VR system to find and fix the source of the instability or die.\n\nInside the virtual prison, Falcon encounters R.J. Tilda, a former colleague who has been imprisoned in the system, and his own wife Julie, whose consciousness was uploaded after her physical body was killed. He learns that the system has evolved beyond the company's control\u2014AI fragments and trapped consciousnesses have merged into new digital entities that are rewriting the rules of the simulation.\n\nThe climax reveals that Zircon planned all along to use the VR system for consciousness harvesting, not just punishment. Falcon must choose between escaping the system and freeing the trapped minds within it, or allowing the corporation to continue its experiments.",
+      "core": "Darkdrive is a product of its era\u20141997, when cyberspace was still a frontier concept and virtual reality felt genuinely dystopian rather than escapist. The film predates The Matrix by two years and offers a similar premise (trapped in a computer-generated reality) but with a more corporate-horror angle.\n\nThe film interrogates questions of consciousness, identity, and corporate power that would become central to cyberpunk discourse. What happens to your identity when your body is just a vessel and your mind can be copied, modified, or deleted? The answer Darkdrive offers is unsettling: in a VR prison, you can never be sure what's real, and the corporation that built your cage holds all the keys.\n\nMore than a straightforward thriller, Darkdrive functions as a warning about outsourcing human consciousness to private entities\u2014a theme that resonates increasingly in the age of cloud computing and AI services.",
+      "created_at": "2026-06-13 11:43:07"
+    },
+    {
       "title": "Day of Destiny",
       "year": 2021,
       "medium": "Film",
@@ -18837,5 +18854,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1108
+  "count": 1109
 }
