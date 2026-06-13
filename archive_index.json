@@ -16171,6 +16171,21 @@
       "created_at": "2026-06-12 15:37:18"
     },
     {
+      "title": "Vanishing Waves",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Kristina Buo\u017eyt\u0117",
+      "raw_score": 2.9,
+      "total_ratings": 71,
+      "origin": "Multinational",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "AI, VR, Love, Isolation",
+      "image_filename": "",
+      "pitch": "In a prestigious European neuroscience research project, a methodical scientist named Lukas is chosen to connect his consciousness with a comatose patient for groundbreaking neuron transfer experiments. What begins as purely observational quickly becomes something far more complex when he encounters Aurora\u2014a woman trapped in a dreamlike coma state,\u610f\u8bc6\u7684\u8fb9\u7f18.\n\nAs Lukas returns to Aurora again and again, their encounters grow increasingly intimate and emotionally charged. He hides his growing obsession from his colleagues, abandoning his long-time partner Lina as the boundary between scientific observation and genuine connection blurs. When he finally learns Aurora's tragic backstory\u2014a car accident that claimed her husband\u2014his professional detachment shatters completely.\n\nVanishing Waves is a cerebral sci-fi thriller that uses the framework of consciousness research to explore the most fundamental human questions: What is reality? Where do we draw the line between the mind and the self? And can love exist without physical presence?",
+      "created_at": "2026-06-13 13:27:22"
+    },
+    {
       "title": "Vesper",
       "year": 2022,
       "medium": "Film",
@@ -16846,5 +16861,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1123
+  "count": 1124
 }
