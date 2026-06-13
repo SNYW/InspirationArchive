@@ -664,6 +664,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Aachi & Ssipak",
+      "year": 2006,
+      "medium": "Animated Film",
+      "creator": "Jo Beom-jin",
+      "raw_score": 3.1,
+      "total_ratings": 62,
+      "origin": "South-Korea",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Corporate Power, Satire, Rebellion",
+      "image_filename": "Aachi_Ssipak_2006.jpg",
+      "pitch": "In a near-future South Korea where humanity has depleted all conventional energy sources, scientists have engineered a radical solution: human excrement has become the world's most valuable fuel. The government monitors citizens' bodily functions via mandatory anal ID chips, dispensing addictive \\\"Juicybars\\\" in return for production. Aachi and Ssipak are two street hoodlums who survive by trading these coveted bars on the black market.\n\nThis adult animated sci-fi comedy unfolds as a anarchic, body-horror-tinged satire of consumer culture and corporate control. When the duo stumbles upon Beautiful, a porn star whose unique physiology produces exceptional quantities of Juicybars, they ascend from street thugs to unlikely tycoons \u2014 only to find themselves hunted by the Diaper Gang, the city's mutated underclass, and the android police force Geko.\n\nThe film bounces between crude comedy, sci-fi action, and surprisingly poignant moments about survival, loyalty, and the absurdity of systems built on bodily functions.",
+      "truth": "In the future, all traditional energy sources have been depleted. Humanity has turned to a new power source: processed human excrement. The government requires all citizens to have ID chips implanted to monitor their output, dispensing Juicybars as reward. The population quickly becomes addicted.\n\nAachi and Ssipak are small-time black market Juicybar traders. After helping their friend Jimmy the Freak, a porn director, they meet Beautiful, a porn star with a special anal ring that produces massive Juicybars. They become her managers and rise to power in the Juicybar trade, outcompeting the organized gangs.\n\nThe Diaper Gang, mutated midgets addicted to Juicybars, want Beautiful too. Their leader, the Diaper King, kills Jimmy when he fails to deliver her. Aachi, Ssipak, and Beautiful then face attacks from both the Diaper Gang and police android Geko. In the chaos, Beautiful betrayes them.\n\nAfter the Diaper Gang takes over the city and Aachi and Ssipak split up, the city police chief orders the doctor who created Geko to rebuild him. The Diaper King recruits the doctor and upgrades his own forces.\n\nA final battle erupts in the desert. Geko is rebuilt from Jimmy's body. The Diaper King is killed when Geko intercepts him. Jimmy's consciousness briefly resurfaces before the self-destruct kills them both. Aachi and Ssipak escape with Beautiful and return to rule the city.",
+      "core": "Aachi & Ssipak is a singular work of South Korean adult animation that uses scatological absurdity as satirical weapon. The Juicybar economy functions as a grotesque metaphor for consumer capitalism \u2014 a system that literally monetizes bodily output and creates addicts dependent on rewards controlled by authority.\n\nThe film critiques corporate power, surveillance (the anal chips), and the commodification of the human body. The Diaper Gang represents the underclass \u2014 mutated by the very system that exploits them, yet also seeking power within it. The android Geko, rebuilt from the dead porn director's body, blurs the line between human and machine, creation and consumption.\n\nDespite (or because of) its crude premise, the film offers genuine sci-fi commentary on energy dependence, class struggle, and authoritarian control. It stands as a cult curiosity \u2014 one of the few South Korean animated features to tackle adult themes and dystopia.",
+      "created_at": "2026-06-13 07:57:56"
+    },
+    {
       "title": "Abrigo Nuclear",
       "year": 1981,
       "medium": "Film",
@@ -18225,5 +18242,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1072
+  "count": 1073
 }

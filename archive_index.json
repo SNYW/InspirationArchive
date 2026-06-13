@@ -586,6 +586,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Aachi & Ssipak",
+      "year": 2006,
+      "medium": "Animated Film",
+      "creator": "Jo Beom-jin",
+      "raw_score": 3.1,
+      "total_ratings": 62,
+      "origin": "South-Korea",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Corporate Power, Satire, Rebellion",
+      "image_filename": "Aachi_Ssipak_2006.jpg",
+      "pitch": "In a near-future South Korea where humanity has depleted all conventional energy sources, scientists have engineered a radical solution: human excrement has become the world's most valuable fuel. The government monitors citizens' bodily functions via mandatory anal ID chips, dispensing addictive \\\"Juicybars\\\" in return for production. Aachi and Ssipak are two street hoodlums who survive by trading these coveted bars on the black market.\n\nThis adult animated sci-fi comedy unfolds as a anarchic, body-horror-tinged satire of consumer culture and corporate control. When the duo stumbles upon Beautiful, a porn star whose unique physiology produces exceptional quantities of Juicybars, they ascend from street thugs to unlikely tycoons \u2014 only to find themselves hunted by the Diaper Gang, the city's mutated underclass, and the android police force Geko.\n\nThe film bounces between crude comedy, sci-fi action, and surprisingly poignant moments about survival, loyalty, and the absurdity of systems built on bodily functions.",
+      "created_at": "2026-06-13 07:57:56"
+    },
+    {
       "title": "Abrigo Nuclear",
       "year": 1981,
       "medium": "Film",
@@ -16081,5 +16096,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1072
+  "count": 1073
 }
