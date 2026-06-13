@@ -16756,6 +16756,21 @@
       "created_at": "2026-03-03 01:20:41"
     },
     {
+      "title": "Ukkonen",
+      "year": 2001,
+      "medium": "Short Film",
+      "creator": "Mikko Kivinen",
+      "raw_score": 3.0,
+      "total_ratings": 10,
+      "origin": "Finland",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Radiation, Corporate Power, Revenge",
+      "image_filename": "Ukkonen.jpg",
+      "pitch": "Ukkonen is a Finnish short film about a man transformed into a radioactive being after an accident at a secret research facility. Seeking justice for the experiments that destroyed his life, he hunts down the corporation executives responsible.",
+      "created_at": "2026-06-13 18:07:35"
+    },
+    {
       "title": "Ulagam Sutrum Valiban",
       "year": 1973,
       "medium": "Film",
@@ -17596,5 +17611,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1173
+  "count": 1174
 }
