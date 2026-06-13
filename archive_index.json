@@ -496,6 +496,21 @@
       "created_at": "2026-03-03 14:21:39"
     },
     {
+      "title": "A Visitor to a Museum",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Konstantin Lopushansky",
+      "raw_score": 3.4,
+      "total_ratings": 54,
+      "origin": "Soviet-Union",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Religion, Spirituality, Human Nature, Survival",
+      "image_filename": "A_Visitor_to_a_Museum_1989.jpg",
+      "pitch": "A haunting Soviet post-apocalyptic drama set in a world devastated by environmental catastrophe. A solitary traveler journeys to visit the ruins of a museum buried beneath a dried-up sea, encountering ordinary people who have lost their spirituality and \\\"degenerates\\\" who have retained their faith. Winner of the Silver St. George at the Moscow International Film Festival, this is a philosophical meditation on civilization, faith, and what humanity chooses to preserve.",
+      "created_at": "2026-06-13 04:52:41"
+    },
+    {
       "title": "A World Out of Time",
       "year": 1976,
       "medium": "Novel",
@@ -15616,5 +15631,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1041
+  "count": 1042
 }

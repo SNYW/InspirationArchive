@@ -562,6 +562,23 @@
       "created_at": "2026-03-03 14:21:39"
     },
     {
+      "title": "A Visitor to a Museum",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Konstantin Lopushansky",
+      "raw_score": 3.4,
+      "total_ratings": 54,
+      "origin": "Soviet-Union",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Religion, Spirituality, Human Nature, Survival",
+      "image_filename": "A_Visitor_to_a_Museum_1989.jpg",
+      "pitch": "A haunting Soviet post-apocalyptic drama set in a world devastated by environmental catastrophe. A solitary traveler journeys to visit the ruins of a museum buried beneath a dried-up sea, encountering ordinary people who have lost their spirituality and \\\"degenerates\\\" who have retained their faith. Winner of the Silver St. George at the Moscow International Film Festival, this is a philosophical meditation on civilization, faith, and what humanity chooses to preserve.",
+      "truth": "In a post-apocalyptic world following a global environmental disaster, the remnants of humanity live indifferently to the planet's fate. The main character decides to spend his vacation visiting a museum buried under the sea. When the sea periodically dries up, the ancient sunken city becomes visible.\n\nHe encounters ordinary people running an inn who have lost their spirituality and silence their spiritual hunger with entertainment. They discourage him from his quest, beckoning him to stay, watch television, feast, and dance. The housewife seduces him, and they have sex.\n\nMeanwhile, the \\\"degenerates\\\" - humans with significant intellectual disabilities - have retained religion and spirituality. One of them, the innkeepers' maid, believes the Visitor is a savior sent by God and begs him not to abandon his quest. He attends their nighttime service, where the crowd begs God to take them from this world to heaven.\n\nThis leads to a spiritual epiphany. Ordinary people begin to fear him, believing he is a mutant in disguise. When the sea finally parts, he reaches the sunken city, sobbing to God to atone for the sins of mankind. In the finale, the housewife, previously scornful of religion and mutants, also experiences a spiritual transformation under the Visitor's influence. The Visitor himself falls into a religious frenzy, thrashing and screaming for God.",
+      "core": "A Visitor to a Museum is the second film in Lopushansky's \\\"Apocalypse Quartet,\\\" exploring what survives when civilization collapses. The film's central paradox: those society labels as \\\"degenerates\\\" retain spirituality while \\\"normal\\\" people have lost it entirely. This inverts conventional hierarchies - intellectual capacity bears no correlation to spiritual depth.\n\nThe film offers no easy answers about human nature. Both those who preserve faith and those consumed by materialism are trapped in the post-apocalyptic world. The Visitor's journey is less about escape than about finding meaning amid ruin. What remains when everything else is lost? The film suggests art, memory, and faith - or their absence - define humanity more than any material achievement.\n\nUnusual for its stark portrayal of post-apocalyptic spiritual crisis rather than physical survival, this film prioritizes philosophical depth over action. It received festival recognition for its uncompromising vision, yet remains largely unknown outside cinephile circles.",
+      "created_at": "2026-06-13 04:52:41"
+    },
+    {
       "title": "A World Out of Time",
       "year": 1976,
       "medium": "Novel",
@@ -17698,5 +17715,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1041
+  "count": 1042
 }
