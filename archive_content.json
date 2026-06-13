@@ -7753,6 +7753,23 @@
       "created_at": "2026-03-02 13:05:12"
     },
     {
+      "title": "M\u00e9zga Alad\u00e1r k\u00fcl\u00f6n\u00f6s kalandjai",
+      "year": 1972,
+      "medium": "TV Series",
+      "creator": "Mih\u00e1ly Kormos",
+      "raw_score": 3.45,
+      "total_ratings": 14,
+      "origin": "Hungary",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Exploration, Aliens, Friendship, Children",
+      "image_filename": "M\u00e9zga_Alad\u00e1r_k\u00fcl\u00f6n\u00f6s_kalandjai_1972.jpg",
+      "pitch": "A Hungarian children's sci-fi television series from 1972 about a young boy named Alad\u00e1r M\u00e9zga who embarks on nightly adventures to different inhabited planets across the universe. Each night, Alad\u00e1r and his talking dog Bl\u00f6ki travel in an inflatable cosmic spaceship, visiting strange new worlds populated with bizarre alien civilizations. The show combines humor, imagination, and gentle educational content as the duo encounter various alien cultures and face playful challenges.\n\nThe series represents a charming piece of 1970s Eastern Bloc children's programming, offering a whimsical take on space exploration that predates many better-known Western sci-fi shows for children. Its optimistic tone and imaginative premise make it a unique time capsule of Cold War-era children's entertainment.",
+      "truth": "Each episode follows Alad\u00e1r M\u00e9zga and his talking dog Bl\u00f6ki as they use an inflatable interstellar spaceship to visit a different planet. The format is episodic, with the duo encountering a new alien civilization or situation each night. The show features various alien species and scenarios, typically resolving in heartwarming or educational ways.\n\nThe specific plot details vary by episode, but the general structure involves the spaceship landing on or near an inhabited world, Alad\u00e1r and Bl\u00f6ki interacting with the local inhabitants, facing a minor challenge or misunderstanding, and ultimately resolving it through kindness, curiosity, or cleverness. The show emphasizes exploration, open-mindedness, and cross-cultural understanding.",
+      "core": "M\u00e9zga Alad\u00e1r represents a fascinating artifact of 1970s Hungarian children's television, created during a period when Eastern Bloc countries were developing their own alternatives to Western children's media. The show combines elements of science fiction and fantasy in a way distinct from both American and Soviet children's programming.\n\nThe series reflects the Space Race era's optimism about space exploration, filtered through a distinctly Hungarian cultural lens. Its episodic structure and educational undertones suggest an intent to spark children's curiosity about the universe while entertaining them with imaginative alien encounters.\n\nWhat makes this series notable is its relative obscurity outside Hungary, combined with its surprisingly modern premise of a child explorer traveling to different worlds each night. It represents the rich tradition of Eastern European children's science fiction that has been largely forgotten in Anglophone contexts.",
+      "created_at": "2026-06-13 08:09:05"
+    },
+    {
       "title": "Naalai Manithan",
       "year": 1989,
       "medium": "Film",
@@ -18259,5 +18276,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1074
+  "count": 1075
 }

@@ -6841,6 +6841,21 @@
       "created_at": "2026-03-02 13:05:12"
     },
     {
+      "title": "M\u00e9zga Alad\u00e1r k\u00fcl\u00f6n\u00f6s kalandjai",
+      "year": 1972,
+      "medium": "TV Series",
+      "creator": "Mih\u00e1ly Kormos",
+      "raw_score": 3.45,
+      "total_ratings": 14,
+      "origin": "Hungary",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Exploration, Aliens, Friendship, Children",
+      "image_filename": "M\u00e9zga_Alad\u00e1r_k\u00fcl\u00f6n\u00f6s_kalandjai_1972.jpg",
+      "pitch": "A Hungarian children's sci-fi television series from 1972 about a young boy named Alad\u00e1r M\u00e9zga who embarks on nightly adventures to different inhabited planets across the universe. Each night, Alad\u00e1r and his talking dog Bl\u00f6ki travel in an inflatable cosmic spaceship, visiting strange new worlds populated with bizarre alien civilizations. The show combines humor, imagination, and gentle educational content as the duo encounter various alien cultures and face playful challenges.\n\nThe series represents a charming piece of 1970s Eastern Bloc children's programming, offering a whimsical take on space exploration that predates many better-known Western sci-fi shows for children. Its optimistic tone and imaginative premise make it a unique time capsule of Cold War-era children's entertainment.",
+      "created_at": "2026-06-13 08:09:05"
+    },
+    {
       "title": "Naalai Manithan",
       "year": 1989,
       "medium": "Film",
@@ -16111,5 +16126,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1074
+  "count": 1075
 }
