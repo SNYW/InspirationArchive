@@ -8497,6 +8497,22 @@
       "watch_url": null
     },
     {
+      "title": "Night of the Big Heat",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Terence Fisher",
+      "raw_score": 2.65,
+      "total_ratings": 59,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Isolation, First Contact",
+      "image_filename": "night_of_the_big_heat_1967.jpg",
+      "pitch": "A remote British island is gripped by an inexplicable heatwave. Scientists investigate\u2014but the truth is alien. Mysterious spiders from another world are beaming scouts to Earth, generating deadly heat as they arrive.",
+      "created_at": "2026-06-13 22:58:00",
+      "watch_url": null
+    },
+    {
       "title": "Night on the Galactic Railroad",
       "year": 1985,
       "medium": "Animated Film",
@@ -19553,5 +19569,5 @@
       "watch_url": null
     }
   ],
-  "count": 1222
+  "count": 1223
 }
