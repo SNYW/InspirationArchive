@@ -16321,6 +16321,22 @@
       "watch_url": null
     },
     {
+      "title": "The Persistence of Vision",
+      "year": 1978,
+      "medium": "Novella",
+      "creator": "John Varley",
+      "raw_score": 4.0,
+      "total_ratings": 8,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "Isolation, Communication, Identity",
+      "image_filename": null,
+      "pitch": "A hitchhiker finds Keller, a desert commune of deafblind adults who communicate through pure presence. He learns their system but his hearing and sight become barriers. He leaves, returns years later to find the adults gone \u2014 and the children blinded themselves to join them.",
+      "created_at": "2026-06-13 23:51:59",
+      "watch_url": null
+    },
+    {
       "title": "The Phantom",
       "year": 1943,
       "medium": "Serial Film",
@@ -19649,5 +19665,5 @@
       "watch_url": null
     }
   ],
-  "count": 1228
+  "count": 1229
 }
