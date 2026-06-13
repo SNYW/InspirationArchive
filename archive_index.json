@@ -13441,6 +13441,21 @@
       "created_at": "2026-06-12 19:37:35"
     },
     {
+      "title": "The Mystery of the Eternal Night",
+      "year": 1956,
+      "medium": "Film",
+      "creator": "Unknown Soviet Director",
+      "raw_score": 2.39,
+      "total_ratings": 14,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Ecology, Discovery, Science Education",
+      "image_filename": "The_Mystery_of_the_Eternal_Night_1956.jpg",
+      "pitch": "A mysterious explosion rocks the depths of the Pacific Ocean in this 1956 Soviet science fiction film. Scientists and sailors soon discover that the blast has triggered something far more dangerous than any bomb\u2014a catastrophic growth of underwater vegetation that threatens to engulf the coastline in a massive tsunami.\n\nSet against the optimism of the early Space Age, this film blends adventure storytelling with an ecological warning: what lies beneath the oceans may not remain dormant. The discovery of rapidly growing giant kelp and algae becomes a race against time as the vegetation spreads exponentially.\n\nThe film was produced during the Thaw period of Soviet cinema, when scientific themes became increasingly popular following the launch of Sputnik in 1957. Its Message about the dangers of unchecked nature feels remarkably prescient for the pre-environmentalist era.",
+      "created_at": "2026-06-13 10:48:18"
+    },
+    {
       "title": "The Mystery of the Third Planet",
       "year": 1981,
       "medium": "Animated Film",
@@ -16516,5 +16531,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1101
+  "count": 1102
 }
