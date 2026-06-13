@@ -16100,6 +16100,23 @@
       "created_at": "2026-03-02 18:30:28"
     },
     {
+      "title": "The Zero Years",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Nikos Nikolaidis",
+      "raw_score": 3.18,
+      "total_ratings": 19,
+      "origin": "Greece",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism, Gender, Survival",
+      "image_filename": "The_Zero_Years_2005.jpg",
+      "pitch": "The Zero Years is a 2005 Greek experimental art film directed by Nikos Nikolaidis, set in a dystopian future where four women\u2014all sterilized prostitutes held in a government-run brothel\u2014engage in sadomasochistic practices under constant surveillance. The film presents a nightmarish vision of totalitarianism, exploring themes of power, control, and bodily autonomy through its stark, hermetic narrative. Known for its challenging content and distinctive visual style, this film represents the final work of Nikolaidis, one of Greek cinema's most provocative directors.",
+      "truth": "The film takes place in a sealed, oppressive environment where four women have been imprisoned and sterilized, serving their term in a government-run brothel. The women\u2014Vicky, Leader, Maro, and Christina\u2014exist under constant toxic restraint and surveillance, their movements monitored and their bodies controlled. Food and water are scarce, the house is rotting and ready to collapse.\n\nThe narrative focuses on the dynamics between the four women as they navigate their imprisoned existence. One woman becomes pregnant and experiences a simulated miscarriage, adding to the horror of their situation. During a particularly intense session, a customer nearly dies and the women hide him in a cage to protect him from the authorities.\n\nWhen the Power demands an explanation for the customer's disappearance, the women face severe interrogations. The film explores the impossible choice facing these women\u2014they can only escape by leaving the brothel, but the outside world is portrayed as even worse than the prison. One woman attempts to leave but returns by her own decision, reinforcing the film's grim worldview.\n\nThe film ends without resolution, leaving the viewer in the same oppressive, cyclical environment where the women continue their existence under the watchful eye of authority.",
+      "core": "**Body as Political Territory:** The film's central theme explores how authoritarian regimes control populations through control of the body. The forced sterilization of the women represents the ultimate form of biological domination\u2014removing the capacity for reproduction as a means of control. This connects to broader themes of state power over individual autonomy.\n\n**Power and Submission:** Nikolaidis examines the psychological dynamics of dominance and submission, showing how both victims and oppressors become trapped in their roles. The women cannot imagine existing outside their assigned roles, and even when escape is physically possible, they lack the psychological capacity to break free.\n\n**Greek Cinema's Final Statement:** As Nikolaidis' final film, The Zero Years represents the culmination of his distinctive cinematic vision\u2014a hermetic, visually overloaded style comparing himself to Luis Bu\u00f1uel and Pier Paolo Pasolini. The film was nominated for the Gold Hugo at the Chicago International Film Festival and received the Best Production Designer Award at the Thessaloniki International Film Festival.\n\n**Obscurity and Relevance:** With only 19 TMDB votes, this film remains largely unknown outside festival circuits, making it a genuinely obscure piece of Greek science fiction cinema. Its themes of surveillance, authoritarian control, and bodily autonomy resonate with contemporary discussions of state power and individual freedom.",
+      "created_at": "2026-06-13 03:44:23"
+    },
+    {
       "title": "Thelomeris",
       "year": 2011,
       "medium": "Film",
@@ -17494,5 +17511,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1029
+  "count": 1030
 }

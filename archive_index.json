@@ -14206,6 +14206,21 @@
       "created_at": "2026-03-02 18:30:28"
     },
     {
+      "title": "The Zero Years",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Nikos Nikolaidis",
+      "raw_score": 3.18,
+      "total_ratings": 19,
+      "origin": "Greece",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism, Gender, Survival",
+      "image_filename": "The_Zero_Years_2005.jpg",
+      "pitch": "The Zero Years is a 2005 Greek experimental art film directed by Nikos Nikolaidis, set in a dystopian future where four women\u2014all sterilized prostitutes held in a government-run brothel\u2014engage in sadomasochistic practices under constant surveillance. The film presents a nightmarish vision of totalitarianism, exploring themes of power, control, and bodily autonomy through its stark, hermetic narrative. Known for its challenging content and distinctive visual style, this film represents the final work of Nikolaidis, one of Greek cinema's most provocative directors.",
+      "created_at": "2026-06-13 03:44:23"
+    },
+    {
       "title": "Thelomeris",
       "year": 2011,
       "medium": "Film",
@@ -15436,5 +15451,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1029
+  "count": 1030
 }
