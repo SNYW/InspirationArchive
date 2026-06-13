@@ -14266,6 +14266,21 @@
       "created_at": "2026-03-02 06:15:09"
     },
     {
+      "title": "The Medusa Touch",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Jack Arnold",
+      "raw_score": 3.4,
+      "total_ratings": 201,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Thriller",
+      "topics": "Mental Health, Telekinesis, Crime",
+      "image_filename": "The_Medusa_Touch_1978.jpg",
+      "pitch": "Richard Burton stars as John Morlar, a reclusive novelist with a terrifying secret\u2014he can kill with his mind. When Morlar is found near death in a London hotel, Detective Inspector Mouser investigates who attacked him and discovers what dark power lies within his fractured mind.",
+      "created_at": "2026-06-13 19:05:19"
+    },
+    {
       "title": "The Meeting",
       "year": 1984,
       "medium": "Short Film",
@@ -17746,5 +17761,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1183
+  "count": 1184
 }
