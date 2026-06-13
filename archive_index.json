@@ -2146,6 +2146,21 @@
       "created_at": "2026-03-03 05:50:49"
     },
     {
+      "title": "Blake's 7",
+      "year": 1978,
+      "medium": "TV Series",
+      "creator": "Terry Nation",
+      "raw_score": 3.65,
+      "total_ratings": 49,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Space-Opera, Dystopia",
+      "topics": "Rebellion, Totalitarianism, Surveillance, Aliens",
+      "image_filename": "blakes7.jpg",
+      "pitch": "British space opera (1978-1981) from Terry Nation. Political dissident Roj Blake leads prisoners in guerrilla war against the totalitarian Terran Federation from a stolen alien ship. Morally ambiguous characters and a pessimistic tone set it apart.",
+      "created_at": "2026-06-13 19:47:59"
+    },
+    {
       "title": "Blame!",
       "year": 1995,
       "medium": "Graphic Novel",
@@ -17851,5 +17866,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1190
+  "count": 1191
 }
