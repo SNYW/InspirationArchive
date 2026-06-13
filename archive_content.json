@@ -10541,6 +10541,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Stray Dog: Kerberos Panzer Cops",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 6.4,
+      "total_ratings": 23,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Rebellion, Authoritarianism, Policing",
+      "image_filename": "stray_dog_kerberos_panzer_cops_1991.jpg",
+      "pitch": "Inui was once a member of the Kerberos\u2014the elite police tactical unit tasked with maintaining order in a surveillance-state Japan. When his unit attempts a rebellion against the government, it fails catastrophically. Three years later, Inui is paroled and travels to Taiwan to find Koichi Todome, his former commander who escaped before the crackdown.\n\nDirector Mamoru Oshii crafts a moody, atmospheric neo-noir that serves as a prequel to The Red Spectacles. As Inui searches for his old comrade through Taiwan's neon-lit underworld, he encounters a trail of bodies, cryptic messages, and a conspiracy that reaches into the highest levels of power. The truth he uncovers challenges everything he believed about his unit's purpose\u2014and about why the rebellion was doomed from the start.",
+      "truth": "Inui is released from prison after serving three years for his role in the Kerberos unit's failed rebellion. He travels to Taiwan to find Koichi Todome, the only Kerberos member who successfully fled Japan. In Taiwan, Inui searches through the criminal underworld, following a series of cryptic clues left by Koichi.\n\nThrough encounters with various contacts\u2014a journalist, a Yakuza boss, a former government operative\u2014Inui slowly pieces together what really happened. His unit was not crushed by chance; they were betrayed from within. The rebellion was engineered by elements within the government who needed a pretext to consolidate power and disband the independent Kerberos unit.\n\nWhen Inui finally locates Koichi, he discovers his former commander has been living under a new identity, deliberately erasing his past. Koichi reveals the final truth: the Kerberos were never meant to be protectors of the people. They were always an instrument of control, and their rebellion was manufactured to justify their dissolution. Inui must decide whether to expose the truth or let it die with him.",
+      "core": "Stray Dog is a cynical meditation on state power and institutional betrayal. The Kerberos\u2014the mythical three-headed guard dog of Greek mythology\u2014were never guardians but enforcers. Their rebellion was not a principled stand but a manipulated crisis that allowed the government to eliminate an independent threat.\n\nOshii examines how revolutionary movements are co-opted by the systems they oppose. Those who resist authoritarianism are often absorbed into its machinery\u2014either eliminated or reformed into new instruments of control. The film asks whether genuine resistance is possible, or whether the system is designed to always win.\n\nAs a prequel to The Red Spectacles, Stray Dog also establishes the Kerberos saga's themes of memory, identity, and the ghosts of Japan's militarist past. The film is a meditation on post-war Japanese society's struggle with its own history of authoritarian policing.",
+      "created_at": "2026-06-13 05:12:16"
+    },
+    {
       "title": "Submersion of Japan",
       "year": 1973,
       "medium": "Film",
@@ -17749,5 +17766,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1044
+  "count": 1045
 }

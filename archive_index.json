@@ -9301,6 +9301,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Stray Dog: Kerberos Panzer Cops",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 6.4,
+      "total_ratings": 23,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Rebellion, Authoritarianism, Policing",
+      "image_filename": "stray_dog_kerberos_panzer_cops_1991.jpg",
+      "pitch": "Inui was once a member of the Kerberos\u2014the elite police tactical unit tasked with maintaining order in a surveillance-state Japan. When his unit attempts a rebellion against the government, it fails catastrophically. Three years later, Inui is paroled and travels to Taiwan to find Koichi Todome, his former commander who escaped before the crackdown.\n\nDirector Mamoru Oshii crafts a moody, atmospheric neo-noir that serves as a prequel to The Red Spectacles. As Inui searches for his old comrade through Taiwan's neon-lit underworld, he encounters a trail of bodies, cryptic messages, and a conspiracy that reaches into the highest levels of power. The truth he uncovers challenges everything he believed about his unit's purpose\u2014and about why the rebellion was doomed from the start.",
+      "created_at": "2026-06-13 05:12:16"
+    },
+    {
       "title": "Submersion of Japan",
       "year": 1973,
       "medium": "Film",
@@ -15661,5 +15676,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1044
+  "count": 1045
 }
