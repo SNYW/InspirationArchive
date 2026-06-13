@@ -19500,6 +19500,23 @@
       "created_at": "2026-06-13 04:30:00"
     },
     {
+      "title": "UFO",
+      "year": 1970,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson, Sylvia Anderson",
+      "raw_score": 3.86,
+      "total_ratings": 57,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fantasy",
+      "topics": "Aliens, First Contact, Surveillance",
+      "image_filename": "UFO_1970.jpg",
+      "pitch": "1970 British sci-fi series. SHADO, a secret global defence force, operates from beneath a film studio to defend Earth against alien invaders who harvest human organs. Commander Straker leads the covert operation.",
+      "truth": "In 1980, aliens from a dying planet abduct humans for organs. SHADO (Supreme Headquarters Alien Defence Organisation) fights them from a secret base under Harlington-Straker Studios. The 26-episode series follows missions with Moonbase interceptors, submarine-launched aircraft and ground units. The unnamed aliens have green-tinted faces and craft that travel at light speed.",
+      "core": "Cold War paranoia meets sci-fi: secrecy and surveillance are central. Straker's double life embodies 1970s institutional deception. The Andersons' transition from Supermarionation to live-action produced a cult classic with ambitious practical effects.",
+      "created_at": "2026-06-13 21:57:47"
+    },
+    {
       "title": "UFO Robot Grendizer",
       "year": 1975,
       "medium": "TV Series",
@@ -20588,5 +20605,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1211
+  "count": 1212
 }
