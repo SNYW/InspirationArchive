@@ -166,6 +166,21 @@
       "created_at": "2026-05-24 16:55:37"
     },
     {
+      "title": "3%",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Brazil",
+      "raw_score": 3.45,
+      "total_ratings": 11,
+      "origin": "Brazil",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Survival, Class Struggle",
+      "image_filename": null,
+      "pitch": "In near-future Brazil after ecological collapse, a select few compete in deadly trials to join a mysterious privileged society. The Process is brutal, the stakes are life or death, and trust is a liability.",
+      "created_at": "2026-06-13 16:29:38"
+    },
+    {
       "title": "334",
       "year": 1972,
       "medium": "Novel",
@@ -17341,5 +17356,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1156
+  "count": 1157
 }
