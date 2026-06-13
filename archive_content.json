@@ -8586,6 +8586,23 @@
       "created_at": "2026-03-06 12:26:41"
     },
     {
+      "title": "Onesime, Clockmaker",
+      "year": 1912,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 6.0,
+      "total_ratings": 12,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Discovery",
+      "image_filename": "onesime_clockmaker_1912.jpg",
+      "pitch": "Onesime, Clockmaker is a whimsical French silent film from 1912 that explores the comic possibilities of time manipulation. The film follows On\u00e9sime, a humble clockmaker who hopes to secure a promised inheritance. In his workshop, he invents an extraordinary time machine that can accelerate the passage of time on Earth.\n\nUsing early cinematic special effects, the film visualizes what happens when time itself is sped up - men and machines move at hyper-animated rates, and the human life cycle is compressed into moments. It's a charming, surreal exploration of humanity's fascination with controlling the uncontrollable.\n\nThis early science fiction comedy predates most genre films and demonstrates the medium's quick embrace of speculative themes. The film's playful approach to time travel and its visual experiments with temporal acceleration make it a fascinating artifact of early cinema.",
+      "truth": "On\u00e9sime is a clockmaker who dreams of securing a promised inheritance from a wealthy relative. Working in his small workshop surrounded by clocks and timepieces, he devotes himself to inventing a machine that can manipulate time itself.\n\nHis invention works by accelerating the passage of time on Earth. When activated, everything on the planet speeds up dramatically - men and machines move at extraordinary rates, and the normal pace of life is compressed. The effect telescopes the human life cycle, showing generations born, grow, and age in what seems like moments.\n\nThe film follows On\u00e9sime as he uses his invention to secure his inheritance, only to discover the unexpected consequences of meddling with time. The story is played for gentle comedy, with the clockmaker's earnest attempts at temporal manipulation leading to whimsical results.\n\nWhile the complete film has been lost to history, contemporary accounts describe a charming early sci-fi experiment that used special effects to visualize temporal acceleration - a theme that would become central to the science fiction genre.",
+      "core": "Onesime, Clockmaker represents an important early example of science fiction cinema, demonstrating that the genre's fascination with time manipulation was present from cinema's earliest days. The film explores humanity's deep-seated desire to control time - to speed it up when we're impatient, to slow it down when we want to savor moments.\n\nThe film's playful approach to time travel predates by decades the more serious treatments the genre would receive. It treats temporal acceleration as a source of comedy and wonder rather than the profound philosophical and existential questions it would later raise.\n\nAs French cinema of the silent era, it reflects the medium's quick embrace of speculative themes. The film's special effects - hyper-animating men and machines to visualize time's passage - show early experimentation with what cinema could do that other media could not.\n\nThe film's main theme remains timeless: the dangers and delights of wanting to control what is fundamentally uncontrollable. Time, like death, is one of humanity's greatest mysteries, and Onesime's attempts to speed up inheritance resolution speak to our own impatience with life's natural rhythms.",
+      "created_at": "2026-06-13 10:58:43"
+    },
+    {
       "title": "Open Your Eyes",
       "year": 1997,
       "medium": "Film",
@@ -18752,5 +18769,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1103
+  "count": 1104
 }

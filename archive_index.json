@@ -7576,6 +7576,21 @@
       "created_at": "2026-03-06 12:26:41"
     },
     {
+      "title": "Onesime, Clockmaker",
+      "year": 1912,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 6.0,
+      "total_ratings": 12,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Discovery",
+      "image_filename": "onesime_clockmaker_1912.jpg",
+      "pitch": "Onesime, Clockmaker is a whimsical French silent film from 1912 that explores the comic possibilities of time manipulation. The film follows On\u00e9sime, a humble clockmaker who hopes to secure a promised inheritance. In his workshop, he invents an extraordinary time machine that can accelerate the passage of time on Earth.\n\nUsing early cinematic special effects, the film visualizes what happens when time itself is sped up - men and machines move at hyper-animated rates, and the human life cycle is compressed into moments. It's a charming, surreal exploration of humanity's fascination with controlling the uncontrollable.\n\nThis early science fiction comedy predates most genre films and demonstrates the medium's quick embrace of speculative themes. The film's playful approach to time travel and its visual experiments with temporal acceleration make it a fascinating artifact of early cinema.",
+      "created_at": "2026-06-13 10:58:43"
+    },
+    {
       "title": "Open Your Eyes",
       "year": 1997,
       "medium": "Film",
@@ -16546,5 +16561,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1103
+  "count": 1104
 }
