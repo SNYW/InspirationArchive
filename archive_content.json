@@ -9725,6 +9725,23 @@
       "created_at": "2026-06-13 12:43:10"
     },
     {
+      "title": "Quatermass",
+      "year": 1979,
+      "medium": "TV Series",
+      "creator": "Nigel Kneale",
+      "raw_score": 3.4,
+      "total_ratings": 17,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Religion, First Contact",
+      "image_filename": "Quatermass_1979.jpg",
+      "pitch": "Retired scientist Bernard Quatermass travels to 1979 London to find his missing granddaughter, only to discover an alien probe draining the city's youth through a religious cult. With scientist Joe Kapp, he must detonate a nuclear bomb to destroy the cosmic threat\u2014sacrificing himself and Hettie to save humanity. Starring John Mills in the final Quatermass story from Nigel Kneale.",
+      "truth": "Elderly Quatermass travels to London to find his runaway granddaughter Hettie\u2014but finds the city empty, society crumbling. With scientist Joe Kapp, he discovers an alien probe feeding on young people through a cult. The only solution: detonate a nuclear bomb. Quatermass presses the button, killing both him and Hettie to destroy the cosmic entity.",
+      "core": "The 1979 final chapter of Nigel Kneale's iconic scientist (created 1953). Explores aging and obsolescence\u2014an elderly hero who cannot save his own granddaughter. Kneale subverts the hero narrative with sacrifice offering no redemption.",
+      "created_at": "2026-06-13 15:12:50"
+    },
+    {
       "title": "Quatermass and the Pit",
       "year": 1958,
       "medium": "Serial Film",
@@ -19415,5 +19432,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1142
+  "count": 1143
 }
