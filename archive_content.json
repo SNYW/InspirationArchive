@@ -592,7 +592,7 @@
       "truth": "The film follows Ljuba, an elderly Serbian man who exists in the liminal space of a nation that no longer exists. He wanders through the overgrown concrete monuments of Yugoslavia's ambitious socialist modern era\u2014massive brutalist structures built to commemorate partisan victories and envision a utopian future. \n\nOne day, aliens arrive\u2014not as conquerors but as visitors from a Communist planet who share the ideological heritage of the collapsed Yugoslav state. They communicate with Ljuba, creating a poignant meeting between two worlds that both represent failed utopian dreams. The aliens are themselves remnants of a communist civilization, and they see in Yugoslavia's collapse a reflection of their own civilization's fate.\n\nThe film explores what remains when ideology and nation dissolve, leaving only monuments to ambitions that never materialized. Ljuba becomes a guide for these alien visitors through the ruins of human utopian attempts, while also confronting his own sense of displacement and loss.",
       "core": "**Utopia and Its Discontents:** The film directly engages with the question of utopian projects\u2014both human and alien. Yugoslavia's experiment in self-management socialism and the alien Communist civilization both represent attempts to build better societies that ultimately failed or transformed beyond recognition.\n\n**Memory and Monument:** The abandoned Yugoslav war monuments\u2014Spomeniks\u2014serve as the film's primary locations. These strange, futuristic concrete sculptures scattered across the Balkan landscape memorialize partisan struggles but now stand forgotten. The film treats them as alien artifacts, blurring the line between human and extraterrestrial utopian visions.\n\n**Alienation and Belonging:** Ljuba represents the ultimate outsider\u2014both displaced from his nation and now serving as an ambassador to beings even more alien than himself. The film explores how identity persists when all the normal markers (nation, ideology, collective purpose) have dissolved.\n\n**Post-Socialism and Science Fiction:** By framing Yugoslavia's collapse through science fiction, the film offers a unique perspective on Eastern European history. The aliens function as a mirror, allowing the film to examine human utopian failures with defamiliarizing distance.\n\nThis short film stands as a meditation on the fragility of human projects for transcendence\u2014whether political, national, or civilizational\u2014and the strange monuments we leave behind when those projects fail.",
       "created_at": "2026-03-06 18:01:06",
-      "watch_url": null
+      "watch_url": "https://vimeo.com/163010009"
     },
     {
       "title": "A Sound of Thunder",
@@ -14851,6 +14851,24 @@
       "watch_url": null
     },
     {
+      "title": "The Damned",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Joseph Losey",
+      "raw_score": 3.13,
+      "total_ratings": 128,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Children, Nuclear, Surveillance",
+      "image_filename": "The_Damned_1962.jpg",
+      "pitch": "An American tourist on a boating holiday in England discovers nine children living in underground caves, monitored by military scientists in radiation suits. The children are radioactive survivors of a secret nuclear experiment, kept isolated until nuclear war arrives.",
+      "truth": "Simon meets Joan in Weymouth. After escaping her gang brother King, they find caves with nine children aged 11, watched by military. The children are cold, radioactive\u2014born from a secret nuclear accident, kept to survive war. Simon and Joan try to rescue them but are ambushed. Most children are recaptured. Holidaymakers on the beach remain oblivious to the children's cries.",
+      "core": "A cerebral Hammer polemic against nuclear warfare. Losey crafts a bleak meditation on humanity creating then imprisoning the children it claims to protect. The final image of oblivious holidaymakers while children cry out underground is devastating.",
+      "created_at": "2026-06-13 22:43:12",
+      "watch_url": null
+    },
+    {
       "title": "The Dandelion Girl",
       "year": 1961,
       "medium": "Short Story",
@@ -21943,5 +21961,5 @@
       "watch_url": null
     }
   ],
-  "count": 1219
+  "count": 1220
 }
