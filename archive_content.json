@@ -6189,6 +6189,23 @@
       "created_at": "2026-06-12 22:23:03"
     },
     {
+      "title": "Invasion",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Alan Bridges",
+      "raw_score": 3.05,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "First Contact",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Invasion_1966.jpg",
+      "pitch": "A driver knocks down a strangely-dressed man, only to discover at hospital that the patient cannot be human. Soon the isolated cottage hospital is surrounded by an invisible force field. Two enigmatic alien women claim their crashed companion was a prisoner they were escorting. This low-budget 1966 British film builds tension through atmosphere.",
+      "truth": "Lawrence Blackburn knocks down a strangely-dressed man. At hospital, blood tests reveal the patient cannot be human. Blackburn dies after encountering two women in identical dress. The alien is a Lystrian, crashed while transporting prisoners. The women are his escorts. Dr. Carter is killed trying to drive through the force field. The prisoner escapes but the Lystrians destroy the capsule.",
+      "core": "A low-budget 1966 British sci-fi that achieved atmospheric effects despite minimal resources. The Monthly Film Bulletin praised its suggestion that the extraordinary is \"one step further on from the everyday.\" Writer Robert Holmes later re-used elements in Doctor Who's \"Spearhead from Space.\"",
+      "created_at": "2026-06-13 16:13:20"
+    },
+    {
       "title": "Invasion from Aldebaran",
       "year": 1992,
       "medium": "Video Game",
@@ -19602,5 +19619,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1153
+  "count": 1154
 }
