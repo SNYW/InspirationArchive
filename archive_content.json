@@ -1752,6 +1752,23 @@
       "created_at": "2026-03-06 08:27:18"
     },
     {
+      "title": "Babfilm",
+      "year": 1975,
+      "medium": "Short Film",
+      "creator": "Ott\u00f3 Foky",
+      "raw_score": 3.81,
+      "total_ratings": 36,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Observation, Satire",
+      "image_filename": "babfilm.jpg",
+      "pitch": "A whimsical Hungarian stop-motion sci-fi short about sentient beans living their lives on a distant planet, observed from above by a mysterious alien visitor. Made in 1975 by animator Ott\u00f3 Foky at Pann\u00f3nia Filmst\u00fadi\u00f3, this 12-minute gem uses bean characters to create a playful parody of human society and the cosmic question of whether we are alone in the universe.",
+      "truth": "An alien being watches from the stars over a planet inhabited by sentient beans. The beans go about their daily lives\u2014joys, triumphs, and tragedies\u2014completely unaware of the observer's gaze. The film follows their small dramas and ordinary moments until one bean finally notices the watcher's leering presence in the sky. The alien observer departs, leaving the beans to continue their oblivious existence.",
+      "core": "A playful meditation on surveillance, consciousness, and the observer/observed relationship. The beans represent humanity\u2014our small dramas, our daily routines, our blindness to the larger forces watching over us. Foky creates genuine affection for these tiny characters while raising questions about whether awareness of being watched would change behavior\u2014or whether ignorance is bliss. The stop-motion technique gives the beans an eerie life-like quality that makes the philosophical questions resonate.",
+      "created_at": "2026-06-13 05:54:09"
+    },
+    {
       "title": "Babi\u010dky dob\u00edjejte p\u0159esn\u011b!",
       "year": 1984,
       "medium": "Film",
@@ -17868,5 +17885,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1051
+  "count": 1052
 }

@@ -1546,6 +1546,21 @@
       "created_at": "2026-03-06 08:27:18"
     },
     {
+      "title": "Babfilm",
+      "year": 1975,
+      "medium": "Short Film",
+      "creator": "Ott\u00f3 Foky",
+      "raw_score": 3.81,
+      "total_ratings": 36,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Observation, Satire",
+      "image_filename": "babfilm.jpg",
+      "pitch": "A whimsical Hungarian stop-motion sci-fi short about sentient beans living their lives on a distant planet, observed from above by a mysterious alien visitor. Made in 1975 by animator Ott\u00f3 Foky at Pann\u00f3nia Filmst\u00fadi\u00f3, this 12-minute gem uses bean characters to create a playful parody of human society and the cosmic question of whether we are alone in the universe.",
+      "created_at": "2026-06-13 05:54:09"
+    },
+    {
       "title": "Babi\u010dky dob\u00edjejte p\u0159esn\u011b!",
       "year": 1984,
       "medium": "Film",
@@ -15766,5 +15781,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1051
+  "count": 1052
 }
