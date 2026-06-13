@@ -11204,6 +11204,23 @@
       "created_at": "2026-03-05 05:17:16"
     },
     {
+      "title": "The Attack of the Giant Moussaka",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Panos H. Koutras",
+      "raw_score": 1.71,
+      "total_ratings": 23,
+      "origin": "Greece",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Comedy",
+      "image_filename": "The_Attack_of_the_Giant_Moussaka_1999.jpg",
+      "pitch": "In this gleefully absurd Greek sci-fi comedy, Athens faces an unlikely apocalyptic threat: a gigantic moussaka, accidentally created when an alien spaceship's ray hits an ordinary serving of the traditional Greek dish. As the mountainous casserole advances through the city, destroying everything in its path, the government scrambles to mount a defense against the most deliciously ridiculous enemy in cinema history.\n\nThe film plays as a loving parody of 1950s American sci-fi monster movies, transposed to a distinctly Greek context. Director Panos H. Koutras embraces the genre's earnestness while mining humor from every gelatinous angle.",
+      "truth": "The film opens with an alien spacecraft passing over Athens. While the extraterrestrials conduct some kind of experiment, their ray accidentally strikes a moussaka being prepared in a local kitchen. The dish begins to grow, transforming into a massive mountainous entity that soon rampages through the city.\n\nThe Greek military attempts to stop the moussaka with conventional weapons, but the dish proves nearly indestructible. Citizens flee as the creature continues its unstoppable advance. Various characters\u2014including a skeptical journalist, a panicked government official, and the scientists who first understand the threat\u2014attempt to find a solution.\n\nMeanwhile, the aliens observe their mistake with apparent confusion, perhaps considering whether to intervene. The film culminates in an ambiguous resolution that leaves the fate of Athens uncertain.",
+      "core": "The Attack of the Giant Moussaka is a prime example of how sci-fi paranoia can be translated through local cultural lenses. By replacing the typical American nuclear monster with a beloved Greek dish, Koutras creates commentary on both the genre's Cold War anxieties and Greek national identity.\n\nThe film has achieved cult status, screened at LGBT film festivals worldwide. Its blend of absurd premise, practical effects, and earnest direction creates a unique entry in the sci-fi comedy canon\u2014a film that takes its genre seriously while never taking itself seriously.",
+      "created_at": "2026-06-13 03:36:11"
+    },
+    {
       "title": "The Automatic Motorist",
       "year": 1911,
       "medium": "Film",
@@ -17477,5 +17494,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1028
+  "count": 1029
 }

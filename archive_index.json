@@ -9886,6 +9886,21 @@
       "created_at": "2026-03-05 05:17:16"
     },
     {
+      "title": "The Attack of the Giant Moussaka",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Panos H. Koutras",
+      "raw_score": 1.71,
+      "total_ratings": 23,
+      "origin": "Greece",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Comedy",
+      "image_filename": "The_Attack_of_the_Giant_Moussaka_1999.jpg",
+      "pitch": "In this gleefully absurd Greek sci-fi comedy, Athens faces an unlikely apocalyptic threat: a gigantic moussaka, accidentally created when an alien spaceship's ray hits an ordinary serving of the traditional Greek dish. As the mountainous casserole advances through the city, destroying everything in its path, the government scrambles to mount a defense against the most deliciously ridiculous enemy in cinema history.\n\nThe film plays as a loving parody of 1950s American sci-fi monster movies, transposed to a distinctly Greek context. Director Panos H. Koutras embraces the genre's earnestness while mining humor from every gelatinous angle.",
+      "created_at": "2026-06-13 03:36:11"
+    },
+    {
       "title": "The Automatic Motorist",
       "year": 1911,
       "medium": "Film",
@@ -15421,5 +15436,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1028
+  "count": 1029
 }
