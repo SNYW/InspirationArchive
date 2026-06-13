@@ -2568,6 +2568,23 @@
       "created_at": "2026-03-01 11:23:14"
     },
     {
+      "title": "Ciao marziano",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Pier Francesco Pingitore",
+      "raw_score": 4.55,
+      "total_ratings": 10,
+      "origin": "Italy",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact",
+      "image_filename": "Ciao_marziano_1980.jpg",
+      "pitch": "Ciao marziano (1980) is an Italian sci-fi comedy that takes a hilarious look at cultural misunderstanding \u2014 extraterrestrial style. When an alien named Bix is dispatched from the planet Gemini to Rome with a simple mission \u2014 learn the habits and customs of humans \u2014 nothing goes according to plan. Arriving with his green face and supernatural powers (including the ability to repair damages), Bix must navigate the chaos of Roman daily life while attempting to complete his report card on whether Earth is suitable for colonization.\n\nThe film is a loose adaptation of Ennio Flaiano's short story \"Un marziano a Roma,\" bringing the Italian tradition of satirical comedy to the sci-fi genre. Pippo Franco stars as the bemused extraterrestrial observer, whose attempts to understand Italian customs \u2014 from bureaucracy to romance to the mysterious ways of humans \u2014 provide endless comedic moments.\n\nPart social commentary, part tribute to the comedy of errors, Ciao marziano represents a charming piece of early 1980s Italian genre filmmaking that uses the alien-visitor premise to poke fun at Italian society and the human condition.",
+      "truth": "An alien named Bix arrives on Earth from the distant planet Gemini. His mission: evaluate whether humans are suitable for relocation to his homeworld. With his distinctive green face (the only thing that marks him as non-human) and supernatural powers that allow him to repair damages, Bix sets up in Rome to study human behavior.\n\nThe comedy unfolds as Bix attempts to understand Italian customs and social norms. He must navigate the complexities of human interaction \u2014 from the formalities of greeting to the chaos of Roman streets. His mission involves documenting human habits, but the more he observes, the more confused he becomes.\n\nOn the eve of his scheduled departure for Gemini, a trap is set for him by those who have discovered his true nature. The film culminates in Bix's struggle to complete his mission while evading those who would capture or expose him.\n\nThe resolution sees Bix making his report on humanity \u2014 a report that likely contains some very tongue-in-cheek observations about the human species. Whether he returns to Gemini or remains among humans forms the comic conclusion of this alien-observation gone awry.",
+      "core": "Ciao marziano belongs to a rich tradition of alien-visitor comedies that use the outsider's perspective to critique society. By placing an alien observer in Rome, the film inverts the traditional sci-fi first-contact narrative: instead of humans studying aliens, the alien studies humans.\n\nThe film reflects Italian comedy's gift for satire, using the framework of science fiction to comment on social customs, bureaucracy, and human nature. The \"scientific\" observation becomes a comedic vehicle for pointing out the absurdities of everyday life.\n\nThis type of comic alien-visitor story has deep roots in sci-fi \u2014 from the philosophical to the farcical \u2014 but Ciao marziano adds a distinctly Italian flavor, combining the tradition of commedia all'italiana with genre sci-fi.\n\nFor the archive, this film represents an often-overlooked corner of European sci-fi comedy from the late Cold War era, when Italian genre filmmaking was experimenting with all manner of international influences.",
+      "created_at": "2026-06-13 02:39:27"
+    },
+    {
       "title": "City",
       "year": 1952,
       "medium": "Novel",
@@ -17324,5 +17341,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1019
+  "count": 1020
 }

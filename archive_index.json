@@ -2266,6 +2266,21 @@
       "created_at": "2026-03-01 11:23:14"
     },
     {
+      "title": "Ciao marziano",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Pier Francesco Pingitore",
+      "raw_score": 4.55,
+      "total_ratings": 10,
+      "origin": "Italy",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact",
+      "image_filename": "Ciao_marziano_1980.jpg",
+      "pitch": "Ciao marziano (1980) is an Italian sci-fi comedy that takes a hilarious look at cultural misunderstanding \u2014 extraterrestrial style. When an alien named Bix is dispatched from the planet Gemini to Rome with a simple mission \u2014 learn the habits and customs of humans \u2014 nothing goes according to plan. Arriving with his green face and supernatural powers (including the ability to repair damages), Bix must navigate the chaos of Roman daily life while attempting to complete his report card on whether Earth is suitable for colonization.\n\nThe film is a loose adaptation of Ennio Flaiano's short story \"Un marziano a Roma,\" bringing the Italian tradition of satirical comedy to the sci-fi genre. Pippo Franco stars as the bemused extraterrestrial observer, whose attempts to understand Italian customs \u2014 from bureaucracy to romance to the mysterious ways of humans \u2014 provide endless comedic moments.\n\nPart social commentary, part tribute to the comedy of errors, Ciao marziano represents a charming piece of early 1980s Italian genre filmmaking that uses the alien-visitor premise to poke fun at Italian society and the human condition.",
+      "created_at": "2026-06-13 02:39:27"
+    },
+    {
       "title": "City",
       "year": 1952,
       "medium": "Novel",
@@ -15286,5 +15301,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1019
+  "count": 1020
 }
