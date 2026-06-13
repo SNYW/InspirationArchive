@@ -5941,6 +5941,21 @@
       "created_at": "2026-03-18 10:19:44"
     },
     {
+      "title": "Knightmare",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "Tim Child",
+      "raw_score": 4.23,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Children, Problem-Solving",
+      "image_filename": "Knightmare_1987.jpg",
+      "pitch": "A pioneering British children's game show blending early VR concepts with live TV gaming. Teams of four children guided a blindfolded Dungeoneer through a computer-generated medieval dungeon using only verbal instructions.",
+      "created_at": "2026-06-13 14:37:31"
+    },
+    {
       "title": "Koi... Mil Gaya",
       "year": 2003,
       "medium": "Film",
@@ -17056,5 +17071,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1137
+  "count": 1138
 }
