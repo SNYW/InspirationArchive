@@ -2840,6 +2840,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Cocolors",
+      "year": 2017,
+      "medium": "Anime Film",
+      "creator": "Tadashi Tanaka",
+      "raw_score": 2.95,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation, Ecology",
+      "image_filename": "cocolors.jpg",
+      "pitch": "In the ruins of a post-apocalyptic world, two children struggle to survive in the darkness underground. Aki, a quiet and watchful boy, cares for his frail friend Fuyu, who cannot speak and rarely ventures outside their concrete shelter. The world above is poisoned \u2014 humanity fled underground after the catastrophic eruption of Mount Fuji, and now the surviving community faces declining resources, illness, and despair.\n\nCocolors is a stark, minimalist animated feature that prioritizes atmosphere over exposition. The film unfolds through subtle visual storytelling rather than dialogue, rendering its dystopian setting through muted colors and sparse environments. Tanaka constructs a world where hope is fragile and the line between living and merely surviving blurs. The relationship between Aki and Fuyu anchors the emotional core \u2014 one boy gives everything to protect the other, even as their small community crumbles around them.\n\nThe film draws from traditions of Japanese environmental anxieties and the quiet, introspective storytelling of the Japanese animation art house movement. While not as celebrated as similar works like Children of the Sea or A Whisker Away, Cocolors occupies a unique space \u2014 a meditation on connection in a world that has lost nearly everything.",
+      "truth": "The story follows Aki and Fuyu, two children living in an underground concrete shelter in a post-apocalyptic Japan. Humanity retreated underground after Mount Fuji's catastrophic eruption devastated the surface world. The community survives in a network of concrete warrens, but resources are dwindling and illness is spreading.\n\nAki is the more capable of the two \u2014 he ventures out to scavenge supplies and maintains the fragile systems that keep their shelter functional. Fuyu is sickly and mute, too frail to explore the dangerous surface. Despite his own fear, Aki devotes himself to Fuyu's care, bringing back what little he finds.\n\nTheir small group of survivors \u2014 a handful of adults and children \u2014 exists in a state of quiet desperation. The film unfolds through small moments: a failed harvest, a sick neighbor, a dream Fuyu has about the surface world he has never seen. Fuyu often dreams of a world of color and light above, contrasting sharply with the gray existence below.\n\nAs the community continues to decline, Aki faces an impossible choice: stay in the dying shelter, or attempt the dangerous journey to the surface with Fuyu. The film's climax leaves their fate ambiguous \u2014 they emerge into blinding light, the outcome uncertain. Whether they find salvation or merely another form of darkness remains open.",
+      "core": "Cocolors operates in the tradition of contemplative post-apocalyptic cinema, but strips away the genre's typical spectacle. There are no action set pieces, no dramatic resource wars \u2014 just the quiet erosion of a community and the question of whether connection can survive when everything else has been lost.\n\nThe film explores themes of caretaking and sacrifice, particularly through Aki's unwavering dedication to Fuyu despite the hopelessness of their situation. Tanaka suggests that love and responsibility persist even when survival becomes meaningless \u2014 that the act of caring for another may be the only thing that gives existence purpose in a dying world.\n\nThe environmental subtext is unmistakable: the eruption of Mount Fuji represents humanity's relationship with nature turned toxic. The underground warrens function as both shelter and prison, a direct metaphor for the ways humanity's relationship with the planet has become unsustainable. The film's muted palette reinforces this \u2014 color exists only in dreams and memories, never in the present.\n\nWhat distinguishes Cocolors from more famous animated works is its refusal to offer comfort. The ending provides no clear salvation, no affirmation that the children will survive. It presents survival as uncertain, love as insufficient against systemic collapse. This unflinching quality makes it a valuable addition to the canon of thoughtful, pessimistic science fiction.",
+      "created_at": "2026-06-13 11:57:58"
+    },
+    {
       "title": "Colony",
       "year": 2016,
       "medium": "TV Series",
@@ -18888,5 +18905,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1111
+  "count": 1112
 }
