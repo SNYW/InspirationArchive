@@ -16542,6 +16542,23 @@
       "created_at": "2026-06-12 17:47:40"
     },
     {
+      "title": "The Unliving",
+      "year": 2010,
+      "medium": "Short Film",
+      "creator": "Sweden",
+      "raw_score": 3.0,
+      "total_ratings": 11,
+      "origin": "Sweden",
+      "mood": "Eerie",
+      "sub_genres": "Post-Apocalypse, Horror",
+      "topics": "Survival, Pandemic, Zombies",
+      "image_filename": "The_Unliving_2010.jpg",
+      "pitch": "In a Sweden devastated by a zombie virus, the few remaining survivors have sealed themselves behind gated walls, distancing from the infected. The survivors have discovered a way to control the zombies with drugs, transforming them into a compliant workforce and even entertainment. But when one survivor discovers his mother among the infected, everything changes.\n\nThis Swedish short film offers a bleak yet thoughtful take on the post-apocalyptic genre. Rather than focusing on gore and action, it explores what happens when we commodify even our enemies\u2014and the moral compromises survival demands. The controlled zombie workforce is a chilling metaphor for exploitation and the treatment of the other.",
+      "truth": "The film takes place in post-apocalyptic Sweden, where a zombie virus has killed most of the population. Survivors live in gated communities, separated from the infected. The survivors have developed a method of controlling zombies using drugs, allowing them to use the former dead as cheap labor and even as entertainment performers.\n\nThe protagonist is one of the survivors who discovers, during one of the controlled zombie shows, that his mother is among the infected. He must now decide whether to reveal this knowledge\u2014knowing it would destroy his family's privileged access to the controlled workforce\u2014or to let her remain a controlled servant. The film ends with him making a life-altering decision about his mother and the ethics of the system he has been complicit in.",
+      "core": "The Unliving is a Swedish post-apocalyptic short that subverts the zombie genre's typical focus on survival violence. Instead, it examines the moral corruption that comes with survival itself\u2014how societies rebuild by exploiting those they once feared.\n\nThe controlled zombie workforce serves as a sharp critique of capitalism and how we treat the marginalized, the different, the \"other.\" By drugging zombies into compliance, the survivors have created a new underclass\u2014those who were once people, now reduced to labor. The protagonist's discovery of his mother among them forces a confrontation with the film's central question: when the monster is someone you love, what does that make you?\n\nDirector Anders Jacobsson presents a Sweden both familiar and alien, using the empty streets and controlled chaos to comment on how societies process trauma and rebuild through exploitation.",
+      "created_at": "2026-06-13 09:13:27"
+    },
+    {
       "title": "The Unpleasant Profession of Jonathan Hoag",
       "year": 1942,
       "medium": "Novella",
@@ -18446,5 +18463,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1085
+  "count": 1086
 }

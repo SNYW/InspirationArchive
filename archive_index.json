@@ -14596,6 +14596,21 @@
       "created_at": "2026-06-12 17:47:40"
     },
     {
+      "title": "The Unliving",
+      "year": 2010,
+      "medium": "Short Film",
+      "creator": "Sweden",
+      "raw_score": 3.0,
+      "total_ratings": 11,
+      "origin": "Sweden",
+      "mood": "Eerie",
+      "sub_genres": "Post-Apocalypse, Horror",
+      "topics": "Survival, Pandemic, Zombies",
+      "image_filename": "The_Unliving_2010.jpg",
+      "pitch": "In a Sweden devastated by a zombie virus, the few remaining survivors have sealed themselves behind gated walls, distancing from the infected. The survivors have discovered a way to control the zombies with drugs, transforming them into a compliant workforce and even entertainment. But when one survivor discovers his mother among the infected, everything changes.\n\nThis Swedish short film offers a bleak yet thoughtful take on the post-apocalyptic genre. Rather than focusing on gore and action, it explores what happens when we commodify even our enemies\u2014and the moral compromises survival demands. The controlled zombie workforce is a chilling metaphor for exploitation and the treatment of the other.",
+      "created_at": "2026-06-13 09:13:27"
+    },
+    {
       "title": "The Unpleasant Profession of Jonathan Hoag",
       "year": 1942,
       "medium": "Novella",
@@ -16276,5 +16291,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1085
+  "count": 1086
 }
