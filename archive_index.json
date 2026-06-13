@@ -13501,6 +13501,21 @@
       "created_at": "2026-02-28 20:07:33"
     },
     {
+      "title": "The Stowaway",
+      "year": 1978,
+      "medium": "TV Series",
+      "creator": "Jon Bing, Tor \u00c5ge Bringsv\u00e6rd",
+      "raw_score": 3.36,
+      "total_ratings": 11,
+      "origin": "Norway",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction",
+      "topics": "Aliens, First Contact, Robots, AI",
+      "image_filename": "The_Stowaway_1978.jpg",
+      "pitch": "Blindpassasjer (Norwegian for \\\"Stowaway\\\") is a pioneering three-episode science fiction television series that holds the distinction of being the first sci-fi series to ever air on Norwegian television. Created by acclaimed writers Jon Bing and Tor \u00c5ge Bringsv\u00e6rd, the series was broadcast in October-November 1978 and earned the prestigious Riverton Prize.\n\nThe story follows the five-member crew of the starship Marco Polo as they awaken from hibernation during their return voyage from the distant planet Rossum. Their routine journey takes a terrifying turn when security footage reveals a mysterious ghostly figure moving through the ship \u2014 a stowaway none of them can see. As the crew investigates, they make a horrifying discovery: one of their own has been replaced by a biomat (a biological robot) from Rossum, an android perfectly mimicking a human crew member.\n\nThe series combines classic science fiction tropes \u2014 space isolation, identity paranoia, first contact \u2014 with Norwegian storytelling sensibilities. The slow-burn tension builds methodically as suspicion spreads among the crew, each wondering who among them might be the replacement.",
+      "created_at": "2026-06-13 03:27:57"
+    },
+    {
       "title": "The Substance",
       "year": 2024,
       "medium": "Film",
@@ -15406,5 +15421,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1027
+  "count": 1028
 }

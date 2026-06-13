@@ -15301,6 +15301,23 @@
       "created_at": "2026-02-28 20:07:33"
     },
     {
+      "title": "The Stowaway",
+      "year": 1978,
+      "medium": "TV Series",
+      "creator": "Jon Bing, Tor \u00c5ge Bringsv\u00e6rd",
+      "raw_score": 3.36,
+      "total_ratings": 11,
+      "origin": "Norway",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction",
+      "topics": "Aliens, First Contact, Robots, AI",
+      "image_filename": "The_Stowaway_1978.jpg",
+      "pitch": "Blindpassasjer (Norwegian for \\\"Stowaway\\\") is a pioneering three-episode science fiction television series that holds the distinction of being the first sci-fi series to ever air on Norwegian television. Created by acclaimed writers Jon Bing and Tor \u00c5ge Bringsv\u00e6rd, the series was broadcast in October-November 1978 and earned the prestigious Riverton Prize.\n\nThe story follows the five-member crew of the starship Marco Polo as they awaken from hibernation during their return voyage from the distant planet Rossum. Their routine journey takes a terrifying turn when security footage reveals a mysterious ghostly figure moving through the ship \u2014 a stowaway none of them can see. As the crew investigates, they make a horrifying discovery: one of their own has been replaced by a biomat (a biological robot) from Rossum, an android perfectly mimicking a human crew member.\n\nThe series combines classic science fiction tropes \u2014 space isolation, identity paranoia, first contact \u2014 with Norwegian storytelling sensibilities. The slow-burn tension builds methodically as suspicion spreads among the crew, each wondering who among them might be the replacement.",
+      "truth": "The crew of the Marco Polo consists of Elis (an ecologist), Leda (a physicist), Gaia (a biologist), Akeron (a computer specialist), and Jason (a sociologist). They are awakened from hibernation early when strange images appear on the ship's security cameras \u2014 a figure moving through the corridors that no one saw enter.\n\nAt first, they dismiss it as a glitch, but the sightings continue. The crew begins to suspect each other, tensions rising as they try to identify the stowaway. Each crew member's background is scrutinized, their memories questioned.\n\nThe truth is eventually revealed: one crew member has already been replaced by a Biomat \u2014 a biological robot from Rossum that perfectly\u590d\u5236 (copies) human appearance and memories. The replacement has been living among them, gathering information about humanity.\n\nThe series ends with the crew successfully identifying and containing the biomat, but leaves open the larger question of what Rossum wants with humanity \u2014 a setup suggesting a broader invasion or infiltration.",
+      "core": "Blindpassasjer is significant as Norway's first science fiction television series, establishing a genre tradition in Scandinavian television. The writers Bing and Bringsv\u00e6rd, who would go on to write the acclaimed MAX: The Maxuments series, crafted a story that explores themes of identity, trust, and the fear of the other \u2014 all central concerns in late-1970s science fiction.\n\nThe series predates many similar \\\"pod people\\\" and body-snatcher narratives that would become common in the 1980s and 1990s. Its Norwegian perspective brings a distinctive melancholic, isolated atmosphere to the genre \u2014 the cold vastness of space amplified by the loneliness of the crew in deep hibernation, cut off from Earth.\n\nThe Riverton Prize recognition confirms its cultural importance in Norway. Though only three episodes exist, the series demonstrates that even small nations can contribute meaningful entries to science fiction tradition.",
+      "created_at": "2026-06-13 03:27:57"
+    },
+    {
       "title": "The Substance",
       "year": 2024,
       "medium": "Film",
@@ -17460,5 +17477,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1027
+  "count": 1028
 }
