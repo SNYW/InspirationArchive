@@ -1306,6 +1306,21 @@
       "created_at": "2026-03-04 06:35:46"
     },
     {
+      "title": "April 1, 2000",
+      "year": 1952,
+      "medium": "Film",
+      "creator": "Georg Jacob",
+      "raw_score": 3.37,
+      "total_ratings": 17,
+      "origin": "Germany",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, Authoritarianism, World Government",
+      "image_filename": "April_1_2000_1952.jpg",
+      "pitch": "In the year 2000, the World Global Union governs Earth, allowing member nations only nominal independence as long as they support the global regime. When Austria's newly elected president makes his inauguration speech, he declares Austrian independence and refuses further financial contributions to the Union. The Union responds by cutting all Austria's resources, plunging the nation into crisis. As tensions escalate, the president must choose between national pride and survival.\n\nThis 1952 West German science fiction comedy presents a satirical vision of post-war world order, imagining a future where nationalism has been subsumed by a global technocracy. The film was made only seven years after World War II, reflecting contemporary anxieties about emerging Cold War divisions and the formation of new international institutions.\n\nThe tone is lighthearted comedy with pointed political satire, predicting a future where the mistakes of the past might be overcome through cooperation\u2014but also warning of the dangers of centralized power.",
+      "created_at": "2026-06-13 09:29:18"
+    },
+    {
       "title": "Arabela",
       "year": 1980,
       "medium": "TV Series",
@@ -16291,5 +16306,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1086
+  "count": 1087
 }

@@ -1480,6 +1480,23 @@
       "created_at": "2026-03-04 06:35:46"
     },
     {
+      "title": "April 1, 2000",
+      "year": 1952,
+      "medium": "Film",
+      "creator": "Georg Jacob",
+      "raw_score": 3.37,
+      "total_ratings": 17,
+      "origin": "Germany",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, Authoritarianism, World Government",
+      "image_filename": "April_1_2000_1952.jpg",
+      "pitch": "In the year 2000, the World Global Union governs Earth, allowing member nations only nominal independence as long as they support the global regime. When Austria's newly elected president makes his inauguration speech, he declares Austrian independence and refuses further financial contributions to the Union. The Union responds by cutting all Austria's resources, plunging the nation into crisis. As tensions escalate, the president must choose between national pride and survival.\n\nThis 1952 West German science fiction comedy presents a satirical vision of post-war world order, imagining a future where nationalism has been subsumed by a global technocracy. The film was made only seven years after World War II, reflecting contemporary anxieties about emerging Cold War divisions and the formation of new international institutions.\n\nThe tone is lighthearted comedy with pointed political satire, predicting a future where the mistakes of the past might be overcome through cooperation\u2014but also warning of the dangers of centralized power.",
+      "truth": "Set in the year 2000, the World Global Union controls global affairs. Austria is permitted to elect its own government, but the president must support the Union financially. Newly inaugurated President (played by Josef Meinrad) delivers his inauguration speech declaring Austria's independence and refuses further payments to the Union.\n\nThe Union retaliates by cutting all financial support to Austria, causing immediate economic collapse. The president faces pressure from all sides\u2014citizens demanding he reverse his decision, and international observers watching to see if small nations can truly assert independence against global powers.\n\nUltimately, the president finds a compromise: Austria will rejoin the Union but with reformed terms that allow greater national autonomy. The film ends optimistically, suggesting that negotiation and principle can balance the competing forces of nationalism and international cooperation.",
+      "core": "April 1, 2000 is a prescient Cold War parable about the tension between national sovereignty and international cooperation. Made in 1952, it reflects post-war anxieties about emerging global institutions (the United Nations, NATO, the European Coal and Steel Community) and the question of how nation-states would relate to new international bodies.\n\nThe film satirizes both extreme nationalism and faceless global bureaucracy, suggesting that the ideal lies in negotiated balance between the two. The president's journey from defiant independence to pragmatic cooperation mirrors the real post-war debates about sovereignty versus collective security.\n\nTechnically, the film is notable as an early German science fiction work, pre-dating the more famous Der Atomkrieg by several years. Its vision of a technologically managed future world proved influential in European sci-fi.",
+      "created_at": "2026-06-13 09:29:18"
+    },
+    {
       "title": "Arabela",
       "year": 1980,
       "medium": "TV Series",
@@ -18463,5 +18480,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1086
+  "count": 1087
 }
