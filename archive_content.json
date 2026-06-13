@@ -7719,6 +7719,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Omicron",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Ugo Gregoretti",
+      "raw_score": 3.2,
+      "total_ratings": 17,
+      "origin": "Italy",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Identity",
+      "image_filename": "Omicron_1963.jpg",
+      "pitch": "A comedic science fiction film from 1963 Italy, Omicron tells the story of an alien who possesses the body of a deceased factory worker in order to study humanity. Directed by Ugo Gregoretti, the film was entered in the competition at the 24th Venice International Film Festival and blends sci-fi themes with satirical comedy about human nature and society.",
+      "truth": "An alien from the planet Omicron arrives on Earth with a mission to learn about human civilization. Taking over the body of a recently deceased factory worker named Trabucco (Renato Salvatori), the alien resurrects the man and uses his body to observe and interact with human society. As the alien navigates the complexities of human life\u2014work, relationships, and everyday existence\u2014he begins to understand both the strengths and flaws of humanity. The film uses this premise to satirize human society, examining themes of identity, conformity, and the human condition through the eyes of an outsider. The alien's journey becomes both a comedic exploration and a critique of modern life.",
+      "core": "Omicron represents an interesting early entry in Italian science fiction cinema, combining the genre with the country's tradition of comedic filmmaking. Director Ugo Gregoretti uses the alien perspective to comment on Italian society of the early 1960s\u2014examining class dynamics, work culture, and the emerging consumer society. The film predates similar fish-out-of-water alien comedies by decades and shows an interesting European take on first contact and identity themes. It's notable as one of the first Italian films to engage seriously with science fiction as a vehicle for social commentary.",
+      "created_at": "2026-06-13 00:17:16"
+    },
+    {
       "title": "On the Comet",
       "year": 1970,
       "medium": "Film",
@@ -16984,5 +17001,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 999
+  "count": 1000
 }

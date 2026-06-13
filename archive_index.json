@@ -6811,6 +6811,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Omicron",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Ugo Gregoretti",
+      "raw_score": 3.2,
+      "total_ratings": 17,
+      "origin": "Italy",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Identity",
+      "image_filename": "Omicron_1963.jpg",
+      "pitch": "A comedic science fiction film from 1963 Italy, Omicron tells the story of an alien who possesses the body of a deceased factory worker in order to study humanity. Directed by Ugo Gregoretti, the film was entered in the competition at the 24th Venice International Film Festival and blends sci-fi themes with satirical comedy about human nature and society.",
+      "created_at": "2026-06-13 00:17:16"
+    },
+    {
       "title": "On the Comet",
       "year": 1970,
       "medium": "Film",
@@ -14986,5 +15001,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 999
+  "count": 1000
 }
