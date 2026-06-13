@@ -21781,6 +21781,24 @@
       "watch_url": null
     },
     {
+      "title": "Worzel Gummidge",
+      "year": 1979,
+      "medium": "TV Series",
+      "creator": "Southern Television",
+      "raw_score": 3.12,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Children, Fairy Tale, Magic",
+      "image_filename": "worzel_gummidge_1979.jpg",
+      "pitch": "A living scarecrow comes to life on Scatterbrook Farm. Jon Pertwee (former Doctor Who) stars in this whimsical ITV series 1979-1981. Worzel has interchangeable turnip heads that give him different moods. He causes mischief with children John and Susan, then sulks by going limp.",
+      "truth": "Worzel is a scarecrow who comes to life on a farm. Children John and Susan befriend him during holidays. He leads them into mischief then sulks by going limp, leaving them to take the blame. Episodes feature his schemes with Aunt Sally and the Crowman.",
+      "core": "Quintessential British children's TV\u2014whimsical rural fantasy with a beloved ex-Doctor Who star. Interchangeable vegetable heads are wonderfully surreal. The 2019 BBC revival proves this IP's enduring charm.",
+      "created_at": "2026-06-13 23:21:16",
+      "watch_url": null
+    },
+    {
       "title": "X: The Unknown",
       "year": 1956,
       "medium": "Film",
@@ -22033,5 +22051,5 @@
       "watch_url": null
     }
   ],
-  "count": 1224
+  "count": 1225
 }
