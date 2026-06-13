@@ -8011,6 +8011,21 @@
       "created_at": "2026-03-04 13:18:04"
     },
     {
+      "title": "Prince of Space",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Tatsuo Umemiya (star), Toei Company",
+      "raw_score": 1.3,
+      "total_ratings": 32,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "Prince_of_Space_1959.jpg",
+      "pitch": "Prince of Space is a 1959 Japanese tokusatsu superhero feature film that represents an early ancestor of the giant monster and special effects films Japan would become famous for worldwide. Produced by Toei Company, the film stars Tatsuo Umemiya as the titular Prince of Space, a masked superhero who defends Earth from alien invaders.\n\nThe story centers on the villainous Dictator Phantom of the planet Krangkor, who arrives on Earth seeking to steal Dr. Makin's revolutionary new rocket fuel formula. With his henchmen, Phantom threatens global domination unless the scientist hands over his discovery. Prince of Space must use his superhuman abilities, wand-like laser gun, and advanced spaceship to stop the alien dictator and protect humanity.\n\nThe film has achieved cult status in the West largely due to its appearance on Mystery Science Theater 3000, where its campy production values, distinctive villain costumes, and earnest storytelling have provided endless entertainment. The English dub compiled two Japanese theatrical features released a week apart in 1959.",
+      "created_at": "2026-06-13 09:43:26"
+    },
+    {
       "title": "Princess Knight",
       "year": 1967,
       "medium": "Anime",
@@ -16321,5 +16336,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1088
+  "count": 1089
 }

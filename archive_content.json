@@ -9079,6 +9079,23 @@
       "created_at": "2026-03-04 13:18:04"
     },
     {
+      "title": "Prince of Space",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Tatsuo Umemiya (star), Toei Company",
+      "raw_score": 1.3,
+      "total_ratings": 32,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "Prince_of_Space_1959.jpg",
+      "pitch": "Prince of Space is a 1959 Japanese tokusatsu superhero feature film that represents an early ancestor of the giant monster and special effects films Japan would become famous for worldwide. Produced by Toei Company, the film stars Tatsuo Umemiya as the titular Prince of Space, a masked superhero who defends Earth from alien invaders.\n\nThe story centers on the villainous Dictator Phantom of the planet Krangkor, who arrives on Earth seeking to steal Dr. Makin's revolutionary new rocket fuel formula. With his henchmen, Phantom threatens global domination unless the scientist hands over his discovery. Prince of Space must use his superhuman abilities, wand-like laser gun, and advanced spaceship to stop the alien dictator and protect humanity.\n\nThe film has achieved cult status in the West largely due to its appearance on Mystery Science Theater 3000, where its campy production values, distinctive villain costumes, and earnest storytelling have provided endless entertainment. The English dub compiled two Japanese theatrical features released a week apart in 1959.",
+      "truth": "The film opens with the arrival of Dictator Phantom, the evil ruler of the planet Krangkor, who descends upon Earth with his henchmen. Their mission: to obtain the revolutionary rocket fuel formula developed by Dr. Makin, which would give Krangkor military dominance over the galaxy.\n\nPrince of Space, Earth's guardian and the titular superhero, learns of the invasion and springs into action. He confronts Phantom's forces using his array of superpowers, including the invulnerability of his streamlined costume and helmet with goggles. Prince also possesses a wand-like laser gun and pilots a small spaceship.\n\nThe conflict escalates as Phantom kidnaps Dr. Makin's assistant or threatens innocent civilians to force the scientist's cooperation. Prince must navigate various obstacles and confront Phantom directly in the film's climax.\n\nIn the Japanese version, Prince has an additional unique ability: he can revert a man who was brainwashed by the Ginsei aliens back to a peaceful state. This subplot was removed from the American English dub.\n\nThe film concludes with Prince defeating Dictator Phantom and driving the Krangkor forces from Earth, preserving the rocket fuel formula and protecting humanity from alien conquest.",
+      "core": "Prince of Space holds a significant place in the history of Japanese science fiction cinema as an early example of the tokusatsu superhero genre that would evolve into the iconic kaiju and sentai series. Created by Masaru Igami and produced by Senkosha Productions, the film was designed to capitalize on the success of Shintoho's Super Giant movie series.\n\nThe production represents a transitional period in Japanese sci-fi cinema, bridging the post-war era's limited budgets with the coming golden age of special effects films that would begin with the kaiju boom of the 1960s. The two-part movie format, with its more streamlined costume for the hero (compared to the TV series), influenced later tokusatsu productions.\n\nThe film's campy aesthetic\u2014particularly the villain's distinctive prosthetic nose and cowl\u2014has become part of its charm, making it an enduring cult artifact. Its appearance on Mystery Science Theater 3000 introduced it to new audiences who appreciate its earnest low-budget production as much as its historical significance.\n\nPrince of Space demonstrates how early Japanese filmmakers adapted American science fiction serial conventions while adding their own distinctive flavor, creating a template for what would become one of Japan's most successful cultural exports.",
+      "created_at": "2026-06-13 09:43:26"
+    },
+    {
       "title": "Princess Knight",
       "year": 1967,
       "medium": "Anime",
@@ -18497,5 +18514,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1088
+  "count": 1089
 }
