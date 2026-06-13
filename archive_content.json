@@ -16984,6 +16984,23 @@
       "created_at": "2026-03-05 02:29:42"
     },
     {
+      "title": "To the Stars by Hard Ways",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Richard Viktorov",
+      "raw_score": 2.8,
+      "total_ratings": 65,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Cloning, Aliens, First Contact",
+      "image_filename": "to_the_stars_by_hard_ways.jpg",
+      "pitch": "In the 23rd century, the starship Pushkin discovers a derelict alien vessel floating in deep space. The crew were identical humanoids created by an advanced cloning process \u2014 all dead except for one woman in a catatonic state. Professor Lebedev brings her to Earth, names her Neeya, and she begins a new life among humans.\n\nBut Neeya harbors secrets. She has no memory of her past, yet discovers she possesses powerful telekinetic abilities. As her memories gradually return, she learns she is the last survivor of the planet Dessa \u2014 a world stripped of its minerals by a mad scientist, its people poisoned, its future stolen. When a diplomatic mission from Dessa arrives, Neeya must choose: stay on Earth, or return to save her dying world.\n\nThis 1981 Soviet sci-fi adventure, known in the West through an edited dub featured on Mystery Science Theater 3000 as \\\"Humanoid Woman,\\\" explores cloning, memory, and what it means to be human when your very identity is programmed.",
+      "truth": "The starship Pushkin discovers a destroyed alien spaceship in deep space. The crew are identical humanoids created by an advanced cloning process \u2014 most dead, but one woman survives in a catatonic state. Professor Sergei Lebedev brings her to Earth and names her Neeya.\n\nNeeya recovers in Lebedev's home, suffering from memory loss. As she adapts to Earth life, she discovers she has telekinetic powers. Professor Ivanova studies her neurophysiology and finds a special neurocenter in her brain that can be triggered remotely. During a beach outing, Ivanova triggers the device, causing Neeya to lose control and fall into the water. The shock triggers a flashback \u2014 she sees a man on her home planet explaining a control system used to command clones.\n\nNeeya joins an archaeological expedition and has another flashback revealing she is from the planet Dessa. She returns to find a Deesan diplomatic mission has arrived at the spaceport. They will return to Dessa aboard the starship Astra, and Neeya stowaways aboard. By chance, Lebedev's son Stepan and Professor Ivanova are also aboard.\n\nThe Astra reaches Dessa \u2014 a planet stripped of minerals, its air and water poisoned. Life exists only because of Turanchoks, who runs a gas mask factory. Turanchoks resents the Earth ship, which could clean up the planet and put him out of business. He poisons the water supply and blames it on the humans, inciting a riot.\n\nTuranchoks activates one of Glan's control devices and forces Neeya to place a bomb on the Astra. The diplomat Rakan tries to stop him but is stabbed. Near death, Rakan releases Glan's final experiment \u2014 a deadly blob that kills Turanchoks and his agents. Ivanova is shot while trying to remove the bomb from Neeya. Her death breaks the control's effect on Neeya. Neeya, aided by the crew and robot, defeats the monster. The Astra departs for home, leaving Neeya behind on the mended planet.",
+      "core": "To the Stars by Hard Ways is a fascinating artifact of Soviet-era science fiction \u2014 blending space adventure with philosophical questions about identity, memory, and autonomy.\n\nThe cloning theme is particularly striking: Neeya is not merely an alien, but a manufactured being whose memories and actions can be remotely controlled. The film asks whether she is truly free, or merely a puppet whose strings can be pulled by those who created her. This resonates with broader questions about free will and determinism that pervade sci-fi.\n\nThe post-apocalyptic vision of Dessa \u2014 a planet stripped bare by resource extraction \u2014 reads as an environmental allegory, decades before climate change became mainstream discourse. Turanchoks, the villain who profits from pollution and resists cleanup, represents the destructive logic of exploitation.\n\nSoviet cinema of this era often embedded political commentary within genre frameworks. Here, the critique is subtle but present: Neeya's journey from controlled clone to autonomous agent mirrors the emancipation narrative, while the corrupt villain's attempts to maintain control echo authoritarian impulses.\n\nFor Western audiences, the film gained cult status through the MST3K edit, which removed nearly an hour of footage. This both diminished and preserved its reputation \u2014 a truncated artifact, yet one that introduced millions to Soviet sci-fi's distinctive blend of earnest adventure and philosophical depth.",
+      "created_at": "2026-06-13 07:08:08"
+    },
+    {
       "title": "Tokyo: The Last Megalopolis",
       "year": 1988,
       "medium": "Film",
@@ -18072,5 +18089,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1063
+  "count": 1064
 }

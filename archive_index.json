@@ -14986,6 +14986,21 @@
       "created_at": "2026-03-05 02:29:42"
     },
     {
+      "title": "To the Stars by Hard Ways",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Richard Viktorov",
+      "raw_score": 2.8,
+      "total_ratings": 65,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Cloning, Aliens, First Contact",
+      "image_filename": "to_the_stars_by_hard_ways.jpg",
+      "pitch": "In the 23rd century, the starship Pushkin discovers a derelict alien vessel floating in deep space. The crew were identical humanoids created by an advanced cloning process \u2014 all dead except for one woman in a catatonic state. Professor Lebedev brings her to Earth, names her Neeya, and she begins a new life among humans.\n\nBut Neeya harbors secrets. She has no memory of her past, yet discovers she possesses powerful telekinetic abilities. As her memories gradually return, she learns she is the last survivor of the planet Dessa \u2014 a world stripped of its minerals by a mad scientist, its people poisoned, its future stolen. When a diplomatic mission from Dessa arrives, Neeya must choose: stay on Earth, or return to save her dying world.\n\nThis 1981 Soviet sci-fi adventure, known in the West through an edited dub featured on Mystery Science Theater 3000 as \\\"Humanoid Woman,\\\" explores cloning, memory, and what it means to be human when your very identity is programmed.",
+      "created_at": "2026-06-13 07:08:08"
+    },
+    {
       "title": "Tokyo: The Last Megalopolis",
       "year": 1988,
       "medium": "Film",
@@ -15946,5 +15961,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1063
+  "count": 1064
 }
