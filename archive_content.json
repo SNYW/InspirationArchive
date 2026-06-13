@@ -9963,6 +9963,23 @@
       "created_at": "2026-03-01 09:37:38"
     },
     {
+      "title": "Spectreman",
+      "year": 1971,
+      "medium": "TV Series",
+      "creator": "Souji Ushio (Creator), P Productions",
+      "raw_score": 4.05,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk,Hard-SF",
+      "topics": "Robots,Pollution,Aliens",
+      "image_filename": "Spectreman_1971.jpg",
+      "pitch": "Spectreman is a 1971 Japanese tokusatsu superhero television series that stands as the first major Japanese superhero show of the 1970s, predating both Ultraman and Kamen Rider by several months. Produced by P Productions and created by Souji Ushio, the series aired on Fuji TV in Japan from January 1971 to March 1972 with 63 episodes. The show centers on a powerful alien cyborg dispatched to Earth by the Nebula 71 Star to combat the ecological threats posed by a banished mad scientist and his army of pollution-based monsters.\n\nWhat makes Spectreman remarkable is its unusual premise: rather than fighting alien invasions or criminal masterminds, the hero battles monsters created from environmental pollution\u2014a topic of urgent concern in 1970s Japan, which had the most polluted city in the world at the time. This environmental message gives the show a surprisingly prescient edge that resonates strongly today.",
+      "truth": "The series opens with Dr. Gori, a mutant mad scientist banished from the advanced Planet E for his schemes to conquer it. Along with his gorilla-like assistant Karras, Gori travels to Earth and decides to conquer it by creating monsters from pollution\u2014to save the planet from the very destruction humans are causing.\n\nThe Nebula 71 Star, an artificial satellite observing Earth, dispatches Spectreman\u2014a super-powered cyborg\u2014to stop Gori's plans. Spectreman disguises himself as human journalist J\u00f4ji Gam\u00f4 and works with the Pollution G-Men, a government organization investigating pollution-related phenomena. Each episode features Gori creating a new pollution-based monster (Hedoron, Zeron, Gokinosaurus, etc.), which Spectreman must defeat using his various weapons including the Spectre-Flash energy beam, shuriken, and Spectre-Blades.\n\nThroughout the series, Spectreman works alongside the Pollution G-Men, who remain unaware of his secret identity. As the series progresses, Gori's subordinates are defeated one by one until only the mad scientist remains. In the final episode, Spectreman tries to convince Gori to use his intelligence for good rather than destruction, but Gori chooses suicide over living with humanity.",
+      "core": "Spectreman is notable for its bold environmental theme, unusual for a children's superhero show. By making pollution the central villain, the series reflects 1970s Japan's real environmental crisis (Minamata disease, Tokyo's smog) and presents a surprisingly sophisticated message about humanity's relationship with nature.\n\nThe show also broke ground as the first major tokusatsu superhero series of the 1970s, establishing many tropes that would define the genre: the secret identity, the government organization, the alien origin, and the transformation sequence. It influenced subsequent series like Ultraman and Kamen Rider.\n\nThe American dub, released seven years after the Japanese original, was notable for its faithful adaptation and the unusual theme song from the Mystic Moods Orchestra, rather than the typical re-recording.\n\nFor Western audiences who may only know Ultraman and Kamen Rider, Spectreman offers a window into the earlier roots of Japanese tokusatsu superhero storytelling and its surprisingly mature themes.",
+      "created_at": "2026-06-13 01:24:22"
+    },
+    {
       "title": "Sputnik",
       "year": 2020,
       "medium": "Film",
@@ -17154,5 +17171,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1009
+  "count": 1010
 }
