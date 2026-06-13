@@ -6586,6 +6586,21 @@
       "created_at": "2026-03-02 23:45:59"
     },
     {
+      "title": "My Grandpa is an Alien",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Various",
+      "raw_score": 6.7,
+      "total_ratings": 36,
+      "origin": "Croatia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Family, Love",
+      "image_filename": "my_grandpa_is_an_alien_2019.jpg",
+      "pitch": "My Grandpa is an Alien (Moj dida je pao s Marsa) is a 2019 Croatian family science fantasy film about a young girl named Una who embarks on a frantic 24-hour adventure to rescue her grandfather after he is kidnapped by aliens. Partnered with an alien robot, Una must navigate an extraordinary journey that leads to friendship, emotional growth, and the discovery that family transcends planetary boundaries.\n\nThis heartwarming tale combines elements of science fiction with universal family themes, creating an accessible story about love, sacrifice, and the bonds that connect us across the cosmos. The film represents a rare Croatian entry in the family sci-fi genre.",
+      "created_at": "2026-06-13 05:23:22"
+    },
+    {
       "title": "Mysterious Island",
       "year": 1941,
       "medium": "Film",
@@ -15691,5 +15706,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1046
+  "count": 1047
 }

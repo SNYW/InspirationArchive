@@ -7464,6 +7464,23 @@
       "created_at": "2026-03-02 23:45:59"
     },
     {
+      "title": "My Grandpa is an Alien",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Various",
+      "raw_score": 6.7,
+      "total_ratings": 36,
+      "origin": "Croatia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Family, Love",
+      "image_filename": "my_grandpa_is_an_alien_2019.jpg",
+      "pitch": "My Grandpa is an Alien (Moj dida je pao s Marsa) is a 2019 Croatian family science fantasy film about a young girl named Una who embarks on a frantic 24-hour adventure to rescue her grandfather after he is kidnapped by aliens. Partnered with an alien robot, Una must navigate an extraordinary journey that leads to friendship, emotional growth, and the discovery that family transcends planetary boundaries.\n\nThis heartwarming tale combines elements of science fiction with universal family themes, creating an accessible story about love, sacrifice, and the bonds that connect us across the cosmos. The film represents a rare Croatian entry in the family sci-fi genre.",
+      "truth": "Una's grandfather has always been different\u2014strange stories, unusual behaviors, hints of a past that didn't quite fit. When he suddenly disappears, Una discovers the shocking truth: he was abducted by aliens. But she's not alone in her search. An alien robot who was sent to retrieve her grandfather becomes her unexpected companion.\n\nOver the course of 24 hours, Una and the robot must find her grandfather before time runs out. The adventure takes them across extraordinary circumstances, challenging their assumptions about each other. The robot, programmed with logical and analytical functions, begins to experience emotions it never anticipated\u2014friendship, concern, and ultimately love.\n\nThe climax reveals that Una's grandfather is part of an alien family from another world. The resolution centers on Una's selfless love proving that family connections are not limited by species or planetary origin. The alien robot chooses emotion over logic, and Una's family is reunited\u2014though changed forever by their cosmic journey.",
+      "core": "**Family Beyond Boundaries:** The film explores the theme that family is defined by love and connection, not by biological origin. Una's willingness to embrace her partially alien heritage challenges traditional notions of identity and belonging.\n\n**Artificial Emotion:** The robot's journey from pure logic to emotional understanding mirrors classic AI narratives but applies them to family storytelling. The film suggests that emotional capacity may be the defining characteristic of sentient life.\n\n**Croatian Family Sci-Fi:** As a rare Croatian entry in family science fiction, the film represents an interesting cultural artifact\u2014adapting global sci-fi themes for local storytelling traditions while addressing universal family dynamics.\n\nThe optimistic tone and family-friendly approach make this an accessible entry point for younger viewers into science fiction while delivering a meaningful message about acceptance and love.",
+      "created_at": "2026-06-13 05:23:22"
+    },
+    {
       "title": "Mysterious Island",
       "year": 1941,
       "medium": "Film",
@@ -17783,5 +17800,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1046
+  "count": 1047
 }
