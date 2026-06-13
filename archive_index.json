@@ -1381,6 +1381,21 @@
       "created_at": "2026-02-28 21:49:46"
     },
     {
+      "title": "Armored Trooper VOTOMS",
+      "year": 1983,
+      "medium": "Anime",
+      "creator": "Ry\u014dsuke Takahashi",
+      "raw_score": 3.86,
+      "total_ratings": 7135,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Military, Hard-SF",
+      "topics": "Rebellion, Isolation, AI, Robots",
+      "image_filename": "Armored_Trooper_VOTOMS_1983.jpg",
+      "pitch": "VOTOMS is a hard military science fiction mecha anime from 1983, created by Ry\u014dsuke Takahashi. Set in a galaxy where two great powers, Gilgamesh and Balarant, have been locked in a century-long war, the series follows Chirico Cuvie, a pilot of the Armored Trooper (AT) - a humanoid combat vehicle. The series is notable for its gritty realism - the ATs have extremely thin armor and their pilots use a highly combustible liquid in their artificial muscles, making survival rates extremely low. Chirico is a member of the Red Shoulder Battalion, an elite unit, but after being betrayed and left for dead, he must survive alone while uncovering a galactic conspiracy.",
+      "created_at": "2026-06-13 05:48:08"
+    },
+    {
       "title": "Arzach",
       "year": 1975,
       "medium": "Graphic Novel",
@@ -15751,5 +15766,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1050
+  "count": 1051
 }

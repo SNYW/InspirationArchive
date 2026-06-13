@@ -1565,6 +1565,23 @@
       "created_at": "2026-02-28 21:49:46"
     },
     {
+      "title": "Armored Trooper VOTOMS",
+      "year": 1983,
+      "medium": "Anime",
+      "creator": "Ry\u014dsuke Takahashi",
+      "raw_score": 3.86,
+      "total_ratings": 7135,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Military, Hard-SF",
+      "topics": "Rebellion, Isolation, AI, Robots",
+      "image_filename": "Armored_Trooper_VOTOMS_1983.jpg",
+      "pitch": "VOTOMS is a hard military science fiction mecha anime from 1983, created by Ry\u014dsuke Takahashi. Set in a galaxy where two great powers, Gilgamesh and Balarant, have been locked in a century-long war, the series follows Chirico Cuvie, a pilot of the Armored Trooper (AT) - a humanoid combat vehicle. The series is notable for its gritty realism - the ATs have extremely thin armor and their pilots use a highly combustible liquid in their artificial muscles, making survival rates extremely low. Chirico is a member of the Red Shoulder Battalion, an elite unit, but after being betrayed and left for dead, he must survive alone while uncovering a galactic conspiracy.",
+      "truth": "The series begins in the final days of the century-long war between the Gilgamesh Confederation and the Balarant Union. Chirico Cuvie, pilot of an Armored Trooper (AT), is assigned to a secret operation with his unit to retrieve what appears to be a mysterious woman. The operation goes wrong - Chirico is betrayed by his own side, left to die in the desert. He survives, is captured and tortured by Gilgamesh military intelligence as a suspected traitor, then escapes. From then on, Chirico is hunted by both sides as he searches for the truth about the woman, the conspiracy behind the operation, and his own past. He encounters various factions including the Balarant, a secret society called the Red Shoulders, and discovers that the war itself may have been manipulated. The series follows his journey across multiple planets and through numerous battles as he uncovers the truth.",
+      "core": "VOTOMS is a landmark in the mecha anime genre, known for its gritty realism and anti-war themes. The series explores how individual soldiers are used and discarded by larger political forces. Chirico Cuvie is not a hero in the traditional sense - he is a man betrayed by his own government, struggling to survive and find truth in a galaxy where the war's original cause has been forgotten. Takahashi's approach to mecha is fundamentally different from the power fantasy of other series - the Armored Troopers are fragile machines, and pilots are literally called \\\"Bottoms\\\" because of their low survival rates. The series asks what happens when a soldier discovers the war he fought was built on lies.",
+      "created_at": "2026-06-13 05:48:08"
+    },
+    {
       "title": "Arzach",
       "year": 1975,
       "medium": "Graphic Novel",
@@ -17851,5 +17868,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1050
+  "count": 1051
 }
