@@ -2806,6 +2806,23 @@
       "created_at": "2026-03-04 17:06:05"
     },
     {
+      "title": "Captain Scarlet and the Mysterons",
+      "year": 1967,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson",
+      "raw_score": 3.73,
+      "total_ratings": 31,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Surveillance",
+      "image_filename": "Captain_Scarlet_and_the_Mysterons_1967.jpg",
+      "pitch": "Gerry Anderson's pioneering Supermarionation series. In 2068, global security force Spectrum battles the Mysterons - Martians who declared war after humans destroyed their city. Captain Scarlet becomes indestructible after being resurrected by alien technology, able to survive any wound.",
+      "truth": "When human astronauts attack the Mysteron city in error, the aliens swear revenge. Scarlet is killed but resurrected with their technology, becoming indestructible. Now Spectrum's top agent, he battles Mysteron threats across Earth.",
+      "core": "The Andersons perfected Supermarionation here. Works as children's entertainment and Cold War allegory - unknowable Mysterons mirror era anxieties. Scarlet's unique invulnerability was innovative. Barry Gray's score makes this a British SF cornerstone.",
+      "created_at": "2026-06-13 21:28:03"
+    },
+    {
       "title": "Cargo",
       "year": 2019,
       "medium": "Film",
@@ -20520,5 +20537,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1207
+  "count": 1208
 }
