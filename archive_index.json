@@ -7966,6 +7966,21 @@
       "created_at": "2026-03-01 13:58:35"
     },
     {
+      "title": "O Trapalh\u00e3o no Planalto dos Macacos",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.83,
+      "total_ratings": 20,
+      "origin": "Brazil",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Satire, Space Travel",
+      "image_filename": "o_trapalhao_no_planalto_dos_macacos.jpg",
+      "pitch": "Brazilian parody of Planet of the Apes. Four comedians crash into an ape civilization where simians rule and humans serve. A simian princess falls for one of the comedians in this slapstick take on the sci-fi classic.",
+      "created_at": "2026-06-13 20:18:32"
+    },
+    {
       "title": "O-Bi, O-Ba: The End of Civilization",
       "year": 1985,
       "medium": "Film",
@@ -17926,5 +17941,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1195
+  "count": 1196
 }
