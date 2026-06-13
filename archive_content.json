@@ -1463,6 +1463,23 @@
       "created_at": "2026-03-04 06:35:46"
     },
     {
+      "title": "Arabela",
+      "year": 1980,
+      "medium": "TV Series",
+      "creator": "V\u00e1clav Vorl\u00ed\u010dek, Milo\u0161 Macourek",
+      "raw_score": 4.12,
+      "total_ratings": 46,
+      "origin": "Czechoslovakia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Fairy Tale",
+      "topics": "Fairy Tale, Magic, Family",
+      "image_filename": "475146.jpg",
+      "pitch": "Arabela is a Czechoslovak children's television series that aired from 1979 to 1981, blending fairy tale fantasy with modern family drama. The series follows the Majer family\u2014father Karel, a television actor who reads fairy tales to children, and his two sons\u2014when they become entangled with the magical Fairytale Realm through a mysterious golden bell.\n\nThe hook lies in its clever inversion of familiar fairy tale conventions. When Rumburak, a bumbling magician from the Fairytale Realm, accidentally transports Karel to his kingdom for shooting lessons, he sets in motion a chain of magical mishaps that pull both worlds into collision. The real twist: the protagonists from the fairy tale world\u2014Princess Arabela and her sister Xenie\u2014must navigate the mundane modern human world, while the Majer children become stranded in the magical realm.\n\nThis cross-dimensional family comedy stands out for its sophisticated writing that appeals to adults while remaining accessible to children, a rare balance in children's television. The series aired across Eastern and Western Europe, even broadcast in West Germany under the title \"Die M\u00e4rchenbraut\" (The Fairytale Bride).",
+      "truth": "The series begins when actor Karel Majer discovers a golden bell that summons Rumburak, a magician from the Fairytale Realm. Wishing to impress his children at a fair, Karel wishes to learn to shoot\u2014Rumburak transports him to the Fairytale Realm for lessons, where the wolf from Little Red Riding Hood speaks human language. Rumburak is punished and forced to become the wolf.\n\nEnraged, Rumburak impersonates Karel on television, twisting fairy tales into grotesque stories. The King of the Fairytale Realm sends his court magician Vigo and daughters Arabela and Xenie to the human world to observe. Arabela, the kind princess, falls in love with Karel's son Petr, while Xenie becomes obsessed with modern comforts.\n\nThe plot intensifies when three magical Wishing Rings fall into human hands, causing chaos. Members of both families become trapped in the wrong world. Rumburak plots to marry Arabela and take over the realm, aided by the Evil Witch who transforms the Queen into a white dove.\n\nThe resolution comes with the help of Fantomas from the Adult Fairytale Realm. Arabela marries Petr and prepares to stay in the human world. Rumburak and the Evil Witch are turned into household appliances. The magic bell is buried by the family dachshund, severing the connection between worlds\u2014temporarily.\n\nThe sequel, Arabela Returns (1993), reveals Rumburak eventually became King of the Fairytale Kingdom.",
+      "core": "Arabela explores the tension between imagination and reality through its dual-world structure. The Fairytale Realm operates on strict narrative rules\u2014characters are bound to their archetypal roles (the wolf must be evil, the princess must be passive)\u2014while the modern world offers freedom but also chaos.\n\nThe series meta-commentary is subtle but present: Rumburak's desire to rewrite fairy tales reflects how stories shape reality. When he twists tales on television, he literally corrupts the narrative fabric. The magical rings represent the power of wishful thinking, but also its dangers\u2014when anyone can wish for anything, the results are unpredictable.\n\nFamily is the emotional core. Both families\u2014the Majers and the royal family\u2014must learn to let go. Arabela must leave her world to be with Petr. The parents must allow their children to grow and find their own paths. The bittersweet ending, where the bell is buried and the worlds separate, is actually a coming-of-age moment: the children must live in their own world, not in fantasy.\n\nTechnically, the series is notable for its elaborate costumes by Theodor Pi\u0161t\u011bk and Lubos Fiser's memorable score. Its international success\u2014broadcast in 57 countries\u2014demonstrates that universal themes transcend Cold War divisions.",
+      "created_at": "2026-06-13 06:47:26"
+    },
+    {
       "title": "Arcade",
       "year": 1993,
       "medium": "Film",
@@ -18004,5 +18021,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1059
+  "count": 1060
 }
