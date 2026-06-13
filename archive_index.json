@@ -15286,6 +15286,21 @@
       "created_at": "2026-06-12 15:07:55"
     },
     {
+      "title": "White Plastic Sky",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Katalin T\u00f3th",
+      "raw_score": 3.37,
+      "total_ratings": 32,
+      "origin": "Hungary",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Ecology, Sacrifice, Love, Survival",
+      "image_filename": "White_Plastic_Sky_2023.jpg",
+      "pitch": "In 2123, humanity faces extinction through resource depletion. The solution is radical: at age 50, every citizen voluntarily transforms into a tree, becoming part of a growing forest that produces oxygen and restores the planet. This is not death \u2014 it is transcendence into nature.\n\nWhen Stefan discovers that his beloved wife Nora has secretly signed up to become a tree before her time, he is devastated. The system is already consuming her \u2014 she fades more each day, her skin taking on the texture of bark. Desperate to save her, Stefan embarks on an adventurous journey through a world transformed by millions of human-turned-trees, racing against the clock before she completes her transformation.\n\nWhite Plastic Sky is a haunting meditation on mortality, love, and what it means to leave a legacy. The animation is gorgeous \u2014 trees grow from human forms, their branches reaching toward a plastic-gray sky, their faces frozen in expressions of peace or terror. The film asks: if you could become part of the solution, would you? And what if love made you refuse?",
+      "created_at": "2026-06-13 04:48:30"
+    },
+    {
       "title": "Who Wants to Kill Jessie?",
       "year": 1966,
       "medium": "Film",
@@ -15601,5 +15616,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1040
+  "count": 1041
 }
