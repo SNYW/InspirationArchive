@@ -16899,6 +16899,23 @@
       "created_at": "2026-06-13 03:27:57"
     },
     {
+      "title": "The Strange World of Planet X",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Gilbert Gunn",
+      "raw_score": 4.71,
+      "total_ratings": 21,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Science, Aliens, Discovery",
+      "image_filename": "the_strange_world_of_planet_x.jpg",
+      "pitch": "In 1950s England, scientists experimenting with magnetic fields open a dimensional barrier, attracting an alien emissary who warns their work threatens Earth. As giant mutated insects terrorize the countryside, the researchers must confront their hubris.\n\nA British B-movie that packs Cold War anxieties into 75 minutes of creature features.",
+      "truth": "Dr. Laird conducts dangerous magnetic experiments near an English village. Despite warnings from alien \\\"Mr. Smith,\\\" he continues. The experiments weaken Earth's magnetic shield, mutating insects into giant monsters. The army destroys the creatures, and the alien destroys the lab to prevent further damage.",
+      "core": "The Strange World of Planet X uses scientific hubris to explore 1950s Cold War anxieties. The alien emissary represents UFO paranoia; magnetic experiments parallel atomic-age radiation fears. In 75 minutes, it delivers creature features, dimensional intrigue, and alien contact.",
+      "created_at": "2026-06-13 14:57:44"
+    },
+    {
       "title": "The Substance",
       "year": 2024,
       "medium": "Film",
@@ -19381,5 +19398,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1140
+  "count": 1141
 }
