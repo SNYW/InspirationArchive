@@ -2446,6 +2446,21 @@
       "created_at": "2026-03-19 11:21:01"
     },
     {
+      "title": "Children of the Stones",
+      "year": 1977,
+      "medium": "TV Series",
+      "creator": "Jeremy Burnham, Trevor Ray",
+      "raw_score": 3.31,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Folklore, Supernatural",
+      "image_filename": "Children_of_the_Stones.jpg",
+      "pitch": "Children of the Stones is a British children's fantasy drama serial produced in 1976 and broadcast on ITV in early 1977. When astrophysicist Adam Brake and his teenage son Matthew relocate to the small village of Milbury\u2014built around an ancient megalithic stone circle\u2014they discover far more than a quiet English countryside. The village exists within a temporal anomaly, a time rift where events loop endlessly with minor variations, each cycle drawing closer to releasing the stone circle's accumulated power into the outside world.\n\nFilmed during the sweltering summer of 1976 at Avebury in Wiltshire\u2014the largest stone circle in Europe\u2014the series carries an atmosphere of creeping dread. The incidental music, composed by Sidney Sager, features discordant wailing voices and chanting that evoke ancient pagan rituals. Director Peter Graham Scott was surprised the programme was scheduled for children's television given its complex plot and unsettling tone.",
+      "created_at": "2026-06-13 13:35:26"
+    },
+    {
       "title": "Chile puede",
       "year": 2008,
       "medium": "Film",
@@ -16861,5 +16876,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1124
+  "count": 1125
 }
