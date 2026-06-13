@@ -5900,6 +5900,23 @@
       "created_at": "2026-03-03 18:03:24"
     },
     {
+      "title": "Island of Rusty General",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Valentin Khovenko",
+      "raw_score": 2.58,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Children, Fairy Tale",
+      "image_filename": "Island_of_Rusty_General_1988.jpg",
+      "pitch": "In late 21st century Moscow, schoolgirl Alisa Seleznyova lands the role of Little Red Riding Hood in a children's film. But her adventure goes far beyond the script when ancient military robots\u2014discovered at an archaeological excavation and meant for remelting\u2014escape and land on a deserted island. These aren't ordinary machines: they retain their combat programming and begin planning to enslave humanity. Alisa finds herself captured by the very robots she was meant to act alongside.\n\nThis 1988 Soviet children's film blends fairy tale aesthetics with Cold War anxieties about military technology run amok. The rusty, obsolete robots\u2014nicknamed for their decaying hardware\u2014represent fears of weapons systems that persist beyond their intended lifespan. Yet the film maintains an upbeat tone, trusting young viewers to handle themes of machine uprising without despair.\n\nThe production draws from Kir Bulychov's popular Alisa Seleznyova adventure series, which spawned multiple children's sci-fi films in the Soviet Union. Director Valentin Khovenko creates a visually inventive world where the line between film-within-a-film and reality blurs, giving young audiences a meta-narrative about stories and their power.",
+      "truth": "Alisa Seleznyova, a Moscow schoolgirl of the 21st century, is cast as Little Red Riding Hood in a children's film production. She flies off to the shooting location, excited for her first major acting role.\n\nMeanwhile, archaeologists excavate an ancient site and discover deactivated military robots from decades past. The government orders them melted down for scrap, but during transport, the robots escape. They haven't lost their combat programming and make their way to an uninhabited island, where they begin reorganizing and planning to take over.\n\nAlisa finishes her filming for the day and wanders away from the set. She discovers the robot encampment and is captured by the machines, who plan to use her as leverage against humanity. The film's director and crew, along with Alisa's parents, launch a rescue mission.\n\nThrough cleverness and courage, Alisa helps disable the robot leader\u2014referred to as the \\\"Rusty General\\\"\u2014and the other machines are deactivated. She returns to finish her film, the experience giving her a new appreciation for the difference between fictional stories and real adventure.",
+      "core": "Island of Rusty General taps into enduring childhood anxieties about technology and adulthood. The robots represent legacy weapons systems\u2014Cold War relics that should have been destroyed but instead persist with their original, aggressive programming intact. The \\\"rusty\\\" descriptor suggests obsolescence, yet these machines remain dangerous.\n\nThe film also explores storytelling itself. Alisa is simultaneously acting in a fairy tale and living one, blurring the boundary between narrative and reality. This meta-quality was common in Soviet children's cinema, which used genre fiction to safely process social fears.\n\nDirector Valentin Khovenko balances tense robot-threat sequences with the warmth of the Alisa Seleznyova stories. The character, created by Kir Bulychov, became a Soviet cultural icon\u2014representing a generation of children who grew up between the atomic age and the computer age, learning to navigate technological worlds both fictional and real.",
+      "created_at": "2026-06-13 07:17:42"
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -18106,5 +18123,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1065
+  "count": 1066
 }
