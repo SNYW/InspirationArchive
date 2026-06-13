@@ -125,6 +125,9 @@
         .filter-btn { background: transparent; border: 1px solid transparent; color: var(--text-muted); padding: 0.5rem 1.2rem; cursor: pointer; font-family: inherit; transition: all 0.2s; border-radius: 20px; font-weight: 600; }
         .filter-btn:hover { color: var(--text); background: var(--border); }
         .filter-btn.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+        .watch-toggle-btn { background: transparent; border: 1px solid var(--border); color: var(--text-muted); padding: 0.5rem 1.2rem; cursor: pointer; font-family: inherit; transition: all 0.2s; border-radius: 20px; font-weight: 600; }
+        .watch-toggle-btn:hover { color: var(--text); border-color: var(--accent); }
+        .watch-toggle-btn.active { background: var(--accent); color: var(--bg); border-color: var(--accent); box-shadow: 0 0 10px var(--accent-dim); }
         
         .tag-filters { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
         .tag-select-group { display: flex; flex-direction: column; gap: 0.25rem; }
@@ -370,7 +373,7 @@
                 </div>
             </div>
             <div style="display: flex; justify-content: center; margin-top: 1rem;">
-                <button id="watchToggle" class="filter-btn" onclick="toggleWatchFilter()" style="display: flex; align-items: center; gap: 0.5rem;">
+                <button id="watchToggle" class="watch-toggle-btn" onclick="toggleWatchFilter()" style="display: flex; align-items: center; gap: 0.5rem;">
                     <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
                     Free to Watch
                 </button>
