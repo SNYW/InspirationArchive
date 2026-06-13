@@ -749,6 +749,23 @@
       "created_at": "2026-02-28 08:21:00"
     },
     {
+      "title": "Adela Has Not Had Supper Yet",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Old\u0159ich Dan\u011bk",
+      "raw_score": 3.75,
+      "total_ratings": 58,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Detective, Science-Fantasy",
+      "topics": "AI, Robots",
+      "image_filename": null,
+      "pitch": "World-famous detective Nick Carter arrives in Prague to find a missing dog, but discovers something far stranger: a carnivorous plant terrorizing the city. His investigation leads to a rogue botanist and a criminal known only as the Gardener, supposedly dead years ago in a swamp.",
+      "truth": "Carter arrives in Prague investigating a missing dog. Reports emerge of a deadly plant attacking citizens. He traces it to Professor V\u011bchet, whose growth serum was stolen. The culprit is the Gardener, believed dead \u2014 hiding in the city, using plants to create a deadly network. Carter must destroy the main specimen before it spreads. The Gardener is consumed by his own creation.",
+      "core": "A playful Czech detective film blending noir with absurdist humor. The carnivorous plant critiques unchecked scientific ambition \u2014 creations that turn against their creators. Czechoslovak New Wave entertainment with subversive undertones.",
+      "created_at": "2026-06-13 19:22:41"
+    },
+    {
       "title": "Aditya 369",
       "year": 1991,
       "medium": "Film",
@@ -20163,5 +20180,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1186
+  "count": 1187
 }
