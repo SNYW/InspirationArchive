@@ -16276,6 +16276,21 @@
       "created_at": "2026-03-06 05:59:11"
     },
     {
+      "title": "Zanox",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "M\u00e1rk Gergely Borb\u00e1s",
+      "raw_score": 3.55,
+      "total_ratings": 14,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time-Travel, Science, Magic",
+      "image_filename": "Zanox_2022.jpg",
+      "pitch": "In contemporary Budapest, a young man named Misi becomes an unwilling subject in a clandestine medical experiment. The twist: the experimental drug grants him the ability to travel through time\u2014but only if he drinks from a specific homemade spirit. This quirky Hungarian sci-fi comedy blends time travel paradoxes with the absurd logic of dream logic, creating a surreal narrative where the rules of causality bend and twist like the smoke from Misi's magical drink. The film plays like a midnight movie fever dream, mixing low-budget practical effects with genuine emotional stakes.",
+      "created_at": "2026-06-13 09:53:21"
+    },
+    {
       "title": "Zardoz",
       "year": 1974,
       "medium": "Film",
@@ -16351,5 +16366,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1090
+  "count": 1091
 }

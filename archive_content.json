@@ -18446,6 +18446,23 @@
       "created_at": "2026-03-06 05:59:11"
     },
     {
+      "title": "Zanox",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "M\u00e1rk Gergely Borb\u00e1s",
+      "raw_score": 3.55,
+      "total_ratings": 14,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time-Travel, Science, Magic",
+      "image_filename": "Zanox_2022.jpg",
+      "pitch": "In contemporary Budapest, a young man named Misi becomes an unwilling subject in a clandestine medical experiment. The twist: the experimental drug grants him the ability to travel through time\u2014but only if he drinks from a specific homemade spirit. This quirky Hungarian sci-fi comedy blends time travel paradoxes with the absurd logic of dream logic, creating a surreal narrative where the rules of causality bend and twist like the smoke from Misi's magical drink. The film plays like a midnight movie fever dream, mixing low-budget practical effects with genuine emotional stakes.",
+      "truth": "Misi is recruited for what he believes is a standard medical trial. After ingesting the experimental compound, he discovers he can hop through time\u2014but each jump requires him to drink from a particular bottle of p\u00e1linka (Hungarian fruit brandy). The film follows Misi as he attempts to fix past mistakes and prevent future tragedies, only to create new paradoxes. Along the way, he encounters alternate versions of himself, lost loved ones, and the mysterious scientists behind the experiment. The climax reveals the true cost of time manipulation: each jump forward demands a corresponding sacrifice in the present.",
+      "core": "Zanox operates in the tradition of Eastern European surrealist cinema, using time travel as a metaphor for generational trauma and the inability to escape the past. The magical requirement of the p\u00e1linka grounds the fantastical element in Hungarian cultural identity\u2014a nod to the region's folk magic traditions. The film questions whether we can truly change our fate, or merely trade one tragedy for another. Its low-budget aesthetic is part of its charm, embracing practical effects over CGI to create something that feels both alien and deeply rooted in Central European sensibilities.",
+      "created_at": "2026-06-13 09:53:21"
+    },
+    {
       "title": "Zardoz",
       "year": 1974,
       "medium": "Film",
@@ -18531,5 +18548,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1090
+  "count": 1091
 }
