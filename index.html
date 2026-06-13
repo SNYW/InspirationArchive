@@ -239,6 +239,7 @@
         
         .share-btn { background: rgba(255,255,255,0.05); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-family: inherit; font-size: 0.8rem; font-weight: 600; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.4rem; white-space: nowrap;}
         .share-btn:hover { background: var(--text); color: var(--bg); border-color: var(--text); }
+        .watch-badge { background: rgba(0,229,255,0.15); border: 1px solid var(--accent); color: var(--accent); padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.7rem; font-weight: 700; white-space: nowrap; }
         
         .hero-tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem; }
         .hero-tag { background: var(--glass-bg); border: 1px solid var(--border); color: var(--text-muted); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; backdrop-filter: blur(4px); }
@@ -959,10 +960,13 @@ async function openModal(mObj) {
                 <h2 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 2.2rem; line-height: 1.2;">${mObj.title}</h2>
                 ${mObj.creator ? `<div style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0;">${mObj.creator}</div>` : ''}
             </div>
-            <button class="share-btn" onclick="window.copyShareLink(this, '${mObj.slug}')" style="margin-top: 0.5rem;">
-                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
-                Share
-            </button>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem;">
+                ${mObj.watch_url ? `<a href="${mObj.watch_url}" target="_blank" rel="noopener noreferrer" class="share-btn" style="background: rgba(0,229,255,0.08); border-color: var(--accent); color: var(--accent); text-decoration: none;"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg> Watch Free</a>` : ''}
+                <button class="share-btn" onclick="window.copyShareLink(this, '${mObj.slug}')">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+                    Share
+                </button>
+            </div>
         </div>
         
         <div style="margin-bottom: 1.5rem;">
