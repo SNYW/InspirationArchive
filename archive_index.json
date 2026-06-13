@@ -9211,6 +9211,21 @@
       "created_at": "2026-03-02 03:30:28"
     },
     {
+      "title": "Teens in the Universe",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Richard Haslov",
+      "raw_score": 3.0,
+      "total_ratings": 28,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "AI, Space Travel, First Contact",
+      "image_filename": "Teens_in_the_Universe_1975.jpg",
+      "pitch": "In 1975, Soviet filmmakers delivered a surprisingly bold meditation on artificial happiness and the cost of perfection. A group of Soviet teenage space cadets \u2014 the \"pioneers\" \u2014 embark on humanity's first interstellar voyage to Alpha Cassiopeia, decades from home. What they find challenges everything they were taught about progress and purpose.\n\nThe film asks a question that resonates across decades: What if someone could eliminate suffering but only by eliminating love, grief, and ambition along with it? This is not a simple cautionary tale about evil machines, but a nuanced exploration of how definitions of \"happiness\" can vary wildly between creator and created.",
+      "created_at": "2026-06-13 00:28:27"
+    },
+    {
       "title": "Teito Monogatari",
       "year": 1985,
       "medium": "Novel",
@@ -15016,5 +15031,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1001
+  "count": 1002
 }
