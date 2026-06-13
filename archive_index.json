@@ -5491,6 +5491,21 @@
       "created_at": "2026-02-28 10:50:24"
     },
     {
+      "title": "Laika",
+      "year": 2017,
+      "medium": "Animated Film",
+      "creator": "Amelie S. Debattista",
+      "raw_score": 2.7,
+      "total_ratings": 12,
+      "origin": "Czechoslovakia",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Space Travel, Isolation",
+      "image_filename": "Laika_2017.jpg",
+      "pitch": "Laika is a 2017 Czech animated sci-fi fantasy that reimagines the true story of the Soviet space dog through a poignant tale of sacrifice and redemption. Set in an alternate history, the film follows Laika\u2014a stray dog captured from the outskirts of a Russian city\u2014who is forcibly trained and sent into space as humanity's first cosmonaut.\n\nThe film blends hand-drawn animation with surrealist imagery to create a haunting meditation on humanity's relationship with animals and our relentless drive to conquer the cosmos. Beautifully crafted in the Czech tradition of poetic animation, Laika explores themes of loyalty, sacrifice, and the cost of progress.",
+      "created_at": "2026-06-13 02:27:40"
+    },
+    {
       "title": "Laokoon",
       "year": 1970,
       "medium": "Short Film",
@@ -15256,5 +15271,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1017
+  "count": 1018
 }
