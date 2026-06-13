@@ -4693,6 +4693,23 @@
       "created_at": "2026-03-05 03:31:59"
     },
     {
+      "title": "Frozen Alive",
+      "year": 1964,
+      "medium": "Film",
+      "creator": "Bernard Knowles",
+      "raw_score": 2.29,
+      "total_ratings": 14,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Cryogenics, Science, Murder Mystery",
+      "image_filename": "frozen_alive_1964.jpg",
+      "pitch": "Frozen Alive (Der Fall X701) is a 1964 British-German science-fiction film directed by Bernard Knowles. The film centers on two scientists, Dr. Frank Overton and Dr. Helen Wieland, working in Berlin on groundbreaking experiments with deep-freezing chimpanzees at -80\u00b0C for months and thawing them unharmed. Their goal is to eventually freeze humans suffering from incurable diseases, suspending them until cures can be found.\n\nWhen Overton decides to become the first human test subject, tragedy strikes \u2014 his wife Joan is found dead, and he becomes the prime suspect in her murder. Before he can clear his name, he is frozen as part of the experiment, and the police must wait an entire year before he can be thawed to answer questions. The film combines hard science-fiction concepts with a murder mystery, exploring whether the suspended human can survive and whether justice can be served when the accused is literally frozen in time.",
+      "truth": "Dr. Frank Overton, an American, and Dr. Helen Wieland, a West German, work at the WHO's Low Temperature Unit in Berlin. They have successfully frozen and thawed chimpanzees after three months at -80\u00b0C with no ill effects. They receive a prestigious award and $25,000 each to continue their work.\n\nOverton is married to Joan, an alcoholic fashion journalist who is jealous of Helen, though nothing inappropriate is occurring between the scientists. One night, Joan goes to confront Helen at the lab, and Frank removes her from the premises. Later, Joan visits Tony Stein, her newspaper reporter lover, but they argue. She takes his pistol and goes to the lab to confront Helen again.\n\nAfter another argument with Frank, Joan says she wishes she were dead. As they struggle over the pistol, it discharges \u2014 but neither is hit. Frank believes the gun is empty and removes the clip. The next morning, sober Joan asks Frank if they can take a romantic holiday. He agrees but must work that night to help Helen finish the project.\n\nAt the lab, Frank tells Helen they must proceed with human experimentation \u2014 on him. Meanwhile, Tony tries to retrieve his pistol from Joan. She refuses a drink, declares she's on the wagon, and dramatically shoots herself in the abdomen, not realizing a live round remained in the chamber. Tony hides the body and leaves with the pistol.\n\nPolice find Joan the next morning and arrest Frank for murder. When they learn he has been frozen, they demand he be thawed immediately. Tony, seeing the news, contacts his uncle, the Vice President of Police, to explain what happened. The message about Joan's accidental death is passed to the police.\n\nFrank is thawed after one year \u2014 alive and well. A year later, Frank and his friendly boss Prof. Hubbard relax outdoors as Hubbard reads an interview with Sir Keith, who takes full credit for the freezing breakthrough. Helen then arrives, and the two walk off together.",
+      "core": "Frozen Alive stands as a remarkably prescient exploration of cryogenics and suspended animation, topics that would become major science-fiction tropes. The film's scientific accuracy was praised by biochemist Mark C. Glassy, who noted the high level of research done by screenwriter Evelyn Frazer.\n\nThe film blends genres effectively, combining hard science-fiction concepts with a murder mystery and domestic drama. The central question \u2014 can a person be frozen, accused of a crime, and then thawed a year later to face justice? \u2014 creates genuine tension despite the low budget.\n\nCritically, the film has been called a \\\"sober but dull science melodrama\\\" and a \\\"soporific thriller,\\\" with the Monthly Film Bulletin noting that \\\"acting and direction are as stodgy as the script.\\\" Yet it remains notable for its early treatment of cryogenic themes and its unusual narrative structure that literally freezes the protagonist during the investigation.\n\nThe ending, where Frank and Helen walk off together while Joan's death is essentially forgotten, has been criticized by some critics as unsettling \u2014 the murdered wife is quickly dismissed in favor of a happy ending. This tonal dissonance, combined with the film's serious treatment of its scientific premise, makes Frozen Alive an interesting artifact of early 1960s sci-fi filmmaking.",
+      "created_at": "2026-06-13 08:42:42"
+    },
+    {
       "title": "Funky Koval",
       "year": 1982,
       "medium": "Graphic Novel",
@@ -18361,5 +18378,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1080
+  "count": 1081
 }
