@@ -5409,6 +5409,22 @@
       "watch_url": null
     },
     {
+      "title": "Goodbye, 20th Century!",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "Darko Mitrevski, Aleksandar Popovski",
+      "raw_score": 3.05,
+      "total_ratings": 21,
+      "origin": "Multinational",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Apocalypse, Time-Travel, Survival",
+      "image_filename": "goodbye_20th_century.jpg",
+      "pitch": "Macedonian sci-fi with three darkly apocalyptic vignettes. In 2019, immortal Kuzman wanders post-apocalyptic ruins. In 1900, a wedding turns horrifying. In 1999, a wake descends into chaos. Raw Balkan trauma processed through sci-fi and absurdist violence.",
+      "created_at": "2026-06-13 23:28:26",
+      "watch_url": null
+    },
+    {
       "title": "Gorky 17",
       "year": 1999,
       "medium": "Video Game",
@@ -19601,5 +19617,5 @@
       "watch_url": null
     }
   ],
-  "count": 1225
+  "count": 1226
 }
