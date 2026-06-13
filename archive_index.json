@@ -14041,6 +14041,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Super Rider V3",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 4.0,
+      "total_ratings": 10,
+      "origin": "Hong-Kong",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Aliens, Rebellion",
+      "image_filename": "super_rider_v3.jpg",
+      "pitch": "The Super Rider V3 is a 1975 Hong Kong superhero film that exemplifies the gritty, low-budget sci-fi action that emerged from the Hong Kong film industry during the 1970s. The film follows Chen Ying-Jie, an ordinary young man whose life is irrevocably changed after witnessing the brutal operations of Desmoron, a powerful evil syndicate threatening to plunge the world into chaos.\n\nWhen Desmoron's forces kill Chen's parents and leave him for dead, he is rescued by the mysterious Super Riders - a secret organization of enhanced warriors who have been fighting in the shadows to protect humanity from alien-inspired threats. Transformed into Super Rider V3, Chen gains extraordinary superhuman abilities that allow him to battle the syndicate's forces. Now equipped with incredible power, he must confront General Scorpion and destroy Desmoron before they can execute their plan for total world destruction.\n\nThe film combines traditional martial arts action with sci-fi elements, featuring the distinctive costume designs and exaggerated heroics that characterized Hong Kong's superhero genre during this era.",
+      "created_at": "2026-06-13 07:25:06"
+    },
+    {
       "title": "The Sword of Rhiannon",
       "year": 1949,
       "medium": "Novel",
@@ -15991,5 +16006,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1066
+  "count": 1067
 }

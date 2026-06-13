@@ -15913,6 +15913,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Super Rider V3",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 4.0,
+      "total_ratings": 10,
+      "origin": "Hong-Kong",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Aliens, Rebellion",
+      "image_filename": "super_rider_v3.jpg",
+      "pitch": "The Super Rider V3 is a 1975 Hong Kong superhero film that exemplifies the gritty, low-budget sci-fi action that emerged from the Hong Kong film industry during the 1970s. The film follows Chen Ying-Jie, an ordinary young man whose life is irrevocably changed after witnessing the brutal operations of Desmoron, a powerful evil syndicate threatening to plunge the world into chaos.\n\nWhen Desmoron's forces kill Chen's parents and leave him for dead, he is rescued by the mysterious Super Riders - a secret organization of enhanced warriors who have been fighting in the shadows to protect humanity from alien-inspired threats. Transformed into Super Rider V3, Chen gains extraordinary superhuman abilities that allow him to battle the syndicate's forces. Now equipped with incredible power, he must confront General Scorpion and destroy Desmoron before they can execute their plan for total world destruction.\n\nThe film combines traditional martial arts action with sci-fi elements, featuring the distinctive costume designs and exaggerated heroics that characterized Hong Kong's superhero genre during this era.",
+      "truth": "The film opens with the evil General Scorpion leading the Desmoron syndicate in a campaign of terror across the world. The syndicate, operating under mysterious alien-inspired leadership, seeks to overthrow world governments and establish their domination.\n\nChen Ying-Jie is an ordinary young man who witnesses the murder of innocent civilians by Desmoron agents. Because he has seen too much, he becomes a target. Desmoron sends assassins who murder his parents and critically wound Chen, leaving him for dead in the wreckage of their home.\n\nChen is discovered by the Super Riders, a secret organization of enhanced warriors who have been fighting in the shadows against Desmoron's rise. They bring him to their hidden headquarters and subject him to an experimental transformation process that turns him into Super Rider V3 - a powerful cybernetic warrior with superhuman strength, speed, and the ability to channel energy attacks.\n\nAs Super Rider V3, Chen begins his campaign against Desmoron, systematically destroying their operations and confronting their agents. He discovers that Desmoron's true leader is an alien entity who has been manipulating human agents to execute a plan for global destruction. Chen must face General Scorpion in an epic final battle, using all his new powers to defeat the syndicate and save humanity from annihilation.",
+      "core": "The Super Rider V3 represents an interesting artifact of Hong Kong's 1970s superhero film tradition, a genre that blended local martial arts cinema with imported superhero concepts. The film explores themes of transformation and redemption - Chen transforms from a helpless victim into a powerful hero, suggesting that ordinary individuals can become extraordinary through determination and technological augmentation.\n\nThe film reflects Cold War anxieties through its depiction of a shadowy organization (Desmoron) threatening world order, with the Super Riders representing a covert resistance. The alien-inspired leadership of the villainous syndicate adds a science fiction dimension typical of 1970s sci-fi action films.\n\nLike many obscure Hong Kong genre films from this era, The Super Rider V3 remains largely forgotten outside of film history circles. It represents a unique moment when Hong Kong filmmakers were experimenting with imported genres, adapting superhero and science fiction concepts for local audiences through creative, low-budget productions.",
+      "created_at": "2026-06-13 07:25:06"
+    },
+    {
       "title": "The Sword of Rhiannon",
       "year": 1949,
       "medium": "Novel",
@@ -18123,5 +18140,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1066
+  "count": 1067
 }
