@@ -7464,6 +7464,23 @@
       "created_at": "2026-03-02 04:02:39"
     },
     {
+      "title": "Lipton Cockton in the Shadows of Sodoma",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Jari Halonen",
+      "raw_score": 2.7,
+      "total_ratings": 10,
+      "origin": "Finland",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Megacorps, Surveillance, Identity",
+      "image_filename": "Lipton_Cockton_in_the_Shadows_of_Sodoma_1995.jpg",
+      "pitch": "A neo-noir dystopia set in 2037 Europe. Private investigator Lipton Cockton investigates explosion deaths in Vladivostok, uncovering a mega-corporation's dark experiments while confronting his own identity. Inspired by Blade Runner and Brazil.",
+      "truth": "In 2037, Europe is a failing federal state. People explode in the Ugrian district of Vladivostok. PI Lipton Cockton is hired to investigate, leading him to LTD-Productions and personal revelations about his mother and identity.",
+      "core": "Critique of individualism in a corporate surveillance state. Uses the noir detective archetype to explore identity instability. Modest budget compensated through theatrical production design.",
+      "created_at": "2026-06-13 18:38:44"
+    },
+    {
       "title": "Liquid Sky",
       "year": 1982,
       "medium": "Film",
@@ -20027,5 +20044,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1178
+  "count": 1179
 }
