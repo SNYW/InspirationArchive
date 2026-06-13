@@ -6206,6 +6206,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Kenny Begins",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Carl \u00c5strand",
+      "raw_score": 2.97,
+      "total_ratings": 31,
+      "origin": "Sweden",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Superpowers",
+      "image_filename": "Kenny_Begins_2009.jpg",
+      "pitch": "Kenny Begins is a 2009 Swedish comedy science fiction film that serves as a prequel to the 1997 TV series Kenny Starfighter. The film follows Kenny Starfighter, an incompetent student at the Hero Academy of the galaxy, who crash-lands on Earth after botching a graduation attempt. There he teams up with Pontus, a bullied teenager who has stumbled upon a mysterious power crystal that has granted him superhuman abilities.\n\nThe film parodies superhero tropes while delivering genuine adventure. With a budget of $6.8 million, it holds the record for most special effects in a Swedish film. The comedy mixes slapstick with genuine heart, as Kenny must protect Pontus from Rutger Oversmart, the most intelligent being in the universe who seeks to steal the crystal's power.",
+      "truth": "Kenny Starfighter is the worst student the Galactic Hero Academy has ever seen. His parents, frustrated by his endless failures, give him an ultimatum: graduate or become a hairdresser at the family salon. Desperate for graduation points, Kenny attempts a dangerous maneuver but crashes by mistake onto Earth.\n\nOn Earth, Kenny meets Pontus, a limping fifteen-year-old with bad eyesight who has been bullied and overlooked his whole life. Pontus accidentally found a mysterious luminous crystal that gave him superhuman strength, the power to fly, and super speed. Now he finally has the chance to be noticed by Miranda, the popular girl at school.\n\nMeanwhile, Rutger Oversmart, the most intelligent being in the universe, learns that the crystal's power has been absorbed by Pontus. He sends three bounty hunters called Earth, Wind and Fire to extract the power from Pontus. Kenny, despite his incompetence, must protect Pontus from these deadly assassins while trying to earn enough points to graduate.\n\nThe film culminates in Kenny and Pontus defeating the bounty hunters and escaping Rutger's schemes, though Kenny still hasn't graduated. The post-credits scene hints at more adventures to come.",
+      "core": "Kenny Begins works as both parody and earnest adventure. It satirizes the superhero genre by showing what happens when the hero is completely unqualified for the job, while still delivering exciting action sequences and genuine emotional stakes.\n\nThe film explores themes of inadequacy and belonging. Both Kenny and Pontus are outsiders seeking purpose\u2014Kenny from his failure to meet expectations, Pontus from his social isolation. The power crystal represents a chance for both to redefine themselves.\n\nBill Skarsg\u00e5rd's early performance as Pontus showcases the film's ability to blend comedy with genuine pathos. The Swedish production values are impressive, with extensive special effects that rival larger international productions.",
+      "created_at": "2026-06-13 08:27:35"
+    },
+    {
       "title": "Key the Metal Idol",
       "year": 1994,
       "medium": "OVA",
@@ -18327,5 +18344,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1078
+  "count": 1079
 }
