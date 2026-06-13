@@ -375,6 +375,23 @@
       "created_at": "2026-03-19 05:24:17"
     },
     {
+      "title": "A Cosmic Christmas",
+      "year": 1977,
+      "medium": "Animated Film",
+      "creator": "Clive A. Smith",
+      "raw_score": 2.91,
+      "total_ratings": 11,
+      "origin": "Canada",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Christmas, Family, Children, First Contact",
+      "image_filename": "a_cosmic_christmas.jpg",
+      "pitch": "Three alien visitors arrive seeking the true meaning of Christmas. Peter, a young boy, and his goose Lucy help them discover that family, compassion, and forgiveness matter most. Nelvana's first production.",
+      "truth": "Aliens Amalthor, Lexicon, and Plutox seek Christmas's meaning. After finding only commercialism in town, Peter brings them home. When bully Marvin steals Lucy and both boys fall through ice, the aliens break their vow to save them. Seeing Peter's grandmother offer forgiveness, they understand: compassion is the meaning.",
+      "core": "Nelvana's inaugural production\u2014the first Canadian animated TV special to receive mainstream distribution. Took 2.5 years to develop, involved 24 artists and 30,000-40,000 drawings, and was submitted for the Best Animated Short Academy Award. Helped establish Nelvana as an international studio.",
+      "created_at": "2026-06-13 17:58:19"
+    },
+    {
       "title": "A Fire in the Sky",
       "year": 1978,
       "medium": "Film",
@@ -19925,5 +19942,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1172
+  "count": 1173
 }
