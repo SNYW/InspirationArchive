@@ -15675,6 +15675,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Mouse on the Moon",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "Richard Lester",
+      "raw_score": 3.14,
+      "total_ratings": 31,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Satire",
+      "topics": "Space Travel, Politics, Cold War",
+      "image_filename": "The_Mouse_on_the_Moon_1963.jpg",
+      "pitch": "The tiny Duchy of Grand Fenwick needs money \u2014 its wine is exploding. PM Mountjoy asks the US for space funding, planning to use it for plumbing. The Americans and Soviets shower the microstate with cash and rockets. Grand Fenwick's scientist discovers the exploding wine makes rocket fuel \u2014 and beats the superpowers to the Moon.",
+      "truth": "Grand Fenwick's wine export explodes. PM Mountjoy asks the US for space money \u2014 they send double. The Soviets send a rocket. Scientist Kokintz discovers exploding wine is rocket fuel. Vincent and Kokintz launch, beat the US and Soviets to the Moon, and rescue their stranded astronauts.",
+      "core": "British satire at its gentlest: the space race was absurd. Grand Fenwick beats the superpowers through ingenuity. Made on leftover sets, the film has charming ramshackle quality. Its optimism is sincere: sincerity beats propaganda.",
+      "created_at": "2026-06-13 14:27:46"
+    },
+    {
       "title": "The Mysterious Castle in the Carpathians",
       "year": 1981,
       "medium": "Film",
@@ -19296,5 +19313,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1135
+  "count": 1136
 }
