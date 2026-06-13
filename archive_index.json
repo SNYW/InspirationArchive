@@ -9376,6 +9376,21 @@
       "created_at": "2026-03-02 23:16:32"
     },
     {
+      "title": "Technotise: Edit and I",
+      "year": 2009,
+      "medium": "Animated Film",
+      "creator": "Milan Konovic",
+      "raw_score": 6.89,
+      "total_ratings": 65,
+      "origin": "Serbia",
+      "mood": "Cerebral",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "AI, Memory, Megacorps, Technology",
+      "image_filename": "technotise_edit_and_i_2009.jpg",
+      "pitch": "In a dystopian Belgrade of 2074, one animated feature film dares to ask: what happens when memory becomes evidence? Edit Stefanovi\u0107, a struggling psychology student, makes a desperate choice\u2014installing an illegal military chip that records everything she sees\u2014in hopes of finally passing her exams. But the chip doesn't just record; it stores, analyzes, and perhaps remembers too much.\n\nThis Serbian animated sci-fi film stands as a rare find\u2014one of the first feature-length animated productions from Serbia, blending Western animation aesthetics with Eastern European anxieties about surveillance, corporate power, and the price of knowledge. The film's cerebral tone rewards patient viewers who appreciate philosophical questions over action spectacle.",
+      "created_at": "2026-06-13 03:18:30"
+    },
+    {
       "title": "Teenagent",
       "year": 1995,
       "medium": "Video Game",
@@ -15376,5 +15391,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1025
+  "count": 1026
 }

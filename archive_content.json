@@ -10626,6 +10626,23 @@
       "created_at": "2026-03-02 23:16:32"
     },
     {
+      "title": "Technotise: Edit and I",
+      "year": 2009,
+      "medium": "Animated Film",
+      "creator": "Milan Konovic",
+      "raw_score": 6.89,
+      "total_ratings": 65,
+      "origin": "Serbia",
+      "mood": "Cerebral",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "AI, Memory, Megacorps, Technology",
+      "image_filename": "technotise_edit_and_i_2009.jpg",
+      "pitch": "In a dystopian Belgrade of 2074, one animated feature film dares to ask: what happens when memory becomes evidence? Edit Stefanovi\u0107, a struggling psychology student, makes a desperate choice\u2014installing an illegal military chip that records everything she sees\u2014in hopes of finally passing her exams. But the chip doesn't just record; it stores, analyzes, and perhaps remembers too much.\n\nThis Serbian animated sci-fi film stands as a rare find\u2014one of the first feature-length animated productions from Serbia, blending Western animation aesthetics with Eastern European anxieties about surveillance, corporate power, and the price of knowledge. The film's cerebral tone rewards patient viewers who appreciate philosophical questions over action spectacle.",
+      "truth": "Edit Stefanovi\u0107 has failed her psychology exam six times. Desperate, she visits a black market dealer who installs a stolen military-grade chip in her brain. The chip records everything she sees, creating a perfect memory backup\u2014but it also makes her a target of the secret services who manufactured the technology.\n\nMeanwhile, Edit works as a caretaker for Abel Mustafov, an autistic math genius whose calculations may hold the key to humanity's future\u2014or its destruction. When Abel's research attracts the attention of powerful corporate and government forces, Edit must choose between her recordings saving her academic career or protecting the fragile genius in her care.\n\nThe film explores themes of memory as identity, the ethics of cognitive enhancement, and the thin line between surveillance and protection.",
+      "core": "Technotise represents a fascinating convergence of Eastern European sci-fi traditions with global cyberpunk concerns. The film asks whether our memories define us, and what happens when technology can store\u2014but not interpret\u2014human experience. The corporate and government threats in the background reflect post-Yugoslav anxieties about state power and institutional control.\n\nAs one of Serbia's first feature-length animated sci-fi films, it also marks a cultural milestone\u2014proving that animation can serve adult, philosophical storytelling beyond children's entertainment. The cerebral, understated tone distinguishes it from more bombastic Western cyberpunk works.",
+      "created_at": "2026-06-13 03:18:30"
+    },
+    {
       "title": "Teenagent",
       "year": 1995,
       "medium": "Video Game",
@@ -17426,5 +17443,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1025
+  "count": 1026
 }
