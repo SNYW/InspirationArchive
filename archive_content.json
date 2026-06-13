@@ -3979,6 +3979,23 @@
       "created_at": "2026-03-03 00:00:16"
     },
     {
+      "title": "Engineering Red",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "Andrey Yi",
+      "raw_score": 3.15,
+      "total_ratings": 12,
+      "origin": "Russia",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Medicine, Transhumanism",
+      "image_filename": "Engineering_Red_1993.jpg",
+      "pitch": "A surrealist Russian experimental film from 1993 that intertwines documentary footage about medical experiments with hallucinatory fictional sequences inspired by Thomas Mann's \\\"The Magic Mountain.\\\" The film explores the dark Soviet-era obsession with creating artificial humans, combining cadaver blood transfusions, conjoined twin separations, and pig heart transplants with psychedelic imagery of a red room and a girl in red silk. Two or three people reportedly vomited while watching it \u2014 director Andrey Yi considered this a mark of success.",
+      "truth": "The film is divided into three chapters with two parallel storylines \u2014 documentary and fiction. The fictional portion features a female voice-over reading from Thomas Mann's \\\"The Magic Mountain,\\\" in which a deceased soldier's consciousness remains in his dead body, reflecting on Christ and the Apostles before falling prey to necrophilic children. The documentary portion tells real medical stories: pig heart transplants, cadaveric blood transfusions, and the separation of conjoined twins. The script was based on Mann's novel and the Soviet-era idea of creating artificial people in the 1940s-1950s. The film was produced by Sfera and shown at the Moscow festival alongside the works of world-class masters.",
+      "core": "Engineering Red is a meditation on the boundaries between life and death, and the hubristic Soviet pursuit of playing God through science. The film critiques the totalitarian impulse to engineer humanity by juxtaposing cold medical reality with surreal, almost hallucinatory imagery. It's a uniquely Russian experimental work that emerged from the chaotic post-Soviet era \u2014 not conventional science fiction but a darkly poetic meditation on the ethics of transcending human limits. The use of Thomas Mann as source material grounds it in European high culture while the content pushes into disturbing territory that few sci-fi films dare to explore.",
+      "created_at": "2026-06-13 07:43:22"
+    },
+    {
       "title": "Eolomea",
       "year": 1972,
       "medium": "Film",
@@ -18174,5 +18191,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1069
+  "count": 1070
 }

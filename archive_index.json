@@ -3511,6 +3511,21 @@
       "created_at": "2026-03-03 00:00:16"
     },
     {
+      "title": "Engineering Red",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "Andrey Yi",
+      "raw_score": 3.15,
+      "total_ratings": 12,
+      "origin": "Russia",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Medicine, Transhumanism",
+      "image_filename": "Engineering_Red_1993.jpg",
+      "pitch": "A surrealist Russian experimental film from 1993 that intertwines documentary footage about medical experiments with hallucinatory fictional sequences inspired by Thomas Mann's \\\"The Magic Mountain.\\\" The film explores the dark Soviet-era obsession with creating artificial humans, combining cadaver blood transfusions, conjoined twin separations, and pig heart transplants with psychedelic imagery of a red room and a girl in red silk. Two or three people reportedly vomited while watching it \u2014 director Andrey Yi considered this a mark of success.",
+      "created_at": "2026-06-13 07:43:22"
+    },
+    {
       "title": "Eolomea",
       "year": 1972,
       "medium": "Film",
@@ -16036,5 +16051,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1069
+  "count": 1070
 }
