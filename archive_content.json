@@ -11646,6 +11646,23 @@
       "created_at": "2026-03-01 18:07:05"
     },
     {
+      "title": "Space Truckers",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Stuart Gordon",
+      "raw_score": 2.73,
+      "total_ratings": 195,
+      "origin": "Ireland",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Megacorps, Robots, Space Travel, Corporate Power",
+      "image_filename": "Space_Truckers_1996.jpg",
+      "pitch": "Space Truckers (1996): Dennis Hopper stars as John Canyon, an independent space trucker forced to transport suspicious cargo \u2014 which turns out to be killer cyborgs built by a corrupt megacorp. A gleefully absurd B-movie about corporate greed following humanity to the stars.",
+      "truth": "Trucker John Canyon takes a cargo to Earth, gets chased by pirates, and discovers the cargo is Dr. Nabel's army of killer cyborgs. After escaping the exploding pirate ship, he's offered hush money by Saggs \u2014 now President \u2014 whose bomb kills him instead. John and crew escape to space.",
+      "core": "Stuart Gordon's scathing if absurdist critique of corporate power wrapped in B-movie space opera. Rejecting 2001's sterile vision, he made space garish and corporate. Flopped financially (.6M vs 5M budget) but gained cult status for its unpretentious fun and military-industrial critique.",
+      "created_at": "2026-06-13 20:37:35"
+    },
+    {
       "title": "Space: 1999",
       "year": 1975,
       "medium": "TV Series",
@@ -20384,5 +20401,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1199
+  "count": 1200
 }
