@@ -11416,6 +11416,21 @@
       "created_at": "2026-06-12 16:22:24"
     },
     {
+      "title": "The End of Eternity",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Andrei Yermash",
+      "raw_score": 2.97,
+      "total_ratings": 19,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Time-Travel",
+      "topics": "Time Travel, AI, Rebellion",
+      "image_filename": "The_End_of_Eternity_1987.jpg",
+      "pitch": "In the 27th century, a secret organization called Eternity emerges outside the flow of time, dedicated to shaping human history. Through Time Capsules, their agents\u2014called Eternals\u2014can enter any century and subtly alter events to eradicate wars, customs, and weapons before they threaten civilization. Andrew Harlan is recruited as a child and trained as an Observer, later becoming a Technician responsible for carrying out the Computers' plans.\n\nBut everything changes when Harlan is sent to the 48th century and falls in love with No\u00ffs, a mortal woman\u2014a relationship strictly forbidden by Eternity's rules. As he risks everything to protect her, he discovers that the organization he devoted his life to may be the greatest threat to human freedom of all.\n\nBased on Isaac Asimov's 1955 novel, this Soviet production brings classic hard SF to the screen with philosophical depth and visual ambition.",
+      "created_at": "2026-06-13 09:58:17"
+    },
+    {
       "title": "The End of the World",
       "year": 1916,
       "medium": "Film",
@@ -16366,5 +16381,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1091
+  "count": 1092
 }
