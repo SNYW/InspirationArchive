@@ -12601,6 +12601,21 @@
       "created_at": "2026-06-13 02:07:31"
     },
     {
+      "title": "The Man Who Thought Life",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Jens Ravn",
+      "raw_score": 3.26,
+      "total_ratings": 21,
+      "origin": "Denmark",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Identity",
+      "image_filename": "The_Man_Who_Thought_Life_1969.jpg",
+      "pitch": "A mysterious man named Steinmetz discovers he has the ability to create things and beings purely through thought. In Jens Ravn's 1969 Danish sci-fi thriller, the implications of this power spiral into existential territory when Steinmetz realizes his creations are unstable\u2014they invariably vanish. Desperate for permanence, he seeks the help of a famous brain surgeon, only to have his situation grow more complex when a doppelg\u00e4nger replaces the surgeon against his will.\n\nBased on Valdemar Holst's 1938 novel and entered into the Cannes Film Festival, The Man Who Thought Life is a cerebral meditation on creation, ownership, and the nature of reality itself. The film's modest 21 votes on TMDB make it a genuinely obscure find\u2014a niche entry in the Danish science fiction canon.",
+      "created_at": "2026-06-13 06:24:06"
+    },
+    {
       "title": "The Man from Beyond",
       "year": 1922,
       "medium": "Film",
@@ -15826,5 +15841,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1055
+  "count": 1056
 }

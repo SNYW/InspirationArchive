@@ -14281,6 +14281,23 @@
       "created_at": "2026-06-13 02:07:31"
     },
     {
+      "title": "The Man Who Thought Life",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Jens Ravn",
+      "raw_score": 3.26,
+      "total_ratings": 21,
+      "origin": "Denmark",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Identity",
+      "image_filename": "The_Man_Who_Thought_Life_1969.jpg",
+      "pitch": "A mysterious man named Steinmetz discovers he has the ability to create things and beings purely through thought. In Jens Ravn's 1969 Danish sci-fi thriller, the implications of this power spiral into existential territory when Steinmetz realizes his creations are unstable\u2014they invariably vanish. Desperate for permanence, he seeks the help of a famous brain surgeon, only to have his situation grow more complex when a doppelg\u00e4nger replaces the surgeon against his will.\n\nBased on Valdemar Holst's 1938 novel and entered into the Cannes Film Festival, The Man Who Thought Life is a cerebral meditation on creation, ownership, and the nature of reality itself. The film's modest 21 votes on TMDB make it a genuinely obscure find\u2014a niche entry in the Danish science fiction canon.",
+      "truth": "The mysterious Mr. Steinmetz has acquired the ability to create things and beings by will alone. He can imagine something into existence\u2014a person, an object\u2014and it appears before him. However, after a time, his creations invariably disappear, leaving him increasingly desperate.\n\nSteinmetz approaches the renowned brain surgeon Max Holst, hoping the doctor can help him understand why his creations are unstable and how he might make them permanent. When Max refuses to help, Steinmetz takes a drastic step: he brings his own doppelg\u00e4nger into being to replace the surgeon\u2014to become Max Holst and solve the problem from within.\n\nThe doppelg\u00e4nger assumes Max Holst's life, but the situation becomes increasingly complicated as questions of identity, ownership, and the ethics of creation spin out of control. What happens when a created being has a will of its own? Who is responsible for creations that vanish? The film explores these questions through its taut thriller pacing.",
+      "core": "The Man Who Thought Life asks uncomfortable questions about creativity and mortality. If you can create life by thought, can you also uncreate it? The film's central tragedy is that Steinmetz's creations are inherently temporary\u2014they exist, then they don't. This is a meditation on impermanence disguised as a sci-fi thriller.\n\nThe doppelg\u00e4nger subplot adds another layer: if you create a replacement for someone, is the replacement real? Does it have its own rights, its own identity? The 1969 setting gives the film a Cold War backdrop\u2014the anxiety of created realities and false identities resonated in a world watching East Germany construct elaborate illusions of the West.\n\nDanish cinema has always favored psychological depth over spectacle, and this film is no exception. The 21 votes on TMDB reflect its obscurity\u2014it's never achieved the cult status of similar 1960s European sci-fi. For the archive, it represents a small, strange corner of Danish genre filmmaking that merits rediscovery.",
+      "created_at": "2026-06-13 06:24:06"
+    },
+    {
       "title": "The Man from Beyond",
       "year": 1922,
       "medium": "Film",
@@ -17936,5 +17953,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1055
+  "count": 1056
 }
