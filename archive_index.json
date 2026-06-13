@@ -14641,6 +14641,21 @@
       "created_at": "2026-03-03 19:32:28"
     },
     {
+      "title": "The Visitors",
+      "year": 1983,
+      "medium": "TV Series",
+      "creator": "Jaroslav Weigmann",
+      "raw_score": 3.75,
+      "total_ratings": 23,
+      "origin": "Czechoslovakia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time Travel, Exploration, Discovery",
+      "image_filename": "The_Visitors_1983.jpg",
+      "pitch": "In the year 2484, Earth faces annihilation from a rogue comet that could alter its orbit forever. The solution lies hidden in history \u2014 Adam Bernau, a child prodigy of the 20th century, once discovered an ingenious formula capable of moving entire continents and even worlds. But the exercise book containing his discovery was lost in a fire, and the world had forgotten his work. Now, time travelers must journey back to retrieve the formula before it's too late. This Czech children's series combines adventure, comedy, and scientific imagination in the tradition of Central European speculative fiction.",
+      "created_at": "2026-06-13 09:03:51"
+    },
+    {
       "title": "The Voice from the Sky",
       "year": 1930,
       "medium": "Serial Film",
@@ -16246,5 +16261,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1083
+  "count": 1084
 }
