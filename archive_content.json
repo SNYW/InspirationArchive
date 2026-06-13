@@ -6835,6 +6835,23 @@
       "created_at": "2026-03-06 18:45:18"
     },
     {
+      "title": "Man Divided",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.15,
+      "total_ratings": 20,
+      "origin": "Denmark",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia,Time-Travel",
+      "topics": "Time Travel,Climate,DNA,Memory",
+      "image_filename": "Man_Divided_2017.jpg",
+      "pitch": "In 2095, the world has been devastated by ecological collapse\u2014oceans have risen and all natural freshwater has vanished. Scientist Fang Rung undergoes molecular fission, splitting himself into two consciousnesses: his present self and his past self, code-named Gordon Thomas, who is sent back to 2017. Gordon must find scientist Mona Lindkvist, whose groundbreaking research was lost before it could save the world. When Fang Rung loses contact with Gordon, the clock begins to tick.",
+      "truth": "The film opens in 2095, showing a world ravaged by climate disaster. Freshwater is gone, and humanity teeters on the edge of extinction. Fang Rung volunteers for Project QEDA (Quantum Entangled Duplicate Animation), an experimental procedure that splits his molecular structure, sending his consciousness backward in time to 2017. His mission: locate Dr. Mona Lindkvist, whose research on sustainable water synthesis was suppressed decades earlier.\n\nGordon materializes in modern Copenhagen and begins searching for Mona, who has become a recluse after her work was buried by corporate interests. As he searches, he experiences fragmented memories from his future life\u2014memories that don't match his current reality. Meanwhile, in 2095, Fang Rung's body lies in a medical chamber, monitored by the last remnants of humanity.\n\nThe two timelines slowly converge as Gordon gets closer to Mona. She reluctantly agrees to share her research, but time is running out. The connection between Gordon and Fang Rung grows unstable. In the climax, Gordon must make a choice: return to the future with the research, or stay in the past to prevent the disaster from ever happening.\n\nThe film ends ambiguously\u2014suggesting that the timeline may have shifted, but the true fate of both men remains uncertain.",
+      "core": "Man Divided explores themes of memory, identity, and ecological responsibility through the lens of time travel. The film's central metaphor\u2014splitting oneself to save the future\u2014reflects contemporary anxieties about climate change and whether humanity can sacrifice its present comforts for future survival. The Danish setting grounds the speculative premise in a specific cultural context, using Scandinavian environmental politics as a microcosm for global inaction.\n\nThe film's visual palette shifts between the gray, waterlogged future and the bright, seemingly innocent present, creating a stark contrast that emphasizes the tragedy of what was lost. The time travel mechanism is treated not as a convenience but as a burden\u2014Gordon carries the weight of knowing the catastrophic future while unable to convince anyone in the past to act.\n\nAt its core, the film asks whether knowledge of impending disaster obligates one to sacrifice their own present for an uncertain future\u2014a question that resonates with contemporary climate debates.",
+      "created_at": "2026-06-13 06:07:49"
+    },
+    {
       "title": "Man Facing Southeast",
       "year": 1986,
       "medium": "Film",
@@ -17885,5 +17902,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1052
+  "count": 1053
 }

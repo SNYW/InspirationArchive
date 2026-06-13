@@ -6031,6 +6031,21 @@
       "created_at": "2026-03-06 18:45:18"
     },
     {
+      "title": "Man Divided",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.15,
+      "total_ratings": 20,
+      "origin": "Denmark",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia,Time-Travel",
+      "topics": "Time Travel,Climate,DNA,Memory",
+      "image_filename": "Man_Divided_2017.jpg",
+      "pitch": "In 2095, the world has been devastated by ecological collapse\u2014oceans have risen and all natural freshwater has vanished. Scientist Fang Rung undergoes molecular fission, splitting himself into two consciousnesses: his present self and his past self, code-named Gordon Thomas, who is sent back to 2017. Gordon must find scientist Mona Lindkvist, whose groundbreaking research was lost before it could save the world. When Fang Rung loses contact with Gordon, the clock begins to tick.",
+      "created_at": "2026-06-13 06:07:49"
+    },
+    {
       "title": "Man Facing Southeast",
       "year": 1986,
       "medium": "Film",
@@ -15781,5 +15796,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1052
+  "count": 1053
 }
