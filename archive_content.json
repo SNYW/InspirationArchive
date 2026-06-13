@@ -15352,6 +15352,23 @@
       "created_at": "2026-03-02 18:45:58"
     },
     {
+      "title": "The Time to Die",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Andr\u00e9 Farwagi",
+      "raw_score": 2.3,
+      "total_ratings": 11,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel, Science-Fiction",
+      "topics": "Time-Travel, Fate, Prediction",
+      "image_filename": "The_Time_to_Die_1970.jpg",
+      "pitch": "A mysterious girl with total amnesia is found injured after riding her horse into a tree. Millionaire Max Topfer rescues her and discovers she possesses a video showing him being shot by a stranger. Both the girl and the tape appear to have come from the future. With his bodyguard Helmut, Max tries to unravel why a total stranger wants him dead, while the girl may hold the key to preventing her own fate.",
+      "truth": "The movie opens with a mysterious girl riding frantically through a forest on horseback. She crashes into a tree and is found injured by millionaire Max Topfer. When Max helps her, he discovers she's carrying a video tape. When watched, the tape shows Max being shot by a man he doesn't recognize. Both the girl, who has complete amnesia, and the tape seem to originate from the future. Max and his bodyguard Helmut investigate, searching for answers about who wants Max dead and why. They discover the girl may be connected to a secret time-travel experiment. The film explores whether fate can be changed or whether the future is inevitably predetermined. The ending leaves ambiguous whether the characters successfully alter their destined outcome.",
+      "core": "This is a lesser-known French entry in the time-travel paranoia genre, predating similar themes explored in Hollywood films like Twelve Monkeys by decades. The film asks philosophical questions about predestination and free will, using the noir thriller framework to examine whether knowledge of one's fate can alter its outcome. While modest in production, it represents a thoughtful European contribution to early 1970s science fiction cinema, exploring themes of temporal destiny that would become staples of the genre.",
+      "created_at": "2026-06-13 02:19:00"
+    },
+    {
       "title": "The Tower",
       "year": 1987,
       "medium": "Graphic Novel",
@@ -17256,5 +17273,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1015
+  "count": 1016
 }

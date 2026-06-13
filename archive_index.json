@@ -13546,6 +13546,21 @@
       "created_at": "2026-03-02 18:45:58"
     },
     {
+      "title": "The Time to Die",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Andr\u00e9 Farwagi",
+      "raw_score": 2.3,
+      "total_ratings": 11,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel, Science-Fiction",
+      "topics": "Time-Travel, Fate, Prediction",
+      "image_filename": "The_Time_to_Die_1970.jpg",
+      "pitch": "A mysterious girl with total amnesia is found injured after riding her horse into a tree. Millionaire Max Topfer rescues her and discovers she possesses a video showing him being shot by a stranger. Both the girl and the tape appear to have come from the future. With his bodyguard Helmut, Max tries to unravel why a total stranger wants him dead, while the girl may hold the key to preventing her own fate.",
+      "created_at": "2026-06-13 02:19:00"
+    },
+    {
       "title": "The Tower",
       "year": 1987,
       "medium": "Graphic Novel",
@@ -15226,5 +15241,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1015
+  "count": 1016
 }
