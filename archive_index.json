@@ -6166,6 +6166,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Kilink U\u00e7an Adam'a Kar\u015f\u0131",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Turkish",
+      "raw_score": 4.3,
+      "total_ratings": 10,
+      "origin": "Turkey",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Crime, Mad Scientist",
+      "image_filename": "kilink_ucan_adama_karsi.jpg",
+      "pitch": "A 1967 Turkish superhero film featuring Kilink battling the Flying Man, who has captured his fianc\u00e9 and her father. The villain plans to use a powerful cannon against the government. This low-budget Turkish exploitation film continues the Kilink saga.",
+      "created_at": "2026-06-13 21:49:05"
+    },
+    {
       "title": "Killing in Istanbul",
       "year": 1967,
       "medium": "Film",
@@ -18136,5 +18151,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1209
+  "count": 1210
 }
