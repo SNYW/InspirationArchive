@@ -15777,6 +15777,23 @@
       "created_at": "2026-03-05 18:28:15"
     },
     {
+      "title": "The Max Headroom Show",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "George Stone, Rocky Morton, Annabel Jankel",
+      "raw_score": 3.75,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Technology, Media",
+      "image_filename": "max_headroom_show.jpg",
+      "pitch": "The Max Headroom Show was a British TV series (1985-1987) featuring one of television's first computer-generated hosts. Actor Matt Frewer portrayed Max Headroom, a glitchy digital entity with a stuttering delivery who hosted a music video programme on Channel 4.",
+      "truth": "The show debuted in April 1985 with 13 episodes featuring early 1980s music videos. Max interrupted videos with eccentric commentary. A Christmas special aired in 1986. The third series (1987) added studio audience quiz segments before cancellation. A prequel movie established Max's backstory.",
+      "core": "The Max Headroom Show represents a pivotal cyberpunk moment in television. Max Headroom became a cultural icon, later adapted into an American sci-fi series. The show predates modern virtual influencers by decades and documented early 1980s European electronic music culture.",
+      "created_at": "2026-06-13 16:33:23"
+    },
+    {
       "title": "The Mechanical Man",
       "year": 1921,
       "medium": "Film",
@@ -19670,5 +19687,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1157
+  "count": 1158
 }
