@@ -5671,6 +5671,21 @@
       "created_at": "2026-06-13 07:17:42"
     },
     {
+      "title": "It Happened Here",
+      "year": 1964,
+      "medium": "Film",
+      "creator": "Kevin Brownlow, Andrew Mollo",
+      "raw_score": 3.43,
+      "total_ratings": 35,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Alternate History",
+      "topics": "Occupation, Resistance, Collaboration, Fascism, War",
+      "image_filename": "It_Happened_Here_1964.jpg",
+      "pitch": "What if the Nazis had invaded Britain successfully? Made by two teenagers over eight years, this black-and-white indie follows an Irish nurse navigating life under Nazi occupation.",
+      "created_at": "2026-06-13 16:47:50"
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -17401,5 +17416,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1160
+  "count": 1161
 }
