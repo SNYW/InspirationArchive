@@ -13486,6 +13486,21 @@
       "created_at": "2026-03-06 23:27:31"
     },
     {
+      "title": "The Nerd and the Supergirl",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.05,
+      "total_ratings": 10,
+      "origin": "Russia",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Robots, Love",
+      "image_filename": "The_Nerd_and_the_Supergirl_2022.jpg",
+      "pitch": "A shy young man who struggles to communicate with girls decides to take an unusual date to his high school reunion \u2014 an android robot he built himself. What could possibly go wrong? This charming Russian sci-fi comedy explores the awkwardness of social anxiety through a most unusual wingman.",
+      "created_at": "2026-06-13 10:45:00"
+    },
+    {
       "title": "The New Adventures of Wisely",
       "year": 1998,
       "medium": "TV Series",
@@ -16501,5 +16516,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1100
+  "count": 1101
 }
