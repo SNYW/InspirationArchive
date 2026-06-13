@@ -5339,6 +5339,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Gamera vs. Barugon",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Shigeo Tanaka",
+      "raw_score": 3.2,
+      "total_ratings": 93,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Monsters, Greed, Betrayal",
+      "image_filename": "Gamera_vs_Barugon_1966.jpg",
+      "pitch": "1966 Japanese kaiju sequel where Gamera battles Barugon, a monster hatched from a stolen opal. Features spectacular creature battles and a human drama of greed and betrayal.",
+      "truth": "Onodera betrays his companions to steal a hidden opal in New Guinea. The opal is an egg that hatches into Barugon, which attacks Osaka. Onodera murders his employer, then is devoured by Barugon. Gamera battles but is frozen until mirrors reflect the monster's ray back at it. Gamera drowns Barugon in Lake Biwa.",
+      "core": "A morality tale about greed \u2014 the betrayer consumed by the monster his greed created. Treats kaiju material with unexpected depth, balancing creature spectacle with human drama.",
+      "created_at": "2026-06-13 21:13:33"
+    },
+    {
       "title": "Gamera, the Giant Monster",
       "year": 1965,
       "medium": "Film",
@@ -20486,5 +20503,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1205
+  "count": 1206
 }
