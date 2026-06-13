@@ -14451,6 +14451,23 @@
       "created_at": "2026-03-18 15:23:29"
     },
     {
+      "title": "The New Moscow",
+      "year": 1938,
+      "medium": "Film",
+      "creator": "Aleksandr Medvedkin",
+      "raw_score": 2.89,
+      "total_ratings": 23,
+      "origin": "Soviet-Union",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Satire, Politics, Social Engineering",
+      "image_filename": "The_New_Moscow_1938.jpg",
+      "pitch": "A young architect named Alyosha creates an ambitious living model of a futuristic Moscow \u2014 a sci-fi vision of the Soviet capital redesigned for a new age. He travels to the city to display his model at a prestigious exhibition, accompanied by his grandmother. Meanwhile, romantic subplots unfold between painter Fedya and pig-tender Olya, as various characters navigate love and ambition in the rapidly modernizing Soviet Union.\n\nThis 1938 Soviet comedy was banned from showing by Joseph Stalin himself \u2014 one of the rarest honors in Soviet cinema. The film's satirical portrayal of Soviet society and its critique of bureaucratic optimism proved too uncomfortable for the regime, despite its surface-level optimism about the socialist future.\n\nThe film represents a unique artifact from the Stalin era: a sci-fi comedy that dared to laugh at the system it served, and was killed for it.",
+      "truth": "The story follows young designer Alyosha, who has created a detailed living model of the future capital of the Soviet Union \u2014 an ambitious vision of Moscow reimagined as a futuristic metropolis. Accompanied by his grandmother, he travels to Moscow to present his model at a prestigious exhibition.\n\nParallel storylines follow the relationships between various characters: the painter Fedya, the pig-tender Olya, and others navigating their personal lives amid the grand ambitions of socialist modernity. The romantic entanglements and social dynamics play out against the backdrop of Alyosha's futuristic vision.\n\nThe film's satirical tone \u2014 portraying both the grand ambitions and the absurdity of Soviet bureaucratic society \u2014 proved too much for the Stalinist censors. The film was banned from distribution, with Stalin himself reportedly ordering it shelved. It remained obscure for decades, surfacing only in recent years as a curiosity of Soviet sci-fi history.",
+      "core": "The New Moscow stands as a remarkable historical artifact \u2014 one of the earliest Soviet science fiction comedies, made at the height of Stalinist repression. The film represents a fascinating case of self-critique within the Soviet system: a sci-fi vision that simultaneously celebrated and mocked the grand utopian ambitions of socialism.\n\nThe film's ban by Stalin himself speaks to its effectiveness as satire. Even during the most repressive periods, Soviet filmmakers found ways to embed critique within allegorical frameworks. The sci-fi premise \u2014 a futuristic model of Moscow \u2014 provided cover for a pointed examination of Soviet society's contradictions.\n\nThis film deserves preservation not for its artistic merits alone, but as evidence that dissent existed even in the darkest years of Soviet cinema. The fact that it was made at all, and that it provoked such a response from the dictator, makes it a unique window into the tensions of late-1930s Soviet culture.",
+      "created_at": "2026-06-13 03:52:42"
+    },
+    {
       "title": "The Next One",
       "year": 1984,
       "medium": "Film",
@@ -17528,5 +17545,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1031
+  "count": 1032
 }
