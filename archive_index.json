@@ -6196,6 +6196,21 @@
       "created_at": "2026-06-12 16:38:53"
     },
     {
+      "title": "Meteo",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Gy\u00f6rgy Feh\u00e9r",
+      "raw_score": 3.38,
+      "total_ratings": 13,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, VR, Dreams",
+      "image_filename": "Meteo_1990.jpg",
+      "pitch": "In the strange, contemplative world of Meteo, protagonist Eckermann is a brilliant but profoundly alienated computer programmer who has retreated from reality into the sanctuary of his bathtub. There, submerged in lukewarm water, he holds elaborate imaginary conversations with cartoon characters \u2014 whimsical companions far more beloved by children than by the adults who once enjoyed them. His days blur into nights of surreal reverie, until his friends approach him with an unusual request: they need his technical skills to execute a heist at a local gambling establishment.\n\nWhat follows is a fever-dream of shifting perspectives and nonlinear narrative, as the boundary between Eckermann's tub-bound fantasies and the waking world grows increasingly porous. Director Gy\u00f6rgy Feh\u00e9r creates a haunting meditation on loneliness, creativity, and the escape routes we construct when the real world becomes unbearable.",
+      "created_at": "2026-06-13 02:57:24"
+    },
+    {
       "title": "Metropolis",
       "year": 1927,
       "medium": "Film",
@@ -15331,5 +15346,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1022
+  "count": 1023
 }

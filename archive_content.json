@@ -7022,6 +7022,23 @@
       "created_at": "2026-06-12 16:38:53"
     },
     {
+      "title": "Meteo",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Gy\u00f6rgy Feh\u00e9r",
+      "raw_score": 3.38,
+      "total_ratings": 13,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, VR, Dreams",
+      "image_filename": "Meteo_1990.jpg",
+      "pitch": "In the strange, contemplative world of Meteo, protagonist Eckermann is a brilliant but profoundly alienated computer programmer who has retreated from reality into the sanctuary of his bathtub. There, submerged in lukewarm water, he holds elaborate imaginary conversations with cartoon characters \u2014 whimsical companions far more beloved by children than by the adults who once enjoyed them. His days blur into nights of surreal reverie, until his friends approach him with an unusual request: they need his technical skills to execute a heist at a local gambling establishment.\n\nWhat follows is a fever-dream of shifting perspectives and nonlinear narrative, as the boundary between Eckermann's tub-bound fantasies and the waking world grows increasingly porous. Director Gy\u00f6rgy Feh\u00e9r creates a haunting meditation on loneliness, creativity, and the escape routes we construct when the real world becomes unbearable.",
+      "truth": "Eckermann is a computer programmer whose life has shrunk to the dimensions of his bathtub. While his former colleagues pursue careers and relationships, he spends his days floating in lukewarm water, conjuring elaborate dialogues with animated cartoon characters who appear to him as vivid hallucinations. These cartoon companions \u2014 cheerful, childlike figures \u2014 are his only social interaction, even as they represent a childhood joy he has lost.\n\nWhen Eckermann's friends approach him with a plan to rob a local gambling joint, he agrees almost eagerly. Not for the money, but for the promise of purpose. He uses his programming skills to devise a scheme that will give his friends access to the casino's financial systems. The heist itself is portrayed in fragments, intercut with scenes of Eckermann floating in his tub, the cartoon characters increasingly agitated and aware that something is wrong.\n\nThe film never clearly resolves whether the heist succeeds or fails. Instead, it dissolves into a final sequence where the boundaries between fantasy and reality collapse entirely \u2014 Eckermann may have achieved his escape, or he may have simply retreated further into his private world. The ending is deliberately ambiguous, reflecting a mind that has finally chosen its preferred reality.",
+      "core": "Meteo is a haunting exploration of creative isolation and the psychological costs of retreat from society. Feh\u00e9r presents the bathtub as both womb and coffin \u2014 a liminal space where Eckermann can exist without the demands of adult existence, but where he is also slowly drowning in his own fantasies.\n\nThe cartoon characters serve as dual symbols: they represent both the lost innocence of childhood joy (the cartoons Eckermann loved as a child) and the infantilization of an adult who cannot cope with reality. Their presence in the bathtub is simultaneously comforting and tragic, a sign of both imagination and withdrawal.\n\nThematically, Meteo asks whether creative escape is a form of madness or a legitimate survival strategy. Eckermann's fantasies are never presented as pathological \u2014 they are shown as vivid, colorful, and genuinely nourishing. The \"real world\" he avoids is depicted as cold, demanding, and unrewarding. The film refuses to judge, instead offering a portrait of someone who found his own way to survive, even if that way meant abandoning conventional reality.\n\nThis is science-fantasy in its most existential register: not concerned with technology or space travel, but with the internal landscapes of the mind and the alternate realities we construct to survive.",
+      "created_at": "2026-06-13 02:57:24"
+    },
+    {
       "title": "Metropolis",
       "year": 1927,
       "medium": "Film",
@@ -17375,5 +17392,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1022
+  "count": 1023
 }
