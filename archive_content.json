@@ -5084,6 +5084,23 @@
       "created_at": "2026-06-12 23:28:05"
     },
     {
+      "title": "Glorious Times at the Spessart Inn",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Kurt Hoffmann",
+      "raw_score": 2.95,
+      "total_ratings": 15,
+      "origin": "Germany",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Comedy",
+      "image_filename": "Glorious_Times_at_the_Spessart_Inn_1967.jpg",
+      "pitch": "In the sleepy Spessart mountains, a curious tale of ghosts, time travel, and wedding chaos unfolds in this 1967 West German comedy. When the legendary robbers of the Spessart Inn\u2014who died centuries ago and have been floating through space in a malfunctioning landing capsule\u2014finally manage to repair their ship, they crash back to Earth, landing on the roof of a small hotel where young Anneliese is planning her wedding to American officer Frank.\n\nWhat begins as a lighthearted romantic comedy takes a spectacularly sci-fi turn when the well-meaning but incompetent ghosts accidentally drag Anneliese through time itself. She bounces between the Germanic peoples, the Thirty Years' War, and finally lands in the distant future\u2014where she and Frank have aged decades and raised three sons, having finally completed their interrupted wedding.\n\nThe film is the final entry in a trilogy spawned by 'The Spessart Inn' (1958), but it adds a delightful science fiction layer to the series' trademark comedic ghosts.",
+      "truth": "Anneliese, a descendant of the legendary Countess Franziska, runs her family's hotel in the Spessart mountains. She's happily planning her wedding to Frank Green, an American officer of German origin, when Frank receives sudden orders to return to the USA due to an espionage matter. The wedding seems doomed.\n\nMeanwhile, the ghosts of the old Spessart robbers\u2014who were transformed into ethereal beings centuries ago\u2014have been floating through space in their ancient landing capsule for over five years, stuck with a jammed nozzle. When they finally repair it, they crash-land on the roof of Anneliese's hotel. The ghosts, wanting to help the young woman reach her fianc\u00e9 in America, attempt to fly her in the capsule\u2014but they can't operate the controls properly.\n\nThe capsule spirals through time, depositing Anneliese in various eras: first among ancient Germanic peoples and minstrels, then in the Thirty Years' War. In each era, she meets a version of her fianc\u00e9, only to lose him each time to military duty.\n\nFinally, they reach a distant future where Anneliese and Frank have aged many years and now have three sons. They were somehow able to complete their wedding after all. During a test flight, time reverses again, and Frank de-ages progressively until he returns to childhood. His memories also reverse, and he forgets his entire life with Anneliese\u2014though she remembers everything. The ghosts, having accomplished their redemptive task, finally find peace and vanish.\n\nAnneliese is left with a choice: try to restore Frank's memories, or accept the strange new reality of their family.",
+      "core": "This quirky West German comedy blends folk traditions with genuine science fiction\u2014a rare combination for 1960s European cinema. The film uses time travel not for deep philosophical exploration but as a comedic device to examine themes of patience, fate, and the endurance of love across impossible obstacles.\n\nThe ghosts serve as both comic relief and vehicles for the film's gentle commentary on progress: these bumbling medieval bandits can navigate space but not a simple capsule controls, symbolizing how the past is often ill-equipped to handle the future. The time-jumping structure also allows the film to poke fun at various historical periods, suggesting that certain human experiences\u2014love, loss, military conflict\u2014are eternal.\n\nWhile not a serious science fiction work, 'Glorious Times at the Spessart Inn' represents an interesting footnote in German cinema's flirtation with sci-fi elements, and stands as a unique cultural artifact of 1960s West German popular entertainment.",
+      "created_at": "2026-06-13 09:48:10"
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -18514,5 +18531,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1089
+  "count": 1090
 }
