@@ -16576,6 +16576,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Projected Man",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Ian Curteis",
+      "raw_score": 4.3,
+      "total_ratings": 30,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Science, Technology, Discovery",
+      "image_filename": "the_projected_man.jpg",
+      "pitch": "A 1966 British sci-fi horror about a scientist whose matter teleportation device transforms him into a disfigured monster. When Dr. Paul Steiner forces his projection experiment, the malfunction mutates him into something deadly.",
+      "truth": "Dr. Steiner develops a matter projection device. After his boss sabotages it, Steiner attempts to project himself\u2014but the machine mutates him into an electrically-charged killer. He goes on a rampage, killing several people before the laboratory burns down with him inside.",
+      "core": "A cautionary tale about scientific hubris\u2014the projection device becomes a metaphor for reaching too far and losing oneself. Featured on MST3K's ninth season, it remains a cult British horror entry from the 1960s.",
+      "created_at": "2026-06-13 16:58:08"
+    },
+    {
       "title": "The Purple Monster Strikes",
       "year": 1945,
       "medium": "Serial Film",
@@ -19755,5 +19772,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1162
+  "count": 1163
 }
