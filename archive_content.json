@@ -8059,6 +8059,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "New",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "S. J. Suryah",
+      "raw_score": 3.62,
+      "total_ratings": 19,
+      "origin": "India",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Children, Family",
+      "image_filename": "New_2004.jpg",
+      "pitch": "New is a 2004 Tamil-language science fiction comedy that explores the consequences of a magical experiment gone sideways. When an 8-year-old boy named Pappu runs away from home after being scolded by his mother, he encounters a eccentric scientist who offers him a mysterious medicine. The boy agrees to take it, expecting to become a brave man\u2014but the transformation works all too well. By day, he remains an eight-year-old child; by night, he becomes a 28-year-old adult named Vichu, while retaining the mind of a child.\n\nThe film takes this absurd premise and mines it for both comedy and genuine emotion. Pappu (as Vichu) manages to get a job at a toy company, falls in love with the owner's daughter Priya, and even gets married\u2014all while secretly living a double life. The humor derives from the inherent ridiculousness of a child navigating adult relationships, while the sentiment comes from the touching relationship between Pappu and his mother, who doesn't know that the man who visits her is actually her missing son.",
+      "truth": "The film opens with Pappu, an 8-year-old bed-wetter, causing trouble at home. After a fight with his mother Indira, he runs away to end his life, but is stopped by a strange scientist who offers him an experimental medicine. Pappu takes it and transforms into an adult, though his mind remains that of a child.\n\nNow going by the name Vichu, Pappu gets a job at a toy company under a false identity. He meets Priya, the owner's daughter, and they fall in love. His classmate Deepak is the only one who knows his secret. Meanwhile, Pappu's mother becomes depressed and sick from missing her son.\n\nVichu asks the scientist to revert him, which temporarily works\u2014but at night, he transforms back into Vichu. Now living a double life as both Pappu and Vichu, he marries Priya. On their wedding day, Raj, a rival for Priya's affection, has Vichu kidnapped\u2014but since it's daytime, Pappu transforms and the kidnappers release him, thinking they've kidnapped a child.\n\nYears pass. Vichu/Pappu and Priya have a son. Eventually, Pappu becomes an actual 28-year-old, though he still transforms at night. The film ends with the now-adult Pappu visiting the scientist to ask if there's a cure, but there isn't\u2014he will live with this condition forever.",
+      "core": "New is a fascinating exploration of the boundary between childhood and adulthood, wrapped in the guise of a sex comedy. The film asks what would happen if a child had the body of an adult but the mind of a child\u2014and finds both comic and tragic answers.\n\nThe film is notable for being one of the few Indian films to tackle body-swap/transformation themes in a serious way, even if it wraps this in crude comedy. Director S. J. Suryah (who also wrote, produced, and starred) created a parallel Telugu version Naani simultaneously, showing the story had broad appeal.\n\nThe film generated controversy upon release for its adult themes, leading to legal battles and a brief censor certificate revocation\u2014though the Supreme Court later overturned this. This controversy actually increased the film's cult status.\n\nMusically, the film features A.R. Rahman's first collaboration with S. J. Suryah, with songs that blend contemporary and traditional sounds. The film was shot in 100 days and proved commercially successful, grossing \u20b91.12 crore on its first day.",
+      "created_at": "2026-06-13 10:10:28"
+    },
+    {
       "title": "News from Nowhere",
       "year": 1890,
       "medium": "Novel",
@@ -18582,5 +18599,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1093
+  "count": 1094
 }

@@ -7111,6 +7111,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "New",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "S. J. Suryah",
+      "raw_score": 3.62,
+      "total_ratings": 19,
+      "origin": "India",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Children, Family",
+      "image_filename": "New_2004.jpg",
+      "pitch": "New is a 2004 Tamil-language science fiction comedy that explores the consequences of a magical experiment gone sideways. When an 8-year-old boy named Pappu runs away from home after being scolded by his mother, he encounters a eccentric scientist who offers him a mysterious medicine. The boy agrees to take it, expecting to become a brave man\u2014but the transformation works all too well. By day, he remains an eight-year-old child; by night, he becomes a 28-year-old adult named Vichu, while retaining the mind of a child.\n\nThe film takes this absurd premise and mines it for both comedy and genuine emotion. Pappu (as Vichu) manages to get a job at a toy company, falls in love with the owner's daughter Priya, and even gets married\u2014all while secretly living a double life. The humor derives from the inherent ridiculousness of a child navigating adult relationships, while the sentiment comes from the touching relationship between Pappu and his mother, who doesn't know that the man who visits her is actually her missing son.",
+      "created_at": "2026-06-13 10:10:28"
+    },
+    {
       "title": "News from Nowhere",
       "year": 1890,
       "medium": "Novel",
@@ -16396,5 +16411,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1093
+  "count": 1094
 }
