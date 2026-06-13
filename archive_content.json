@@ -10779,6 +10779,23 @@
       "created_at": "2026-03-04 12:35:35"
     },
     {
+      "title": "Supersonic Saucer",
+      "year": 1956,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.81,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Children, First Contact",
+      "image_filename": "Supersonic_Saucer_1956.jpg",
+      "pitch": "Supersonic Saucer is a 1956 American science fiction film aimed squarely at young audiences. When a group of schoolchildren stumble upon an alien from Venus who has crash-landed near their town, they face a choice that would try any hero: protect this strange visitor from dangerous criminals who want to kidnap him, or flee in fear. The film embraces the earnest, wholesome optimism of 1950s children's cinema, where kids aren't just witnesses to the extraordinary\u2014they're active participants in saving it. The Venusian's advanced technology and gentle nature contrast sharply with the greedy adults pursuing him, creating a simple but effective moral framework that rewards courage and loyalty.",
+      "truth": "The story begins when several schoolchildren discover a small metallic craft has landed in a field near their town. Emerging from the craft is a diminutive, friendly alien from Venus who communicates through gestures and a strange device. The children name him 'Supersonic' and hide him from authorities, but local criminals who have been monitoring strange lights in the sky suspect the alien carries valuable technology. The villains attempt to kidnap the Venusian on multiple occasions, but the children use their knowledge of the local terrain and their newfound friend to outwit them. Meanwhile, the alien gradually reveals his peaceful nature and desire to return home. The film culminates in a chase sequence where the children help the Venusian reach his ship and take off, bidding their friend farewell as he departs Earth. The criminals are apprehended, and the children are left with memories\u2014and perhaps a lingering wonder about what lies beyond their world.",
+      "core": "Supersonic Saucer embodies a specific 1950s American cultural moment: the intersection of post-war optimism, emerging science fiction as mainstream entertainment, and a belief in children as capable agents. Unlike adult-centered sci-fi of the era that often explored atomic anxiety or invasion fears, this film channels wonder rather than dread. The Venusian is neither a threat nor a conquest\u2014he is a friend, a visitor whose advanced civilization chose Earth for peaceful contact. The children represent a generation told they could be anything, even heroes. The film also reflects the era's paternalistic view of childhood, where young audiences were offered simple moral lessons wrapped in spectacle. Today, it serves as a time capsule of how science fiction introduced ideas of cosmic community to American youth, planting seeds of curiosity about humanity's place in a larger universe.",
+      "created_at": "2026-06-13 06:12:52"
+    },
+    {
       "title": "Svat\u00fd Xaverius",
       "year": 1873,
       "medium": "Novella",
@@ -17902,5 +17919,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1053
+  "count": 1054
 }
