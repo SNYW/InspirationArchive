@@ -16474,6 +16474,23 @@
       "created_at": "2026-06-13 08:54:08"
     },
     {
+      "title": "The Secret Adventures of Tom Thumb",
+      "year": 1993,
+      "medium": "Animated Film",
+      "creator": "Dave Borthwick",
+      "raw_score": 3.265,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Children, Survival, Rebellion",
+      "image_filename": "secret_adventures_of_tom_thumb.jpg",
+      "pitch": "A thumb-sized infant is kidnapped from his slum parents and taken to a laboratory, where he escapes with other captives and discovers a community of small people living in a swamp. With Jack, a warrior who hates the 'giants,' Tom seeks his father in this dark, dialogue-free British stop-motion adventure.",
+      "truth": "In a grim urban slum town, a thumb-sized child called Tom is kidnapped and taken to a laboratory, but escapes with other captives. He discovers a town of small people, where he meets Jack, a warrior who hates the bigger 'giants,' and they set out to find Tom's father.",
+      "core": "Borthwick fuses fairy tale with dystopian critique through scale \u2014 giants as the powerful elite, small people as the marginalized. Its silent stop-motion/pixilation style is eerie and won awards at Sitges and Fantasporto.",
+      "created_at": "2026-06-13 14:17:31"
+    },
+    {
       "title": "The Secret Life of Bots",
       "year": 2017,
       "medium": "Short Story",
@@ -19262,5 +19279,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1133
+  "count": 1134
 }
