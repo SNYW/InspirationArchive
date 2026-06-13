@@ -10756,6 +10756,21 @@
       "created_at": "2026-03-04 22:19:10"
     },
     {
+      "title": "The Astounding She-Monster",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Ronnie Ashcroft",
+      "raw_score": 1.98,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, First Contact",
+      "image_filename": "The_Astounding_She-Monster_1958.jpg",
+      "pitch": "In outer space, a distant planet lives in fear \u2014 their scientists have determined that if Earth is not destroyed first, humanity will inevitably destroy the universe. The planet's rulers decide to strike pre-emptively, sending a beautiful but deadly female alien to Earth to complete their mission of annihilation.\n\nOn Earth, gangsters Nat Burdell and Brad Conley kidnap wealthy socialite Margaret Chaffee, dragging along gun moll Esther Malone as they flee into the desert. Meanwhile, an alien spacecraft crash-lands in the rugged hills near San Gabriel. The criminals encounter the beautiful extraterrestrial before the authorities do, and discover too late that their beautiful captive is not of this world \u2014 and she has no intention of leaving any witnesses alive.\n\nThis 1958 Roger Corman-produced B-movie is a quintessential Cold War paranoia piece, reflecting the era's fears of infiltration and annihilation. Ed Wood Jr. served as an unofficial consultant on the production, lending his particular sensibility to the eerie atmosphere.",
+      "created_at": "2026-06-13 12:53:11"
+    },
+    {
       "title": "The Astronauts",
       "year": 1960,
       "medium": "Film",
@@ -16786,5 +16801,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1119
+  "count": 1120
 }
