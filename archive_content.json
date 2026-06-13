@@ -14128,6 +14128,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Girl from Starship Venus",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.09,
+      "total_ratings": 16,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact",
+      "image_filename": "The_Girl_from_Starship_Venus_1975.jpg",
+      "pitch": "A young Venusian alien crash-lands in Soho, London and stays to research human behavior, especially sexuality, in this 1970s British sci-fi sex comedy. With only 16 votes on TMDB, it's nearly forgotten - exactly the kind of obscure genre exercise the archive exists to preserve.",
+      "truth": "A young Venusian girl is sent to Earth on a research mission. After crash-landing in Soho, she poses as a foreign exchange student to study human customs. The film follows her comedic encounters as she investigates human sexuality, meeting various men who help her understand romance and intimacy. She completes her research and returns to Venus.",
+      "core": "A product of 1970s British exploitation cinema, this represents the \\\"alien sex comedy\\\" subgenre. Not notable or acclaimed, it captures a specific cultural moment in British B-movie production. With only 16 votes, it sits firmly in the very obscure tier.",
+      "created_at": "2026-06-13 15:38:31"
+    },
+    {
       "title": "The Gladiators",
       "year": 1969,
       "medium": "Film",
@@ -19483,5 +19500,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1146
+  "count": 1147
 }
