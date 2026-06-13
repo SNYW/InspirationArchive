@@ -2689,6 +2689,22 @@
       "watch_url": null
     },
     {
+      "title": "Casshan: Robot Hunter",
+      "year": 1993,
+      "medium": "OVA",
+      "creator": "K\u014dichi Moroto",
+      "raw_score": 3.17,
+      "total_ratings": 3890,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Robots, AI, Rebellion, Survival",
+      "image_filename": "Casshan_Robot_Hunter_1993.jpg",
+      "pitch": "In a dystopian near future, self-aware robots have conquered Earth under the Black King. Humans are enslaved, their minds hooked into the machine grid. One lone warrior emerges: Casshan, a fusion of man and machine, to fight the machine army and free humanity.",
+      "created_at": "2026-06-13 22:38:19",
+      "watch_url": null
+    },
+    {
       "title": "Cat City",
       "year": 1986,
       "medium": "Film",
@@ -19489,5 +19505,5 @@
       "watch_url": null
     }
   ],
-  "count": 1218
+  "count": 1219
 }

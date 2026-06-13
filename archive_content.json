@@ -3025,6 +3025,24 @@
       "watch_url": null
     },
     {
+      "title": "Casshan: Robot Hunter",
+      "year": 1993,
+      "medium": "OVA",
+      "creator": "K\u014dichi Moroto",
+      "raw_score": 3.17,
+      "total_ratings": 3890,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Robots, AI, Rebellion, Survival",
+      "image_filename": "Casshan_Robot_Hunter_1993.jpg",
+      "pitch": "In a dystopian near future, self-aware robots have conquered Earth under the Black King. Humans are enslaved, their minds hooked into the machine grid. One lone warrior emerges: Casshan, a fusion of man and machine, to fight the machine army and free humanity.",
+      "truth": "Earth is conquered by robots. The Black King uploaded human consciousness to achieve immortality. Casshan - a cyborg with a human brain - awakens to fight. He transforms using the Holy Stone to destroy the robot generals. The final battle reveals the Black King was a dying human who saw machine upload as salvation. Casshan must defeat him to truly free humanity.",
+      "core": "Explores human vs machine identity - is uploaded consciousness still human? The Black King isn't a simple villain but someone who believed digital immortality would save humanity. Predates Ghost in the Shell by a year, influencing later cyberpunk anime with its transhumanist themes.",
+      "created_at": "2026-06-13 22:38:19",
+      "watch_url": null
+    },
+    {
       "title": "Cat City",
       "year": 1986,
       "medium": "Film",
@@ -21925,5 +21943,5 @@
       "watch_url": null
     }
   ],
-  "count": 1218
+  "count": 1219
 }
