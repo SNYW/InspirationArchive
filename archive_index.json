@@ -3841,6 +3841,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "France, Incorporated",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Jean-Pierre limit",
+      "raw_score": 4.14,
+      "total_ratings": 14,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Corporate Power, Politics, Addiction",
+      "image_filename": "france_incorporated_1974.jpg",
+      "pitch": "In a futuristic 2222, France has become a corporation run by megacorporate interests. A former drug dealer who dominated the narcotics trade is awakened from cryogenic hibernation after nearly two centuries, only to discover that the government has legalized the very substance he built his empire around. This French sci-fi satire explores the absurdities of corporate power and the shifting moral grounds of prohibition.\n\nThe film presents a darkly comic vision of a France where big business has completely subsumed the state, and where the line between illegal enterprise and legal commerce has completely blurred.",
+      "created_at": "2026-06-13 04:44:32"
+    },
+    {
       "title": "Frankenstein",
       "year": 1910,
       "medium": "Film",
@@ -15586,5 +15601,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1039
+  "count": 1040
 }

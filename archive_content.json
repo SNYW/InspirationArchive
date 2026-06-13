@@ -4353,6 +4353,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "France, Incorporated",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Jean-Pierre limit",
+      "raw_score": 4.14,
+      "total_ratings": 14,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Corporate Power, Politics, Addiction",
+      "image_filename": "france_incorporated_1974.jpg",
+      "pitch": "In a futuristic 2222, France has become a corporation run by megacorporate interests. A former drug dealer who dominated the narcotics trade is awakened from cryogenic hibernation after nearly two centuries, only to discover that the government has legalized the very substance he built his empire around. This French sci-fi satire explores the absurdities of corporate power and the shifting moral grounds of prohibition.\n\nThe film presents a darkly comic vision of a France where big business has completely subsumed the state, and where the line between illegal enterprise and legal commerce has completely blurred.",
+      "truth": "The protagonist is a former narcotics kingpin who was placed in cryogenic suspension in the 1970s. When he is reanimated in year 2222, he discovers that his former illegal drug empire has been completely legitimized and overtaken by the very corporations he once fought against. The government now regulates and profits from what he once controlled illegally.\n\nAs he attempts to rebuild his life and understand this new world order, he finds himself obsolete in a system that has moved beyond his old ways of doing business. The film follows his attempts to find meaning and relevance in a future he cannot recognize.",
+      "core": "France, Incorporated is a sharp satirical commentary on the dangers of unfettered corporate power and the hypocrisy of prohibition laws. The film predates modern discussions of corporate personhood and big pharma while foreshadowing themes that would become central to cyberpunk and dystopian fiction.\n\nThe film's central irony: the protagonist's crime became legal, but the corporations that took over are no less exploitative. This critique of capitalism and corporate power feels remarkably prescient for a 1974 French film.",
+      "created_at": "2026-06-13 04:44:32"
+    },
+    {
       "title": "Frankenstein",
       "year": 1910,
       "medium": "Film",
@@ -17664,5 +17681,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1039
+  "count": 1040
 }
