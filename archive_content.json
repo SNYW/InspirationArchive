@@ -11986,6 +11986,23 @@
       "created_at": "2026-06-13 18:58:16"
     },
     {
+      "title": "Stingray",
+      "year": 1964,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson & Sylvia Anderson",
+      "raw_score": 3.4,
+      "total_ratings": 22,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Aliens, First Contact",
+      "image_filename": "Stingray_1964.jpg",
+      "pitch": "Stingray is a 1964 British children's sci-fi series using \\\"Supermarionation\\\" puppetry. Set in the 2060s, it follows the World Aquanaut Security Patrol and their nuclear submarine Stingray as they explore and police the Earth's oceans, encountering underwater civilizations both friendly and hostile.",
+      "truth": "Captain Troy Tempest and navigator Phones are captured by King Titan in the first episode but rescued by Marina, a mute woman from Pacifica who joins the WASP crew. Titan vows revenge and wages war throughout the 39 episodes. Adventures feature underwater civilizations and ocean exploration.",
+      "core": "Stingray was the first British TV series filmed entirely in colour and the third Supermarionation production, perfecting techniques refined in Thunderbirds. Its Cold War allegories and underwater exploration themes reflect 1960s anxieties while pioneering innovative puppet effects.",
+      "created_at": "2026-06-13 19:57:43"
+    },
+    {
       "title": "Stories Untold",
       "year": 2017,
       "medium": "Video Game",
@@ -20265,5 +20282,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1192
+  "count": 1193
 }

@@ -10576,6 +10576,21 @@
       "created_at": "2026-06-13 18:58:16"
     },
     {
+      "title": "Stingray",
+      "year": 1964,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson & Sylvia Anderson",
+      "raw_score": 3.4,
+      "total_ratings": 22,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Aliens, First Contact",
+      "image_filename": "Stingray_1964.jpg",
+      "pitch": "Stingray is a 1964 British children's sci-fi series using \\\"Supermarionation\\\" puppetry. Set in the 2060s, it follows the World Aquanaut Security Patrol and their nuclear submarine Stingray as they explore and police the Earth's oceans, encountering underwater civilizations both friendly and hostile.",
+      "created_at": "2026-06-13 19:57:43"
+    },
+    {
       "title": "Stories Untold",
       "year": 2017,
       "medium": "Video Game",
@@ -17881,5 +17896,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1192
+  "count": 1193
 }
