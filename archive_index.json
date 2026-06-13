@@ -49,6 +49,22 @@
       "watch_url": null
     },
     {
+      "title": "1984",
+      "year": 1956,
+      "medium": "Film",
+      "creator": "Michael Anderson",
+      "raw_score": 3.25,
+      "total_ratings": 145,
+      "origin": "UK",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Totalitarianism, Politics",
+      "image_filename": "1984_1956.jpg",
+      "pitch": "The first theatrical adaptation of George Orwell's dystopian novel, directed by Michael Anderson. Edmond O'Brien plays Winston Smith in Airstrip One, where Big Brother watches all. When Winston and Julia begin a forbidden relationship, they are betrayed to the Thought Police and broken in the Ministry of Love.",
+      "created_at": "2026-06-13 23:06:17",
+      "watch_url": null
+    },
+    {
       "title": "20,000 Leagues Under the Sea",
       "year": 1916,
       "medium": "Film",
@@ -62,7 +78,7 @@
       "image_filename": "20,000_Leagues_Under_the_Sea_1916.jpg",
       "pitch": "20,000 Leagues Under the Sea is a 1916 American silent film directed by Stuart Paton and produced by Carl Laemmle at Universal Pictures. Based on Jules Verne's classic 1870 novel \"Twenty Thousand Leagues Under the Seas,\" this film holds the distinction of being the first feature-length adaptation of Verne's submarine adventure. With a production budget of $500,000 (equivalent to nearly $12 million today), it was one of the most expensive films of its era and a significant technical achievement in early cinema. The film was recently selected for preservation in the United States National Film Registry in 2016, recognizing its cultural and historical significance.",
       "created_at": "2026-03-19 03:49:32",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_391642"
     },
     {
       "title": "2001 Nights",
@@ -430,7 +446,7 @@
       "image_filename": "A_Message_from_Mars_1913.jpg",
       "pitch": "A Message from Mars is a 1913 British silent science fiction film directed by J. Wallett Waller and is widely recognized as the first British science-fiction film according to the British Film Institute. Based on Richard Ganthony's 1899 play (published in 1912), this 68-minute silent film presents a moral tale about a wealthy but self-centered man who receives a visit from a messenger from Mars on Christmas Eve. The film was restored by the BFI in 2014 and made available online, with the original tinting and toning preserved. The story follows the template of Charles Dickens' A Christmas Carol, with the theme that the wealthy should care for the poor, but transports this moral framework into a science fiction setting with an alien visitor.",
       "created_at": "2026-03-05 13:41:06",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/a-message-from-mars-1913-w"
     },
     {
       "title": "A Monstrous Corpse",
@@ -4638,7 +4654,7 @@
       "image_filename": "Filibus_1915.jpg",
       "pitch": "Filibus is a groundbreaking 1915 Italian silent adventure film featuring one of cinema's most remarkable protagonists: a mysterious female sky pirate who commands a technologically advanced airship and pulls off daring heists while assuming multiple identities. When a renowned detective sets out to capture her, she engages him in an elaborate game of cat and mouse, switching between male and female personas, romancing his sister, and orchestrating midnight diamond thefts\u2014all while remaining several steps ahead of law enforcement.\n\nWhat makes Filibus remarkable is its pioneering portrayal of gender fluidity and lesbian attraction, decades before such themes would appear openly in cinema. The Baroness Troixmonde transforms into the daring Filibus, using her airship and technological superiority to outwit the detective at every turn. The film's innovative narrative structure and visual storytelling influenced the adventure genre, while its survival as a complete nitrate print at the Eye Filmmuseum in Amsterdam ensures its legacy endures.",
       "created_at": "2026-03-18 04:05:04",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/groups_202401"
     },
     {
       "title": "Fire Tripper",
@@ -4862,7 +4878,7 @@
       "image_filename": "Frankenstein_1910.jpg",
       "pitch": "Frankenstein is a landmark 1910 American short silent horror film produced by Edison Studios, widely recognized as the first screen adaptation of Mary Shelley's 1818 novel. Directed by J. Searle Dawley, this 16-minute one-reeler follows young scientist Dr. Frankenstein as he discovers the \"mystery of life\" and creates a creature from a blend of chemicals in his laboratory. The monster that emerges is hideous and terrible, causing Frankenstein to flee in horror. The film takes significant liberties with Shelley's source material, most notably in its conclusion: rather than the tragic rampage of the novel, the monster simply vanishes upon seeing its own reflection in a mirror, disappearing without ever harming Victor's fianc\u00e9e or younger brother.",
       "created_at": "2026-03-06 18:12:55",
-      "watch_url": null
+      "watch_url": "https://commons.wikimedia.org/wiki/File%3AFrankenstein_1910.ogv"
     },
     {
       "title": "Frankenstein 90",
@@ -5758,7 +5774,7 @@
       "image_filename": "Himmelskibet_1918.jpg",
       "pitch": "Himmelskibet (translated as \"The Heavenly Ship\" or \"A Trip to Mars\") is a groundbreaking 1918 Danish silent film that holds a unique place in cinema history as potentially the first true space opera. Directed by Holger-Madsen and based on a novel by Sophus Michaelis, the film follows a team of scientists who build an airship called the Excelsior and journey to Mars, where they discover an advanced utopian civilization dedicated to pacifism. Produced during World War I, the film delivers a powerful message of peace and compassion at a time when the world was embroiled in conflict. In 2006, the Danish Film Institute restored the film, ensuring its preservation for future generations.",
       "created_at": "2026-03-03 05:02:59",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/a-trip-to-mars-1918-holger-madsen"
     },
     {
       "title": "Hirak Rajar Deshe",
@@ -5854,7 +5870,7 @@
       "image_filename": "Homunculus_1916.jpg",
       "pitch": "Homunculus is a landmark 1916 German silent science fiction serial film, one of the most ambitious early sci-fi productions from the World War I era. Directed by Otto Rippert and written by Robert Reinert, the film was originally released in six parts between June 1916 and January 1917, running approximately six hours in total. Notably, Fritz Lang worked as one of Rippert's assistants during filming, later citing this experience as influential in his ownExpressionist and sci-fi works like Metropolis and Dr. Mabuse.\n\nThe story follows a scientist who creates a living creature\u2014called a Homunculus\u2014in his laboratory. Unlike a typical monster, this artificial being possesses human appearance but lacks a soul and the capacity for emotions. When the Homunculus discovers its inability to feel love or connection, it descends into a violent rampage through a nearby German village, leading its creator to hunt down his own creation in an attempt to destroy it.",
       "created_at": "2026-03-03 23:46:03",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/homunculus-1916-otto-rippert"
     },
     {
       "title": "Homunkulus",
@@ -7374,7 +7390,7 @@
       "image_filename": "Long_Distance_Wireless_Photography_1908.jpg",
       "pitch": "In a glass-roofed workshop, an inventor demonstrates his extraordinary wireless photographic machine to a respectable lady and gentleman. The device projects small images onto a screen at life-size \u2014 and those projections briefly come to life. When the inventor photographs the lady client, her projected face makes grotesque faces, including a toothless grin and fierce scowl. The lady faints from shock.\n\nThe gentleman fares even worse: his projected portrait reveals him as a hairy, monkey-like creature. Enraged, he tries to destroy the machine, only to receive an electrical shock that makes his hair stand on end. Meanwhile, the lady's outer garments tear away when she stands too near another device, leaving her in her chemise. The clients flee in humiliation while the inventor and his servants laugh uproariously.\n\nThis 1908 French trick film from Georges M\u00e9li\u00e8s \u2014 the magician who brought us A Trip to the Moon \u2014 is both a comedy of errors and a surprisingly sophisticated meditation on the nature of cinema itself.",
       "created_at": "2026-06-12 23:04:31",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/Long_Distance_Wireless_Photography"
     },
     {
       "title": "Loop",
@@ -8926,7 +8942,7 @@
       "image_filename": "onesime_clockmaker_1912.jpg",
       "pitch": "Onesime, Clockmaker is a whimsical French silent film from 1912 that explores the comic possibilities of time manipulation. The film follows On\u00e9sime, a humble clockmaker who hopes to secure a promised inheritance. In his workshop, he invents an extraordinary time machine that can accelerate the passage of time on Earth.\n\nUsing early cinematic special effects, the film visualizes what happens when time itself is sped up - men and machines move at hyper-animated rates, and the human life cycle is compressed into moments. It's a charming, surreal exploration of humanity's fascination with controlling the uncontrollable.\n\nThis early science fiction comedy predates most genre films and demonstrates the medium's quick embrace of speculative themes. The film's playful approach to time travel and its visual experiments with temporal acceleration make it a fascinating artifact of early cinema.",
       "created_at": "2026-06-13 10:58:43",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/silent-onesime-clockmaker"
     },
     {
       "title": "Open Your Eyes",
@@ -12366,7 +12382,7 @@
       "image_filename": "The_Airship_Destroyer_1909.jpg",
       "pitch": "The Airship Destroyer is a pioneering 1909 British silent science fiction film that depicts a fictional aerial attack on England. Directed by Walter R. Booth, a former magician who was an early pioneer of special effects in film, this seven-minute trick film uses cutout animation and models to depict a futuristic air war. The film was originally released in 1909 during a period of relative peace, but was re-released in January 1915 during World War I when Britain was suffering aerial bombings from German Zeppelins\u2014giving the film a chilling prophetic quality despite being made before the era of actual aerial warfare.",
       "created_at": "2026-03-05 00:33:50",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/silent-the-airship-destroyer"
     },
     {
       "title": "The Airtight Garage",
@@ -13102,7 +13118,7 @@
       "image_filename": "The_Conquest_of_the_Pole_1912.jpg",
       "pitch": "The Conquest of the Pole is a 1912 French silent science fantasy trick film directed by and starring Georges M\u00e9li\u00e8s. Loosely inspired by contemporary events and Jules Verne's Voyages Extraordinaires, the film follows the comic misadventures of an international group of explorers on an expedition to the North Pole, where they encounter a man-eating frost giant and a dangerous magnetic needle. Released by Path\u00e9 Fr\u00e8res, it was one of M\u00e9li\u00e8s's last major works and is now considered one of his masterpieces, sometimes named as his greatest film.",
       "created_at": "2026-03-04 21:02:45",
-      "watch_url": null
+      "watch_url": "https://commons.wikimedia.org/wiki/File%3AThe_Conquest_of_the_Pole_%281912%29_.webm"
     },
     {
       "title": "The Cosmic Man",
@@ -15294,7 +15310,7 @@
       "image_filename": "The_Machine_Stops_1909.jpg",
       "pitch": "In a distant future, humanity has retreated underground to escape a toxic, uninhabitable Earth surface. Every person lives in isolation within a single room, their every need met by the all-powerful global Machine\u2014from food and air to entertainment and communication. Physical travel is rare; instead, people connect through instantaneous video-like devices, sharing endless secondhand ideas without ever truly experiencing life firsthand.\n\nWhen Vashti, content in her isolated existence, is summoned by her rebellious son Kuno, she embarks on a rare journey across the world to meet him. Kuno has discovered something that threatens everything their society believes\u2014he has visited the Earth's surface and found humans living freely outside the Machine's control. His revelations about the Machine's true nature and his warning of impending collapse fall on deaf ears. This haunting early sci-fi tale explores humanity's dangerous dependence on technology and the spiritual cost of living disconnected from nature and each other.",
       "created_at": "2026-02-28 07:28:14",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/e.-m.-forster-the-machine-stops_202008"
     },
     {
       "title": "The Madness of Dr. Tube",
@@ -19569,5 +19585,5 @@
       "watch_url": null
     }
   ],
-  "count": 1223
+  "count": 1224
 }
