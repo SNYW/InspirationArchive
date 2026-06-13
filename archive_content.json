@@ -11765,6 +11765,23 @@
       "created_at": "2026-06-13 06:12:52"
     },
     {
+      "title": "Survivors",
+      "year": 1975,
+      "medium": "TV Series",
+      "creator": "Terry Nation",
+      "raw_score": 3.925,
+      "total_ratings": 24,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Pandemic, Survival, Class Struggle",
+      "image_filename": "survivors_1975.jpg",
+      "pitch": "A deadly plague escapes from a Chinese lab and wipes out 99.8% of humanity. When Jenny, Greg, and Abby emerge from the ruins of London, they find civilization gone\u2014not in a dramatic last stand, but in the quiet collapse of everything. This 1975 BBC series is bleak, gritty, and ruthlessly realistic. Created by Terry Nation of Doctor Who fame.",
+      "truth": "Jenny (immune), Greg, and Abby form a community called Waterhouse. They face questions of leadership, resource allocation, and class tensions as former hierarchies dissolve. Religious cults and would-be dictators emerge. The show explores the psychological toll of survival without heroes or easy answers. Three series ran 1975-1977.",
+      "core": "Survivors predates The Walking Dead by decades with a plausibly terrifying pandemic scenario. No superheroes, no triumphant narratives\u2014just messy human resilience. It influenced generations of post-apocalyptic writers and proves ambitious British SF works on limited budgets.",
+      "created_at": "2026-06-13 16:04:27"
+    },
+    {
       "title": "Svat\u00fd Xaverius",
       "year": 1873,
       "medium": "Novella",
@@ -19568,5 +19585,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1151
+  "count": 1152
 }

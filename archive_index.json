@@ -10381,6 +10381,21 @@
       "created_at": "2026-06-13 06:12:52"
     },
     {
+      "title": "Survivors",
+      "year": 1975,
+      "medium": "TV Series",
+      "creator": "Terry Nation",
+      "raw_score": 3.925,
+      "total_ratings": 24,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Pandemic, Survival, Class Struggle",
+      "image_filename": "survivors_1975.jpg",
+      "pitch": "A deadly plague escapes from a Chinese lab and wipes out 99.8% of humanity. When Jenny, Greg, and Abby emerge from the ruins of London, they find civilization gone\u2014not in a dramatic last stand, but in the quiet collapse of everything. This 1975 BBC series is bleak, gritty, and ruthlessly realistic. Created by Terry Nation of Doctor Who fame.",
+      "created_at": "2026-06-13 16:04:27"
+    },
+    {
       "title": "Svat\u00fd Xaverius",
       "year": 1873,
       "medium": "Novella",
@@ -17266,5 +17281,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1151
+  "count": 1152
 }
