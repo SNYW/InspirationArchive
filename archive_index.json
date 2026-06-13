@@ -3046,6 +3046,21 @@
       "created_at": "2026-03-06 19:11:51"
     },
     {
+      "title": "Dislocation",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Xia Xing",
+      "raw_score": 7.4,
+      "total_ratings": 15,
+      "origin": "China",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Cloning, Satire, Corporate Power",
+      "image_filename": "Dislocation_1986.jpg",
+      "pitch": "Dislocation (\u9519\u4f4d) is a 1986 Chinese sci-fi comedy directed by Xia Xing, exploring the darkly humorous side of corporate ambition and technological hubris in 1980s China.\n\nWhen engineer Zhao Shuxin gets promoted to a position requiring endless meetings, he hits upon a solution straight out of science fiction: cloning a robot double to attend meetings in his place. The robot, identical to Zhao in every way, becomes a hit at work \u2014 but complications arise when it begins developing its own personality and making decisions that diverge from its creator's intentions.\n\nThe film plays as a sharp workplace satire, using the robot doppelganger as a metaphor for the alienating nature of corporate bureaucracy and the question of what happens when our creations outgrow our control.",
+      "created_at": "2026-06-13 05:18:41"
+    },
+    {
       "title": "District 9",
       "year": 2009,
       "medium": "Film",
@@ -15676,5 +15691,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1045
+  "count": 1046
 }

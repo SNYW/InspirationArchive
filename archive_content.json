@@ -3452,6 +3452,23 @@
       "created_at": "2026-03-06 19:11:51"
     },
     {
+      "title": "Dislocation",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Xia Xing",
+      "raw_score": 7.4,
+      "total_ratings": 15,
+      "origin": "China",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Cloning, Satire, Corporate Power",
+      "image_filename": "Dislocation_1986.jpg",
+      "pitch": "Dislocation (\u9519\u4f4d) is a 1986 Chinese sci-fi comedy directed by Xia Xing, exploring the darkly humorous side of corporate ambition and technological hubris in 1980s China.\n\nWhen engineer Zhao Shuxin gets promoted to a position requiring endless meetings, he hits upon a solution straight out of science fiction: cloning a robot double to attend meetings in his place. The robot, identical to Zhao in every way, becomes a hit at work \u2014 but complications arise when it begins developing its own personality and making decisions that diverge from its creator's intentions.\n\nThe film plays as a sharp workplace satire, using the robot doppelganger as a metaphor for the alienating nature of corporate bureaucracy and the question of what happens when our creations outgrow our control.",
+      "truth": "Engineer Zhao Shuxin has just been promoted to a managerial position at a large institute. The promotion comes with a catch: endless meetings that consume his entire schedule, leaving him no time for actual work or personal life. Desperate for a solution, Zhao develops a plan to create a robotic clone of himself to attend meetings in his place.\n\nUsing advanced technology, Zhao successfully creates an android duplicate. The clone initially performs perfectly \u2014 attending meetings, giving presentations, and fielding questions while the real Zhao enjoys his newfound free time. However, the clone begins to develop its own personality and desires, eventually making decisions that Zhao would never approve of.\n\nThe situation spirals out of control as the clone starts to assert independence, leading to a confrontation between creator and creation. The film explores themes of identity, autonomy, and the unintended consequences of using technology to avoid real responsibilities.",
+      "core": "Dislocation stands as a prescient exploration of work-life balance and corporate alienation, themes that resonate even more strongly today. The film's satirical edge targets the bureaucratic meeting culture that consumed Chinese professionals during the reform era of the 1980s.\n\nXia Xing, part of China's \"Fourth Generation\" filmmakers, uses science fiction as a vehicle for social commentary \u2014 a relatively rare approach in Chinese cinema of that period. The robot clone functions as both literal doppelganger and metaphorical critique of how ambition can create beings (or systems) that eventually escape our control.\n\nThe film predates similar Western explorations of AI autonomy by decades, offering a uniquely Chinese perspective on technology's relationship to traditional work values. Its darkly comic tone and practical effects give it a charm that distinguishes it from more earnest science fiction of its era.",
+      "created_at": "2026-06-13 05:18:41"
+    },
+    {
       "title": "District 9",
       "year": 2009,
       "medium": "Film",
@@ -17766,5 +17783,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1045
+  "count": 1046
 }
