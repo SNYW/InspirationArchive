@@ -14113,6 +14113,22 @@
       "watch_url": null
     },
     {
+      "title": "The Girl from Rio",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Jes\u00fas Franco",
+      "raw_score": 4.8,
+      "total_ratings": 43,
+      "origin": "Spain",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Women, Power, Rebellion",
+      "image_filename": "The_Girl_from_Rio_1969.jpg",
+      "pitch": "1969 spy-fi adventure. Jeff Sutton arrives in Rio with stolen money and is captured by Sunanda, queen of Femina\u2014an underground city ruled by women warriors. Shirley Eaton stars as the formidable amazonian queen in this campy Euro-exploitation film.",
+      "created_at": "2026-06-13 22:19:46",
+      "watch_url": null
+    },
+    {
       "title": "The Girl from Starship Venus",
       "year": 1975,
       "medium": "Film",
@@ -19441,5 +19457,5 @@
       "watch_url": null
     }
   ],
-  "count": 1215
+  "count": 1216
 }
