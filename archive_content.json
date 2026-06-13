@@ -17579,6 +17579,23 @@
       "created_at": "2026-03-02 00:26:51"
     },
     {
+      "title": "War of the Planets",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Antonio Margheriti",
+      "raw_score": 2.64,
+      "total_ratings": 14,
+      "origin": "Italy",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Science-Fiction",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "War_of_the_Planets_1966.jpg",
+      "pitch": "War of the Planets is a 1966 Italian sci-fi adventure and the second entry in Antonio Margheriti's Gamma-One series. In the late 21st century, humanity has expanded into space, with colonies on the Moon and Mars. When astronauts on routine patrol encounter mysterious alien vessels, they trigger an interstellar conflict that threatens to consume Earth.\n\nThe film blends pulp sci-fi excitement with Cold War anxiety, reflecting 1960s fears of technological infiltration. The aliens\u2014tall, silent beings with telepathic powers\u2014prove far more sophisticated than humanity's military might. Margheriti delivers spectacular set pieces: space battles, alien infiltrators walking among humans, and a dramatic showdown above the Earth. The tone is earnest adventure, played straight without the camp that would characterize later entries in the series.\n\nFor fans of Italian genre cinema, this represents Margheriti at his most ambitious before declining into cheaper productions. The production values exceed typical European sci-fi, with elaborate sets and convincing miniatures. The result is a thrilling artifact of 1960s European science fiction cinema.",
+      "truth": "The story begins in 2017, with humanity having established colonies on the Moon and Mars. A spacecraft patrolling the outer solar system encounters an alien vessel\u2014silent, massive, and unresponsive to communications. Before the crew can react, they are killed by strange energy weapons.\n\nThe aliens, known as the Diaphanoids, launch a coordinated invasion. Their strategy involves infiltration: humanoid aliens disguised as humans embed themselves in Earth's major cities, using telepathy to control key government and military personnel. Earth leadership, compromised from within, fails to mount an effective defense.\n\nThe few uninfected humans who recognize the threat\u2014including the protagonist and his team\u2014must fight not only the alien invasion but their own government, which has been manipulated into believing the humans are the aggressors. A final space battle above Earth determines humanity's fate. The resolution involves destroying the alien command ship, breaking the telepathic control and forcing the remaining invaders to retreat.\n\nThe film ends with Earth victorious but traumatized, the implication being that humanity has passed a test that will define its future among the stars.",
+      "core": "War of the Planets channels distinctly 1960s anxieties about infiltration and the enemy within. The Diaphanoids' ability to mimic humans and control minds mirrors Cold War fears of communist infiltration, yet the film inverts expectations\u2014the alien aggressors are ultimately defeated by human resilience and individual consciousness.\n\nMargheriti explores themes of trust and paranoia. When anyone could be an alien, how does society function? The film suggests that consciousness itself\u2014the individual mind\u2014resists manipulation in ways that collective authority cannot. This philosophical undertone elevates the film above simple pulp adventure.\n\nAs part of the Gamma-One series, the film established templates for Italian space opera: Earth imperiled by alien threats, human heroes rising to meet them, and a universe where humanity must prove itself among galactic civilizations. The series would continue with increasingly diminished returns, but this entry represents its creative peak.",
+      "created_at": "2026-06-13 07:38:09"
+    },
+    {
       "title": "War with the Newts",
       "year": 1936,
       "medium": "Novel",
@@ -18157,5 +18174,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1068
+  "count": 1069
 }
