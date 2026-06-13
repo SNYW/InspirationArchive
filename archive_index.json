@@ -7321,6 +7321,21 @@
       "created_at": "2026-03-06 15:42:35"
     },
     {
+      "title": "Night Key",
+      "year": 1937,
+      "medium": "Film",
+      "creator": "Lloyd Corrigan",
+      "raw_score": 3.12,
+      "total_ratings": 34,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Crime",
+      "topics": "Technology, Crime, Science",
+      "image_filename": "Night_Key_1937.jpg",
+      "pitch": "Night Key is a 1937 science fiction crime film starring Boris Karloff in a rare sympathetic role as David Mallory, a scientist who has developed an advanced burglar alarm system. After losing his sight, Mallory partnered with businessman Stephen Ranger to commercialize his invention, but Ranger stole the profits and left Mallory in poverty. Now nearly blind and desperate, Mallory is coerced by gangsters who force him to use his own device to facilitate robberies across the city. His daughter Joan and her boyfriend Jimmy Travis race against time to uncover the truth and clear Mallory's name. The film is notable for its prescient depiction of security technology that could be turned against its creators.\n\nThe film blends the emerging science fiction genre with hard-boiled crime drama, creating a uniquely tense atmosphere. Karloff delivers a nuanced performance as the blind inventor, subverting his usual monster type to play a sympathetic scientist facing exploitation. The story feels remarkably prescient in its exploration of how technology can be weaponized by criminals.",
+      "created_at": "2026-06-13 12:25:01"
+    },
+    {
       "title": "Night Slaves",
       "year": 1970,
       "medium": "Film",
@@ -16711,5 +16726,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1114
+  "count": 1115
 }

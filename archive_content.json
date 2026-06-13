@@ -8297,6 +8297,23 @@
       "created_at": "2026-03-06 15:42:35"
     },
     {
+      "title": "Night Key",
+      "year": 1937,
+      "medium": "Film",
+      "creator": "Lloyd Corrigan",
+      "raw_score": 3.12,
+      "total_ratings": 34,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Crime",
+      "topics": "Technology, Crime, Science",
+      "image_filename": "Night_Key_1937.jpg",
+      "pitch": "Night Key is a 1937 science fiction crime film starring Boris Karloff in a rare sympathetic role as David Mallory, a scientist who has developed an advanced burglar alarm system. After losing his sight, Mallory partnered with businessman Stephen Ranger to commercialize his invention, but Ranger stole the profits and left Mallory in poverty. Now nearly blind and desperate, Mallory is coerced by gangsters who force him to use his own device to facilitate robberies across the city. His daughter Joan and her boyfriend Jimmy Travis race against time to uncover the truth and clear Mallory's name. The film is notable for its prescient depiction of security technology that could be turned against its creators.\n\nThe film blends the emerging science fiction genre with hard-boiled crime drama, creating a uniquely tense atmosphere. Karloff delivers a nuanced performance as the blind inventor, subverting his usual monster type to play a sympathetic scientist facing exploitation. The story feels remarkably prescient in its exploration of how technology can be weaponized by criminals.",
+      "truth": "David Mallory is a brilliant but nearly blind scientist who invented an advanced burglar alarm system. He partnered with businessman Stephen Ranger to bring his invention to market, but Ranger embezzled the profits and abandoned Mallory in poverty. Now living with his daughter Joan and facing total blindness, Mallory is approached by gangster \\\"The Kid\\\" who coerces him into using the alarm system to help the gang rob banks.\n\nJoan works as a secretary and dates Jimmy Travis, a young man who suspects Ranger of foul play. When Jimmy investigates Ranger's offices, he discovers evidence of the embezzlement. Meanwhile, the gang uses Mallory's device to pull off a series of successful robberies, with Mallory forced to help.\n\nJoan and Jimmy manage to trap the gangsters by arranging a meeting at Ranger's mansion. During the confrontation, Mallory uses his own invention against the criminals, disabling their getaway car and trapping the gang. Ranger is exposed as the mastermind behind the scheme. The film ends with Mallory's sight partially restored through surgery, allowing him to see his daughter's happiness.",
+      "core": "Night Key stands as a fascinating artifact of 1930s science fiction, blending the genre's speculative elements with hard-boiled crime drama. The film's portrayal of a security system that can be reverse-engineered by criminals feels remarkably prescient, anticipating debates about technology's dual-use nature that would echo through the century.\n\nKarloff's performance is particularly noteworthy\u2014rarely playing a sympathetic hero, he brings depth to the blind scientist facing exploitation. The film also explores themes of technological vulnerability and the moral responsibilities of inventors. Though the science fiction elements are modest, the film's real innovation lies in its genre hybridity and its examination of how scientific breakthroughs can be corrupted by greed.",
+      "created_at": "2026-06-13 12:25:01"
+    },
+    {
       "title": "Night Slaves",
       "year": 1970,
       "medium": "Film",
@@ -18939,5 +18956,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1114
+  "count": 1115
 }
