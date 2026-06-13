@@ -17596,6 +17596,21 @@
       "created_at": "2026-02-28 09:21:12"
     },
     {
+      "title": "Who?",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Jack Gold",
+      "raw_score": 2.5,
+      "total_ratings": 27,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Noir",
+      "topics": "Identity, AI, Robots",
+      "image_filename": "Who_1974.jpg",
+      "pitch": "1974 British-American Cold War sci-fi. A man with a metal face is returned from East Germany claiming to be scientist Lucas Martino. Intelligence officer Rogers must verify: real survivor or Soviet impostor wearing a stolen face to steal rocket secrets?",
+      "created_at": "2026-06-13 20:23:14"
+    },
+    {
       "title": "Whoops Apocalypse",
       "year": 1982,
       "medium": "TV Series",
@@ -17941,5 +17956,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1196
+  "count": 1197
 }
