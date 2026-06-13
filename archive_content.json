@@ -1514,6 +1514,23 @@
       "created_at": "2026-06-13 09:29:18"
     },
     {
+      "title": "Aquanauts",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Igor Vosnesensky",
+      "raw_score": 5.0,
+      "total_ratings": 11,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "Sentience, Aliens, Memory, Science",
+      "image_filename": "Aquanauts_1980.jpg",
+      "pitch": "A Soviet science fiction film set at an underwater deuterium extraction station in the Indian Ocean. When one aquanaut suffers a breakdown after a deep-sea mission and another goes missing, a third diver descends to discover an intelligent giant manta ray that has acquired human consciousness through a freak accident involving a crashed aircraft carrying a consciousness-copying device. The film explores themes of identity, memory, and the boundaries between human and artificial consciousness.",
+      "truth": "The Deuterium-1010 underwater station in the Indian Ocean employs two aquanauts to maintain heavy water production for nuclear power plants. When the vessel King Viking Sky rescues one aquanaut, Jacques Dumont, who has suffered a severe nervous breakdown, the second, Vilem Pasic, is presumed dead at 1010 meters depth. The third hydrocombist, Sven Ball, and researcher Igor Sobolev descend to investigate. They encounter a giant oceanic manta ray that has developed human intelligence.\n\nThe key to the mystery lies in Professor Kerom, whose consciousness matrix was accidentally copied into the manta'\\''s brain from his daughter Lotta, who died in a car accident and was Sobolev's fianc\u00e9e. An unmanned aircraft carrying consciousness-copying technology crashed over the ocean, and the manta'\\''s brain absorbed Lotta'\\''s consciousness from the wreckage. The film follows Sobolev as he grapples with the fact that his lost love now exists within an alien marine intelligence.",
+      "core": "Aquanauts is a philosophical sci-fi film that explores consciousness, identity, and the boundaries between human intelligence and artificial awareness. The film'\\''s central concept\u2014copying human consciousness into an animal'\\''s brain\u2014prefigures themes later explored in works like Ghost in the Shell. The Soviet setting provides a unique Cold War backdrop for examining technology'\\''s potential to transcend death and preserve human identity, while raising questions about what defines humanity and whether copied consciousness retains the original'\\''s essence.",
+      "created_at": "2026-06-13 12:58:09"
+    },
+    {
       "title": "Arabela",
       "year": 1980,
       "medium": "TV Series",
@@ -19041,5 +19058,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1120
+  "count": 1121
 }

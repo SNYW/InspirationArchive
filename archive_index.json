@@ -1336,6 +1336,21 @@
       "created_at": "2026-06-13 09:29:18"
     },
     {
+      "title": "Aquanauts",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Igor Vosnesensky",
+      "raw_score": 5.0,
+      "total_ratings": 11,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "Sentience, Aliens, Memory, Science",
+      "image_filename": "Aquanauts_1980.jpg",
+      "pitch": "A Soviet science fiction film set at an underwater deuterium extraction station in the Indian Ocean. When one aquanaut suffers a breakdown after a deep-sea mission and another goes missing, a third diver descends to discover an intelligent giant manta ray that has acquired human consciousness through a freak accident involving a crashed aircraft carrying a consciousness-copying device. The film explores themes of identity, memory, and the boundaries between human and artificial consciousness.",
+      "created_at": "2026-06-13 12:58:09"
+    },
+    {
       "title": "Arabela",
       "year": 1980,
       "medium": "TV Series",
@@ -16801,5 +16816,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1120
+  "count": 1121
 }
