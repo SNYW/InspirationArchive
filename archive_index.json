@@ -5753,11 +5753,11 @@
       "raw_score": 3.43,
       "total_ratings": 35,
       "origin": "UK",
-      "mood": "Gritty",
-      "sub_genres": "Dystopia, Alternate History",
-      "topics": "Occupation, Resistance, Collaboration, Fascism, War",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism, Occupation, Rebellion",
       "image_filename": "It_Happened_Here_1964.jpg",
-      "pitch": "What if the Nazis had invaded Britain successfully? Made by two teenagers over eight years, this black-and-white indie follows an Irish nurse navigating life under Nazi occupation.",
+      "pitch": "Nazi Germany invades Britain in 1940. Made by two teenagers over eight years on \u00a37,000, this independent black-and-white film imagines England under Nazi occupation\u2014through the eyes of an Irish nurse forced to work for the occupiers' medical corps.",
       "created_at": "2026-06-13 16:47:50"
     },
     {
@@ -5939,6 +5939,21 @@
       "image_filename": "Kaadu_1952.jpg",
       "pitch": "Kaadu (also released as \"The Jungle\") is a 1952 Indian-American science fiction adventure film that holds the distinction of being the first science fiction film ever produced in India. Directed by American filmmaker William Berke and produced by T.R. Sundaram's Modern Theatres Ltd, this cross-cultural collaboration represents a remarkable early instance of Indo-American cinematic cooperation. The film features Hollywood stars Rod Cameron, Cesar Romero, and Marie Windsor alongside Indian actors including M.N. Nambiar and Sulochana, blending Hollywood adventure conventions with Tamil cinema craftsmanship.\n\nThe story follows Princess Sati, who returns to India as regent to find her villages under siege from mysterious stampeding elephants. When her friend Rama Singh hires the famous hunter Steve Bentley to investigate, only one man returns from a team of ten\u2014claiming the attacks are caused by mammoths, creatures thought extinct for millennia. The film combines adventure, mystery, and scientific curiosity as Bentley, Sati, and their party venture into the jungle to confront these prehistoric beasts. Though critics note the film is \"low on monsters,\" its unusual premise and cross-cultural production make it a fascinating artifact of early global science fiction cinema.",
       "created_at": "2026-02-28 09:29:58"
+    },
+    {
+      "title": "Kaibutsu-kun",
+      "year": 1980,
+      "medium": "Anime",
+      "creator": "Fujiko Fujio",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Monsters, Supernatural, Friendship",
+      "image_filename": null,
+      "pitch": "Kaibutsu-kun (The Monster Kid) is a Japanese anime from 1980-1982. A shapeshifting boy and his monster companions \u2014 Dracula, Wolfman, and Franken \u2014 journey from Monster Land to the Human Realm, where they battle evil creatures from the demon group Demonish.",
+      "created_at": "2026-06-13 18:29:57"
     },
     {
       "title": "Kalai Arasi",
@@ -17656,5 +17671,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1177
+  "count": 1178
 }
