@@ -12462,6 +12462,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Gate to the Mind's Eye",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Thomas Dolby",
+      "raw_score": 3.65,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Technology, Discovery",
+      "image_filename": "The_Gate_to_the_Minds_Eye_1994.jpg",
+      "pitch": "The Gate to the Mind's Eye is the third installment in the pioneering Mind's Eye computer animation anthology series. Directed by Thomas Dolby (replacing Jan Nickman from the first two films), it offers a surreal visual odyssey through computer-generated imagery set to Dolby's electronic soundtrack. The film features sequences depicting armageddon, near-Earth objects, and philosophical visions of technology's evolution, accompanied by two vocal tracks featuring astrophysicist and recording artist Fiorella Terenzi. As part of the groundbreaking Mind's Eye series that helped establish computer animation as a viable art form in the early 1990s, The Gate to the Mind's Eye represents a unique fusion of cutting-edge CGI and progressive electronic music.",
+      "truth": "The Gate to the Mind's Eye consists of several computer-animated sequences, each paired with original music from Thomas Dolby. The film opens with \\\"Armageddon,\\\" depicting massive devastation through celestial phenomena. This is followed by \\\"Neo,\\\" an astronomy-themed piece exploring near-Earth objects and cosmic perspectives. \\\"Valley of the Mind's Eye\\\" traces the progression of human technology from primitive beginnings to advanced futures. The film also includes \\\"Nuvogue\\\" (a jazz track), \\\"Quantum Mechanic\\\" featuring guest vocalist Dr. Fiorella Terenzi, \\\"Delirium Tremendus,\\\" \\\"God and the Quantum,\\\" and \\\"Synchronicity\\\" (conceptualized by visionary artist Beny Tchaicovsky). The overall structure takes viewers on an abstract journey through possible technological futures and philosophical questions about humanity's place in the cosmos.",
+      "core": "The film explores themes of technology, consciousness, and human progress through its abstract CGI sequences and electronic soundscapes. It interrogates how humanity shapes and is shaped by advancing technology, what role technology plays in human consciousness and reality perception, and the philosophical implications of scientific discovery. As a pioneering work in computer animation, it represents an important milestone in demonstrating CGI's capacity for artistic expression beyond mere technical demonstration. The Mind's Eye series overall reached No. 14 on Billboard's video sales chart, proving there was commercial appetite for this new art form.",
+      "created_at": "2026-06-13 01:13:49"
+    },
+    {
       "title": "The Genocides",
       "year": 1965,
       "medium": "Novel",
@@ -17120,5 +17137,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1007
+  "count": 1008
 }
