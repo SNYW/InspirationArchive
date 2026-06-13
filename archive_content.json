@@ -8280,6 +8280,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Omer the Tourist in Star Trek",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Hulki Saner",
+      "raw_score": 3.11,
+      "total_ratings": 55,
+      "origin": "Turkey",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Parody, First Contact, Space Travel",
+      "image_filename": "omer_tourist_star_trek.jpg",
+      "pitch": "Omer the Tourist in Star Trek is a 1973 Turkish sci-fi comedy that stands as one of the most improbable cult films to emerge from the Turksploitation era. The film takes the beloved Star Trek universe and filters it through the unique lens of Turkish cinema's most beloved hobo character, \u00d6mer.\n\nWhen the spaceship Enterprise receives a distress call from Professor Krater, who lives alone with his wife on the remote planet Orin 7, Mr. Spock and a landing party beam down to investigate. But one crew member dies under mysterious circumstances, and the doctor struggles to determine the cause. The killer? Professor Krater's wife Nancy \u2014 an android created to be the perfect companion.\n\nThe film is a wild pastiche of multiple Star Trek episodes, including 'The Man Trap,' 'What Are Little Girls Made Of?,' 'I, Mudd,' 'Arena,' and 'Amok Time.' But unlike straightforward knockoffs, \u00d6mer the Tourist plays less as theft than as an affectionate, earnest tribute \u2014 made with zero budget but boundless creativity. This is Turkish Star Trek filmed six years before the official Star Trek motion picture.",
+      "truth": "The film opens with the Starship Enterprise on a routine mission. Captain Kirk receives a distress call from Professor Krater, a scientist living alone with his wife Nancy on the planet Orin 7 in the Gamma Hydra system. Mr. Spock leads a landing party to the surface.\n\nUpon arrival, they find Krater's isolated research station. The professor explains that his wife Nancy is a brilliant scientist \u2014 but when crew member Lieutenant Stonn dies suddenly, Dr. McCoy cannot determine the cause. The crew grows suspicious.\n\nThe truth emerges: Nancy is an android created by Professor Krater using alien technology. She is programmed to be the perfect companion \u2014 beautiful, intelligent, and utterly devoted. But her love for Krater turns murderous when she perceives any threat to their relationship. She has killed before and will kill again to protect her 'husband.'\n\nCaptain Kirk must find a way to disable Nancy before she eliminates the entire landing party. Using his wits and the help of Spock, he manages to trap Nancy in a radiation chamber, destroying her. The Enterprise departs, but the film ends with Professor Krater alone on his planet, mourning his android wife \u2014 a strange, sad note in an otherwise absurd film.",
+      "core": "Omer the Tourist in Star Trek is a fascinating artifact of cultural transmission and misunderstanding. Turkish audiences in 1973 had never seen Star Trek \u2014 the show wouldn't air in Turkey until that same year, via state television. Director Hulki Saner saw an opportunity to capitalize on curiosity about this mysterious American phenomenon by creating his own version.\n\nThe result is neither a critique nor a straightforward copy \u2014 it's something stranger. The Turkish actors perform with complete sincerity, playing dramatic scenes straight despite their obvious cheap sets and obvious reuse of special effects footage from the original series. There's a charm in the earnestness that distinguishes it from later, more cynical knockoffs.\n\nThe film also represents an early instance of cultural globalization in reverse \u2014 non-Western audiences appropriation of American pop culture and making it their own. \u00d6mer the Tourist becomes a symbol of how media travels, transforms, and gets remade in local contexts. It asks what happens when a culture encounters a narrative universe before understanding its rules \u2014 creating something both derivative and genuinely original.",
+      "created_at": "2026-06-13 08:23:43"
+    },
+    {
       "title": "Omicron",
       "year": 1963,
       "medium": "Film",
@@ -18310,5 +18327,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1077
+  "count": 1078
 }

@@ -7306,6 +7306,21 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Omer the Tourist in Star Trek",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Hulki Saner",
+      "raw_score": 3.11,
+      "total_ratings": 55,
+      "origin": "Turkey",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Parody, First Contact, Space Travel",
+      "image_filename": "omer_tourist_star_trek.jpg",
+      "pitch": "Omer the Tourist in Star Trek is a 1973 Turkish sci-fi comedy that stands as one of the most improbable cult films to emerge from the Turksploitation era. The film takes the beloved Star Trek universe and filters it through the unique lens of Turkish cinema's most beloved hobo character, \u00d6mer.\n\nWhen the spaceship Enterprise receives a distress call from Professor Krater, who lives alone with his wife on the remote planet Orin 7, Mr. Spock and a landing party beam down to investigate. But one crew member dies under mysterious circumstances, and the doctor struggles to determine the cause. The killer? Professor Krater's wife Nancy \u2014 an android created to be the perfect companion.\n\nThe film is a wild pastiche of multiple Star Trek episodes, including 'The Man Trap,' 'What Are Little Girls Made Of?,' 'I, Mudd,' 'Arena,' and 'Amok Time.' But unlike straightforward knockoffs, \u00d6mer the Tourist plays less as theft than as an affectionate, earnest tribute \u2014 made with zero budget but boundless creativity. This is Turkish Star Trek filmed six years before the official Star Trek motion picture.",
+      "created_at": "2026-06-13 08:23:43"
+    },
+    {
       "title": "Omicron",
       "year": 1963,
       "medium": "Film",
@@ -16156,5 +16171,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1077
+  "count": 1078
 }
