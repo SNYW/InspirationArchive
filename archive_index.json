@@ -7471,6 +7471,21 @@
       "created_at": "2026-03-19 03:11:04"
     },
     {
+      "title": "Planzet",
+      "year": 2010,
+      "medium": "Anime Film",
+      "creator": "Jun Kawazaki",
+      "raw_score": 2.55,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Space-Opera",
+      "topics": "Aliens, Survival, First Contact, Military",
+      "image_filename": "Planzet_2010.jpg",
+      "pitch": "In 2047, an unknown alien lifeform descends upon Earth, annihilating all major cities in a single catastrophic strike. Humanity, pushed to the brink of extinction, unites to build the Diffusor\u2014a desperate weapon capable of repelling the invaders. The military codename the aliens FEBRIUS (later FOS), and against all odds, the Diffusor achieves a temporary peace.\n\nSix years later, in 2053, the war continues. Hiroshi Akishima, a soldier in humanity's last desperate counterattack, embodies the resolve of a civilization fighting not just for survival, but for the chance to reclaim its world. Planzet is a compact, intense piece of Japanese anime science fiction\u2014less than 30 minutes long\u2014that delivers alien invasion spectacle with economic precision.\n\nThe film's obscurity (only 10 votes on TMDB as of this writing) makes it a genuine rarity, even among the vast catalog of Japanese sci-fi animation. For fans of obscure anime seeking underexplored material, Planzet offers a focused, self-contained story of humanity's struggle against an incomprehensible extraterrestrial threat.",
+      "created_at": "2026-06-13 04:58:33"
+    },
+    {
       "title": "Poklad",
       "year": 1984,
       "medium": "Video Game",
@@ -15631,5 +15646,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1042
+  "count": 1043
 }
