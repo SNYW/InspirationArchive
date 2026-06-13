@@ -16141,6 +16141,21 @@
       "created_at": "2026-03-05 21:26:17"
     },
     {
+      "title": "They Came from Beyond Space",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Freddie Francis",
+      "raw_score": 2.6,
+      "total_ratings": 48,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "They_Came_from_Beyond_Space_1967.jpg",
+      "pitch": "British sci-fi from Amicus. When alien meteorites crash in Cornwall, energy beings possess scientists and unleash a deadly plague. Only Dr. Curtis Temple\u2014protected by a silver plate in his skull\u2014can stop them from escaping Earth.",
+      "created_at": "2026-06-13 17:35:46"
+    },
+    {
       "title": "They Were Eleven",
       "year": 1975,
       "medium": "Manga",
@@ -17521,5 +17536,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1168
+  "count": 1169
 }
