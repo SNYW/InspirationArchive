@@ -10388,6 +10388,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Robot Town Sagami 2028",
+      "year": 2016,
+      "medium": "Anime Film",
+      "creator": "Tezuka Productions",
+      "raw_score": 3.1,
+      "total_ratings": 489,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Utopia, Science-Fantasy",
+      "topics": "Robots, Discovery, Technology",
+      "image_filename": "Robot_Town_Sagami_2028_2016.jpg",
+      "pitch": "A short promotional anime envisioning a future where humans and robots live in harmony in Sagami, Japan.",
+      "truth": "In 2016, Takao is injured in an accident and falls into a coma. During his unconscious state, a robot named Atom appears and invites him to see the future. In 2028, Sagami has become a Robot Town where humans and robots live and work together.",
+      "core": "An optimistic vision of human-robot relations, presenting robots as partners in building a better world.",
+      "created_at": "2026-06-13 18:24:56"
+    },
+    {
       "title": "Robotrix",
       "year": 1991,
       "medium": "Film",
@@ -19993,5 +20010,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1176
+  "count": 1177
 }
