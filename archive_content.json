@@ -17426,6 +17426,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "The Secret Place",
+      "year": 1966,
+      "medium": "Short Story",
+      "creator": "Richard McKenna",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Discovery, Memory",
+      "image_filename": null,
+      "pitch": "A geologist continues a seemingly futile uranium search in Oregon desert alone. He hires Helen, whose brother died with a uranium crystal, and she draws him into the fairy tales she played in the desert with her brother. Through her childhood imagination, he finds what the official search missed.",
+      "truth": "Duard Campbell was assigned to search Oregon desert for uranium during the war. After colleagues leave, he stays alone, fearing career ruin. He hires Helen, the dead boy's sister. She takes him into the desert to show places from her fairy tales. Playing along, he realizes her childhood games mark where the uranium actually lies.",
+      "core": "This Nebula winner (1967) shows how discovery requires childlike intuition over adult rationality. Campbell must enter Helen's fantasy to find what professional training missed.",
+      "created_at": "2026-06-13 20:28:18"
+    },
+    {
       "title": "The Secret of Steel City",
       "year": 1979,
       "medium": "Film",
@@ -20350,5 +20367,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1197
+  "count": 1198
 }
