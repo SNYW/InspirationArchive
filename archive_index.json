@@ -11431,6 +11431,21 @@
       "created_at": "2026-03-03 03:45:23"
     },
     {
+      "title": "The Hamburg Syndrome",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Peter Fleischmann",
+      "raw_score": 2.8,
+      "total_ratings": 23,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Pandemic, Survival, Surveillance",
+      "image_filename": "The_Hamburg_Syndrome_1979.jpg",
+      "pitch": "A deadly epidemic erupts in Hamburg in 1979, and the city is suddenly sealed off from the world. People begin dying in the streets, collapsing in fetal positions. The government and military impose martial law, establishing quarantine stations and racing to develop a vaccine.\n\nThis West German-French co-production, directed by Peter Fleischmann, gained renewed attention during the COVID-19 pandemic for its eerily prescient depiction of societal breakdown under biological threat.",
+      "created_at": "2026-06-13 03:47:31"
+    },
+    {
       "title": "The Hands of Orlac",
       "year": 1924,
       "medium": "Film",
@@ -15451,5 +15466,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1030
+  "count": 1031
 }
