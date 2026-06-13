@@ -11371,6 +11371,21 @@
       "created_at": "2026-03-03 13:50:36"
     },
     {
+      "title": "The House in the Square",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Roy Ward Baker",
+      "raw_score": 6.4,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Melancholic",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time-Travel, Love, Memory",
+      "image_filename": "The_House_in_the_Square_1951.jpg",
+      "pitch": "An American atomic scientist named Peter Standish inherits a house in London\u2019s Berkeley Square. After a lightning strike, he finds himself transported back to 1784, where he encounters the Pettigrew family\u2014an ancestor of whom he has spent years studying. Initially thrilled to live among the aristocratic world he idolized, Peter soon discovers that 18th-century life is far grimmer than his historical texts suggested.\n\nThe film uses a striking visual technique: the modern-day sequences are filmed in black-and-white while the past appears in lush Technicolor, creating a dreamlike quality that blurs the line between reality and fantasy. Peter falls in love with Helen Pettigrew, the younger sister, while knowing from history that he must marry her elder sister Kate to preserve the timeline.",
+      "created_at": "2026-06-13 02:42:49"
+    },
+    {
       "title": "The Hunteress",
       "year": 2022,
       "medium": "Film",
@@ -15301,5 +15316,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1020
+  "count": 1021
 }

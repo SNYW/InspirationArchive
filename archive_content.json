@@ -12887,6 +12887,23 @@
       "created_at": "2026-03-03 13:50:36"
     },
     {
+      "title": "The House in the Square",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Roy Ward Baker",
+      "raw_score": 6.4,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Melancholic",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time-Travel, Love, Memory",
+      "image_filename": "The_House_in_the_Square_1951.jpg",
+      "pitch": "An American atomic scientist named Peter Standish inherits a house in London\u2019s Berkeley Square. After a lightning strike, he finds himself transported back to 1784, where he encounters the Pettigrew family\u2014an ancestor of whom he has spent years studying. Initially thrilled to live among the aristocratic world he idolized, Peter soon discovers that 18th-century life is far grimmer than his historical texts suggested.\n\nThe film uses a striking visual technique: the modern-day sequences are filmed in black-and-white while the past appears in lush Technicolor, creating a dreamlike quality that blurs the line between reality and fantasy. Peter falls in love with Helen Pettigrew, the younger sister, while knowing from history that he must marry her elder sister Kate to preserve the timeline.",
+      "truth": "Peter Standish, an American atomic scientist working in London, is urged by his colleague Roger Forsyth to socialize more. Roger takes Peter to a house in Berkeley Square that Peter inherited. There, Peter confesses he has spent years studying the Pettigrew family of 1784 and wishes he could live in that era.\n\nA lightning strike transports Peter to 1784, where he is mistaken for the American cousin of the Pettigrews. He meets Kate and Helen Pettigrew. While Kate is the heir Peter must marry per history, he is drawn to the curious Helen, who asks questions about the future rather than fearing his strange manners.\n\nPeter offends the family with modern slang and knowledge. He shows Helen his hidden laboratory in the basement with modern inventions. She is fascinated rather than frightened. They fall in love, but Peter knows he must marry Kate to avoid changing history.\n\nAt a party, Peter tries to impress the Duchess of Devonshire but accidentally discusses her legacy, offending her. Kate refuses to marry him. Peter is drawn to Helen, who wants to know about the future.\n\nWhen Peter\u2019s laboratory is discovered, he is committed to Bethlem Royal Hospital. Before being taken, he rushes to Helen\u2019s room. She gives him a crux ansata (ankh) as a symbol of her love. Lightning strikes again and Peter returns to 1951.\n\nPeter awakens to find his colleague thinks he has been mad for seven weeks. He discovers Helen\u2019s grave\u2014she died of grief shortly after he was taken to the asylum. In the graveyard, he meets Martha Forsyth, Roger\u2019s sister, who bears a striking resemblance to Helen.",
+      "core": "The House in the Square explores the impossibility of escaping one\u2019s own time. Peter idealizes the past, but when he actually lives in 1784, he finds it narrow-minded, dirty, and confining. The film suggests that memory and history are romanticized constructs\u2014we cannot truly return to or rewrite the past because we are inevitably products of our own era.\n\nThe visual contrast between black-and-white and Technicolor reinforces this theme: the past appears beautiful and vibrant, but it is ultimately a fantasy. The tragic ending\u2014Helen dying of grief and Peter returning to a world where he can only mourn her\u2014delivers a poignant message about the irreversibility of time and the danger of living in nostalgia.\n\nBased on the 1926 play Berkeley Square, this was an early science fiction/fantasy film for director Roy Ward Baker and starred Tyrone Power in one of his final roles before his death in 1958.",
+      "created_at": "2026-06-13 02:42:49"
+    },
+    {
       "title": "The Hunteress",
       "year": 2022,
       "medium": "Film",
@@ -17341,5 +17358,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1020
+  "count": 1021
 }
