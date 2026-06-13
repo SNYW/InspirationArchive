@@ -13550,6 +13550,23 @@
       "created_at": "2026-06-13 01:18:19"
     },
     {
+      "title": "The Creeping Flesh",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Freddie Francis",
+      "raw_score": 2.94,
+      "total_ratings": 114,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Science, Discovery",
+      "image_filename": "creeping_flesh_1973.jpg",
+      "pitch": "Victorian scientist Emmanuel Hildern discovers a giant skeleton in New Guinea that grows flesh when exposed to water\u2014an ancient being from myth. Believing evil can be scientifically eradicated, he tests a serum on his daughter with catastrophic results.",
+      "truth": "Hildern returns from New Guinea with a skeleton that regenerates in rain. He creates a serum, tests it on his daughter Penelope\u2014she attacks men and is institutionalized. His brother James steals the skeleton; exposed to rain, it escapes. The twist: Hildern is an inmate telling his story to disbelieving doctors.",
+      "core": "Horror as metaphor for Victorian hubris and suppression of women. Two brothers experiment\u2014one on the giant, the other on female patients\u2014both seeking the same prize. Science cannot conquer evil. Moody, pessimistic tone elevates this above standard British horror.",
+      "created_at": "2026-06-13 19:27:27"
+    },
+    {
       "title": "The Cremator",
       "year": 1969,
       "medium": "Film",
@@ -20180,5 +20197,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1187
+  "count": 1188
 }
