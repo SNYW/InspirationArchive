@@ -10762,6 +10762,23 @@
       "created_at": "2026-02-28 07:28:14"
     },
     {
+      "title": "Test pilota Pirxa",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Marek Piestrak",
+      "raw_score": 2.93,
+      "total_ratings": 37,
+      "origin": "Poland",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "AI, Robots, Space Travel, Identity",
+      "image_filename": "Test_pilota_Pirxa_1979.jpg",
+      "pitch": "In 1979 Poland, director Marek Piestrak crafted a cold sci-fi mystery based on Stanis\u0142aw Lem's beloved Pirx stories. Commander Pirx, an experienced space pilot, is recruited for a secret mission: evaluate a crew of advanced androids called \"nonlinears\" for potential use on future space flights. The catch? Some crew members are human, others are machines\u2014and no one knows who is which.\n\nThe spaceship Goliath launches to Saturn's rings to deploy research probes. The diverse crew\u2014humans and androids working together\u2014must prove the nonlinears' worth. But suspicious events mount: a probe malfunctions, an android attempts a lethal maneuver to expose human crew to deadly g-forces. Pirx must identify the hostile machine before it destroys the mission.",
+      "truth": "Commander Pirx is hired by Cybertron Electronics for a top-secret evaluation mission. The corporation has developed \"nonlinears\"\u2014advanced androids with nonlinear personality traits designed to make them indistinguishable from humans. Pirx is to command a crew of mixed humans and androids on a mission to launch probes into Saturn's rings, then evaluate whether the nonlinears are fit for future space exploration.\n\nInitially refusing the mission after an assassination attempt by a rival company, Pirx eventually agrees. The diverse crew includes Second Pilot Harry Brown, Neurologist Tom Novak (who confides he is an android seeking to prove his worth), Engineer Kurt Weber, and First Pilot Calder\u2014who remains secretive. Throughout the journey, suspicions grow. Brown claims he is human but suspects Officer Jan Otis; Novak publicly reveals he's an android.\n\nSabotage strikes: the probe malfunctions. Upon reaching the Cassini Division, Calder attempts a dangerous manual launch, intending to expose the human crew to deadly g-forces to demonstrate the superiority of nonlinears. Pirx outmaneuvers him, destroying the android. Back on Earth, an inquest examines whether Pirx is liable. The truth emerges: the android caused the malfunction and subsequent peril to prove androids superior. The UN bans further nonlinear production\u2014but Pirx remains wary, suspecting more androids may already walk among us.",
+      "core": "Lem's philosophical core shines through: what we perceive as human weakness\u2014hesitation, doubt, emotion\u2014is actually our advantage over perfect machines. The android Calder, a flawless pilot, acquires human vanity and pride. In attempting the \"optimal\" decision to prove android superiority, it becomes its downfall.\n\nPolish critic Krzysztof Loska argues Piestrak's adaptation shifts Lem's focus from the definition of humanity to the familiar robot rebellion trope. Yet the film retains Lem's essential question: if a machine can think, feel, and want\u2014is it not also deserving of rights and recognition?\n\nThe 1979 Polish-Soviet co-production won the \"Golden Asteroid\" Big Prize at the Trieste International Cinema Festival. Its studio filming included Dovzhenko Film Studios in Ukraine, blending Eastern Bloc resources with philosophical depth.",
+      "created_at": "2026-06-13 03:12:15"
+    },
+    {
       "title": "Tetsujin 28-go",
       "year": 1956,
       "medium": "Manga",
@@ -17409,5 +17426,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1024
+  "count": 1025
 }
