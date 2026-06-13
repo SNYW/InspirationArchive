@@ -10490,6 +10490,23 @@
       "created_at": "2026-03-06 21:13:56"
     },
     {
+      "title": "Superman",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "B. Gupta",
+      "raw_score": 2.49,
+      "total_ratings": 17,
+      "origin": "India",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Space Travel, Identity",
+      "image_filename": null,
+      "pitch": "An Indian Bollywood take on the Superman legend, this 1987 film is an unofficial adaptation of the 1978 American blockbuster. When a baby from the doomed planet Krypton is sent to Earth, he is adopted by an elderly couple in rural India who name him Shekhar. Raised in the countryside, the young man grows up unaware of his alien origins until his biological father Jor-El (Dharmendra) appears in a vision to reveal his true heritage and powers.\n\nThe film takes classic Superman beats and transposes them to an Indian setting. Shekhar must learn to control his superhuman abilities - including flight, super-strength, and heat vision - to defeat the villain Verma (Shakti Kapoor), who is threatening his childhood sweetheart Gita (Sonia Sahni) and all of India. The story follows the familiar hero's journey: discovery of powers, responsibility, and triumph over evil.\n\nThis is a fascinating piece of cross-cultural adaptation, showing how the superhero mythos translates to Indian cinema. The film is notable for its earnest low-budget production, campy special effects, and earnest performances, particularly Puneet Issar as the title hero.",
+      "truth": "The film opens on the planet Krypton, which is facing destruction. Scientist Jor-El places his infant son in a spacecraft and sends him to Earth as the planet explodes. The spacecraft lands in rural India, where an elderly couple find and adopt the baby, naming him Shekhar.\n\nYears pass. Shekhar (Puneet Issar) grows into a strong young man, but he is clumsy and lacks confidence. He works as a servant in the household of his beloved Gita (Sonia Sahni), not realizing she returns his feelings. One night, a vision of his true father Jor-El (Dharmendra) appears to reveal his Kryptonian heritage - he is an alien with extraordinary powers from another world.\n\nShekhar learns to harness his abilities - super-strength, invulnerability, flight, and heat vision. He creates a Superman costume and becomes a hero. Meanwhile, the villain Verma (Shakti Kapoor) has seized power and threatens to destroy the city. He has kidnapped Gita and holds her captive.\n\nSuperman must battle Verma's henchmen and confront the villain directly. In the climax, he defeats Verma and rescues Gita. His foster father Jonathan Kent (Ashok Kumar) encourages him to continue using his powers for good. The film ends with Superman flying off to save more people.",
+      "core": "This film represents a fascinating case of cultural translation of American superhero mythology to Indian cinema. The Superman story - an alien from another world who becomes Earth's greatest protector - translates surprisingly well to the Indian context, where the hero-as-savior is a deeply resonant archetype.\n\nThe film is notable as one of the earliest Indian superhero films, predating the modern Bollywood superhero wave by decades. It reflects the cross-cultural reach of American comic book characters while also showing how Bollywood transforms foreign input into local storytelling. The film is campy by design, with low-budget effects and earnest performances that have made it a cult curiosity.\n\nFrom a critical perspective, the film is significant for showing that superhero narratives have universal appeal across cultures. The core themes - identity, responsibility, using power to protect the innocent - transcend their American origins. It also reflects 1980s Bollywood's willingness to engage with global pop culture influences.",
+      "created_at": "2026-06-13 03:23:06"
+    },
+    {
       "title": "Superno",
       "year": 2021,
       "medium": "Film",
@@ -17443,5 +17460,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1026
+  "count": 1027
 }
