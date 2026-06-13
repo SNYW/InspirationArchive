@@ -2092,6 +2092,23 @@
       "created_at": "2026-03-02 23:01:41"
     },
     {
+      "title": "Battle Beneath the Earth",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "Montgomery Tully",
+      "raw_score": 4.84,
+      "total_ratings": 22,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Military",
+      "topics": "War, Authoritarianism, Surveillance",
+      "image_filename": "Battle_Beneath_the_Earth.jpg",
+      "pitch": "A paranoid British sci-fi thriller from the height of Cold War paranoia. Dr. Arnold Kramer warns that Chinese forces are burrowing atomic bombs under American cities via tunnels from China to Hawaii. Dismissed as insane, his warnings are finally taken seriously.",
+      "truth": "Dr. Arnold Kramer is found wandering Las Vegas, raving about machines underground. Institutionalized as insane, he connects with Commander Shaw, who discovers Chinese forces are tunneling atomic bombs toward US cities. Shaw leads troops underground, the US Army detonates nukes in Hawaii, and the operation is destroyed. The heroes emerge from a volcano to witness the blast.",
+      "core": "Cold War paranoia cinema reflecting fears of communist infiltration and nuclear annihilation. Described as deliriously paranoid, the film's earnest treatment of absurd plot elements captures the 1967 British psyche.",
+      "created_at": "2026-06-13 19:53:00"
+    },
+    {
       "title": "Battle Beyond the Sun",
       "year": 1959,
       "medium": "Film",
@@ -20248,5 +20265,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1191
+  "count": 1192
 }
