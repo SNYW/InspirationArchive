@@ -13380,6 +13380,23 @@
       "created_at": "2026-03-01 09:53:29"
     },
     {
+      "title": "The Invisible Man",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Aleksandr Zakharov",
+      "raw_score": 5.4,
+      "total_ratings": 13,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Science Education",
+      "image_filename": "The_Invisible_Man_1985.jpg",
+      "pitch": "A Soviet adaptation of H.G. Wells' classic novel about a scientist who discovers the secret of invisibility, this 1985 Mosfilm production transforms the Victorian source material into a dark comedy-drama reflecting late Soviet-era anxieties. Rather than a straightforward hero's journey or villain's rampage, the film explores the tragic consequences of unbridled scientific curiosity.\n\nDr. Griffin achieves invisibility but finds himself hunted, suspected of murders he did not commit, and unable to prove his innocence. His former classmate Dr. Kemp promises to help recover the lost notebooks containing the reverse formula\u2014but harbors ambitions of his own. The film balances scientific wonder with mounting paranoia, creating a poignant meditation on the price of knowledge.",
+      "truth": "Dr. Griffin, a dedicated scientist, discovers the formula for making matter invisible and tests it on himself. Initially thrilled by his new capability, he soon discovers that visibility is not merely a physical state but a social one. Without proof of his identity, Griffin becomes the perfect suspect when invisible criminals commit murders around the city.\n\nHunted by police who see only an unseen threat, Griffin loses his notebooks\u2014the only record of the reverse formula that could restore his visibility. His former classmate Dr. Kemp offers to help locate the missing notes, but viewers learn that Kemp intends to use the research for his own gain rather than to help his colleague. Griffin must navigate a world where being invisible means being guilty until proven innocent, a condition that becomes impossible to prove.\n\nThe film ends with Griffin presumably remaining invisible, his fate ambiguous but tragic. Kemp's betrayal represents the moral corruption that Griffin himself avoided\u2014scientific curiosity without ethical boundaries becomes a tool for power rather than knowledge.",
+      "core": "The film reimagines Wells' story as a commentary on scientific ethics and the social consequences of discovery. In the Soviet context, invisibility becomes a metaphor for the paranoia of being watched, suspected, and unable to prove one's loyalty. Griffin's tragedy is not that he made himself invisible, but that society cannot accept what it cannot see.\n\nThe adaptation shifts Wells' focus from the dangers of the individual to the dangers of institutional suspicion. Where Wells' Griffin becomes a villain, Zakharov's Griffin remains sympathetic\u2014a man whose pure curiosity leads to his isolation. Kemp's betrayal suggests that the real danger lies not in the technology itself but in those who would misuse it.\n\nThe film asks: what is the value of scientific discovery if society cannot accept it? Griffin's invisibility is not the problem\u2014his inability to prove his innocence in a paranoid society is. This Soviet interpretation speaks to broader themes of surveillance, suspicion, and the cost of standing out from the collective.",
+      "created_at": "2026-06-13 05:35:46"
+    },
+    {
       "title": "The Invisible Man Appears",
       "year": 1949,
       "medium": "Film",
@@ -17817,5 +17834,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1048
+  "count": 1049
 }
