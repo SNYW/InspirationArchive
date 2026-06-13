@@ -3724,6 +3724,23 @@
       "created_at": "2026-03-06 07:57:11"
     },
     {
+      "title": "Dinner for Adele",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Old\u0159ich Lipsk\u00fd",
+      "raw_score": 3.75,
+      "total_ratings": 58,
+      "origin": "Czechoslovakia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Noir",
+      "topics": "Time Travel, AI, Robots",
+      "image_filename": "Dinner_for_Adele_1978.jpg",
+      "pitch": "At the fin de si\u00e8cle, American detective Nick Carter is summoned to Prague to investigate a missing dog\u2014a seemingly simple case that spirals into a nightmare. Carter discovers that the aristocratic Baron von Kratzmar has been kidnapping victims and feeding them to his sentient, carnivorous plant named Adela, who awakens to feed whenever the lullaby \"Schlafe, mein Prinzchen\" plays on the gramophone.\n\nThe 1978 Czech comedy film parodies the dime-novel detective genre while weaving in dark humor and bizarre science-fantasy elements. Director Old\u0159ich Lipsk\u00fd crafts a visually inventive mystery with eccentric inventions, baroque set pieces, and a tongue-in-cheek tone that recalls the best of European comedic cinema.",
+      "truth": "Nick Carter, the famous American detective, arrives in Prague at the turn of the century at the request of Countess Thun, who needs help finding her missing dog. Assisted by Commissar Ledvina, Carter investigates and uncovers a series of mysterious murders.\n\nThe culprit is Baron von Kratzmar, a twisted botanist who considers himself a misjudged genius. Calling himself \"the Gardener\"\u2014a notorious criminal presumed dead in the swamps years ago\u2014Kratzmar has been kidnapping people and feeding them to his giant carnivorous plant, Adela. When the gramophone plays the lullaby, Adela awakens to consume her victims.\n\nCarter and Ledvina eventually trap von Kratzmar using his own inventions and deliver him to the authorities. The detective solves the case, but the resolution is delivered with playful, absurdist flair typical of Czechoslovak comedy.",
+      "core": "Dinner for Adele is a unique blend of detective noir, gothic horror, and comedic parody that exemplifies the creative heights of Czechoslovak cinema in the 1970s. The film subverts the American detective genre by transplanting Nick Carter into a distinctly European setting\u2014prerevolutionary Prague\u2014where the rational hero must contend with baroque science and aristocratic eccentricity.\n\nThe carnivorous plant serves as both literal monster and metaphor for consuming bourgeois society. The lullaby-triggered feeding creates a darkly comic ritual that echoes fairy tale logic. Lipsk\u00fd's direction balances genuine suspense with absurdist humor, resulting in a film that transcends simple parody to become a singular creative achievement.",
+      "created_at": "2026-06-13 12:28:06"
+    },
+    {
       "title": "Dirty Pair: Project Eden",
       "year": 1986,
       "medium": "Anime Film",
@@ -18956,5 +18973,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1115
+  "count": 1116
 }
