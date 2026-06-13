@@ -1259,6 +1259,23 @@
       "created_at": "2026-03-02 19:28:36"
     },
     {
+      "title": "Amon Saga",
+      "year": 1986,
+      "medium": "OVA",
+      "creator": "Yoshitaka Amano",
+      "raw_score": 5.52,
+      "total_ratings": 2873,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Revenge, Demons",
+      "image_filename": "Amon_Saga.jpg",
+      "pitch": "Amon Saga is a 1986 OVA film based on a manga written by Baku Yumemakura and illustrated by Yoshitaka Amano, the renowned artist behind Vampire Hunter D. Set in a dark medieval fantasy world populated by humans and humanoid creatures, it follows Amon, a young swordsman seeking vengeance for his mother's death at the hands of Emperor Valhiss. To infiltrate the Valhiss fortress, Amon enlists in the Emperor's army, where he teams up with fellow soldiers Gaius and Alcan. During a mission, Amon rescues Princess Lichia, a captive held hostage for a map leading to the legendary Valley of Gold. The film features Amano's signature dark, atmospheric character designs that influenced a generation of dark fantasy anime.",
+      "truth": "Amon, a skilled swordsman whose mother was killed by Emperor Valhiss, joins the Valhiss Empire's army to infiltrate the fortress and get his revenge. During recruitment, he meets Gaius, a huge warrior seeking to join the army, and Alcan, an agile fighter with a whip. The three men pass the recruitment test and become comrades.\n\nOn a mission to rescue Princess Lichia from a giant serpent, Amon succeeds and discovers she is being held hostage in exchange for a map leading to the legendary Valley of Gold. Emperor Valhiss intends to use the treasure from the valley to fund his conquest of the world.\n\nAmon, Gaius, and Alcan continue their quest alongside Princess Lichia, battling imperial forces while pursuing their own goals. They face the sorcerer Mabo and captain Denon, who kidnapped Lichia for ransom. The group presses forward as Amon's determination to avenge his mother grows stronger.",
+      "core": "Amon Saga represents a significant work from the mid-1980s OVA boom, bridging Yoshitaka Amano's illustrative work on Vampire Hunter D with other dark fantasy adaptations of the era. The film explores vengeance as a consuming force\u2014Amon's single-minded pursuit of revenge drives the entire narrative, raising questions about whether revenge truly brings closure or merely perpetuates cycles of violence. The world-building establishes a realm where humans coexist with humanoid creatures, with Emperor Valhiss seeking world domination through economic power. Though not a mainstream success, the OVA has developed a cult following among fans of anime dark fantasy, largely due to Amano's distinctive art direction.",
+      "created_at": "2026-06-13 11:54:39"
+    },
+    {
       "title": "Amphibian Man",
       "year": 1962,
       "medium": "Film",
@@ -18871,5 +18888,5 @@
       "created_at": "2026-03-04 01:04:30"
     }
   ],
-  "count": 1110
+  "count": 1111
 }
