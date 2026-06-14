@@ -631,6 +631,24 @@
       "watch_url": "https://archive.org/details/soundofthunderot0000brad"
     },
     {
+      "title": "A Trip to Mars",
+      "year": 1918,
+      "medium": "Film",
+      "creator": "Holger-Madsen",
+      "raw_score": 3.2,
+      "total_ratings": 33,
+      "origin": "Denmark",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, First Contact, Peace",
+      "image_filename": "A_Trip_to_Mars_1918.jpg",
+      "pitch": "A pioneering 1918 Danish silent film, Himmelskibet is among the earliest sci-fi features ever made. Scientist Professor Planetaros and crew journey to Mars aboard the airship Excelsior, discovering a utopian pacifist civilization. The captain falls in love with Marya, the Martian king's daughter, who must choose to stay or return to Earth.",
+      "truth": "Professor Planetaros and his son Avanti build the space-worthy airship Excelsior and travel to Mars. They find a utopian Martian civilization free of war. Avanti meets Marya, the king's daughter, and they fall in love. Marya must decide whether to leave her peaceful world to spread peace on Earth. She chooses to go with Avanti.",
+      "core": "Himmelskibet launched the space opera subgenre. Produced during WWI, it delivered a powerful anti-war message\u2014unusual for an era of Martian invasion narratives. Critics note this may be the least antagonistic Earthling-Martian meeting in early cinema. The Danish Film Institute restored it in 2006.",
+      "created_at": "2026-06-14 17:55:16",
+      "watch_url": null
+    },
+    {
       "title": "A Trip to the Moon",
       "year": 1902,
       "medium": "Film",
@@ -22681,5 +22699,5 @@
       "watch_url": null
     }
   ],
-  "count": 1260
+  "count": 1261
 }
