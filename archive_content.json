@@ -7201,6 +7201,24 @@
       "watch_url": null
     },
     {
+      "title": "Iron Within",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "War, Aliens, Survival",
+      "image_filename": null,
+      "pitch": "When Drukhari raiders plague an Imperial planet, the Astra Militarum sends a desperate cry for help. Space Marines arrive\u2014but salvation comes at a terrible price in this Warhammer 40K universe film.",
+      "truth": "The planet is besieged by Drukhari raiders who harvest souls from captives. Overwhelmed, the Astra Militarum calls for help. Space Marines respond\u2014but they are weapons of war, not saviors. The film explores what survival truly costs.",
+      "core": "Warhammer 40K's grimdark: no heroes, only desperate survival. The setting reflects anxieties about total war and decay\u2014humanity clinging against impossible odds. Every victory is pyrrhic.",
+      "created_at": "2026-06-14 17:00:03",
+      "watch_url": null
+    },
+    {
       "title": "Island City",
       "year": 1994,
       "medium": "Film",
@@ -20809,6 +20827,24 @@
       "watch_url": null
     },
     {
+      "title": "They Were Eleven",
+      "year": 1986,
+      "medium": "Anime Film",
+      "creator": "Kazuya Konaka",
+      "raw_score": 3.27,
+      "total_ratings": 28,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Isolation, Aliens, Survival, First Contact",
+      "image_filename": "They_Were_Eleven_1986.jpg",
+      "pitch": "Ten Cosmo Academy students arrive at an ancient derelict space ship for their final exam: survive fifty days. Then they discover an eleventh person \u2014 a mysterious girl named Faya no one recognizes. As systems fail, paranoia spreads.",
+      "truth": "Faya claims transfer student but no one knows her. She has suspicious knowledge of hidden compartments, communicating with something unseen. In the climax, she's revealed as an alien probe studying human crisis responses through the ship's systems. Students must choose: help or destroy her.",
+      "core": "They Were Eleven explores trust, identity, and humanity's boundaries. Can something looking human truly be human? Faya forms genuine connections despite being alien. Paranoia about the Other mirrors real fears. An engaging 80s anime blending survival thriller with first-contact themes.",
+      "created_at": "2026-06-14 17:03:23",
+      "watch_url": null
+    },
+    {
       "title": "Things to Come",
       "year": 1936,
       "medium": "Film",
@@ -22627,5 +22663,5 @@
       "watch_url": null
     }
   ],
-  "count": 1257
+  "count": 1259
 }
