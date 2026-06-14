@@ -1761,6 +1761,22 @@
       "watch_url": "https://archive.org/details/astroboyomnibus0000tezu"
     },
     {
+      "title": "At the Earth's Core",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Kevin Connor",
+      "raw_score": 2.55,
+      "total_ratings": 167,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Rebellion",
+      "image_filename": "at_the_earths_core_1976.jpg",
+      "pitch": "1976 British sci-fantasy starring Peter Cushing and Doug McClure. Their drilling machine reaches Pellucidar, an underground world of dinosaur creatures and telepathic reptilian overlords ruling enslaved humans. Classic Amicus adventure.",
+      "created_at": "2026-06-14 20:03:51",
+      "watch_url": null
+    },
+    {
       "title": "Atlantis",
       "year": 2019,
       "medium": "Film",
@@ -20385,5 +20401,5 @@
       "watch_url": null
     }
   ],
-  "count": 1274
+  "count": 1275
 }
