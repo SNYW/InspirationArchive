@@ -12385,6 +12385,24 @@
       "watch_url": null
     },
     {
+      "title": "Slipstream",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Steven Lisberger",
+      "raw_score": 2.14,
+      "total_ratings": 62,
+      "origin": "UK",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "AI, Climate, Survival",
+      "image_filename": "Slipstream_1989.jpg",
+      "pitch": "In a post-apocalyptic future where climate collapse has created massive wind currents encircling Earth, bounty hunters pursue a mysterious android through a barren wasteland. Mark Hamill stars in this ambitious British sci-fi from the director of Tron.",
+      "truth": "Bounty hunters pursue the android Byron through a post-apocalyptic wasteland. Byron escapes with Owens. At a cave-dweller cult, Byron learns he was created to serve his dying master. He befriends Owens and dreams of other androids. In an underground museum, Tasker attacks and Ariel is killed. Byron kills Tasker but cannot finish the job. He survives and departs to find his promised land.",
+      "core": "A meditation on memory, identity, and what it means to be human. Byron, an android, quotes poetry and forms friendships. The Slipstream represents humanity's hubris. Produced by Gary Kurtz (Star Wars).",
+      "created_at": "2026-06-14 09:35:06",
+      "watch_url": null
+    },
+    {
       "title": "Snatcher",
       "year": 1988,
       "medium": "Video Game",
@@ -15568,6 +15586,24 @@
       "truth": "The VUE devastates the world, leaving survivors with strange conditions. The film presents 92 profiles in bureaucratic style: a pilot afraid of sky, twins sharing one heartbeat, a woman turning to feathers. Clinical narration documents extraordinary trauma with mundane routine.",
       "core": "Greenaway questions whether institutions can process the unknowable. The bureaucratic lens creates dark comedy while revealing how humans normalize the extraordinary. Bird imagery represents transformation and escape. Full experimental form.",
       "created_at": "2026-06-13 13:47:32",
+      "watch_url": null
+    },
+    {
+      "title": "The Falls",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Peter Greenaway",
+      "raw_score": 3.6,
+      "total_ratings": 37,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Birds, Mutation, Apocalypse",
+      "image_filename": "The_Falls_1982.jpg",
+      "pitch": "Peter Greenaway's avant-garde mock-documentary imagines a world struck by a mysterious \"Violent Unknown Event\" that leaves survivors with bird-like mutations, obsessed with flight. Told as a directory of 92 biographies of those whose surnames begin with FALL.",
+      "truth": "After the \"Violent Unknown Event,\" survivors develop bird-like mutations, dream of water, become obsessed with flight, and stop aging. The film presents 92 biographical entries of people named Fall. One concerns twins played by the Brothers Quay. Clips of Greenaway's early shorts appear. The narrator presents this absurd catalog deadpan.",
+      "core": "Greenaway's first feature explores biography, catalog, and the absurdity of documentation. Michael Nyman composed the score. The film anticipates later Greenaway works like Drowning by Numbers. 80% on Rotten Tomatoes.",
+      "created_at": "2026-06-14 09:35:38",
       "watch_url": null
     },
     {
@@ -19117,6 +19153,24 @@
       "watch_url": "https://archive.org/details/1960-04-10-the-secret-of-the-telegian-eng-dub-re-sync"
     },
     {
+      "title": "The Sender",
+      "year": 1982,
+      "medium": "Film",
+      "creator": "Roger Christian",
+      "raw_score": 2.82,
+      "total_ratings": 61,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Telepathy, Mental Health, Supernatural",
+      "image_filename": "The_Sender_1982.jpg",
+      "pitch": "A telepathic amnesiac is committed to a mental hospital where his dreams begin invading the minds of staff and patients. When doctors attempt electroshock therapy, he unleashes violent hallucinations. Roger Christian aimed for Bergman over Carpenter.",
+      "truth": "John Doe #83 wakes with amnesia and is committed to a mental hospital. His psychiatrist discovers he transmits dreams into others' minds. When staff attempts electroshock therapy, he sends violent hallucinations throughout the hospital. Police reveal his mother is dead \u2014 he killed her while escaping her attempt to poison him. Seemingly cured, he leaves \u2014 but his mother appears beside him.",
+      "core": "A meditation on maternal enmeshment and repressed guilt. John's mother kept him imprisoned, believing him a virgin birth. His telepathy is his trauma manifesting. Influenced Wes Craven's A Nightmare on Elm Street. Tarantino named it his favorite horror film of 1982.",
+      "created_at": "2026-06-14 09:34:07",
+      "watch_url": null
+    },
+    {
       "title": "The Ship Who Sang",
       "year": 1969,
       "medium": "Novel",
@@ -22231,5 +22285,5 @@
       "watch_url": null
     }
   ],
-  "count": 1235
+  "count": 1238
 }
