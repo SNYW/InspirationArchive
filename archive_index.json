@@ -1489,6 +1489,22 @@
       "watch_url": null
     },
     {
+      "title": "Another Heaven",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "?????",
+      "raw_score": 3.0,
+      "total_ratings": 35,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Noir",
+      "topics": "Crime, Investigation, Horror",
+      "image_filename": "Another_Heaven_2000.jpg",
+      "pitch": "Two hard-boiled Tokyo cops investigate a gruesome murder: the victim was killed, then his skull was opened and his brain cooked in a stew. As they track down the killer, they discover that everybody is a suspect in this surreal crime thriller.",
+      "created_at": "2026-06-14 22:33:00",
+      "watch_url": null
+    },
+    {
       "title": "Another World",
       "year": 1991,
       "medium": "Video Game",
@@ -4431,6 +4447,22 @@
       "pitch": "Eolomea is a 1972 East German-Soviet-Bulgarian co-production that stands as one of the most ambitious science fiction films to emerge from behind the Iron Curtain. Directed by Herrmann Zschoche and based on a novel by Bulgarian writer Angel Wagenstein, the film combines scientific intrigue with political drama set against the backdrop of space exploration.\n\nThe story begins with mysterious disappearances at the Margo space base, where several ships and their crews vanish without explanation over three days. As authorities scramble to understand what happened, Professor Maria Scholl suspects her colleague Professor Oli Tal is hiding crucial information. Her investigation leads to the discovery of a strange phenomenon: a mysterious light in the Cygnus constellation that appears every 24 years, first observed by British astronomers in the late 19th century.\n\nSoviet astronomers hypothesize that this light could be an artificial signal\u2014a powerful laser probing the Solar System for signs of intelligent life. When researcher Pierre Brodsky calculates that the signal might originate from a twin Earth called \"Eolomea\" (meaning \"eternal spring\"), a group of young scientists take matters into their own hands, seizing rockets for an unauthorized mission to make first contact. The film explores the tension between scientific idealism and bureaucratic caution, capturing the hopeful yet tense atmosphere of the space race era from a distinctly Eastern Bloc perspective.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/Eolomea"
+    },
+    {
+      "title": "Epoch: Evolution",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Ian Watson",
+      "raw_score": 2.75,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space, Aliens, Discovery, Religion",
+      "image_filename": "Epoch_Evolution_2003.jpg",
+      "pitch": "A sequel to the original Epoch, this 2003 Sci Fi Channel TV-movie follows engineer Mason Rand as he returns to study a mysterious alien monolith that could save\u2014or destroy\u2014Earth. When the first object arose years ago, it changed humanity's worldview fundamentally, even reshaping religion.",
+      "created_at": "2026-06-14 22:29:22",
+      "watch_url": null
     },
     {
       "title": "Ergo Proxy",
@@ -7921,6 +7953,22 @@
       "watch_url": null
     },
     {
+      "title": "Mars of Destruction",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "?????",
+      "raw_score": 1.0,
+      "total_ratings": 35,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "Mars_of_Destruction_2005.jpg",
+      "pitch": "After a space mission to Mars ends in destruction, strange monsters called Ancients begin appearing around Tokyo. A group of specialists must fight these beings until they discover a shocking truth: the Ancients claim they are the true invaders of Earth, and humanity is the true invader of Mars.",
+      "created_at": "2026-06-14 22:32:52",
+      "watch_url": null
+    },
+    {
       "title": "Martian Through Georgia",
       "year": 1962,
       "medium": "Short Film",
@@ -9537,6 +9585,22 @@
       "watch_url": null
     },
     {
+      "title": "Parasite Dolls",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "?????",
+      "raw_score": 2.8,
+      "total_ratings": 40,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Identity, Ethics",
+      "image_filename": "Parasite_Dolls_2003.jpg",
+      "pitch": "In a world where perfect androids called Boomers have infiltrated every aspect of society, Branch maintains peace between humans and plastics. But not all Boomers are created perfect, and when Boomers go bad, people die. Beauty is only skin deep, but when you cannot see beneath the skin, how do you know what you are really dealing with?",
+      "created_at": "2026-06-14 22:33:16",
+      "watch_url": null
+    },
+    {
       "title": "Paris Qui Dort",
       "year": 1924,
       "medium": "Film",
@@ -10849,6 +10913,22 @@
       "watch_url": null
     },
     {
+      "title": "Samurai Princess",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Kengo Kaji",
+      "raw_score": 2.4,
+      "total_ratings": 34,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Revenge, Cybernetics, Survival",
+      "image_filename": "Samurai_Princess_2009.jpg",
+      "pitch": "Aino Kishi survives a brutal attack that kills her friends and is transformed into a cybernetic android. Infused with her comrades' souls, she becomes a weapon with detachable chainsaw limbs, hunting the yakuza responsible for the massacre. A gore-soaked cyberpunk revenge film.",
+      "created_at": "2026-06-14 22:32:46",
+      "watch_url": null
+    },
+    {
       "title": "Santa Claus",
       "year": 1959,
       "medium": "Film",
@@ -11521,6 +11601,22 @@
       "watch_url": null
     },
     {
+      "title": "Space Battleship Yamato: Resurrection",
+      "year": 2009,
+      "medium": "Anime Film",
+      "creator": "Takeshi Shirato",
+      "raw_score": 2.9,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "Space Travel, Survival, Sacrifice, Aliens, First Contact",
+      "image_filename": "Space_Battleship_Yamato_Resurrection_2009.jpg",
+      "pitch": "In 2220, Earth faces annihilation from a wandering black hole. The Space Battleship Yamato is rebuilt to lead the evacuation fleet to Amare, 27,000 light years away. Captain Susumu Kodai must navigate hostile alien territory.",
+      "created_at": "2026-06-14 22:29:15",
+      "watch_url": null
+    },
+    {
       "title": "Space Carrier Blue Noah",
       "year": 1979,
       "medium": "Anime",
@@ -11790,6 +11886,22 @@
       "image_filename": "Sri_Asih_1954.jpg",
       "pitch": "Sri Asih is a 1954 Indonesian superhero film, notable as the first Indonesian film featuring a superhero character adapted from comics. Directed by Tan Sing Hwat and Turino Djunaedy, this lost film stars Mimi Mariani as Nani Wijaya, a young woman who transforms into the flying superheroine Sri Asih when danger strikes. The film was produced by Gabungan Artis Film and released in June 1954, marking a pioneering moment in Indonesian cinema and Southeast Asian superhero storytelling.\n\nThe story follows Nani Wijaya, who discovers her heroic alter-ego Sri Asih after overhearing criminals planning to sabotage a train. Using a magical charm, she transforms into Sri Asih\u2014a powerful woman who can fly and possesses superhuman abilities\u2014to thwart the evil Garuda Hitam gang. The film combines elements of fantasy, action, and social commentary, representing a unique fusion of Western superhero conventions with Indonesian storytelling traditions.",
       "created_at": "2026-03-03 01:04:29",
+      "watch_url": null
+    },
+    {
+      "title": "St. John's Wort",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "?????",
+      "raw_score": 2.57,
+      "total_ratings": 37,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Horror",
+      "topics": "Memory, Identity, Dreams",
+      "image_filename": "St_Johns_Wort_2001.jpg",
+      "pitch": "Nami creates artwork for a video game based on images from her dreams. With a game producer, she travels to an abandoned house matching her visions. There she discovers a photo of twin infants labelled Nami and Naomi, unlocking suppressed memories of a forgotten childhood.",
+      "created_at": "2026-06-14 22:33:10",
       "watch_url": null
     },
     {
@@ -19313,6 +19425,22 @@
       "watch_url": null
     },
     {
+      "title": "Transmutators",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Mark A. Reyes",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Philippines",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse, Military",
+      "topics": "Aliens, Survival, Rebellion, War",
+      "image_filename": null,
+      "pitch": "In December 2021, the Philippines is overrun by insect-like alien invaders called the Balangs. Former Colonel Crisval Sarmiento leads a rag-tag group of survivors in a desperate fight to protect their sanctuary called Paraiso, scavenging a ruined landscape for resources while battling the alien invaders and their human collaborators, the Mutanos.",
+      "created_at": "2026-06-14 22:30:04",
+      "watch_url": null
+    },
+    {
       "title": "Treasure Planet",
       "year": 1982,
       "medium": "Animated Film",
@@ -20529,5 +20657,5 @@
       "watch_url": null
     }
   ],
-  "count": 1283
+  "count": 1291
 }
