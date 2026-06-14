@@ -8479,6 +8479,24 @@
       "watch_url": null
     },
     {
+      "title": "Magnet Robot Gakeen",
+      "year": 1976,
+      "medium": "TV Series",
+      "creator": "Toei Company",
+      "raw_score": 4.45,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel, Aliens",
+      "image_filename": "Magnet_Robot_Gakeen_1976.jpg",
+      "pitch": "Magnet Robot Gakeen (1976) is a Japanese tokusatsu series where two teenagers pilot a magnetic robot against alien invaders. They transform by holding hands and merging with Gakeen. This unique concept influenced later mecha anime. With an 8.9 TMDB rating but only 17 votes, it's a hidden 1970s gem.",
+      "truth": "Dr. Kazuki builds Gakeen to defend Earth from the Izaru aliens. His daughter Mai and Takeshi undergo augmentation to become Magnetman Minus and Plus. They must hold hands to synchronize and merge with the robot, battling the Izaru across 39 episodes.",
+      "core": "The hand-holding transformation symbolizes teamwork. The series represents experimental 1970s tokusatsu before genre standardization. High rating (8.9/10) but very low visibility (17 votes) makes it a forgotten gem.",
+      "created_at": "2026-06-14 08:53:47",
+      "watch_url": null
+    },
+    {
       "title": "Man Divided",
       "year": 2017,
       "medium": "Film",
@@ -22177,5 +22195,5 @@
       "watch_url": null
     }
   ],
-  "count": 1232
+  "count": 1233
 }
