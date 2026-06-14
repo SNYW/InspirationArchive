@@ -33,6 +33,22 @@
       "watch_url": null
     },
     {
+      "title": "11 A.M.",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Kim Hyun-seok",
+      "raw_score": 2.76,
+      "total_ratings": 29,
+      "origin": "South-Korea",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller, Time-Travel",
+      "topics": "Time-Travel, Science, Survival",
+      "image_filename": "11AM_2013.jpg",
+      "pitch": "In the not-so distant future, South Korean researchers at a deep-sea laboratory finally crack time travel\u2014but their device can only send objects 24 hours forward. When Woo-seok and Young-eun test it on themselves, they arrive to find the base abandoned, its researchers vanished, and someone hunting them.",
+      "created_at": "2026-06-14 19:37:29",
+      "watch_url": null
+    },
+    {
       "title": "11eyes",
       "year": 2009,
       "medium": "Anime",
@@ -5519,6 +5535,22 @@
       "pitch": "A 1979 Polish sci-fi film reimagining the golem legend as a genetic clone in a 21st-century dystopia. Pernat wakes with no memory, accused of murder he cannot recall, and is released into a nightmarish world of lunatics and scientists obsessed with creating artificial life.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/der-golem_202507"
+    },
+    {
+      "title": "Golem",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Piotr Szulkin",
+      "raw_score": 3.4,
+      "total_ratings": 67,
+      "origin": "Poland",
+      "mood": "Dystopian",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Cloning, Genetic Engineering, Dystopia, Identity",
+      "image_filename": "Golem_1980.jpg",
+      "pitch": "In a 21st-century Poland, a geneticist creates a human clone\u2014a golem of flesh and DNA\u2014to serve as a vessel for consciousness. But the golem develops a sense of self, demanding recognition as a person rather than a product. Szulkin's dark parable reimagines the Jewish legend for the CRISPR age.",
+      "created_at": "2026-06-14 19:36:27",
+      "watch_url": null
     },
     {
       "title": "Goodbye, 20th Century!",
@@ -20353,5 +20385,5 @@
       "watch_url": null
     }
   ],
-  "count": 1272
+  "count": 1274
 }
