@@ -3921,6 +3921,22 @@
       "watch_url": null
     },
     {
+      "title": "Doctor Blood's Coffin",
+      "year": 1961,
+      "medium": "Film",
+      "creator": "Sidney J. Furie",
+      "raw_score": 2.63,
+      "total_ratings": 29,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Sentience, Science, Ethics",
+      "image_filename": null,
+      "pitch": "A 1961 British horror film and one of the first colour zombie movies ever made. Young biochemist Dr Peter Blood returns to Cornwall believing he can restore life by transplanting hearts from the 'undeserving' dead into 'deserving' corpses.",
+      "created_at": "2026-06-14 10:04:53",
+      "watch_url": null
+    },
+    {
       "title": "Domu: A Child's Dream",
       "year": 1980,
       "medium": "Manga",
@@ -9630,7 +9646,7 @@
       "image_filename": "Prince_of_Space_1959.jpg",
       "pitch": "Prince of Space is a 1959 Japanese tokusatsu superhero feature film that represents an early ancestor of the giant monster and special effects films Japan would become famous for worldwide. Produced by Toei Company, the film stars Tatsuo Umemiya as the titular Prince of Space, a masked superhero who defends Earth from alien invaders.\n\nThe story centers on the villainous Dictator Phantom of the planet Krangkor, who arrives on Earth seeking to steal Dr. Makin's revolutionary new rocket fuel formula. With his henchmen, Phantom threatens global domination unless the scientist hands over his discovery. Prince of Space must use his superhuman abilities, wand-like laser gun, and advanced spaceship to stop the alien dictator and protect humanity.\n\nThe film has achieved cult status in the West largely due to its appearance on Mystery Science Theater 3000, where its campy production values, distinctive villain costumes, and earnest storytelling have provided endless entertainment. The English dub compiled two Japanese theatrical features released a week apart in 1959.",
       "created_at": "2026-06-13 09:43:26",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/0816-prince-of-space"
     },
     {
       "title": "Princess Knight",
@@ -19809,5 +19825,5 @@
       "watch_url": null
     }
   ],
-  "count": 1238
+  "count": 1239
 }
