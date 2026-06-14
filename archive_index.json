@@ -4177,6 +4177,22 @@
       "watch_url": "https://archive.org/details/dragons-heaven-1988-sub"
     },
     {
+      "title": "Dream Warrior",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 1.17,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Superhuman Powers, Survival, Rebellion",
+      "image_filename": "Dream_Warrior_2004.jpg",
+      "pitch": "In an apocalyptic future, a man with superhuman powers goes on the run from those who seek to capture him. A low-budget American sci-fi actioner from the mid-2000s, it embraces post-apocalyptic themes of survival and resistance. With only 12 votes on TMDB, it's exactly the kind of obscure genre exercise that deserves preservation.",
+      "created_at": "2026-06-14 22:54:11",
+      "watch_url": null
+    },
+    {
       "title": "DreamLand: Final Solution",
       "year": 1999,
       "medium": "Video Game",
@@ -4607,6 +4623,22 @@
       "pitch": "A 1932 German sci-fi thriller set on F.P.1, a massive floating air platform in the mid-Atlantic that enables transatlantic flights. When a saboteur targets the platform, threatening to sink it with hundreds trapped aboard, the race is on to identify the culprit before communications go dark.",
       "created_at": "2026-06-13 18:19:38",
       "watch_url": "https://archive.org/details/f.-p.-1-antwortet-nicht-1932-eng-subs"
+    },
+    {
+      "title": "FAQ: Frequently Asked Questions",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Carlos Atanes",
+      "raw_score": 2.4,
+      "total_ratings": 12,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "Authoritarianism, Surveillance, Gender, Resistance",
+      "image_filename": "FAQ_Frequently_Asked_Questions_2004.jpg",
+      "pitch": "In a vaguely futuristic France, the Sisterhood of Metacontrol\u2014a matriarchal totalitarian regime\u2014rules through megaphoned announcements enforcing strict gender separation. Angeline, an exemplary citizen, joins the Order but her relationship with a man named Nono forces her to question the Doctrine.",
+      "created_at": "2026-06-14 22:54:26",
+      "watch_url": null
     },
     {
       "title": "FTL: Faster Than Light",
@@ -11598,6 +11630,22 @@
       "image_filename": "Space_Battleship_Yamato_1974.jpg",
       "pitch": "Space Battleship Yamato is a landmark Japanese anime series that helped establish space opera as a major anime genre. Set in an alternate 2199, humanity is facing extinction after Earth is devastated by alien bombs from the planet Gamilas. A mysterious message from the planet Iscandar offers hope\u2014a device that can restore Earth's radiation-damaged environment. The crew of the battleship Yamato, a relic of World War II converted into a starship, must journey across the galaxy to retrieve it, facing impossible odds against the superior Gamilas forces. The series pioneered many tropes that would define anime space opera, influencing everything from Gundam to Neon Genesis Evangelion.",
       "created_at": "2026-03-02 17:29:51",
+      "watch_url": null
+    },
+    {
+      "title": "Space Battleship Yamato Resurrection",
+      "year": 2009,
+      "medium": "Anime Film",
+      "creator": "Takeshi Shirato, Yoshinobu Nishizaki",
+      "raw_score": 2.9,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "Space Travel, Aliens, Survival, First Contact",
+      "image_filename": "Space_Battleship_Yamato_Resurrection_2009.jpg",
+      "pitch": "In 2220, a black hole threatens Earth. The Yamato is rebuilt to lead the Third Emigration Fleet to Amare, 27,000 light years away. But the SUS Empire attacks the evacuation fleets, and former enemies must unite against a tyrannical alliance hiding behind a facade of peace.",
+      "created_at": "2026-06-14 22:54:35",
       "watch_url": null
     },
     {
@@ -19697,6 +19745,22 @@
       "watch_url": "https://archive.org/details/unearthly-stranger"
     },
     {
+      "title": "Unholy",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Daryl Goldberg",
+      "raw_score": 1.71,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Nazi Mysticism, Conspiracy",
+      "image_filename": "Unholy_2007.jpg",
+      "pitch": "A grieving mother in rural Pennsylvania investigates her daughter's suicide and uncovers a terrifying conspiracy involving a fabled local witch, Nazi occultists, and the US government. Inspired by a supposed real classified military document about Nazi occult experiments.",
+      "created_at": "2026-06-14 22:54:45",
+      "watch_url": null
+    },
+    {
       "title": "Universal War One",
       "year": 2008,
       "medium": "Graphic Novel",
@@ -20657,5 +20721,5 @@
       "watch_url": null
     }
   ],
-  "count": 1291
+  "count": 1295
 }
