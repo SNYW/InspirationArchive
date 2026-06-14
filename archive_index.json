@@ -5089,6 +5089,22 @@
       "watch_url": "https://archive.org/details/freezingdown0000unse"
     },
     {
+      "title": "Friendship's Death",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Peter Wollen",
+      "raw_score": 3.46,
+      "total_ratings": 20,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Aliens, First Contact, Isolation",
+      "image_filename": "friendships_death_1987.jpg",
+      "pitch": "A female alien robot named Friendship is sent to MIT on a peace mission but crash-lands in Amman, Jordan during the 1970 Black September riots. British journalist Sullivan finds her wandering without papers and shelters her in his hotel room.",
+      "created_at": "2026-06-14 22:05:25",
+      "watch_url": null
+    },
+    {
       "title": "From Beyond",
       "year": 1960,
       "medium": "Novella",
@@ -8959,6 +8975,22 @@
       "pitch": "Nineteen Eighty-Four is a haunting dystopian novel set in a totalitarian future where the Party, led by the enigmatic Big Brother, exercises absolute control over every aspect of human life. The story follows Winston Smith, a low-ranking member of the Outer Party who works at the Ministry of Truth, where he rewrites historical records to match the Party's ever-changing version of the truth. Winston secretly harbors doubts about the Party and begins a forbidden love affair with Julia, leading him down a path of thoughtcrime and rebellion against the oppressive regime. Published in 1949, Orwell's masterpiece coined terms like \"Big Brother,\" \"doublethink,\" \"thoughtcrime,\" and \"Newspeak\" that have become part of our cultural vocabulary. The novel is a chilling warning about the dangers of totalitarianism, mass surveillance, and the manipulation of truth\u2014a warning that remains profoundly relevant in the modern age of fake news and digital surveillance.",
       "created_at": "2026-03-04 18:33:54",
       "watch_url": "https://archive.org/details/bwb_S0-AKI-268"
+    },
+    {
+      "title": "No Blade of Grass",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Cornel Wilde",
+      "raw_score": 2.65,
+      "total_ratings": 43,
+      "origin": "UK",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Pandemic, Survival, Ecology",
+      "image_filename": "no_blade_of_grass_1970.jpg",
+      "pitch": "A virus kills all wheat and rice crops worldwide, triggering societal collapse. Architect John Custance leads his family from London to his brother's isolated farm in northern England, but reaching safety means crossing a society that has descended into violence.",
+      "created_at": "2026-06-14 22:05:09",
+      "watch_url": null
     },
     {
       "title": "No. 5",
@@ -13087,6 +13119,22 @@
       "pitch": "The Beast from 20,000 Fathoms is a pioneering 1953 American monster film that helped launch the giant monster and kaiju genres. Directed by Eug\u00e8ne Louri\u00e9 and featuring groundbreaking stop-motion animation by Ray Harryhausen, the film tells the story of a massive prehistoric dinosaur\u2014called a Rhedosaurus\u2014that is awakened from frozen slumber by an atomic bomb test in the Arctic Circle. The creature then embarks on a destructive path down the eastern coast of North America, ultimately reaching New York City. Based on Ray Bradbury's short story \"The Fog Horn\" (originally published as \"The Beast from 20,000 Fathoms\"), this film pioneered the \"atomic monster\" genre and directly inspired Japan's Godzilla, making it a landmark in science fiction cinema history.",
       "created_at": "2026-03-03 03:19:07",
       "watch_url": "https://archive.org/details/the-beast-from-20-000-fathoms"
+    },
+    {
+      "title": "The Bed Sitting Room",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Richard Lester",
+      "raw_score": 2.94,
+      "total_ratings": 51,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Post-Apocalypse, Noir",
+      "topics": "Survival, Mental Health, Politics",
+      "image_filename": "the_bed_sitting_room_1969.jpg",
+      "pitch": "Three years after a nuclear war lasting two minutes, survivors wander through ruined London. Captain Bules Martin discovers radiation causes random mutations \u2014 his friend Lord Fortnum is turning into a bed-sitting room.",
+      "created_at": "2026-06-14 22:05:20",
+      "watch_url": null
     },
     {
       "title": "The Big Snit",
@@ -20481,5 +20529,5 @@
       "watch_url": null
     }
   ],
-  "count": 1280
+  "count": 1283
 }
