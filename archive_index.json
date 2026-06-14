@@ -5889,6 +5889,22 @@
       "watch_url": null
     },
     {
+      "title": "Holocaust 2000",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "Alberto De Martino",
+      "raw_score": 2.92,
+      "total_ratings": 59,
+      "origin": "Italy",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror, Dystopia",
+      "topics": "Religion, Ecology, Politics",
+      "image_filename": "Holocaust_2000_1977.jpg",
+      "pitch": "British-Italian co-production starring Kirk Douglas as an industrialist building a nuclear plant near a sacred cave. When his son is revealed as the Antichrist, Caine must stop his own project from triggering Armageddon.",
+      "created_at": "2026-06-14 10:25:10",
+      "watch_url": null
+    },
+    {
       "title": "Homoti",
       "year": 1987,
       "medium": "Film",
@@ -11710,6 +11726,22 @@
       "image_filename": "steel_jeeg.jpg",
       "pitch": "Steel Jeeg (1975) pioneered magnetic robot assembly. After a racing accident, Hiroshi Shiba is saved by his scientist father using an ancient bronze bell from the lost Jamatai Kingdom, implanted in his body, turning him into a cyborg. When underground queen Himika awakens to reclaim Earth, Hiroshi becomes the pilot of Steel Jeeg, defending Japan from the invading haniwa warriors.",
       "created_at": "2026-06-13 18:58:16",
+      "watch_url": null
+    },
+    {
+      "title": "Steps",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.48,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Technology, Exploration",
+      "image_filename": "Steps_1987.jpg",
+      "pitch": "British experimental sci-fi about Soviet virtual reality. A tourist group is shown cutting-edge VR tech through the Potemkin, exploring reality and perception.",
+      "created_at": "2026-06-14 10:26:49",
       "watch_url": null
     },
     {
@@ -18417,6 +18449,22 @@
       "watch_url": null
     },
     {
+      "title": "Thunderbird 6",
+      "year": 1968,
+      "medium": "Animated Film",
+      "creator": "Gerry & Sylvia Anderson",
+      "raw_score": 2.95,
+      "total_ratings": 44,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Technology, Rescue",
+      "image_filename": "Thunderbird_6_1968.jpg",
+      "pitch": "Sequel to Thunderbirds Are Go, featuring the iconic puppet characters. International Rescue agents board Skyship One, an anti-gravity airship, only to discover the Hood has infiltrated the vessel.",
+      "created_at": "2026-06-14 10:25:44",
+      "watch_url": null
+    },
+    {
       "title": "Thunderbirds Are Go",
       "year": 1966,
       "medium": "Film",
@@ -19905,5 +19953,5 @@
       "watch_url": null
     }
   ],
-  "count": 1244
+  "count": 1247
 }

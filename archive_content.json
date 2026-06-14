@@ -6625,6 +6625,24 @@
       "watch_url": null
     },
     {
+      "title": "Holocaust 2000",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "Alberto De Martino",
+      "raw_score": 2.92,
+      "total_ratings": 59,
+      "origin": "Italy",
+      "mood": "Pessimistic",
+      "sub_genres": "Horror, Dystopia",
+      "topics": "Religion, Ecology, Politics",
+      "image_filename": "Holocaust_2000_1977.jpg",
+      "pitch": "British-Italian co-production starring Kirk Douglas as an industrialist building a nuclear plant near a sacred cave. When his son is revealed as the Antichrist, Caine must stop his own project from triggering Armageddon.",
+      "truth": "Robert Caine pushes nuclear plant construction despite local protests. He has visions of the plant as a monster. His institutionalized son Angel is the Antichrist, destined to use the plant for apocalypse. Caine must choose between his life's work and stopping his son. Two endings exist.",
+      "core": "Late-1970s paranoid cinema blending religious horror with nuclear anxiety. While riding The Omen's coattails, it uniquely questions industrial progress and Middle Eastern energy politics. Captures era fears about nuclear technology and corporate power.",
+      "created_at": "2026-06-14 10:25:10",
+      "watch_url": null
+    },
+    {
       "title": "Homoti",
       "year": 1987,
       "medium": "Film",
@@ -13174,6 +13192,24 @@
       "truth": "Hiroshi Shiba is saved by his scientist father using an ancient Jamatai bell, becoming a cyborg. His father is killed by Himika's forces but uploads his consciousness to a defense computer and activates Steel Jeeg\u2014a giant magnetic robot. Hiroshi becomes its pilot, defending Earth from the underground Jamatai and their haniwa warriors throughout 46 episodes.",
       "core": "Steel Jeeg pioneered Takara's Magne-Robo franchise, establishing modular robot assembly. The Jamatai bell represents a lost advanced civilization. As a Go Nagai creation, it shares DNA with Mazinger Z. Found lasting fame in Italy, inspiring the 2015 tribute film.",
       "created_at": "2026-06-13 18:58:16",
+      "watch_url": null
+    },
+    {
+      "title": "Steps",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.48,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Technology, Exploration",
+      "image_filename": "Steps_1987.jpg",
+      "pitch": "British experimental sci-fi about Soviet virtual reality. A tourist group is shown cutting-edge VR tech through the Potemkin, exploring reality and perception.",
+      "truth": "A tourist group visits a facility demonstrating Soviet virtual reality technology. The experience blurs the line between simulated and actual reality. The film explores perception through experimental storytelling.",
+      "core": "Obscure British experimental film that predates mainstream VR fascination. A cerebral meditation on technology's relationship to perception and reality.",
+      "created_at": "2026-06-14 10:26:49",
       "watch_url": null
     },
     {
@@ -20719,6 +20755,24 @@
       "watch_url": null
     },
     {
+      "title": "Thunderbird 6",
+      "year": 1968,
+      "medium": "Animated Film",
+      "creator": "Gerry & Sylvia Anderson",
+      "raw_score": 2.95,
+      "total_ratings": 44,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Technology, Rescue",
+      "image_filename": "Thunderbird_6_1968.jpg",
+      "pitch": "Sequel to Thunderbirds Are Go, featuring the iconic puppet characters. International Rescue agents board Skyship One, an anti-gravity airship, only to discover the Hood has infiltrated the vessel.",
+      "truth": "In 2068, Brains designs Skyship One. Alan, Tin-Tin, Penelope and Parker represent International Rescue on its maiden voyage. The Hood's agents impersonate the crew to set a trap. After exposing the plot, they must rescue the crashing airship. Brains reveals Thunderbird 6 is the repaired Tiger Moth.",
+      "core": "Final theatrical Thunderbirds film marks transition to more realistic puppet designs. The franchise began declining commercially here, yet it remains a cult classic of 1960s British sci-fi, showcasing Gerry Anderson's innovative Supermarionation techniques.",
+      "created_at": "2026-06-14 10:25:44",
+      "watch_url": null
+    },
+    {
       "title": "Thunderbirds Are Go",
       "year": 1966,
       "medium": "Film",
@@ -22393,5 +22447,5 @@
       "watch_url": null
     }
   ],
-  "count": 1244
+  "count": 1247
 }
