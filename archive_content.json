@@ -16741,6 +16741,24 @@
       "watch_url": null
     },
     {
+      "title": "The Land That Time Forgot",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Kevin Connor",
+      "raw_score": 2.84,
+      "total_ratings": 198,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Evolution, Exploration, Survival",
+      "image_filename": "land_that_time_forgot_1974.jpg",
+      "pitch": "During World War I, survivors aboard a captured German U-boat discover Caprona \u2014 a hidden island where dinosaurs still roam alongside primitive humans. This 1974 Amicus production, based on Edgar Rice Burroughs' novel, combines genuine wonder with campy creature effects. A British box office hit that spawned two sequels and became a cult classic.",
+      "truth": "World War I survivors Bowen Tyler and Lisa Clayton commandeer a German U-boat, only to become stranded near uncharted Caprona. They find dinosaurs, primitive humans, and vast oil deposits. After volcanic eruptions and a German mutiny, they're abandoned on the island. The film frames their story as a manuscript in a bottle found in England.",
+      "core": "A quintessential 1970s British adventure fantasy exploring cooperation across enemy lines. The hand-puppet dinosaurs have tactile charm. Directed by Kevin Connor with Michael Moorcock's screenplay.",
+      "created_at": "2026-06-14 08:41:12",
+      "watch_url": null
+    },
+    {
       "title": "The Last Border",
       "year": 1993,
       "medium": "Film",
@@ -22159,5 +22177,5 @@
       "watch_url": null
     }
   ],
-  "count": 1231
+  "count": 1232
 }
