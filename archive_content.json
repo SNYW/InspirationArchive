@@ -15013,6 +15013,24 @@
       "watch_url": "https://archive.org/details/the-day-of-the-triffids-trailer"
     },
     {
+      "title": "The Day of the Triffids",
+      "year": 1981,
+      "medium": "TV Series",
+      "creator": "Douglas Livingstone",
+      "raw_score": 3.23,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Pandemic, Ecology",
+      "image_filename": "The_Day_of_the_Triffids_1981.jpg",
+      "pitch": "A meteor shower blinds most of humanity. Bill Masen, bandaged in hospital, wakes to find civilization collapsed. Now he must navigate a world where carnivorous triffids hunt the helpless blind. This 1981 BBC adaptation captures quiet dread.",
+      "truth": "Bill wakes after the meteor shower to find most humanity blind. Navigating collapsed Britain, he rescues Josella and joins survivors fleeing London. The triffids break loose and slaughter the defenseless. Most die. Bill and Jo reunite on the Sussex Downs, build a fence, start a family \u2014 then escape a feudal order treating the sighted as rulers over the blind.",
+      "core": "What happens when catastrophe is biological, not dramatic? Wyndham's theme \u2014 not all survivors deserve to survive \u2014 cuts deep. The triffids are ecological reckoning: plants we cultivated for profit now hunt us. Faithful and understated, this adaptation prioritizes atmosphere over spectacle.",
+      "created_at": "2026-06-14 08:33:45",
+      "watch_url": null
+    },
+    {
       "title": "The Day the Earth Caught Fire",
       "year": 1961,
       "medium": "Film",
@@ -22141,5 +22159,5 @@
       "watch_url": null
     }
   ],
-  "count": 1230
+  "count": 1231
 }
