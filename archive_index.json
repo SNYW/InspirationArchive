@@ -3931,7 +3931,7 @@
       "mood": "Gritty",
       "sub_genres": "Horror",
       "topics": "Sentience, Science, Ethics",
-      "image_filename": null,
+      "image_filename": "doctor_bloods_coffin_1961.jpg",
       "pitch": "A 1961 British horror film and one of the first colour zombie movies ever made. Young biochemist Dr Peter Blood returns to Cornwall believing he can restore life by transplanting hearts from the 'undeserving' dead into 'deserving' corpses.",
       "created_at": "2026-06-14 10:04:53",
       "watch_url": null
@@ -6433,6 +6433,22 @@
       "watch_url": "https://archive.org/details/bts-it-happened-here"
     },
     {
+      "title": "It Happened Here",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.43,
+      "total_ratings": 35,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, War, Survival",
+      "image_filename": "it_happened_here_1966.jpg",
+      "pitch": "A 1966 British alternate history film. World War II, 1940: the Nazi hordes invade and occupy Great Britain. English citizens must choose between collaborative submission or resistance.",
+      "created_at": "2026-06-14 10:07:23",
+      "watch_url": null
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -6894,6 +6910,22 @@
       "image_filename": "Kokey_1997.jpg",
       "pitch": "Kokey is a 1997 Filipino science fiction film produced by Star Cinema, one of the Philippines' most prominent film studios. The film tells the story of two siblings, Bong and Anna, who discover an extraterrestrial being whose spaceship has crashed on Earth. Rather than fearing the alien, the children befriend Kokey and hide him from their parents, eventually forming a deep bond with the gentle alien. Kokey uses his extraterrestrial powers to help the family's small business, attracting customers and bringing prosperity. However, Kokey becomes increasingly homesick, longing to return to his own planet and family. The film explores themes of friendship, compassion, and the pain of separation, set against the backdrop of a typical Filipino family struggling to make ends meet.",
       "created_at": "2026-03-01 21:47:40",
+      "watch_url": null
+    },
+    {
+      "title": "Konga",
+      "year": 1961,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.22,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Animals, Power",
+      "image_filename": null,
+      "pitch": "A 1961 British sci-fi horror film. Dr Decker returns from Africa after a year, presumed dead, having discovered a way to grow plants and animals to enormous size. He brings back a baby chimpanzee to test his theory.",
+      "created_at": "2026-06-14 10:06:42",
       "watch_url": null
     },
     {
@@ -14225,6 +14257,22 @@
       "watch_url": null
     },
     {
+      "title": "The Frozen Dead",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Herbert J. Leder",
+      "raw_score": 2.59,
+      "total_ratings": 31,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Nazis, Ethics",
+      "image_filename": "the_frozen_dead_1966.jpg",
+      "pitch": "A 1966 British sci-fi horror film. Nazi scientist Dr Norberg thaws frozen Nazi soldiers at his English country estate, planning to revive the Third Reich. He can thaw bodies but not brains, creating zombie-like beings.",
+      "created_at": "2026-06-14 10:05:26",
+      "watch_url": null
+    },
+    {
       "title": "The Future of Another Timeline",
       "year": 2019,
       "medium": "Novel",
@@ -18913,6 +18961,22 @@
       "watch_url": "https://archive.org/details/underseaKingdom1936Chapter11OriginaltonMitDeutschenUntertiteln"
     },
     {
+      "title": "Unearthly Stranger",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "John Krish",
+      "raw_score": 3.0,
+      "total_ratings": 32,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fiction",
+      "topics": "Aliens, First Contact, Identity",
+      "image_filename": "unearthly_stranger_1963.jpg",
+      "pitch": "A 1963 British sci-fi thriller. Scientists working on spaceflight via mental concentration are dying under mysterious circumstances. When scientist Dr Mark Davidson's new Swiss wife Julie exhibits strange traits \u2014 sleeping with eyes open, no pulse, handling hot objects barehanded \u2014 he suspects she is an alien.",
+      "created_at": "2026-06-14 10:05:47",
+      "watch_url": null
+    },
+    {
       "title": "Universal War One",
       "year": 2008,
       "medium": "Graphic Novel",
@@ -19777,6 +19841,22 @@
       "watch_url": null
     },
     {
+      "title": "Zeta One",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Michael Cort",
+      "raw_score": 2.06,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Identity, Gender",
+      "image_filename": "zeta_one_1969.jpg",
+      "pitch": "A 1969 British sci-fi comedy. Spy James Word investigates the Angvians, an all-women alien society that abducts women from other planets to brainwash them into operatives. Led by Zeta, they target Earth women for their secret ranks.",
+      "created_at": "2026-06-14 10:06:08",
+      "watch_url": null
+    },
+    {
       "title": "Zombies of the Stratosphere",
       "year": 1952,
       "medium": "Serial Film",
@@ -19825,5 +19905,5 @@
       "watch_url": null
     }
   ],
-  "count": 1239
+  "count": 1244
 }

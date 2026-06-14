@@ -4421,7 +4421,7 @@
       "mood": "Gritty",
       "sub_genres": "Horror",
       "topics": "Sentience, Science, Ethics",
-      "image_filename": null,
+      "image_filename": "doctor_bloods_coffin_1961.jpg",
       "pitch": "A 1961 British horror film and one of the first colour zombie movies ever made. Young biochemist Dr Peter Blood returns to Cornwall believing he can restore life by transplanting hearts from the 'undeserving' dead into 'deserving' corpses.",
       "truth": "Peter sets up a laboratory in an abandoned tin mine, kidnapping villagers to harvest their hearts. He transplant a heart into the body of Linda's dead husband Steve, but the reanimated zombie turns violent and kills Peter. Linda escapes alone.",
       "core": "Historically significant as one of the first colour zombie films, Doctor Blood's Coffin pioneered the modern zombie: a decayed, violent, homicidal cadaver rather than the slow-moving creature of earlier films.",
@@ -7237,6 +7237,24 @@
       "watch_url": "https://archive.org/details/bts-it-happened-here"
     },
     {
+      "title": "It Happened Here",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.43,
+      "total_ratings": 35,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, War, Survival",
+      "image_filename": "it_happened_here_1966.jpg",
+      "pitch": "A 1966 British alternate history film. World War II, 1940: the Nazi hordes invade and occupy Great Britain. English citizens must choose between collaborative submission or resistance.",
+      "truth": "The film follows ordinary Britons navigating life under Nazi occupation, showing the moral compromises and brave defiance that emerge when a country is conquered.",
+      "core": "A pioneering alternate history work, It Happened Here asks uncomfortable questions about collaboration, resistance, and what people do to survive under authoritarian occupation.",
+      "created_at": "2026-06-14 10:07:23",
+      "watch_url": null
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -7756,6 +7774,24 @@
       "truth": "On their way home from school, siblings Bong and Anna stumble upon a crashed spaceship in an abandoned lot. They discover Kokey, a young alien whose vessel has been destroyed upon landing on Earth. The children decide to keep Kokey a secret from their parents, hiding him in their modest home. At first, Kokey's presence is a source of wonder and excitement\u2014his extraterrestrial abilities include telekinesis and the power to generate light, which the children use to create a successful food stall business that attracts numerous customers.\n\nAs time passes, the family grows to love Kokey as one of their own. The alien becomes an integral part of their household, helping with daily chores and bringing joy to everyone. However, Kokey begins to show signs of deep sadness. He frequently points to the sky, shedding silent tears as he longs for his parents and his home planet. Despite the children's attempts to help him contact his family, their efforts prove unsuccessful.\n\nThe film culminates in an emotional decision as the family must come to terms with letting Kokey go. The children's love for Kokey compels them to help him find a way back home, even though it means saying goodbye to their beloved alien friend. The resolution emphasizes the selflessness of true friendship and the universal desire to be reunited with one's family.",
       "core": "Kokey represents a significant entry in Philippine cinema's engagement with the science fiction genre, particularly in its treatment of extraterrestrial life. The film stands out for its humanistic approach to the alien encounter narrative, shifting the focus from conflict and fear to compassion and connection. Rather than portraying the alien as a threat or a source of danger, Kokey presents an extraterrestrial being as a vulnerable entity in need of kindness\u2014a reflection of Filipino cultural values regarding hospitality and care for others.\n\nThe film also serves as a family drama wrapped in science fiction elements. The struggles of the family\u2014financial hardship, the need for community support, and the bonds between siblings\u2014ground the fantastical premise in recognizable Filipino experiences. Kokey's powers becoming a source of economic relief for the family speaks to broader themes of hope and upward mobility.\n\nIn terms of its place in Asian science fiction cinema, Kokey aligns with a tradition of family-friendly sci-fi that treats alien contact as an opportunity for moral growth rather than technological or military conflict. The film's optimistic tone and focus on emotional resonance over action distinguishes it from typical Western science fiction narratives of the era, offering a uniquely Filipino perspective on universal themes of belonging and home.",
       "created_at": "2026-03-01 21:47:40",
+      "watch_url": null
+    },
+    {
+      "title": "Konga",
+      "year": 1961,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.22,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Animals, Power",
+      "image_filename": null,
+      "pitch": "A 1961 British sci-fi horror film. Dr Decker returns from Africa after a year, presumed dead, having discovered a way to grow plants and animals to enormous size. He brings back a baby chimpanzee to test his theory.",
+      "truth": "Decker uses Konga to eliminate his enemies, but the chimp grows to gigantic proportions and runs amok across London, destroying everything in its path.",
+      "core": "A camp classic of 1960s British horror, Konga is a lesser-known cousin to King Kong, exploring the dangers of unchecked scientific ambition and the terror of a giant creature loose in modern civilization.",
+      "created_at": "2026-06-14 10:06:42",
       "watch_url": null
     },
     {
@@ -16003,6 +16039,24 @@
       "watch_url": null
     },
     {
+      "title": "The Frozen Dead",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Herbert J. Leder",
+      "raw_score": 2.59,
+      "total_ratings": 31,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Nazis, Ethics",
+      "image_filename": "the_frozen_dead_1966.jpg",
+      "pitch": "A 1966 British sci-fi horror film. Nazi scientist Dr Norberg thaws frozen Nazi soldiers at his English country estate, planning to revive the Third Reich. He can thaw bodies but not brains, creating zombie-like beings.",
+      "truth": "Norberg thaws frozen Nazis who only repeat one action. He brings in American Ted Roberts to help. When Elsa is found dead, Norberg keeps her head alive in a glass dome. Elsa uses telepathy to warn Jean, then activates a wall of amputated arms to strangle Norberg and Lubeck.",
+      "core": "An early Nazi/zombie mashup, The Frozen Dead imagines Nazi soldiers in suspended animation as a lingering threat. The film explores guilt, identity, and the horror of generational trauma.",
+      "created_at": "2026-06-14 10:05:26",
+      "watch_url": null
+    },
+    {
       "title": "The Future of Another Timeline",
       "year": 2019,
       "medium": "Novel",
@@ -21277,6 +21331,24 @@
       "watch_url": "https://archive.org/details/underseaKingdom1936Chapter11OriginaltonMitDeutschenUntertiteln"
     },
     {
+      "title": "Unearthly Stranger",
+      "year": 1963,
+      "medium": "Film",
+      "creator": "John Krish",
+      "raw_score": 3.0,
+      "total_ratings": 32,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fiction",
+      "topics": "Aliens, First Contact, Identity",
+      "image_filename": "unearthly_stranger_1963.jpg",
+      "pitch": "A 1963 British sci-fi thriller. Scientists working on spaceflight via mental concentration are dying under mysterious circumstances. When scientist Dr Mark Davidson's new Swiss wife Julie exhibits strange traits \u2014 sleeping with eyes open, no pulse, handling hot objects barehanded \u2014 he suspects she is an alien.",
+      "truth": "Julie is revealed as an alien sent to kill her husband but fails because she falls in love with him. She vanishes, leaving only an empty dress. Davidson makes a tape warning about aliens. His secretary announces she is also an alien, there to finish the assignment. A crowd of grim-visaged women surrounds the scientists.",
+      "core": "Praised as the best British SF film since Village of the Damned, Unearthly Stranger is a tense, paranoid thriller about alien infiltration and the Otherness of women. Its eerie atmosphere and controlled performances create lasting unease.",
+      "created_at": "2026-06-14 10:05:47",
+      "watch_url": null
+    },
+    {
       "title": "Universal War One",
       "year": 2008,
       "medium": "Graphic Novel",
@@ -22249,6 +22321,24 @@
       "watch_url": null
     },
     {
+      "title": "Zeta One",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Michael Cort",
+      "raw_score": 2.06,
+      "total_ratings": 38,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Identity, Gender",
+      "image_filename": "zeta_one_1969.jpg",
+      "pitch": "A 1969 British sci-fi comedy. Spy James Word investigates the Angvians, an all-women alien society that abducts women from other planets to brainwash them into operatives. Led by Zeta, they target Earth women for their secret ranks.",
+      "truth": "Section 5 uses stripper Edwina to set a trap for the Angvians. A final confrontation occurs at Bourdon's estate between the various parties.",
+      "core": "A bizarre psychedelic mix of sexploitation and feminist fable, Zeta One is a high point of British cinema's late-1960s weirdness. It explores a sexually rapacious matriarchy and the politics of gender difference.",
+      "created_at": "2026-06-14 10:06:08",
+      "watch_url": null
+    },
+    {
       "title": "Zombies of the Stratosphere",
       "year": 1952,
       "medium": "Serial Film",
@@ -22303,5 +22393,5 @@
       "watch_url": null
     }
   ],
-  "count": 1239
+  "count": 1244
 }
