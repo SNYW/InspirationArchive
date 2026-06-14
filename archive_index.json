@@ -4449,6 +4449,22 @@
       "watch_url": "https://archive.org/details/f.-p.-1-antwortet-nicht-1932-eng-subs"
     },
     {
+      "title": "F.P.1",
+      "year": 1933,
+      "medium": "Film",
+      "creator": "Karl Hartl",
+      "raw_score": 3.3,
+      "total_ratings": 10,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Hard-SF",
+      "topics": "Exploration, Technology, AI",
+      "image_filename": "FP1_1933.jpg",
+      "pitch": "A 1932 German sci-fi classic about a massive floating air station in the Atlantic. When the platform goes silent mid-ocean, pilot Ellissen must investigate\u2014only to find the crew knocked out by gas and the station sabotaged. Features Peter Lorre in an early role.",
+      "created_at": "2026-06-14 14:28:50",
+      "watch_url": null
+    },
+    {
       "title": "F.P.1 Doesn't Answer",
       "year": 1932,
       "medium": "Film",
@@ -19985,5 +20001,5 @@
       "watch_url": null
     }
   ],
-  "count": 1249
+  "count": 1250
 }
