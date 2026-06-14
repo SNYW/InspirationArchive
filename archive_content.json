@@ -9145,6 +9145,24 @@
       "watch_url": null
     },
     {
+      "title": "Moscow-Cassiopeia",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Richard Viktorov",
+      "raw_score": 3.14,
+      "total_ratings": 44,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Children, Exploration",
+      "image_filename": "Moscow-Cassiopeia_1974.jpg",
+      "pitch": "Soviet sci-fi from 1974: children volunteer for a 52-year interstellar journey to Alpha Cassiopeia, returning as middle-aged adults. A charming space race era film with young pioneers and genuine wonder about humanity's future among the stars.",
+      "truth": "Young pioneer Viktor proposes traveling to Alpha Cassiopeia after receiving mysterious signals. The academy approves sending minors. Pasha and six others launch aboard starship Zarya. Stowaway Fedka accidentally propels them beyond light speed. Twenty-seven years pass on Earth. They receive a message from classmate Milka, now a radio astronomer who sent the original note.",
+      "core": "Soviet-era sci-fi optimism\u2014genuine wonder about space without later Western cynicism. Child heroes embody hope for the future, mirroring Soviet youth movements. The Zarya starship represents pure scientific idealism. Cosmonaut Georgy Beregovoy consulted, adding authenticity.",
+      "created_at": "2026-06-14 09:18:32",
+      "watch_url": null
+    },
+    {
       "title": "Motorman",
       "year": 1972,
       "medium": "Novel",
@@ -22213,5 +22231,5 @@
       "watch_url": null
     }
   ],
-  "count": 1234
+  "count": 1235
 }

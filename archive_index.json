@@ -8129,6 +8129,22 @@
       "watch_url": null
     },
     {
+      "title": "Moscow-Cassiopeia",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Richard Viktorov",
+      "raw_score": 3.14,
+      "total_ratings": 44,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Children, Exploration",
+      "image_filename": "Moscow-Cassiopeia_1974.jpg",
+      "pitch": "Soviet sci-fi from 1974: children volunteer for a 52-year interstellar journey to Alpha Cassiopeia, returning as middle-aged adults. A charming space race era film with young pioneers and genuine wonder about humanity's future among the stars.",
+      "created_at": "2026-06-14 09:18:32",
+      "watch_url": null
+    },
+    {
       "title": "Motorman",
       "year": 1972,
       "medium": "Novel",
@@ -19745,5 +19761,5 @@
       "watch_url": null
     }
   ],
-  "count": 1234
+  "count": 1235
 }
