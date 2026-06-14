@@ -8257,6 +8257,22 @@
       "watch_url": null
     },
     {
+      "title": "Motel Mist",
+      "year": 2016,
+      "medium": "Film",
+      "creator": null,
+      "raw_score": 5.0,
+      "total_ratings": 11,
+      "origin": "Thailand",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Desire, Identity, Fantasy",
+      "image_filename": "motel_mist.jpg",
+      "pitch": "Erotic fantasies materialize in the rooms of a mysterious Thai motel. When guests check in, their deepest desires manifest physically with unexpected consequences. A strange disappearance, revenge, and alien encounters converge in this surreal sci-fi comedy.",
+      "created_at": "2026-06-14 16:37:11",
+      "watch_url": null
+    },
+    {
       "title": "Motorman",
       "year": 1972,
       "medium": "Novel",
@@ -20097,5 +20113,5 @@
       "watch_url": null
     }
   ],
-  "count": 1256
+  "count": 1257
 }
