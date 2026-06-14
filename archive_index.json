@@ -15390,7 +15390,7 @@
       "image_filename": "The_Little_Prince_1974.jpg",
       "pitch": "When a pilot stranded in the Sahara Desert encounters a young prince who has fallen to Earth from a tiny asteroid, he embarks on a philosophical journey through the cosmos. This 1974 musical adaptation of Antoine de Saint-Exup\u00e9ry's beloved novella blends fantasy, musical numbers, and profound wisdom about life, love, and what truly matters. The Little Prince shares his encounters with peculiar adults on various planets\u2014a king who believes he rules the universe, a businessman who counts stars, and a rose he loves but struggles to understand\u2014before finally arriving on Earth where he meets a fox and a serpent who teach him the most important lessons of all.",
       "created_at": "2026-02-28 07:28:14",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/TheLittlePrinceChapter19"
     },
     {
       "title": "The Long Dark",
@@ -17035,7 +17035,7 @@
       "mood": "Cerebral",
       "sub_genres": "Hard-SF",
       "topics": "Discovery, Memory",
-      "image_filename": null,
+      "image_filename": "The_Secret_Place_1966.jpg",
       "pitch": "A geologist continues a seemingly futile uranium search in Oregon desert alone. He hires Helen, whose brother died with a uranium crystal, and she draws him into the fairy tales she played in the desert with her brother. Through her childhood imagination, he finds what the official search missed.",
       "created_at": "2026-06-13 20:28:18",
       "watch_url": "https://en.wikisource.org/wiki/The_Secret_Places_of_the_Heart"
@@ -18769,6 +18769,22 @@
       "watch_url": null
     },
     {
+      "title": "Towers Open Fire",
+      "year": 1963,
+      "medium": "Short Film",
+      "creator": "Antony Balch",
+      "raw_score": 3.23,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Experimental",
+      "topics": "Film, Experimental Cinema, Art",
+      "image_filename": null,
+      "pitch": "Antony Balch's experimental short film Towers Open Fire (1963) applies Burroughs' cut-up technique to cinema, collaborating directly with William S. Burroughs. Shown in London as part of a triple-bill with Freaks, it represents the Beat Generation meeting avant-garde film.",
+      "created_at": "2026-06-14 11:52:43",
+      "watch_url": null
+    },
+    {
       "title": "Transarctica",
       "year": 1993,
       "medium": "Video Game",
@@ -19969,5 +19985,5 @@
       "watch_url": null
     }
   ],
-  "count": 1248
+  "count": 1249
 }

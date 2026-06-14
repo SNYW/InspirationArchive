@@ -17314,7 +17314,7 @@
       "truth": "The film opens with a pilot (Richard Kiley) making an emergency landing in the Sahara Desert. There he meets the Little Prince (Steven Warner), a young boy who asks him to draw a sheep. Over the following days, the pilot learns about the Little Prince's journey to Earth from Asteroid B-612, a tiny planet the size of a house.\n\nThe Little Prince first visited other planets in his cosmic journey. On the first planet, he met a King who commands the stars, who makes the Little Prince his ambassador but has no real power. On the second planet, he encountered a Vain man who craves admiration, dressing himself in ridiculous costumes to be admired. On the third planet, he found a Drunkard who drinks to forget his shame about drinking. On the fourth planet, he met a Businessman who endlessly counts stars, believing they belong to him.\n\nThe fifth planet was the smallest of all\u2014just big enough for a lamp and its lamplighter, who lights and extinguishes the lamp each minute. This planet fascinated the Little Prince because here, a man could see the sunset forty-four times in one day. The sixth planet held a Geographer who spends his time documenting places but never explores them, advising the Little Prince that his rose is ephemeral.\n\nFinally, the Little Prince arrived on Earth, where he encountered a snake who speaks in riddles and can send people back to where they came from with a single bite. He also met a Fox who teaches him about taming\u2014how creating connections gives meaning to life. The Fox explains that what is essential is invisible to the eyes, visible only to the heart.\n\nThroughout his journey, the Little Prince carries with him his beloved rose\u2014a flower he tends to daily, whose thorns are her only protection. He worries about her because she has four thorns to protect herself against the world.\n\nIn the desert, the Little Prince and the pilot spend their final days together. The Little Prince becomes increasingly determined to return to his asteroid and his rose. He allows the snake to bite him\u2014a transaction that will allow his body to return to the stars. The pilot is devastated, but the Little Prince explains that while his body will remain on Earth, his soul will return to his asteroid. The film ends with the pilot searching for the Little Prince in the desert, eventually giving up and flying away\u2014but in the final scene, he hears the Little Prince's laughter in the stars.",
       "core": "Beneath its whimsical surface and musical numbers, The Little Prince is a profound meditation on adulthood, innocence, and what gives life meaning. The novella (and by extension this film) critiques how adults become absorbed in \"serious matters\"\u2014power, wealth, status, accumulation\u2014while losing touch with what truly matters: love, wonder, and human connection.\n\nThe Little Prince himself represents childhood innocence and wonder, asking questions that adults have stopped asking. His journey through the planets shows how adults become trapped by their own conceits\u2014the King who rules nothing, the Vain man who no one admires, the Businessman who owns nothing but numbers, the Drunkard who is trapped in cycles of shame. Each planet represents a different adult trap.\n\nThe rose is perhaps the film's central symbol\u2014something the Little Prince loves but doesn't fully understand. The rose's vulnerability (her four thorns, her need for protection) mirrors human relationships: we are responsible for what we tame, and that responsibility gives our lives meaning.\n\nThe film adaptation adds musical numbers that, while dated, provide additional emotional resonance. The themes of loneliness, love, loss, and the importance of maintaining wonder into adulthood remain powerful. Saint-Exup\u00e9ry's message\u2014that we must protect our inner child and remember that what matters most is invisible to the eyes\u2014has only grown more relevant in an age of materialism and digital distraction.\n\nThe ending is deliberately ambiguous\u2014is the Little Prince's body just a shell? Did he truly return to his asteroid? The film suggests that death is not an ending but a transformation, and that what we love never truly leaves us.",
       "created_at": "2026-02-28 07:28:14",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/TheLittlePrinceChapter19"
     },
     {
       "title": "The Long Dark",
@@ -19163,7 +19163,7 @@
       "mood": "Cerebral",
       "sub_genres": "Hard-SF",
       "topics": "Discovery, Memory",
-      "image_filename": null,
+      "image_filename": "The_Secret_Place_1966.jpg",
       "pitch": "A geologist continues a seemingly futile uranium search in Oregon desert alone. He hires Helen, whose brother died with a uranium crystal, and she draws him into the fairy tales she played in the desert with her brother. Through her childhood imagination, he finds what the official search missed.",
       "truth": "Duard Campbell was assigned to search Oregon desert for uranium during the war. After colleagues leave, he stays alone, fearing career ruin. He hires Helen, the dead boy's sister. She takes him into the desert to show places from her fairy tales. Playing along, he realizes her childhood games mark where the uranium actually lies.",
       "core": "This Nebula winner (1967) shows how discovery requires childlike intuition over adult rationality. Campbell must enter Helen's fantasy to find what professional training missed.",
@@ -21115,6 +21115,24 @@
       "watch_url": null
     },
     {
+      "title": "Towers Open Fire",
+      "year": 1963,
+      "medium": "Short Film",
+      "creator": "Antony Balch",
+      "raw_score": 3.23,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Experimental",
+      "topics": "Film, Experimental Cinema, Art",
+      "image_filename": null,
+      "pitch": "Antony Balch's experimental short film Towers Open Fire (1963) applies Burroughs' cut-up technique to cinema, collaborating directly with William S. Burroughs. Shown in London as part of a triple-bill with Freaks, it represents the Beat Generation meeting avant-garde film.",
+      "truth": "Made in Paris in the early 1960s where Balch worked with Burroughs and Kenneth Anger at the Beat Hotel, the film uses the cut-up method - taking written text, cutting it into pieces, and rearranging fragments to create new meaning. Shown in 1963 as part of a triple-bill screening, the film is now considered lost with no surviving copies.",
+      "core": "The Balch-Burroughs collaboration prefigured the structural film movement, showing how literary cut-up techniques translated to cinema. An important artifact of 1960s avant-garde film in Paris and London.",
+      "created_at": "2026-06-14 11:52:43",
+      "watch_url": null
+    },
+    {
       "title": "Transarctica",
       "year": 1993,
       "medium": "Video Game",
@@ -22465,5 +22483,5 @@
       "watch_url": null
     }
   ],
-  "count": 1248
+  "count": 1249
 }
