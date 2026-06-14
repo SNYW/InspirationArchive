@@ -10001,6 +10001,22 @@
       "watch_url": "https://archive.org/details/prophecies-of-nostradamus-nosutoradamusu-no-daiyogen-1974-dir-toshio-masuda"
     },
     {
+      "title": "Proteus",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "John A. Apol\u70b9\u548c",
+      "raw_score": 2.36,
+      "total_ratings": 33,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Shapeshifters, Identity, Survival",
+      "image_filename": "proteus.jpg",
+      "pitch": "A group of heroin smugglers seeks shelter on an abandoned oil rig after their ship explodes\u2014only to discover the rig was cover for a biological experiment. One result is Charlie, a shapeshifting monster that absorbs its victims' memories.\n\nA paranoid cat-and-mouse chase erupts as the survivors realize the creature has become each of them.",
+      "created_at": "2026-06-14 20:49:36",
+      "watch_url": null
+    },
+    {
       "title": "Przek\u0142adaniec",
       "year": 1968,
       "medium": "Film",
@@ -19281,6 +19297,22 @@
       "watch_url": "https://archive.org/details/turks-in-space"
     },
     {
+      "title": "Tykho Moon",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Enki Bilal",
+      "raw_score": 2.8,
+      "total_ratings": 35,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Illness, Politics, Power",
+      "image_filename": "tykho_moon.jpg",
+      "pitch": "On a Moon colony that mirrors decaying Paris, the McBee dynasty rules with an iron fist\u2014 until a mysterious illness threatens to wipe out the ruling family. Their only hope: find Tykho Moon, a legendary donor presumed dead years ago.\n\nBilal's haunting surreal dystopia explores how power decays.",
+      "created_at": "2026-06-14 20:49:11",
+      "watch_url": null
+    },
+    {
       "title": "UFO",
       "year": 1970,
       "medium": "TV Series",
@@ -19583,6 +19615,22 @@
       "pitch": "Viaje al planeta J\u00fapiter (Le Voyage sur Jupiter / A Trip to Jupiter) is an 8-minute silent short film from 1909, directed by the pioneering Spanish filmmaker Segundo de Chom\u00f3n. Produced by Path\u00e9 Fr\u00e8res in Paris, this early science fiction film is part of a wave of early 20th-century cinematic space exploration fantasies that followed in the wake of Georges M\u00e9li\u00e8s' influential A Trip to the Moon (1902). The film depicts a fantasy journey from Earth to Jupiter, showcasing the technological optimism and curiosity about space travel that characterized the era's scientific imagination. Chom\u00f3n, often called the \"Spanish M\u00e9li\u00e8s,\" was renowned for his innovative special effects and trick photography, and this film demonstrates his mastery of stop-motion animation and theatrical spectacle.\n\nThe film is notable for its place in cinematic history as one of the earliest depictions of interplanetary travel in European cinema, and for representing Spain's contribution to early science fiction filmmaking during the silent era. Its production came during a period of intense experimentation in filmmaking techniques, where directors like Chom\u00f3n pushed the boundaries of what could be captured on film, creating fantastical visions of worlds beyond Earth that captivated early movie audiences.",
       "created_at": "2026-03-18 11:07:16",
       "watch_url": "https://archive.org/details/AncreSegundoDeChomonViajeAJupiter"
+    },
+    {
+      "title": "Virtual Sexuality",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Nick Hurran",
+      "raw_score": 2.67,
+      "total_ratings": 58,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Identity, Gender",
+      "image_filename": "",
+      "pitch": "When 17-year-old Justine is stood up on a date, she goes to a VR exhibition and creates her perfect man. After a power cut, she wakes up inside that male body\u2014becoming her own ideal mate.\n\nA quirky British teen comedy about identity, gender, and finding your true self.",
+      "created_at": "2026-06-14 20:49:53",
+      "watch_url": null
     },
     {
       "title": "Visitors from the Arkana Galaxy",
@@ -20401,5 +20449,5 @@
       "watch_url": null
     }
   ],
-  "count": 1275
+  "count": 1278
 }

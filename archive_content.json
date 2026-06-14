@@ -11251,6 +11251,24 @@
       "watch_url": "https://archive.org/details/prophecies-of-nostradamus-nosutoradamusu-no-daiyogen-1974-dir-toshio-masuda"
     },
     {
+      "title": "Proteus",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "John A. Apol\u70b9\u548c",
+      "raw_score": 2.36,
+      "total_ratings": 33,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Shapeshifters, Identity, Survival",
+      "image_filename": "proteus.jpg",
+      "pitch": "A group of heroin smugglers seeks shelter on an abandoned oil rig after their ship explodes\u2014only to discover the rig was cover for a biological experiment. One result is Charlie, a shapeshifting monster that absorbs its victims' memories.\n\nA paranoid cat-and-mouse chase erupts as the survivors realize the creature has become each of them.",
+      "truth": "Smugglers hide on an abandoned oil rig after their ship explodes. They soon learn it's a front for biological experiments. The creature Charlie can mimic memories and appearances of those it absorbs. One by one, the smugglers are picked off as Charlie becomes them, turning allies against each other in escalating terror.",
+      "core": "Proteus explores identity as fluid and mutable\u2014literally absorbed. The shapeshifter reflects fears of not knowing who's real, echoing body-snatcher tropes. Low-budget but effective practical effects create genuine unease.",
+      "created_at": "2026-06-14 20:49:36",
+      "watch_url": null
+    },
+    {
       "title": "Przek\u0142adaniec",
       "year": 1968,
       "medium": "Film",
@@ -21691,6 +21709,24 @@
       "watch_url": "https://archive.org/details/turks-in-space"
     },
     {
+      "title": "Tykho Moon",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Enki Bilal",
+      "raw_score": 2.8,
+      "total_ratings": 35,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Illness, Politics, Power",
+      "image_filename": "tykho_moon.jpg",
+      "pitch": "On a Moon colony that mirrors decaying Paris, the McBee dynasty rules with an iron fist\u2014 until a mysterious illness threatens to wipe out the ruling family. Their only hope: find Tykho Moon, a legendary donor presumed dead years ago.\n\nBilal's haunting surreal dystopia explores how power decays.",
+      "truth": "The McBee family rules a Moon colony divided by a wall. A degenerative illness afflicts the dictator and his sons. Desperate, they send hunters to find Tykho Moon, a perfect organ donor thought dead in a fire decades earlier. A killer stalks family members venturing into the city, driving the regime deeper into paranoia and madness.",
+      "core": "Tykho Moon works as an allegory for decaying power. The wall echoes historical divisions, while the illness consuming the ruling family symbolizes how all oppressive systems ultimately collapse. Bilal's stark visuals create persistent unease in this cold, isolated world.",
+      "created_at": "2026-06-14 20:49:11",
+      "watch_url": null
+    },
+    {
       "title": "UFO",
       "year": 1970,
       "medium": "TV Series",
@@ -22031,6 +22067,24 @@
       "core": "Viaje al planeta J\u00fapiter represents a significant moment in the development of science fiction cinema, demonstrating how early filmmakers used the medium to visualize humanity's fantasies about space exploration at a time when actual space travel remained purely speculative. The film emerged during a period when astronomers and the public alike were fascinated by the possibilities of interplanetary journeys, and cinema provided a new visual language to express these cosmic aspirations.\n\nChom\u00f3n's work in this film exemplifies the transnational nature of early cinema, with a Spanish director working for a French company to create a fantasy about space travel that drew inspiration from both French cinematic traditions and the broader European appetite for scientific wonder. The film stands as an important precursor to the science fiction genre in cinema, helping establish themes of cosmic exploration that would become central to the genre throughout the 20th century.\n\nThe film's historical significance also lies in its demonstration of how early filmmakers\u2014particularly those working in the European fantasy tradition\u2014blended scientific curiosity with theatrical spectacle, creating a visual grammar for depicting the unknown that would influence generations of science fiction filmmakers to come.",
       "created_at": "2026-03-18 11:07:16",
       "watch_url": "https://archive.org/details/AncreSegundoDeChomonViajeAJupiter"
+    },
+    {
+      "title": "Virtual Sexuality",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Nick Hurran",
+      "raw_score": 2.67,
+      "total_ratings": 58,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Identity, Gender",
+      "image_filename": "",
+      "pitch": "When 17-year-old Justine is stood up on a date, she goes to a VR exhibition and creates her perfect man. After a power cut, she wakes up inside that male body\u2014becoming her own ideal mate.\n\nA quirky British teen comedy about identity, gender, and finding your true self.",
+      "truth": "Justine creates Jake, her perfect man, in a VR makeover machine. After a freak power cut, she inhabits his body. Jake moves in with her friend Chas while the original Justine searches for love. Complications arise when Justine falls for Jake without knowing they're the same person.",
+      "core": "Virtual Sexuality plays with identity and gender fluidity through a sci-fi premise. Inspired by Weird Science but with a female perspective. The film explores self-acceptance and what we really want in partners.",
+      "created_at": "2026-06-14 20:49:53",
+      "watch_url": null
     },
     {
       "title": "Visitors from the Arkana Galaxy",
@@ -22951,5 +23005,5 @@
       "watch_url": null
     }
   ],
-  "count": 1275
+  "count": 1278
 }
