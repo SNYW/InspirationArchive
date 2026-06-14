@@ -16363,6 +16363,24 @@
       "watch_url": "https://archive.org/details/turner_video_393298"
     },
     {
+      "title": "The Fitzroy",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Andrew Miller",
+      "raw_score": 3.2,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Noir",
+      "topics": "Survival, Class Struggle, Technology",
+      "image_filename": "The_Fitzroy_2017.jpg",
+      "pitch": "A live-action black comedy set in an alternate post-apocalyptic 1950s England. The world is covered in poisonous gas, and the last refuge is The Fitzroy\u2014an abandoned submarine converted into a hotel off the coast of England. Bernard, the sole employee, serves as bellboy, cook, and maintenance man, maintaining rigid British service rituals despite the wasteland outside.",
+      "truth": "Bernard is the only staff at The Fitzroy hotel-submarine, serving guests who arrive seeking refuge. He maintains daily routines\u2014afternoon tea, proper service\u2014while patching leaks and keeping the generator running. The film is atmosphere over plot: a meditation on British stoicism and class in the face of apocalypse. It ends with Bernard continuing his endless duties.",
+      "core": "A subversive film using its absurd premise to explore British class, deference, and the rituals that define identity. Bernard represents the working class forever serving\u2014even when society has collapsed, he maintains proper tea service. Darkly funny critique of British stoicism and identity.",
+      "created_at": "2026-06-14 21:14:05",
+      "watch_url": null
+    },
+    {
       "title": "The Flat",
       "year": 1968,
       "medium": "Film",
@@ -23005,5 +23023,5 @@
       "watch_url": null
     }
   ],
-  "count": 1278
+  "count": 1279
 }
