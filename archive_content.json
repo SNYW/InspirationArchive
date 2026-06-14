@@ -5671,6 +5671,24 @@
       "watch_url": null
     },
     {
+      "title": "Frankenstein's Great Aunt Tillie",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Myron J. Gold",
+      "raw_score": 1.52,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Family, Supernatural",
+      "image_filename": "Frankensteins_Great_Aunt_Tillie_1984.jpg",
+      "pitch": "The Frankenstein family returns to their Transylvanian castle to find hidden treasure and re-animate the monster. Donald Pleasence stars in this obscure 1984 comedy - a UK/Mexico/US co-production with only 12 TMDB votes.",
+      "truth": "The family returns to find treasure and re-animate the monster. Victor Frankenstein (Pleasence) leads with niece Tillie. Their attempts cause comedic disasters, the monster runs loose, and plans collapse.",
+      "core": "A low-budget British B-movie comedy playing Frankenstein tropes. Veteran actors in genre material. The obscurity (12 votes) is the point - forgotten genre piece for the archive.",
+      "created_at": "2026-06-14 21:40:58",
+      "watch_url": null
+    },
+    {
       "title": "Frankenweenie",
       "year": 1984,
       "medium": "Short Film",
@@ -23023,5 +23041,5 @@
       "watch_url": null
     }
   ],
-  "count": 1279
+  "count": 1280
 }
