@@ -11575,6 +11575,24 @@
       "watch_url": "https://archive.org/details/roadsidepicnic00stru"
     },
     {
+      "title": "Robot & Scarecrow",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Katherine Dieckmann (Director)",
+      "raw_score": 3.9,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Love, Robots, Sentience",
+      "image_filename": "robot_scarecrow_2017.jpg",
+      "pitch": "A love story between a robot and a scarecrow who meet and fall for each other at a summer music festival. This short film explores themes of connection, identity, and what it means to love across the boundaries of form and existence.",
+      "truth": "At a summer music festival, a robot and a scarecrow find themselves drawn to each other. Despite their inanimate nature, they develop a profound connection that transcends their intended purposes. The film follows their brief but meaningful encounter as they navigate this unusual romance.",
+      "core": "What constitutes consciousness? Both characters are objects given artificial life through their roles - one programmed to serve, the other meant to deter birds. Their relationship suggests sentience emerges from genuine encounter, not construction.",
+      "created_at": "2026-06-14 15:22:29",
+      "watch_url": null
+    },
+    {
       "title": "Robot Carnival",
       "year": 1987,
       "medium": "Anime",
@@ -22519,5 +22537,5 @@
       "watch_url": null
     }
   ],
-  "count": 1251
+  "count": 1252
 }
