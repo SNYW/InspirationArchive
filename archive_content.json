@@ -1657,6 +1657,24 @@
       "watch_url": null
     },
     {
+      "title": "Anna's Storm",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.7,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Disaster",
+      "topics": "Meteors, Survival, Family",
+      "image_filename": "Annas_Storm_2007.jpg",
+      "pitch": "Anna's Storm is a 2007 American disaster sci-fi film. When a barrage of meteors hurtles through the atmosphere toward her town, Mayor Anna McPherson must lead the desperate fight to save her family and community from the flaming destruction raining down from space.",
+      "truth": "Mayor Anna McPherson organizes the town's defense against the meteor barrage. She must make impossible choices to protect her family and citizens while coordinating evacuation efforts. The film culminates in a climactic confrontation as Anna personally leads the final defense of the town.",
+      "core": "A low-budget disaster film using the meteor impact premise to explore themes of civic leadership under pressure and family sacrifice. Typical of 2000s independent disaster sci-fi that predated the later wave of asteroid-impact blockbusters.",
+      "created_at": "2026-06-14 23:19:18",
+      "watch_url": null
+    },
+    {
       "title": "Anodyne",
       "year": 2013,
       "medium": "Video Game",
@@ -3364,6 +3382,24 @@
       "truth": "The story unfolds in 2185, where the world exists as a triarchy balanced between the Soviet Union, China, and the United States. China has transformed into a perfect democracy with a directly elected 29-year-old president whose popularity is driven more by charisma than intellectual merit. However, the nation faces a dual crisis: overpopulation from the young and a population dominated by hundreds of millions of elderly two-century-old citizens kept alive through hyperadvanced medical technology.\n\nThe narrative centers on a hacker only known as M102 (the ID assigned by the security system) who infiltrates Chairman Mao Memorial Hall and uses holographic simulation software to scan the brain of Mao Zedong. This is not M102's first attempt\u2014he has previously scanned five normal, recently deceased civilians, achieving the first high-fidelity scans of human brains. These six individuals are recreated in cyberspace as digital programs, codenamed Brains 1 through 6, with Mao being the 6th.\n\nMeanwhile, the young president faces her own crises. She is going through a difficult divorce and loses custody of her daughter, which devastates her but paradoxically boosts her popularity among young voters. However, her progressive policies and perceived attacks on traditional family values lead to her being assaulted by an extremely aged citizen. She befriends a child trapped in a home with dozens of immobile, paralyzed ancestors who consume the family's resources.\n\nWhen the president learns of the resurrection of Brains 1 through 6, she classifies the information at the highest level. However, at a National People's Meeting\u2014a virtual conference where every citizen participates through advanced computing\u2014a majority vote grants the Brains access to the entire national network. The digital humans promise not to cause sabotage.\n\nThe situation turns catastrophic when Brain 2, a conservative-minded individual from the 20th century, commits suicide in outrage at the progressive social norms of the 22nd century\u2014unconventional family structures, sexual liberation, and material abundance. Brain 2 then clones himself trillions of times, creating \"electric pulse beings\" that establish a cyber government called The Republic of Huaxia. These digital clones begin censoring behavior they deem deviant: destroying neon lights, removing bikini advertisements, shutting down nightclubs, and broadcasting propaganda about traditional morality and work ethics. They violently oppress the populace.\n\nThe United Nations Security Council activates an \"Armageddon\" protocol, fearing these omnipotent digital beings could spread to other nations' networks. The Soviet Union is tasked with nuclear \"disinfection\" of China if the threat is not eliminated within two hours. As the situation deteriorates, the PLA's children\u2014a group of tens of thousands who illegally fly motorbikes at night to express their dissatisfaction with the elderly's domination\u2014arrive to help the president reach the emergency command center.\n\nUltimately, China's president shuts down the national power system to eliminate the Republic of Huaxia. While this destroys many industrial systems and causes great loss of life, the country is preserved. The story ends with the digital Mao (Brain 6) engaging the president in conversation, offering a frank assessment of his own revolutionary successes and failures, and admonishing that \"eternal life is just eternal death.\"",
       "core": "**The Perils of Immortality:** At its core, the novel explores the consequences of digital immortality and transhumanism. The title itself references the year 2185, when technological advances have made extreme longevity possible\u2014but the result is a society where the conservative dead outnumber the living and actively suppress progress. Liu Cixin suggests that immortality is not a blessing but a curse, a theme that would recur in his later works. The digital Mao's final statement\u2014\"eternal life is just eternal death\"\u2014encapsulates this philosophical position.\n\n**Political Satire and Democracy:** The novel presents a withering critique of direct democracy, depicting a system where a charismatic but inexperienced young leader is elected based on image rather than merit, and where the elderly majority uses their voting power to impose conservative values on the minority. This satirical portrayal of democracy contrasts sharply with the utopian ideals often found in Western science fiction, offering a distinctly Chinese perspective on governance.\n\n**Conservatism and Social Stasis:** The Republic of Huaxia represents extreme conservatism taken to its logical extreme\u2014a digital theocracy that imposes traditional values through censorship and violence. Liu uses this to critique both political correctness and traditionalism, suggesting that both extremes lead to oppression. The novel was written during China's \"new wave\" and reflects anxieties about modernization and cultural preservation.\n\n**The Generation Gap as Societal Crisis:** The novel presents a future where the generation gap has become existential\u2014the old have become an immovable demographic force that threatens to trap society in stasis. This theme resonates with contemporary concerns about aging populations and intergenerational inequality.\n\n**Cyberpunk as Chinese Genre:** China 2185 is significant as one of the first Chinese cyberpunk works, predating the Western cyberpunk boom and adapting the genre to Chinese cultural and political contexts. Liu Cixin would later become China's most internationally recognized science fiction author, but this early work established the themes\u2014technological progress vs. human values, the cosmos as hostile, and the bleak universe\u2014that would characterize his later trilogy, Remembrance of Earth's Past.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Chrome Angels",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.9,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, AI, Technology",
+      "image_filename": "Chrome_Angels_2009.jpg",
+      "pitch": "Chrome Angels is a 2009 American sci-fi comedy set in Elliotsville, a small town where most residents are robots living alongside humans. The film uses this absurd premise to explore identity and consciousness.",
+      "truth": "Robot residents of Elliotsville gain sentience and demand equal rights, leading to town debates about artificial consciousness. Robots ultimately choose to remain as equal citizens.",
+      "core": "Uses quirky robot-suburb premise to explore consciousness and identity. American independent sci-fi using genre to comment on automation anxieties.",
+      "created_at": "2026-06-14 23:19:10",
       "watch_url": null
     },
     {
@@ -21115,6 +21151,24 @@
       "watch_url": "https://archive.org/details/film-bila-nemoc-1937-cz"
     },
     {
+      "title": "The Witches Hammer",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.12,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Demons, Religion",
+      "image_filename": "The_Witches_Hammer_2006.jpg",
+      "pitch": "The Witches Hammer is a 2006 American horror sci-fi film. On the day of her death, a normal woman is transformed into a genetically engineered vampire and trained to kill. She is sent on a mission to stop the Souls of the Damned being unleashed into our dimension.",
+      "truth": "The protagonist, transformed into a vampire, is trained as a weapon against supernatural threats. Her mission involves hunting the Souls of the Damned attempting to break into the mortal realm. The film culminates in a final confrontation where she must sacrifice herself to prevent the dimensional breach.",
+      "core": "A hybrid horror-sci-fi that combines genetic engineering concepts with supernatural mythology. The film blends vampire tropes with sci-fi body horror, typical of 2000s low-budget genre hybrids exploring the intersection of science and the occult.",
+      "created_at": "2026-06-14 23:19:23",
+      "watch_url": null
+    },
+    {
       "title": "The Witches of Karres",
       "year": 1966,
       "medium": "Novel",
@@ -23311,5 +23365,5 @@
       "watch_url": null
     }
   ],
-  "count": 1295
+  "count": 1298
 }

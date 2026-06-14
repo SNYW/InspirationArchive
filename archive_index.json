@@ -1473,6 +1473,22 @@
       "watch_url": null
     },
     {
+      "title": "Anna's Storm",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.7,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Disaster",
+      "topics": "Meteors, Survival, Family",
+      "image_filename": "Annas_Storm_2007.jpg",
+      "pitch": "Anna's Storm is a 2007 American disaster sci-fi film. When a barrage of meteors hurtles through the atmosphere toward her town, Mayor Anna McPherson must lead the desperate fight to save her family and community from the flaming destruction raining down from space.",
+      "created_at": "2026-06-14 23:19:18",
+      "watch_url": null
+    },
+    {
       "title": "Anodyne",
       "year": 2013,
       "medium": "Video Game",
@@ -2990,6 +3006,22 @@
       "image_filename": "China_2185_1989.jpg",
       "pitch": "China 2185 is a pioneering cyberpunk novel that predates The Three-Body Problem by nearly two decades, representing Liu Cixin's first major work and establishing him as China's first cyberpunk author. Set in the year 2185, the novel presents a future China that has evolved into a perfect direct democracy led by a charismatic young president, but faces an unprecedented crisis: hundreds of millions of elderly citizens kept alive through advanced medical technology now dominate the population, while the young minority struggles under the weight of their conservative ideology.\n\nThe story explores a groundbreaking premise: the digital resurrection of the dead through high-fidelity brain scanning. When a hacker known only as M102 scans the brain of Chairman Mao from his memorial hall and recreates him in cyberspace, along with five ordinary citizens, the stage is set for a terrifying cybernetic uprising. The novel was written in 1989 during China's \"new wave\" of science fiction and remained unpublished in English until recently, making it a rare glimpse into early Chinese cyberpunk literature. Its themes both critique liberal democracy and cultural conservativism, offering a uniquely Chinese perspective on transhumanism and political systems.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Chrome Angels",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.9,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, AI, Technology",
+      "image_filename": "Chrome_Angels_2009.jpg",
+      "pitch": "Chrome Angels is a 2009 American sci-fi comedy set in Elliotsville, a small town where most residents are robots living alongside humans. The film uses this absurd premise to explore identity and consciousness.",
+      "created_at": "2026-06-14 23:19:10",
       "watch_url": null
     },
     {
@@ -18769,6 +18801,22 @@
       "watch_url": "https://archive.org/details/film-bila-nemoc-1937-cz"
     },
     {
+      "title": "The Witches Hammer",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.12,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Demons, Religion",
+      "image_filename": "The_Witches_Hammer_2006.jpg",
+      "pitch": "The Witches Hammer is a 2006 American horror sci-fi film. On the day of her death, a normal woman is transformed into a genetically engineered vampire and trained to kill. She is sent on a mission to stop the Souls of the Damned being unleashed into our dimension.",
+      "created_at": "2026-06-14 23:19:23",
+      "watch_url": null
+    },
+    {
       "title": "The Witches of Karres",
       "year": 1966,
       "medium": "Novel",
@@ -20721,5 +20769,5 @@
       "watch_url": null
     }
   ],
-  "count": 1295
+  "count": 1298
 }
