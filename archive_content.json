@@ -15373,6 +15373,24 @@
       "watch_url": null
     },
     {
+      "title": "The Earth Dies Screaming",
+      "year": 1964,
+      "medium": "Film",
+      "creator": "Terence Fisher",
+      "raw_score": 3.13,
+      "total_ratings": 61,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Robots, Survival",
+      "image_filename": "The_Earth_Dies_Screaming_1964.jpg",
+      "pitch": "Test pilot Jeff Nolan returns to England after a devastating attack to find most of Earth's population wiped out. He gathers with survivors at a village hotel, only to discover that alien robots in space suits are killing survivors and reanimating them as eyeless zombies.",
+      "truth": "Jeff Nolan finds an English village littered with bodies after a mysterious attack. With survivors at a hotel, he fights alien robots that kill with touch and reanimate victims as zombies. Using shortwave radio, he triangulates the alien transmitter tower and destroys it, collapsing all the robots.",
+      "core": "An early alien-invasion horror that influenced Night of the Living Dead. Fisher conveys the apocalypse through silent visuals in the opening minutes, with zombies moving gesturally rather than dialogue. Elisabeth Lutyens' avant-garde score adds to the dread.",
+      "created_at": "2026-06-14 09:08:50",
+      "watch_url": null
+    },
+    {
       "title": "The Einstein Intersection",
       "year": 1967,
       "medium": "Novel",
@@ -22195,5 +22213,5 @@
       "watch_url": null
     }
   ],
-  "count": 1233
+  "count": 1234
 }
