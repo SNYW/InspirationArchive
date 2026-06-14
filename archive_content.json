@@ -19225,6 +19225,24 @@
       "watch_url": null
     },
     {
+      "title": "The Secret of an Old Attic",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Vladimir Tadej",
+      "raw_score": 2.81,
+      "total_ratings": 13,
+      "origin": "Croatia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Discovery, Children",
+      "image_filename": "the_secret_of_an_old_attic_1984.jpg",
+      "pitch": "During a summer holiday, two boys discover an anti-gravity cannon in their aunt's old attic. What begins as playful experiments with floating objects becomes an extraordinary adventure\u2014and a choice between childhood wonder and a world that wants to contain it.",
+      "truth": "The boys spend summer with their aunt. In the attic, they find a mysterious device that makes objects\u2014and people\u2014float. Their playful discovery attracts adult attention. Faced with losing their magic to authorities who will study and contain it, they make one final flight together, choosing wonder over the ordinary world.",
+      "core": "A charming Croatian-Czechoslovak children's film about the magic of childhood imagination. The anti-gravity cannon represents childhood wonder itself\u2014magical, free, and threatened by adults who want to study and control it. A bittersweet meditation on growing up and letting go of the extraordinary.",
+      "created_at": "2026-06-14 14:54:53",
+      "watch_url": null
+    },
+    {
       "title": "The Secret of the Iron Door",
       "year": 1970,
       "medium": "Film",
@@ -22501,5 +22519,5 @@
       "watch_url": null
     }
   ],
-  "count": 1250
+  "count": 1251
 }
