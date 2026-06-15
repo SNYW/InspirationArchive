@@ -4141,6 +4141,24 @@
       "watch_url": "https://archive.org/details/coz-takhle-dat-si-spenat"
     },
     {
+      "title": "Crusher Joe",
+      "year": 1983,
+      "medium": "Anime Film",
+      "creator": "Masashi Ikeda",
+      "raw_score": 3.35,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Survival, Exploration",
+      "image_filename": "Crusher_Joe_1983.jpg",
+      "pitch": "Crusher Joe is a 1983 Japanese anime space opera about a group of elite mercenaries known as Crushers, assigned dangerous jobs from asteroid destruction to terraforming. Joe and his crew take on a mission that goes wrong, uncovering a conspiracy that threatens their reputation and lives.",
+      "truth": "The Crusher Council, elite space mercenaries, take on jobs ranging from asteroid destruction to terraforming. When a routine mission goes wrong, Joe and his team discover they've been set up. Now they must fight to clear their names and survive against overwhelming odds.",
+      "core": "Crusher Joe represents 1980s anime's willingness to explore morally complex protagonists in space opera settings. The Crushers are antiheroes in a dangerous universe, reflecting Cold War anxieties about disposable operatives and corporate manipulation.",
+      "created_at": "2026-06-15 18:36:01",
+      "watch_url": null
+    },
+    {
       "title": "Cube",
       "year": 1997,
       "medium": "Film",
@@ -10819,6 +10837,24 @@
       "watch_url": "https://archive.org/details/g-gundam-capitulo-9"
     },
     {
+      "title": "Mobile Suit Gundam 0080: War in the Pocket",
+      "year": 1989,
+      "medium": "OVA",
+      "creator": "Fumihiko Takayama",
+      "raw_score": 3.85,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Military-SF",
+      "topics": "War, Children, Survival",
+      "image_filename": "Mobile_Suit_Gundam_0080_1989.jpg",
+      "pitch": "Mobile Suit Gundam 0080: War in the Pocket is a 1989 Japanese OVA and the first in the Gundam franchise. Set in the final days of the One Year War, it follows 11-year-old Al who befriends a Zeon pilot hiding in his colony. Unlike typical Gundam fare, this is an intimate story of war through a child's eyes.",
+      "truth": "In UC 0079, Zeon sends a team to destroy a prototype Federation Gundam. Rookie pilot Bernie crashes and hides in Side 6, befriending young Al and his neighbor Christina, secretly the Gundam test pilot. Bernie discovers Zeon will destroy the colony with a nuclear weapon if he fails. He engages the Gundam. Al tries to stop him, witnessing Bernie's death.",
+      "core": "War in the Pocket subverts Gundam's typical military focus, exploring how children understand conflict. Al's romantic view of warfare shatters as he witnesses death firsthand. The OVA asks whether anyone truly wins in war\u2014not through battles, but through a child's lost innocence.",
+      "created_at": "2026-06-15 18:35:42",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Suit Gundam ZZ",
       "year": 1986,
       "medium": "Anime",
@@ -13321,6 +13357,24 @@
       "watch_url": "https://archive.org/details/quatermass-and-the-pit_20240324"
     },
     {
+      "title": "Queen Millennia",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "Leiji Matsumoto",
+      "raw_score": 3.33,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Aliens, First Contact, Exploration",
+      "image_filename": "Queen_Millennia_1982.jpg",
+      "pitch": "Queen Millennia is a 1982 Japanese anime film based on Leiji Matsumoto's manga. In 1999, Professor Amamori discovers a 10th planet named La-Metal on a collision course with Earth. A mysterious Millennial Queen has lived on Earth for 1000 years, preparing for humanity's abduction.",
+      "truth": "Professor Amamori discovers La-Metal, a planet 9 times Earth's size, on a collision course with Earth. The planet is inhabited by subterranean humanoids ruled by Holy Queen Larela. Millennial Queens have lived on Earth for 1000 years, preparing to abduct humans before Earth's destruction.",
+      "core": "Queen Millennia explores first contact and planetary catastrophe. Matsumoto weaves Japanese folklore with cosmic scale, creating a meditation on mortality and survival. The film asks whether humanity is ready to meet cosmic neighbors\u2014and what price survival might demand.",
+      "created_at": "2026-06-15 18:35:32",
+      "watch_url": null
+    },
+    {
       "title": "Quest for Love",
       "year": 1971,
       "medium": "Film",
@@ -13732,6 +13786,24 @@
       "truth": "An astronaut returns to Earth expecting to find his old world, only to discover that centuries have passed. Humanity has evolved beyond violence\u2014the peacefulness feels like alienation. He becomes a stranger in a world that no longer recognizes him. Can he adapt to this new society, or is he doomed to remain forever outside it?",
       "core": "B\u0142aszczyk captures Lem's core question: is progress truly improvement or just a different existence? The astronaut's return becomes a meditation on mortality and the impossibility of escaping one's era. The collage animation style visually mirrors fractured memory and identity.",
       "created_at": "2026-06-15 11:49:48",
+      "watch_url": null
+    },
+    {
+      "title": "Return from Orbit",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Aleksandr Surin",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Survival, Friendship",
+      "image_filename": "Return_from_Orbit_1984.jpg",
+      "pitch": "Return from Orbit is a 1984 Soviet sci-fi film notable for being filmed aboard the Salyut 7 space station\u2014the only movie ever shot in outer space. When a meteor shower damages an orbital station and injures its crew, two cosmonaut friends must mount a dangerous rescue mission.",
+      "truth": "Cosmonauts Kuznetsov and Mukhin face a rocket failure but survive. After Kuznetsov resigns following his wife's death, Mukhin proceeds alone to Salyut 7. A meteor shower disables systems and injures a crew. Kuznetsov is recalled to rescue but oxygen runs low. Mukhin gives his oxygen supply to save his friend, sacrificing himself.",
+      "core": "Return from Orbit explores friendship and sacrifice in the hostile void of space. Its unprecedented production\u2014filmed aboard an actual space station\u2014remains unique in cinema history, reflecting Soviet space drama's emphasis on technical realism.",
+      "created_at": "2026-06-15 18:35:22",
       "watch_url": null
     },
     {
@@ -26155,5 +26227,5 @@
       "watch_url": null
     }
   ],
-  "count": 1453
+  "count": 1457
 }
