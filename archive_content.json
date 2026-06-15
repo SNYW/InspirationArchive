@@ -1765,6 +1765,24 @@
       "watch_url": null
     },
     {
+      "title": "Antariksham 9000 KMPH",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Sankalp Reddy",
+      "raw_score": 2.8,
+      "total_ratings": 11,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Adventure",
+      "topics": "Space Travel, AI, Redemption",
+      "image_filename": "Antariksham_9000_KMPH_2018.jpg",
+      "pitch": "The first Tollywood space movie\u2014when an Indian satellite loses contact with the space station and threatens global communications, a former ISRO scientist who quit after a fatal accident must return to save the world. Varun Tej stars in this earnest Indian sci-fi adventure.",
+      "truth": "Dev was a brilliant ISRO scientist working on a lunar satellite when an accident killed his fianc\u00e9e and drove him to quit. Five years later, as a school teacher, he's called back\u2014Mihira satellite is failing and only he knows the repair code. He must overcome his guilt and trauma to save global communications from catastrophic failure.",
+      "core": "A milestone in Indian cinema as Tollywood's first space movie, proving Indian filmmakers could tackle sci-fi spectacle. The film explores redemption, sacrifice, and the human cost of scientific pursuit, reflecting India's growing space ambitions through accessible drama.",
+      "created_at": "2026-06-15 08:54:12",
+      "watch_url": null
+    },
+    {
       "title": "Anti-Clock",
       "year": 1979,
       "medium": "Film",
@@ -14095,6 +14113,24 @@
       "watch_url": "https://archive.org/details/turner_video_391224"
     },
     {
+      "title": "Slaughterbots",
+      "year": 2017,
+      "medium": "Short Film",
+      "creator": "Stewart Sugg",
+      "raw_score": 3.3,
+      "total_ratings": 11,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Dystopia",
+      "topics": "AI, Technology, Surveillance",
+      "image_filename": "Slaughterbots_2017.jpg",
+      "pitch": "A chilling 8-minute short that imagines a Black Mirror-style future where swarms of microdrones with facial recognition hunt down political opponents. Created by AI professor Stuart Russell and the Future of Life Institute.",
+      "truth": "The dramatization shows a tech executive pitching that nuclear weapons are obsolete\u2014a $25 million order of autonomous drones can kill half a city. The technology is repurposed to assassinate political opponents identified via social media.",
+      "core": "Went viral with 2M+ views, screened at the UN. Sparked global debate on autonomous weapons\u2014Russell argues AI drones could become weapons of mass destruction. A landmark warning in AI ethics.",
+      "created_at": "2026-06-15 08:54:21",
+      "watch_url": null
+    },
+    {
       "title": "Slipstream",
       "year": 1989,
       "medium": "Film",
@@ -24967,5 +25003,5 @@
       "watch_url": null
     }
   ],
-  "count": 1387
+  "count": 1389
 }
