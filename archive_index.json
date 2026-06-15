@@ -3729,6 +3729,22 @@
       "watch_url": "https://archive.org/details/deaddeaddemonsde0000asan_k6u3"
     },
     {
+      "title": "Dead Man's Letters",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Konstantin Lopushansky",
+      "raw_score": 3.45,
+      "total_ratings": 129,
+      "origin": "Soviet-Union",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Nuclear, Pandemic",
+      "image_filename": "dead_mans_letters.jpg",
+      "pitch": "In a post-nuclear world, Professor Larsen lives in the basement of a ruined museum with other survivors. He writes letters to his missing son, clinging to hope that humanity persists elsewhere. A stark Soviet meditation on nuclear apocalypse and parental love.",
+      "created_at": "2026-06-15 05:11:22",
+      "watch_url": null
+    },
+    {
       "title": "Dead Mountaineer's Hotel",
       "year": 1979,
       "medium": "Film",
@@ -5583,6 +5599,22 @@
       "pitch": "Galaxy Express 999 is a seminal Japanese space opera manga and anime series created by Leiji Matsumoto, running from 1977 to 1981. Set in a distant future where humanity has developed the technology to transfer consciousness into mechanical bodies\u2014achieving practical immortality\u2014the story follows young Tetsuro Hoshino, who seeks a machine body so he can afford to live forever and escape the poverty that killed his mother. Along his journey aboard the Galaxy Express 999, a train that travels through space to the Andromeda galaxy, Tetsuro encounters Maetel, a mysterious woman who offers him an unlimited pass in exchange for his companionship. Their adventures across various planets reveal the harsh truths of a universe where mechanical bodies have created a new class system between humans and machines, questioning whether eternal life truly equals freedom.",
       "created_at": "2026-03-19 04:05:49",
       "watch_url": "https://archive.org/details/galaxyexpress9990005mats"
+    },
+    {
+      "title": "Galaxy Express 999: The Movie",
+      "year": 1979,
+      "medium": "Anime Film",
+      "creator": "Rintaro",
+      "raw_score": 3.4,
+      "total_ratings": 79,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Sentience, Robots, Identity",
+      "image_filename": "galaxy_express_999_the_movie.jpg",
+      "pitch": "In the future, humans can transfer consciousness into mechanical bodies for immortality. Young Tetsuro wants a machine body to avenge his mother, killed by Count Mecha. He boards the Galaxy Express 999, a train to the Andromeda galaxy, with the mysterious Maetel.",
+      "created_at": "2026-06-15 05:11:03",
+      "watch_url": null
     },
     {
       "title": "Gall Force: Eternal Story",
@@ -8625,6 +8657,22 @@
       "watch_url": "https://archive.org/details/memoirs-of-a-survivor-1981"
     },
     {
+      "title": "Message from Space",
+      "year": 1978,
+      "medium": "Anime Film",
+      "creator": "Kinji Fukasaku",
+      "raw_score": 2.95,
+      "total_ratings": 58,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Aliens, Exploration, Rebellion",
+      "image_filename": "message_from_space.jpg",
+      "pitch": "The peaceful planet Jillucia is conquered by the Gavanas Empire. Eight Liabe Seeds are sent to find warriors across the galaxy. A ragtag group\u2014pilots, a soldier, an aristocrat\u2014become humanity's last hope to free Jillucia. A Japanese space opera made on the largest budget in Japanese film history at the time.",
+      "created_at": "2026-06-15 05:10:45",
+      "watch_url": null
+    },
+    {
       "title": "Messiah",
       "year": 2000,
       "medium": "Video Game",
@@ -8846,6 +8894,22 @@
       "image_filename": "MindGamers_2015.jpg",
       "pitch": "MindGamers is a 2015 Austrian science fiction film about a group of students who create a wireless neural network enabling collective consciousness through a quantum computer. They discover that motor skills can be transferred through quantum theory and freely spread their technology, believing it's a step toward intellectual freedom. However, they soon realize they're part of a larger, more sinister experiment. The film explores themes of consciousness, technology, and the potential dangers of unbound scientific progress.",
       "created_at": "2026-03-18 22:40:09",
+      "watch_url": null
+    },
+    {
+      "title": "Mirror for a Hero",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Vladimir Khotinenko",
+      "raw_score": 2.92,
+      "total_ratings": 33,
+      "origin": "Soviet-Union",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Memory, Time-Travel, Family",
+      "image_filename": "mirror_for_a_hero.jpg",
+      "pitch": "Two strangers in Moscow\u2014a psychologist and a former prisoner\u2014stumble into a time loop on May 8, 1949. They relive the same day repeatedly, meeting their younger selves and parents. A Soviet meditation on breaking cycles of history.",
+      "created_at": "2026-06-15 05:10:05",
       "watch_url": null
     },
     {
@@ -18561,6 +18625,22 @@
       "watch_url": "https://archive.org/details/vts-01-2_20250406"
     },
     {
+      "title": "The Secret of the Third Planet",
+      "year": 1981,
+      "medium": "Animated Film",
+      "creator": "Roman Kachanov",
+      "raw_score": 3.69,
+      "total_ratings": 121,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Aliens, Exploration, Robots",
+      "image_filename": "the_secret_of_the_third_planet.jpg",
+      "pitch": "Captain Zelyony, Professor Seleznyov and his daughter Alisa set out from Earth aboard the Pegas starship, seeking rare animals for the Moscow Zoo. Their quest takes them to the Planet of Two Captains and beyond, uncovering a space pirate conspiracy.",
+      "created_at": "2026-06-15 05:11:48",
+      "watch_url": null
+    },
+    {
       "title": "The Sender",
       "year": 1982,
       "medium": "Film",
@@ -21633,5 +21713,5 @@
       "watch_url": null
     }
   ],
-  "count": 1352
+  "count": 1357
 }
