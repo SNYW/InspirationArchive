@@ -325,6 +325,24 @@
       "watch_url": null
     },
     {
+      "title": "A Beautiful Star",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Daihachi Yoshida",
+      "raw_score": 2.98,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Family, Identity, Climate",
+      "image_filename": null,
+      "pitch": "Based on Yukio Mishima's 1962 novel, this 2017 film follows the Osugi family, each member believing they are aliens from different planets\u2014father from Mars, son from Mercury, daughter from Venus. As global warming threatens Earth, the family must reconcile their alien identities with their human lives.",
+      "truth": "The Osugi family consists of father J\u016bichir\u014d, mother Iyoko, son Kazuo, and daughter Akiko. Over the course of the film, each family member comes to believe they are aliens from different planets\u2014J\u016bichir\u014d from Mars, Kazuo from Mercury, Akiko from Venus. They struggle with their identities while addressing the threat of global warming, often in conflict with each other.",
+      "core": "Adaptation of Mishima's novel explores themes of identity, belonging, and humanity's place in the universe. The alien identities represent the family's struggle to find meaning beyond conventional roles. A surreal take on climate change and family dynamics.",
+      "created_at": "2026-06-15 23:04:43",
+      "watch_url": null
+    },
+    {
       "title": "A Bomb Was Stolen",
       "year": 1962,
       "medium": "Film",
@@ -9397,6 +9415,24 @@
       "watch_url": "https://archive.org/details/KnightmareSeries1"
     },
     {
+      "title": "Knights of Sidonia: The Movie",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "Polygon Pictures",
+      "raw_score": 2.75,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, Aliens, Cloning",
+      "image_filename": "Knights_of_Sidonia_The_Movie_2015.jpg",
+      "pitch": "In 3394, humanity survives aboard the generation ship Sidonia after Earth was destroyed by the alien Gauna. Young Nagate Tanikaze, raised in isolation underground, becomes a pilot of the giant mecha Gardes and must defend humanity's last refuge.",
+      "truth": "Tanikaze has lived his entire life underground on Sidonia. After his grandfather dies, he's brought to the surface and selected as a Garde pilot. Against the shapeshifting Gauna, he proves himself in battle while uncovering secrets about Sidonia's immortal ruling class.",
+      "core": "Explores survival and what humanity owes its past. The Gauna represent an alien intelligence communication may be impossible with. Questions whether a society that abandoned natural reproduction can still be considered human.",
+      "created_at": "2026-06-15 23:04:29",
+      "watch_url": null
+    },
+    {
       "title": "Koi... Mil Gaya",
       "year": 2003,
       "medium": "Film",
@@ -12095,6 +12131,24 @@
       "core": "**Totalitarianism and Power:** Orwell's primary concern is the nature of power under totalitarianism. The Party seeks power not as a means to an end but as an end in itself. As O'Brien explains to Winston during torture: \"The Party seeks power entirely for its own sake. We are not content with negative obedience, nor even with the most abject submission. When finally you surrender to us, it must be of your own free will.\" This distinguishes Orwell's totalitarianism from mere tyranny\u2014it seeks to control not just actions but thoughts and reality itself.\n\n**The Manipulation of Truth:** The Ministry of Truth (Minitrue) exemplifies how totalitarian regimes control reality through information control. Winston's job is to make contradictory statements simultaneously true\u2014declaring Oceania has always been at war with Eastasia when yesterday they were at war with Eurasia. This \"doublethink\"\u2014holding two contradictory beliefs simultaneously\u2014is central to Party control. In the age of \"post-truth\" politics and competing realities, Orwell's vision seems prophetic.\n\n**Language and Thought Control:** Newspeak is the Party's attempt to limit thought by eliminating words and narrowing meanings. By reducing the vocabulary, the Party aims to make thoughtcrime \"literally impossible\" because there will be no words to express heretical thoughts. This explores the relationship between language, thought, and freedom\u2014a theme that resonates with contemporary concerns about algorithmic filtering and thought-policing on social media.\n\n**Surveillance and Psychological Control:** The telescreens that monitor citizens day and night represent ubiquitous surveillance. But more chilling is the self-policing\u2014citizens report their own children for thoughtcrime, and people learn to suppress natural emotions and reactions. The Party doesn't just watch; it colonizes the inner life of its subjects.\n\n**The Death of Individualism:** Under the Party, individual relationships, privacy, and autonomy are destroyed. Love between individuals becomes secondary to love of Big Brother. Even sexual desire is channeled into the Junior Anti-Sex League. The novel explores how totalitarianism requires the annihilation of the private self.\n\n**Why It Endures:** Nineteen Eighty-Four remains relevant because each generation discovers new ways in which its warnings have materialized. Whether interpreted as a commentary on Stalinism, fascism, or contemporary surveillance capitalism, the novel's central insight\u2014that power seeks to control not just behavior but reality itself\u2014ensures its place as one of the most important works of speculative fiction ever written.",
       "created_at": "2026-03-04 18:33:54",
       "watch_url": "https://archive.org/details/bwb_S0-AKI-268"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Michael Radford",
+      "raw_score": 3.4,
+      "total_ratings": 1650,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Rebellion",
+      "image_filename": "Nineteen_Eighty-Four_1984.jpg",
+      "pitch": "Michael Radford's 1984 adaptation of George Orwell's dystopian novel. Winston Smith works for the Ministry of Truth, rewriting history to serve the Party. In a society ruled by Big Brother where thoughtcrime is the greatest offense, Winston begins a forbidden relationship with Julia that offers hope of connection\u2014and certain destruction.",
+      "truth": "Winston Smith works at the Ministry of Truth, altering historical records to match the Party's ever-changing version of truth. Living in constant surveillance, he rents a room above a junk shop and begins a secret affair with Julia. They are caught by the Thought Police, tortured until they betray each other, and Winston comes to love Big Brother.",
+      "core": "Orwell's warning about totalitarianism and truth manipulation. The film captures a world where even language is controlled\u2014the removal of words like freedom and justice.",
+      "created_at": "2026-06-15 23:05:09",
+      "watch_url": null
     },
     {
       "title": "No Blade of Grass",
@@ -26785,5 +26839,5 @@
       "watch_url": null
     }
   ],
-  "count": 1488
+  "count": 1491
 }

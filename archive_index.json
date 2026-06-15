@@ -289,6 +289,22 @@
       "watch_url": null
     },
     {
+      "title": "A Beautiful Star",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Daihachi Yoshida",
+      "raw_score": 2.98,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Family, Identity, Climate",
+      "image_filename": null,
+      "pitch": "Based on Yukio Mishima's 1962 novel, this 2017 film follows the Osugi family, each member believing they are aliens from different planets\u2014father from Mars, son from Mercury, daughter from Venus. As global warming threatens Earth, the family must reconcile their alien identities with their human lives.",
+      "created_at": "2026-06-15 23:04:43",
+      "watch_url": null
+    },
+    {
       "title": "A Bomb Was Stolen",
       "year": 1962,
       "medium": "Film",
@@ -8353,6 +8369,22 @@
       "watch_url": "https://archive.org/details/KnightmareSeries1"
     },
     {
+      "title": "Knights of Sidonia: The Movie",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "Polygon Pictures",
+      "raw_score": 2.75,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, Aliens, Cloning",
+      "image_filename": "Knights_of_Sidonia_The_Movie_2015.jpg",
+      "pitch": "In 3394, humanity survives aboard the generation ship Sidonia after Earth was destroyed by the alien Gauna. Young Nagate Tanikaze, raised in isolation underground, becomes a pilot of the giant mecha Gardes and must defend humanity's last refuge.",
+      "created_at": "2026-06-15 23:04:29",
+      "watch_url": null
+    },
+    {
       "title": "Koi... Mil Gaya",
       "year": 2003,
       "medium": "Film",
@@ -10751,6 +10783,22 @@
       "pitch": "Nineteen Eighty-Four is a haunting dystopian novel set in a totalitarian future where the Party, led by the enigmatic Big Brother, exercises absolute control over every aspect of human life. The story follows Winston Smith, a low-ranking member of the Outer Party who works at the Ministry of Truth, where he rewrites historical records to match the Party's ever-changing version of the truth. Winston secretly harbors doubts about the Party and begins a forbidden love affair with Julia, leading him down a path of thoughtcrime and rebellion against the oppressive regime. Published in 1949, Orwell's masterpiece coined terms like \"Big Brother,\" \"doublethink,\" \"thoughtcrime,\" and \"Newspeak\" that have become part of our cultural vocabulary. The novel is a chilling warning about the dangers of totalitarianism, mass surveillance, and the manipulation of truth\u2014a warning that remains profoundly relevant in the modern age of fake news and digital surveillance.",
       "created_at": "2026-03-04 18:33:54",
       "watch_url": "https://archive.org/details/bwb_S0-AKI-268"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Michael Radford",
+      "raw_score": 3.4,
+      "total_ratings": 1650,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Rebellion",
+      "image_filename": "Nineteen_Eighty-Four_1984.jpg",
+      "pitch": "Michael Radford's 1984 adaptation of George Orwell's dystopian novel. Winston Smith works for the Ministry of Truth, rewriting history to serve the Party. In a society ruled by Big Brother where thoughtcrime is the greatest offense, Winston begins a forbidden relationship with Julia that offers hope of connection\u2014and certain destruction.",
+      "created_at": "2026-06-15 23:05:09",
+      "watch_url": null
     },
     {
       "title": "No Blade of Grass",
@@ -23809,5 +23857,5 @@
       "watch_url": null
     }
   ],
-  "count": 1488
+  "count": 1491
 }
