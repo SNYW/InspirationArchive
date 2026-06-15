@@ -2920,17 +2920,17 @@
       "title": "Blame!",
       "year": 2017,
       "medium": "Anime Film",
-      "creator": "Tsutomu Nihei",
+      "creator": "Hiroyuki Seshita",
       "raw_score": 3.26,
       "total_ratings": 357,
       "origin": "Japan",
-      "mood": "Gritty",
+      "mood": "Tense",
       "sub_genres": "Cyberpunk, Dystopia",
-      "topics": "AI, Robots, Megacorps",
+      "topics": "AI, Robots, Survival, Isolation",
       "image_filename": "blame_2017.jpg",
-      "pitch": "In a distant future, an endless vertical city is controlled by rogue AI. The Safeguard system hunts humans without clearance, purging them as illegal. When Zuru triggers a Watchtower, robotic exterminators decimate her tribe. She joins Killy, a wanderer searching for the Net Terminal Gene to reclaim control from the machine city.",
-      "truth": "Zuru accidentally activates a Watchtower, spawning Exterminators that kill most of her tribe. Killy arrives searching for the Net Terminal Gene to access the Netsphere. Cibo helps but the system rejects her and produces more killers. The village is destroyed. Cibo sacrifices herself to reveal a safe level. Survivors escape to rebuild.",
-      "core": "Blame! asks what happens when technology escapes human control\u2014not through robot uprising, but cold algorithmic logic. The Safeguard isn't evil, just efficient. The city is the true antagonist: an infinite structure grown beyond comprehension, now hunting its creators.",
+      "pitch": "In a distant future, humanity is hunted by Safeguard - a rogue AI that treats humans as illegal. Young Zuru must join a mysterious wanderer to find the Net Terminal Gene that can restore human control over the city.",
+      "truth": "An infection caused the city to grow infinitely while Safeguard kills humans on sight. Zuru triggers a Watchtower, losing most companions. She and Tae join Killy searching for someone with the Net Terminal Gene to restore humanity's access.",
+      "core": "Blame! explores tech runaway - systems built to protect becoming the threat. The cyberpunk visuals and massive vertical city structure influenced the genre. A haunting survival story about humanity fighting its own creation.",
       "created_at": "2026-06-15 12:40:27",
       "watch_url": null
     },
@@ -12508,6 +12508,24 @@
       "truth": "The Early Days chronicles the formation and early missions of Tokyo Metropolitan Police Special Vehicle Section 2, Division 2 (SV2), a newly created unit tasked with patrolling Tokyo using giant humanoid robots called Labors. The unit is headquartered at thetruck bay where officers operate state-of-the-art Ingram AV-98 \"Ingram\" Labs\u2014two-legged, armed robotic vehicles designed for urban police work.",
       "core": "**Technology and Society:** Patlabor presents a vision of technological integration where robots have become mundane infrastructure\u2014tools used for construction, maintenance, and public safety rather than weapons of war. The series examines how society adapts to such technology, depicting both the benefits (increased safety, efficiency) and challenges (new forms of crime, the need for specialized training). This reflects broader Japanese discourse about robotics and automation that remains relevant today.\n\n**Police Procedure in Science Fiction:** The franchise pioneered the \"police mecha\" subgenre, applying detective and procedural storytelling conventions to giant robot narratives. Rather than exploring space opera or military conflict, Patlabor asks how technology changes law enforcement. The OVA treats police work with respect, showing the procedural steps, coordination, and problem-solving that go into each case.\n\n**Human-Machine Relationships:** Despite operating massive robots, the series focuses on the human operators. Pilots must develop trust with their Labors, understanding their capabilities and limitations. The relationship between pilot and machine is depicted as a partnership requiring skill, intuition, and mutual respect\u2014contrasting with later anime that treat mecha as interchangeable tools or extensions of human will.\n\n**Workplace Dynamics:** The series functions as much as a workplace comedy as an action series. SV2's office dynamics, the interactions between veteran and rookie pilots, and the mundane challenges of police bureaucracy all receive significant screen time. This grounded approach makes the futuristic setting feel lived-in and believable.\n\n**Corporate Influence:** While the OVA focuses primarily on police work, it establishes themes of corporate involvement in Labor technology that later entries in the franchise would explore more deeply. The series hints at the interests of manufacturers, the potential for corporate malfeasance, and the challenges of regulating new technologies\u2014themes that resonate with contemporary debates about tech industry accountability.\n\nPatlabor: The Early Days remains significant as a foundational work that demonstrated mecha anime could tell grounded, character-driven stories. Its influence extends to later police-focused robot series and contemporary works exploring the social implications of robotics. The franchise's influence can be seen in how Guillermo del Toro cited Patlabor as an influence for Pacific Rim, and how Japan's real-world robotics development has drawn inspiration from the series' realistic mechanical designs.",
       "created_at": "2026-03-01 00:05:48",
+      "watch_url": null
+    },
+    {
+      "title": "Peacemaker",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.56,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "peacemaker_1990.jpg",
+      "pitch": "Two alien beings arrive on Earth, each claiming to be an intergalactic peacemaker - and accusing the other of being a villain. Both regenerate from wounds and seem immortal. Enter pathologist Dori Caisson, who must determine which alien to trust.",
+      "truth": "Two aliens crash on Earth, each claiming to be a peacemaker and calling the other a villain. Both can regenerate lost body parts. They each separately encounter Dori Caisson, a young pathologist, telling her their conflicting stories. Dori must decide whom to trust before they destroy each other - and potentially Earth.",
+      "core": "Peacemaker is a low-budget sci-fi that plays with the ambiguity of good versus evil. The alien regeneration adds body horror undertones. The central question - can we judge intent by appearance? - gives the film unexpected depth for its B-movie roots.",
+      "created_at": "2026-06-15 16:50:53",
       "watch_url": null
     },
     {
@@ -25993,5 +26011,5 @@
       "watch_url": null
     }
   ],
-  "count": 1444
+  "count": 1445
 }

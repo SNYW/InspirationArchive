@@ -2596,15 +2596,15 @@
       "title": "Blame!",
       "year": 2017,
       "medium": "Anime Film",
-      "creator": "Tsutomu Nihei",
+      "creator": "Hiroyuki Seshita",
       "raw_score": 3.26,
       "total_ratings": 357,
       "origin": "Japan",
-      "mood": "Gritty",
+      "mood": "Tense",
       "sub_genres": "Cyberpunk, Dystopia",
-      "topics": "AI, Robots, Megacorps",
+      "topics": "AI, Robots, Survival, Isolation",
       "image_filename": "blame_2017.jpg",
-      "pitch": "In a distant future, an endless vertical city is controlled by rogue AI. The Safeguard system hunts humans without clearance, purging them as illegal. When Zuru triggers a Watchtower, robotic exterminators decimate her tribe. She joins Killy, a wanderer searching for the Net Terminal Gene to reclaim control from the machine city.",
+      "pitch": "In a distant future, humanity is hunted by Safeguard - a rogue AI that treats humans as illegal. Young Zuru must join a mysterious wanderer to find the Net Terminal Gene that can restore human control over the city.",
       "created_at": "2026-06-15 12:40:27",
       "watch_url": null
     },
@@ -11118,6 +11118,22 @@
       "image_filename": "Patlabor_The_Early_Days_1988.jpg",
       "pitch": "Patlabor: The Early Days is a 7-episode Original Video Animation (OVA) series released between 1988 and 1989, serving as the origin story for the acclaimed Japanese science fiction franchise created by Headgear. Set in the near future of 1998-2002, the series introduces viewers to a Tokyo where massive humanoid robots called \"Labors\" have become essential for construction, industrial work, and public safety. The Tokyo Metropolitan Police responds by establishing Special Vehicle Section 2, Division 2 (SV2)\u2014a unit of officers who pilot patrol Labors called \"Patlabors\" to combat crimes and accidents involving these giant machines.\n\nUnlike typical mecha anime that focus on grand warfare or cosmic conflicts, Patlabor: The Early Days grounds its narrative in everyday police work with a comedic undertone. The series follows Noa Izumi, the protagonist and pilot of the Ingram AV-98 Labor, as she and her colleagues at SV2 handle situations ranging from labor accidents and robberies to more sinister crimes involving rogue machines. Directed by Mamoru Oshii with scripts by Kazunori Ito and mechanical designs by Yutaka Izubuchi, the OVA established the template for police procedural mecha storytelling. The series is credited with revitalizing the OVA format for mecha anime and establishing the standard six-episode OVA structure.",
       "created_at": "2026-03-01 00:05:48",
+      "watch_url": null
+    },
+    {
+      "title": "Peacemaker",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.56,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "peacemaker_1990.jpg",
+      "pitch": "Two alien beings arrive on Earth, each claiming to be an intergalactic peacemaker - and accusing the other of being a villain. Both regenerate from wounds and seem immortal. Enter pathologist Dori Caisson, who must determine which alien to trust.",
+      "created_at": "2026-06-15 16:50:53",
       "watch_url": null
     },
     {
@@ -23105,5 +23121,5 @@
       "watch_url": null
     }
   ],
-  "count": 1444
+  "count": 1445
 }
