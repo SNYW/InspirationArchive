@@ -6353,6 +6353,22 @@
       "watch_url": null
     },
     {
+      "title": "Hell",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Florian Baxmeyer",
+      "raw_score": 2.88,
+      "total_ratings": 303,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Climate, Family",
+      "image_filename": "Hell_2011.jpg",
+      "pitch": "In 2016, the sun has turned the world into a scorched wasteland. Marie, her young sister Leonie, and friend Phillip are driving to the mountains\u2014rumor has it there's water there. Along the way they meet Tom, a mechanic. But can they trust him?",
+      "created_at": "2026-06-15 06:50:13",
+      "watch_url": null
+    },
+    {
       "title": "Heroic Age",
       "year": 2007,
       "medium": "Anime",
@@ -17057,6 +17073,22 @@
       "watch_url": "https://archive.org/details/lost_city1"
     },
     {
+      "title": "The Lost Future",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Ruben Fleischer",
+      "raw_score": 2.47,
+      "total_ratings": 156,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Evolution, Nature",
+      "image_filename": "The_Lost_Future_2010.jpg",
+      "pitch": "A group of post-apocalyptic survivors struggle to survive in a world where jungles, forests, and primeval wetlands have obliterated civilization. They face genetically mutating beasts and mysterious diseases as they attempt to re-establish humanity as masters of Earth.",
+      "created_at": "2026-06-15 06:50:50",
+      "watch_url": null
+    },
+    {
       "title": "The Lost Missile",
       "year": 1958,
       "medium": "Film",
@@ -19681,6 +19713,22 @@
       "watch_url": "https://archive.org/details/tweakers008419"
     },
     {
+      "title": "The Wall",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Julian P\u00f6lsler",
+      "raw_score": 3.26,
+      "total_ratings": 150,
+      "origin": "Germany",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Survival, Nature",
+      "image_filename": "The_Wall_2012.jpg",
+      "pitch": "A woman driving through the Alps finds herself trapped behind an invisible wall that has sealed off the valley. With only her dog Lynx, she must survive in a world where civilization has ceased to exist. A quiet, haunting meditation on isolation.",
+      "created_at": "2026-06-15 06:49:45",
+      "watch_url": null
+    },
+    {
       "title": "The Wandering Earth",
       "year": 2019,
       "medium": "Film",
@@ -20542,6 +20590,22 @@
       "image_filename": "Transarctica_1993.jpg",
       "pitch": "Transarctica (also known as Arctic Baron) is a 1993 French post-apocalyptic action-adventure and strategy video game developed by Silmarils. Set in a future Earth devastated by the greenhouse effect gone wrong, the planet is now entirely covered in thick clouds, with giant wolf packs roaming the frozen wastes and mammoths having re-emerged from elephant stock. Humanity survives in scattered settlements connected by a network of massive armored trains controlled by the ruthless Viking Union. Players hijack the Transarctica train and set out on a desperate quest to find the \"sun\" in this frozen wasteland.",
       "created_at": "2026-03-01 10:35:50",
+      "watch_url": null
+    },
+    {
+      "title": "Transfer",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Dirk van Eyndhoven",
+      "raw_score": 3.05,
+      "total_ratings": 27,
+      "origin": "Germany",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Transhumanism, Immortality, Love",
+      "image_filename": "Transfer_2010.jpg",
+      "pitch": "In the near future, the company Menzana succeeds with transferring personalities for eternal youth. For the aged Hermann and his seriously ill wife Anna, they both fear the day death will separate them. At Menzana, they commit to purchasing the bodies of Apolain and Sarah.",
+      "created_at": "2026-06-15 06:51:28",
       "watch_url": null
     },
     {
@@ -21889,5 +21953,5 @@
       "watch_url": null
     }
   ],
-  "count": 1368
+  "count": 1372
 }
