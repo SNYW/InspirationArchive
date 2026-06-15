@@ -22657,6 +22657,22 @@
       "watch_url": "https://archive.org/details/AncreSegundoDeChomonViajeAJupiter"
     },
     {
+      "title": "Vikram",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Kamal Haasan, Sujatha",
+      "raw_score": 3.0,
+      "total_ratings": 12,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Spy, Action",
+      "topics": "Espionage, Technology, Survival",
+      "image_filename": "Vikram_1986.jpg",
+      "pitch": "Vikram is a 1986 Tamil action spy film starring Kamal Haasan as a RAW agent recovering a stolen nuclear missile. India's first film to use computer for music recording, it features a constructed language and Bond-style espionage with Indian action.",
+      "created_at": "2026-06-15 20:34:38",
+      "watch_url": null
+    },
+    {
       "title": "Virtual Sexuality",
       "year": 1999,
       "medium": "Film",
@@ -23537,5 +23553,5 @@
       "watch_url": null
     }
   ],
-  "count": 1471
+  "count": 1472
 }
