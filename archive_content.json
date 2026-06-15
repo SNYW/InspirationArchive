@@ -13105,6 +13105,24 @@
       "watch_url": null
     },
     {
+      "title": "Return",
+      "year": 2008,
+      "medium": "Short Film",
+      "creator": "Anna B\u0142aszczyk",
+      "raw_score": 3.35,
+      "total_ratings": 582,
+      "origin": "Poland",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time-Travel, Space Travel, Utopia",
+      "image_filename": null,
+      "pitch": "Return (Powr\u00f3t) is a 2008 Polish animated short by Anna B\u0142aszczyk, blending drawing, cut-out, and computer animation. It's a visual homage to Stanis\u0142aw Lem's 1961 novel \"Return from the Stars,\" adapting its time-paradox narrative into a humorous, surreal short about an astronaut who returns to Earth after centuries have passed.",
+      "truth": "An astronaut returns to Earth expecting to find his old world, only to discover that centuries have passed. Humanity has evolved beyond violence\u2014the peacefulness feels like alienation. He becomes a stranger in a world that no longer recognizes him. Can he adapt to this new society, or is he doomed to remain forever outside it?",
+      "core": "B\u0142aszczyk captures Lem's core question: is progress truly improvement or just a different existence? The astronaut's return becomes a meditation on mortality and the impossibility of escaping one's era. The collage animation style visually mirrors fractured memory and identity.",
+      "created_at": "2026-06-15 11:49:48",
+      "watch_url": null
+    },
+    {
       "title": "Rhea Gall Force",
       "year": 1989,
       "medium": "Anime",
@@ -25237,5 +25255,5 @@
       "watch_url": null
     }
   ],
-  "count": 1402
+  "count": 1403
 }
