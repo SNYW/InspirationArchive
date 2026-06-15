@@ -5630,7 +5630,7 @@
       "image_filename": "Glass_Trap_2005.jpg",
       "pitch": "Fred Olen Ray directs this 2005 B-movie sci-fi horror. Giant radioactive ants become trapped in a skyscraper, and a group of employees must band together to escape the building before they're eaten one by one.",
       "created_at": "2026-06-15 00:11:09",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_4038"
     },
     {
       "title": "Glorious Times at the Spessart Inn",
@@ -8223,6 +8223,22 @@
       "pitch": "A lonely factory worker discovers an alien parasite that transforms his crush into a bio-mechanical monster \u2014 and soon discovers he harbors the same creature inside him. In this extreme Japanese body horror film, parasitic alien organisms take over human bodies, converting flesh into deadly weapons for brutal turf wars between NecroBorgs.\n\nMeatball Machine is a gorier, more visceral cousin to Tsukamoto's Tetsuo: The Iron Man, directed by Y\u016bdai Yamaguchi (Tokyo Gore Police) with special effects by Yoshihiro Nishimura (The Machine Girl). The film serves up over-the-top practical effects, splatter violence, and a surprisingly sweet undercurrent about two isolated people who can finally connect \u2014 after becoming monsters.\n\nThe 70-minute version was originally released in 1999, then re-edited into a 90-minute theatrical cut in 2005. Both versions deliver the same wild premise: alien parasites invade Earth, take human hosts, and turn them into weapon-wielding killing machines. But it's the human drama beneath all the gore that elevates this beyond mere splatter flick.",
       "created_at": "2026-06-12 22:05:22",
       "watch_url": "https://archive.org/details/vts-01-1_20240814"
+    },
+    {
+      "title": "Mechanical Violator Hakaider",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Keita Amemiya",
+      "raw_score": 3.13,
+      "total_ratings": 26,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Cybernetics, Rebellion, Authoritarianism",
+      "image_filename": null,
+      "pitch": "In Jesus Town, peace is maintained through lobotomizing dissenters. Hakaider, an android with free will, awakens and becomes the symbol of rebellion against this dystopian regime. A dark reimagination of the tokusatsu villain as anti-hero.",
+      "created_at": "2026-06-15 00:59:34",
+      "watch_url": "https://archive.org/details/turner_video_390878"
     },
     {
       "title": "Megazone 23",
@@ -11294,7 +11310,7 @@
       "image_filename": "Scorpius_Gigantus_2006.jpg",
       "pitch": "A Roger Corman production. Dr. Preston harvests antibodies from giant scorpions to create cures for diseases. When the creatures escape, a Delta Force team must stop them before they devastate the population.",
       "created_at": "2026-06-15 00:10:25",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_224415"
     },
     {
       "title": "Second Time Around",
@@ -20913,5 +20929,5 @@
       "watch_url": null
     }
   ],
-  "count": 1307
+  "count": 1308
 }
