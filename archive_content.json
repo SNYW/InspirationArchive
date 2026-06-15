@@ -9109,6 +9109,24 @@
       "watch_url": "https://archive.org/details/la-jetee-fra"
     },
     {
+      "title": "La hora marcada",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Carmen Armend\u00e1riz",
+      "raw_score": 4.06,
+      "total_ratings": 24,
+      "origin": "Mexico",
+      "mood": "Surreal",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Supernatural, Death",
+      "image_filename": "La_hora_marcada_1988.jpg",
+      "pitch": "Mexican TV anthology series bringing horror and sci-fi to late-1980s audiences. Each half-hour episode offers self-contained tales of the macabre and fantastic, bookended by the Woman in Black, a veiled figure personifying Death.",
+      "truth": "Aired 1988-1990 on Canal de las Estrellas: 100 episodes of horror, supernatural, and sci-fi stories. Notable entries include El motel (Guillermo del Toro). The anthology launched careers of del Toro, Cuar\u00f3n, and Lubezki.",
+      "core": "First mainstream Mexican platform for genre filmmaking. Unwitting film school for three future Oscar winners\u2014del Toro, Cuar\u00f3n, Lubezki\u2014all contributed episodes before their international breakthroughs.",
+      "created_at": "2026-06-15 13:29:26",
+      "watch_url": null
+    },
+    {
       "title": "Laal Paree",
       "year": 1991,
       "medium": "Film",
@@ -25471,5 +25489,5 @@
       "watch_url": null
     }
   ],
-  "count": 1415
+  "count": 1416
 }
