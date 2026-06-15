@@ -5825,6 +5825,22 @@
       "watch_url": null
     },
     {
+      "title": "God's Puzzle",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Takashi Miike",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Time-Travel, Discovery",
+      "image_filename": "gods_puzzle_2008.jpg",
+      "pitch": "God's Puzzle (\u795e\u69d8\u306e\u30d1\u30ba\u30eb) is a 2008 Japanese sci-fi film by Takashi Miike. Two twins separated at birth \u2014 a studious young man and a drifter \u2014 are drawn together when a mysterious dropout arrives claiming to be their classmate from twelve years in the future.",
+      "created_at": "2026-06-15 04:44:52",
+      "watch_url": null
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -21617,5 +21633,5 @@
       "watch_url": null
     }
   ],
-  "count": 1351
+  "count": 1352
 }
