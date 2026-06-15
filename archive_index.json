@@ -3105,6 +3105,22 @@
       "watch_url": null
     },
     {
+      "title": "Choushinsei Flashman",
+      "year": 1986,
+      "medium": "TV Series",
+      "creator": "Toei Company",
+      "raw_score": 3.76,
+      "total_ratings": 112,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Aliens, Superpowers, Space Travel",
+      "image_filename": "Choushinsei_Flashman_1986.jpg",
+      "pitch": "A Super Sentai series where five infants kidnapped by aliens are rescued and trained by the Flash race, gaining unique powers. They return to Earth as the Flashmen to battle the alien empire Mess.",
+      "created_at": "2026-06-15 03:07:21",
+      "watch_url": null
+    },
+    {
       "title": "Christmas on Mars",
       "year": 2008,
       "medium": "Film",
@@ -21137,6 +21153,22 @@
       "watch_url": "https://archive.org/details/woman-in-the-moon-1929-colorized"
     },
     {
+      "title": "World Conquest Zvezda Plot",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "Tensai Okamura, Type-Moon",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Rebellion, Immortality, Aliens",
+      "image_filename": null,
+      "pitch": "A quirky anime about Kate, a young girl leading secret org Zvezda to conquer the world. Her eccentric crew\u2014a sword-wielding girl, a Ukrainian scientist, a former gangster, and a robot\u2014clash with a government justice squad.",
+      "created_at": "2026-06-15 03:04:12",
+      "watch_url": null
+    },
+    {
       "title": "World of Tomorrow",
       "year": 2015,
       "medium": "Short Film",
@@ -21425,5 +21457,5 @@
       "watch_url": null
     }
   ],
-  "count": 1339
+  "count": 1341
 }
