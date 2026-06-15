@@ -3745,6 +3745,22 @@
       "watch_url": "https://archive.org/details/dandy-dust-1998"
     },
     {
+      "title": "Dans une galaxie pr\u00e8s de chez vous, le film",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Claude Legault",
+      "raw_score": 3.69,
+      "total_ratings": 13,
+      "origin": "Canada",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Satirical",
+      "topics": "Space Travel, Exploration, Survival",
+      "image_filename": "Dans_une_galaxie_pres_de_chez_vous_le_film_2004.jpg",
+      "pitch": "In 2034, after Earth's ozone layer is destroyed, a team of Qu\u00e9b\u00e9cois space explorers embark on a desperate mission to find a new habitable planet. This Canadian sci-fi comedy follows seven crew members as they venture beyond their galaxy in search of a new home for humanity.",
+      "created_at": "2026-06-15 13:54:53",
+      "watch_url": null
+    },
+    {
       "title": "Dark City",
       "year": 1998,
       "medium": "Film",
@@ -6305,6 +6321,22 @@
       "watch_url": "https://archive.org/details/Gunhed"
     },
     {
+      "title": "Gwen and the Book of Sand",
+      "year": 1985,
+      "medium": "Animated Film",
+      "creator": "Jean-Fran\u00e7ois Laguionie",
+      "raw_score": 3.07,
+      "total_ratings": 14,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Post-Apocalypse, Fantasy",
+      "topics": "Survival, Discovery, Memory",
+      "image_filename": "Gwen_and_the_Book_of_Sand_1985.jpg",
+      "pitch": "In a desert post-apocalyptic world, a young girl named Gwen is adopted by a nomad tribe. When her friend is kidnapped by a mysterious entity dropping giant everyday objects from the sky, Gwen and an old woman Roseline embark on a journey to bring him back. This is a 1985 French animated film.",
+      "created_at": "2026-06-15 13:54:56",
+      "watch_url": null
+    },
+    {
       "title": "H2S",
       "year": 1969,
       "medium": "Film",
@@ -6849,6 +6881,22 @@
       "watch_url": "https://archive.org/details/hu-man"
     },
     {
+      "title": "Hybrids",
+      "year": 2017,
+      "medium": "Short Film",
+      "creator": "Florian Brauch, Matthieu Pujol, Kim Tailhades, Yohan Thireau, Romain Thirion",
+      "raw_score": 3.65,
+      "total_ratings": 13,
+      "origin": "France",
+      "mood": "Eerie",
+      "sub_genres": "Biopunk, Horror",
+      "topics": "Evolution, Genetic Engineering, Ecology",
+      "image_filename": "Hybrids_2017.jpg",
+      "pitch": "In a polluted near-future ocean, marine wildlife adapts\u2014fish grow mechanical gills, crustaceans develop toxic industrial pincers. This Oscar-winning animated short shows nature transforming into something half-creature, half-machine when pushed to the brink.",
+      "created_at": "2026-06-15 13:54:49",
+      "watch_url": null
+    },
+    {
       "title": "Hydro-Puzzle",
       "year": 1971,
       "medium": "Film",
@@ -6975,6 +7023,22 @@
       "pitch": "Ikarie XB-1 is a 1963 Czechoslovak science fiction film that stands as one of the most sophisticated and underrated\u592a\u7a7a\u63a2\u7d22\u7535\u5f71s of its era. Directed by Jind\u0159ich Pol\u00e1k and loosely based on Stanis\u0142aw Lem's novel \"The Magellanic Cloud,\" this film predates and influences Stanley Kubrick's 2001: A Space Odyssey. Set in 2163, the film follows a multinational crew aboard the starship Ikarie XB-1 on a 28-month journey to the mysterious \"White Planet\" orbiting Alpha Centauri. The film is notable for its thoughtful, character-driven approach to hard science fiction, exploring the psychological and sociological challenges of long-duration space travel with remarkable prescience. While the US release (heavily edited and retitled \"Voyage to the End of the Universe\") sanitized much of its complexity, the original Czech version remains a gripping, intelligent piece of cinema that deserves far greater recognition.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/ikarie-xb-1-1963-cz"
+    },
+    {
+      "title": "In Your Image",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Alexandre",
+      "raw_score": 2.38,
+      "total_ratings": 16,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Cloning, Identity, Family",
+      "image_filename": "In_Your_Image_2004.jpg",
+      "pitch": "A woman haunted by her inability to have children decides to conceive through cloning. The daughter she gives birth to is nearly identical to her\u2014but the child begins to grow rapidly and slowly replaces her in the household.",
+      "created_at": "2026-06-15 13:55:00",
+      "watch_url": null
     },
     {
       "title": "In the Dust of the Stars",
@@ -17361,6 +17425,22 @@
       "watch_url": null
     },
     {
+      "title": "The Last Journey of the Enigmatic Paul W.R",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Jean-Louis",
+      "raw_score": 2.3,
+      "total_ratings": 15,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Space-Opera",
+      "topics": "Space Travel, AI, Survival",
+      "image_filename": "The_Last_Journey_of_the_Enigmatic_Paul_WR_2015.jpg",
+      "pitch": "A red moon threatens Earth. The most talented astronaut of his generation, the enigmatic Paul W.R, is humanity's only hope. But a few hours before the Great Mission launches, Paul disappears.",
+      "created_at": "2026-06-15 13:55:03",
+      "watch_url": null
+    },
+    {
       "title": "The Last Man on Earth",
       "year": 1964,
       "medium": "Film",
@@ -22657,5 +22737,5 @@
       "watch_url": null
     }
   ],
-  "count": 1416
+  "count": 1421
 }
