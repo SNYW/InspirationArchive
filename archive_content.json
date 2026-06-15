@@ -2017,6 +2017,24 @@
       "watch_url": null
     },
     {
+      "title": "Armageddon",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Gordon Chan",
+      "raw_score": 2.9,
+      "total_ratings": 12,
+      "origin": "Hong-Kong",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Surveillance, Megacorps, AI",
+      "image_filename": "Armageddon_1997.jpg",
+      "pitch": "In near-future Hong Kong, ten elite scientists are secretly ranked as humanity's potential leaders. When several start dying in spontaneous combustion, top scientist Dr. Ken becomes the next target. Andy Lau stars in this paranoid sci-fi thriller blending action and conspiracy.",
+      "truth": "Ten elite scientists are secretly ranked as humanity's future leaders. When several begin dying in spontaneous combustion, Dr. Ken must unravel a conspiracy while evading assassins. His friend in the Hong Kong CID helps protect him as more deaths occur. Ken discovers the plot threatens global power itself.",
+      "core": "Armageddon explores scientific power and vulnerability in a surveillance state. It questions who should control humanity's destiny\u2014governments, corporations, or scientists. A paranoid thriller reflecting late-1990s anxieties about technology and power, with a distinctly Hong Kong perspective.",
+      "created_at": "2026-06-15 15:34:56",
+      "watch_url": null
+    },
+    {
       "title": "Armitage III",
       "year": 1995,
       "medium": "OVA",
@@ -9631,6 +9649,24 @@
       "watch_url": null
     },
     {
+      "title": "Liquid Dreams",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Mark S. Manos",
+      "raw_score": 2.31,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia, Noir",
+      "topics": "VR, Identity, Murder",
+      "image_filename": "Liquid_Dreams_1991.jpg",
+      "pitch": "In a near-future America, a woman investigates her sister's murder at a futuristic strip club where clients can experience performers' sensations through neurotechnology. She becomes the club's latest star while uncovering a sinister hierarchy. Shown at Cannes 1991 Critics' Week.",
+      "truth": "Eve Black auditions at a futuristic strip club where patrons experience performers' sensations via neural devices. After successfully auditioning, she becomes the star of a film being made there. When her sister Tina is murdered, Eve uses her new position to investigate, discovering a dark conspiracy within the club's management that exploits performers.",
+      "core": "Liquid Dreams is an erotic thriller exploring VR, identity, and exploitation. Comparisons to Videodrome are inevitable\u2014both deal with media that transforms users. The film questions reality versus simulation and who controls the narrative. A cult curiosity from the early 1990s VR boom.",
+      "created_at": "2026-06-15 15:35:01",
+      "watch_url": null
+    },
+    {
       "title": "Liquid Sky",
       "year": 1982,
       "medium": "Film",
@@ -16757,6 +16793,24 @@
       "core": "**Scientific Authenticity:** The Andromeda Strain was groundbreaking for its commitment to scientific accuracy. Director Robert Wise worked with microbiologists and used real laboratory settings at Caltech. The film's depiction of scientists using rigorous methodology rather than intuition or heroism influenced the \"hard SF\" approach in cinema.\n\n**Pandemic and Biological Threats:** Long before COVID-19, the film explored themes of infectious disease, extraterrestrial contamination, and the fear of alien biology. It raised public concerns about interplanetary contamination and back-contamination\u2014fears that would later resurface in discussions about returning lunar or Martian samples.\n\n**Bureaucratic Coldness:** The film's tone is deliberately clinical and detached, reflecting the bureaucratic nature of the Wildflower facility. The scientists operate as functionaries following protocols rather than heroic individuals, emphasizing the impersonal nature of institutional responses to crises.\n\n**The Limits of Human Control:** The organism's ability to mutate and adapt represents the limits of human understanding and control. The film suggests that confronting truly alien life may be beyond human comprehension\u2014or at least require humbling acknowledgments of our limitations.\n\nThe Andromeda Strain remains a landmark in science fiction cinema for its serious treatment of scientific inquiry, its influential visual style, and its prescient themes about biological threats and planetary protection.",
       "created_at": "2026-03-04 22:19:10",
       "watch_url": "https://archive.org/details/turner_video_379390"
+    },
+    {
+      "title": "The Arrival",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "David Schmoeller",
+      "raw_score": 2.21,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Transformation, Survival",
+      "image_filename": "The_Arrival_1991.jpg",
+      "pitch": "After crash-landing, an alien inhabits the body of elderly Max Page, who inexplicably revives on the autopsy table, his health rejuvenated and aging reversed. But he develops a disturbing craving for the blood of ovulating women. FBI agents hunt the apparent serial killer.",
+      "truth": "An alien crashes near an elderly man Max Page, who dies during his 73rd birthday. The alien inhabits his body, causing Max to revive on the autopsy table\u2014rejuvenated but developing a craving for estrogen-rich blood. Thirteen FBI Agent John Mills investigates the serial killings. Max's son recognizes his father in a suspect photo\u2014they conclude an alien controls the body, driving it to murder.",
+      "core": "The Arrival is a sci-fi horror with an unusual premise: the alien as invasive parasite. The gradual-rejuvenation idea is compelling, though execution is considered routine. It's a B-movie with ideas above its budget, exploring identity, body horror, and what makes us human.",
+      "created_at": "2026-06-15 15:35:06",
+      "watch_url": null
     },
     {
       "title": "The Asphyx",
@@ -25759,5 +25813,5 @@
       "watch_url": null
     }
   ],
-  "count": 1431
+  "count": 1434
 }
