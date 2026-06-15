@@ -8065,6 +8065,24 @@
       "watch_url": "https://archive.org/details/in_the_dust_of_the_stars"
     },
     {
+      "title": "Incident at Raven's Gate",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Rolf de Heer",
+      "raw_score": 3.07,
+      "total_ratings": 14,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Thriller",
+      "topics": "Aliens, Survival, Family",
+      "image_filename": "Incident_at_Ravens_Gate.jpg",
+      "pitch": "Incident at Raven's Gate is an arthouse sci-fi film from prominent Australian director Rolf de Heer. Part thriller, part science fiction, part psychological drama, it blends genres in the remote Australian outback. Strange events on a farming property attract police and Special Branch investigators, uncovering an alien force.",
+      "truth": "Ex-con Eddie Cleary arrives at his brother Richard's farming property. Tensions build as mysterious events occur\u2014bird kills, disappearing water. Special Branch investigator Cummings arrives investigating radar anomalies. Eddie crosses local cop Skinner. The property is assaulted by an alien force, causing deaths among protagonists. Survivors Eddie and Rachel stand restored outside the homestead.",
+      "core": "Genre-crossing Australian film\u2014part thriller, sci-fi, psychological drama. Shot in South Australia's Riverland and Murraylands for A.5 million. Limited release didn't achieve critical acclaim of other de Heer films, but earned three AFI nominations.",
+      "created_at": "2026-06-15 16:26:39",
+      "watch_url": null
+    },
+    {
       "title": "Indestructible Man",
       "year": 1956,
       "medium": "Film",
@@ -15373,6 +15391,24 @@
       "watch_url": "https://archive.org/details/spectreman_202506"
     },
     {
+      "title": "Spirits of the Air, Gremlins of the Clouds",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Alex Proyas",
+      "raw_score": 2.9,
+      "total_ratings": 31,
+      "origin": "Australia",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation, Technology, Redemption",
+      "image_filename": "Spirits_of_the_Air_Gremlins_of_the_Clouds.jpg",
+      "pitch": "Alex Proyas's striking debut (later The Crow, I, Robot). In a stark post-apocalyptic Australian outback, two isolated siblings' world is disrupted by a mysterious fugitive. Haunting desert imagery recalls Tarkovsky; themes of faith, hope, and redemption feel distinctly its own.",
+      "truth": "Siblings Felix and Betty live alone in an outback homestead. Felix, in a wheelchair, and his religious sister Betty's quiet life ends when fugitive Smith arrives fleeing pursuers. They attempt to build a flying machine for escape before Smith's enemies arrive. Betty suspects Smith is a demon.",
+      "core": "Proyas creates haunting outback imagery\u2014vast horizons dwarfing human existence. Faith through Betty's religious fervor and Felix's engineering optimism, while Smith's past represents guilt seeking redemption. The flying machine becomes metaphor for transcendence.",
+      "created_at": "2026-06-15 16:25:38",
+      "watch_url": null
+    },
+    {
       "title": "Spriggan",
       "year": 1998,
       "medium": "Anime Film",
@@ -17531,6 +17567,24 @@
       "core": "The Centauri Device is fundamentally about the rejection of space opera's comforting lies. Harrison deliberately breaks three central tenets that defined the genre: that the protagonist plays an active role in driving plot forward, that the universe is comprehensible to humans, and that the universe is anthropocentric. Truck is a passive hero\u2014he doesn't save the day through heroism or clever planning; his final act is one of desperation that destroys everything.\n\nThe novel explores how humanity has corrupted even the stars. The solar system of 2367 is a stagnant nightmare of corrupt politics, organized crime, and bizarre religious movements. The twentieth century's great powers have evolved into grotesque parodies of themselves\u2014the Israeli World Government and United Arab Socialist Republics bear no resemblance to their historical antecedents, representing instead the decay of political idealism into authoritarianism.\n\nHarrison's anarchist sympathies permeate the work. The Aesthete Anarchists represent a form of freedom and creativity, but even they are caught up in the chase for power. The Openers' religion\u2014which views \"honesty of bodily function as the sole valid praise of God\"\u2014is both absurd and strangely honest about the human condition.\n\nThe novel's anti-colonial themes are equally significant. The Centaurans were nearly exterminated by human bombing, and the Device represents both the technology of a destroyed civilization and the instrument of humanity's ultimate judgment upon itself. When Truck activates it, he enacts a kind of cosmic revenge\u2014not for himself, but for his dead people.\n\nPerhaps most importantly, The Centauri Device asks whether storytelling itself can be honest. The epilogue's refusal to provide closure, its admission that even the \"facts\" of the story are uncertain, challenges the reader to accept ambiguity. In a genre built on clear heroes, comprehensible universes, and satisfying conclusions, Harrison offers only decay, destruction, and doubt.\n\nDespite Harrison's own later dismissal of the novel as \"the crappiest thing I ever wrote,\" its influence on subsequent space opera cannot be overstated. It showed that the genre could be literary, self-aware, and bleak\u2014and that doing so might actually make it more vital.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/centauridevice0000harr"
+    },
+    {
+      "title": "The Chain Reaction",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Ian Barry",
+      "raw_score": 2.75,
+      "total_ratings": 59,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Thriller",
+      "topics": "Survival, Ecology, Technology",
+      "image_filename": "The_Chain_Reaction.jpg",
+      "pitch": "The Chain Reaction is a 1980 Australian sci-fi thriller featuring a young Mel Gibson in an uncredited cameo. When an earthquake causes a nuclear waste leak, an injured engineer must warn the public before his bosses cover it up. A tense chase ensues.",
+      "truth": "An earthquake at nuclear facility WALDO causes a dangerous leak. Engineer Heinrich, badly contaminated, knows the leak will poison groundwater for miles. His boss wants to cover it up. Heinrich escapes, suffers amnesia, and is rescued by mechanic Larry and his wife Carmel. As Heinrich recovers his memories, the boss's thugs close in on the trio.",
+      "core": "Shot for A50,000 with George Miller as associate producer. Features similar themes to Mad Max and The China Syndrome. Released shortly after Mad Max, it earned an international Saturn nomination. Notable for its early use of Australian talent including Russell Boyd's cinematography.",
+      "created_at": "2026-06-15 16:27:10",
+      "watch_url": null
     },
     {
       "title": "The Chaos Engine",
@@ -25939,5 +25993,5 @@
       "watch_url": null
     }
   ],
-  "count": 1441
+  "count": 1444
 }
