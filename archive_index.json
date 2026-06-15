@@ -4609,6 +4609,22 @@
       "watch_url": "https://archive.org/details/turner_video_3519"
     },
     {
+      "title": "Egg",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Yukihiko Tsutsumi",
+      "raw_score": 3.57,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Horror",
+      "topics": "Isolation, Perception",
+      "image_filename": "Egg_2005.jpg",
+      "pitch": "A Korean immigrant woman in Japan sees a giant egg whenever she closes her eyes. Each blink brings it closer to hatching\u2014and unleashes real-world horrors. A bizarre blend of creature feature, body horror, and office comedy.",
+      "created_at": "2026-06-15 09:44:42",
+      "watch_url": null
+    },
+    {
       "title": "El Mercenario",
       "year": 1980,
       "medium": "Graphic Novel",
@@ -22241,5 +22257,5 @@
       "watch_url": null
     }
   ],
-  "count": 1390
+  "count": 1391
 }

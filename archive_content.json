@@ -5185,6 +5185,24 @@
       "watch_url": "https://archive.org/details/turner_video_3519"
     },
     {
+      "title": "Egg",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Yukihiko Tsutsumi",
+      "raw_score": 3.57,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Horror",
+      "topics": "Isolation, Perception",
+      "image_filename": "Egg_2005.jpg",
+      "pitch": "A Korean immigrant woman in Japan sees a giant egg whenever she closes her eyes. Each blink brings it closer to hatching\u2014and unleashes real-world horrors. A bizarre blend of creature feature, body horror, and office comedy.",
+      "truth": "Tsukiko Arai works as a debugger in Japan. Since childhood, she has seen a giant egg each time she closes her eyes. As it hatches, a creature emerges and begins attacking those around her. Each blink escalates the violence, driving Tsukiko mad. Made in 2002 but unreleased until 2005.",
+      "core": "A kaiju film made on a shoestring (one-week script, two-week shoot), Egg is a surreal blend of creature feature, body horror, and psychological thriller. Director Tsutsumi created it between bigger projects. It explores immigrant isolation and reality vs perception.",
+      "created_at": "2026-06-15 09:44:42",
+      "watch_url": null
+    },
+    {
       "title": "El Mercenario",
       "year": 1980,
       "medium": "Graphic Novel",
@@ -25021,5 +25039,5 @@
       "watch_url": null
     }
   ],
-  "count": 1390
+  "count": 1391
 }
