@@ -10225,6 +10225,24 @@
       "watch_url": "https://archive.org/details/memoirs-of-a-survivor-1981"
     },
     {
+      "title": "Mercano the Martian",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.11,
+      "total_ratings": 11,
+      "origin": "Argentina",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Satire, First Contact",
+      "image_filename": "Mercano_the_Martian_2002.jpg",
+      "pitch": "When his pet rock is destroyed by an Earth probe, Mercano the Martian seeks revenge in Buenos Aires \u2014 only to find humans completely indifferent to his existence. A witty inversion of first contact cinema.",
+      "truth": "Mercano's pet rock is destroyed by an Earth probe. He flies to Buenos Aires for vengeance but walks the city unnoticed. TV stations cut him off for commercials. Rooftop threats earn only shrugs. Moved by human mundanity, he abandons his destruction plan.",
+      "core": "Inverts first contact tropes: the alien arrives, nobody notices. Satirizes human hubris and media saturation \u2014 in an overloaded world, even a Martian is just another interrupted broadcast. Argentine setting breaks from Hollywood formulas.",
+      "created_at": "2026-06-15 14:19:17",
+      "watch_url": null
+    },
+    {
       "title": "Message from Space",
       "year": 1978,
       "medium": "Anime Film",
@@ -25579,5 +25597,5 @@
       "watch_url": null
     }
   ],
-  "count": 1421
+  "count": 1422
 }
