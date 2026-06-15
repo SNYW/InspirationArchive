@@ -6049,6 +6049,22 @@
       "watch_url": "https://archive.org/details/turner_video_11661"
     },
     {
+      "title": "Full Metal Yakuza",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Takashi Miike",
+      "raw_score": 2.91,
+      "total_ratings": 51,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Cyberneticks, Revenge, Identity",
+      "image_filename": "Full_Metal_Yakuza_1997.jpg",
+      "pitch": "Takashi Miike's 1997 tokusatsu action film. After being killed in a yakuza hit, Kensuke Hagane is brought back to life by a mad scientist as a bulletproof cyborg with metal for blood. Seeking revenge, he battles his way through the organization that murdered him.",
+      "created_at": "2026-06-15 23:07:08",
+      "watch_url": null
+    },
+    {
       "title": "Funky Koval",
       "year": 1982,
       "medium": "Graphic Novel",
@@ -6655,6 +6671,22 @@
       "pitch": "Gunbuster is a 6-episode original video animation (OVA) series released between 1988 and 1989, marking the directorial debut of Hideaki Anno and the second production from the fledgling studio Gainax. Set in the early 21st century, the series follows Noriko Takaya, a young woman whose father disappeared during humanity's first contact war with an alien race known as the Space Monsters. Determined to follow in his footsteps and prove herself, Noriko enrolls at the Shirakan Empire's space officer academy, where she trains alongside other promising pilots to battle the returning alien threat. The series is notable for its emotional depth, its pioneering use of mecha animation, and its themes of personal growth, sacrifice, and humanity's place in the universe.",
       "created_at": "2026-03-01 13:34:25",
       "watch_url": "https://archive.org/details/gunbuster-4k-remaster"
+    },
+    {
+      "title": "Gundam Wing: The Endless Waltz",
+      "year": 1998,
+      "medium": "Anime Film",
+      "creator": "Yasunao Ozaki",
+      "raw_score": 3.7,
+      "total_ratings": 54,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, War, Peace",
+      "image_filename": "Gundam_Wing_The_Endless_Waltz_1998.jpg",
+      "pitch": "The 1998 concluding chapter of the Gundam Wing anime. Set after the battles between the colonies and Earth, the Gundam pilots have attempted to return to peace. But when Relena Darlian is kidnapped, the pilots must reunite to face a new threat.",
+      "created_at": "2026-06-15 23:07:48",
+      "watch_url": null
     },
     {
       "title": "Gunhed",
@@ -9935,6 +9967,22 @@
       "pitch": "Mobile Suit Gundam 0080: War in the Pocket is a 1989 Japanese OVA and the first in the Gundam franchise. Set in the final days of the One Year War, it follows 11-year-old Al who befriends a Zeon pilot hiding in his colony. Unlike typical Gundam fare, this is an intimate story of war through a child's eyes.",
       "created_at": "2026-06-15 18:35:42",
       "watch_url": "https://archive.org/details/mobile-suit-gundam-0080-war-in-the-poc-6-english-subbed-all-ma"
+    },
+    {
+      "title": "Mobile Suit Gundam F91",
+      "year": 1991,
+      "medium": "Anime Film",
+      "creator": "Hiroyuki Yatsu",
+      "raw_score": 3.25,
+      "total_ratings": 52,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, War, Rebellion",
+      "image_filename": "Mobile_Suit_Gundam_F91_1991.jpg",
+      "pitch": "The first Gundam film set in the Universal Century timeline after the original series. In U.C. 0123, the Earth Federation faces a new threat from the aristocratic Crossbone Vanguard, who plan to seize the colonies of Frontier Side. A handful of young civilians must escape the conflict.",
+      "created_at": "2026-06-15 23:07:28",
+      "watch_url": null
     },
     {
       "title": "Mobile Suit Gundam ZZ",
@@ -23857,5 +23905,5 @@
       "watch_url": null
     }
   ],
-  "count": 1491
+  "count": 1494
 }

@@ -6805,6 +6805,24 @@
       "watch_url": "https://archive.org/details/turner_video_11661"
     },
     {
+      "title": "Full Metal Yakuza",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Takashi Miike",
+      "raw_score": 2.91,
+      "total_ratings": 51,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Cyberneticks, Revenge, Identity",
+      "image_filename": "Full_Metal_Yakuza_1997.jpg",
+      "pitch": "Takashi Miike's 1997 tokusatsu action film. After being killed in a yakuza hit, Kensuke Hagane is brought back to life by a mad scientist as a bulletproof cyborg with metal for blood. Seeking revenge, he battles his way through the organization that murdered him.",
+      "truth": "Yakuza boss Tosa fails an assassination and goes to prison. Upon release, he and his loyal subordinate Kensuke are betrayed and shot by rivals. Scientist Genpaku Hiraga rebuilds Kensuke as a cyborg, replacing much of his body with machine parts. Now bulletproof and powered by metal, Kensuke hunts down his killers while struggling to control his emotions.",
+      "core": "Miike's extreme take on the cyborg revenge genre combines body horror with over-the-top action. The film explores what it means to be human when most of one's body has been replaced by machinery.",
+      "created_at": "2026-06-15 23:07:08",
+      "watch_url": null
+    },
+    {
       "title": "Funky Koval",
       "year": 1982,
       "medium": "Graphic Novel",
@@ -7487,6 +7505,24 @@
       "core": "Gunbuster represents a pivotal moment in anime history as Hideaki Anno's directorial debut, showcasing the ambitious storytelling and thematic ambition that would later define his work on Neon Genesis Evangelion. The series blends traditional space opera elements with more nuanced character exploration, examining the psychological toll of war and the pressure placed on young people to inherit their parents' battles. Anno's signature themes\u2014pilots as traumatized children, the impossibility of truly understanding one's parents, and the cathartic release of emotion\u2014first appear here in nascent form.\n\nThe series is notable for its technical achievements, including detailed mechanical designs and dynamic space battle sequences that influenced subsequent mecha anime. Gainax's production demonstrated that OVAs could serve as vehicles for creative experimentation beyond the constraints of television broadcast standards, paving the way for later ambitious anime projects.\n\nThematically, Gunbuster explores how individuals cope with the legacy of sacrifice\u2014specifically how Noriko must reconcile her idealized image of her father with the complex reality of his choices. The series ultimately argues that hope and determination can emerge from tragedy, positioning its young protagonists as inheritors of a burden they did not create but must nonetheless carry forward.\n\nAs Gainax's breakthrough success, Gunbuster established the studio's reputation for combining spectacular animation with emotionally resonant storytelling, creating a template that would be refined in later works and influencing countless anime productions that followed.",
       "created_at": "2026-03-01 13:34:25",
       "watch_url": "https://archive.org/details/gunbuster-4k-remaster"
+    },
+    {
+      "title": "Gundam Wing: The Endless Waltz",
+      "year": 1998,
+      "medium": "Anime Film",
+      "creator": "Yasunao Ozaki",
+      "raw_score": 3.7,
+      "total_ratings": 54,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, War, Peace",
+      "image_filename": "Gundam_Wing_The_Endless_Waltz_1998.jpg",
+      "pitch": "The 1998 concluding chapter of the Gundam Wing anime. Set after the battles between the colonies and Earth, the Gundam pilots have attempted to return to peace. But when Relena Darlian is kidnapped, the pilots must reunite to face a new threat.",
+      "truth": "One year after the war between the Earth Sphere and space colonies, peace has returned. The Gundam pilots have disbanded and their mecha are being sent to the sun to be destroyed. When Relena Darlian, now a government official, is kidnapped by a group seeking to restart the conflict, the pilots must find her and stop the conspiracy.",
+      "core": "The Endless Waltz serves as both a conclusion and a commentary on the cyclical nature of war. The film questions whether true peace is ever possible when power structures always seek to control.",
+      "created_at": "2026-06-15 23:07:48",
+      "watch_url": null
     },
     {
       "title": "Gunhed",
@@ -11177,6 +11213,24 @@
       "core": "War in the Pocket subverts Gundam's typical military focus, exploring how children understand conflict. Al's romantic view of warfare shatters as he witnesses death firsthand. The OVA asks whether anyone truly wins in war\u2014not through battles, but through a child's lost innocence.",
       "created_at": "2026-06-15 18:35:42",
       "watch_url": "https://archive.org/details/mobile-suit-gundam-0080-war-in-the-poc-6-english-subbed-all-ma"
+    },
+    {
+      "title": "Mobile Suit Gundam F91",
+      "year": 1991,
+      "medium": "Anime Film",
+      "creator": "Hiroyuki Yatsu",
+      "raw_score": 3.25,
+      "total_ratings": 52,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Space Travel, War, Rebellion",
+      "image_filename": "Mobile_Suit_Gundam_F91_1991.jpg",
+      "pitch": "The first Gundam film set in the Universal Century timeline after the original series. In U.C. 0123, the Earth Federation faces a new threat from the aristocratic Crossbone Vanguard, who plan to seize the colonies of Frontier Side. A handful of young civilians must escape the conflict.",
+      "truth": "Ten years after the Laplace Incident, the Earth Federation has built new space colonies. The Crossbone Vanguard, a aristocratic group led by Fei, seizes the newly constructed Frontier Side colonies. Young civilians including Seabook Arno and Cecily Fairchild are caught in the crossfire as the Vanguard attacks. Seabook must fight to protect his friends and family.",
+      "core": "Gundam F91 was designed to reboot the franchise for a new generation. The film introduces more realistic mobile suits and a darker political storyline, though the abbreviated narrative left many questions unanswered.",
+      "created_at": "2026-06-15 23:07:28",
+      "watch_url": null
     },
     {
       "title": "Mobile Suit Gundam ZZ",
@@ -26839,5 +26893,5 @@
       "watch_url": null
     }
   ],
-  "count": 1491
+  "count": 1494
 }
