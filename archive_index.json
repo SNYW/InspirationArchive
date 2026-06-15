@@ -3985,6 +3985,22 @@
       "watch_url": "https://archive.org/details/Darkdrive1997"
     },
     {
+      "title": "Darkening Sky",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Ryan Buell",
+      "raw_score": 2.25,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "Darkening_Sky_2011.jpg",
+      "pitch": "A 2011 American sci-fi horror. A skeptical grad student studying UFOs discovers his alien abduction nightmares were real. He confronts shape-shifting extraterrestrials, implanted objects, organ harvesting, and humans possessed by a malevolent alien presence. An indie horror exploring modern mythology.",
+      "created_at": "2026-06-15 22:40:30",
+      "watch_url": null
+    },
+    {
       "title": "Darkside Blues",
       "year": 1994,
       "medium": "Anime Film",
@@ -9425,6 +9441,22 @@
       "watch_url": null
     },
     {
+      "title": "Maximum Shame",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Carlos Atanes",
+      "raw_score": 2.4,
+      "total_ratings": 10,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Parallel Worlds, Post-Apocalypse, Survival",
+      "image_filename": "Maximum_Shame_2010.jpg",
+      "pitch": "A 2010 British-Spanish sci-fi fantasy. A man becomes trapped in a parallel dimension ruled by a ruthless Queen who controls reality like a chess game. His wife follows him into this nightmare\u2014now both are trapped in a surreal dystopia.",
+      "created_at": "2026-06-15 22:39:54",
+      "watch_url": null
+    },
+    {
       "title": "Maya Manithan",
       "year": 1958,
       "medium": "Film",
@@ -9935,6 +9967,22 @@
       "pitch": "Moebius is a 1996 Argentine science fiction film directed by Gustavo Mosquera, based on the classic 1950 short story \"A Subway Named Mobius\" by Armin Joseph Deutsch. Set in a dystopian Buenos Aires, the film follows the mysterious disappearance of a subway train\u2014along with its passengers\u2014deep within the network's tunnels. When officials cannot locate the train despite an exhaustive search, a young topologist named Daniel Pratt is brought in to investigate. What follows is a mind-bending journey through the Buenos Aires Underground as Pratt develops a theory that the train has slipped into another dimension due to the network's topology forming a M\u00f6bius strip. The film is notable for being one of the most ambitious Argentine sci-fi productions of the 1990s, made with a modest budget of $250,000, and for its clever adaptation of a mathematical concept into cinematic language.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/oebmpznbede_"
+    },
+    {
+      "title": "Mold!",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "John Milanius",
+      "raw_score": 2.75,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Dystopia",
+      "topics": "Pandemic, Ecology, Survival",
+      "image_filename": "Mold_2012.jpg",
+      "pitch": "A 2012 American sci-fi horror. In 1984, during the war on drugs, the government develops a mold to destroy Colombian coca fields. During a demonstration, the mold escapes control\u2014and proves deadly to more than just vegetation. An eco-thriller about biological warfare gone wrong.",
+      "created_at": "2026-06-15 22:40:21",
+      "watch_url": null
     },
     {
       "title": "Momentum",
@@ -21617,6 +21665,22 @@
       "watch_url": "https://en.wikisource.org/wiki/The_World_Well_Lost"
     },
     {
+      "title": "The World of Arata: World's/Start/Load/End",
+      "year": 2012,
+      "medium": "Anime Film",
+      "creator": "Tomoki Miyazaki",
+      "raw_score": 3.27,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Time Travel, Post-Apocalypse, Survival",
+      "image_filename": "The_World_of_Arata_2012.jpg",
+      "pitch": "A 2012 Japanese anime film. Four high school girls are time travelers sent 6000 years into the future to escape human extinction. They walk silently on barren earth where the same day is endlessly repeated. Now stranded in a post-apocalyptic future, they must decide what to do.",
+      "created_at": "2026-06-15 22:40:12",
+      "watch_url": null
+    },
+    {
       "title": "The World of Edena",
       "year": 1983,
       "medium": "Graphic Novel",
@@ -22415,6 +22479,22 @@
       "pitch": "In 0022 Correct Century, humanity has fled to the Moon after destroying itself in the Dark Axis Wars. When the Moonrace activates the ancient mecha Turn A Gundam, buried for two millennia, both sides must confront their shared\u2014and deliberately forgotten\u2014past.",
       "created_at": "2026-06-15 05:34:03",
       "watch_url": "https://archive.org/details/turn-a-legendado-ptbr-pt2"
+    },
+    {
+      "title": "Twenty Twenty-Four",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Richard Mundy",
+      "raw_score": 2.3,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Isolation, Survival, Post-Apocalypse",
+      "image_filename": null,
+      "pitch": "A 2017 American psychological sci-fi thriller. A lone scientist maintains an underground bunker, preparing for a global nuclear disaster. After becoming prematurely isolated, he slowly begins questioning his own reality. Is he truly alone? An immersive psychological nightmare.",
+      "created_at": "2026-06-15 22:40:45",
+      "watch_url": null
     },
     {
       "title": "Twilight of the Dark Master",
@@ -23729,5 +23809,5 @@
       "watch_url": null
     }
   ],
-  "count": 1483
+  "count": 1488
 }
