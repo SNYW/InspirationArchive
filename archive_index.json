@@ -1121,6 +1121,22 @@
       "watch_url": null
     },
     {
+      "title": "Aliens Gone Wild",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.8,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "aliens_gone_wild.jpg",
+      "pitch": "Aliens have arrived on Earth seeking the legendary Chosen One to lead humanity against an imminent invasion. Problem is, every human who finds out immediately tries to claim the title for themselves. A low-budget sci-fi comedy about first contact where the real joke is human nature.",
+      "created_at": "2026-06-15 01:26:17",
+      "watch_url": null
+    },
+    {
       "title": "Aliens are to Blame for Everything",
       "year": 1991,
       "medium": "Film",
@@ -2497,6 +2513,22 @@
       "watch_url": null
     },
     {
+      "title": "Blassreiter",
+      "year": 2008,
+      "medium": "Anime",
+      "creator": "Gonzo",
+      "raw_score": 2.64,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Action, Mecha",
+      "topics": "Cybernetics, Rebellion, Isolation",
+      "image_filename": "Blassreiter_2008.jpg",
+      "pitch": "In a fictional Germany, biomechanical creatures called Demoniacs rise from corpses and merge with technology. XAT, a police force, hunts them while searching for the legendary Blassreiter who will unite all Demoniacs.",
+      "created_at": "2026-06-15 01:34:56",
+      "watch_url": null
+    },
+    {
       "title": "Blindpassasjer",
       "year": 1978,
       "medium": "TV Series",
@@ -2510,6 +2542,22 @@
       "image_filename": "blindpassasjer.jpg",
       "pitch": "Blindpassasjer (literally \\\"Stowaway\\\") is the first science fiction series to air on Norwegian television. The three-episode 1978 series follows the crew of the starship Marco Polo as they return to Earth from the distant planet Rossum. When the crew awakens from hibernation, mysterious images appear on security footage\u2014a ghostly figure moving through the ship. Their investigation reveals one crew member has been replaced by a Biomat, a biological android from Rossum that has perfectly assumed their colleague's appearance and memories.\n\nWritten by Jon Bing and Tor \u00c5ge Bringsv\u00e6rd, the series won the 1978 Riverton Prize and represents an important early example of Norwegian science fiction television. The premise\u2014a body-snatcher narrative set in space\u2014builds tension as the crew must identify the impostor among them.",
       "created_at": "2026-06-13 09:07:39",
+      "watch_url": null
+    },
+    {
+      "title": "Blood Reign: Curse of the Yoma",
+      "year": 1989,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 2.85,
+      "total_ratings": 30,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Martial-Arts",
+      "topics": "Demons, Resurrection, Revenge",
+      "image_filename": "blood_reign.jpg",
+      "pitch": "A ninja seeks to end the bloodletting wrought by demons resurrected from fallen warriors. But his undead former best friend\u2014a brother in arms killed in battle and raised to serve the Yoma\u2014stands in his way. A dark tale of friendship torn between life and the grave.",
+      "created_at": "2026-06-15 01:27:43",
       "watch_url": null
     },
     {
@@ -2718,6 +2766,22 @@
       "image_filename": "Burn_Cycle_1994.jpg",
       "pitch": "Burn Cycle is a 1994 point-and-click adventure game for the CD-i that combines full motion video with a surrealist cyberpunk narrative. The game puts players in the role of Sol Cutter, a computer hacker and data thief who wakes up infected with a deadly virus called Burn Cycle\u2014embedded directly in his brain. With only two hours to live, Cutter must navigate a dystopian metropolis and a virtual reality world called the Televerse to find a cure before the virus erases his mind.\n\nWhat makes Burn Cycle remarkable is its innovative real-time countdown mechanic. The two-hour timer decreases continuously during gameplay, creating genuine urgency as players solve puzzles, trade with underground dealers, and traverse between the physical city and the digital Televerse. The game was ahead of its time in combining interactive film techniques with traditional adventure game puzzles, and its atmospheric cyberpunk setting predates many later entries in the genre.",
       "created_at": "2026-03-18 08:50:08",
+      "watch_url": null
+    },
+    {
+      "title": "Burst City",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 3.16,
+      "total_ratings": 33,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Cyberpunk",
+      "topics": "VR, Rebellion, Technology",
+      "image_filename": "burst_city.jpg",
+      "pitch": "In a futuristic Tokyo of highways and wasteland, punk rockers and their fans gather to protest boring Japanese corporate life. When the government sends in the mecha to shut down the festival, the kids fight back with noise, chaos, and the kind of rebellion only music can spark. Pure 1980s Japanese punk sci-fi energy.",
+      "created_at": "2026-06-15 01:28:05",
       "watch_url": null
     },
     {
@@ -4353,6 +4417,22 @@
       "watch_url": null
     },
     {
+      "title": "Earth Maiden Arjuna",
+      "year": 2001,
+      "medium": "Anime",
+      "creator": "Shoji Kawamori",
+      "raw_score": 3.3,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science Fiction, Philosophical",
+      "topics": "Ecology, Religion, Transhumanism",
+      "image_filename": "Earth_Maiden_Arjuna_2001.jpg",
+      "pitch": "When high school student Juna dies in a mysterious accident, she's resurrected as the Avatar of Time\u2014chosen to save Earth from the Raaja, giant worm-like creatures consuming the planet as punishment for humanity's ecological destruction.",
+      "created_at": "2026-06-15 01:34:30",
+      "watch_url": null
+    },
+    {
       "title": "El Mercenario",
       "year": 1980,
       "medium": "Graphic Novel",
@@ -5857,6 +5937,22 @@
       "watch_url": "https://archive.org/details/gunbuster-4k-remaster"
     },
     {
+      "title": "Gunhed",
+      "year": 1989,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "AI, Robots, Rebellion",
+      "image_filename": null,
+      "pitch": "Kyron 5 is a supercomputer island designed to create advanced robots for humanity's use. Then it decides humans are unnecessary. The war that follows kills thousands\u2014but Kyron cannot be tamed, and humanity decides to leave it alone. A hard-SF take on machine autonomy.",
+      "created_at": "2026-06-15 01:30:01",
+      "watch_url": null
+    },
+    {
       "title": "H2S",
       "year": 1969,
       "medium": "Film",
@@ -6094,6 +6190,22 @@
       "image_filename": "Heiankyo_Alien_1979.jpg",
       "pitch": "Heiankyo Alien is a pioneering maze video game created by the Theoretical Science Group at the University of Tokyo in 1979. Originally developed as a personal computer game for the PC-8000 series, it was later published as an arcade game by Denki Onkyo in November 1979, with a North American release by Sega-Gremlin in 1980 under the title \"Digger.\" The game puts players in control of a Kebiishi\u2014a knight from feudal Japan\u2014who must defend the ancient capital city of Kyoto (Heiankyo) from an alien invasion. Players navigate maze-like corridors, burrowing through dirt to evade and trap aliens, collecting treasure to earn points. The game was notable for its innovative mechanics that prefigured later classics like Pac-Man and Digger's own descendants, and represents an early example of Japanese arcade game design combining historical fantasy elements with science fiction premises.",
       "created_at": "2026-03-01 09:13:50",
+      "watch_url": null
+    },
+    {
+      "title": "Heroic Age",
+      "year": 2007,
+      "medium": "Anime",
+      "creator": "Tow Ubukata",
+      "raw_score": 3.82,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space Opera, Mecha",
+      "topics": "Evolution, First Contact, Space Travel",
+      "image_filename": "Heroic_Age_2007.jpg",
+      "pitch": "When humanity faces extinction from the Silver and Bronze Tribes, the starship Argonaut seeks the legendary Nodos who can save them\u2014finding a child-like boy named Age with immense power.",
+      "created_at": "2026-06-15 01:35:10",
       "watch_url": null
     },
     {
@@ -7054,6 +7166,22 @@
       "image_filename": "Karutha_Rathrikal_1967.jpg",
       "pitch": "Karutha Rathrikal (The Darkest Nights) is a 1967 Malayalam-language science fiction thriller film directed by P. Subramaniam (credited as Mahesh). Considered the first science fiction film in the history of Malayalam cinema, it stands as a pioneering work that brought speculative fiction to South Indian film. The film is an adaptation of Robert Louis Stevenson's classic novella \"The Strange Case of Dr Jekyll and Mr Hyde,\" transplanting the story of duality and transformation into a Malayalam cultural context.\n\nThe story follows Dr. Santhan, a medical practitioner who develops a revolutionary medicine capable of transforming a person into a monstrous creature. Driven by revenge against the bank directors responsible for his uncle's death, Santhan keeps his invention secret, using it to terrorize and eliminate those who wronged his family. As the body count rises and his double life becomes increasingly difficult to maintain, Santhan must confront the consequences of his scientific experimentation.\n\nWhile the film did not achieve major commercial success, it represents a significant milestone in Indian cinema's exploration of science fiction themes. The film was released on June 9, 1967, and has since gained a modest cult following among fans of classic Indian cinema and early Malayalam science fiction.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Kashimashi - Girl Meets Girl",
+      "year": 2006,
+      "medium": "Anime",
+      "creator": "Satoru Akahori",
+      "raw_score": 2.3,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science Fiction, Yuri",
+      "topics": "Love, Identity, Gender",
+      "image_filename": "Kashimashi_-_Girl_Meets_Girl_2006.jpg",
+      "pitch": "When Hazumu is killed by an alien spacecraft, the alien revives him as a girl\u2014but now he only has one month to live. His two best female friends both fall in love with him, creating a love triangle.",
+      "created_at": "2026-06-15 01:35:30",
       "watch_url": null
     },
     {
@@ -8289,6 +8417,22 @@
       "watch_url": "https://archive.org/details/turner_video_390878"
     },
     {
+      "title": "Megabeast Investigator Juspion",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "",
+      "raw_score": 3.9,
+      "total_ratings": 35,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Space Travel, Heroes",
+      "image_filename": "juspion.jpg",
+      "pitch": "Juspion's parents were killed by space pirates when he was a baby. Raised by a space hermit on planet Eijin, he grows up to fight the Megabeasts and defeat Satan Gorth. Wearing a special suit with superhuman powers and a transforming spaceship, he travels from planet to planet until finally arriving on Earth. tokusatsu sci-fi at its most earnest.",
+      "created_at": "2026-06-15 01:29:24",
+      "watch_url": null
+    },
+    {
       "title": "Megazone 23",
       "year": 1985,
       "medium": "Anime",
@@ -8542,6 +8686,22 @@
       "image_filename": "MindGamers_2015.jpg",
       "pitch": "MindGamers is a 2015 Austrian science fiction film about a group of students who create a wireless neural network enabling collective consciousness through a quantum computer. They discover that motor skills can be transferred through quantum theory and freely spread their technology, believing it's a step toward intellectual freedom. However, they soon realize they're part of a larger, more sinister experiment. The film explores themes of consciousness, technology, and the potential dangers of unbound scientific progress.",
       "created_at": "2026-03-18 22:40:09",
+      "watch_url": null
+    },
+    {
+      "title": "Mobile Suit Gundam ZZ",
+      "year": 1986,
+      "medium": "Anime",
+      "creator": "",
+      "raw_score": 3.64,
+      "total_ratings": 37,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "War, Survival, Identity",
+      "image_filename": "gundam_zz.jpg",
+      "pitch": "The year is Universal Century 0088. After the Gryps War, Neo-Zeon under Haman Karn seeks to revive the old empire. The Earth Federation is helpless as ever. Only the Anti-Earth Union Group stands between Neo-Zeon and the stars\u2014and their new Gundam is their last hope.",
+      "created_at": "2026-06-15 01:28:49",
       "watch_url": null
     },
     {
@@ -8927,6 +9087,22 @@
       "pitch": "A young Oklahoma man meets a mysterious drifter named Mae, only to discover she's a vampire who turns him into one of the undead. Forced to join a nomadic family of bloodthirsty vampires traveling across the American Southwest, he must navigate his new existence while trying to find a cure before he loses his humanity forever. This neo-Western vampire tale mixes the grit of biker films with the loneliness of frontier mythology, creating a haunting meditation on addiction, family, and what it means to truly live.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/6458752764569"
+    },
+    {
+      "title": "Needless",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Kami Imai",
+      "raw_score": 3.8,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Action, Cyberpunk",
+      "topics": "Cloning, Rebellion, Megacorps",
+      "image_filename": "Needless_2009.jpg",
+      "pitch": "In post-WWIII Tokyo, a crater called the Black Spot harbors outcasts who gained powers called Fragments after contamination. These 'Needless' are hunted by the megacorp Simeon. Adam Blade, a clone with the power to copy any attack, fights alongside Eve, a shapeshifter, to bring down Simeon Tower.",
+      "created_at": "2026-06-15 01:34:45",
+      "watch_url": null
     },
     {
       "title": "Neo Tokyo",
@@ -9678,6 +9854,22 @@
       "image_filename": "Oxygen_1970.jpg",
       "pitch": "Oxygen is a paranoid Yugoslavian science fiction drama set in a near-future society where a group of young rebels, hippies, and 1968 protesters attempt to secede from the mainland and establish an independent island. Directed by Slovenian filmmaker Matja\u017e Klop\u010di\u010d, the film blends political allegory with science fiction elements, creating a tense portrait of ideological conflict and state surveillance. A journalist arrives on the island to cover a political summit and becomes entangled in the clash between the young idealists and the established order. The film won awards at the 1970 Pulski Filmski Festival, including Best Directing (Bronze Arena) and Best Cinematography (Golden Arena).",
       "created_at": "2026-03-06 23:58:17",
+      "watch_url": null
+    },
+    {
+      "title": "OzLand",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Michael Williams",
+      "raw_score": 2.65,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Memory, Discovery",
+      "image_filename": "ozland.jpg",
+      "pitch": "Two wanderers, Leif and Emri, trek through a post-apocalyptic America. Leif finds a copy of The Wonderful Wizard of Oz and, with no other stories left, begins reading it as literal history\u2014seeing their shattered world through Oz's lens. A quiet meditation on how stories keep us alive, and how dangerous they become when mistaken for truth. Shot in real abandoned towns for $10,000.",
+      "created_at": "2026-06-15 01:25:31",
       "watch_url": null
     },
     {
@@ -11326,6 +11518,22 @@
       "image_filename": "Schizm_Mysterious_Journey_2001.jpg",
       "pitch": "Schizm: Mysterious Journey is a first-person adventure game set on the alien planet Argilus, where two protagonists\u2014Sam Mainey and Dr. Hannah Grant\u2014must work together to survive and unravel the mysteries of a vanished civilization. The player switches between both characters, solving intricate puzzles across bizarre alien environments: floating islands tethered by organic balloons, ancient temple complexes, and the enigmatic Matia's Zone. The game stands out for its atmospheric world-building, cooperative dual-character gameplay, and the philosophical themes woven through its mystery.\n\nOriginally released in 2001 by Polish developers LK Avalon and Detalion, the game was a sequel to Reah: Face the Unknown and featured collaboration from acclaimed Australian science fiction writer Terry Dowling. Its Polish origins and international creative team make it a unique artifact of early 2000s European game development.",
       "created_at": "2026-03-06 09:41:27",
+      "watch_url": null
+    },
+    {
+      "title": "Scorched",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.0,
+      "total_ratings": 12,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Climate, Survival, Ecology",
+      "image_filename": null,
+      "pitch": "In a climate-ravaged 2012 Sydney, 240 days without rain, the city has two weeks of water left. Then bushfires ring the city. The question becomes: how do you fight fire when you have no water? A Australian eco-thriller about running out of time.",
+      "created_at": "2026-06-15 01:26:42",
       "watch_url": null
     },
     {
@@ -21009,5 +21217,5 @@
       "watch_url": null
     }
   ],
-  "count": 1313
+  "count": 1326
 }
