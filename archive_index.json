@@ -3297,6 +3297,22 @@
       "watch_url": "https://archive.org/details/cocolors-62-d-4-c-762"
     },
     {
+      "title": "Coherence",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "James Ward Byrkit",
+      "raw_score": 3.61,
+      "total_ratings": 3421,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Identity, Reality, Time-Travel",
+      "image_filename": null,
+      "pitch": "When Miller's Comet passes Earth, eight friends at a dinner party discover alternate versions of themselves in a house next door. A paranoid night of discovery follows. Shot in five days for $50,000 with no script \u2014 this is low-budget filmmaking at its smartest.",
+      "created_at": "2026-06-15 10:59:35",
+      "watch_url": null
+    },
+    {
       "title": "Cold Harvest",
       "year": 1999,
       "medium": "Film",
@@ -22401,5 +22417,5 @@
       "watch_url": null
     }
   ],
-  "count": 1400
+  "count": 1401
 }
