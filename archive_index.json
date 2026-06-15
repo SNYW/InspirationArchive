@@ -11345,6 +11345,22 @@
       "watch_url": "https://archive.org/details/roots-search-shokushin-buttai-1986-raw"
     },
     {
+      "title": "Roujin Z",
+      "year": 1991,
+      "medium": "Anime Film",
+      "creator": "Hiroyuki Kitakubo",
+      "raw_score": 3.31,
+      "total_ratings": 139,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Robots, Technology, Aging",
+      "image_filename": "Roujin_Z_1991.jpg",
+      "pitch": "In near-future Japan, the Ministry unveils the Z-001: an automated hospital bed with its own nuclear reactor, designed for elder care. When elderly invalid Kijuro Takazawa becomes the first test subject, he awakens to discover its horrifying secret\u2014the bed will encase him in concrete to prevent a meltdown.",
+      "created_at": "2026-06-15 03:54:08",
+      "watch_url": null
+    },
+    {
       "title": "Roy del espacio",
       "year": 1983,
       "medium": "Film",
@@ -13486,6 +13502,22 @@
       "image_filename": "Tetsujin_28-go_1956.jpg",
       "pitch": "Tetsujin 28-go (literally \"Iron Man No. 28\") is a seminal manga that helped launch the mecha genre in Japan. Created by Mitsuteru Yokoyama and serialized from 1956 to 1966, it follows 10-year-old Shotaro Kaneda, a young boy detective who inherits control of a massive giant robot built by his late father during World War II. The story begins in the final days of the Pacific War, when Japanese scientists developed the \"Tetsujin\" line of giant war machines as secret weapons. When the war ends, the project is buried\u2014until Dr. Kaneda's son discovers the remote control for Tetsujin 28, the 28th and final model.\n\nYokoyama drew inspiration from his own childhood experiences witnessing the bombing of Kobe during WWII, channeling the trauma of that destruction into a story about the dangers of powerful weapons in the wrong hands. Unlike later mecha series where robots are typically piloted from within, Tetsujin 28 is controlled externally via remote control\u2014a design choice that creates moral distance between the child operator and the robot's destructive power. The manga ran for 97 chapters collected into 24 volumes and was later adapted into four anime series, a Japanese television drama, and two films\u2014including a 2005 live-action movie.",
       "created_at": "2026-03-06 05:26:47",
+      "watch_url": null
+    },
+    {
+      "title": "Tetsuo II: Body Hammer",
+      "year": 1992,
+      "medium": "Film",
+      "creator": "Shinya Tsukamoto",
+      "raw_score": 3.15,
+      "total_ratings": 134,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Body Horror",
+      "topics": "Transformation, Cybernetics, Survival",
+      "image_filename": "Tetsuo_II_Body_Hammer_1992.jpg",
+      "pitch": "A Japanese salaryman discovers his body transforming into a deadly weapon after his son is kidnapped by violent thugs. In this bigger-budget sequel to Tetsuo: The Iron Man, the protagonist transforms through rage into a walking arsenal\u2014metal erupting from his flesh as he hunts down the gang.",
+      "created_at": "2026-06-15 03:54:23",
       "watch_url": null
     },
     {
@@ -21505,5 +21537,5 @@
       "watch_url": null
     }
   ],
-  "count": 1344
+  "count": 1346
 }
