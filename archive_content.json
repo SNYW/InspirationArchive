@@ -3097,6 +3097,24 @@
       "watch_url": null
     },
     {
+      "title": "Bubblegum Crisis Tokyo 2040",
+      "year": 1998,
+      "medium": "Anime",
+      "creator": "AIC, Hiroki Hayashi",
+      "raw_score": 3.42,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "AI, Megacorps, Rebellion",
+      "image_filename": "Bubblegum_Crisis_Tokyo_2040_1998.jpg",
+      "pitch": "A 1998 cyberpunk anime reboot set in MegaTokyo 2040, where the megacorporation Genom controls the city via robotic Boomers. A rogue vigilante group called the Knight Sabers\u2014four women in powered hardsuits\u2014fight rogue Boomers. When Genom reactivates the powerful Galatea Boomer, the Knight Sabers face their greatest threat.",
+      "truth": "Linna joins the Knight Sabers, led by Sylia, fighting rogue Boomers. Mason reactivates Galatea, a powerful Boomer that can control all Boomers and wipe out life. Tokyo evacuates. The team goes to Genom's space station. Priss confronts Galatea, overcomes her mental influence, and destroys her. Galatea saves Priss as respect.",
+      "core": "Technology's dual nature\u2014Boomers as servants and masters. The Knight Sabers represent human agency against corporate control. Sylia and Mackie's relationship asks what it means to be human. Priss and Galatea's connection shows empathy crossing the human-machine divide.",
+      "created_at": "2026-06-15 08:36:45",
+      "watch_url": null
+    },
+    {
       "title": "Buck Rogers",
       "year": 1939,
       "medium": "Serial Film",
@@ -10225,6 +10243,24 @@
       "watch_url": null
     },
     {
+      "title": "Mobile Fighter G Gundam",
+      "year": 1994,
+      "medium": "Anime",
+      "creator": "Sunrise, Yoshiyuki Tomino",
+      "raw_score": 3.74,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Rebellion, Friendship",
+      "image_filename": "Mobile_Fighter_G_Gundam_1994.jpg",
+      "pitch": "In Future Century 60, nations replace warfare with the quadrennial Gundam Fight tournament\u2014each country sends one giant robot. Domon Kasshu enters seeking his missing brother who stole the Devil Gundam.",
+      "truth": "Domon pilots Neo-Japan's Shining Gundam in the 13th Gundam Fight searching for brother Kyoji. Master Asia reveals himself as Devil Gundam's servant. On Lantau Island, Domon defeats Master Asia while Kyoji sacrifices himself. Ullube kidnaps Rain and places her in Devil Gundam's core. Domon destroys it using the King of Hearts power.",
+      "core": "G Gundam subverts the franchise's anti-war themes\u2014here competition brings nations together. The Domon-Rain relationship delivers the core message: love conquers darkness through the King of Hearts. The series explores technology's dual potential for salvation or destruction.",
+      "created_at": "2026-06-15 08:35:30",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Suit Gundam ZZ",
       "year": 1986,
       "medium": "Anime",
@@ -14543,6 +14579,24 @@
       "core": "Spectreman is notable for its bold environmental theme, unusual for a children's superhero show. By making pollution the central villain, the series reflects 1970s Japan's real environmental crisis (Minamata disease, Tokyo's smog) and presents a surprisingly sophisticated message about humanity's relationship with nature.\n\nThe show also broke ground as the first major tokusatsu superhero series of the 1970s, establishing many tropes that would define the genre: the secret identity, the government organization, the alien origin, and the transformation sequence. It influenced subsequent series like Ultraman and Kamen Rider.\n\nThe American dub, released seven years after the Japanese original, was notable for its faithful adaptation and the unusual theme song from the Mystic Moods Orchestra, rather than the typical re-recording.\n\nFor Western audiences who may only know Ultraman and Kamen Rider, Spectreman offers a window into the earlier roots of Japanese tokusatsu superhero storytelling and its surprisingly mature themes.",
       "created_at": "2026-06-13 01:24:22",
       "watch_url": "https://archive.org/details/spectreman_202506"
+    },
+    {
+      "title": "Spriggan",
+      "year": 1998,
+      "medium": "Anime Film",
+      "creator": "Studio 4\u00b0C, Hirotsugu Kawasaki",
+      "raw_score": 3.05,
+      "total_ratings": 108,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "AI, Megacorps, Rebellion",
+      "image_filename": "Spriggan_1998.jpg",
+      "pitch": "A 1998 anime film by Studio 4\u00b0C, directed by Hirotsugu Kawasaki and supervised by Katsuhiro Otomo. In the last years of the Cold War, ARCAM Corporation's elite Spriggan agents protect ancient artifacts called OOPArts from falling into the wrong hands. A foreign military unit seeks control of an ancient artifact that holds the key to ultimate power.",
+      "truth": "ARCAM's Spriggan agents protect ancient artifacts from paramilitaries and national armies seeking them as weapons. The film follows a mission to prevent a foreign military from seizing an artifact holding ultimate power.",
+      "core": "Explores technology's responsibility\u2014ancient civilizations destroyed themselves misusing their creations. The Spriggans represent guardians trying to prevent history's repeat. The US as antagonist raises questions about power's true purposes.",
+      "created_at": "2026-06-15 08:37:25",
+      "watch_url": null
     },
     {
       "title": "Sputnik",
@@ -24913,5 +24967,5 @@
       "watch_url": null
     }
   ],
-  "count": 1384
+  "count": 1387
 }

@@ -2753,6 +2753,22 @@
       "watch_url": null
     },
     {
+      "title": "Bubblegum Crisis Tokyo 2040",
+      "year": 1998,
+      "medium": "Anime",
+      "creator": "AIC, Hiroki Hayashi",
+      "raw_score": 3.42,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "AI, Megacorps, Rebellion",
+      "image_filename": "Bubblegum_Crisis_Tokyo_2040_1998.jpg",
+      "pitch": "A 1998 cyberpunk anime reboot set in MegaTokyo 2040, where the megacorporation Genom controls the city via robotic Boomers. A rogue vigilante group called the Knight Sabers\u2014four women in powered hardsuits\u2014fight rogue Boomers. When Genom reactivates the powerful Galatea Boomer, the Knight Sabers face their greatest threat.",
+      "created_at": "2026-06-15 08:36:45",
+      "watch_url": null
+    },
+    {
       "title": "Buck Rogers",
       "year": 1939,
       "medium": "Serial Film",
@@ -9089,6 +9105,22 @@
       "watch_url": null
     },
     {
+      "title": "Mobile Fighter G Gundam",
+      "year": 1994,
+      "medium": "Anime",
+      "creator": "Sunrise, Yoshiyuki Tomino",
+      "raw_score": 3.74,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Rebellion, Friendship",
+      "image_filename": "Mobile_Fighter_G_Gundam_1994.jpg",
+      "pitch": "In Future Century 60, nations replace warfare with the quadrennial Gundam Fight tournament\u2014each country sends one giant robot. Domon Kasshu enters seeking his missing brother who stole the Devil Gundam.",
+      "created_at": "2026-06-15 08:35:30",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Suit Gundam ZZ",
       "year": 1986,
       "medium": "Anime",
@@ -12927,6 +12959,22 @@
       "pitch": "Spectreman is a 1971 Japanese tokusatsu superhero television series that stands as the first major Japanese superhero show of the 1970s, predating both Ultraman and Kamen Rider by several months. Produced by P Productions and created by Souji Ushio, the series aired on Fuji TV in Japan from January 1971 to March 1972 with 63 episodes. The show centers on a powerful alien cyborg dispatched to Earth by the Nebula 71 Star to combat the ecological threats posed by a banished mad scientist and his army of pollution-based monsters.\n\nWhat makes Spectreman remarkable is its unusual premise: rather than fighting alien invasions or criminal masterminds, the hero battles monsters created from environmental pollution\u2014a topic of urgent concern in 1970s Japan, which had the most polluted city in the world at the time. This environmental message gives the show a surprisingly prescient edge that resonates strongly today.",
       "created_at": "2026-06-13 01:24:22",
       "watch_url": "https://archive.org/details/spectreman_202506"
+    },
+    {
+      "title": "Spriggan",
+      "year": 1998,
+      "medium": "Anime Film",
+      "creator": "Studio 4\u00b0C, Hirotsugu Kawasaki",
+      "raw_score": 3.05,
+      "total_ratings": 108,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "AI, Megacorps, Rebellion",
+      "image_filename": "Spriggan_1998.jpg",
+      "pitch": "A 1998 anime film by Studio 4\u00b0C, directed by Hirotsugu Kawasaki and supervised by Katsuhiro Otomo. In the last years of the Cold War, ARCAM Corporation's elite Spriggan agents protect ancient artifacts called OOPArts from falling into the wrong hands. A foreign military unit seeks control of an ancient artifact that holds the key to ultimate power.",
+      "created_at": "2026-06-15 08:37:25",
+      "watch_url": null
     },
     {
       "title": "Sputnik",
@@ -22145,5 +22193,5 @@
       "watch_url": null
     }
   ],
-  "count": 1384
+  "count": 1387
 }
