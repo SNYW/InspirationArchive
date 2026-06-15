@@ -1121,6 +1121,22 @@
       "watch_url": null
     },
     {
+      "title": "Alien: Reign of Man",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.55,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Survival, Space Travel",
+      "image_filename": "Alien_Reign_of_Man_2017.jpg",
+      "pitch": "Stranded on a distant planet, a team must fight hostile aliens and activate an ancient machine meant to restore Earth to a time before its downfall.",
+      "created_at": "2026-06-15 15:09:57",
+      "watch_url": null
+    },
+    {
       "title": "Aliens Gone Wild",
       "year": 2008,
       "medium": "Film",
@@ -2721,6 +2737,22 @@
       "watch_url": "https://archive.org/details/turner_video_99277"
     },
     {
+      "title": "Break-Out to the Unknown",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.55,
+      "total_ratings": 11,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Political Thriller",
+      "topics": "Authoritarianism, Politics, Survival",
+      "image_filename": "Break-Out_to_the_Unknown_2018.jpg",
+      "pitch": "In near-future Europe, right-wing extremists have taken power across many nations. A lawyer who has defended dissidents must flee with his family when the regime targets him for imprisonment.",
+      "created_at": "2026-06-15 15:10:00",
+      "watch_url": null
+    },
+    {
       "title": "Britannia Hospital",
       "year": 1982,
       "medium": "Film",
@@ -3055,6 +3087,22 @@
       "pitch": "Cat City (Hungarian: Macskafog\u00f3, literally \"Cat Catcher\") is a 1986 adult animated science fiction comedy film that serves as a wild parody of James Bond spy thrillers, wrapped in a vibrant animated package. Directed by B\u00e9la Ternovszky and written by J\u00f3zsef Nepp, this Hungarian-Canadian-West German co-production was selected as the Hungarian entry for the Best Foreign Language Film at the 59th Academy Awards, though it was not nominated. Set in the year 80 AM (Anno Mickey Mouse) on Planet X, the film follows special agent Nick Grabowski as he attempts to obtain secret plans for a machine that could save mouse civilization from total obliteration by evil cat gangs. While visually appearing as a colorful children's cartoon, the film is packed with satirical humor targeting spy films, gangster movies, and Cold War politics. Despite its niche origins, Cat City has developed a cult following since its release, with a Blu-ray restoration released in 2023\u2014the first ever in the United States.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/cat-city-aka-macskafogo-remaster-hu-with-eng-subs"
+    },
+    {
+      "title": "Catskill Park",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Vlad Yudin",
+      "raw_score": 1.65,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Survival",
+      "image_filename": "Catskill_Park_2018.jpg",
+      "pitch": "Four friends escape NYC for a camping trip in Catskill Park, only to encounter something unearthly lurking in the woods. As night falls, they realize they are not alone in the forest.",
+      "created_at": "2026-06-15 15:09:49",
+      "watch_url": null
     },
     {
       "title": "Catweazle",
@@ -4366,6 +4414,22 @@
       "image_filename": "District_9_2009.jpg",
       "pitch": "District 9 is a 2009 science fiction action film that serves as the feature debut of South African-born director Neill Blomkamp. Set in an alternate 1982, the film follows the story of extraterrestrials who arrive in Johannesburg, South Africa, and are forced to live in a slum called District 9. The film is presented in a mock documentary style, blending found footage, interviews, and traditional narrative cinema to create an unsettlingly realistic portrayal of xenophobia and social segregation. Blomkamp drew inspiration from the real-life forced relocations of District Six residents during apartheid South Africa, creating a powerful allegory for racism, colonialism, and social hierarchy. The film was a massive critical and commercial success, earning four Academy Award nominations including Best Picture, and established Blomkamp as a major voice in contemporary science fiction cinema.",
       "created_at": "2026-03-04 12:35:35",
+      "watch_url": null
+    },
+    {
+      "title": "Division 19",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "S. A. Halewood",
+      "raw_score": 2.68,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Political Thriller",
+      "topics": "Surveillance, Authoritarianism, Media",
+      "image_filename": "Division_19_2017.jpg",
+      "pitch": "In 2039, prisons have become interactive entertainment. The public votes on what prisoners eat, wear, and who they must fight. A reality TV show so popular it expands to an entire town where everyone is watched.",
+      "created_at": "2026-06-15 15:09:53",
       "watch_url": null
     },
     {
@@ -7582,6 +7646,22 @@
       "image_filename": "Junk_2000.jpg",
       "pitch": "Four criminals rob a jewelry shop and flee to an abandoned factory to fence the goods to the Yakuza. But their hideout is the same site where American scientists experimented with resurrecting the dead. Their plan quickly becomes a nightmare.",
       "created_at": "2026-06-15 02:39:06",
+      "watch_url": null
+    },
+    {
+      "title": "Jurassic Thunder",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.05,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Aliens, Robots, War",
+      "image_filename": "Jurassic_Thunder_2019.jpg",
+      "pitch": "In a near-future world on the brink of World War III, a covert desert base deploys genetically engineered weaponized dinosaurs as a desperate military gambit. A team of commandos must lead their bio-engineered dinosaur soldiers against a formidable enemy.",
+      "created_at": "2026-06-15 15:09:46",
       "watch_url": null
     },
     {
@@ -22817,5 +22897,5 @@
       "watch_url": null
     }
   ],
-  "count": 1426
+  "count": 1431
 }
