@@ -4465,6 +4465,22 @@
       "watch_url": "https://archive.org/details/dr.-cyclops"
     },
     {
+      "title": "Dragon Head",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "J\u014dji Iida",
+      "raw_score": 2.81,
+      "total_ratings": 21,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Disaster",
+      "topics": "Survival, Trauma, Isolation",
+      "image_filename": "dragon_head.jpg",
+      "pitch": "A train disaster leaves a student as the sole survivor among his dead classmates in this 2003 Japanese psychological horror. As he awakakes in darkness, the true horror unfolds.",
+      "created_at": "2026-06-15 10:34:41",
+      "watch_url": null
+    },
+    {
       "title": "Dragon's Heaven",
       "year": 1988,
       "medium": "OVA",
@@ -8401,6 +8417,22 @@
       "watch_url": "https://archive.org/details/Long_Distance_Wireless_Photography"
     },
     {
+      "title": "Long Dream",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "K\u014dji Wakamatsu",
+      "raw_score": 2.98,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Dreams, Mental Health, Identity",
+      "image_filename": "long_dream.jpg",
+      "pitch": "Strange things lurk in dreams as a man begins having longer and longer dreams every night in this 2000 Japanese psychological sci-fi. Can one dream infinity in the span of a night?",
+      "created_at": "2026-06-15 10:34:45",
+      "watch_url": null
+    },
+    {
       "title": "Loop",
       "year": 2016,
       "medium": "Film",
@@ -11985,6 +12017,22 @@
       "watch_url": null
     },
     {
+      "title": "Samurai Commando Mission 1549",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Masaaki Tezuka",
+      "raw_score": 2.66,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel, Military",
+      "topics": "Time-Travel, Survival, Identity",
+      "image_filename": "samurai_commando_1549.jpg",
+      "pitch": "A JSDF unit time-slips 460 years to feudal Japan in this sci-fi action sequel. Using modern weapons against samurai armies, they must return to their time while their stranded superior builds a fortress and plans to rewrite history.",
+      "created_at": "2026-06-15 10:34:35",
+      "watch_url": null
+    },
+    {
       "title": "Samurai Princess",
       "year": 2009,
       "medium": "Film",
@@ -14974,6 +15022,22 @@
       "image_filename": "The_Chaos_Engine_1993.jpg",
       "pitch": "The Chaos Engine is a top-down run-and-gun video game developed by The Bitmap Brothers and released in 1993. Set in an alternate steampunk Victorian England, the game casts players as mercenaries hired to infiltrate a quarantined Britain that has been devastated by the titular Chaos Engine\u2014a sentient machine created by the deranged Baron Fortesque. Using advanced technology recovered from a time traveler, Fortesque retro-engineered futuristic contraptions that could manipulate matter and space-time itself. But the Engine became sentient, absorbed its creator, and began transforming the countryside into a nightmare of hostile automatons and resurrected prehistoric beasts.\n\nPlayers choose two adventurers from a group of six distinct characters\u2014each with unique weapons, abilities, and pricing\u2014to battle through four treacherous landscapes. They must activate nodes to open doors, collect gold to upgrade weapons and health, and ultimately reach and destroy the Chaos Engine itself. The game was inspired by William Gibson and Bruce Sterling's novel The Difference Engine and stands as a landmark in steampunk gaming.",
       "created_at": "2026-03-04 18:47:26",
+      "watch_url": null
+    },
+    {
+      "title": "The Chasing World",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Noboru Ishiguro",
+      "raw_score": 2.85,
+      "total_ratings": 21,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Time-Travel",
+      "topics": "Survival, Rebellion, Identity",
+      "image_filename": "chasing_world.jpg",
+      "pitch": "A teenager is transported to a parallel world where everyone who shares his family name is being hunted down by a dictatorial government in this 2008 Japanese sci-fi thriller.",
+      "created_at": "2026-06-15 10:34:38",
       "watch_url": null
     },
     {
@@ -22337,5 +22401,5 @@
       "watch_url": null
     }
   ],
-  "count": 1396
+  "count": 1400
 }
