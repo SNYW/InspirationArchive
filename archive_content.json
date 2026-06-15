@@ -4285,6 +4285,24 @@
       "watch_url": "https://archive.org/details/Darkdrive1997"
     },
     {
+      "title": "Day 6",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Varo Venturi",
+      "raw_score": 1.9,
+      "total_ratings": 24,
+      "origin": "Italy",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, First Contact, Soul",
+      "image_filename": "Day_6_2011.jpg",
+      "pitch": "Dr. Davide Piso, a scientist studying alien abductions through hypnosis, encounters Saturnia\u2014a young woman who believes she's been abducted. When he hypnotizes her, Saturnia cannot wake up, manifesting Hexabor of Ur\u2014an ancient alien entity who wants to exploit a unique human energy: the soul.",
+      "truth": "Dr. Piso studies alien abduction cases using hypnosis. When Saturnia comes seeking help, he hypnotizes her but she cannot break the trance. She becomes possessed by Hexabor of Ur, an alien demi-god who has been exploiting humans throughout history seeking the soul\u2014a unique human energy. Piso must fight this entity to save Saturnia.",
+      "core": "Aliens as ancient Mesopotamian entities seeking the soul\u2014a unique human energy. Selected for Moscow International Film Festival, blends alien abduction with supernatural possession.",
+      "created_at": "2026-06-15 13:05:30",
+      "watch_url": null
+    },
+    {
       "title": "Day of Destiny",
       "year": 2021,
       "medium": "Film",
@@ -19405,6 +19423,24 @@
       "watch_url": "https://archive.org/details/the-land-that-time-forgot-duology-1974-1977"
     },
     {
+      "title": "The Laplace's Demon",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Giordano Giulivi",
+      "raw_score": 3.3,
+      "total_ratings": 23,
+      "origin": "Italy",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Science, Free Will, Determinism",
+      "image_filename": "The_Laplace_Demon_2017.jpg",
+      "pitch": "A team of scientists achieves a mathematical breakthrough in calculating probability outcomes. They're invited to a mysterious mansion where they become trapped in a deadly experiment testing whether free will truly exists.",
+      "truth": "Scientists achieving a probability breakthrough are invited to an isolated mansion. There they realize they're trapped in a death trap designed to test if their choices are free or predetermined. As scenarios escalate, each must confront whether escape attempts are truly free will.",
+      "core": "The film explores Laplace's demon concept\u2014a being that could calculate all past and future events if it knew every atom's position. Critics compare it to Pi and Primer for its intellectual ambition on a low budget. Uses rear-projection techniques for a philosophical survival thriller.",
+      "created_at": "2026-06-15 13:04:44",
+      "watch_url": null
+    },
+    {
       "title": "The Last Border",
       "year": 1993,
       "medium": "Film",
@@ -25435,5 +25471,5 @@
       "watch_url": null
     }
   ],
-  "count": 1413
+  "count": 1415
 }
