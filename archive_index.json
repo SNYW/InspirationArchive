@@ -5697,6 +5697,22 @@
       "watch_url": "https://archive.org/details/gall-force-scifi-rip"
     },
     {
+      "title": "Gamer",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Neveldine & Taylor",
+      "raw_score": 2.85,
+      "total_ratings": 2636,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Megacorps, VR, Rebellion",
+      "image_filename": "Gamer_2009.jpg",
+      "pitch": "In a near-future America, a deadly online game called Slayers lets players control real human prisoners as avatars. When champion player Simon discovers the protagonist he controls is an innocent man fighting for freedom, he sets out to break the system from within.",
+      "created_at": "2026-06-15 08:06:07",
+      "watch_url": null
+    },
+    {
       "title": "Gamera vs. Barugon",
       "year": 1966,
       "medium": "Film",
@@ -7375,6 +7391,22 @@
       "pitch": "A one-episode 1981 Doctor Who spin-off pilot featuring Sarah Jane Smith and the robotic dog K9. When Sarah visits her aunt's village, she and K9 investigate disappearances and uncover a local witchcraft cult planning ritual murder. The Christmas special pilot never led to a series \u2014 but the characters returned in 2007's The Sarah Jane Adventures.",
       "created_at": "2026-06-13 17:07:46",
       "watch_url": "https://archive.org/details/k-9-and-company-1981"
+    },
+    {
+      "title": "K-PAX",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "Iain Softley",
+      "raw_score": 3.61,
+      "total_ratings": 2759,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction, Mystery",
+      "topics": "Aliens, Mental Health",
+      "image_filename": "K-PAX_2001.jpg",
+      "pitch": "A mysterious patient arrives at a psychiatric hospital claiming to be an alien from the planet K-PAX, 1,000 light-years away. His calm confidence and impossible knowledge intrigue his psychiatrist, Dr. Mark Powell, who begins to question his own understanding of reality.",
+      "created_at": "2026-06-15 08:05:52",
+      "watch_url": null
     },
     {
       "title": "Kaadu",
@@ -10303,6 +10335,22 @@
       "pitch": "Pale Cocoon is a 23-minute OVA written and directed by Yasuhiro Yoshiura, released in 2006. Set in a far-future underground colony, the film follows Ura, a dedicated member of the \"Archive Excavation Department\" who works to recover lost data from Earth's surface\u2014a world that has become polluted, cold, and largely uninhabitable. As Ura obsessionally restores corrupted records of the forgotten past, he encounters Riko, a colleague who has lost her passion for the work. Their discovery of a mysterious video recording leads them to question everything they know about their world and the nature of memory itself. This contemplative, visually striking short is a meditation on loss, the value of history, and the human drive to recover what has been erased.",
       "created_at": "2026-03-01 12:41:46",
       "watch_url": "https://archive.org/details/pale-cocoon"
+    },
+    {
+      "title": "Pandorum",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Christian Alvart",
+      "raw_score": 3.29,
+      "total_ratings": 2669,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Space-Opera",
+      "topics": "Isolation, Survival, Mental Health",
+      "image_filename": "Pandorum_2009.jpg",
+      "pitch": "Two crew members wake from hypersleep on an abandoned starship with no memory. As they explore, they discover the crew has been warped by a deep space psychosis called Pandorum, turning them into violent mutants. They must find the truth before they succumb.",
+      "created_at": "2026-06-15 08:05:25",
+      "watch_url": null
     },
     {
       "title": "Paprika",
@@ -13457,6 +13505,22 @@
       "watch_url": "https://archive.org/details/SupersonicSaucer1956"
     },
     {
+      "title": "Surrogates",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Jonathan Mostow",
+      "raw_score": 3.07,
+      "total_ratings": 3444,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "AI, Identity, Surveillance",
+      "image_filename": "Surrogates_2009.jpg",
+      "pitch": "In a world where humans live in isolation, controlling perfect robotic surrogates, a cop must leave his home for the first time in years to investigate murders that threaten to expose the dark truth behind this perfect society.",
+      "created_at": "2026-06-15 08:06:33",
+      "watch_url": null
+    },
+    {
       "title": "Survivors",
       "year": 1975,
       "medium": "TV Series",
@@ -15935,6 +15999,22 @@
       "pitch": "The Fortress (Hungarian: Az er\u0151d) is a 1979 Hungarian science fiction film that blurs the line between dystopian thriller and black comedy. Set in an ambiguous future, the film takes place at a luxurious resort where extremely wealthy guests pay to participate in an elaborate war game simulation. They are given weapons, trained for a week, and then sent to \"battle\" against hired mercenaries in a decommissioned fortress\u2014using live ammunition. The experience is meant to be an adrenaline-fueled thrill for the jaded elite, but when things go wrong, the simulation becomes terrifyingly real. Directed by Mikl\u00f3s Szinet\u00e1r, the film was entered into the 11th Moscow International Film Festival and remains a cult classic of Eastern European speculative cinema.",
       "created_at": "2026-03-06 19:46:21",
       "watch_url": "https://archive.org/details/az-erod-1979_202404"
+    },
+    {
+      "title": "The Fountain",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Darren Aronofsky",
+      "raw_score": 3.46,
+      "total_ratings": 3105,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Love, Time-Travel, Religion",
+      "image_filename": "The_Fountain_2006.jpg",
+      "pitch": "Spanning over one thousand years across three parallel stories, The Fountain follows a man\\'s quest to save the woman he loves from death. A 16th-century Spanish conquistador searches for the legendary Fountain of Youth, while a modern scientist races to cure her brain tumor, and a future astronaut journeys into a dying star seeking transcendence.",
+      "created_at": "2026-06-15 08:06:19",
+      "watch_url": null
     },
     {
       "title": "The Fourth Kingdom",
@@ -22065,5 +22145,5 @@
       "watch_url": null
     }
   ],
-  "count": 1379
+  "count": 1384
 }
