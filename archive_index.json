@@ -6369,6 +6369,22 @@
       "watch_url": null
     },
     {
+      "title": "Hard Revenge, Milly: Bloody Battle",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Tatsuya Yamaguchi",
+      "raw_score": 2.85,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Survival, Revenge, Post-Apocalypse",
+      "image_filename": "Hard_Revenge_Milly_Bloody_Battle_2009.jpg",
+      "pitch": "In the devastated ruins of Yokohama, Milly has just killed Jack, the villain who murdered her husband and child. As she finally allows herself to feel safe, she's targeted by new enemies seeking revenge for Jack's death. A gritty post-apocalyptic action thriller.",
+      "created_at": "2026-06-15 12:15:14",
+      "watch_url": null
+    },
+    {
       "title": "Hard to Be a God",
       "year": 1964,
       "medium": "Novel",
@@ -10513,6 +10529,22 @@
       "watch_url": "https://archive.org/details/pale-cocoon"
     },
     {
+      "title": "Pandemic",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Kiyoshi Kurosawa",
+      "raw_score": 3.2,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Pandemic, Medicine, Survival",
+      "image_filename": "Pandemic_2009.jpg",
+      "pitch": "ER doctor Tsuyoshi Matsuoka receives a patient with a mysterious virus causing high fever, convulsions, vomiting of blood and organ failure. As more cases arrive, a WHO medical officer arrives to investigate what may be a deadly new strain of influenza.",
+      "created_at": "2026-06-15 12:15:01",
+      "watch_url": null
+    },
+    {
       "title": "Pandorum",
       "year": 2009,
       "medium": "Film",
@@ -11566,6 +11598,22 @@
       "image_filename": "Reign_The_Conqueror_1999.jpg",
       "pitch": "In 4th century B.C. Macedonia, a pagan shaman prophesies that Olympias's unborn child will grow up to destroy the world. That child is Alexander\u2014whose legendary conquests eventually unify Persia and Macedonia, but whose boundless ambition alarms even his teacher Aristotle.",
       "created_at": "2026-06-15 05:34:37",
+      "watch_url": null
+    },
+    {
+      "title": "Reigo: King of the Sea Monsters",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Shohei Usami",
+      "raw_score": 3.04,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Aliens, War, Military",
+      "image_filename": "Reigo_King_of_the_Sea_Monsters_2008.jpg",
+      "pitch": "Set during World War II, the film depicts the Japanese battleship Yamato confronting giant monsters in the Pacific Ocean, including the fearsome Reigo. A tokusatsu kaiju film mixing historical drama with fantastical creature action.",
+      "created_at": "2026-06-15 12:15:21",
       "watch_url": null
     },
     {
@@ -12703,6 +12751,22 @@
       "pitch": "Skeleton on Horseback (original Czech title: B\u00edl\u00e1 nemoc, meaning \"The White Disease\") is a 1937 Czechoslovak drama film directed by and starring Hugo Haas. Based on the play \"The White Disease\" by renowned Czech writer Karel \u010capek, this film serves as a powerful anti-fascist allegory, depicting an infectious disease that spreads during wartime and the moral dilemmas faced by doctors, scientists, and political leaders. Remarkably prophetic for its time, the film was made just two years before World War II and directly references the rising threat of fascism in Europe. The story follows Dr. Gal\u00e9n, who discovers a mysterious illness causing white spots to appear on victims' skin\u2014ultimately revealing that this \"white disease\" is a metaphor for the spread of fascism across Europe.",
       "created_at": "2026-03-01 15:53:45",
       "watch_url": "https://archive.org/details/film-bila-nemoc-1937-cz"
+    },
+    {
+      "title": "Skelter+Heaven",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Kazuya Kurosawa",
+      "raw_score": 0.9,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Aliens, VR, Military",
+      "image_filename": "Skelter_Heaven_2004.jpg",
+      "pitch": "In the distant future, a mysterious floating object appears over Tokyo. The Defense Agency commissions the top secret Alta Mira Agency to deal with this invader. Funagai Otsuya trains five special girls to use Battle Soles to push back the enemy, even at the cost of their lives.",
+      "created_at": "2026-06-15 12:15:06",
+      "watch_url": null
     },
     {
       "title": "Skyman",
@@ -18161,6 +18225,22 @@
       "watch_url": "https://archive.org/details/turner_video_99"
     },
     {
+      "title": "The Monster X Strikes Back: Attack the G8 Summit",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Minoru Kawasaki",
+      "raw_score": 2.45,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Satire, Politics",
+      "image_filename": "The_Monster_X_Strikes_Back_Attack_the_G8_Summit_2008.jpg",
+      "pitch": "When world leaders gather at the G8 summit in Japan, the intergalactic monster Guilala returns to ravage the countryside. Military strikes prove useless, but a reporter discovers a village possesses an ancient ritual that might calm the creature. A blend of tokusatsu monster movie and political satire.",
+      "created_at": "2026-06-15 12:14:43",
+      "watch_url": null
+    },
+    {
       "title": "The Moon",
       "year": 1965,
       "medium": "Film",
@@ -22449,5 +22529,5 @@
       "watch_url": null
     }
   ],
-  "count": 1403
+  "count": 1408
 }
