@@ -9009,6 +9009,22 @@
       "watch_url": null
     },
     {
+      "title": "Night Feeders",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Justin Gula",
+      "raw_score": 1.9,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Survival, Isolation",
+      "image_filename": "Night_Feeders_2006.jpg",
+      "pitch": "Night Feeders is a 2006 sci-fi horror film. Four deer hunters in a remote countryside encounter a horde of carnivorous aliens disguised as humans. The aliens feed on fear and flesh, and the hunters must survive the night against the invasion.",
+      "created_at": "2026-06-15 00:35:04",
+      "watch_url": null
+    },
+    {
       "title": "Night Key",
       "year": 1937,
       "medium": "Film",
@@ -9870,6 +9886,22 @@
       "image_filename": "Planet_Earth_1974.jpg",
       "pitch": "Planet Earth is a 1974 American made-for-television science fiction film created by Gene Roddenberry, best known as the creator of Star Trek. Produced by Warner Bros. Television and airing on ABC on April 23, 1974, this 74-minute pilot film was intended as the first episode of a proposed weekly television series. The project marked Roddenberry's second attempt to develop a post-apocalyptic series concept, following Genesis II (1973), and featured John Saxon in the lead role of Dylan Hunt.\n\nSet in the year 2133, the film depicts a world devastated by nuclear war centuries earlier. The story follows PAX (Latin for \"peace\"), a science-based organization dedicated to restoring civilization, as they dispatch Team 21 to survey central California. When their team member is severely wounded, they must locate a missing surgeon in a dangerous matriarchal society where men are enslaved. The pilot explores themes of gender relations through a 1970s lens, depicting a post-apocalyptic future where different factions struggle for control and survival.",
       "created_at": "2026-03-18 01:23:01",
+      "watch_url": null
+    },
+    {
+      "title": "Planet Raptor",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Gary Jones",
+      "raw_score": 2.15,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Survival, Evolution",
+      "image_filename": "Planet_Raptor_2007.jpg",
+      "pitch": "Planet Raptor is a 2007 sci-fi horror film and sequel to Raptor Island. In 2066, the Earth is entirely occupied by intelligent raptors. A group of marines is sent to investigate the planet, discovering a civilization of evolved dinosaurs that have developed technology and human-speak. They must survive the night against the raptors.",
+      "created_at": "2026-06-15 00:35:00",
       "watch_url": null
     },
     {
@@ -11054,6 +11086,22 @@
       "image_filename": "Samurai_Princess_2009.jpg",
       "pitch": "Aino Kishi survives a brutal attack that kills her friends and is transformed into a cybernetic android. Infused with her comrades' souls, she becomes a weapon with detachable chainsaw limbs, hunting the yakuza responsible for the massacre. A gore-soaked cyberpunk revenge film.",
       "created_at": "2026-06-14 22:32:46",
+      "watch_url": null
+    },
+    {
+      "title": "Samurai Resurrection",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Hideyuki Hirayama",
+      "raw_score": 2.46,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Demons, Supernatural, Religion",
+      "image_filename": "Samurai_Resurrection_2003.jpg",
+      "pitch": "Samurai Resurrection (\u9b54\u754c\u8ee2\u751f) is a 2003 Japanese horror film. After being executed, rebel leader Shiro Amasuka is resurrected from hell by priests seeking demonic power. He returns as a vengeful demon with an army of undead samurai, marching to overthrow the Tokugawa shogunate. Only Yagyu Jubei stands in his way.",
+      "created_at": "2026-06-15 00:34:54",
       "watch_url": null
     },
     {
@@ -20865,5 +20913,5 @@
       "watch_url": null
     }
   ],
-  "count": 1304
+  "count": 1307
 }
