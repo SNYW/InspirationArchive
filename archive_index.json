@@ -3921,6 +3921,22 @@
       "watch_url": "https://archive.org/details/Darkdrive1997"
     },
     {
+      "title": "Darkside Blues",
+      "year": 1994,
+      "medium": "Anime Film",
+      "creator": "Hideyuki Kikuchi",
+      "raw_score": 2.75,
+      "total_ratings": 22,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Megacorps, Rebellion, VR",
+      "image_filename": "Darkside_Blues_1994.jpg",
+      "pitch": "In near-future Tokyo, the Persona Century Corporation owns 90% of Earth. Kabuki-cho\u2014the \"Dark Side\" of Shinjuku\u2014is the last free territory, home to resistance group Messiah. A mysterious amnesiac calling himself Dark Side arrives to protect the citizens.",
+      "created_at": "2026-06-15 18:54:09",
+      "watch_url": null
+    },
+    {
       "title": "Day 6",
       "year": 2011,
       "medium": "Film",
@@ -23313,5 +23329,5 @@
       "watch_url": null
     }
   ],
-  "count": 1457
+  "count": 1458
 }
