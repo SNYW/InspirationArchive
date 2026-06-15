@@ -2791,6 +2791,24 @@
       "watch_url": null
     },
     {
+      "title": "Black Lightning",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Aleksandr Voytinskiy, Dmitriy Kiselev",
+      "raw_score": 3.15,
+      "total_ratings": 218,
+      "origin": "Russia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Heroes, Love, Transformation",
+      "image_filename": "Black_Lightning_2009.jpg",
+      "pitch": "Moscow student Dima Maykov gets an old 1966 Volga from his father\u2014but it flies. Using it to make easy money delivering flowers, he dreams of winning his classmate Nastya. But when a corrupt businessman kidnaps the scientists who built the car, Dima must choose: profit or heroism.",
+      "truth": "Dima Maykov gets a black 1966 Volga that can fly\u2014a Soviet secret project. At first he uses it to make money and impress Nastya. But when corrupt businessman Kuptsov kidnaps the scientists who built the car, Dima must become a hero to save them.",
+      "core": "One of Russia's first major superhero films, this Russian-American co-production adapts American conventions to Russian context, using the GAZ-21 Volga as the hero vehicle. The film explores selfishness transforming into sacrifice. It earned $21.5M against a 550M RUB budget.",
+      "created_at": "2026-06-15 11:24:53",
+      "watch_url": null
+    },
+    {
       "title": "Black Oxen",
       "year": 1923,
       "medium": "Film",
@@ -25219,5 +25237,5 @@
       "watch_url": null
     }
   ],
-  "count": 1401
+  "count": 1402
 }
