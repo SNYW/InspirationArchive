@@ -5169,6 +5169,22 @@
       "watch_url": "https://archive.org/details/exhalation_202504"
     },
     {
+      "title": "Exosquad",
+      "year": 1993,
+      "medium": "Animated Film",
+      "creator": "Jeff Segal",
+      "raw_score": 3.21,
+      "total_ratings": 19,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Military-SF, Space-Opera",
+      "topics": "War, Robots, Revolution",
+      "image_filename": "Exosquad_1993.jpg",
+      "pitch": "In 2119, humanity fights Neosapiens - engineered beings who revolt against their Terran masters. Follows Able Squad, elite exoframe pilots across the Solar System. Serious military sci-fi with 52 episodes, created by Universal Cartoon Studios.",
+      "created_at": "2026-06-15 19:44:50",
+      "watch_url": null
+    },
+    {
       "title": "Extra Terrestrial Visitors",
       "year": 1983,
       "medium": "Film",
@@ -9553,6 +9569,22 @@
       "watch_url": "https://archive.org/details/microcosmicgod0000stur"
     },
     {
+      "title": "Mighty Max",
+      "year": 1993,
+      "medium": "Animated Film",
+      "creator": "Phil Harnage",
+      "raw_score": 3.05,
+      "total_ratings": 19,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Heroes, Monsters, Adventure",
+      "image_filename": "Mighty_Max_1993.jpg",
+      "pitch": "Max is a boy who discovers a magical Viking helmet that transports him to other dimensions to battle evil forces. Each episode sends him to a different world facing unique threats. Created to promote Mighty Max toys, an outgrowth of Polly Pocket.",
+      "created_at": "2026-06-15 19:44:43",
+      "watch_url": null
+    },
+    {
       "title": "Mighty Space Miners",
       "year": 1994,
       "medium": "OVA",
@@ -10465,6 +10497,22 @@
       "watch_url": "https://en.wikisource.org/wiki/Nightfall"
     },
     {
+      "title": "Nightwalker: The Midnight Detective",
+      "year": 1998,
+      "medium": "Anime",
+      "creator": "Yoshitaka Suzuki",
+      "raw_score": 3.1,
+      "total_ratings": 19,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Supernatural",
+      "topics": "Vampires, Demons, Investigation",
+      "image_filename": "Nightwalker_1998.jpg",
+      "pitch": "Half-vampire detective Shido solves supernatural murders in near-future Tokyo. With government agent Yayoi, orphan secretary Riho, and imp Guni, he battles demonic Nightbreed while uncovering his lost past. Dark detective noir meets urban fantasy in this moody 12-episode 1998 series.",
+      "created_at": "2026-06-15 19:44:22",
+      "watch_url": null
+    },
+    {
       "title": "Nimona",
       "year": 2023,
       "medium": "Animated Film",
@@ -11295,6 +11343,22 @@
       "pitch": "In a mid-21st century Earth devastated by climate change and overdevelopment, humanity has developed technology powerful enough to create \"Copies\" - digital renderings of human consciousness that can live on in virtual reality after death. Paul Durham, a wealthy entrepreneur, pitches an ambitious project to aging billionaires: immortality through digital consciousness transfer. He hires programmer Maria Deluca to create a simulated universe (the Autoverse) that could support artificial life, while also building a vast virtual city for his wealthy clients. But Durham's true vision goes far beyond mere immortality - he believes that reality itself is mathematics, and that all possible universes exist simultaneously. The novel follows Durham, Maria, and several other characters as they explore the implications of digital consciousness, virtual reality, and a radical new theory of existence called \"Dust Theory.\" What begins as a quest for immortality evolves into something far more profound - an exploration of what it means to be real, and whether consciousness can exist independent of physical reality.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/permutationcity0000egan"
+    },
+    {
+      "title": "Phantom 2040",
+      "year": 1994,
+      "medium": "Animated Film",
+      "creator": "Lee Falk, David J. Corbett",
+      "raw_score": 3.05,
+      "total_ratings": 19,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Superhero, Corporate Power, Ecology",
+      "image_filename": "Phantom_2040_1994.jpg",
+      "pitch": "In 2040 Metropia, Kit Walker Jr. becomes the 24th Phantom - a masked hero fighting the evil corporation Maximum Inc. Animated series with striking visuals by Peter Chung, blending superhero action with cyberpunk dystopia. French-American co-production.",
+      "created_at": "2026-06-15 19:44:36",
+      "watch_url": null
     },
     {
       "title": "Phase IV",
@@ -13759,6 +13823,22 @@
       "pitch": "Space Monster Wangmagwi is a 1967 South Korean kaiju film and the oldest surviving Korean kaiju film, notable as the first all-Korean science fiction film ever made. Directed by Kwon Hyeok-jin and inspired by Japanese and American monster movies such as Godzilla and King Kong, the film tells the story of an alien invasion of Earth using a giant monster to attack South Korea. The plot centers on air force pilot Oh Jeong-hwan and his betrothed Ahn-hee, whose wedding day is interrupted by the arrival of the space monster Wangmagwi. The film is remarkable for its unique blend of science fiction action, comedic vignettes, and subtle political commentary referencing the Korean War, making it a fascinating artifact of 1960s Korean cinema.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/space-monster-wangmagwi_202310"
+    },
+    {
+      "title": "Space Precinct",
+      "year": 1994,
+      "medium": "TV Series",
+      "creator": "Gerry Anderson",
+      "raw_score": 3.18,
+      "total_ratings": 19,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Police-Procedural",
+      "topics": "Police, Aliens, Space Travel",
+      "image_filename": "Space_Precinct_1994.jpg",
+      "pitch": "NYPD detective Patrick Brogan transfers to the alien police force on planet Altor. With partner Jack Haldane and a cast of colorful alien officers, he solves crimes in a futuristic space city. Created by Gerry Anderson, this 1994 British series combined practical effects with puppetry in the Anderson tradition.",
+      "created_at": "2026-06-15 19:44:29",
+      "watch_url": null
     },
     {
       "title": "Space Quest",
@@ -23377,5 +23457,5 @@
       "watch_url": null
     }
   ],
-  "count": 1461
+  "count": 1466
 }
