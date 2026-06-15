@@ -5239,6 +5239,24 @@
       "watch_url": null
     },
     {
+      "title": "Durango Kids",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 1.8,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Children, Friendship",
+      "image_filename": "Durango_Kids_1999.jpg",
+      "pitch": "Four kids discover a hidden mine shaft that transports them to the old Wild West. They must find lost treasure while avoiding thieving bandits and their evil school principal who's also traveled back in time.",
+      "truth": "Four kids exploring an abandoned mine discover a time portal that sends them to the old Wild West. They encounter bandits and eventually their evil school principal who has also found the portal. The kids must work together, befriend outlaws, and find hidden gold before the principal claims it.",
+      "core": "A family-friendly time-travel adventure about teamwork and courage. The Wild West setting provides a whimsical backdrop for exploring how children outwit adults. Themes of friendship, loyalty, and standing up to authority.",
+      "created_at": "2026-06-15 14:45:09",
+      "watch_url": null
+    },
+    {
       "title": "D\u00fcnyay\u0131 Kurtaran Adam",
       "year": 1982,
       "medium": "Film",
@@ -11197,6 +11215,24 @@
       "watch_url": "https://archive.org/details/new-video-13_202212"
     },
     {
+      "title": "New Eden",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.12,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Survival, Rebellion, Ecology",
+      "image_filename": "New_Eden_1994.jpg",
+      "pitch": "Prisoners are dumped on a harsh sand planet called Earth 21-523, where most are killed by the sand people upon arrival. Survivors struggle to exist in the desert wasteland until a new prisoner arrives with revolutionary ideas \u2014 irrigation and cultivation.",
+      "truth": "A group of prisoners is transported to sand planet Earth 21-523 as punishment. Most are immediately killed by the nomadic sand people. The few survivors struggle to find food and water in the harsh desert. A new prisoner arrives with knowledge of irrigation and farming, offering hope \u2014 but he must first earn the trust of the sand people and defend the survivors from violent factions.",
+      "core": "A post-apocalyptic survival tale exploring redemption through hard work and cooperation. The sand planet represents a harsh frontier where humanity must adapt or perish. Themes of ecology, cultivation, and building a new society from the ashes of the old.",
+      "created_at": "2026-06-15 14:44:26",
+      "watch_url": null
+    },
+    {
       "title": "News from Nowhere",
       "year": 1890,
       "medium": "Novel",
@@ -14632,6 +14668,24 @@
       "truth": "Bounty hunters pursue the android Byron through a post-apocalyptic wasteland. Byron escapes with Owens. At a cave-dweller cult, Byron learns he was created to serve his dying master. He befriends Owens and dreams of other androids. In an underground museum, Tasker attacks and Ariel is killed. Byron kills Tasker but cannot finish the job. He survives and departs to find his promised land.",
       "core": "A meditation on memory, identity, and what it means to be human. Byron, an android, quotes poetry and forms friendships. The Slipstream represents humanity's hubris. Produced by Gary Kurtz (Star Wars).",
       "created_at": "2026-06-14 09:35:06",
+      "watch_url": null
+    },
+    {
+      "title": "Slow Bob in the Lower Dimensions",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.54,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Hard-SF",
+      "topics": "VR, Parallel Dimensions, Sentience",
+      "image_filename": "Slow_Bob_in_the_Lower_Dimensions_1991.jpg",
+      "pitch": "Robert Potemkin lives in his family's attic, his deformed back a source of isolation. When his siamese sisters prank him, sentient lizards transport him to a parallel world of photo-people. A surreal fever dream of body horror and dimensional horror.",
+      "truth": "Robert lives in the attic, estranged from his family due to his twisted back. His twin sisters prank him, but sentient lizards intervene and transport him to a dimension of flat, photo-like beings come to life. He must save them from an unspecified threat. The film is his journey between worlds and realities.",
+      "core": "A deeply strange underground sci-fi using body horror as metaphor for feeling trapped in one's own skin. The photo-people represent a meditation on reality and perception. Themes of isolation, otherness, and the search for escape \u2014 even when escape leads to something more terrifying.",
+      "created_at": "2026-06-15 14:44:11",
       "watch_url": null
     },
     {
@@ -23761,6 +23815,24 @@
       "watch_url": "https://archive.org/details/time-masters-1982-fr"
     },
     {
+      "title": "Time Under Fire",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.62,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Time-Travel",
+      "topics": "War, Time-Travel, Politics",
+      "image_filename": null,
+      "pitch": "A US submarine encounters a time rift and emerges in an alternate dystopian America ruled by a one-man dictatorship. A special unit must navigate this nightmarish new world and decides to join the resistance against the tyrant.",
+      "truth": "The submarine crew discovers a time rift and passes through into an alternate timeline where America is a brutal dictatorship under one man. The special unit aligns with rebel forces fighting the regime. They help plan an assault on the dictator's stronghold while uncovering the nature of the temporal split.",
+      "core": "A time-travel war film exploring alternate histories and political oppression. The dictatorship represents fears of authoritarianism. Themes of sacrifice, resistance, and whether one person can change the course of history.",
+      "created_at": "2026-06-15 14:44:45",
+      "watch_url": null
+    },
+    {
       "title": "Time of Roses",
       "year": 1969,
       "medium": "Film",
@@ -25597,5 +25669,5 @@
       "watch_url": null
     }
   ],
-  "count": 1422
+  "count": 1426
 }
