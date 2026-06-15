@@ -12561,6 +12561,22 @@
       "watch_url": "https://archive.org/details/ancient-anime-cantonese"
     },
     {
+      "title": "Ride Back",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Tetsuro Araki",
+      "raw_score": 2.75,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk",
+      "topics": "Rebellion, VR, First Contact",
+      "image_filename": "Ride_Back_2009.jpg",
+      "pitch": "Ride Back is a 2009 Japanese cyberpunk anime set in a near-future Tokyo under a totalitarian regime. Former dancer Rin trades her stage career for college life, but her world changes when she encounters Fuego, a sentient robotic RideBack motorcycle. As civil liberties are crushed, Rin must choose: stay quiet or fight.",
+      "created_at": "2026-06-15 21:49:26",
+      "watch_url": null
+    },
+    {
       "title": "RideBack",
       "year": 2009,
       "medium": "Anime",
@@ -13967,6 +13983,22 @@
       "pitch": "Space Monster Wangmagwi is a 1967 South Korean kaiju film and the oldest surviving Korean kaiju film, notable as the first all-Korean science fiction film ever made. Directed by Kwon Hyeok-jin and inspired by Japanese and American monster movies such as Godzilla and King Kong, the film tells the story of an alien invasion of Earth using a giant monster to attack South Korea. The plot centers on air force pilot Oh Jeong-hwan and his betrothed Ahn-hee, whose wedding day is interrupted by the arrival of the space monster Wangmagwi. The film is remarkable for its unique blend of science fiction action, comedic vignettes, and subtle political commentary referencing the Korean War, making it a fascinating artifact of 1960s Korean cinema.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/space-monster-wangmagwi_202310"
+    },
+    {
+      "title": "Space Pirate Captain Herlock: The Endless Odyssey",
+      "year": 2002,
+      "medium": "OVA",
+      "creator": "Leiji Matsumoto",
+      "raw_score": 3.45,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Space-Opera",
+      "topics": "Aliens, Space Travel, Rebellion",
+      "image_filename": "Space_Pirate_Captain_Herlock_The_Endless_Odyssey_2002.jpg",
+      "pitch": "Space Pirate Captain Herlock: The Endless Odyssey is a 2002 OVA continuation of Leiji Matsumoto's iconic space opera. Professor Daiba releases an ancient horror during an archaeological mission, and five years later the malevolent force reunites the Arcadia crew for one final voyage. This OVA bridges the classic 1978 series with Matsumoto's later works.",
+      "created_at": "2026-06-15 21:49:40",
+      "watch_url": null
     },
     {
       "title": "Space Precinct",
@@ -23409,6 +23441,22 @@
       "watch_url": "https://archive.org/details/turner_video_108292"
     },
     {
+      "title": "Yamibo",
+      "year": 2003,
+      "medium": "Anime",
+      "creator": "Yuji Yamaguchi",
+      "raw_score": 2.83,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Exploration, Identity",
+      "image_filename": "Yamibo_2003.jpg",
+      "pitch": "Yamibo is a 2003 Japanese anime about Hazuki, a tall high school girl who searches for her missing adopted sister Hatsumi in the Great Library\u2014a mystical realm containing all worlds as books. When Hatsumi disappears on her 16th birthday in a burst of green light, Hazuki must travel through different book worlds to find her.",
+      "created_at": "2026-06-15 21:49:51",
+      "watch_url": null
+    },
+    {
       "title": "Yokohama Kaidashi Kikou",
       "year": 1998,
       "medium": "Anime",
@@ -23649,5 +23697,5 @@
       "watch_url": null
     }
   ],
-  "count": 1478
+  "count": 1481
 }

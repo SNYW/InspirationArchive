@@ -14131,6 +14131,24 @@
       "watch_url": "https://archive.org/details/ancient-anime-cantonese"
     },
     {
+      "title": "Ride Back",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Tetsuro Araki",
+      "raw_score": 2.75,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk",
+      "topics": "Rebellion, VR, First Contact",
+      "image_filename": "Ride_Back_2009.jpg",
+      "pitch": "Ride Back is a 2009 Japanese cyberpunk anime set in a near-future Tokyo under a totalitarian regime. Former dancer Rin trades her stage career for college life, but her world changes when she encounters Fuego, a sentient robotic RideBack motorcycle. As civil liberties are crushed, Rin must choose: stay quiet or fight.",
+      "truth": "Rin, a former dancer, gives up her career to live quietly in college. When a tyrannical government strips civil liberties, she encounters Fuego, a sentient robotic motorcycle being hunted by authorities. Drawn into the resistance, she becomes a freedom fighter racing against the regime to protect machine intelligence and fight for liberation.",
+      "core": "Ride Back is a political allegory about resisting authoritarian regimes. Its near-future setting makes warnings about surveillance feel urgent. The human-machine bond explores consciousness and freedom. Directed by Tetsuro Araki, an underexplored 2000s cyberpunk work.",
+      "created_at": "2026-06-15 21:49:26",
+      "watch_url": null
+    },
+    {
       "title": "RideBack",
       "year": 2009,
       "medium": "Anime",
@@ -15713,6 +15731,24 @@
       "core": "Space Monster Wangmagwi carries subtle but significant political commentary despite its genre trappings. Film scholars Sueng-hoon Jeong and John Goodrich note that the film contains many allusions to the Korean War, even though the monster attacks from alien forces rather than any human aggressor. The monster appears to arrive in Korea near the Joint Security Area and proceeds south, mimicking the trajectory of a North Korean invasion. The separation of Ahn-hee from her family may symbolize the division of North and South Korea, while American involvement on behalf of South Korea is implied through the air force's jet fighters. The monster's spray of a napalm-like liquid from its head evokes the bombing campaigns conducted during the Korean War.\n\nThe film also presents a vision of modernizing Korean society. Ahn-hee, depicted in Western-style clothing with a modern attitude, represents the emergence of a new nuclear family model. Her and Oh Jeong-hwan's decision to adopt the orphaned Squirrel marks a significant shift from traditional Korean values where blood-relation was historically crucial.\n\nAs a piece of cinema history, Space Monster Wangmagwi represents a pivotal moment in Korean film. It is the oldest surviving Korean kaiju film and the first entirely Korean-produced science fiction film, demonstrating an early attempt to engage with international genre conventions while addressing distinctly Korean concerns. The film remained extremely rare until 2022, with the Korean Film Archive holding the only copies and occasionally screening it before finally making it available digitally and granting North American distribution rights.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/space-monster-wangmagwi_202310"
+    },
+    {
+      "title": "Space Pirate Captain Herlock: The Endless Odyssey",
+      "year": 2002,
+      "medium": "OVA",
+      "creator": "Leiji Matsumoto",
+      "raw_score": 3.45,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Space-Opera",
+      "topics": "Aliens, Space Travel, Rebellion",
+      "image_filename": "Space_Pirate_Captain_Herlock_The_Endless_Odyssey_2002.jpg",
+      "pitch": "Space Pirate Captain Herlock: The Endless Odyssey is a 2002 OVA continuation of Leiji Matsumoto's iconic space opera. Professor Daiba releases an ancient horror during an archaeological mission, and five years later the malevolent force reunites the Arcadia crew for one final voyage. This OVA bridges the classic 1978 series with Matsumoto's later works.",
+      "truth": "Professor Daiba unleashes an ancient cosmic horror during an archaeological mission. Five years later, this malevolent force reunites the crew of the legendary starship Arcadia\u2014including Captain Harlock\u2014to sail the stars once more. The story brings Tadashi Daiba face to face with Harlock for the first time.",
+      "core": "The Endless Odyssey serves as both a sequel and a bridge in Matsumoto's Harlock saga. It explores cyclical history, the burden of legacy, and the eternal conflict between individual freedom and authoritarian control. Harlock remains the romantic rebel hero fighting for human dignity.",
+      "created_at": "2026-06-15 21:49:40",
+      "watch_url": null
     },
     {
       "title": "Space Precinct",
@@ -26335,6 +26371,24 @@
       "watch_url": "https://archive.org/details/turner_video_108292"
     },
     {
+      "title": "Yamibo",
+      "year": 2003,
+      "medium": "Anime",
+      "creator": "Yuji Yamaguchi",
+      "raw_score": 2.83,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Exploration, Identity",
+      "image_filename": "Yamibo_2003.jpg",
+      "pitch": "Yamibo is a 2003 Japanese anime about Hazuki, a tall high school girl who searches for her missing adopted sister Hatsumi in the Great Library\u2014a mystical realm containing all worlds as books. When Hatsumi disappears on her 16th birthday in a burst of green light, Hazuki must travel through different book worlds to find her.",
+      "truth": "Hazuki is a serious high school girl in love with her adopted sister Hatsumi. On Hatsumi's 16th birthday, she disappears in supernatural light. Hazuki enters the Great Library, where books contain different worlds. She learns Hatsumi is one of the forms of the library's guardian and must travel through various realms to find her.",
+      "core": "Yamibo blends fantasy, romance, and metaphysical speculation. The non-linear narrative explores identity, memory, and boundaries between worlds. Originally an adult visual novel, the anime maintains a dreamlike tone while exploring love across dimensions.",
+      "created_at": "2026-06-15 21:49:51",
+      "watch_url": null
+    },
+    {
       "title": "Yokohama Kaidashi Kikou",
       "year": 1998,
       "medium": "Anime",
@@ -26605,5 +26659,5 @@
       "watch_url": null
     }
   ],
-  "count": 1478
+  "count": 1481
 }
