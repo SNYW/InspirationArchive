@@ -4965,8 +4965,8 @@
       "year": 1978,
       "medium": "Graphic Novel",
       "creator": "Samuel R. Delany (writer), Howard Chaykin (illustrator)",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 4.42,
+      "total_ratings": 1471,
       "origin": "USA",
       "mood": "Pessimistic",
       "sub_genres": "Space-Opera",
@@ -7221,8 +7221,8 @@
       "year": 1930,
       "medium": "Novel",
       "creator": "Stanis\u0142aw Ignacy Witkiewicz",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 4.29,
+      "total_ratings": 398,
       "origin": "Poland",
       "mood": "Pessimistic",
       "sub_genres": "Dystopia, Satirical",
@@ -8942,6 +8942,22 @@
       "image_filename": "MDK2_2000.jpg",
       "pitch": "MDK2 is a 2000 third-person shooter developed by BioWare (the renowned studio behind Baldur's Gate and Mass Effect) and published by Interplay Entertainment. A sequel to the 1997 game MDK, it tasks players with controlling three distinct characters\u2014Kurt Hectic, Dr. Fluke Hawkins, and Max the genetically engineered robot dog\u2014each with unique abilities and playstyles. The game begins moments after the original MDK's conclusion, as the heroes discover that Earth's alien invasion was not fully defeated. With his signature chain gun, sniper rifle, and infinite parachute, Kurt must once again don his superhero janitor persona to battle alien forces across various environments. The game stands out for its variety: Kurt's run-and-gun gameplay, Dr. Hawkins' puzzle-solving with his inventory combination system, and Max's heavy weapons approach offer three completely different experiences within one game.",
       "created_at": "2026-03-03 01:50:07",
+      "watch_url": null
+    },
+    {
+      "title": "MW -\u30e0\u30a6-",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Osamu Tezuka (creator), Toshiaki Toyoda (director)",
+      "raw_score": 3.19,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Thriller, Dystopia",
+      "topics": "Chemical Weapons, Conspiracy, Corruption, Survival, Identity",
+      "image_filename": "MW_2009.jpg",
+      "pitch": "Live-action adaptation of Tezuka's final manga. When a secret chemical weapon leaks on a US base near Okinawa, the military kills witnesses to cover it up. Only Michio\u2014poisoned by the gas\u2014and a priest survive. Decades later, Michio becomes a banker with a deadly plan.",
+      "created_at": "2026-06-15 17:39:27",
       "watch_url": null
     },
     {
@@ -14165,8 +14181,8 @@
       "year": 1977,
       "medium": "Graphic Novel",
       "creator": "Don Lawrence, Martin Lodewijk",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 4.48,
+      "total_ratings": 997,
       "origin": "Netherlands",
       "mood": "Surreal",
       "sub_genres": "Space-Opera, Science-Fantasy",
@@ -15791,6 +15807,22 @@
       "pitch": "The City of Lost Children (La Cit\u00e9 des enfants perdus) is a 1995 French-Spanish-German science fantasy film directed by Marc Caro and Jean-Pierre Jeunet. The film is set in a surreal port city where a malevolent being named Krank steals the dreams of children using a dream-extracting machine. When his adopted brother Denr\u00e9e is kidnapped, carnival strongman One must navigate a world of cyborg cults, conjoined twin criminals, and strange scientific creations to rescue the children from Krank's lair on an abandoned oil rig.\n\nThe film combines elements of fantasy, science fiction, and fairy tale to create a darkly whimsical world. It features stunning visuals, elaborate production design by the directors (who also co-wrote the screenplay with Gilles Adrien), and a memorable score by Angelo Badalamenti. The costume design was by Jean-Paul Gaultier. The film was entered into the 1995 Cannes Film Festival and has since gained a cult following for its unique visual style and dreamlike narrative.",
       "created_at": "2026-03-02 16:06:05",
       "watch_url": "https://archive.org/details/the.-city.of.-lost.-children.-1995"
+    },
+    {
+      "title": "The Clone Returns Home",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Matsuhashi Kazuya (director)",
+      "raw_score": 2.9,
+      "total_ratings": 34,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Drama",
+      "topics": "Cloning, Memory, Identity, Grief, Space Travel",
+      "image_filename": "The_Clone_Returns_Home_2008.jpg",
+      "pitch": "Japanese sci-fi drama about an astronaut who dies and is resurrected as a clone\u2014but the clone reverts to childhood memories, believing the body of his former self is his drowned twin brother. A meditation on identity, memory, and what makes us who we are.",
+      "created_at": "2026-06-15 17:39:45",
+      "watch_url": null
     },
     {
       "title": "The Cockpit",
@@ -23201,5 +23233,5 @@
       "watch_url": null
     }
   ],
-  "count": 1450
+  "count": 1452
 }
