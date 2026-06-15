@@ -19249,6 +19249,22 @@
       "watch_url": "https://archive.org/details/le-guin-ursula-k.-the-ones-who-walk-away-from-omelas"
     },
     {
+      "title": "The Others",
+      "year": 2000,
+      "medium": "TV Series",
+      "creator": "John Brancato, Michael Ferris",
+      "raw_score": 3.18,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Psychic Powers, Supernatural, Survival",
+      "image_filename": "Others_2000.jpg",
+      "pitch": "A group of ordinary people with various psychic talents are drawn together by mysterious forces. They encounter both beneficial and malevolent paranormal phenomena as they navigate their emerging abilities and the dangerous world around them.",
+      "created_at": "2026-06-15 18:06:49",
+      "watch_url": null
+    },
+    {
       "title": "The Paper Menagerie",
       "year": 2011,
       "medium": "Short Story",
@@ -23233,5 +23249,5 @@
       "watch_url": null
     }
   ],
-  "count": 1452
+  "count": 1453
 }
