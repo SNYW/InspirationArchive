@@ -5361,6 +5361,22 @@
       "watch_url": "https://archive.org/details/gora.-2004"
     },
     {
+      "title": "GODANNAR!!",
+      "year": 2003,
+      "medium": "Anime",
+      "creator": "Production I.G",
+      "raw_score": 3.3,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Military",
+      "topics": "Marriage, Aliens, Duty",
+      "image_filename": "godannar.jpg",
+      "pitch": "On the day of pilot Goh Saruwatari's wedding to Anna Aoi, aliens attack and interrupt the ceremony. A 2003 sci-fi mecha anime where pilots bond with alien technology to fight intergalactic threats.",
+      "created_at": "2026-06-15 01:10:04",
+      "watch_url": null
+    },
+    {
       "title": "Ga-ga: Glory to the Heroes",
       "year": 1986,
       "medium": "Film",
@@ -7009,6 +7025,22 @@
       "watch_url": null
     },
     {
+      "title": "Kamen Rider Ryuki",
+      "year": 2002,
+      "medium": "TV Series",
+      "creator": "Toei, Ishinomori Productions",
+      "raw_score": 4.0,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Portal-Fantasy, Battle-Royal",
+      "topics": "Doubles, Monsters, Wishes",
+      "image_filename": "kamen_rider_ryuki.jpg",
+      "pitch": "Shinji Kido discovers a deck of Advent Cards and is pulled into the Mirror World \u2014 a parallel dimension where monsters feed on humans. He becomes Kamen Rider Ryuki and enters the Rider War: 13 Riders must fight to the death, the winner granted one wish.",
+      "created_at": "2026-06-15 01:08:35",
+      "watch_url": null
+    },
+    {
       "title": "Karutha Rathrikal",
       "year": 1967,
       "medium": "Film",
@@ -7326,6 +7358,22 @@
       "image_filename": "Krrish_2006.jpg",
       "pitch": "Krrish is a 2006 Indian superhero film that blends science fiction with Indian mythology and action. The story follows Krishna Mehra, a physically disabled boy who inherits superhuman abilities from his father Rohit Mehra, an eccentric scientist who made contact with an alien named Jadoo. When Krishna grows up, he becomes the superhero Krrish to fight the evil Dr. Siddhant Arya, who is creating a supercomputer that can predict the future. The film is notable for its cutting-edge visual effects for Indian cinema and for pioneering the superhero genre in Bollywood.",
       "created_at": "2026-03-18 21:21:02",
+      "watch_url": null
+    },
+    {
+      "title": "Kurau Phantom Memory",
+      "year": 2004,
+      "medium": "Anime",
+      "creator": "Bones",
+      "raw_score": 3.65,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Cyberpunk, Science-Fantasy",
+      "topics": "Sentience, Identity, Memory",
+      "image_filename": "kurau_phantom_memory.jpg",
+      "pitch": "In 2100, a lunar experiment fuses twelve-year-old Kurau with a sentient energy being. Ten years later, she works as a freelance operative while a second Rynax sleeps inside her. A moody sci-fi anime about identity.",
+      "created_at": "2026-06-15 01:06:35",
       "watch_url": null
     },
     {
@@ -11471,6 +11519,22 @@
       "pitch": "Shikari is a 1963 Indian Hindi-language science fiction adventure film loosely based on Hollywood films Dr. Cyclops and King Kong. When a struggling circus owner and his partner embark on an expedition to the jungles of the Malay Peninsula to capture a legendary giant ape known as Otango, they encounter something far more dangerous: a mad scientist living in the jungle who is conducting horrifying experiments to turn humans into gorillas. The film combines adventure, horror, and sci-fi elements in a uniquely Indian package, featuring popular music and the iconic villain performance by K.N. Singh as Dr. Cyclops.",
       "created_at": "2026-03-02 08:31:22",
       "watch_url": "https://archive.org/details/fulllengthhindimovieshikariajitragini"
+    },
+    {
+      "title": "Shinzo",
+      "year": 2000,
+      "medium": "Anime",
+      "creator": "Toei Animation",
+      "raw_score": 3.82,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Post-Apocalypse",
+      "topics": "Evolution, Survival, Humanity",
+      "image_filename": "shinzo.jpg",
+      "pitch": "Enterrans conquered Earth and renamed it Enterra. Three Hyper-Enterrans must protect the last human girl Yakumo and find the sanctuary called Shinzo. A 2000 Toei anime based on Journey to the West.",
+      "created_at": "2026-06-15 01:09:16",
+      "watch_url": null
     },
     {
       "title": "Shiva Ka Insaaf",
@@ -19633,6 +19697,22 @@
       "watch_url": null
     },
     {
+      "title": "Toward the Terra",
+      "year": 2007,
+      "medium": "Anime",
+      "creator": "Tokyo Kids, Minamimachi Bugy\u014dsho",
+      "raw_score": 3.635,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Space-Opera, Dystopia",
+      "topics": "Evolution, Memory, Rebellion",
+      "image_filename": "toward_the_terra.jpg",
+      "pitch": "In a distant future, humanity is ruled by supercomputers. At 14, Jomy discovers he carries the Mu factor \u2014 psionic abilities that make him a target for extermination. A cerebral 2007 space opera about freedom and memory.",
+      "created_at": "2026-06-15 01:07:52",
+      "watch_url": null
+    },
+    {
       "title": "Towers Open Fire",
       "year": 1963,
       "medium": "Short Film",
@@ -20929,5 +21009,5 @@
       "watch_url": null
     }
   ],
-  "count": 1308
+  "count": 1313
 }
