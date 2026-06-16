@@ -11697,6 +11697,22 @@
       "watch_url": "https://archive.org/details/night-of-the-big-heat-1967"
     },
     {
+      "title": "Night of the Skinwalkers",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.0,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Night_of_the_Skinwalkers_2024.jpg",
+      "pitch": "Four couples at a remote lakeside cabin face an alien invasion\u2014but the real terror emerges when they realize not everyone in their group is who they claim to be. Using Navajo Skinwalker mythology, this indie horror blends UFO panic with psychological paranoia.",
+      "created_at": "2026-06-16 17:03:50",
+      "watch_url": null
+    },
+    {
       "title": "Night on the Galactic Railroad",
       "year": 1985,
       "medium": "Animated Film",
@@ -25857,5 +25873,5 @@
       "watch_url": null
     }
   ],
-  "count": 1616
+  "count": 1617
 }
