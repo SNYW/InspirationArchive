@@ -11089,6 +11089,22 @@
       "watch_url": null
     },
     {
+      "title": "Mobile Suit Gundam SEED C.E. 73: Stargazer",
+      "year": 2006,
+      "medium": "OVA",
+      "creator": "Susumu Nishizawa",
+      "raw_score": 3.6,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "Space Travel, AI, War, First Contact",
+      "image_filename": "Mobile_Suit_Gundam_SEED_CE_73_Stargazer_2006.jpg",
+      "pitch": "A compact three-episode ONA side story to Gundam SEED Destiny, focusing on the Stargazer Project \u2014 a deep space exploration initiative. When a researcher and a soldier from opposing factions end up stranded together in space, they must bridge their ideological divide to survive.",
+      "created_at": "2026-06-16 19:54:44",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Suit Gundam ZZ",
       "year": 1986,
       "medium": "Anime",
@@ -11631,6 +11647,22 @@
       "pitch": "Neo Tokyo (also known as Manie-Manie) is a groundbreaking 1987 Japanese anthology anime film featuring three visionary science fiction stories, each directed by a different master of the medium. The film opens with a girl and her cat discovering a mysterious clock that serves as a gateway to a surreal theater where they watch three tales unfold. Rintaro's opening segment explores the labyrinth of a child's mind through surreal imagery, Yoshiaki Kawajiri contributes \"Running Man,\" a brutal tale of telekinetic racers in a deadly death-match circuit, and Katsuhiro Otomo delivers \"Construction Cancellation Order,\" a prescient story about autonomous robots continuing a massive construction project even after government cancellation orders. This is obscure 80s anime at its most experimental and thought-provoking.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/Neo-Tokyo-Manie-Manie-Meikyuu-Monogatari"
+    },
+    {
+      "title": "Neo Tokyo",
+      "year": 1989,
+      "medium": "Anime Film",
+      "creator": "Katsuhiro Otomo",
+      "raw_score": 3.39,
+      "total_ratings": 122,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Cyberpunk, Post-Apocalypse",
+      "topics": "AI, VR, Survival, Technology",
+      "image_filename": "Neo_Tokyo_1989.jpg",
+      "pitch": "A 1987 Japanese animated anthology film with three segments. Each explores different sci-fi themes: a girl's surreal journey through a labyrinth, a deadly telekinetic auto race, and a salaryman versus rebellious construction robots.",
+      "created_at": "2026-06-16 19:56:57",
+      "watch_url": null
     },
     {
       "title": "Neon Genesis Evangelion: Death and Rebirth",
@@ -19137,6 +19169,22 @@
       "watch_url": "https://archive.org/details/turner_video_12570"
     },
     {
+      "title": "The Five Star Stories",
+      "year": 1989,
+      "medium": "Manga",
+      "creator": "Mamoru Nagano",
+      "raw_score": 3.18,
+      "total_ratings": 33,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Evolution, AI, Religion",
+      "image_filename": "The_Five_Star_Stories_1989.jpg",
+      "pitch": "An epic manga series set in the Joker Star Cluster, where four planetary systems and a periodic comet form a complex political landscape. The story follows Emperor Amaterasu of the Grees Kingdom and his bride Lachesis, as empires rise and fall across millennia.",
+      "created_at": "2026-06-16 19:55:37",
+      "watch_url": null
+    },
+    {
       "title": "The Flat",
       "year": 1968,
       "medium": "Film",
@@ -20158,6 +20206,22 @@
       "image_filename": "The_Laplace_Demon_2017.jpg",
       "pitch": "A team of scientists achieves a mathematical breakthrough in calculating probability outcomes. They're invited to a mysterious mansion where they become trapped in a deadly experiment testing whether free will truly exists.",
       "created_at": "2026-06-15 13:04:44",
+      "watch_url": null
+    },
+    {
+      "title": "The Last Battle",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Luc Besson",
+      "raw_score": 3.2,
+      "total_ratings": 164,
+      "origin": "France",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Survival, Isolation, AI, Technology",
+      "image_filename": "The_Last_Battle_1983.jpg",
+      "pitch": "Luc Besson's debut feature is a near-silent post-apocalyptic film. In a world where an unknown incident has rendered most people mute, a man and a brute compete for survival in a barren wasteland. Shot in stark black and white.",
+      "created_at": "2026-06-16 19:58:01",
       "watch_url": null
     },
     {
@@ -25073,6 +25137,22 @@
       "watch_url": "https://archive.org/details/vegas.in.-space.-ve"
     },
     {
+      "title": "Venus Wars",
+      "year": 1989,
+      "medium": "Anime Film",
+      "creator": "Yoshikazu Yasuhiko",
+      "raw_score": 3.37,
+      "total_ratings": 66,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Military",
+      "topics": "War, Revolution, Survival, Colonialism",
+      "image_filename": "Venus_Wars_1989.jpg",
+      "pitch": "In 2089 Venus is divided between two warring nations. Reporter Susan Sommers arrives in Aphrodia just as Ishtar invades. She joins a team of monobike racers who become unlikely revolutionaries.",
+      "created_at": "2026-06-16 19:56:26",
+      "watch_url": null
+    },
+    {
       "title": "Vesper",
       "year": 2022,
       "medium": "Film",
@@ -26193,5 +26273,5 @@
       "watch_url": null
     }
   ],
-  "count": 1637
+  "count": 1642
 }
