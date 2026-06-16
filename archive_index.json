@@ -8577,6 +8577,22 @@
       "watch_url": null
     },
     {
+      "title": "Jin-Roh: The Wolf Brigade",
+      "year": 1999,
+      "medium": "Anime Film",
+      "creator": "Hiroyuki Okiura",
+      "raw_score": 3.69,
+      "total_ratings": 562,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Political Thriller",
+      "topics": "Politics, Surveillance, Authoritarianism, Terrorism",
+      "image_filename": "Jin-Roh_The_Wolf_Brigade_1999.jpg",
+      "pitch": "In alternate-history Japan where Nazi Germany won WWII, Capital Police's elite Kerberos unit hunts the Sect terrorist group. When soldier Kazuki Fuse witnesses a young female terrorist kill herself, he meets her sister Kei\u2014and uncovers a web of political intrigue.",
+      "created_at": "2026-06-16 15:21:13",
+      "watch_url": null
+    },
+    {
       "title": "Journey to the Beginning of Time",
       "year": 1955,
       "medium": "Film",
@@ -11361,6 +11377,22 @@
       "watch_url": "https://archive.org/details/Neo-Tokyo-Manie-Manie-Meikyuu-Monogatari"
     },
     {
+      "title": "Neon Genesis Evangelion: Death and Rebirth",
+      "year": 1997,
+      "medium": "Anime Film",
+      "creator": "Hideaki Anno",
+      "raw_score": 3.7,
+      "total_ratings": 502,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Apocalyptic, Dystopia",
+      "topics": "Psychology, Existentialism, Religion, Apocalypse",
+      "image_filename": "Neon_Genesis_Evangelion_Death_and_Rebirth_1997.jpg",
+      "pitch": "The first Evangelion feature film combines two parts: Death, a recapped anthology of the TV series' key moments, and Rebirth, a preview of the alternate ending. Hideaki Anno deconstructs the mecha genre through psychological trauma and existential crisis.",
+      "created_at": "2026-06-16 15:21:25",
+      "watch_url": null
+    },
+    {
       "title": "Neppuu Kairiku Bushi Road",
       "year": 2013,
       "medium": "Anime Film",
@@ -12511,6 +12543,22 @@
       "pitch": "In 2067, a failed gravity experiment reverses Earth's pull, sending humanity into the sky. Two teenagers\u2014Patema from an underground society and Eiji from the surface world\u2014meet at the boundary between their inverted realms. Their opposing gravity creates a surreal romance where falling up becomes flying.",
       "created_at": "2026-06-15 12:41:02",
       "watch_url": "https://archive.org/details/patema-inverted"
+    },
+    {
+      "title": "Patlabor 2: The Movie",
+      "year": 1993,
+      "medium": "Anime Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 3.71,
+      "total_ratings": 148,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Political Thriller",
+      "topics": "Politics, Surveillance, Authoritarianism",
+      "image_filename": "Patlabor_2_The_Movie_1993.jpg",
+      "pitch": "In near-future 2002 Japan, the Metropolitan Police's Labor unit faces a coordinated terrorist attack threatening a military coup. When Yokohama Bay Bridge is destroyed, blame falls on the JSDF\u2014but the real mastermind has a sinister plan. Mamoru Oshii delivers a contemplative political thriller on democracy's fragility.",
+      "created_at": "2026-06-16 15:21:06",
+      "watch_url": null
     },
     {
       "title": "Patlabor: Early Days",
@@ -25681,5 +25729,5 @@
       "watch_url": null
     }
   ],
-  "count": 1605
+  "count": 1608
 }

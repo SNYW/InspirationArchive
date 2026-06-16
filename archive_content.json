@@ -9649,6 +9649,24 @@
       "watch_url": null
     },
     {
+      "title": "Jin-Roh: The Wolf Brigade",
+      "year": 1999,
+      "medium": "Anime Film",
+      "creator": "Hiroyuki Okiura",
+      "raw_score": 3.69,
+      "total_ratings": 562,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Political Thriller",
+      "topics": "Politics, Surveillance, Authoritarianism, Terrorism",
+      "image_filename": "Jin-Roh_The_Wolf_Brigade_1999.jpg",
+      "pitch": "In alternate-history Japan where Nazi Germany won WWII, Capital Police's elite Kerberos unit hunts the Sect terrorist group. When soldier Kazuki Fuse witnesses a young female terrorist kill herself, he meets her sister Kei\u2014and uncovers a web of political intrigue.",
+      "truth": "Haunted by the suicide, Kazuki meets Kei. Their relationship develops as the Sect escalates attacks. He discovers rival factions\u2014Kerberos and Public Security Division\u2014manipulate events. The film culminates in a brutal confrontation revealing state violence's true nature.",
+      "core": "Okiura meditates on state violence and the thin line between protector and oppressor. Kerberos\u2014named after the three-headed guardian\u2014embodies how the state uses fear to justify its own existence.",
+      "created_at": "2026-06-16 15:21:13",
+      "watch_url": null
+    },
+    {
       "title": "Journey to the Beginning of Time",
       "year": 1955,
       "medium": "Film",
@@ -12781,6 +12799,24 @@
       "watch_url": "https://archive.org/details/Neo-Tokyo-Manie-Manie-Meikyuu-Monogatari"
     },
     {
+      "title": "Neon Genesis Evangelion: Death and Rebirth",
+      "year": 1997,
+      "medium": "Anime Film",
+      "creator": "Hideaki Anno",
+      "raw_score": 3.7,
+      "total_ratings": 502,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Apocalyptic, Dystopia",
+      "topics": "Psychology, Existentialism, Religion, Apocalypse",
+      "image_filename": "Neon_Genesis_Evangelion_Death_and_Rebirth_1997.jpg",
+      "pitch": "The first Evangelion feature film combines two parts: Death, a recapped anthology of the TV series' key moments, and Rebirth, a preview of the alternate ending. Hideaki Anno deconstructs the mecha genre through psychological trauma and existential crisis.",
+      "truth": "Death compiles 24 episodes into a stylized recap with new animation. Rebirth provides a glimpse of Shinji's final choice\u2014the choice the TV series' controversial ending denied audiences. The film responds to fan demand for resolution while preserving Anno's unflinching look at human nature.",
+      "core": "Anno questions the audience's desire for closure\u2014the comfort of resolution over genuine meaning. The film mirrors Shinji's paralysis: we watch, we consume, but do we truly understand?",
+      "created_at": "2026-06-16 15:21:25",
+      "watch_url": null
+    },
+    {
       "title": "Neppuu Kairiku Bushi Road",
       "year": 2013,
       "medium": "Anime Film",
@@ -14075,6 +14111,24 @@
       "core": "Patema Inverted literalizes the metaphor of different perspectives. Two people, same world, opposite gravity\u2014literally seeing things differently. A meditation on empathy, understanding, and the courage to see beyond our own horizon.",
       "created_at": "2026-06-15 12:41:02",
       "watch_url": "https://archive.org/details/patema-inverted"
+    },
+    {
+      "title": "Patlabor 2: The Movie",
+      "year": 1993,
+      "medium": "Anime Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 3.71,
+      "total_ratings": 148,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Political Thriller",
+      "topics": "Politics, Surveillance, Authoritarianism",
+      "image_filename": "Patlabor_2_The_Movie_1993.jpg",
+      "pitch": "In near-future 2002 Japan, the Metropolitan Police's Labor unit faces a coordinated terrorist attack threatening a military coup. When Yokohama Bay Bridge is destroyed, blame falls on the JSDF\u2014but the real mastermind has a sinister plan. Mamoru Oshii delivers a contemplative political thriller on democracy's fragility.",
+      "truth": "A missile destroys Yokohama Bay Bridge. JSDF is blamed, protests erupt, then JGSDF-marked gunships attack Tokyo Bay. Section 2 commander Goto discovers former GSDF officer Yukihito Tsuge orchestrated attacks as false flag to justify martial law. He must stop Tsuge's military coup.",
+      "core": "Oshii examines how democracies get manipulated through manufactured crises\u2014security in exchange for freedom. Prescient post-9/11, explores Japan's tension between US-allied present and militaristic past.",
+      "created_at": "2026-06-16 15:21:06",
+      "watch_url": null
     },
     {
       "title": "Patlabor: Early Days",
@@ -28891,5 +28945,5 @@
       "watch_url": null
     }
   ],
-  "count": 1605
+  "count": 1608
 }
