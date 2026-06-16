@@ -22913,6 +22913,22 @@
       "watch_url": "https://archive.org/details/the-wandering-earth-2019_202509"
     },
     {
+      "title": "The War in Space",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "Jun Fukuda",
+      "raw_score": 3.04,
+      "total_ratings": 27,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Aliens",
+      "topics": "Aliens, Space Travel, First Contact, Invasion",
+      "image_filename": "the_war_in_space_1977.jpg",
+      "pitch": "In 1988, alien invaders from the planet Yomi launch a coordinated attack on Earth's major cities. The UN Space Federation's Gohten spaceship must travel to Venus to confront the alien fleet. A 1977 Toho tokusatsu film made in response to Star Wars.",
+      "created_at": "2026-06-16 12:08:24",
+      "watch_url": null
+    },
+    {
       "title": "The War of the Worlds",
       "year": 1898,
       "medium": "Novel",
@@ -25425,5 +25441,5 @@
       "watch_url": null
     }
   ],
-  "count": 1589
+  "count": 1590
 }
