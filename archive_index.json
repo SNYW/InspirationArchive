@@ -81,6 +81,22 @@
       "watch_url": null
     },
     {
+      "title": "2.0",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Shankar",
+      "raw_score": 2.93,
+      "total_ratings": 176,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Robots",
+      "topics": "AI, Robots, Ecology, Technology",
+      "image_filename": "2.0_2018.jpg",
+      "pitch": "A sequel to Enthiran where the humanoid robot Chitti must stop a vengeful ornithologist who has transformed into a giant bird made of mobile phones, determined to destroy humanity over cell phone radiation killing birds. The most expensive Indian film ever made.",
+      "created_at": "2026-06-16 10:45:11",
+      "watch_url": null
+    },
+    {
       "title": "20,000 Leagues Under the Sea",
       "year": 1916,
       "medium": "Film",
@@ -846,6 +862,22 @@
       "image_filename": "Accumulator_1_1994.jpg",
       "pitch": "Accumulator 1 is a 1994 Czech surrealist science fiction film directed by Jan Sv\u011br\u00e1k (his debut feature), with co-writing by his father Zden\u011bk Sv\u011br\u00e1k. The film won the Grand Prize at the 7th Yubari International Fantastic Film Festival in February 1996 and the audience award at the Troms\u00f8 International Film Festival in 1996. The story follows Young surveyor Olda, who after losing consciousness for three days, discovers that television sets secretly drain people's life energy. When he is pulled into a parallel \"television universe\" inhabited by doppelgangers of people who have appeared on TV, Olda must find a way to destroy this parasitic realm before it consumes all of humanity. The film is a surreal, visually inventive exploration of media consumption, energy vampirism, and the alienating effects of television on modern life.",
       "created_at": "2026-02-28 08:21:00",
+      "watch_url": null
+    },
+    {
+      "title": "Action Replayy",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Vipul Amrutlal Shah",
+      "raw_score": 2.65,
+      "total_ratings": 84,
+      "origin": "India",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Family, Love",
+      "image_filename": "Action_Replayy_2010.jpg",
+      "pitch": "A young man travels back to 1975 to make his unmarried parents fall in love and save their failing marriage. This 2010 Bollywood sci-fi rom-com is an uncredited remake of Back to the Future.",
+      "created_at": "2026-06-16 10:45:00",
       "watch_url": null
     },
     {
@@ -7985,6 +8017,22 @@
       "watch_url": "https://archive.org/details/indestructible.-man.-1956"
     },
     {
+      "title": "Indru Netru Naalai",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "R. Ravikumar",
+      "raw_score": 3.85,
+      "total_ratings": 38,
+      "origin": "India",
+      "mood": "Satirical",
+      "sub_genres": "Time-Travel, Black-Comedy",
+      "topics": "Time-Travel, Greed, Paradox",
+      "image_filename": "Indru_Netru_Naalai_2015.jpg",
+      "pitch": "Two friends find a time machine from 2065 and use it to get rich through astrology predictions and stock market foreknowledge, until they accidentally save a gangster and must fix the timeline. A 2015 Tamil sci-fi black comedy.",
+      "created_at": "2026-06-16 10:45:39",
+      "watch_url": null
+    },
+    {
       "title": "Insatiability",
       "year": 1930,
       "medium": "Novel",
@@ -9790,6 +9838,22 @@
       "image_filename": "Love_City_1986.jpg",
       "pitch": "Dystopic Tokyo where humanity's genetic code has gone awry. An organization called Fraud conducts experiments on psychic escapees called headmeters \u2014 including Kei and Ai, who possess powerful psychokinetic abilities. A sinister figure wants Ai back, as she holds the key to immense power.",
       "created_at": "2026-06-16 04:04:51",
+      "watch_url": null
+    },
+    {
+      "title": "Love Story 2050",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Harry Baweja",
+      "raw_score": 1.55,
+      "total_ratings": 33,
+      "origin": "India",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time-Travel, Love, VR",
+      "image_filename": "Love_Story_2050_2008.jpg",
+      "pitch": "A young couple's love transcends time when the boyfriend travels to 2050 Mumbai to find his dead girlfriend reincarnated. Bollywood's first utopian time travel film, featuring futuristic flying cars and holograms.",
+      "created_at": "2026-06-16 10:45:31",
       "watch_url": null
     },
     {
@@ -23361,6 +23425,22 @@
       "watch_url": "https://archive.org/details/thunderbirds-are-go.-1966"
     },
     {
+      "title": "Tik Tik Tik",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Shakti Soundar Rajan",
+      "raw_score": 2.65,
+      "total_ratings": 27,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Disaster, Space-Opera",
+      "topics": "Space Travel, Survival, Technology",
+      "image_filename": "Tik_Tik_Tik_2018.jpg",
+      "pitch": "An Indian space crew must steal a missile from a Chinese space station to destroy an asteroid heading for the Bay of Bengal. This 2018 Tamil sci-fi disaster thriller was inspired by Armageddon.",
+      "created_at": "2026-06-16 10:45:24",
+      "watch_url": null
+    },
+    {
       "title": "Time Bandits",
       "year": 1981,
       "medium": "Film",
@@ -25265,5 +25345,5 @@
       "watch_url": null
     }
   ],
-  "count": 1579
+  "count": 1584
 }
