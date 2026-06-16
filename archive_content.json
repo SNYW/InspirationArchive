@@ -26065,6 +26065,24 @@
       "watch_url": "https://archive.org/details/film-bila-nemoc-1937-cz"
     },
     {
+      "title": "The Witcher",
+      "year": 2002,
+      "medium": "TV Series",
+      "creator": "Marek Brodzinski (director), Andrzej Sapkowski (novel)",
+      "raw_score": 2.8,
+      "total_ratings": 51,
+      "origin": "Poland",
+      "mood": "Dark",
+      "sub_genres": "Fantasy, Urban Fantasy",
+      "topics": "Witcher, Monster Hunter, Medieval, Magic",
+      "image_filename": "The_Witcher_2002.jpg",
+      "pitch": "In a gritty medieval world where monster hunters called Witchers are mistrusted by society, Geralt of Rivia takes contracts to kill creatures that terrorize villages. Based on Sapkowski's acclaimed novels.",
+      "truth": "The Witcher follows Geralt of Rivia, a mutated monster hunter, as he navigates a political landscape of mages, kings, and elves. The show explores themes of prejudice, destiny, and morality.",
+      "core": "The Polish adaptation brings Sapkowski's influential novels to life with a darker, grounded fantasy world. Geralt's journey examines what it means to be an outsider in a society that both fears and depends on Witchers.",
+      "created_at": "2026-06-16 14:56:19",
+      "watch_url": null
+    },
+    {
       "title": "The Witches Hammer",
       "year": 2006,
       "medium": "Film",
@@ -28765,6 +28783,24 @@
       "watch_url": "https://archive.org/details/turner_video_224396"
     },
     {
+      "title": "Zona del silencio: Paralelo 27",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Juli\u00e1n Fern\u00e1ndez",
+      "raw_score": 2.85,
+      "total_ratings": 14,
+      "origin": "Mexico",
+      "mood": "Mysterious",
+      "sub_genres": "Sci-Fi, Mystery, Thriller",
+      "topics": "Aliens, Area 51, Government Conspiracy, Mexico",
+      "image_filename": "Zona_del_silencio_Paralelo_27_2004.jpg",
+      "pitch": "In 1970, a missile crashes inside Mexico's Zone of Silence. Two locals watch Americans recover it, then follow them. Something goes wrong. Thirty years later, scientists investigate unexplained phenomena.",
+      "truth": "A Mexican sci-fi thriller about the legendary Zone of Silence in Durango, where a lost missile brings Americans to recover something mysterious. Locals investigate decades later. Based on the real Zone of Silence urban legend.",
+      "core": "A Mexican B-movie that taps into the real Zone of Silence legend near Mapim\u00ed. The film mixes alien invasion tropes with government conspiracy themes, exploring whether the mysterious zone holds extraterrestrial secrets.",
+      "created_at": "2026-06-16 14:56:24",
+      "watch_url": null
+    },
+    {
       "title": "Zone 39",
       "year": 1996,
       "medium": "Film",
@@ -28855,5 +28891,5 @@
       "watch_url": null
     }
   ],
-  "count": 1603
+  "count": 1605
 }
