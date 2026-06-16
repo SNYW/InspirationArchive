@@ -5809,6 +5809,22 @@
       "watch_url": "https://archive.org/details/exosquad-s-02-e-06-mind-set_202412"
     },
     {
+      "title": "Exterminator City",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "David DeCoteau",
+      "raw_score": 1.38,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Robots, AI, Surveillance",
+      "image_filename": "Exterminator_City_2005.jpg",
+      "pitch": "The year is 2027. In Atro City, a robot pest controller goes on a murderous rampage, carving his way through the population. A tough robot homicide detective and a sinister robot psychiatrist pursue him, uncovering a twisted technological nightmare. This is DeCoteau at his most unhinged \u2014 a low-budget cyberpunk thriller that plays like a fever dream of mechanical carnage.",
+      "created_at": "2026-06-16 21:09:42",
+      "watch_url": null
+    },
+    {
       "title": "Extra Terrestrial Visitors",
       "year": 1983,
       "medium": "Film",
@@ -6465,6 +6481,22 @@
       "watch_url": "https://archive.org/details/fourthmansions0000rala_p4g0"
     },
     {
+      "title": "Fragtime",
+      "year": 2019,
+      "medium": "OVA",
+      "creator": "Takuya Sat\u014d",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Noir",
+      "topics": "VR, Time-Travel, Identity",
+      "image_filename": null,
+      "pitch": "Misuzu Moritani can stop time for three minutes each day. When she uses her power to spy on the popular Haruka Murakami, she discovers Haruka is immune to time-stop. What begins as a shy crush becomes a complex exploration of identity, loneliness, and the masks we wear \u2014 all within frozen moments.",
+      "created_at": "2026-06-16 21:10:04",
+      "watch_url": null
+    },
+    {
       "title": "France, Incorporated",
       "year": 1974,
       "medium": "Film",
@@ -7087,6 +7119,22 @@
       "pitch": "Three years after Major Motoko Kusanagi vanished, cybernetic operative Batou investigates murders caused by malfunctioning gynoids\u2014doll-like sex robots. The case leads him into a dark web of illegal consciousness trafficking.",
       "created_at": "2026-06-16 07:04:53",
       "watch_url": "https://archive.org/details/ghost-in-the-shell-2-innocence_202505"
+    },
+    {
+      "title": "Giant God Warrior Appears in Tokyo",
+      "year": 2012,
+      "medium": "Short Film",
+      "creator": "Shinji Higuchi",
+      "raw_score": 3.32,
+      "total_ratings": 49,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Kaiju, Post-Apocalypse",
+      "topics": "Destruction, Robots, Aliens",
+      "image_filename": "Giant_God_Warrior_Appears_in_Tokyo_2012.jpg",
+      "pitch": "A woman in Tokyo receives a warning from her brother: the city will be destroyed tomorrow. She dismisses it as an internet rumor. The next day, orange spores gather, forming a Giant God Warrior that descends and obliterates Tokyo with weapons fire and a proton beam. Studio Ghibli's only live-action production \u2014 a haunting 9-minute prequel to Nausicaa.",
+      "created_at": "2026-06-16 21:09:57",
+      "watch_url": null
     },
     {
       "title": "Giant Robo",
@@ -26417,5 +26465,5 @@
       "watch_url": null
     }
   ],
-  "count": 1651
+  "count": 1654
 }
