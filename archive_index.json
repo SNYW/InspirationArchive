@@ -6161,6 +6161,22 @@
       "watch_url": "https://archive.org/details/frankenweenie-1984-disney-plus-dubbing-credits-greek"
     },
     {
+      "title": "Freedom",
+      "year": 2006,
+      "medium": "OVA",
+      "creator": "Shuhei Morita",
+      "raw_score": 2.68,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fiction",
+      "topics": "Space, Exploration, Discovery, First Contact",
+      "image_filename": "freedom_2006.jpg",
+      "pitch": "In 2267, humanity lives in lunar colonies called Eden after Earth was devastated by climate catastrophe. Fifteen-year-old Takeru, sentenced to work outside the domes, discovers a crashed capsule containing photographs of Earth\u2014and realizes the forbidden homeworld has recovered. He must flee Eden's authorities to see the truth for himself.",
+      "created_at": "2026-06-16 05:44:05",
+      "watch_url": null
+    },
+    {
       "title": "Freezing Down",
       "year": 1969,
       "medium": "Novel",
@@ -6271,6 +6287,22 @@
       "pitch": "Takashi Miike's 1997 tokusatsu action film. After being killed in a yakuza hit, Kensuke Hagane is brought back to life by a mad scientist as a bulletproof cyborg with metal for blood. Seeking revenge, he battles his way through the organization that murdered him.",
       "created_at": "2026-06-15 23:07:08",
       "watch_url": "https://archive.org/details/full-metal-yakuza"
+    },
+    {
+      "title": "Full Moon",
+      "year": 2002,
+      "medium": "Anime",
+      "creator": "Toshiyuki Kato",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Supernatural",
+      "topics": "Music, Love, Survival, Death",
+      "image_filename": null,
+      "pitch": "Twelve-year-old Mitsuki Koyama dreams of becoming a singer to reunite with her first love Eichi. But a throat tumor threatens her voice and life. When two shinigami appear offering her a deal\u2014transform into a 16-year-old idol to fulfill her dream before they take her soul\u2014she accepts.",
+      "created_at": "2026-06-16 05:44:45",
+      "watch_url": null
     },
     {
       "title": "Funky Koval",
@@ -6830,6 +6862,22 @@
       "image_filename": "Gorky_17_1999.jpg",
       "pitch": "Gorky 17 (known as Odium in North America) is a 1999 Polish tactical role-playing video game that blends turn-based combat with adventure game exploration. Set in a small Polish town near Lubin, the game puts players in command of NATO operatives investigating the mysterious appearance of hybrid creatures at a former Soviet military base. The player controls Cole Sullivan, a 40-year-old Canadian soldier with extensive scientific knowledge, who leads a commando team tasked with uncovering the truth behind the hybrids and finding missing members of the first reconnaissance group. The game features two distinct modes: real-time exploration using point-and-click mechanics, and turn-based tactical combat on grid-based maps.",
       "created_at": "2026-03-01 16:16:34",
+      "watch_url": null
+    },
+    {
+      "title": "Grenadier",
+      "year": 2004,
+      "medium": "Anime",
+      "creator": "Hiroshi K\u014djina",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Western",
+      "topics": "Gunpowder, Redemption, Friendship",
+      "image_filename": null,
+      "pitch": "Rushuna Tend\u014d is a Senshi\u2014a skilled gunfighter trained in Tenshi's pacifist philosophy of defeating enemies by removing their will to fight, not by killing. Traveling alongside the swordsman Yajir\u014d, she journeys toward the capital of Tento to master the Ultimate Battle Strategy.",
+      "created_at": "2026-06-16 05:44:21",
       "watch_url": null
     },
     {
@@ -24625,5 +24673,5 @@
       "watch_url": null
     }
   ],
-  "count": 1539
+  "count": 1542
 }
