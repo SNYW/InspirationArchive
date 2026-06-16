@@ -2657,6 +2657,22 @@
       "watch_url": null
     },
     {
+      "title": "Black Button",
+      "year": 2007,
+      "medium": "Short Film",
+      "creator": "Unknown",
+      "raw_score": 3.2,
+      "total_ratings": 13,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ethics, Survival",
+      "image_filename": null,
+      "pitch": "Mr. Roberts wakes in a white room with a choice: push a black button to receive millions (killing someone), or take a key and leave penniless. An ethical trap that reveals the price of greed.",
+      "created_at": "2026-06-16 07:52:03",
+      "watch_url": null
+    },
+    {
       "title": "Black Lightning",
       "year": 2009,
       "medium": "Film",
@@ -4703,6 +4719,22 @@
       "pitch": "Digital Devil Story is a 1987 OVA adapted from Aya Nishitani's light novel about a high school computer genius who inadvertently summons demons into the real world through his custom software. The story explores themes of technology, mythology, and the dangers of unleashing forces beyond human control. Set in a typical Japanese high school, the OVA takes a dark turn when Akemi Nakajima's revenge plot against his bullies summons Loki, a demon far more powerful than anticipated. This obscure 80s OVA is notable for its unique blend of Shinto mythology with early computer age anxieties, and it spawned the hugely influential Megami Tensei video game series.",
       "created_at": "2026-03-06 07:57:11",
       "watch_url": "https://archive.org/details/digital-devil-story-megami-tensei-1987-eng-sub"
+    },
+    {
+      "title": "Dimension 5",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Franklin Adreon",
+      "raw_score": 2.64,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Time-Travel, Espionage, AI",
+      "image_filename": "Dimension_5_1966.jpg",
+      "pitch": "Agent Justin Power uses a time-travel belt to combat Dragon, a crime ring planning to destroy Los Angeles with a hydrogen bomb. Teamed with Chinese agent Kitty, he must stop the bomb from being assembled in the city.",
+      "created_at": "2026-06-16 07:51:51",
+      "watch_url": null
     },
     {
       "title": "Dimensions",
@@ -16641,6 +16673,22 @@
       "watch_url": "https://archive.org/details/richard-lester-the-bed-sitting-room"
     },
     {
+      "title": "The Big Bang",
+      "year": 1987,
+      "medium": "Animated Film",
+      "creator": "Picha",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Belgium",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "War, Politics, Religion",
+      "image_filename": null,
+      "pitch": "A hitman's accidental nuke triggers WWIII. When it ends, only two powers remain: the male USSSR and female Vaginia. Both build doomsday missiles shaped like genitalia. Only Fred Hero, a retired superhero-turned-garbageman, can stop the apocalypse.",
+      "created_at": "2026-06-16 07:50:45",
+      "watch_url": null
+    },
+    {
       "title": "The Big Snit",
       "year": 1985,
       "medium": "Short Film",
@@ -18719,6 +18767,22 @@
       "pitch": "The Hands of Orlac is a 1924 Austrian silent horror film directed by Robert Wiene, starring Conrad Veidt in one of his most iconic performances. The film centers on concert pianist Paul Orlac, whose hands are tragically destroyed in a railway accident. Desperate to save his career, his wife persuades a surgeon to transplant the hands of a recently executed murderer named Vasseur. However, upon learning the truth, Orlac becomes consumed by horror\u2014convinced he has inherited the murderer's violent impulses. As his mental state deteriorates, he finds himself haunted by the belief that he may have murdered his own father with a knife similar to the one used by Vasseur. This atmospheric silent film stands as a remarkable example of early Expressionist cinema exploring themes of identity, body horror, and the psychological consequences of scientific intervention.",
       "created_at": "2026-03-05 10:27:29",
       "watch_url": "https://archive.org/details/the.-hands.-of.-orlac.-1924"
+    },
+    {
+      "title": "The Happiness Cage",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Bernard Girard",
+      "raw_score": 2.95,
+      "total_ratings": 16,
+      "origin": "Denmark",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Military, Science, Medicine",
+      "image_filename": "The_Happiness_Cage_1972.jpg",
+      "pitch": "In the Vietnam era, a controversial Army program experiments with brain implants to create 'better soldiers' \u2014 docile, controlled humans without aggression. When Private James Reese arrives at a Frankfurt veterans hospital, he discovers the dark truth.",
+      "created_at": "2026-06-16 07:51:19",
+      "watch_url": null
     },
     {
       "title": "The Hasty Hare",
@@ -24913,5 +24977,5 @@
       "watch_url": null
     }
   ],
-  "count": 1557
+  "count": 1561
 }
