@@ -2561,6 +2561,22 @@
       "watch_url": "https://archive.org/details/biomegatome010000tsut"
     },
     {
+      "title": "Birdy the Mighty",
+      "year": 1996,
+      "medium": "OVA",
+      "creator": "Masami Yuki",
+      "raw_score": 3.45,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Action",
+      "topics": "Aliens, First Contact",
+      "image_filename": "Birdy_the_Mighty_1996.jpg",
+      "pitch": "Federation officer Birdy Cephon Altera pursues alien criminals on Earth. After accidentally killing witness Tsutomu Senkawa, she fuses his consciousness into her body to save him. Tsutomu becomes an invisible passenger, watching her hunt extraterrestrials.",
+      "created_at": "2026-06-16 01:59:18",
+      "watch_url": null
+    },
+    {
       "title": "Birth",
       "year": 1984,
       "medium": "OVA",
@@ -5665,6 +5681,22 @@
       "watch_url": null
     },
     {
+      "title": "Feeders 2: Slay Bells",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "John A. Quinn",
+      "raw_score": 1.54,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Horror, Comedy",
+      "topics": "Aliens, Christmas, Survival",
+      "image_filename": "Feeders_2_Slay_Bells_1998.jpg",
+      "pitch": "Aliens invade Earth on Christmas Eve, targeting the holiday's commercial excess. Santa Claus and his elves must team up to battle the extraterrestrial invaders and save humanity. A B-movie Christmas horror comedy with tongue firmly in cheek.",
+      "created_at": "2026-06-16 02:05:14",
+      "watch_url": null
+    },
+    {
       "title": "Ferat Vampire",
       "year": 1982,
       "medium": "Film",
@@ -8207,6 +8239,22 @@
       "pitch": "A one-episode 1981 Doctor Who spin-off pilot featuring Sarah Jane Smith and the robotic dog K9. When Sarah visits her aunt's village, she and K9 investigate disappearances and uncover a local witchcraft cult planning ritual murder. The Christmas special pilot never led to a series \u2014 but the characters returned in 2007's The Sarah Jane Adventures.",
       "created_at": "2026-06-13 17:07:46",
       "watch_url": "https://archive.org/details/k-9-and-company-1981"
+    },
+    {
+      "title": "K-9000",
+      "year": 1991,
+      "medium": "TV Series",
+      "creator": "Kim Manners",
+      "raw_score": 2.38,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "Cybernetics, Robots, Crime, Survival",
+      "image_filename": "K-9000_1991.jpg",
+      "pitch": "A scientist implants a computer in a German Shepherd's brain to create a cybernetic crime-fighting dog. When crooks steal the enhanced canine, she teams up with a detective who has a microchip enabling him to communicate with the dog.",
+      "created_at": "2026-06-16 02:05:35",
+      "watch_url": null
     },
     {
       "title": "K-PAX",
@@ -11438,6 +11486,22 @@
       "image_filename": "orbits_2013.jpg",
       "pitch": "A love story unfolds across two planets at war. Orbits follows two beings separated by cosmic conflict, their connection stretching across the void of space. A meditation on love and distance.",
       "created_at": "2026-06-15 12:41:24",
+      "watch_url": null
+    },
+    {
+      "title": "Orion's Key",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Mark Roper",
+      "raw_score": 1.71,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "Aliens, Survival, Archaeology",
+      "image_filename": "Orions_Key_1996.jpg",
+      "pitch": "Two archaeologists in Africa uncover an ancient alien artifact, awakening a powerful guardian that hunts them down while their greedy employer sends mercenaries to recover the prize. A decent direct-to-video action film.",
+      "created_at": "2026-06-16 02:04:47",
       "watch_url": null
     },
     {
@@ -18705,6 +18769,22 @@
       "watch_url": "https://archive.org/details/TheLastManOnEarth1964_201808"
     },
     {
+      "title": "The Last Man on Planet Earth",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Les Landau",
+      "raw_score": 1.86,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Dystopian",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Cloning, Gender, Survival, Rebellion",
+      "image_filename": "The_Last_Man_on_Planet_Earth_1999.jpg",
+      "pitch": "After a biological weapon kills 97% of Earth's men, women outlaw males and turn to cloning for reproduction. A scientist creates Adam, a genetically engineered man designed without violent tendencies, and must protect him from an FBI agent.",
+      "created_at": "2026-06-16 02:05:06",
+      "watch_url": null
+    },
+    {
       "title": "The Last Mimzy",
       "year": 2007,
       "medium": "Film",
@@ -24273,5 +24353,5 @@
       "watch_url": null
     }
   ],
-  "count": 1517
+  "count": 1522
 }
