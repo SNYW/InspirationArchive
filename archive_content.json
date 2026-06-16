@@ -6715,6 +6715,24 @@
       "watch_url": null
     },
     {
+      "title": "Fissures",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Martin Gero",
+      "raw_score": 2.78,
+      "total_ratings": 17,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, Time Travel",
+      "image_filename": "Fissures_2007.jpg",
+      "pitch": "A sound engineer returns to her murdered mother's rural home and discovers she can hear past events through old recordings\u2014leading to a supernatural investigation into her mother's death in this French psychological thriller.",
+      "truth": "Charlotte, a sound engineer, returns to her mother's country home after the murder. Frustrated by slow police progress, she begins her own investigation and discovers she can hear past sounds through her headphones when listening to recordings. Using this ability, she investigates the murder and uncovers dark secrets about her mother's past.",
+      "core": "French psychological thriller exploring memory and time through sound. Uses audio as metaphor for how we access and misinterpret the past. Original title \u00c9coute le temps translates to Listen to Time.",
+      "created_at": "2026-06-16 07:25:24",
+      "watch_url": null
+    },
+    {
       "title": "Fist of the North Star",
       "year": 1984,
       "medium": "Anime",
@@ -10960,6 +10978,42 @@
       "truth": "The film opens with a stark prologue establishing that this is \"a long time ago, in a future that never happened\" \u2014 a world where the balance of society has already tipped toward chaos. We meet Max (Mel Gibson in his breakthrough role), a competent but emotionally withdrawn policeman who patrols the highways of Australia's outback in a V8 Interceptor. His wife Jessie (Joanne Samuel) and their infant son live in a remote compound with other survivors of the collapse, including the aging Senior Frightened (Roger Ward) and the idealistic Goose (Steve Bisley).\n\nThe threat arrives in the form of the Toecutter's Marauders \u2014 a roving gang of leather-clad, gasoline-guzzling bandits led by the gangly, mad-eyed Toecutter (Hugh Keays-Byrne) and his psychotic right-hand Bubba. These aren't the romanticized rebels of later action films; they're barely human predators who kill indiscriminately, rape, and roam the wasteland like locusts. After a particularly brutal encounter where Goose is horrifically burned and left for dead, Max decides to quit the force and retreat to a quieter life with his family.\n\nBut there's no sanctuary in this dying world. The Marauders track down Max's family, and in a heartbreaking sequence, they terrorize and murder Jessie and her sister (the latter off-screen, implied), leaving Max to discover his wife's brutalized corpse. With nothing left to lose, Max straps on his leather, takes up his shotgun and interceptor, and embarks on a path of vengeance. The final act sees him systematically dismantle the gang in a series of highway confrontations, culminating in a high-speed pursuit that leaves the Toecutter's remaining forces destroyed \u2014 though Max himself is last seen driving alone into the wasteland, having become as feral as the monsters he hunted.",
       "core": "Mad Max is fundamentally about the fragility of civilization \u2014 how quickly the veneer of society can peel away when resources become scarce and institutions fail. Miller, who worked as an emergency room doctor before filmmaking, brings a disturbing medical precision to his depiction of violence, showing its chaotic, visceral consequences rather than glamorizing it. The film's bleak worldview \u2014 where even the \"good guys\" are compromised and traumatized \u2014 laid groundwork for an entire subgenre of morally ambiguous action cinema.\n\nYet what elevates Mad Max beyond simple exploitation is its artistic ambition. The film is essentially a Western set in a post-apocalyptic wasteland, with Max as the reluctant lawman who only becomes a gunfighter after tragedy forces his hand. The stark, sunbaked Australian landscapes become a character in themselves \u2014 an indifferent, punishing environment where humanity is an aberration. Brian May's pulsing, synth-driven score adds to the dreamlike atmosphere, making even the quieter moments feel charged with dread.\n\nThe film also launched the career of Mel Gibson, who brings unexpected depth to Max \u2014 a man who has already lost too much before the film begins, whose emotional withdrawal is a defense mechanism against a world that has already taken everything from him. His transformation from reluctant peacekeeper to vengeful survivor set the template for countless action anti-heroes that followed.\n\nMad Max may have been made on a micro-budget and was initially dismissed by some critics as exploitative schlock, but its influence on global cinema is undeniable. It essentially created the modern post-apocalyptic action genre, proving that audiences worldwide would embrace dystopian visions from unexpected sources. The film spawned a franchise that has now produced five major entries, but the original remains a singular achievement \u2014 a lean, mean vision of societal collapse that never loses its visceral punch.",
       "created_at": "2026-03-06 18:45:18",
+      "watch_url": null
+    },
+    {
+      "title": "Maddigan's Quest",
+      "year": 2006,
+      "medium": "TV Series",
+      "creator": "Margaret Mahy, Rachel Lang, Gavin Strawhan",
+      "raw_score": 3.5,
+      "total_ratings": 11,
+      "origin": "New-Zealand",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Science-Fantasy",
+      "topics": "Time Travel, Survival, Family, Circus",
+      "image_filename": "Maddigans_Quest_2006.jpg",
+      "pitch": "In post-apocalyptic 22nd century New Zealand, the circus troupe Maddigan's Fantasia travels from the city of Solis seeking a new solar converter. When leader Ferdy is killed, his daughter Garland inherits the quest, joined by two mysterious children from the future.",
+      "truth": "The Great Shift reshaped Earth, ending tech civilization. The circus operates from Solis, one of the last free cities. After Ferdy is killed, his daughter Garland must reach Newton for a new solar converter. Two boys from a future where Solis fell to the Nennog join the circus to change history.",
+      "core": "New Zealand sci-fi exploring time manipulation and redemption. Circus as metaphor for hope in desperate times. Won 2007 SFFANZ Best Dramatic Presentation award.",
+      "created_at": "2026-06-16 07:25:14",
+      "watch_url": null
+    },
+    {
+      "title": "Magic Mobile Phone",
+      "year": 2008,
+      "medium": "TV Series",
+      "creator": "Zhang Haidong",
+      "raw_score": 3.9,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Tense",
+      "sub_genres": "Time Travel, Science-Fantasy",
+      "topics": "Time Travel, Aliens, Technology",
+      "image_filename": "Magic_Mobile_Phone_2008.jpg",
+      "pitch": "A time-traveling smartphone from 2060 arrives in 2006 China, accidentally bringing Journey to the West characters from ancient times. A swordsman must become a superhero to save Earth from destruction in this Chinese sci-fi adventure.",
+      "truth": "A mysterious ultra-tech mobile phone from 2060 appears in 2006, creating a time blip that brings characters from Journey to the West\u2014Sun Wukong and others\u2014to modern China. The phone contains alien technology. The swordsman protagonist must use the phone's powers to fight alien threats attempting to destroy Earth.",
+      "core": "Chinese sci-fi that blends mythology with future tech. Explores cultural identity through bringing ancient characters to modern context. Popular in China with high viewership despite low Western visibility.",
+      "created_at": "2026-06-16 07:25:19",
       "watch_url": null
     },
     {
@@ -27973,5 +28027,5 @@
       "watch_url": null
     }
   ],
-  "count": 1554
+  "count": 1557
 }

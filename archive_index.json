@@ -5969,6 +5969,22 @@
       "watch_url": null
     },
     {
+      "title": "Fissures",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Martin Gero",
+      "raw_score": 2.78,
+      "total_ratings": 17,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, Time Travel",
+      "image_filename": "Fissures_2007.jpg",
+      "pitch": "A sound engineer returns to her murdered mother's rural home and discovers she can hear past events through old recordings\u2014leading to a supernatural investigation into her mother's death in this French psychological thriller.",
+      "created_at": "2026-06-16 07:25:24",
+      "watch_url": null
+    },
+    {
       "title": "Fist of the North Star",
       "year": 1984,
       "medium": "Anime",
@@ -9742,6 +9758,38 @@
       "image_filename": "Mad_Max_1979.jpg",
       "pitch": "Mad Max is a landmark 1979 Australian dystopian action film that launched one of cinema's most iconic franchises. Set in a near-future Australia where society is collapsing due to resource depletion and civil unrest, the film follows Max Rockatansky, a weary Main Force Patrol officer who attempts to protect his family and community from the ramping savagery of a vicious biker gang known as the Toecutter's Marauders. Director George Miller, working with a shoestring budget of just $350,000, created a visceral vision of societal breakdown that proved wildly influential, becoming one of the most profitable independent films ever made and establishing the post-apocalyptic action genre that would dominate cinema for decades.",
       "created_at": "2026-03-06 18:45:18",
+      "watch_url": null
+    },
+    {
+      "title": "Maddigan's Quest",
+      "year": 2006,
+      "medium": "TV Series",
+      "creator": "Margaret Mahy, Rachel Lang, Gavin Strawhan",
+      "raw_score": 3.5,
+      "total_ratings": 11,
+      "origin": "New-Zealand",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Science-Fantasy",
+      "topics": "Time Travel, Survival, Family, Circus",
+      "image_filename": "Maddigans_Quest_2006.jpg",
+      "pitch": "In post-apocalyptic 22nd century New Zealand, the circus troupe Maddigan's Fantasia travels from the city of Solis seeking a new solar converter. When leader Ferdy is killed, his daughter Garland inherits the quest, joined by two mysterious children from the future.",
+      "created_at": "2026-06-16 07:25:14",
+      "watch_url": null
+    },
+    {
+      "title": "Magic Mobile Phone",
+      "year": 2008,
+      "medium": "TV Series",
+      "creator": "Zhang Haidong",
+      "raw_score": 3.9,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Tense",
+      "sub_genres": "Time Travel, Science-Fantasy",
+      "topics": "Time Travel, Aliens, Technology",
+      "image_filename": "Magic_Mobile_Phone_2008.jpg",
+      "pitch": "A time-traveling smartphone from 2060 arrives in 2006 China, accidentally bringing Journey to the West characters from ancient times. A swordsman must become a superhero to save Earth from destruction in this Chinese sci-fi adventure.",
+      "created_at": "2026-06-16 07:25:19",
       "watch_url": null
     },
     {
@@ -24865,5 +24913,5 @@
       "watch_url": null
     }
   ],
-  "count": 1554
+  "count": 1557
 }
