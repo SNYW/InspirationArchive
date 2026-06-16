@@ -2225,6 +2225,22 @@
       "watch_url": null
     },
     {
+      "title": "Baoh: The Visitor",
+      "year": 1989,
+      "medium": "OVA",
+      "creator": "Hirohiko Araki",
+      "raw_score": 3.02,
+      "total_ratings": 45,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Cyberpunk",
+      "topics": "Cybernetics, Rebellion, Transhumanism",
+      "image_filename": "Baoh_The_Visitor_1989.jpg",
+      "pitch": "Araki's debut before JoJo. Ikuro is kidnapped and transformed into Baoh, a living bioweapon with a parasite in his brain. He can sprout blades, generate electricity, heal instantly. He escapes with a psychic girl. Doress will send everything to get them back.",
+      "created_at": "2026-06-16 06:09:47",
+      "watch_url": null
+    },
+    {
       "title": "Barbarella",
       "year": 1968,
       "medium": "Film",
@@ -12561,6 +12577,22 @@
       "watch_url": null
     },
     {
+      "title": "Project A-Ko",
+      "year": 1986,
+      "medium": "Anime Film",
+      "creator": "Katsuhiko Nishijima",
+      "raw_score": 3.35,
+      "total_ratings": 46,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, Friendship, Identity",
+      "image_filename": "Project_A-Ko_1986.jpg",
+      "pitch": "A-ko has superhuman strength but just wants to get to school on time. When her friend C-ko gets kidnapped by aliens who think she's their lost princess, A-ko must team up with her rival B-ko to save her. Packed with parodies of 80s anime.",
+      "created_at": "2026-06-16 06:10:00",
+      "watch_url": null
+    },
+    {
       "title": "Promare",
       "year": 2019,
       "medium": "Anime Film",
@@ -15998,6 +16030,22 @@
       "image_filename": "The_Adaptive_Ultimate_1935.jpg",
       "pitch": "When Dr. Daniel Scott develops an \"adaptive serum\" that allows the human body to recover from any injury or illness by rapidly adapting, he tests it on Kyra Zelas\u2014a dying patient with nothing to lose. She recovers stunningly, but soon her adaptation becomes too powerful: she begins physically transforming to become more beautiful, more manipulative, more powerful. What starts as a miracle cure becomes a terrifying evolution as Kyra adapts to everything\u2014including the minds of the men around her. This 1935 classic explores the horror of unchecked transformation and the question of whether humanity can survive its own potential.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "The Adventure of Denchu-Kozo",
+      "year": 1987,
+      "medium": "Anime Film",
+      "creator": "Katsuhito Akiyama",
+      "raw_score": 3.25,
+      "total_ratings": 51,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Cyberpunk",
+      "topics": "Cybernetics, Aliens, Rebellion",
+      "image_filename": "The_Adventure_of_Denchu-Kozo_1987.jpg",
+      "pitch": "A teenager discovers an electric pylon growing out of his back. He's soon forced to battle cyborg vampires over the future of humanity. Dark 80s anime with body horror elements.",
+      "created_at": "2026-06-16 06:10:15",
       "watch_url": null
     },
     {
@@ -24673,5 +24721,5 @@
       "watch_url": null
     }
   ],
-  "count": 1542
+  "count": 1545
 }
