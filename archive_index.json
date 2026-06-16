@@ -3601,6 +3601,22 @@
       "watch_url": "https://archive.org/details/contact-navigation"
     },
     {
+      "title": "Contagion",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Steven Soderbergh",
+      "raw_score": 3.32,
+      "total_ratings": 6552,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Pandemic, Survival, Science",
+      "image_filename": "Contagion_2011.jpg",
+      "pitch": "A deadly virus spreads from Hong Kong across the globe, killing millions in days. As panic spreads faster than the disease itself, scientists race to identify it and create a vaccine before society collapses.",
+      "created_at": "2026-06-16 00:45:20",
+      "watch_url": null
+    },
+    {
       "title": "Contamination",
       "year": 1980,
       "medium": "Film",
@@ -5871,6 +5887,22 @@
       "pitch": "Forbidden Planet is a landmark 1956 American science-fiction film that pioneered several aspects of the genre. It was the first sci-fi film to depict humans traveling in a human-made, faster-than-light starship, and the first to be set entirely on a planet orbiting another star. The film features the iconic Robby the Robot, one of the first film robots with a distinct personality. Set in the 23rd century, the story follows the United Planets starship C-57D as it arrives at Altair IV to investigate the fate of the Bellerophon, an expedition sent 20 years earlier. What they find is Dr. Edward Morbius and his daughter Altaira, the sole survivors of a expedition wiped out by an invisible planetary force.",
       "created_at": "2026-03-03 23:34:47",
       "watch_url": "https://archive.org/details/forbidden-planet_202111"
+    },
+    {
+      "title": "Foreboding",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Kiyoshi Kurosawa",
+      "raw_score": 2.85,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Invasion, Identity",
+      "image_filename": "Foreboding_2017.jpg",
+      "pitch": "A clinical engineer discovers his new colleague is an alien collecting human concepts. As the alien invasion progresses, his wife notices she's immune and tries to save him.",
+      "created_at": "2026-06-16 00:45:25",
+      "watch_url": null
     },
     {
       "title": "Found in Time",
@@ -23537,6 +23569,22 @@
       "watch_url": "https://archive.org/details/1940-weltraumschiff-1-startet"
     },
     {
+      "title": "What Happened to Monday",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Tommy Wirkola",
+      "raw_score": 3.57,
+      "total_ratings": 6445,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Dystopia, Population Control, Survival",
+      "image_filename": "What_Happened_to_Monday_2017.jpg",
+      "pitch": "In a 2073 dystopia with strict one-child policies, seven identical sisters share one identity. Each goes outside only on her designated day. When Monday disappears, the others must survive exposure and elimination.",
+      "created_at": "2026-06-16 00:45:09",
+      "watch_url": null
+    },
+    {
       "title": "What Waits Below",
       "year": 1984,
       "medium": "Film",
@@ -24161,5 +24209,5 @@
       "watch_url": null
     }
   ],
-  "count": 1510
+  "count": 1513
 }
