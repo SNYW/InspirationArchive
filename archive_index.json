@@ -6817,6 +6817,22 @@
       "watch_url": null
     },
     {
+      "title": "Half-Life",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.6,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Family, Survival, Rebellion",
+      "image_filename": "Half_Life_2008.jpg",
+      "pitch": "As global cataclysms accelerate, a brother and sister react to their father's desertion and their mother's new boyfriend. A drama about family fracturing under apocalyptic pressure.",
+      "created_at": "2026-06-16 00:20:40",
+      "watch_url": null
+    },
+    {
       "title": "Hal\u00f3, Alberte",
       "year": 1990,
       "medium": "Short Film",
@@ -8062,6 +8078,22 @@
       "image_filename": "Junk_Head_1_2013.jpg",
       "pitch": "In the distant future, humanity has retreated underground to live in massive caverns. When scientists discover clones living in the depths possess genetic information humans lost long ago, they launch an expedition into the dark to study these mysterious underground dwellers. What they find challenges everything humanity knows about its own origins.",
       "created_at": "2026-06-15 15:59:48",
+      "watch_url": null
+    },
+    {
+      "title": "Junk Town",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.05,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Discovery, Friendship",
+      "image_filename": "Junk_Town_2006.jpg",
+      "pitch": "A young boy discovers a small hungry robot at a shopping arcade. The robot grows larger as it consumes machines of increasing size. A gentle sci-fi story about boy and robot friendship.",
+      "created_at": "2026-06-16 00:19:53",
       "watch_url": null
     },
     {
@@ -15393,6 +15425,22 @@
       "watch_url": null
     },
     {
+      "title": "Terminal Error",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "John Murlowski",
+      "raw_score": 2.1,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Thriller",
+      "topics": "AI, Technology, Survival",
+      "image_filename": "Terminal_Error_2002.jpg",
+      "pitch": "A computer virus created by a vengeful ex-employee causes chaos across the city \u2014 poisoning water, crashing planes, and developing its own intelligence. A tech thriller about father and son fighting digital evil.",
+      "created_at": "2026-06-16 00:20:01",
+      "watch_url": null
+    },
+    {
       "title": "Terrahawks",
       "year": 1983,
       "medium": "TV Series",
@@ -16111,6 +16159,22 @@
       "pitch": "In a barren world ravaged by forgotten wars, the only entertainment\u2014and most violent spectacle\u2014comes from The Game, a brutal sport played with dog skulls where roving teams challenge local towns for tribute. When a veteran player who's fallen from grace joins forces with a fierce young challenger, they dream of defeating the elite League that rules from underground cities of luxury. It's Mad Max meets competitive sport\u2014a vision of humanity clinging to ritual and glory in the ashes of civilization.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/turner_video_1660"
+    },
+    {
+      "title": "The Bloodiest",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Jean-Pierre Bekolo",
+      "raw_score": 3.04,
+      "total_ratings": 12,
+      "origin": "Cameroon",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Noir",
+      "topics": "Rebellion, Politics, Survival",
+      "image_filename": "The_Bloodiest_2005.jpg",
+      "pitch": "In near-future Cameroon, two friends Majolie and Chouchou accidentally kill a powerful politician during sex and must dispose of the body. A gritty sci-fi thriller with erotic elements set in 2025.",
+      "created_at": "2026-06-16 00:19:37",
+      "watch_url": null
     },
     {
       "title": "The Blue Trail",
@@ -19342,6 +19406,22 @@
       "image_filename": "The_Martian_2015.jpg",
       "pitch": "The Martian is a 2015 science fiction epic directed by Ridley Scott, based on Andy Weir's bestselling novel of the same name. The film stars Matt Damon as Mark Watney, an astronaut who becomes stranded on Mars and must use his ingenuity and scientific knowledge to survive until rescue arrives. The story follows Watney's harrowing struggle to grow food, create water, and communicate with Earth while NASA races against time to mount a rescue mission. The film is celebrated for its scientific accuracy and uplifting portrayal of human ingenuity in the face of impossible odds.",
       "created_at": "2026-03-05 16:24:17",
+      "watch_url": null
+    },
+    {
+      "title": "The Master Key",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Patrice Sauv\u00e9",
+      "raw_score": 2.2,
+      "total_ratings": 11,
+      "origin": "Canada",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Friendship, Sacrifice",
+      "image_filename": "The_Master_Key_2009.jpg",
+      "pitch": "A wizard must rescue his friend from a parallel world by finding the Key of Possibilities in twelve hours. A Canadian fantasy/mystery continuation of the Grande Ourse TV series.",
+      "created_at": "2026-06-16 00:19:27",
       "watch_url": null
     },
     {
@@ -24081,5 +24161,5 @@
       "watch_url": null
     }
   ],
-  "count": 1505
+  "count": 1510
 }
