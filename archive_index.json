@@ -14977,6 +14977,22 @@
       "watch_url": null
     },
     {
+      "title": "Solty Rei",
+      "year": 2005,
+      "medium": "Anime",
+      "creator": "Yoshihiro",
+      "raw_score": 3.25,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Cybernetics, Survival, Identity",
+      "image_filename": "solty_rei_2005.jpg",
+      "pitch": "A 2005 anime set twelve years after the Blast Fall, an unexplained disaster that left countless dead and many maimed. Society is divided, and the Resembles\u2014people rebuilt with high-tech prosthetic devices\u2014struggle to find their place.",
+      "created_at": "2026-06-16 14:36:52",
+      "watch_url": null
+    },
+    {
       "title": "Solum",
       "year": 2019,
       "medium": "Film",
@@ -23329,6 +23345,22 @@
       "watch_url": "https://archive.org/details/the-x-from-outer-space"
     },
     {
+      "title": "The X's",
+      "year": 2005,
+      "medium": "TV Series",
+      "creator": "ABC",
+      "raw_score": 3.21,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Espionage, Family, Comedy",
+      "image_filename": "the_xs_2005.jpg",
+      "pitch": "An animated American series about the X's, a family of highly trained secret agents who happen to be terrible at normal family life. They save the world from supervillains but cannot figure out how to have a normal dinner conversation.",
+      "created_at": "2026-06-16 14:36:37",
+      "watch_url": null
+    },
+    {
       "title": "The Year of the Quiet Sun",
       "year": 1970,
       "medium": "Novel",
@@ -25617,5 +25649,5 @@
       "watch_url": null
     }
   ],
-  "count": 1601
+  "count": 1603
 }
