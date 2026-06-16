@@ -5689,6 +5689,24 @@
       "watch_url": null
     },
     {
+      "title": "D\u00e9dalo",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "D\u00e9dalo",
+      "raw_score": 3.25,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Survival, Isolation, Space",
+      "image_filename": "Dedalo_2013.jpg",
+      "pitch": "Trapped inside the space freighter/refinery D\u00e9dalo, Siena must survive an infestation of diabolic creatures. A claustrophobic sci-fi horror about human endurance against incomprehensible threats in the void of space.",
+      "truth": "Siena finds herself trapped aboard the space freighter D\u00e9dalo when it becomes infested with diabolic creatures. She must use her wits and courage to survive the ordeal and escape the ship.",
+      "core": "A compact horror that uses the isolation of space to create intense claustrophobia. The film explores human resilience when confronted with incomprehensible threats in the void.",
+      "created_at": "2026-06-16 02:51:34",
+      "watch_url": null
+    },
+    {
       "title": "D\u00fcnyay\u0131 Kurtaran Adam",
       "year": 1982,
       "medium": "Film",
@@ -15515,6 +15533,24 @@
       "core": "**Totalitarianism and Control:** The film is a pointed satire on totalitarian systems, drawing parallels to the communist regime of Poland. The League of Women operates through manipulation, propaganda, and control - much like the communist government the film was created under. The exaggerated \"radiation\" keeping people underground mirrors state propaganda about the dangerous outside world. The secret meeting of Women's League apparatchiks and their lies to the women directly parallels the communist government of Poland.\n\n**Gender and Power:** The film explores gender through an inverted lens - what happens when one gender holds total power over another? The film can be read as a critique of patriarchy by showing its mirror image, but also as a warning about any system that Concentrates power in one group. The \"naturalization\" process (forced sex reassignment) represents the ultimate erasure of identity.\n\n**Propaganda and Reality:** The painted landscape representing the \"radioactive outside\" symbolizes how regimes construct false realities to maintain control. The heroes' discovery that the world outside is actually beautiful and habitable mirrors the fall of communism and the revelation that Western countries were not the hellscapes propaganda made them out to be.\n\n**Consumerism and Conformity:** The League controls through both restriction and manufactured consent. The medication removing sexual desire represents pharmaceutical control, while the artificial apple tree represents manufactured scarcity. The film critiques how totalitarian systems maintain power through both prohibition and manipulation.\n\n**Historical Revisionism:** The scene where women claim historical figures like Copernicus and Einstein were women is a satirical jab at how regimes rewrite history to serve their narrative. This extends to the broader theme of how those in power control the past to control the present.\n\nSexmission remains a fascinating artifact of Polish cinema - a film that used science fiction and comedy to deliver pointed political satire that resonated with audiences living under communism while remaining entertaining decades later.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/SEXMISSION"
+    },
+    {
+      "title": "Shadow Star Narutaru",
+      "year": 2003,
+      "medium": "Anime",
+      "creator": "Mohiro Kitohi",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Isolation, Evolution",
+      "image_filename": null,
+      "pitch": "Twelve-year-old Shiina Tamai finds a mysterious starfish-like creature on the beach \u2014 a baby \\\"dragonchild\\\" of legend. She names it Hoshimaru, and an instant bond forms. But other children across Japan are also discovering dragonchildren, each chosen for unknown reasons. A haunting meditation on childhood colliding with the incomprehensible.",
+      "truth": "Shiina becomes bonded to Hoshimaru, learning that dragonchildren choose their partners for hidden reasons. Other children across Japan have also found dragonchildren, each with different temperaments. Some bonds are loving; others take darker turns as the creatures' true nature emerges. They are sentient beings connected to an ancient power.",
+      "core": "A meditation on innocence and unexpected responsibility. Through the dragonchild metaphor, Kitohi explores childhood as a threshold between the known world and something vast. The anime sits in discomfort, letting questions remain unanswered \u2014 notable for ambiguity and haunting beauty.",
+      "created_at": "2026-06-16 02:50:11",
+      "watch_url": null
     },
     {
       "title": "Shadow of the Comet",
@@ -27487,5 +27523,5 @@
       "watch_url": null
     }
   ],
-  "count": 1527
+  "count": 1529
 }
