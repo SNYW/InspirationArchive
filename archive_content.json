@@ -379,6 +379,24 @@
       "watch_url": null
     },
     {
+      "title": "9",
+      "year": 2009,
+      "medium": "Animated Film",
+      "creator": "Shane Acker",
+      "raw_score": 3.48,
+      "total_ratings": 3897,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Post-Apocalypse, Horror",
+      "topics": "Sentience, Survival, Hope, Machines",
+      "image_filename": "9_2009.jpg",
+      "pitch": "In a post-apocalyptic alternate 1940s, tiny rag dolls stitched from burlap fight for survival against killer machines. When 9 awakens, he must rally his fragile numbered comrades against the steel beasts that wiped out humanity. A haunting animated vision of rebirth and resilience.",
+      "truth": "In an alternate 1940s, a scientist stitches nine rag dolls and imbues them with soul-shards from his own life. The machines rise and destroy humanity. 9 awakens later and finds the other stitchlings\u2014each with a different personality. Together they must defeat the leader machine and its mechanical army, sacrificing themselves to give humanity a second chance.",
+      "core": "9 explores themes of creation, mortality, and the spark of soul. The film asks what makes us human\u2014is it memory, emotion, or the will to sacrifice for others? It's a meditation on legacy and the fragile hope that persists after destruction.",
+      "created_at": "2026-06-16 13:14:48",
+      "watch_url": null
+    },
+    {
       "title": "964 Pinocchio",
       "year": 1991,
       "medium": "Film",
@@ -8965,6 +8983,24 @@
       "watch_url": null
     },
     {
+      "title": "Idiocracy",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Mike Judge",
+      "raw_score": 3.19,
+      "total_ratings": 3571,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Satire, Society, Anti-Intellectualism",
+      "image_filename": "Idiocracy_2006.jpg",
+      "pitch": "In a near-future America, the average citizen has become below average. When a pair of military test subjects are put into hibernation, they wake up 500 years later to find that stupidity has become the norm. The smartest man alive is now the world's only hope.",
+      "truth": "Joe Bauers (Luke Wilson), a deeply average U.S. Army librarian, is selected for a government hibernation experiment. Accidentally paired with prostitute Rita (Maya Rudolph), they awake in 2505 to find humanity has devolved into an anti-intellectual paradise. The President is a former wrestler, McDonald's is a drug brand. Joe is recruited to fix the world's problems.",
+      "core": "A savage satire on anti-intellectualism, arguing society paradoxically selects against intelligence through reproductive patterns. Judge targets education, politics, and corporate culture.",
+      "created_at": "2026-06-16 13:14:28",
+      "watch_url": null
+    },
+    {
       "title": "Ikarie XB-1",
       "year": 1963,
       "medium": "Film",
@@ -16181,6 +16217,24 @@
       "core": "**Social Commentary on Marginalization:** The film sharply critiques the treatment of society's most vulnerable\u2014the homeless, sex workers, and the poor\u2014as disposable. The opening sequence explicitly contrasts the plight of the homeless man with the indifference of authorities, and Hye-sun's backstory as a runaway prostitute foregrounds how society fails those at the margins. The zombie outbreak serves as an allegory for how epidemics expose and amplify existing inequalities.\n\n**Critique of Authority:** Yeon Sang-ho delivers pointed criticism of institutional failures. The police and military response to the outbreak\u2014treating it as a civil insurrection rather than a health crisis\u2014mirrors real-world mismanagement of emergencies. This theme was even more pronounced in the original theatrical cut, which featured even more explicit political commentary (later softened for international release).\n\n**Animation as Vehicle for Horror:** By choosing animation, Yeon Sang-ho could depict extreme gore and violence without the constraints of practical effects or rating concerns. The film pushed boundaries for animated horror, proving that animation could serve adult horror narratives just as effectively as live-action\u2014paving the way for subsequent animated horror projects.\n\n**Connection to Train to Busan:** While Train to Busan focused on hope, sacrifice, and human connection during crisis, Seoul Station offers a bleaker counterpoint. Where the former follows decent people trying to protect each other, the latter emphasizes betrayal, exploitation, and the failure of systems meant to protect citizens. The two films together form a complete picture of how society collapses and who survives.",
       "created_at": "2026-03-03 10:16:12",
       "watch_url": "https://archive.org/details/turner_video_111637"
+    },
+    {
+      "title": "Serenity",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Joss Whedon",
+      "raw_score": 3.68,
+      "total_ratings": 3878,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space, Rebellion, Conspiracy, Humanity",
+      "image_filename": "Serenity_2005.jpg",
+      "pitch": "In 2517, the crew of the firefly-class spaceship Serenity take on one last job\u2014to deliver a telepathic fugitive to the Alliance. But the truth she carries could rewrite history and ignite a war they can't win. Joss Whedon's continuation of the Firefly series delivers explosive action and emotional depth.",
+      "truth": "Captain Malcolm Reynolds and his crew take on passengers: a mysterious woman named River and her brother Simon. The Alliance will do anything to stop River, whose mind holds secrets that could expose their crimes. A lethal assassin is sent to silence her. The crew must fight for survival while uncovering a massive conspiracy tied to the Alliance's dark past.",
+      "core": "Explores free will versus authoritarian control. River's telepathic visions reveal the Alliance's oppressive nature. Whedon uses the space Western framework to examine resistance against systemic evil.",
+      "created_at": "2026-06-16 13:14:41",
+      "watch_url": null
     },
     {
       "title": "Serial Experiments Lain",
@@ -28675,5 +28729,5 @@
       "watch_url": null
     }
   ],
-  "count": 1593
+  "count": 1596
 }
