@@ -6081,6 +6081,22 @@
       "watch_url": "https://archive.org/details/FriendWithoutAFace104"
     },
     {
+      "title": "Figure 17: Tsubasa & Hikaru",
+      "year": 2001,
+      "medium": "Anime",
+      "creator": "Naohito Takahashi",
+      "raw_score": 3.25,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Isolation, Family",
+      "image_filename": "Figure_17_Tsubasa_Hikaru_2001.jpg",
+      "pitch": "A shy girl witnesses a UFO crash and is fused with alien tech, creating Hikaru \u2014 a clone of herself. Together they become Figure 17, battling monsters across Hokkaido. This 2001-2002 anime is one of the last cel-animated series ever made.",
+      "created_at": "2026-06-16 19:05:10",
+      "watch_url": null
+    },
+    {
       "title": "Filibus",
       "year": 1915,
       "medium": "Film",
@@ -8081,6 +8097,22 @@
       "watch_url": "https://archive.org/details/idiocracy_202509"
     },
     {
+      "title": "Idolmaster: Xenoglossia",
+      "year": 2007,
+      "medium": "Anime",
+      "creator": "Tatsuyuki Nagai",
+      "raw_score": 2.8,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Mecha, Military",
+      "topics": "AI, Space Travel, Aliens",
+      "image_filename": "Idolmaster_Xenoglossia_2007.jpg",
+      "pitch": "In an alternate history where the Moon was destroyed 107 years ago, Japan uses giant mecha called IDOLs to fight falling moon fragments. Young women become pilots called Idolmasters, including aspiring singer Haruka Amami, who discovers her agency is actually a front for a military task force.",
+      "created_at": "2026-06-16 19:05:35",
+      "watch_url": null
+    },
+    {
       "title": "Ikarie XB-1",
       "year": 1963,
       "medium": "Film",
@@ -8574,6 +8606,22 @@
       "image_filename": "Jaithra_Yaathra_1987.jpg",
       "pitch": "Jaithra Yaathra (Journey of the Phantom) is a 1987 Malayalam science fiction film that tells the story of Raghunathan, an ordinary man whose life changes when a lightning strike grants him the ability to become invisible at will. Originally a humble worker, Raghunathan discovers his new power after being struck by lightning during a freak accident at a scientific facility. Using his newfound ability to turn invisible, he takes on the criminals and corrupt officials who have oppressed his village, becoming a phantom-like protector. However, as his double life continues, he must grapple with the moral implications of his powers and the consequences of living between visibility and invisibility.",
       "created_at": "2026-03-07 00:26:19",
+      "watch_url": null
+    },
+    {
+      "title": "Jane and the Dragon",
+      "year": 2006,
+      "medium": "Anime",
+      "creator": "Masayuki Sakoi",
+      "raw_score": 2.86,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Family, Friendship, Adventure",
+      "image_filename": "Jane_and_the_Dragon_2006.jpg",
+      "pitch": "A young girl in a medieval kingdom defies expectations to become a knight instead of a lady-in-waiting. With her dragon friend, she embarks on adventures rescuing the prince and proving that courage and kindness matter more than social status.",
+      "created_at": "2026-06-16 19:05:25",
       "watch_url": null
     },
     {
@@ -10158,6 +10206,22 @@
       "image_filename": "MW_2009.jpg",
       "pitch": "Live-action adaptation of Tezuka's final manga. When a secret chemical weapon leaks on a US base near Okinawa, the military kills witnesses to cover it up. Only Michio\u2014poisoned by the gas\u2014and a priest survive. Decades later, Michio becomes a banker with a deadly plan.",
       "created_at": "2026-06-15 17:39:27",
+      "watch_url": null
+    },
+    {
+      "title": "Maburaho",
+      "year": 2003,
+      "medium": "Anime",
+      "creator": "Shinichiro Kimura",
+      "raw_score": 2.58,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Memory, Family",
+      "image_filename": "Maburaho_2003.jpg",
+      "pitch": "At a magic school, Kazuki can only cast eight spells before turning to ash. Descended from great magicians, his offspring could be powerful. Three girls enter his life: one to marry him, one for his genes, one to kill him.",
+      "created_at": "2026-06-16 19:05:49",
       "watch_url": null
     },
     {
@@ -25537,6 +25601,22 @@
       "watch_url": "https://archive.org/details/wild-zero-spanish-sub"
     },
     {
+      "title": "Windy Tales",
+      "year": 2004,
+      "medium": "Anime",
+      "creator": "Junji Nishimura",
+      "raw_score": 3.58,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Exploration, Discovery",
+      "image_filename": "Windy_Tales_2004.jpg",
+      "pitch": "Students at a Japanese school discover they can see and control the wind after encountering mysterious flying cats on the roof. Nao falls off the building but is saved by an unseen force, revealing she has wind powers.",
+      "created_at": "2026-06-16 19:05:21",
+      "watch_url": null
+    },
+    {
       "title": "Wing Commander",
       "year": 1990,
       "medium": "Video Game",
@@ -26049,5 +26129,5 @@
       "watch_url": null
     }
   ],
-  "count": 1628
+  "count": 1633
 }
