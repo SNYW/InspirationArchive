@@ -7633,6 +7633,24 @@
       "watch_url": null
     },
     {
+      "title": "Gamera 2: Attack of Legion",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Shusuke Kaneko",
+      "raw_score": 3.73,
+      "total_ratings": 127,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Ecology, Survival",
+      "image_filename": "Gamera_2_Attack_of_Legion_1996.jpg",
+      "pitch": "One year after Gamera's battle with the Gyaos, a meteor crashes in Hokkaido, unleashing insect-like aliens called the Legion. These silicon-based creatures burrow underground, invading Japanese cities to build a launch pad for colonizing other worlds. When military forces fail, Gamera must face an alien invasion.",
+      "truth": "A meteor crashes in Hokkaido, unleashing Legion creatures that burrow underground and invade cities. Colonel Watarase discovers they are building a launch pad beneath Sapporo to colonize other planets. Gamera arrives but is forced to retreat. He destroys the first pod, is revived through Asagi's psychic connection, then draws on human hope and defeats the Legion Queen.",
+      "core": "Gamera 2 elevates the kaiju genre with genuine sci-fi concepts. The Legion are a fully realized alien species\u2014silicon-based, with their own drive to colonize. The film won the 1996 Nihon SF Taisho Award.",
+      "created_at": "2026-06-16 16:12:13",
+      "watch_url": null
+    },
+    {
       "title": "Gamera vs. Barugon",
       "year": 1966,
       "medium": "Film",
@@ -29035,5 +29053,5 @@
       "watch_url": null
     }
   ],
-  "count": 1613
+  "count": 1614
 }
