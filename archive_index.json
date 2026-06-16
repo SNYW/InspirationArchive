@@ -7153,6 +7153,22 @@
       "watch_url": null
     },
     {
+      "title": "Goliath Awaits",
+      "year": 1981,
+      "medium": "TV Series",
+      "creator": "Richard Bluel",
+      "raw_score": 3.47,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Isolation, Survival, Rebellion, Class Struggle",
+      "image_filename": "goliath_awaits_1981.jpg",
+      "pitch": "In 1939, the ocean liner Goliath is torpedoed, but 337 survivors live trapped in an air bubble inside the wreck for 42 years. When oceanographer Peter Cabot discovers them in 1981, he finds a rigid society ruled by the autocratic John McKenzie\u2014a man who saved them but now rules with absolute control. Some survivors want to return to the surface; others have forgotten any other world exists.",
+      "created_at": "2026-06-16 16:36:24",
+      "watch_url": null
+    },
+    {
       "title": "Goodbye, 20th Century!",
       "year": 1998,
       "medium": "Film",
@@ -24817,6 +24833,22 @@
       "watch_url": "https://archive.org/details/virtual-sexuality-1999"
     },
     {
+      "title": "Visionaries: Knights of the Magical Light",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "Flint Dille",
+      "raw_score": 3.52,
+      "total_ratings": 22,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Superhero",
+      "topics": "Magic, Technology, Good vs Evil, Power",
+      "image_filename": "visionaries_knights_1987.jpg",
+      "pitch": "On planet Prysmos, a solar alignment destroys all technology, forcing survivors to turn to magic. The wizard Merklynn invites knights to compete for magical powers, splitting them into heroic Spectral Knights and evil Darkling Lords. Those who survive his trials gain animal totems allowing transformation\u2014a 1987 Hasbro toy franchise turned ambitious animated series.",
+      "created_at": "2026-06-16 16:37:07",
+      "watch_url": null
+    },
+    {
       "title": "Visitors from the Arkana Galaxy",
       "year": 1981,
       "medium": "Film",
@@ -25825,5 +25857,5 @@
       "watch_url": null
     }
   ],
-  "count": 1614
+  "count": 1616
 }
