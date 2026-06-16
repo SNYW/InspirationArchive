@@ -1953,6 +1953,22 @@
       "watch_url": null
     },
     {
+      "title": "Aria the Avvenire",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 3.8,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Friendship, Memory, Discovery",
+      "image_filename": "Aria_the_Avvenire_2015.jpg",
+      "pitch": "Now a Prima Undine and head of Aria Company with her own apprentice, Akari Mizunashi reminisces about her time as a Single. New responsibilities bring new miracles in Neo-Venezia.",
+      "created_at": "2026-06-16 22:25:35",
+      "watch_url": null
+    },
+    {
       "title": "Armageddon",
       "year": 1997,
       "medium": "Film",
@@ -3070,6 +3086,22 @@
       "image_filename": "Break-Out_to_the_Unknown_2018.jpg",
       "pitch": "In near-future Europe, right-wing extremists have taken power across many nations. A lawyer who has defended dissidents must flee with his family when the regime targets him for imprisonment.",
       "created_at": "2026-06-15 15:10:00",
+      "watch_url": null
+    },
+    {
+      "title": "Breaker",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.85,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Cybernetics, Rebellion",
+      "image_filename": "Breaker_2017.jpg",
+      "pitch": "In tomorrow's Tokyo, a technologically-enhanced mercenary hacker's body is overrun by a sentient data weapon. The parasitic AI becomes her only ally as she's chased across the city by those seeking to salvage it.",
+      "created_at": "2026-06-16 22:24:49",
       "watch_url": null
     },
     {
@@ -22529,6 +22561,22 @@
       "watch_url": "https://archive.org/details/legend-of-the-roller-blade-seven-1"
     },
     {
+      "title": "The Russian Sleep Experiment",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.1,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Science, Horror",
+      "image_filename": "The_Russian_Sleep_Experiment_2015.jpg",
+      "pitch": "Soviet researchers during WWII test an experimental gas on political prisoners - meant to eliminate the need for sleep, but the results are horrifying. Based on the famous creepypasta, this is body horror at its most extreme.",
+      "created_at": "2026-06-16 22:24:32",
+      "watch_url": null
+    },
+    {
       "title": "The Saragossa Manuscript",
       "year": 1965,
       "medium": "Film",
@@ -26321,6 +26369,22 @@
       "watch_url": null
     },
     {
+      "title": "Yuri Lennon's Landing on Alpha 46",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.6,
+      "total_ratings": 10,
+      "origin": "Multinational",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, First Contact",
+      "image_filename": "Yuri_Lennons_Landing_on_Alpha_46_2010.jpg",
+      "pitch": "Cosmonaut Yuri Lennon's landing on Jupiter moon Alpha 64 confronts him with an extraordinary paradox - alien artifacts that seem to show his own future. A meditative indie sci-fi on isolation and the nature of reality.",
+      "created_at": "2026-06-16 22:24:24",
+      "watch_url": null
+    },
+    {
       "title": "Z.P.G.",
       "year": 1972,
       "medium": "Film",
@@ -26545,5 +26609,5 @@
       "watch_url": null
     }
   ],
-  "count": 1659
+  "count": 1663
 }

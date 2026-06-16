@@ -2197,6 +2197,24 @@
       "watch_url": null
     },
     {
+      "title": "Aria the Avvenire",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 3.8,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Friendship, Memory, Discovery",
+      "image_filename": "Aria_the_Avvenire_2015.jpg",
+      "pitch": "Now a Prima Undine and head of Aria Company with her own apprentice, Akari Mizunashi reminisces about her time as a Single. New responsibilities bring new miracles in Neo-Venezia.",
+      "truth": "Akari has grown from a Single into a Prima Undine and mentor. As she guides her new apprentice Ai, she reflects on her journey, the friends she made, and the changes that growing up brings. The film is a contemplative bridge between past and future.",
+      "core": "A gentle meditation on memory, mentorship, and the passage of time. The Aria series has always been about finding wonder in everyday moments; this film encapsulates that theme beautifully.",
+      "created_at": "2026-06-16 22:25:35",
+      "watch_url": null
+    },
+    {
       "title": "Armageddon",
       "year": 1997,
       "medium": "Film",
@@ -3454,6 +3472,24 @@
       "truth": "Jan Schneider has spent years defending victims of the totalitarian regime. When authorities order his arrest, he decides to escape with his family. Their journey takes them across a dangerous continent where the democratic past feels like a distant memory.",
       "core": "Break-Out to the Unknown is a German dystopian thriller that warns against the erosion of democracy. It uses the family escape narrative to explore themes of authoritarianism, resistance, and the price of freedom.",
       "created_at": "2026-06-15 15:10:00",
+      "watch_url": null
+    },
+    {
+      "title": "Breaker",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.85,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Cybernetics, Rebellion",
+      "image_filename": "Breaker_2017.jpg",
+      "pitch": "In tomorrow's Tokyo, a technologically-enhanced mercenary hacker's body is overrun by a sentient data weapon. The parasitic AI becomes her only ally as she's chased across the city by those seeking to salvage it.",
+      "truth": "A young mercenary hacker with cybernetic enhancements is targeted by corporations who want to reclaim their technology. A sentient AI weapon latches onto her body, creating an uneasy alliance. Together they fight across near-future Tokyo while corporations hunt them down.",
+      "core": "Cyberpunk body horror meets AI thriller. Explores themes of autonomy, technology's colonization of the body, and the blurry line between human and machine. Fast-paced with strong visual design.",
+      "created_at": "2026-06-16 22:24:49",
       "watch_url": null
     },
     {
@@ -25345,6 +25381,24 @@
       "watch_url": "https://archive.org/details/legend-of-the-roller-blade-seven-1"
     },
     {
+      "title": "The Russian Sleep Experiment",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.1,
+      "total_ratings": 10,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Science, Horror",
+      "image_filename": "The_Russian_Sleep_Experiment_2015.jpg",
+      "pitch": "Soviet researchers during WWII test an experimental gas on political prisoners - meant to eliminate the need for sleep, but the results are horrifying. Based on the famous creepypasta, this is body horror at its most extreme.",
+      "truth": "Russian researchers test an experimental gas meant to keep subjects awake indefinitely. The gas works - too well. The subjects descend into violent madness, tearing themselves apart while the researchers must decide whether to stop the experiment or let it continue for science.",
+      "core": "A dark exploration of scientific ethics and the boundaries of the human condition. The creepypasta it adapts asks: what would we sacrifice for progress? The film visualizes the original story's nightmarish imagery with visceral intensity.",
+      "created_at": "2026-06-16 22:24:32",
+      "watch_url": null
+    },
+    {
       "title": "The Saragossa Manuscript",
       "year": 1965,
       "medium": "Film",
@@ -29611,6 +29665,24 @@
       "watch_url": null
     },
     {
+      "title": "Yuri Lennon's Landing on Alpha 46",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.6,
+      "total_ratings": 10,
+      "origin": "Multinational",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, First Contact",
+      "image_filename": "Yuri_Lennons_Landing_on_Alpha_46_2010.jpg",
+      "pitch": "Cosmonaut Yuri Lennon's landing on Jupiter moon Alpha 64 confronts him with an extraordinary paradox - alien artifacts that seem to show his own future. A meditative indie sci-fi on isolation and the nature of reality.",
+      "truth": "Yuri lands on Alpha 64 as part of humanity's first Jupiter mission. He discovers alien artifacts showing his future, including his own death. As he explores, past/present/future blur until he cannot determine which timeline is real. The ending is ambiguous - he may have always been there, or never existed.",
+      "core": "A philosophical exploration of time and causality. Draws on classic hard sci-fi while adding contemplative depth. Strong ideas compensate for minimal production - the paradox becomes both literal and metaphorical.",
+      "created_at": "2026-06-16 22:24:24",
+      "watch_url": null
+    },
+    {
       "title": "Z.P.G.",
       "year": 1972,
       "medium": "Film",
@@ -29863,5 +29935,5 @@
       "watch_url": null
     }
   ],
-  "count": 1659
+  "count": 1663
 }
