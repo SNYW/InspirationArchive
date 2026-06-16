@@ -28189,6 +28189,24 @@
       "watch_url": "https://archive.org/details/woman-in-the-moon-1929-colorized"
     },
     {
+      "title": "World Conquest Zvezda Plot",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "A-1 Pictures",
+      "raw_score": 3.21,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Supernatural, Rebellion",
+      "image_filename": "World_Conquest_Zvezda_Plot_2014.jpg",
+      "pitch": "A young girl named Marika leads an underground organization called the Iron Mask, using magical powers to pursue world conquest. Produced by A-1 Pictures and directed by Tensai Okamura, this quirky series blends absurdist comedy with world-building about a secret group vying for global control.",
+      "truth": "Marika leads the Iron Mask, a secret organization with followers who possess magical 'Zvezda' powers. She inherited her father's mission to conquer the world. The story follows their schemes against rival organizations, balancing comedy with darker undertones about power and control.",
+      "core": "This anime subverts typical villain protagonists by exploring what happens when a child is raised to pursue world domination. The series asks whether ambition for power is inherently evil. It balances absurdist comedy with genuine commentary on leadership and sacrifice.",
+      "created_at": "2026-06-16 12:49:24",
+      "watch_url": null
+    },
+    {
       "title": "World of Tomorrow",
       "year": 2015,
       "medium": "Short Film",
@@ -28241,6 +28259,24 @@
       "core": "Quintessential British children's TV\u2014whimsical rural fantasy with a beloved ex-Doctor Who star. Interchangeable vegetable heads are wonderfully surreal. The 2019 BBC revival proves this IP's enduring charm.",
       "created_at": "2026-06-13 23:21:16",
       "watch_url": "https://archive.org/details/worzel-gummidge"
+    },
+    {
+      "title": "Wu Xin: The Monster Killer",
+      "year": 2015,
+      "medium": "TV Series",
+      "creator": "Sohu",
+      "raw_score": 4.1,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Tense",
+      "sub_genres": "Fantasy, Horror",
+      "topics": "Supernatural, Monsters, Immortality",
+      "image_filename": null,
+      "pitch": "An immortal amnesiac named Wu Xin wakes with no memory of his past and wanders China seeking answers. He has the unique ability to hunt supernatural creatures - feeding on them to sustain his immortality. When he meets kind Yue Ya, he gains a reason to live beyond mere survival. Based on Ni Luo's novel.",
+      "truth": "Wu Xin is an immortal who cannot die but remembers nothing of his past. To survive, he hunts monsters and feeds on their essence. After meeting kindhearted Yue Ya who shares her final meal with him, he gains purpose. Together they battle supernatural creatures across China, uncovering secrets about Wu Xin's origin.",
+      "core": "The series explores what it means to be immortal yet empty - Wu Xin has lived centuries but without memory or connection. His relationship with Yue Ya represents the human need for connection and meaning beyond mere survival.",
+      "created_at": "2026-06-16 12:49:34",
+      "watch_url": null
     },
     {
       "title": "X: The Unknown",
@@ -28639,5 +28675,5 @@
       "watch_url": null
     }
   ],
-  "count": 1591
+  "count": 1593
 }

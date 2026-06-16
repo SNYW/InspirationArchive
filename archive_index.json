@@ -25057,6 +25057,22 @@
       "watch_url": "https://archive.org/details/woman-in-the-moon-1929-colorized"
     },
     {
+      "title": "World Conquest Zvezda Plot",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "A-1 Pictures",
+      "raw_score": 3.21,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Supernatural, Rebellion",
+      "image_filename": "World_Conquest_Zvezda_Plot_2014.jpg",
+      "pitch": "A young girl named Marika leads an underground organization called the Iron Mask, using magical powers to pursue world conquest. Produced by A-1 Pictures and directed by Tensai Okamura, this quirky series blends absurdist comedy with world-building about a secret group vying for global control.",
+      "created_at": "2026-06-16 12:49:24",
+      "watch_url": null
+    },
+    {
       "title": "World of Tomorrow",
       "year": 2015,
       "medium": "Short Film",
@@ -25103,6 +25119,22 @@
       "pitch": "A living scarecrow comes to life on Scatterbrook Farm. Jon Pertwee (former Doctor Who) stars in this whimsical ITV series 1979-1981. Worzel has interchangeable turnip heads that give him different moods. He causes mischief with children John and Susan, then sulks by going limp.",
       "created_at": "2026-06-13 23:21:16",
       "watch_url": "https://archive.org/details/worzel-gummidge"
+    },
+    {
+      "title": "Wu Xin: The Monster Killer",
+      "year": 2015,
+      "medium": "TV Series",
+      "creator": "Sohu",
+      "raw_score": 4.1,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Tense",
+      "sub_genres": "Fantasy, Horror",
+      "topics": "Supernatural, Monsters, Immortality",
+      "image_filename": null,
+      "pitch": "An immortal amnesiac named Wu Xin wakes with no memory of his past and wanders China seeking answers. He has the unique ability to hunt supernatural creatures - feeding on them to sustain his immortality. When he meets kind Yue Ya, he gains a reason to live beyond mere survival. Based on Ni Luo's novel.",
+      "created_at": "2026-06-16 12:49:34",
+      "watch_url": null
     },
     {
       "title": "X: The Unknown",
@@ -25457,5 +25489,5 @@
       "watch_url": null
     }
   ],
-  "count": 1591
+  "count": 1593
 }
