@@ -8673,6 +8673,22 @@
       "watch_url": "https://archive.org/details/ryukivsagito"
     },
     {
+      "title": "Kamillions",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Mikel B. Anderson",
+      "raw_score": 2.79,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Dimension Travel, Shapeshifters, Family",
+      "image_filename": "kamillions_1990.jpg",
+      "pitch": "Mad scientist Nathaniel Pickman Wingate opens a portal to another dimension in his basement laboratory, accidentally unleashing two alien shapeshifters to Earth. One\u2014a friendly female\u2014befriends his son Sam, while the other is a mischievous trickster who terrorizes the family during his birthday party.",
+      "created_at": "2026-06-16 09:56:10",
+      "watch_url": null
+    },
+    {
       "title": "Karutha Rathrikal",
       "year": 1967,
       "medium": "Film",
@@ -14545,6 +14561,22 @@
       "watch_url": "https://archive.org/details/military-intel-4_20220313"
     },
     {
+      "title": "Skeeter",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "Clark Brandon",
+      "raw_score": 4.8,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Ecology, Mutation, Survival",
+      "image_filename": "skeeter_1993.jpg",
+      "pitch": "In the desert town of Clear Sky, corrupt developer Drake dumps toxic waste into local mines, mutating the mosquito population into gigantic bloodthirster beasts. Sheriff Roy Boone and his ex Sarah Crosby must stop both the pollution and the deadly swarms.",
+      "created_at": "2026-06-16 09:54:51",
+      "watch_url": null
+    },
+    {
       "title": "Skeleton on Horseback",
       "year": 1937,
       "medium": "Film",
@@ -15438,6 +15470,22 @@
       "image_filename": "Starflight_1986.jpg",
       "pitch": "Starflight is a pioneering space exploration role-playing video game released in 1986 by Binary Systems and published by Electronic Arts. Set in the year 4620, players take on the role of a starship captain tasked with exploring a vast galaxy containing 270 star systems and approximately 800 planets. The game combines elements of space trading, combat, and diplomacy in an open-ended sandbox format that was revolutionary for its time.\n\nUnlike most games of the era, Starflight offers no predetermined path. Players freely switch between mining resources for profit, engaging in ship-to-ship combat with hostile aliens, and negotiating diplomatic relations with various extraterrestrial species. The game's broader narrative emerges gradually as players discover that an ancient race of beings is systematically causing stars to flare dangerously, threatening all life in the galaxy.",
       "created_at": "2026-03-01 16:04:22",
+      "watch_url": null
+    },
+    {
+      "title": "Stargames",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.27,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Friendship, Survival",
+      "image_filename": "stargames_1998.jpg",
+      "pitch": "A young space princeflees an evil space villain and is stranded on Earth, waiting for his grandfather the king to rescue him. He befriends an Earth child named Brian, and together they evade robots, bears, and triangles.",
+      "created_at": "2026-06-16 09:57:14",
       "watch_url": null
     },
     {
@@ -16350,6 +16398,22 @@
       "image_filename": "The_Adaptive_Ultimate_1935.jpg",
       "pitch": "When Dr. Daniel Scott develops an \"adaptive serum\" that allows the human body to recover from any injury or illness by rapidly adapting, he tests it on Kyra Zelas\u2014a dying patient with nothing to lose. She recovers stunningly, but soon her adaptation becomes too powerful: she begins physically transforming to become more beautiful, more manipulative, more powerful. What starts as a miracle cure becomes a terrifying evolution as Kyra adapts to everything\u2014including the minds of the men around her. This 1935 classic explores the horror of unchecked transformation and the question of whether humanity can survive its own potential.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "The Advanced Guard",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.98,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Slavery, Rebellion",
+      "image_filename": "the_advanced_guard_1998.jpg",
+      "pitch": "Aliens arrive on Earth as an advance invasion force, kidnapping humans to test if they would make suitable slaves. Harper, one of the alien experimenters, grows sympathetic to the humans and questions her planet's endless cycle of conquest.",
+      "created_at": "2026-06-16 09:56:39",
       "watch_url": null
     },
     {
@@ -25105,6 +25169,22 @@
       "watch_url": "https://archive.org/details/turner_video_224396"
     },
     {
+      "title": "Zone 39",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "John Tatoulis",
+      "raw_score": 2.79,
+      "total_ratings": 14,
+      "origin": "Australia",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Grief, War",
+      "image_filename": "zone_39_1996.jpg",
+      "pitch": "In a future ravaged by 40 years of war between the New Territories and Federal Republics, soldier Leo Megaw is assigned to guard Zone 39 after his wife Anne dies from contamination at a security outpost. Haunted by grief and hallucinations of his dead wife, Leo struggles to cope with isolation.",
+      "created_at": "2026-06-16 09:55:36",
+      "watch_url": null
+    },
+    {
       "title": "Zone of Silence",
       "year": 1990,
       "medium": "Film",
@@ -25169,5 +25249,5 @@
       "watch_url": null
     }
   ],
-  "count": 1573
+  "count": 1578
 }
