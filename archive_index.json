@@ -8977,6 +8977,22 @@
       "watch_url": null
     },
     {
+      "title": "Kenny Starfighter",
+      "year": 1997,
+      "medium": "TV Series",
+      "creator": "Mats Lindberg, Carl \u00c5strand",
+      "raw_score": 3.7,
+      "total_ratings": 15,
+      "origin": "Sweden",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Children, Friendship",
+      "image_filename": "kenny_starfighter_1997.jpg",
+      "pitch": "Swedish children's sci-fi with Kenny, a Galactic Hero of dubious ability. Sent to stop evil Doctor Deo after other heroes go missing, his space-bus crashes in a small Swedish town. He teams up with local school children to investigate bizarre teacher behavior \u2014 and uncover Deo's mind-control scheme.",
+      "created_at": "2026-06-16 17:24:44",
+      "watch_url": null
+    },
+    {
       "title": "Key the Metal Idol",
       "year": 1994,
       "medium": "OVA",
@@ -25873,5 +25889,5 @@
       "watch_url": null
     }
   ],
-  "count": 1617
+  "count": 1618
 }
