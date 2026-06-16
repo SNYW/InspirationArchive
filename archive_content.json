@@ -21907,6 +21907,24 @@
       "watch_url": "https://archive.org/details/orphan-the-green-cat-v-2-dvd-050-b-8-cbc.-360"
     },
     {
+      "title": "The Halt",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Lav Diaz",
+      "raw_score": 3.15,
+      "total_ratings": 21,
+      "origin": "Philippines",
+      "mood": "Dystopian",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Pandemic, Ecology, Survival, Authoritarianism",
+      "image_filename": "The_Halt_2019.jpg",
+      "pitch": "In 2034, three years after a catastrophic volcanic eruption has plunged Manila into perpetual darkness, society has collapsed into chaos. This is Lav Diaz's ambitious four-hour dystopian epic, screened at Cannes 2019 Directors' Fortnight.",
+      "truth": "Set in 2034 Manila, three years after volcanic eruptions blocked out the sun, the city exists in permanent darkness. Society has fractured - riots grip streets, epidemics ravage populations, millions have perished. The ensemble cast navigate survival in this post-apocalyptic landscape.",
+      "core": "A meditation on ecological collapse and societal fragility. Winner of Best Film at Asian Film Festival Barcelona, it offers cerebral post-apocalyptic vision - not action, but contemplation of how humanity maintains its humanity in civilizational collapse.",
+      "created_at": "2026-06-16 18:14:37",
+      "watch_url": null
+    },
+    {
       "title": "The Hamburg Syndrome",
       "year": 1979,
       "medium": "Film",
@@ -29197,5 +29215,5 @@
       "watch_url": null
     }
   ],
-  "count": 1622
+  "count": 1623
 }
