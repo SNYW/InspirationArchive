@@ -2233,6 +2233,24 @@
       "watch_url": "https://archive.org/details/astroboyomnibus0000tezu"
     },
     {
+      "title": "Asura Cryin",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Seven Arcs",
+      "raw_score": 3.45,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Supernatural",
+      "sub_genres": "Action, Supernatural",
+      "topics": "Demons, Memory, Ghosts, High School",
+      "image_filename": "Asura_Cryin_2009.jpg",
+      "pitch": "A 2009 light novel anime about a high schooler haunted by his dead childhood friend's ghost. Tomoharu Natsume discovers he can make contracts with demons and becomes an Asura Cryin, wielding supernatural powers.",
+      "truth": "Tomoharu Natsume survived an airplane crash that killed his friend Misao. Three years later, haunted by Misao's ghost, he moves into a dormitory where he meets Shuri and receives a mysterious trunk from his brother. He then meets demon Kanade and makes a contract, becoming an Asura Cryin.",
+      "core": "Explores memory, loss, and the boundaries between living and dead. The ghost of Misao provides emotional core while demon lore adds action. Typical supernatural anime premise executed well.",
+      "created_at": "2026-06-16 08:39:40",
+      "watch_url": null
+    },
+    {
       "title": "At the Earth's Core",
       "year": 1976,
       "medium": "Film",
@@ -7973,6 +7991,24 @@
       "core": "**The Birth of the Robot on Screen:** Gugusse et l'Automate holds a unique place in film history as potentially the first science fiction film. It predates the widespread use of the word \"robot\" but captures exactly what that term would come to mean: an artificial, mechanical being created by humans that imitates life. The film emerged in an era when automata\u2014mechanical figures that could perform complex movements\u2014were popular attractions in European entertainment, and M\u00e9li\u00e8s, who collected automata himself for his Th\u00e9\u00e2tre Robert-Houdin, was uniquely positioned to capture this phenomenon on film.\n\n**Science and Spectacle:** The film represents the intersection of scientific curiosity and theatrical spectacle that characterized early science fiction. M\u00e9li\u00e8s was fascinated by the possibilities of film as a medium for depicting the impossible, and this short work demonstrates his interest in themes of scientific experimentation, creation, and transformation\u2014themes that would become central to the science fiction genre.\n\n**M\u00e9li\u00e8s as SF Pioneer:** While A Trip to the Moon (1902) is more famous, Gugusse et l'Automate shows M\u00e9li\u00e8s already exploring science fiction themes a decade earlier. The rediscovery and restoration of this film in 2025-2026 has allowed modern audiences to witness the origins of the genre on screen, making it an essential artifact for any science fiction archive.\n\n**The Automaton as Cultural Symbol:** The film captures a moment in cultural history when automata represented the cutting edge of mechanical science\u2014precursors to modern robotics. The clown's reaction to the automaton can be read as a meditation on humanity's relationship with its own creations: wonder at what we can build, anxiety about being replaced, and fascination with the boundary between the living and the mechanical.",
       "created_at": "2026-03-19 11:50:51",
       "watch_url": "https://commons.wikimedia.org/wiki/File%3AGugusse_et_l%27Automate_-_1897.webm"
+    },
+    {
+      "title": "Guin Saga",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Kadokawa Shoten",
+      "raw_score": 3.5,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Epic",
+      "sub_genres": "Fantasy, Adventure",
+      "topics": "Prophecy, Royalty, Quest",
+      "image_filename": "Guin_Saga_2009.jpg",
+      "pitch": "A 2009 anime featuring a mysterious leopard-headed warrior who protects royal twins fleeing their conquered kingdom in the fantasy land of Nospherus.",
+      "truth": "After Parolte falls to Mongaul, twins Remus and Rinda escape with Guin\u2014a amnesiac leopard-headed warrior. They journey across Nospherus pursued by enemies, seeking answers about Guin's past.",
+      "core": "Inverts the chosen-one trope\u2014the guardian has amnesia, not the heroes. Guin's distinctive design is memorable. Traditional epic fantasy with an unusual protagonist setup.",
+      "created_at": "2026-06-16 08:39:25",
+      "watch_url": null
     },
     {
       "title": "Gunbuster",
@@ -19027,6 +19063,24 @@
       "watch_url": "https://archive.org/details/the-body-stealers-1969"
     },
     {
+      "title": "The Book of Bantorra",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "David Production",
+      "raw_score": 2.85,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Fantasy, Mystery",
+      "topics": "Library, Supernatural, Cult, Knowledge",
+      "image_filename": "The_Book_of_Bantorra_2009.jpg",
+      "pitch": "A unique anime where dead people become books. In a world where the deceased turn into stone-like books stored in the massive Bantorra Library, Armed Librarians wielding psychic powers protect these records. Their enemy is a cult that believes personal desire outweighs all else.",
+      "truth": "The story follows multiple Armed Librarians, primarily Hamyuts Meseta, as they assault a cult-owned ship carrying brainwashed slaves. The Librarians can read the books of the dead to learn their histories. Conflict ensues with the Shindeki Church cult led by the so-called True Men.",
+      "core": "A cerebral series exploring knowledge, memory, and the ethics of reading dead people's lives. The ensemble cast and non-standard protagonist approach distinguishes it. Themes of desire versus duty run throughout.",
+      "created_at": "2026-06-16 08:39:33",
+      "watch_url": null
+    },
+    {
       "title": "The Book of Strange New Things",
       "year": 2014,
       "medium": "Novel",
@@ -28189,5 +28243,5 @@
       "watch_url": null
     }
   ],
-  "count": 1566
+  "count": 1569
 }

@@ -1985,6 +1985,22 @@
       "watch_url": "https://archive.org/details/astroboyomnibus0000tezu"
     },
     {
+      "title": "Asura Cryin",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Seven Arcs",
+      "raw_score": 3.45,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Supernatural",
+      "sub_genres": "Action, Supernatural",
+      "topics": "Demons, Memory, Ghosts, High School",
+      "image_filename": "Asura_Cryin_2009.jpg",
+      "pitch": "A 2009 light novel anime about a high schooler haunted by his dead childhood friend's ghost. Tomoharu Natsume discovers he can make contracts with demons and becomes an Asura Cryin, wielding supernatural powers.",
+      "created_at": "2026-06-16 08:39:40",
+      "watch_url": null
+    },
+    {
       "title": "At the Earth's Core",
       "year": 1976,
       "medium": "Film",
@@ -7087,6 +7103,22 @@
       "pitch": "Gugusse et l'Automate (also known as The Clown and the Automaton) is an 1897 French short silent film directed by Georges M\u00e9li\u00e8s. At approximately one minute in length, the film depicts a clown who becomes amazed and confused by the mechanical movements of an automaton\u2014a mechanical man that performs intricate movements. The film was considered lost for decades until a 35mm nitrate print was rediscovered by the Library of Congress in 2025 and restored for public release in February 2026.\n\nWhat makes this film historically significant is that it marks the first known cinematic appearance of a robot (though the word \"robot\" would not be coined until Karel \u010capek's R.U.R. in 1920). Film historians Douglas Menville and R. Reginald judged Gugusse to be the most significant scientifically themed film of 1897 and suggested it may be the first true science fiction film ever made.",
       "created_at": "2026-03-19 11:50:51",
       "watch_url": "https://commons.wikimedia.org/wiki/File%3AGugusse_et_l%27Automate_-_1897.webm"
+    },
+    {
+      "title": "Guin Saga",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "Kadokawa Shoten",
+      "raw_score": 3.5,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Epic",
+      "sub_genres": "Fantasy, Adventure",
+      "topics": "Prophecy, Royalty, Quest",
+      "image_filename": "Guin_Saga_2009.jpg",
+      "pitch": "A 2009 anime featuring a mysterious leopard-headed warrior who protects royal twins fleeing their conquered kingdom in the fantasy land of Nospherus.",
+      "created_at": "2026-06-16 08:39:25",
+      "watch_url": null
     },
     {
       "title": "Gunbuster",
@@ -16913,6 +16945,22 @@
       "watch_url": "https://archive.org/details/the-body-stealers-1969"
     },
     {
+      "title": "The Book of Bantorra",
+      "year": 2009,
+      "medium": "Anime",
+      "creator": "David Production",
+      "raw_score": 2.85,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Fantasy, Mystery",
+      "topics": "Library, Supernatural, Cult, Knowledge",
+      "image_filename": "The_Book_of_Bantorra_2009.jpg",
+      "pitch": "A unique anime where dead people become books. In a world where the deceased turn into stone-like books stored in the massive Bantorra Library, Armed Librarians wielding psychic powers protect these records. Their enemy is a cult that believes personal desire outweighs all else.",
+      "created_at": "2026-06-16 08:39:33",
+      "watch_url": null
+    },
+    {
       "title": "The Book of Strange New Things",
       "year": 2014,
       "medium": "Novel",
@@ -25057,5 +25105,5 @@
       "watch_url": null
     }
   ],
-  "count": 1566
+  "count": 1569
 }
