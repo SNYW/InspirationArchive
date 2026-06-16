@@ -273,6 +273,22 @@
       "watch_url": null
     },
     {
+      "title": "3G: A Killer Connection",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Sheershak Anand, Shantanu Ray Chhibber",
+      "raw_score": 3.3,
+      "total_ratings": 13,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Technology, Supernatural, Survival",
+      "image_filename": "3G_A_Killer_Connection_2013.jpg",
+      "pitch": "A couple's dream vacation turns nightmare when a mysterious 3G phone starts receiving video calls showing a woman's murder. Each call pulls Sam deeper into madness. The only escape is to unravel the mystery of the haunted device before it claims their lives.",
+      "created_at": "2026-06-16 12:25:44",
+      "watch_url": null
+    },
+    {
       "title": "57 Seconds",
       "year": 2023,
       "medium": "Film",
@@ -25441,5 +25457,5 @@
       "watch_url": null
     }
   ],
-  "count": 1590
+  "count": 1591
 }
