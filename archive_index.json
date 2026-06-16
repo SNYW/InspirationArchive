@@ -177,6 +177,22 @@
       "watch_url": "https://archive.org/details/2030_Aufstand-der-Alten_ZDF-2007"
     },
     {
+      "title": "2046",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Wong Kar-wai",
+      "raw_score": 3.61,
+      "total_ratings": 1080,
+      "origin": "Hong-Kong",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, Love, VR, Time-Travel",
+      "image_filename": "2046_2004.jpg",
+      "pitch": "A science fiction writer in Hong Kong cannot forget the woman he lost. He writes stories about a mysterious place called 2046, where time refuses to move forward\u2014until the past catches up.",
+      "created_at": "2026-06-16 07:06:54",
+      "watch_url": null
+    },
+    {
       "title": "2067",
       "year": 2020,
       "medium": "Film",
@@ -3937,6 +3953,22 @@
       "watch_url": null
     },
     {
+      "title": "Cube Zero",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Ernie Barbarash",
+      "raw_score": 2.83,
+      "total_ratings": 1155,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Surveillance, Rebellion, Isolation",
+      "image_filename": "Cube_Zero_2004.jpg",
+      "pitch": "A prequel to the Cube series, showing what happens both inside and outside the infamous Cube. A young technician discovers the horrifying truth: the prisoners in the Cube are not volunteers\u2014they are unwilling subjects in a deadly experiment.",
+      "created_at": "2026-06-16 07:05:27",
+      "watch_url": null
+    },
+    {
       "title": "Curse of Snakes Valley",
       "year": 1988,
       "medium": "Film",
@@ -6703,6 +6735,22 @@
       "pitch": "Ghost in the Shell is a landmark 1995 Japanese animated cyberpunk film that set the visual and thematic template for an entire generation of science fiction. Directed by Mamoru Oshii and based on the manga by Masamune Shirow, the film is set in 2029 New Port City, where humans can now augment their bodies with cybernetic prostheses. The story follows Major Motoko Kusanagi, a cyborg working for Section 9, a secretive government counter-terrorism unit. When a mysterious hacker known only as the \"Puppet Master\" begins hacking into the minds of highly placed officials, Kusanagi and her partner Batou are assigned to track down this elusive ghost\u2014the term for the consciousness or soul that remains when the body is fully cybernetic. As she investigates, Kusanagi begins to question her own identity and what it truly means to be human in a world where the boundary between flesh and machine has become increasingly blurred.",
       "created_at": "2026-03-02 07:05:18",
       "watch_url": "https://archive.org/details/dollhouse_201912"
+    },
+    {
+      "title": "Ghost in the Shell 2: Innocence",
+      "year": 2004,
+      "medium": "Anime Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 3.67,
+      "total_ratings": 982,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Cyberpunk",
+      "topics": "Cybernetics, AI, Sentience, VR, Robots",
+      "image_filename": "Ghost_in_the_Shell_2_Innocence_2004.jpg",
+      "pitch": "Three years after Major Motoko Kusanagi vanished, cybernetic operative Batou investigates murders caused by malfunctioning gynoids\u2014doll-like sex robots. The case leads him into a dark web of illegal consciousness trafficking.",
+      "created_at": "2026-06-16 07:04:53",
+      "watch_url": null
     },
     {
       "title": "Giant Robo",
@@ -13569,6 +13617,22 @@
       "watch_url": null
     },
     {
+      "title": "S1m0ne",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Andrew Niccol",
+      "raw_score": 3.0,
+      "total_ratings": 1000,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Surveillance, Celebrity",
+      "image_filename": "S1m0ne_2002.jpg",
+      "pitch": "A fading director creates a computer-generated actress when his star walks off his film. Seamlessly incorporated into his movie, Simone becomes a worldwide sensation\u2014but how long can the illusion be maintained?",
+      "created_at": "2026-06-16 07:05:08",
+      "watch_url": null
+    },
+    {
       "title": "SF Saiyuuki Starzinger",
       "year": 1978,
       "medium": "Anime",
@@ -15039,6 +15103,22 @@
       "pitch": "In 2027, humanity has colonized the Moon, Mars, and five space stations. Commander Nathan Spring builds the International Space Police Force to keep peace across the solar system\u2014a hard SF police procedural ahead of its time.",
       "created_at": "2026-06-13 13:42:21",
       "watch_url": "https://archive.org/details/star-cops-complete-series-1987"
+    },
+    {
+      "title": "Star Driver",
+      "year": 2010,
+      "medium": "Anime",
+      "creator": "Bones",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha, Science-Fantasy",
+      "topics": "Aliens, Space, First Contact",
+      "image_filename": null,
+      "pitch": "A young man with no memory washes ashore on a remote island, becoming the \"Galactic Pretty Boy\" at his new school. Beneath the island lies Zero Time, where ancient robots called Cybodies sleep in sealed tombs. When villains arrive to awaken them, Takuto must fight to protect the world.",
+      "created_at": "2026-06-16 06:59:29",
+      "watch_url": null
     },
     {
       "title": "Star Odyssey",
@@ -23025,6 +23105,22 @@
       "watch_url": "https://archive.org/details/turner_video_101875"
     },
     {
+      "title": "Timeline",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Richard Donner",
+      "raw_score": 2.87,
+      "total_ratings": 1172,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF, Time-Travel",
+      "topics": "Time-Travel, Exploration, History",
+      "image_filename": "Timeline_2003.jpg",
+      "pitch": "Archaeology students are sent back to medieval France to rescue their professor\u2014and discover that a corporate conspiracy has been hiding the true cost of time travel. Based on Michael Crichton\u2019s novel.",
+      "created_at": "2026-06-16 07:05:45",
+      "watch_url": null
+    },
+    {
       "title": "Timemaster",
       "year": 1995,
       "medium": "Film",
@@ -24769,5 +24865,5 @@
       "watch_url": null
     }
   ],
-  "count": 1548
+  "count": 1554
 }
