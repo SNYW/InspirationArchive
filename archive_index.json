@@ -3841,6 +3841,22 @@
       "watch_url": "https://archive.org/details/coz-takhle-dat-si-spenat"
     },
     {
+      "title": "Crazy Thunder Road",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Gakuryu Ishii",
+      "raw_score": 2.81,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Crime",
+      "topics": "Rebellion, Identity, Survival",
+      "image_filename": null,
+      "pitch": "A punk-biker action film from Gakuryu Ishii's graduation project at Nihon University. When Ken, leader of a notorious Tokyo biker gang, falls for a barmaid, he abandons his rebellious past \u2014 but his former crew won't let him escape so easily.",
+      "created_at": "2026-06-16 04:04:33",
+      "watch_url": null
+    },
+    {
       "title": "Crusher Joe",
       "year": 1983,
       "medium": "Anime Film",
@@ -9057,6 +9073,22 @@
       "watch_url": null
     },
     {
+      "title": "Legend of Lemnear",
+      "year": 1989,
+      "medium": "OVA",
+      "creator": "Kinji Yoshimoto",
+      "raw_score": 2.95,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Revenge, Prophecy, Evil",
+      "image_filename": "Legend_of_Lemnear_1989.jpg",
+      "pitch": "A sword-and-sorcery OVA from AIC. Lemnear, the prophesied Champion of Silver, seeks revenge on the wizard Gardein who slaughtered her people. She must avenge her village and stop the dark lord Varohl.",
+      "created_at": "2026-06-16 04:05:24",
+      "watch_url": null
+    },
+    {
       "title": "Legend of the Galactic Heroes",
       "year": 1982,
       "medium": "Anime",
@@ -9455,6 +9487,22 @@
       "pitch": "After a deadly virus decimates humanity, survivors live in isolated communities, communicating only through online networks and forbidden from physical contact. When teenage girls discover brutal murders connected to a corporation hiding a monstrous secret, they must act before they become the next victims.",
       "created_at": "2026-06-15 06:04:21",
       "watch_url": "https://archive.org/details/loupsgar"
+    },
+    {
+      "title": "Love City",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Seiji Kumagai",
+      "raw_score": 2.84,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "Psychic Powers, Technology, First Contact",
+      "image_filename": "Love_City_1986.jpg",
+      "pitch": "Dystopic Tokyo where humanity's genetic code has gone awry. An organization called Fraud conducts experiments on psychic escapees called headmeters \u2014 including Kei and Ai, who possess powerful psychokinetic abilities. A sinister figure wants Ai back, as she holds the key to immense power.",
+      "created_at": "2026-06-16 04:04:51",
+      "watch_url": null
     },
     {
       "title": "Lucky Sky Diamond",
@@ -20513,6 +20561,22 @@
       "watch_url": "https://archive.org/details/turner_video_326"
     },
     {
+      "title": "The Phantom of Regular Size",
+      "year": 1986,
+      "medium": "Short Film",
+      "creator": "Shinya Tsukamoto",
+      "raw_score": 3.21,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Horror",
+      "topics": "Cybernetics, Identity, Transformation",
+      "image_filename": "The_Phantom_of_Regular_Size_1986.jpg",
+      "pitch": "An experimental short film where Tsukamoto first explored the flesh-meets-metal ideas that became Tetsuo: The Iron Man. A salaryman transforms into a chrome phantom \u2014 raw, visceral body horror shot on minimal budget with homemade effects.",
+      "created_at": "2026-06-16 04:04:13",
+      "watch_url": null
+    },
+    {
       "title": "The Phantom of the Air",
       "year": 1933,
       "medium": "Serial Film",
@@ -23137,6 +23201,22 @@
       "watch_url": null
     },
     {
+      "title": "Twilight Q",
+      "year": 1987,
+      "medium": "OVA",
+      "creator": "Tomomi Mochizuki",
+      "raw_score": 2.94,
+      "total_ratings": 25,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Mystery",
+      "topics": "Time, Paradox, Mystery",
+      "image_filename": "Twilight_Q_1987.jpg",
+      "pitch": "A two-part OVA anthology from the creators of Neon Genesis Evangelion. Part 1: A girl finds a camera from the future containing a photo of herself with a man she has never met. Part 2: A detective investigates vanishings tied to a mysterious father-daughter pair.",
+      "created_at": "2026-06-16 04:07:18",
+      "watch_url": null
+    },
+    {
       "title": "Twilight of the Dark Master",
       "year": 1997,
       "medium": "Anime Film",
@@ -24497,5 +24577,5 @@
       "watch_url": null
     }
   ],
-  "count": 1531
+  "count": 1536
 }
