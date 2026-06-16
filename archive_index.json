@@ -7745,6 +7745,22 @@
       "watch_url": "https://archive.org/details/turner_video_134298"
     },
     {
+      "title": "Higan",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Matsumoto",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Hard-SF",
+      "topics": "Memory, Death, War",
+      "image_filename": "higan_2002.jpg",
+      "pitch": "An injured man lies still in a hospital room as doctors hover over him. As he succumbs to death, memories of a recent battle flash through his mind. Thoughts of death and chaos haunt his final moments.",
+      "created_at": "2026-06-16 20:20:21",
+      "watch_url": null
+    },
+    {
       "title": "High Life",
       "year": 2018,
       "medium": "Film",
@@ -15217,6 +15233,22 @@
       "watch_url": "https://archive.org/details/tenkuu-danzato-skelter-heaven-episode-1"
     },
     {
+      "title": "Sky Pirates",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.5,
+      "total_ratings": 15,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Space, Exploration, Mystery",
+      "image_filename": "sky_pirates_1986.jpg",
+      "pitch": "Air force Lieutenant Harris carries a top-secret extraterrestrial key component aboard his flight. When a supernatural storm throws them off course, he and his crew crash-land in a mysterious zone 5,000 miles off course. No one believes their story.",
+      "created_at": "2026-06-16 20:21:00",
+      "watch_url": null
+    },
+    {
       "title": "Skyman",
       "year": 2020,
       "medium": "Film",
@@ -21425,6 +21457,22 @@
       "watch_url": "https://archive.org/details/the-mountain-in-the-sea-ray-nayler"
     },
     {
+      "title": "The Mourning",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Carter",
+      "raw_score": 3.5,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Hard-SF",
+      "topics": "Time-Travel, Memory, Aliens",
+      "image_filename": "the_mourning_2015.jpg",
+      "pitch": "Twenty years after vanishing during Desert Storm, Aaron returns home unchanged \u2014 not a day older. His mysterious reappearance forces a reckoning with everything he left behind, raising questions about what happened to him in those missing years.",
+      "created_at": "2026-06-16 20:19:42",
+      "watch_url": null
+    },
+    {
       "title": "The Mouse on the Moon",
       "year": 1963,
       "medium": "Film",
@@ -22398,6 +22446,22 @@
       "image_filename": "The_Sea_Serpent_1985.jpg",
       "pitch": "A serpent, created by radioactivity, threatens a Spanish coastal town. This obscure Spanish sci-fi horror film from 1985 offers a modest but entertaining creature feature in the tradition of 1950s American B-movies, brought to Spain with regional flavor. The film's premise - a radioactive serpent monster terrorizing a peaceful fishing village - is simple but effective, delivering the creature horror goods while commenting on nuclear anxiety that lingered in the post-Cold War consciousness.",
       "created_at": "2026-06-13 08:54:08",
+      "watch_url": null
+    },
+    {
+      "title": "The Sea of Perdition",
+      "year": 2006,
+      "medium": "Short Film",
+      "creator": "",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Isolation, Space, Survival",
+      "image_filename": "the_sea_of_perdition_2006.jpg",
+      "pitch": "A stranded cosmonaut on Mars faces the harsh reality of survival alone. Warren Comics style storytelling brings this tale of isolation in the void.",
+      "created_at": "2026-06-16 20:20:37",
       "watch_url": null
     },
     {
@@ -26273,5 +26337,5 @@
       "watch_url": null
     }
   ],
-  "count": 1642
+  "count": 1646
 }
