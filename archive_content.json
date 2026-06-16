@@ -12421,6 +12421,24 @@
       "watch_url": null
     },
     {
+      "title": "Notzilla",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Mitch Teemley",
+      "raw_score": 1.65,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Monsters, Parody, Alcohol",
+      "image_filename": "Notzilla_2019.jpg",
+      "pitch": "A kaiju comedy parody of Godzilla films, written and directed by Mitch Teemley. In 1962, the JSDF kills a mother kaiju, but a paleontologist rescues her egg and takes it to Ohio.",
+      "truth": "The egg hatches in Cincinnati and the baby kaiju grows when it consumes alcohol. Scientists debate whether to destroy or save the creature. An anti-beer formula eventually shrinks it back to normal size.",
+      "core": "Notzilla is a loving parody of 1950s-60s kaiju films, with humor about nuclear testing and Cold War paranoia. Won awards at Florida Comedy Film Festival and other festivals.",
+      "created_at": "2026-06-16 01:12:56",
+      "watch_url": null
+    },
+    {
       "title": "Nukie",
       "year": 1987,
       "medium": "Film",
@@ -15821,6 +15839,24 @@
       "core": "**The Nature of Reality and Perception:** Solaris questions whether objective reality exists at all, or whether all experience is fundamentally subjective and shaped by memory and emotion. The alien ocean functions as a mirror that reflects each person's inner psychological state, raising questions about the reliability of perception and whether consciousness can exist independently of physical embodiment.\n\n**Memory, Guilt, and Acceptance:** Each character is haunted by memories they cannot let go of\u2014Kelvin's grief over Hari, the scientists' regrets about past actions. The ocean materializes these psychological burdens, forcing characters to confront what they have suppressed. Tarkovsky suggests that true acceptance of loss and guilt requires acknowledging rather than erasing the past.\n\n**Human Connection and Loneliness:** Despite being surrounded by others, the characters are fundamentally isolated\u2014separated by vast distances from Earth, by the alien environment, and by their own emotional walls. The manifestations represent both the desire for connection and the fear of vulnerability that prevents it. The film explores whether authentic relationship is possible when trust is impossible.\n\n**Critique of Rationalist Science Fiction:** Tarkovsky deliberately rejected the technological focus of Western science fiction, particularly Kubrick's 2001: A Space Odyssey (released just four years earlier). Where Kubrick celebrated human ingenuity and scientific progress, Tarkovsky suggested that true understanding requires emotional and spiritual depth rather than purely rational inquiry. The \"hard science\" approach misses the deeper questions about consciousness and meaning.\n\n**The Limits of Communication:** The alien intelligence remains fundamentally unknowable throughout the film. Attempts at communication fail not from lack of technology but from incommensurable frameworks of understanding. This reflects Tarkovsky's philosophical skepticism about whether humans can truly comprehend anything beyond their own experience\u2014a theme that connects to his broader spiritual and existential concerns.\n\nSolaris remains a landmark of philosophical science fiction because it prioritizes inner experience over external adventure, asking what it means to be conscious, to love, and to let go. Its influence extends across decades of subsequent science fiction, from Blade Runner to Arrival, all grappling with the same fundamental questions about the nature of mind and the possibility of genuine connection with the other.",
       "created_at": "2026-03-03 12:32:38",
       "watch_url": "https://archive.org/details/solaris.-1971_20250828"
+    },
+    {
+      "title": "Sole Survivor",
+      "year": 2000,
+      "medium": "TV Series",
+      "creator": "Dean Koontz",
+      "raw_score": 3.42,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Conspiracy, Children, Survival",
+      "image_filename": "Sole_Survivor_2000.jpg",
+      "pitch": "After his wife and daughter die in a plane crash, newspaper reporter Joe Carpenter discovers the tragedy was linked to a secret experiment. He must protect a young girl with psychic powers from a mercenary assassin.",
+      "truth": "Joe Carpenter's wife and daughter die in a plane crash. Rose Tucker, the sole survivor, reveals she was protecting a girl with healing powers. The Quartermass organization has been engineering children as weapons. Mercenary Victor Yates hunts them. Rose is killed during the escape, but Joe saves the girl. Dewey, a mind-controlling boy, turns on his handlers.",
+      "core": "Sole Survivor explores government conspiracy and the ethics of genetic engineering. Joe's journey from grief to hope and his adoption of the girl provides emotional closure while questioning scientific morality.",
+      "created_at": "2026-06-16 01:12:39",
+      "watch_url": null
     },
     {
       "title": "Solum",
@@ -24913,6 +24949,24 @@
       "watch_url": "https://archive.org/details/they.-came.-from.-beyond.-space.-1967_202512"
     },
     {
+      "title": "They Crawl",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "John Allardyce",
+      "raw_score": 2.27,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Monsters, Survival, Insects",
+      "image_filename": "They_Crawl_2001.jpg",
+      "pitch": "A computer expert and his friends become the targets of genetically mutated killer cockroaches in this 2001 sci-fi horror film.",
+      "truth": "A computer expert named Bean and his friends must survive an attack by giant mutant cockroaches that emerged from a secret military experiment.",
+      "core": "They Crawl is a straightforward creature feature that uses the fear of insects to deliver thrills.",
+      "created_at": "2026-06-16 01:12:47",
+      "watch_url": null
+    },
+    {
       "title": "They Were Eleven",
       "year": 1975,
       "medium": "Manga",
@@ -27235,5 +27289,5 @@
       "watch_url": null
     }
   ],
-  "count": 1513
+  "count": 1516
 }

@@ -11041,6 +11041,22 @@
       "watch_url": null
     },
     {
+      "title": "Notzilla",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Mitch Teemley",
+      "raw_score": 1.65,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Monsters, Parody, Alcohol",
+      "image_filename": "Notzilla_2019.jpg",
+      "pitch": "A kaiju comedy parody of Godzilla films, written and directed by Mitch Teemley. In 1962, the JSDF kills a mother kaiju, but a paleontologist rescues her egg and takes it to Ohio.",
+      "created_at": "2026-06-16 01:12:56",
+      "watch_url": null
+    },
+    {
       "title": "Nukie",
       "year": 1987,
       "medium": "Film",
@@ -14063,6 +14079,22 @@
       "pitch": "Solaris is a 1972 Soviet psychological science fiction film directed by Andrei Tarkovsky, based on Stanis\u0142aw Lem's 1961 novel. The film is set on a space station orbiting the distant planet Solaris, where a team of scientists has been studying an enigmatic alien ocean that appears to manifest the psychological memories of those on board. Psychologist Kris Kelvin is sent to evaluate the deteriorating situation, only to encounter manifestations of his own past\u2014particularly his deceased wife\u2014that blur the line between reality and projection. Rather than the technological spectacle typical of Western science fiction, Tarkovsky prioritizes philosophical introspection, creating what many consider one of the most profound explorations of human consciousness, memory, and the nature of reality ever committed to film.",
       "created_at": "2026-03-03 12:32:38",
       "watch_url": "https://archive.org/details/solaris.-1971_20250828"
+    },
+    {
+      "title": "Sole Survivor",
+      "year": 2000,
+      "medium": "TV Series",
+      "creator": "Dean Koontz",
+      "raw_score": 3.42,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Conspiracy, Children, Survival",
+      "image_filename": "Sole_Survivor_2000.jpg",
+      "pitch": "After his wife and daughter die in a plane crash, newspaper reporter Joe Carpenter discovers the tragedy was linked to a secret experiment. He must protect a young girl with psychic powers from a mercenary assassin.",
+      "created_at": "2026-06-16 01:12:39",
+      "watch_url": null
     },
     {
       "title": "Solum",
@@ -22145,6 +22177,22 @@
       "watch_url": "https://archive.org/details/they.-came.-from.-beyond.-space.-1967_202512"
     },
     {
+      "title": "They Crawl",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "John Allardyce",
+      "raw_score": 2.27,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Monsters, Survival, Insects",
+      "image_filename": "They_Crawl_2001.jpg",
+      "pitch": "A computer expert and his friends become the targets of genetically mutated killer cockroaches in this 2001 sci-fi horror film.",
+      "created_at": "2026-06-16 01:12:47",
+      "watch_url": null
+    },
+    {
       "title": "They Were Eleven",
       "year": 1975,
       "medium": "Manga",
@@ -24209,5 +24257,5 @@
       "watch_url": null
     }
   ],
-  "count": 1513
+  "count": 1516
 }
