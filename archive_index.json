@@ -9713,6 +9713,22 @@
       "watch_url": null
     },
     {
+      "title": "Level Five",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Chris Marker",
+      "raw_score": 3.05,
+      "total_ratings": 32,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "VR, Memory, War",
+      "image_filename": "Level_Five_1997.jpg",
+      "pitch": "Laura, a French programmer, inherits a task: create a game about the WWII Battle of Okinawa. Her research and interviews with Japanese witnesses prompt her to reflect on history, memory, and humanity.",
+      "created_at": "2026-06-16 17:49:56",
+      "watch_url": null
+    },
+    {
       "title": "Lexx",
       "year": 1997,
       "medium": "TV Series",
@@ -10222,6 +10238,22 @@
       "image_filename": "Mahou_Sentai_Magiranger_vs_Dekaranger_2006.jpg",
       "pitch": "A tokusatsu team-up film combining the magical heroes of Mahou Sentai Magiranger with the space police of Tokusou Sentai Dekaranger. The Ozu siblings with their magical powers join forces with the Dekaangers to battle a threat neither team can defeat alone.",
       "created_at": "2026-06-16 09:07:39",
+      "watch_url": null
+    },
+    {
+      "title": "Malevil",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Pierre Poulin",
+      "raw_score": 3.35,
+      "total_ratings": 35,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation",
+      "image_filename": "Malevil_1981.jpg",
+      "pitch": "In southern France, a small group shelter in a wine cellar during an unexplained catastrophe. When they emerge, the world has been destroyed.",
+      "created_at": "2026-06-16 17:50:05",
       "watch_url": null
     },
     {
@@ -15615,6 +15647,22 @@
       "pitch": "Spectreman is a 1971 Japanese tokusatsu superhero television series that stands as the first major Japanese superhero show of the 1970s, predating both Ultraman and Kamen Rider by several months. Produced by P Productions and created by Souji Ushio, the series aired on Fuji TV in Japan from January 1971 to March 1972 with 63 episodes. The show centers on a powerful alien cyborg dispatched to Earth by the Nebula 71 Star to combat the ecological threats posed by a banished mad scientist and his army of pollution-based monsters.\n\nWhat makes Spectreman remarkable is its unusual premise: rather than fighting alien invasions or criminal masterminds, the hero battles monsters created from environmental pollution\u2014a topic of urgent concern in 1970s Japan, which had the most polluted city in the world at the time. This environmental message gives the show a surprisingly prescient edge that resonates strongly today.",
       "created_at": "2026-06-13 01:24:22",
       "watch_url": "https://archive.org/details/spectreman_202506"
+    },
+    {
+      "title": "Spermula",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Charles Matson",
+      "raw_score": 2.09,
+      "total_ratings": 32,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Isolation",
+      "image_filename": "Spermula_1976.jpg",
+      "pitch": "The alien Spermulites arrive from a dying planet, seeking Earth's resources. Their solution: drain human males of their life force.",
+      "created_at": "2026-06-16 17:50:01",
+      "watch_url": null
     },
     {
       "title": "Spirits of the Air, Gremlins of the Clouds",
@@ -23377,6 +23425,22 @@
       "watch_url": "https://archive.org/details/wiedzmin-witcher-polski-tv"
     },
     {
+      "title": "The Witches Cave",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Yuri Moroz",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Soviet-Union",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Exploration",
+      "image_filename": "The_Witches_Cave_1989.jpg",
+      "pitch": "An Earth expedition lands on planet Evur, where mammoths, dinosaurs and pterodactyls coexist alongside primitive humanoids with metal weapons.",
+      "created_at": "2026-06-16 17:49:52",
+      "watch_url": null
+    },
+    {
       "title": "The Witches Hammer",
       "year": 2006,
       "medium": "Film",
@@ -25889,5 +25953,5 @@
       "watch_url": null
     }
   ],
-  "count": 1618
+  "count": 1622
 }
