@@ -1025,6 +1025,22 @@
       "watch_url": null
     },
     {
+      "title": "After the Apocalypse",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Yasuaki Nakajima",
+      "raw_score": 2.64,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation, Communication",
+      "image_filename": "after_the_apocalypse_2004.jpg",
+      "pitch": "A haunting silent post-apocalyptic drama about five survivors attempting to rebuild their lives after World War III. Without dialogue, they communicate through gesture and expression in a world transformed by destructive war gases. The film is a meditation on isolation and human connection in the aftermath of catastrophe.",
+      "created_at": "2026-06-16 23:39:37",
+      "watch_url": null
+    },
+    {
       "title": "Ai City",
       "year": 1986,
       "medium": "Anime Film",
@@ -3329,6 +3345,22 @@
       "watch_url": null
     },
     {
+      "title": "Camp Slaughter",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Alex Pucci",
+      "raw_score": 1.27,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Time-Travel",
+      "topics": "Survival, Time Loop, Redemption",
+      "image_filename": "camp_slaughter_2004.jpg",
+      "pitch": "A slasher film with a twist\u2014four friends become trapped in a time loop at Camp Hiawatha, forced to relive the night of a brutal massacre until they can break the cycle. Twenty-four years after the original killings, the time-displaced travelers must confront the truth about the murders.",
+      "created_at": "2026-06-16 23:40:24",
+      "watch_url": null
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -4606,6 +4638,22 @@
       "image_filename": "Dead_Space_2023.jpg",
       "pitch": "Dead Space (2023) is a survival horror remake of the 2008 classic, developed by Motive Studio and published by Electronic Arts. Set aboard the USG Ishimura, a massive planetary mining ship orbiting the planet Aegis VII, the game follows engineer Isaac Clarke as he investigates the ship's mysterious distress signal. What he discovers is a nightmare: the crew has been transformed into deadly Necromorphs\u2014reanimated corpses mutated by an alien artifact known as the Marker. Combining intense survival horror with science fiction world-building, the remake rebuilds the original from the ground up using the Frostbite engine, delivering seamless exploration, enhanced zero-gravity gameplay, and a more immersive narrative experience.",
       "created_at": "2026-03-19 10:10:15",
+      "watch_url": null
+    },
+    {
+      "title": "Deadlands 2: Trapped",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Gary W. Ellis",
+      "raw_score": 2.9,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Survival, Government Conspiracy, Pandemic",
+      "image_filename": "deadlands_2_trapped_2008.jpg",
+      "pitch": "Six strangers become trapped inside a movie theater as a government nerve gas transforms the residents of a small Maryland city into zombie-like creatures. The survivors must survive the night while uncovering the dark secret behind the government's top secret experiment.",
+      "created_at": "2026-06-16 23:40:43",
       "watch_url": null
     },
     {
@@ -7441,6 +7489,22 @@
       "watch_url": null
     },
     {
+      "title": "Guardian",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "John Cross",
+      "raw_score": 2.9,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Surveillance, Rebellion, Drugs",
+      "image_filename": "guardian_2001.jpg",
+      "pitch": "In a dystopian inner city plagued by violence, an ex-Marine named John Kross investigates a new drug called Chaos that has unleashed a terrifying supernatural power on the streets. The investigation reveals connections to a dark force witnessed during the Gulf War.",
+      "created_at": "2026-06-16 23:40:03",
+      "watch_url": null
+    },
+    {
       "title": "Guest from the Future",
       "year": 1985,
       "medium": "TV Series",
@@ -10047,6 +10111,22 @@
       "pitch": "Lexx is a science fiction television series that originally aired from 1997 to 2002. It was a Canadian-German-British co-production that followed a group of mismatched fugitives aboard the organic spacecraft Lexx \u2014 \"the most powerful weapon in the two universes.\"\n\nThe series began as four made-for-TV movies in 1997, then continued as a traditional TV series with 61 episodes across 4 seasons. It developed a cult following known for its dark humor, surrealism, and provocative content.",
       "created_at": "2026-03-01 23:43:47",
       "watch_url": "https://archive.org/details/lexx-season-one"
+    },
+    {
+      "title": "Lightning: Bolts of Destruction",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Michael A. Rasso",
+      "raw_score": 4.96,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Disaster",
+      "topics": "Family, Survival, Climate",
+      "image_filename": "lightning_bolts_of_destruction_2003.jpg",
+      "pitch": "When a relentless electrical storm threatens to ignite the atmosphere and destroy all life on Earth, a meteorologist and her family must find a way to stop it before it's too late. The film delivers tense disaster thrills with a focus on family survival under impossible odds.",
+      "created_at": "2026-06-16 23:39:14",
+      "watch_url": null
     },
     {
       "title": "Lightspeed Electroid Albegas",
@@ -26753,5 +26833,5 @@
       "watch_url": null
     }
   ],
-  "count": 1672
+  "count": 1677
 }

@@ -1153,6 +1153,24 @@
       "watch_url": null
     },
     {
+      "title": "After the Apocalypse",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Yasuaki Nakajima",
+      "raw_score": 2.64,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation, Communication",
+      "image_filename": "after_the_apocalypse_2004.jpg",
+      "pitch": "A haunting silent post-apocalyptic drama about five survivors attempting to rebuild their lives after World War III. Without dialogue, they communicate through gesture and expression in a world transformed by destructive war gases. The film is a meditation on isolation and human connection in the aftermath of catastrophe.",
+      "truth": "Five survivors\u2014a woman and four men\u2014wake in a barren post-WWIII landscape. Destructive gases have robbed them of speech, forcing non-verbal communication through gestures and expressions. They struggle to rebuild their lives individually and as a group.",
+      "core": "A bold experimental film using silence as narrative device. Forces deeper engagement with non-verbal communication and body language.",
+      "created_at": "2026-06-16 23:39:37",
+      "watch_url": null
+    },
+    {
       "title": "Ai City",
       "year": 1986,
       "medium": "Anime Film",
@@ -3745,6 +3763,24 @@
       "watch_url": null
     },
     {
+      "title": "Camp Slaughter",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Alex Pucci",
+      "raw_score": 1.27,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Time-Travel",
+      "topics": "Survival, Time Loop, Redemption",
+      "image_filename": "camp_slaughter_2004.jpg",
+      "pitch": "A slasher film with a twist\u2014four friends become trapped in a time loop at Camp Hiawatha, forced to relive the night of a brutal massacre until they can break the cycle. Twenty-four years after the original killings, the time-displaced travelers must confront the truth about the murders.",
+      "truth": "Four friends become lost and stranded near Camp Hiawatha. Their SUV breaks down and they must spend the night at the camp, frozen in the 1980s. Counselors reveal they are trapped in a time loop repeating the massacre\u2014witness the murders and find a way to break the cycle.",
+      "core": "Camp Slaughter blends slasher horror with time loop sci-fi, exploring cyclical violence and redemption through breaking destructive patterns.",
+      "created_at": "2026-06-16 23:40:24",
+      "watch_url": null
+    },
+    {
       "title": "Captain Blood",
       "year": 1988,
       "medium": "Video Game",
@@ -5182,6 +5218,24 @@
       "truth": "The remake expands on the original with full voice acting for Isaac (who was silent in the 2008 version), improved zero-gravity traversal using thrusters, an expanded narrative, and no loading screens thanks to SSD technology. The game also features the \"peeling\" system allowing players to dismember Necromorphs more thoroughly, and introduces new story elements that deepen the lore.",
       "core": "**Isolation and Mental Breakdown:** Like its predecessor, Dead Space (2023) explores themes of isolation and psychological deterioration. Isaac Clarke is alone in the most literal sense\u2014separated from his crew, trapped aboard a ship filled with monsters, and haunted by hallucinations induced by the Marker. The game forces players to manage not just ammunition and health but also Isaac's mental state through environmental storytelling and audio logs.\n\n**Corporate Greed and Scientific Hubris:** The Concordance Extraction Corporation (CEC) prioritized profit over caution, bringing the Marker aboard the Ishimura despite warnings. This theme of corporations ignoring existential risks for financial gain resonates with contemporary concerns about unchecked technological and scientific advancement.\n\n**Faith vs. Reason:** The Church of Unitology represents religious extremism twisted by alien technology. The Marker functions as both a religious artifact and a biological weapon\u2014a commentary on how faith can be weaponized and how the unknown can be co-opted by those seeking power.\n\n**Body Horror and Transformation:** The Necromorphs represent a unique take on the zombie genre\u2014they're not simply undead but rather reanimated through alien biotechnology. The transformation of familiar human forms into monstrous creatures explores themes of losing humanity and the horror of bodily violation.\n\nThe 2023 remake was critically acclaimed for its faithful recreation of the original's atmosphere while leveraging modern technology. However, it reportedly failed to meet EA's sales expectations, raising questions about the viability of single-player horror games in the current market. Despite this, the game stands as a benchmark for survival horror remakes and a testament to the enduring power of the original 2008 classic.",
       "created_at": "2026-03-19 10:10:15",
+      "watch_url": null
+    },
+    {
+      "title": "Deadlands 2: Trapped",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Gary W. Ellis",
+      "raw_score": 2.9,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Survival, Government Conspiracy, Pandemic",
+      "image_filename": "deadlands_2_trapped_2008.jpg",
+      "pitch": "Six strangers become trapped inside a movie theater as a government nerve gas transforms the residents of a small Maryland city into zombie-like creatures. The survivors must survive the night while uncovering the dark secret behind the government's top secret experiment.",
+      "truth": "The US Government develops a deadly nerve gas and tests it on a small Maryland city. The gas turns infected citizens into zombie-like beings who spread the transformation. Six unrelated strangers find themselves trapped inside a movie theater cineplex, surrounded by the infected outside. They must survive until dawn while uncovering the truth behind the secret exercise.",
+      "core": "Deadlands 2 explores government experimentation gone wrong and the horror of containment. It uses the confined theater setting to create claustrophobic tension.",
+      "created_at": "2026-06-16 23:40:43",
       "watch_url": null
     },
     {
@@ -8371,6 +8425,24 @@
       "watch_url": null
     },
     {
+      "title": "Guardian",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "John Cross",
+      "raw_score": 2.9,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Surveillance, Rebellion, Drugs",
+      "image_filename": "guardian_2001.jpg",
+      "pitch": "In a dystopian inner city plagued by violence, an ex-Marine named John Kross investigates a new drug called Chaos that has unleashed a terrifying supernatural power on the streets. The investigation reveals connections to a dark force witnessed during the Gulf War.",
+      "truth": "When violence rocks the inner city, LAPD recruits ex-Marine John Kross to investigate a new drug called Chaos. With his partner Carpenter, Kross delves into the mystery and uncovers a link between the drug and a supernatural power unleashed during the Gulf War\u2014something he witnessed twelve years ago. Now Kross must stop the destruction before it spreads.",
+      "core": "Guardian blends cyberpunk aesthetics with supernatural elements, exploring themes of government experimentation and the unintended consequences of military technology.",
+      "created_at": "2026-06-16 23:40:03",
+      "watch_url": null
+    },
+    {
       "title": "Guest from the Future",
       "year": 1985,
       "medium": "TV Series",
@@ -11303,6 +11375,24 @@
       "core": "**Power and Corruption:** The Divine Order represents authoritarian control, while the Lexx crew represents freedom and chaos.\n\n**Identity and Transformation:** Characters are constantly transformed \u2014 Zev becomes Xev, Kai is undead, suggesting identity is fluid.\n\n**Subversive Satire:** The series parodies science fiction tropes while embracing taboo themes that earned it TV-MA ratings.\n\n**Cult Following:** Despite mixed reviews, Lexx developed a devoted fanbase appreciate its unique vision and boundary-pushing content.",
       "created_at": "2026-03-01 23:43:47",
       "watch_url": "https://archive.org/details/lexx-season-one"
+    },
+    {
+      "title": "Lightning: Bolts of Destruction",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Michael A. Rasso",
+      "raw_score": 4.96,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Disaster",
+      "topics": "Family, Survival, Climate",
+      "image_filename": "lightning_bolts_of_destruction_2003.jpg",
+      "pitch": "When a relentless electrical storm threatens to ignite the atmosphere and destroy all life on Earth, a meteorologist and her family must find a way to stop it before it's too late. The film delivers tense disaster thrills with a focus on family survival under impossible odds.",
+      "truth": "A meteorologist discovers a massive electrical storm that could ignite Earth's atmosphere and destroy all life. She and her family race to develop a counter-strike plan while officials remain skeptical.",
+      "core": "The film explores family bonds under extreme pressure and the tension between scientific knowledge and institutional disbelief.",
+      "created_at": "2026-06-16 23:39:14",
+      "watch_url": null
     },
     {
       "title": "Lightspeed Electroid Albegas",
@@ -30097,5 +30187,5 @@
       "watch_url": null
     }
   ],
-  "count": 1672
+  "count": 1677
 }
