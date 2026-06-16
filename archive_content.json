@@ -6931,6 +6931,24 @@
       "watch_url": "https://archive.org/details/funky-koval-kalandjai"
     },
     {
+      "title": "Future '38",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Jamie Greenberg",
+      "raw_score": 3.44,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time Travel, Satire, WWII",
+      "image_filename": "future_38.jpg",
+      "pitch": "In 1938, scientists develop a bomb using an isotope that takes 80 years to mature. A secret agent is sent to 2018 to retrieve it and stop Hitler. This romantic comedy premiered at Slamdance 2017, starring Neil deGrasse Tyson as himself.",
+      "truth": "In 1938, American scientists in the secret \\\"Vastly Clandestine Program\\\" develop a bomb using a Formica isotope that takes 80 years to mature. They send a secret agent to 2018 to retrieve the isotope and return it to test the bomb and prevent Hitler from starting WWII.\n\nThe agent arrives in 2018 with just 24 hours to adapt to modern technology, retrieve the isotope, and get back.",
+      "core": "FUTURE '38 is an inventive entry in the time-travel-to-stop-Hitler subgenre. Rather than a grim alternate-history drama, it's a romantic comedy that uses the premise to satirize the gulf between 1938 and 2018.",
+      "created_at": "2026-06-16 01:36:22",
+      "watch_url": null
+    },
+    {
       "title": "Future Boy Conan",
       "year": 1978,
       "medium": "Anime",
@@ -12436,7 +12454,7 @@
       "truth": "The egg hatches in Cincinnati and the baby kaiju grows when it consumes alcohol. Scientists debate whether to destroy or save the creature. An anti-beer formula eventually shrinks it back to normal size.",
       "core": "Notzilla is a loving parody of 1950s-60s kaiju films, with humor about nuclear testing and Cold War paranoia. Won awards at Florida Comedy Film Festival and other festivals.",
       "created_at": "2026-06-16 01:12:56",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_17621"
     },
     {
       "title": "Nukie",
@@ -27289,5 +27307,5 @@
       "watch_url": null
     }
   ],
-  "count": 1516
+  "count": 1517
 }

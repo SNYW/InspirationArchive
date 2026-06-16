@@ -6161,6 +6161,22 @@
       "watch_url": "https://archive.org/details/funky-koval-kalandjai"
     },
     {
+      "title": "Future '38",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Jamie Greenberg",
+      "raw_score": 3.44,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Time-Travel, Science-Fantasy",
+      "topics": "Time Travel, Satire, WWII",
+      "image_filename": "future_38.jpg",
+      "pitch": "In 1938, scientists develop a bomb using an isotope that takes 80 years to mature. A secret agent is sent to 2018 to retrieve it and stop Hitler. This romantic comedy premiered at Slamdance 2017, starring Neil deGrasse Tyson as himself.",
+      "created_at": "2026-06-16 01:36:22",
+      "watch_url": null
+    },
+    {
       "title": "Future Boy Conan",
       "year": 1978,
       "medium": "Anime",
@@ -11054,7 +11070,7 @@
       "image_filename": "Notzilla_2019.jpg",
       "pitch": "A kaiju comedy parody of Godzilla films, written and directed by Mitch Teemley. In 1962, the JSDF kills a mother kaiju, but a paleontologist rescues her egg and takes it to Ohio.",
       "created_at": "2026-06-16 01:12:56",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_17621"
     },
     {
       "title": "Nukie",
@@ -24257,5 +24273,5 @@
       "watch_url": null
     }
   ],
-  "count": 1516
+  "count": 1517
 }
