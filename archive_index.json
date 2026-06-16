@@ -2817,6 +2817,22 @@
       "watch_url": "https://archive.org/details/rayo-negro-black-lightning-2009"
     },
     {
+      "title": "Black Mirror: Bandersnatch",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Charlie Brooker",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Interactive, Meta-Fiction",
+      "topics": "VR, Free Will, Time-Travel",
+      "image_filename": null,
+      "pitch": "In 1984, a young programmer adapts a fantasy gamebook into a video game\u2014but viewers make his choices for him, blurring the line between fiction and reality in this interactive Black Mirror film.",
+      "created_at": "2026-06-16 19:29:53",
+      "watch_url": null
+    },
+    {
       "title": "Black Oxen",
       "year": 1923,
       "medium": "Film",
@@ -3326,6 +3342,22 @@
       "image_filename": "Captain_Harlock_1978.jpg",
       "pitch": "Space Pirate Captain Harlock is a landmark 1978 Japanese anime series created by Leiji Matsumoto and produced by Toei Animation. Set in the year 2977 AD, the series follows Captain Harlock, a legendary space pirate who has turned rebel against Earth's corrupt government and humanity's collective apathy. Harlock commands the pirate ship Arcadia, waging a one-man war against the Subversive Forces that have subjugated humanity. The series is renowned for its dark, mature themes, complex anti-hero protagonist, and stunning visuals that defined the space opera genre in anime. Unlike typical hero narratives, Harlock is a tragic figure\u2014defiant to the end, never seeking redemption or victory, only the freedom to resist.",
       "created_at": "2026-03-04 17:06:05",
+      "watch_url": null
+    },
+    {
+      "title": "Captain Nemo",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.25,
+      "total_ratings": 18,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Aliens, Exploration, Monsters",
+      "image_filename": "Captain_Nemo_1975.jpg",
+      "pitch": "A mysterious sea monster has been sinking ships across the oceans, leaving only triangular wounds in their hulls. America dispatches the Blue Star frigate to hunt it down. Among the crew is a professor whose expertise may hold the key to understanding the creature \u2014 which proves to be far stranger than any mere monster.",
+      "created_at": "2026-06-16 19:33:20",
       "watch_url": null
     },
     {
@@ -5183,6 +5215,22 @@
       "pitch": "In a future where humanity has spread across the stars, the Dorsai are a warrior race\u2014genetically engineered mercenaries from the planet Dorsai, feared across the galaxy for their unmatched combat skills. When the Confederation of Suns faces imminent invasion by the aggressive Marius Empire, they turn to the one force that might save them: the Dorsai.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/dorsaidorsaichil00gord"
+    },
+    {
+      "title": "Downsizing",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Alexander Payne",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia, Comedy",
+      "topics": "Class Struggle, Ecology, Politics",
+      "image_filename": null,
+      "pitch": "When a revolutionary procedure to shrink humans promises to solve overpopulation and environmental crisis, Paul Safranek undergoes the process\u2014only to have his wife back out at the last minute, leaving him alone in a luxury miniature community.",
+      "created_at": "2026-06-16 19:29:43",
+      "watch_url": null
     },
     {
       "title": "Dr. Cyclops",
@@ -19713,6 +19761,22 @@
       "watch_url": null
     },
     {
+      "title": "The Host",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Andrew Niccol",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Romance",
+      "topics": "Aliens, Love, Survival",
+      "image_filename": null,
+      "pitch": "Parasitic alien Souls have conquered Earth, inhabiting human bodies. When Melanie Stryder is captured and infused with a Soul called Wanderer, her consciousness hasn't faded\u2014two minds share one body in an uneasy dialogue about identity and love.",
+      "created_at": "2026-06-16 19:29:28",
+      "watch_url": null
+    },
+    {
       "title": "The House in the Square",
       "year": 1951,
       "medium": "Film",
@@ -26129,5 +26193,5 @@
       "watch_url": null
     }
   ],
-  "count": 1633
+  "count": 1637
 }
