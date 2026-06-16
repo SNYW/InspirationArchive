@@ -11143,6 +11143,24 @@
       "watch_url": "https://archive.org/details/loupsgar"
     },
     {
+      "title": "Love Bites",
+      "year": 2002,
+      "medium": "TV Series",
+      "creator": "Carlos Alberto",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "Brazil",
+      "mood": "Tense",
+      "sub_genres": "Horror, Supernatural",
+      "topics": "Vampires, Immortality, Love",
+      "image_filename": "love_bites_2002.jpg",
+      "pitch": "A Brazilian series set in the fictional city of Maramores, following L\u00edvia whose destiny is shaped in the 12th century when vampire Boris falls madly in love with her and decides to win her over at any cost.",
+      "truth": "The story spans multiple time periods. In medieval times, L\u00edvia is Princess Cec\u00edlia, Beto is Count Rog\u00e9rio, and Boris is Duke Boris. The present-day story begins with the introduction of L\u00edvia in modern Maramores, where she becomes entangled with vampire Boris across centuries of pursuit.",
+      "core": "A vampire romance exploring immortality and obsessive love across centuries. The series blends Brazilian supernatural folklore with period drama elements.",
+      "created_at": "2026-06-16 14:35:55",
+      "watch_url": null
+    },
+    {
       "title": "Love City",
       "year": 1986,
       "medium": "Film",
@@ -18235,6 +18253,24 @@
       "watch_url": "https://archive.org/details/TakingTigerMountain"
     },
     {
+      "title": "Tales from the Neverending Story",
+      "year": 2001,
+      "medium": "TV Series",
+      "creator": "NBC",
+      "raw_score": 2.86,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Imagination, Magic, Adventure",
+      "image_filename": "tales_from_the_neverending_story_2001.jpg",
+      "pitch": "A 2001 American series that reimagines Michael Ende's classic fantasy novel. When 12-year-old Bastian loses his mother, he discovers a magical book called The Neverending Story that transports him into its world.",
+      "truth": "Bastian Balthazar Bux, a boy who lost his imagination to growing up, discovers a magical book in a curious little bookstore. The book draws him into Fantasia, where he must help restore the dying world by remembering its stories. He creates an enchanted world from his imagination while dealing with his grief.",
+      "core": "A meditation on imagination, grief, and the power of stories. The series explores how fantasy can help children process loss and find courage.",
+      "created_at": "2026-06-16 14:36:09",
+      "watch_url": null
+    },
+    {
       "title": "Tales to Keep You Awake",
       "year": 1966,
       "medium": "TV Series",
@@ -21778,6 +21814,24 @@
       "truth": "Engineer Petr Garin possesses a revolutionary beam-weapon called the hyperboloid, capable of destroying targets at great distances. After vanishing with his invention, the Soviet authorities task Vasily Shelga with tracking him down.\n\nGarin has been approached by foreign powers offering vast sums for his weapon. He demands one million rubles and complete immunity. As negotiations progress, Garin demonstrates his hyperboloid by destroying a military ship at sea\u2014proving his device's terrifying power.\n\nShelga tracks Garin to his mountain fortress laboratory. A tense confrontation ensues, but Garin is ultimately killed when his own device malfunctions during a demonstration, destroying his laboratory and himself. Shelga escapes, and the hyperboloid is destroyed with its creator.\n\nThe film ends with a warning: while Garin is dead, others may attempt to recreate his weapon. The deadly technology falls\u2014but its potential for misuse lingers.",
       "core": "The Hyperboloid of Engineer Garin is a fascinating artifact of Soviet science fiction that explores technology as a double-edged sword. Adapted from Aleksey Tolstoy's 1927 novel, it predates real lasers by decades, yet imagines them with striking prescience.\n\nThe film asks: what happens when revolutionary technology falls into the hands of an individual unchecked by society? Garin is not a mad scientist but a rational entrepreneur\u2014he seeks profit and power, not destruction for its own sake. His hyperboloid becomes a metaphor for any transformative technology: nuclear weapons, AI, or genetic engineering. The Soviet setting adds Cold War resonance\u2014the weapon could tip the global balance of power.\n\nCharles H. Townes, inventor of the laser, reportedly cited this novel as an inspiration. The Soviet rock band Kino originally named themselves \"Garin and the Hyperboloids\" after the story. A cult work that influenced both Eastern and Western science fiction.",
       "created_at": "2026-06-12 20:42:46",
+      "watch_url": null
+    },
+    {
+      "title": "The Immortal",
+      "year": 2000,
+      "medium": "TV Series",
+      "creator": "John Bradshaw",
+      "raw_score": 2.86,
+      "total_ratings": 14,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Immortality, Supernatural, Survival",
+      "image_filename": "the_immortal_2000.jpg",
+      "pitch": "A Canadian series (2000-2001) about a secret society of immortals living among humans for centuries. Bound by ancient rules forbidding them from revealing their nature, each immortal is reborn upon death with no memory\u2014until past-life memories resurface.",
+      "truth": "Follows a group of hidden immortals under strict rules. When one dies, they are reborn as an infant and eventually regain past-life memories. The show centers on discovering and guiding the newest immortal while navigating internal politics and external threats.",
+      "core": "Examines the philosophical burden of immortality\u2014isolation, loss with mortal society, and whether endless life is blessing or curse. Explores identity when physical form can be reborn and centuries of memories accumulate.",
+      "created_at": "2026-06-16 14:35:37",
       "watch_url": null
     },
     {
@@ -28765,5 +28819,5 @@
       "watch_url": null
     }
   ],
-  "count": 1598
+  "count": 1601
 }
