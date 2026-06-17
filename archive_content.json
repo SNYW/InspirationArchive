@@ -4987,6 +4987,24 @@
       "watch_url": null
     },
     {
+      "title": "Cybersix",
+      "year": 1999,
+      "medium": "Anime",
+      "creator": "Carlos Trillo",
+      "raw_score": 3.42,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Cybernetics, Genetic Engineering, Identity, Rebellion",
+      "image_filename": "Cybersix_1999.jpg",
+      "pitch": "In dark M\u00e9ridiana, Cybersix hides by day as teacher Adrian Seidelman\u2014and by night fights her creator Dr. Von Reichter's Techno creations. A genetic survivor from an army of 5000 artificial humanoids, she seeks identity and freedom. Adapted from the acclaimed Argentine comic.",
+      "truth": "Cybersix is Cyber-6, created by Nazi scientist Von Reichter in South America. When the Cyber series gained emotions, Reichter ordered them destroyed. Cybersix escaped to M\u00e9rdiana, disguising as the murdered Adrian. She battles Reichter's creations to consume their sustenance liquid, aided by orphan Julian and cloned son Jos\u00e9.",
+      "core": "Explores performed identity\u2014survival through self-reinvention. The creator-creation dynamic questions autonomy over engineered beings. The Argentine comic achieved cult status across Europe, sparking a lawsuit against Dark Angel for alleged plagiarism.",
+      "created_at": "2026-06-17 03:50:22",
+      "watch_url": null
+    },
+    {
       "title": "Cyborg 009",
       "year": 1968,
       "medium": "TV Series",
@@ -30637,5 +30655,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1702
+  "count": 1703
 }
