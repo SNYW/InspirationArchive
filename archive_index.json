@@ -25921,6 +25921,22 @@
       "watch_url": "https://archive.org/details/witchesofkarres0000jame"
     },
     {
+      "title": "The Wonderful Wizard of Oz",
+      "year": 1986,
+      "medium": "Anime",
+      "creator": "Masaru Tonogawachi",
+      "raw_score": 4.16,
+      "total_ratings": 30,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy",
+      "topics": "Magic, Fairy Tale",
+      "image_filename": "The_Wonderful_Wizard_of_Oz_1986.jpg",
+      "pitch": "A Japanese anime adaptation of L. Frank Baum's Oz books, this 52-episode series brings Dorothy, the Scarecrow, Tin Man, and Cowardly Lion to life in a fresh new way. The story continues beyond the original Wizard of Oz, following Dorothy's return to Oz and new adventures in the Emerald City.",
+      "created_at": "2026-06-17 17:13:04",
+      "watch_url": null
+    },
+    {
       "title": "The Word for World is Forest",
       "year": 1976,
       "medium": "Novella",
@@ -28705,5 +28721,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1794
+  "count": 1795
 }
