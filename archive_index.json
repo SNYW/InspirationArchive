@@ -657,6 +657,22 @@
       "watch_url": null
     },
     {
+      "title": "A Rough Draft",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Sergey Lukyanov",
+      "raw_score": 2.6,
+      "total_ratings": 167,
+      "origin": "Russia",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Thriller",
+      "topics": "Parallel Worlds, Discovery, Identity",
+      "image_filename": "A_Rough_Draft_2018.jpg",
+      "pitch": "A talented game designer suddenly discovers he exists in multiple parallel realities. He learns he has been chosen as a customs officer between worlds\u2014and someone is erasing his existence.",
+      "created_at": "2026-06-17 14:40:35",
+      "watch_url": null
+    },
+    {
       "title": "A Saucer of Loneliness",
       "year": 1953,
       "medium": "Short Story",
@@ -3633,6 +3649,22 @@
       "watch_url": null
     },
     {
+      "title": "Calculator",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Aleksandr Voitenko",
+      "raw_score": 2.45,
+      "total_ratings": 170,
+      "origin": "Russia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Survival, Prison, Exploration",
+      "image_filename": null,
+      "pitch": "Ten prisoners must traverse a deadly swamp to reach the Islands of Happiness\u2014the only safe area on a hostile planet. Before the harsh climate or underground horrors kill them all.",
+      "created_at": "2026-06-17 14:40:39",
+      "watch_url": null
+    },
+    {
       "title": "California Crisis: Gun Salvo",
       "year": 1986,
       "medium": "Film",
@@ -4767,6 +4799,22 @@
       "pitch": "Dallos is a groundbreaking 4-episode OVA released in 1983, widely considered not only the first OVA ever produced but also the first animated direct-to-video release in history. Set in a near-future Earth where resources have been depleted, the story follows the colonists living on Moon mining stations who have been exploited by Earth's government for generations. When the colonists begin to resist through acts of terrorism, a young man named Shun Nonomura finds himself caught between loyalty to his people and the violent path they're taking. At the center of the colonists' hope is a mysterious artifact called Dallos\u2014a structure on the Moon that has become an object of worship. This is a story about colonial oppression, generational divides, and the question of what it means to be human when your home is no longer your own.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/turner_video_11090"
+    },
+    {
+      "title": "Dance to Death",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Andrei Volgin",
+      "raw_score": 2.15,
+      "total_ratings": 75,
+      "origin": "Russia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Action",
+      "topics": "Survival, Competition, Post-Apocalypse",
+      "image_filename": "Dance_to_Death_2017.jpg",
+      "pitch": "In post-apocalyptic 2070 Russia, humanity survives on energy from deadly dance tournaments. When a young man enters the arena to save the woman he loves, the stakes become life and death.",
+      "created_at": "2026-06-17 14:40:15",
+      "watch_url": null
     },
     {
       "title": "Dandy Dust",
@@ -7761,6 +7809,22 @@
       "watch_url": "https://archive.org/details/720gcs1-11"
     },
     {
+      "title": "Generation P",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Victor Ginzburg",
+      "raw_score": 3.18,
+      "total_ratings": 125,
+      "origin": "Russia",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Advertising, Consumerism, Conspiracy, Mythology",
+      "image_filename": "Generation_P_2011.jpg",
+      "pitch": "A disaffected poet-turned-advertising copywriter navigates Moscow's chaotic 90s. As he climbs the corporate ladder, he discovers that advertising is actually ancient Babylonian mythology come to life.",
+      "created_at": "2026-06-17 14:40:26",
+      "watch_url": null
+    },
+    {
       "title": "Genma Wars",
       "year": 1967,
       "medium": "Manga",
@@ -8478,6 +8542,22 @@
       "image_filename": "Hard_to_Be_a_God_1964.jpg",
       "pitch": "In a distant future, Earth has achieved near-utopian heights, but a dark shadow looms over the galaxy: the planet Arkanar, a world trapped in its own brutal medieval period. Don Rumata, a highly evolved human from Earth, operates undercover on Arkanar as a noble's advisor, equipped with technology that makes him nearly godlike to the planet's oppressed populace. His mission: observe and document without interfering in the natural development of primitive civilizations\u2014a strict policy of non-intervention.\n\nBut Arkanar is no ordinary medieval world. It's a place where intellectuals are hunted, books are burned, and violence is worshipped as divine will. Rumata watches helplessly as the planet's small population of scholars, scientists, and free thinkers is systematically exterminated by a ruthless aristocracy and religious authorities. The temptation to use his superior abilities to save these innocent people grows unbearable, yet breaking the observational protocol could have galaxy-wide consequences.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Hard to Be a God",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Aleksei German",
+      "raw_score": 3.25,
+      "total_ratings": 165,
+      "origin": "Russia",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Violence, Medieval, Philosophy, Aliens",
+      "image_filename": "Hard_to_Be_a_God_2014.jpg",
+      "pitch": "Scientists on a medieval alien planet cannot intervene as they watch intellectuals being murdered. One scientist breaks the rules to fight back\u2014only to discover the darkness within himself.",
+      "created_at": "2026-06-17 14:40:31",
       "watch_url": null
     },
     {
@@ -10481,6 +10561,22 @@
       "watch_url": null
     },
     {
+      "title": "Ku! Kin-dza-dza",
+      "year": 2013,
+      "medium": "Animated Film",
+      "creator": "Georgy Danelia",
+      "raw_score": 2.49,
+      "total_ratings": 83,
+      "origin": "Russia",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Post-Apocalypse",
+      "topics": "Aliens, Racism, Survival, Discovery",
+      "image_filename": "Ku_Kin-dza-dza_2013.jpg",
+      "pitch": "A renowned cellist and his nephew are transported to a desert planet ruled by brutal racism. To find their way home, they must navigate a world where newcomers are constantly betrayed.",
+      "created_at": "2026-06-17 14:40:20",
+      "watch_url": null
+    },
+    {
       "title": "Kurau Phantom Memory",
       "year": 2004,
       "medium": "Anime",
@@ -11454,6 +11550,22 @@
       "image_filename": "Mahou_Sentai_Magiranger_vs_Dekaranger_2006.jpg",
       "pitch": "A tokusatsu team-up film combining the magical heroes of Mahou Sentai Magiranger with the space police of Tokusou Sentai Dekaranger. The Ozu siblings with their magical powers join forces with the Dekaangers to battle a threat neither team can defeat alone.",
       "created_at": "2026-06-16 09:07:39",
+      "watch_url": null
+    },
+    {
+      "title": "Major Grom",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Andrei Volgin",
+      "raw_score": 3.2,
+      "total_ratings": 70,
+      "origin": "Russia",
+      "mood": "Gritty",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "Crime, Superheroes, Vigilantism",
+      "image_filename": "Major_Grom_2017.jpg",
+      "pitch": "Russian superhero origin story. Detective Igor Grom takes on bank robbers with only his skills and determination\u2014no supernatural powers, just a man who refuses to look away from injustice.",
+      "created_at": "2026-06-17 14:40:07",
       "watch_url": null
     },
     {
@@ -28449,5 +28561,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1778
+  "count": 1785
 }
