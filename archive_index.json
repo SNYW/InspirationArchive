@@ -18881,6 +18881,22 @@
       "watch_url": null
     },
     {
+      "title": "Terminator Zan Kill",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Sion",
+      "raw_score": 2.85,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Military",
+      "topics": "Nuclear War, Rebellion, Authoritarianism",
+      "image_filename": "Terminator_Zan_Kill_2009.jpg",
+      "pitch": "In 2050, nuclear war devastates the world. The Japanese Imperial Army, led by the Tanahashi family, establishes NEO YAMATO \u2014 a totalitarian government seeking world conquest. A rebel faction within the army fights to overthrow the regime and restore peace. A low-budget pulp sci-fi action film that delivers on its title with relentless combat and maximalist dystopia.",
+      "created_at": "2026-06-17 19:41:04",
+      "watch_url": null
+    },
+    {
       "title": "Terrahawks",
       "year": 1983,
       "medium": "TV Series",
@@ -28929,5 +28945,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1808
+  "count": 1809
 }
