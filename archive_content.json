@@ -14743,6 +14743,24 @@
       "watch_url": "https://archive.org/details/new-video-13_202212"
     },
     {
+      "title": "New Cutey Honey",
+      "year": 1994,
+      "medium": "OVA",
+      "creator": "Go Nagai",
+      "raw_score": 3.2,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Cybernetics, Robots, Aliens",
+      "image_filename": "new_cutey_honey_1994.jpg",
+      "pitch": "Set 100 years after the original Cutie Honey, this 1994 OVA introduces Honey Kisaragi, an android who can transform into multiple personas by shouting \"Honey Flash!\" When crime lord Dolmeck threatens Cosplay City, Honey must reclaim her lost memories and powers to defeat him.",
+      "truth": "Honey is actually a gynoid working as Mayor Light's secretary. When Dolmeck attacks, she regains her ability to transform into Cutie Honey. With help from cyborg Danbei Hayami and his grandson Chokkei, Honey battles Dolmeck's forces, recovers her lost memories, and defeats him. Later episodes feature new enemies.",
+      "core": "This OVA explores identity through its android protagonist\u2014her transformations raise questions about what defines humanity. It subverts the magical girl genre by making its heroine mechanical rather than human. Nagai connects it to his broader demon robot universe.",
+      "created_at": "2026-06-17 16:22:53",
+      "watch_url": null
+    },
+    {
       "title": "New Eden",
       "year": 1994,
       "medium": "Film",
@@ -24013,6 +24031,24 @@
       "watch_url": "https://archive.org/details/girl-from-starship-venus-the-sexplorer-1975"
     },
     {
+      "title": "The Girl from Tomorrow",
+      "year": 1992,
+      "medium": "TV Series",
+      "creator": "Mark Shirrefs, John Thomson, Kathy Mueller",
+      "raw_score": 3.61,
+      "total_ratings": 18,
+      "origin": "Australia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Children, Aliens",
+      "image_filename": "girl_from_tomorrow_1992.jpg",
+      "pitch": "An Australian children's sci-fi series from Film Australia. In the year 3000, Alana\u2014a girl from a utopian future\u2014is kidnapped by criminal Silverthorn and brought to 1990. She must befriends teenager Jenny Kelly and work to return to her own time while foiling Silverthorn's schemes.",
+      "truth": "Alana is kidnapped by Silverthorn, a villain from 2500 who escapes to 1990 with her. In 1990, she meets Jenny Kelly and her family, who help her evade Silverthorn. He uses the Time Capsule's database to bet on horse races and become wealthy. Alana and Jenny must retrieve the Capsule so Alana can return home to year 3000.",
+      "core": "This series examines what makes humanity worth preserving\u2014the characters choose hope over cynicism. It presents a utopian future worth fighting for and shows children capable of heroic choices. The Time-Travel premise explores how small actions ripple across centuries.",
+      "created_at": "2026-06-17 16:23:01",
+      "watch_url": null
+    },
+    {
       "title": "The Gladiators",
       "year": 1969,
       "medium": "Film",
@@ -32221,5 +32257,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1790
+  "count": 1792
 }
