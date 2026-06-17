@@ -12061,6 +12061,24 @@
       "watch_url": "https://archive.org/details/lexx-season-one"
     },
     {
+      "title": "Librarian",
+      "year": 2023,
+      "medium": "TV Series",
+      "creator": "Russian",
+      "raw_score": 3.7,
+      "total_ratings": 12,
+      "origin": "Russia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Magic, Books, Survival",
+      "image_filename": "librarian.jpg",
+      "pitch": "An unsuccessful actor learns his father was killed under mysterious circumstances and travels to his father's hometown to sell an apartment, but instead finds himself embroiled in dangerous events. Locals believe that books by a long-forgotten Soviet writer have magical properties - each giving a specific supernatural effect.",
+      "truth": "Actor Alexey Vyazintsev learns his father was killed mysteriously. He travels to the town of Shironino to sell his father's apartment, but instead discovers locals believe in the magical books of Soviet writer Gromov. Each book grants a different power - Rage, Patience, Strength and more. Alexey becomes trapped in a deadly conflict over these books.",
+      "core": "Librarian explores the power of knowledge and words as dangerous forces. The magical books serve as a metaphor for forbidden ideas and the danger of unchecked information. It examines how stories and narratives can control, empower or destroy people.",
+      "created_at": "2026-06-17 11:45:47",
+      "watch_url": null
+    },
+    {
       "title": "Lightning: Bolts of Destruction",
       "year": 2003,
       "medium": "Film",
@@ -16237,6 +16255,24 @@
       "watch_url": null
     },
     {
+      "title": "Prima Doll",
+      "year": 2022,
+      "medium": "Anime",
+      "creator": "Key",
+      "raw_score": 2.55,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Memory, Redemption",
+      "image_filename": "prima_doll.jpg",
+      "pitch": "In a post-war world where former weapons automata search for purpose, a caf\u00e9 run by former soldiers becomes their sanctuary. Kuronekotei offers these lost machines with human hearts a chance to find meaning in an unfamiliar, peaceful world.",
+      "truth": "Following a great war where humanoid automata served as weapons, peace has arrived. These machines with human hearts now search for their place in a world that no longer needs them. Their search begins at Kuronekotei, a caf\u00e9 in a quiet town. The automata - each with their own memories and personalities - work to find purpose while confronting their past as weapons.",
+      "core": "Prima Doll examines what it means to have a soul and the search for identity beyond one's programmed purpose. The former weapons symbolize individuals seeking redemption after being used for violence. It asks: can machines (or people) transcended their original function and find genuine humanity?",
+      "created_at": "2026-06-17 11:45:28",
+      "watch_url": null
+    },
+    {
       "title": "Prince Bayaya",
       "year": 1950,
       "medium": "Animated Film",
@@ -19511,6 +19547,24 @@
       "core": "Starcrash represents a fascinating artifact of late 1970s cinema culture, when the success of Star Wars spawned countless imitations worldwide. The Italian film industry, renowned for producing speculative fiction through their \"poliziotteschi\" and \"giallo\" genres, applied their sensibilities to space opera, creating a film that feels both inspired by and distinctly apart from American blockbusters.\n\nThe film's production history is notable: despite being an Italian production, it secured Christopher Plummer and John Barry (the latter fresh from scoring multiple James Bond films) to add international appeal. The result is a peculiar hybrid\u2014American distribution and English language, but Italian production values and that distinctive European sci-fi aesthetic of model work and painted backdrops.\n\nStarcrash has endured as a cult film, particularly after being featured on Mystery Science Theater 3000, where its earnest attempt at epic storytelling combined with budget limitations creates an unforgettable viewing experience. It demonstrates how even failed ambitions can produce compelling art, and how international film industries adapted to compete with Hollywood's new dominance in the speculative fiction genre.",
       "created_at": "2026-03-03 13:03:53",
       "watch_url": "https://archive.org/details/turner_video_956"
+    },
+    {
+      "title": "Stardust Telepath",
+      "year": 2023,
+      "medium": "Anime",
+      "creator": "Rasuko \u014ckuma",
+      "raw_score": 3.35,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Friendship, Space Travel",
+      "image_filename": "stardust_telepath.jpg",
+      "pitch": "Umika is a shy high school girl who dreams of having a friend from another planet. When Yu, a transfer student who is actually an alien with telepathic powers, arrives at school, their friendship sparks a shared dream: to build a rocket and shoot for the stars together.",
+      "truth": "Umika is a timid student who struggles to speak to others. Yu turns out to be an alien with telepathic abilities. They become close friends and make a pact to build a rocket together, rallying classmates to help. The series follows their journey toward their shared dream of reaching space.",
+      "core": "Stardust Telepath explores overcoming social anxiety through friendship and pursuing dreams. The alien protagonist serves as a metaphor for feeling different and wanting to belong. What makes us unusual can be our greatest strength - you just need the courage to try.",
+      "created_at": "2026-06-17 11:45:01",
+      "watch_url": null
     },
     {
       "title": "Starflight",
@@ -31609,5 +31663,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1756
+  "count": 1759
 }
