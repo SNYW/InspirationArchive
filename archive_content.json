@@ -10945,6 +10945,24 @@
       "watch_url": null
     },
     {
+      "title": "Isolation",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Billy O'Brien",
+      "raw_score": 2.77,
+      "total_ratings": 206,
+      "origin": "Ireland",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Pandemic, Survival",
+      "image_filename": "isolation_2005.jpg",
+      "pitch": "On a remote Irish farm, a genetic experiment goes horrifyingly wrong. A biotech firm is paying farmer Dan Reilly to host experiments on his cattle, but when a calf is born with fangs and escapes its mother, something far worse emerges\u2014a parasitic creature that breeds inside cows and can infect humans.",
+      "truth": "A biotech firm's cattle experiment on Dan's farm goes wrong when a calf is born with fangs. Deformed foetuses with exposed skeletons escape. The parasites hide in water, infecting livestock and humans. Farmhand Jamie is killed. Mary kills the creatures but Dan dies. Months later, pregnant Mary sees a creature on her ultrasound.",
+      "core": "Isolation blends sci-fi horror with body-farm aesthetics, exploring unintended consequences of genetic engineering. The film suggests that playing with nature carries devastating consequences.",
+      "created_at": "2026-06-17 19:14:59",
+      "watch_url": null
+    },
+    {
       "title": "It Happened Here",
       "year": 1964,
       "medium": "Film",
@@ -16306,6 +16324,24 @@
       "truth": "The gameplay centers on controlling a frog that jumps from one lily pad to another in a metaphor for navigating the chaotic landscape of Soviet reform. Each lily pad represents the ever-changing laws and acts of the Perestroika era\u2014constantly shrinking and disappearing only to reappear elsewhere. The player collects dots in four colors: blue symbolizes grocery goods, red represents currency transactions, yellow represents taxes, and brown represents business ventures. A currency transaction can sometimes add extra life, a tax reduces the score, and a company can sometimes sink the player's figure.\n\nStarting from the seventh level, the game introduces one or more evil creatures called \"bureaucrats\" that follow the frog and attempt to catch it. The frog dies if the lily pad on which it is standing disappears, if the player moves it to a place where there is no lily pad, or if it is caught by a bureaucrat. The frog symbolizes a democrat navigating the impossible landscape of Soviet change, while the bureaucrat enemies represent the entrenched Soviet administrative apparatus resisting reform.\n\nIn 1995, Nikita Online released a remake called \"Toppler\" for Windows 3.1x, keeping all gameplay identical but replacing Gorbachev's face on the title screen with a frog, and substituting the coin for advancing to the next level with a lily flower. The game can still be played today using DOSBox emulation.",
       "core": "Perestroika stands as a remarkable artifact of late Soviet-era political expression through interactive media. Created during the brief window of Glasnost and Perestroika when political satire became possible, the game directly engages with the contradictions and chaos of Soviet \"restructuring.\" The frog as a symbol of the democrat trying to navigate impossible circumstances, the ever-changing lily pads representing unstable policies, and most importantly, the bureaucrats as enemies\u2014these all reflect the popular sentiment toward Soviet bureaucracy during the dissolution.\n\nThe game is significant not for its gameplay innovation (it draws clear inspiration from earlier games like Nebulus/Tower Toppler) but for its context and timing. Released in 1990, it captures a unique historical moment when Soviet citizens could openly satirize their government through entertainment media. The ZX Spectrum Czech variant (\"Perestrojka\") further demonstrates how the themes of political transformation resonated across the Eastern Bloc.\n\nToday, Perestroika represents a fascinating intersection of gaming history, political history, and digital preservation. It demonstrates how video games can serve as historical documents\u2014preserving the mood, anxieties, and even dark humor of a society in transformation. For scholars of Soviet culture and digital humanities, it offers a rare glimpse into interactive media's role in one of the 20th century's most significant political transformations.",
       "created_at": "2026-03-01 11:33:46",
+      "watch_url": null
+    },
+    {
+      "title": "Perfect Creature",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Glenn Standring",
+      "raw_score": 2.65,
+      "total_ratings": 98,
+      "origin": "New-Zealand",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Vampires, Identity, Survival",
+      "image_filename": "perfect_creature_2007.jpg",
+      "pitch": "In an alternate New Zealand where vampires live among humans as the Brotherhood, detective Lilly Squires partners with vampire Brother Silus to hunt a killer in the slums. Their investigation uncovers a plot to create the first female vampire\u2014a virus designed to revolutionize vampire society, but twisted into something deadly.",
+      "truth": "In an alternate New Zealand, vampire brothers work with human police. When women are killed with bitten throats in Jamestown, detective Lilly partners with Brother Silus. They discover his brother Edgar created a virus to birth female vampires. Edgar attacks Lilly before escaping. She kills him, revealing the first female vampire baby.",
+      "core": "Perfect Creature reimagines vampires as a metaphor for otherness and integration. The film asks whether monsters are born or made. Edgar's tragedy shows how the desire to create new life led to destruction.",
+      "created_at": "2026-06-17 19:14:22",
       "watch_url": null
     },
     {
@@ -32509,5 +32545,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1806
+  "count": 1808
 }
