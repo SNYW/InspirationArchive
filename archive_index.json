@@ -7637,8 +7637,8 @@
       "year": 1977,
       "medium": "Manga",
       "creator": "Leiji Matsumoto",
-      "raw_score": null,
-      "total_ratings": 0,
+      "raw_score": 3.77,
+      "total_ratings": 8933,
       "origin": "Japan",
       "mood": "Melancholic",
       "sub_genres": "Space-Opera",
@@ -8847,6 +8847,22 @@
       "pitch": "High Treason is a 1929 British science fiction drama set in a futuristic 1940 where world peace hangs by a thread. The film depicts a conflict between two massive superpowers\u2014the \"United States of Europe\" (comprising Europe, India, the Middle East, Canada, Africa, and Australasia) and the \"Empire of the Atlantic States\" (the United States and South America). When tensions escalate due to border incidents involving bootleggers, war appears inevitable. However, a sinister terrorist group financed by arms manufacturers orchestrates chaos to profit from conflict. A pacifist Peace League struggles to avert war while the film explores themes of media manipulation, nationalism, and the cost of peace. Notably, this film was produced mid-transition from silent to sound cinema, with both versions existing.",
       "created_at": "2026-03-03 00:19:11",
       "watch_url": "https://archive.org/details/high-treason-1929"
+    },
+    {
+      "title": "Highlander: The Search for Vengeance",
+      "year": 2007,
+      "medium": "Anime Film",
+      "creator": "Yoshiaki Kawajiri",
+      "raw_score": 3.58,
+      "total_ratings": 134,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Action",
+      "topics": "Immortals, Revenge, Time-Travel, Utopia",
+      "image_filename": "Highlander_The_Search_for_Vengeance_2007.jpg",
+      "pitch": "An animated Highlander installment directed by Yoshiaki Kawajiri. In 2187 New York, immortal warrior Colin MacLeod faces his ancient nemesis Marcus Octavius, who plans to release a deadly virus to build a utopian empire. Colin joins rebel forces to stop him.",
+      "created_at": "2026-06-17 17:36:49",
+      "watch_url": null
     },
     {
       "title": "Himmelskibet",
@@ -13887,6 +13903,22 @@
       "pitch": "Japan's first 2-hour animated TV special, created for the 1978 24 Hours Television charity event. Osamu Tezuka's sci-fi adventure follows Bander, a 17-year-old raised on alien planet Zobi, who discovers he is human and journeys across the galaxy to find his parents' killer and learn about Earth.",
       "created_at": "2026-06-13 22:53:40",
       "watch_url": "https://archive.org/details/turner_video_391478"
+    },
+    {
+      "title": "Onechanbara: Bikini Samurai Squad",
+      "year": 2008,
+      "medium": "Video Game",
+      "creator": "Tamsoft",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Zombies, Survival, Sisters",
+      "image_filename": "Onechanbara_Bikini_Samurai_Squad_2008.jpg",
+      "pitch": "A hack-and-slash action game where players slice through zombie-infested Tokyo. Players control Aya, Saki, and Anna\u2014three women with swords and firearms\u2014each with distinct combat styles. A splatter gauge triggers rampage mode for increased damage.",
+      "created_at": "2026-06-17 17:36:21",
+      "watch_url": null
     },
     {
       "title": "Onesime, Clockmaker",
@@ -27221,13 +27253,13 @@
       "year": 2015,
       "medium": "Film",
       "creator": "Aleksei Alekseivich German",
-      "raw_score": null,
-      "total_ratings": null,
+      "raw_score": 3.05,
+      "total_ratings": 36,
       "origin": "Russia",
       "mood": "Cerebral",
       "sub_genres": "Dystopia, Science-Fantasy",
       "topics": "Isolation, Survival, Society, Class Struggle",
-      "image_filename": "under_electric_clouds_2015.jpg",
+      "image_filename": "Under_Electric_Clouds_2015.jpg",
       "pitch": "A 2015 Russian-Ukrainian-Polish co-production directed by Aleksei German. Set in 2017 Russia on the brink of war, it follows outsiders orbiting an unfinished building\u2014drifters, dreamers, lost souls\u2014struggling to find meaning in a changing world. Won Silver Bear for Cinematography at Berlin 2015.",
       "created_at": "2026-06-17 16:48:34",
       "watch_url": null
@@ -28721,5 +28753,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1795
+  "count": 1797
 }
