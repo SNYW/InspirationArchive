@@ -6499,6 +6499,24 @@
       "watch_url": null
     },
     {
+      "title": "Earth II",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.8,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "Space Travel, War",
+      "image_filename": "Earth_II_1971.jpg",
+      "pitch": "A multinational space station called Earth II is built for scientific research and world peace. When China launches a nuclear bomb into close orbit, the crew must disarm it before it triggers World War III.",
+      "truth": "The crew of Earth II faces crisis when China launches a nuclear weapon into orbit near their station. With tensions on Earth escalating, they must use the station's robotic arm to nudge the bomb to safety. Their success prevents nuclear war.",
+      "core": "Earth II captures 1970s Cold War anxieties and the optimism of the space race. The film explores international cooperation as humanity's best hope for survival amid nuclear threat.",
+      "created_at": "2026-06-17 04:39:13",
+      "watch_url": null
+    },
+    {
       "title": "Earth Maiden Arjuna",
       "year": 2001,
       "medium": "Anime",
@@ -24211,6 +24229,24 @@
       "watch_url": "https://commons.wikimedia.org/wiki/File%3AThe_Lost_World_%281925%29.webm"
     },
     {
+      "title": "The Lucifer Complex",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.5,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Military",
+      "topics": "Cloning, Rebellion, War",
+      "image_filename": "The_Lucifer_Complex_1978.jpg",
+      "pitch": "An intelligence agent uncovers a Nazi plot to revive the Third Reich using clones. The conspiracy reaches deeper than anyone imagined.",
+      "truth": "An intelligence agent investigating a series of mysterious events stumbles upon a Nazi plot that was thought to have died with the Third Reich. Using advanced cloning technology, the surviving Nazi faction has been quietly building an army of clones to resurrect their regime.",
+      "core": "The Lucifer Complex is a Cold War-era paranoid thriller that uses the Nazi cloning plot as a metaphor for the persistence of fascism and the dangers of unchecked scientific power.",
+      "created_at": "2026-06-17 04:39:29",
+      "watch_url": null
+    },
+    {
       "title": "The Lunar Trilogy",
       "year": 1903,
       "medium": "Novel",
@@ -24874,6 +24910,24 @@
       "truth": "The story takes place on an Earth where unlimited atomic energy has made material goods free and abundant. The economy no longer runs on production but consumption\u2014people must constantly buy, use, and throw away products to keep society functioning. This has created an inverted class system: the lower classes are forced to live in mansions, wear expensive clothes, eat lavish meals, and constantly upgrade their possessions, while the wealthy can afford to live modestly.\n\nMorey Fry works as a \"consumer\" at the bottom of this inverted society. He's exhausted from the constant pressure to consume more and more. One day, he discovers that he's developed an aversion to all this consumption\u2014he simply can't face another lavish meal, another new suit, another mansion. His body rejects the endless abundance.\n\nFearing he'll be sent to \"reconditioning\" (a terrifying mind-altering treatment that forces people to enjoy consumption), Morey hides his condition. He meets a girl named Gila, who seems to share his malaise but is more openly rebellious. Together, they navigate this strange world of forced abundance, trying to find a way to live simply without being \"cured.\"\n\nThe story culminates in Morey and Gila making a desperate choice about their future in a world that punishes simplicity as a disease.",
       "core": "Pohl's novella is a sharp satirical inversion of traditional scarcity-focused sci-fi. Rather than imagining a future where resources run out, he imagines a world where they've become infinite\u2014and the consequences are absurdly inverted. The story critiques:\n- **Consumer culture**: The relentless drive to consume is shown as a burden rather than a privilege\n- **Economic assumptions**: Pohl questions whether endless growth and consumption are actually desirable or even sustainable\n- **Class and privilege**: The rich have the freedom to be frugal; the poor are forced into excess\u2014a biting commentary on how \"luxuries\" become burdens when mandatory\n\nThe humor is dark but prescient\u2014the story anticipates concerns about consumerist excess, planned obsolescence, and the environmental implications of unlimited consumption that wouldn't become mainstream until decades later. It's a thinking person's comedy that rewards those who enjoy seeing conventional assumptions turned inside out.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "The Mind Snatchers",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.95,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Military",
+      "topics": "Cybernetics, War, Technology",
+      "image_filename": "The_Mind_Snatchers_1972.jpg",
+      "pitch": "A German scientist develops brain implants that stimulate pleasure centers to calm aggressive soldiers. But the technology has darker implications.",
+      "truth": "A German scientist creates implants that directly stimulate the pleasure centers of the brain as a way to control overly aggressive soldiers. The implants effectively pacify soldiers by inducing constant pleasure, making them docile and controllable. However, the technology raises serious ethical questions about free will and military manipulation.",
+      "core": "The Mind Snatchers explores themes of mind control and the ethics of military technology. The film asks whether it's acceptable to sacrifice free will for peace\u2014and what happens when such power falls into wrong hands.",
+      "created_at": "2026-06-17 04:39:37",
       "watch_url": null
     },
     {
@@ -26731,6 +26785,24 @@
       "watch_url": "https://archive.org/details/TheStrangeWorldOfPlanetX1958"
     },
     {
+      "title": "The Stranger",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.94,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "Space Travel, Exploration, First Contact",
+      "image_filename": "The_Stranger_1973.jpg",
+      "pitch": "An astronaut passing through a vortex crash-lands on a parallel planet where humans are not welcome.",
+      "truth": "An astronaut traveling through space encounters a mysterious vortex that transports him to a parallel planet. Upon landing, he discovers that intelligent life exists there\u2014and that humans are viewed as hostile invaders. He must find a way to communicate and prove he means no harm.",
+      "core": "The Stranger is a compact 1970s sci-fi that uses first contact themes to explore fear of the unknown. The parallel world serves as a mirror to humanity's own xenophobia.",
+      "created_at": "2026-06-17 04:39:49",
+      "watch_url": null
+    },
+    {
       "title": "The Substance",
       "year": 2024,
       "medium": "Film",
@@ -28313,6 +28385,24 @@
       "core": "Time Masters explores profound themes of time, sacrifice, and identity. The film asks whether we can ever truly escape our past, or if time is more of a\u5faa\u73af (cycle) than a linear progression. The character arc of Prince Matton\u2014who begins as a self-centered, potentially murderous exile and ends as a self-sacrificing hero\u2014demonstrates the possibility of redemption even for the most corrupted souls.\n\nThe Masters of Time represent a force beyond human comprehension\u2014beings who manipulate time as easily as we move through space. Their intervention in the story suggests that free will and determinism may be illusions, and that our lives may be part of a larger temporal tapestry we cannot perceive.\n\nThe film also critiques colonialism and imperialism through Matton's failed attempts to restore his \"rightful\" rule, while celebrating cooperation between disparate species and individuals. The gnomes Yula and Jad embody pure curiosity and adventure, untainted by the political machinations of humans.\n\nVisually, Laloux and M\u0153bius create an alien universe that feels genuinely strange\u2014not merely human society with different cosmetic details, but fundamentally different forms of life, social organization, and even physics. This commitment to genuine otherness makes Time Masters a true gem of European animated science fiction.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/time-masters-1982-fr"
+    },
+    {
+      "title": "Time Travelers",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.17,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel, Hard-SF",
+      "topics": "Time-Travel, Pandemic, Discovery",
+      "image_filename": "Time_Travelers_1976.jpg",
+      "pitch": "When a deadly virus devastates the world in 1976, Dr. Earnshaw discovers it resembles one from 1871 Chicago. A government agent offers him a secret: time travel.",
+      "truth": "Dr. Earnshaw works to find a cure for a devastating virus when he's approached by government agent Jeffrey Adams, who reveals top-secret time travel technology. Adams asks Earnshaw to travel back to 1871 to find Dr. Henderson, who had a cure but died in the Great Chicago Fire with his notes destroyed.",
+      "core": "Time Travelers is a compact 1970s sci-fi that uses time travel as a device to explore whether knowledge lost to history can be recovered. The virus premise adds urgency to the otherwise straightforward narrative.",
+      "created_at": "2026-06-17 04:39:21",
+      "watch_url": null
     },
     {
       "title": "Time Trip App",
@@ -30691,5 +30781,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1705
+  "count": 1710
 }
