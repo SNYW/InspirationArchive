@@ -25003,6 +25003,24 @@
       "watch_url": "https://archive.org/details/le-guin-ursula-k.-the-ones-who-walk-away-from-omelas"
     },
     {
+      "title": "The Orion Loop",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Vasily Levin",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "First Contact, Space Travel, Aliens, AI",
+      "image_filename": "The_Orion_Loop_1981.jpg",
+      "pitch": "Soviet spaceship Phaeton investigates a mysterious radiation phenomenon at the edge of the Solar System. Crewed by humans and android duplicates, they must make first contact with an alien civilization that created an energy barrier to shield Earth from a deadly virus. But the alien holograms drive the crew insane\u2014and they must determine whether these beings are saviors or the greatest threat.",
+      "truth": "Soviet ship Phaeton investigates the Orion Loop. Humans and androids encounter alien holograms from an extinct civilization that created the Loop to shield Earth from a deadly virus. Radiation drives crew insane. After losses, Commander Belov passes through and is healed\u2014proof of benevolent intent. They declare 'We come in peace.'",
+      "core": "First contact, trust, and humanity's cosmic place. Would an advanced civilization help or threaten a lesser one? The human/android dynamic questions what it means to be human. Alexei Leonov co-wrote the screenplay.",
+      "created_at": "2026-06-17 00:55:22",
+      "watch_url": null
+    },
+    {
       "title": "The Others",
       "year": 2000,
       "medium": "TV Series",
@@ -30241,5 +30259,5 @@
       "watch_url": null
     }
   ],
-  "count": 1680
+  "count": 1681
 }
