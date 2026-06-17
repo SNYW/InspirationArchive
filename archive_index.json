@@ -18913,6 +18913,22 @@
       "watch_url": "https://archive.org/details/tamala-2010-a-punk-cat-in-space-fullmovie"
     },
     {
+      "title": "Target",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.5,
+      "total_ratings": 26,
+      "origin": "Russia",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Technology, Immortality, Class Struggle",
+      "image_filename": "Target_2011.jpg",
+      "pitch": "In 2020 Moscow, wealthy elites seek an abandoned facility rumored to halt aging. But what promises immortality reveals a darker truth about their desperation.",
+      "created_at": "2026-06-17 23:04:58",
+      "watch_url": null
+    },
+    {
       "title": "Target Earth",
       "year": 1998,
       "medium": "Film",
@@ -29377,5 +29393,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1836
+  "count": 1837
 }
