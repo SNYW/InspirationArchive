@@ -257,6 +257,22 @@
       "watch_url": null
     },
     {
+      "title": "30,000 Miles Under the Sea",
+      "year": 1970,
+      "medium": "Anime Film",
+      "creator": "Takeshi Tamiya",
+      "raw_score": 2.67,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Exploration, Robots, Ecology",
+      "image_filename": "30,000_Miles_Under_the_Sea_1970.jpg",
+      "pitch": "A 1970 Toei Animation adventure. Young Isamu meets Angel, princess of Atlas\u2014an undersea civilization\u2014and must stop a rogue robot threatening both surface and sea worlds.",
+      "created_at": "2026-06-17 08:49:24",
+      "watch_url": null
+    },
+    {
       "title": "334",
       "year": 1972,
       "medium": "Novel",
@@ -7361,6 +7377,22 @@
       "watch_url": "https://archive.org/details/turner_video_181653"
     },
     {
+      "title": "Gamera vs. Jiger",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Noriaki Yuasa",
+      "raw_score": 2.88,
+      "total_ratings": 69,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Kaiju, Horror",
+      "topics": "Monsters, Children, Technology",
+      "image_filename": "Gamera_vs_Jiger_1970.jpg",
+      "pitch": "A 1970 Daiei kaiju film. When scientists disturb an ancient artifact called the Devil's Whistle on Wester Island, the monster Jiger emerges. Jiger defeats Gamera by implanting an egg inside him, then heads for Expo '70. Children must enter Gamera's body to save him.",
+      "created_at": "2026-06-17 08:50:07",
+      "watch_url": null
+    },
+    {
       "title": "Gamera, the Giant Monster",
       "year": 1965,
       "medium": "Film",
@@ -7711,6 +7743,22 @@
       "pitch": "Godzilla (1954) is the groundbreaking Japanese kaiju film that launched one of cinema's most enduring franchises. Directed by Ishir\u014d Honda and produced by Toho, this seminal work introduced audiences to the iconic monster Godzilla\u2014a prehistoric creature awakened and mutated by hydrogen bomb testing. The film debuted in Japan in October 1954 and became a massive commercial success, winning the Japanese Movie Association Award for Best Special Effects. Its innovative \"suitmation\" technique, pioneered by special effects maestro Eiji Tsuburaya, set the template for tokusatsu filmmaking and influenced countless monster movies worldwide. The film also spawned the internationally famous \"Godzilla\" franchise, recognized by Guinness World Records as the longest-running film series in history.",
       "created_at": "2026-03-02 21:47:08",
       "watch_url": "https://archive.org/details/recordingvideo"
+    },
+    {
+      "title": "Godzilla vs. Gigan",
+      "year": 1972,
+      "medium": "Film",
+      "creator": "Jun Fukuda",
+      "raw_score": 3.2,
+      "total_ratings": 227,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Kaiju, Horror",
+      "topics": "Monsters, Aliens, Rebellion",
+      "image_filename": "Godzilla_vs_Gigan_1972.jpg",
+      "pitch": "A 1972 Toho kaiju film. Cockroach-like Nebulans disguise themselves as humans and build World Children's Land theme park as a base. They control Gigan and King Ghidorah to destroy humanity. A manga artist uncovers their plan and helps Godzilla and Anguirus fight the alien monsters.",
+      "created_at": "2026-06-17 08:50:42",
+      "watch_url": null
     },
     {
       "title": "Goku Midnight Eye",
@@ -27761,5 +27809,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1735
+  "count": 1738
 }
