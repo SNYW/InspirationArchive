@@ -5725,6 +5725,24 @@
       "watch_url": "https://archive.org/details/DayOfWrath"
     },
     {
+      "title": "Dead Account",
+      "year": 2026,
+      "medium": "Anime",
+      "creator": "Shizumu Watanabe",
+      "raw_score": 2.84,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Supernatural",
+      "topics": "VR, Aliens, Megacorps, Rebellion",
+      "image_filename": "Dead_Account_2026.jpg",
+      "pitch": "In a world where the dead linger on as digital ghosts in social media, streamer Soji Enishiro discovers he can manipulate cyberspace. After his sister is killed by a malicious spirit, he's thrust into Miden Academy\u2014a secret school where spirit mediums fight digitized ghosts.",
+      "truth": "Soji was a livestreamer raising money for his sister's medical bills. When she dies, she becomes a ghost account, captured by Sad Boy K. Soji awakens cyberkinesis\u2014the ability to project his consciousness as blue flames that destroy ghosts. He trains at Miden Academy with other students. The threat is The Awakening\u2014all ghost accounts could overflow into reality.",
+      "core": "Dead Account updates supernatural action for the social media age. The premise\u2014that deceased social media accounts become literal ghosts\u2014is darkly humorous. Themes include digital legacy and online identity.",
+      "created_at": "2026-06-17 22:09:31",
+      "watch_url": null
+    },
+    {
       "title": "Dead Dead Demon's Dededede Destruction",
       "year": 2014,
       "medium": "Manga",
@@ -5920,6 +5938,24 @@
       "truth": "Friends discover a mysterious time-rewinding device. Each use of the device has consequences they didn't anticipate. The film explores what happens when you can undo mistakes but must live with the fallout.",
       "core": "A meditation on regret and second chances filtered through time-travel mechanics. The low rating reflects minimal marketing, but the concept touches on universal themes of loss and the desire to change the past.",
       "created_at": "2026-06-17 12:11:39",
+      "watch_url": null
+    },
+    {
+      "title": "Deep Insanity",
+      "year": 2021,
+      "medium": "Anime",
+      "creator": "Square Enix",
+      "raw_score": 2.95,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Pandemic, Exploration, AI, Aliens",
+      "image_filename": "Deep_Insanity_2021.jpg",
+      "pitch": "In a world where millions have fallen into comas from a mysterious illness called Randolph Syndrome, a young recruit joins the Sleepers\u2014a unit tasked with exploring Asylum, a vast underground realm beneath Antarctica that appeared during World War III. Deep Insanity is a dark sci-fi adventure exploring what lies beneath.",
+      "truth": "During World War III, a massive underground world called Asylum appeared beneath Antarctica, causing Randolph Syndrome\u2014a illness that plunges millions into comas. Shigure Daniel Kai, a young recruit with exceptional shooting skills, joins Antarctica Front Platoon Unit 11 to explore Asylum and find a cure or treasure. The team faces Scarred monsters and Exiles\u2014humans affected by the syndrome.",
+      "core": "Deep Insanity offers a bleak post-war setting where humanity explores an alien underground world. Themes include exploration, sacrifice, and what constitutes humanity when physical forms can be altered.",
+      "created_at": "2026-06-17 22:10:22",
       "watch_url": null
     },
     {
@@ -18683,6 +18719,24 @@
       "core": "Roger Corman's B-movie formula: creative premise meets low-budget execution. Bio-horror meets arthropod creatures\u2014an underused source of dread. Explores genetic engineering hubris: creatures evolved as salvation become our greatest threat.",
       "created_at": "2026-06-15 00:10:25",
       "watch_url": "https://archive.org/details/turner_video_224415"
+    },
+    {
+      "title": "Sea Shadows",
+      "year": 2025,
+      "medium": "TV Series",
+      "creator": "French",
+      "raw_score": 3.4,
+      "total_ratings": 11,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Mystery",
+      "topics": "Pandemic, Exploration, Survival",
+      "image_filename": "Sea_Shadows_2025.jpg",
+      "pitch": "Following the inexplicable sinking of a trawler and its fishermen who remain untraceable, Abigail, an oceanographer, is sent by IFREMER on a mission to F\u00e9camp, her hometown, which she left a few years earlier following a family tragedy.",
+      "truth": "A fishing trawler sinks mysteriously off the coast of F\u00e9camp, France, with all crew members untraceable. Oceanographer Abigail, working for IFREMER, is sent to investigate. She returns to her hometown, which she abandoned years ago after a family tragedy. As she probes the depths, she discovers something sinister beneath the ocean.",
+      "core": "Sea Shadows is a French mystery series that combines oceanographic elements with supernatural mystery. The series explores themes of loss, return, and the secrets that lie beneath the surface.",
+      "created_at": "2026-06-17 22:11:40",
+      "watch_url": null
     },
     {
       "title": "Second Time Around",
@@ -32905,5 +32959,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1828
+  "count": 1831
 }
