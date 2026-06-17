@@ -10513,6 +10513,24 @@
       "watch_url": "https://archive.org/details/ryukivsagito"
     },
     {
+      "title": "Kamikaze",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Didier Grousset",
+      "raw_score": 3.15,
+      "total_ratings": 25,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia",
+      "topics": "Technology, Surveillance, Rebellion",
+      "image_filename": "kamikaze_1986.jpg",
+      "pitch": "Albert, a brilliant scientist fired from his job, goes insane and develops a technology that lets him kill people through television cameras. He targets TV announcers, sparking a police manhunt. Co-written by Luc Besson, this obscure 1986 French film has a cool, surreal vibe.",
+      "truth": "Albert is a brilliant but under-appreciated research scientist who gets fired from his job. Descending into madness, he develops technology enabling him to send death rays through television cameras. He begins killing TV announcers, and police launch an intense manhunt to track down this mysterious killer.",
+      "core": "Kamikaze is a mid-1980s French sci-fi exploring technology run amok and the dangers of isolation. Written by Luc Besson, it anticipates contemporary concerns about screens and surveillance, imagining televisions as weapons. A cautionary tale about alienation and unemployment leading to devastation.",
+      "created_at": "2026-06-17 02:11:22",
+      "watch_url": null
+    },
+    {
       "title": "Kamillions",
       "year": 1990,
       "medium": "Film",
@@ -30367,5 +30385,5 @@
       "watch_url": null
     }
   ],
-  "count": 1687
+  "count": 1688
 }
