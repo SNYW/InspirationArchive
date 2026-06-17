@@ -7249,6 +7249,22 @@
       "watch_url": null
     },
     {
+      "title": "Frankenstein Punk",
+      "year": 1986,
+      "medium": "Animated Film",
+      "creator": "Unknown",
+      "raw_score": 3.55,
+      "total_ratings": 10,
+      "origin": "Brazil",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Discovery, Friendship",
+      "image_filename": "frankenstein_punk.jpg",
+      "pitch": "A 1986 Brazilian animated musical that reimagines Frankenstein as a green creature born in a lab and raised on 'Singin' in the Rain.' Inverting horror tropes, it becomes a heartwarming tale of an innocent being searching for acceptance. The film follows Frank as he wanders the world seeking connection, encountering fear and eventually compassion.",
+      "created_at": "2026-06-17 15:07:16",
+      "watch_url": null
+    },
+    {
       "title": "Frankenstein's Great Aunt Tillie",
       "year": 1984,
       "medium": "Film",
@@ -28561,5 +28577,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1785
+  "count": 1786
 }
