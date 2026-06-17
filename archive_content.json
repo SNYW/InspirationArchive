@@ -10099,6 +10099,24 @@
       "watch_url": null
     },
     {
+      "title": "Helldriver",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Yoshihiro Nishimura",
+      "raw_score": 2.9,
+      "total_ratings": 57,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Pandemic, Survival, Rebellion",
+      "image_filename": "helldriver.jpg",
+      "pitch": "Helldriver is a 2010 Japanese splatter film from director Yoshihiro Nishimura. When a meteorite strikes a woman, she becomes a zombie queen, spreading a plague that covers northern Japan. The government builds a wall dividing the country. One year later, her daughter Kika \u2014 now carrying an artificial heart \u2014 is freed to hunt her mother down.",
+      "truth": "Rikka becomes a zombie queen after a meteorite strike. Her daughter Kika survives with an artificial heart. The government walls off northern Japan. One year later, Kika is freed to hunt Rikka. She joins with survivors and crosses the wall. After brutal battles, Kika reaches Rikka controlling a giant zombie body, kills her by ripping out her heart, ending the plague.",
+      "core": "Helldriver is social satire dressed in gore. The wall dividing Japan critiques real discrimination and division. The zombie plague represents how societies treat the other. Kika's journey reclaims agency from her mother. The ending suggests the cycle never ends \u2014 the meteorite launches into space.",
+      "created_at": "2026-06-17 23:50:38",
+      "watch_url": null
+    },
+    {
       "title": "Hellevator: The Bottled Fools",
       "year": 2004,
       "medium": "Film",
@@ -31231,6 +31249,24 @@
       "watch_url": "https://archive.org/details/bilals.-tykho.-moon.-1996"
     },
     {
+      "title": "Typhoon Noruda",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "Studio Colorido",
+      "raw_score": 3.25,
+      "total_ratings": 53,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Friendship, First Contact, Isolation",
+      "image_filename": "typhoon_noruda.jpg",
+      "pitch": "Typhoon Noruda is a 27-minute animated short from Studio Colorido. When a typhoon hits an island, students shelter at school. Teenager Azuma has been drifting from his best friend when a mysterious girl named Noruda appears \u2014 somehow connected to the storm. As it intensifies, Azuma must choose: turn away or reach out.",
+      "truth": "Students shelter as a typhoon approaches. Azuma and Saijo have been estranged. A mysterious girl Noruda appears, seemingly connected to the storm. Drawn to help her, Azuma realizes his avoidance caused the rift with Saijo. As the storm peaks, Noruda is revealed to be something not of this world. The typhoon passes, Azuma reconciles with Saijo, and Noruda departs.",
+      "core": "The storm is a metaphor for emotional turbulence. Noruda represents the unknown \u2014 the wonder of first contact. Studio Colorido's animation brings the typhoon to life. The short asks: when faced with the incomprehensible, do we shrink away or reach out?",
+      "created_at": "2026-06-17 23:50:20",
+      "watch_url": null
+    },
+    {
       "title": "UFO",
       "year": 1970,
       "medium": "TV Series",
@@ -33139,5 +33175,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1841
+  "count": 1843
 }
