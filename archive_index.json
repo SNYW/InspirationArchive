@@ -18257,6 +18257,22 @@
       "watch_url": "https://cs.wikisource.org/wiki/Svat%C3%BD_Xaverius"
     },
     {
+      "title": "Swallowtail Butterfly",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "Sh\u014dji Kawamori",
+      "raw_score": 3.75,
+      "total_ratings": 99,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Poverty, Megacorps, Rebellion",
+      "image_filename": "Swallowtail_Butterfly_1996.jpg",
+      "pitch": "In a near-future Japan, outcasts survive in Yentown, a lawless slum where corporations rule and the poor are left to rot. A raw vision of technological dystopia.",
+      "created_at": "2026-06-17 15:54:32",
+      "watch_url": null
+    },
+    {
       "title": "Synapse",
       "year": 2015,
       "medium": "Film",
@@ -28625,5 +28641,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1789
+  "count": 1790
 }
