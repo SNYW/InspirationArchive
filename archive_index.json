@@ -6529,6 +6529,22 @@
       "watch_url": "https://archive.org/details/hoku-3"
     },
     {
+      "title": "Five",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Arch Oboler",
+      "raw_score": 3.315,
+      "total_ratings": 39,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Humanity, Class Struggle",
+      "image_filename": "Five_1951.jpg",
+      "pitch": "One woman and four men are the apparent sole survivors of an atomic bomb that appears to have annihilated the human race. They meet at a remote hillside house and try to determine how to survive and come to terms with the loss of their world.",
+      "created_at": "2026-06-17 03:04:08",
+      "watch_url": null
+    },
+    {
       "title": "Five Star Stories",
       "year": 1986,
       "medium": "Manga",
@@ -6590,6 +6606,22 @@
       "image_filename": "FleshComputer_2014.jpg",
       "pitch": "A handyman in a decaying apartment building must protect his cybernetic pet project when it comes under threat. As he takes a stand, the boundaries between human and machine begin to blur.",
       "created_at": "2026-06-15 20:10:11",
+      "watch_url": null
+    },
+    {
+      "title": "Flight to Mars",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "William Cameron Menzies",
+      "raw_score": 2.595,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Aliens, Exploration",
+      "image_filename": "Flight_to_Mars_1951.jpg",
+      "pitch": "Four scientists and a newsman crash land on Mars and encounter friendly Martian aliens. An early space exploration adventure from the golden age of 1950s SF cinema, featuring groundbreaking special effects by Menzies.",
+      "created_at": "2026-06-17 03:03:34",
       "watch_url": null
     },
     {
@@ -18753,6 +18785,22 @@
       "watch_url": null
     },
     {
+      "title": "The Colossus of New York",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Eug\u00e8ne Louri\u00e9",
+      "raw_score": 2.8,
+      "total_ratings": 41,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Cybernetics, Family, Loss",
+      "image_filename": "The_Colossus_of_New_York_1958.jpg",
+      "pitch": "After brilliant Jeremy Spensser is killed, his scientist father transplants his brain into a huge robotic body to save his mind for humanity. But the procedure costs Jeremy his humanity - and soon the colossus goes on a rampage.",
+      "created_at": "2026-06-17 03:04:19",
+      "watch_url": null
+    },
+    {
       "title": "The Congress",
       "year": 2013,
       "medium": "Animated Film",
@@ -21391,6 +21439,22 @@
       "pitch": "The Madness of Dr. Tube is a whimsical early science fiction short from French pioneer Louis Feuillade, best known for his Fant\u00f4mas serials. The film follows a wacky scientist who believes he has developed a powder capable of distorting reality for anyone who inhales it.\n\nEager to test his invention, Dr. Tube experiments on his young boy assistant, his pets, and his nieces with their beaux. The powder works \u2014 temporarily transforming their appearances in hilarious and surreal ways. But chaos ensues when his nieces don't find their transformed reflections as amusing as everyone else, leading to panic and mayhem.\n\nThis early silent film represents a charming, experimental approach to special effects and reality-bending concepts \u2014 themes that would later become central to science fiction. Its playful tone and crude but imaginative transformations make it a fascinating historical artifact.",
       "created_at": "2026-06-13 11:09:47",
       "watch_url": "https://archive.org/details/la-follia-del-dottor-tube-1915-abel-gance"
+    },
+    {
+      "title": "The Magnetic Monster",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "Kurt Neumann",
+      "raw_score": 2.825,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Discovery, AI",
+      "image_filename": "The_Magnetic_Monster_1953.jpg",
+      "pitch": "A mysterious force is consuming energy from all matter in Los Angeles, doubling in size every few hours. The Office of Scientific Investigations must track down the source before it grows large enough to destroy Earth. An early hard SF classic with innovative effects.",
+      "created_at": "2026-06-17 03:03:28",
+      "watch_url": null
     },
     {
       "title": "The Man Who Came Early",
@@ -27089,5 +27153,5 @@
       "watch_url": null
     }
   ],
-  "count": 1693
+  "count": 1697
 }

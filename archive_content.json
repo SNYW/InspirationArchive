@@ -7345,6 +7345,24 @@
       "watch_url": "https://archive.org/details/hoku-3"
     },
     {
+      "title": "Five",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "Arch Oboler",
+      "raw_score": 3.315,
+      "total_ratings": 39,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Humanity, Class Struggle",
+      "image_filename": "Five_1951.jpg",
+      "pitch": "One woman and four men are the apparent sole survivors of an atomic bomb that appears to have annihilated the human race. They meet at a remote hillside house and try to determine how to survive and come to terms with the loss of their world.",
+      "truth": "Roseanne finds Michael at her aunt's house. Two more survivors arrive - elderly Barnstel and Charles. They find Eric, who reveals racist attitudes. Tensions rise, Eric kills Charles, then Roseanne goes with Eric to find her husband but finds his remains. Her baby dies. Eric dies of radiation poisoning. Roseanne returns to Michael.",
+      "core": "Oboler's independently produced drama is a stark meditation on humanity's capacity for survival and self-destruction. Directly addresses race relations, radiation poisoning, and civilization's fragility. Its serious tone distinguished it from typical 1950s SF.",
+      "created_at": "2026-06-17 03:04:08",
+      "watch_url": null
+    },
+    {
       "title": "Five Star Stories",
       "year": 1986,
       "medium": "Manga",
@@ -7414,6 +7432,24 @@
       "truth": "The handyman maintains a cybernetic pet project in a crumbling apartment building. When the project is threatened, he's forced to defend his creation, leading to questions about what makes us human.",
       "core": "Flesh Computer explores the relationship between creator and creation, asking whether consciousness and identity reside in flesh or in the bonds we form with our inventions.",
       "created_at": "2026-06-15 20:10:11",
+      "watch_url": null
+    },
+    {
+      "title": "Flight to Mars",
+      "year": 1951,
+      "medium": "Film",
+      "creator": "William Cameron Menzies",
+      "raw_score": 2.595,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Aliens, Exploration",
+      "image_filename": "Flight_to_Mars_1951.jpg",
+      "pitch": "Four scientists and a newsman crash land on Mars and encounter friendly Martian aliens. An early space exploration adventure from the golden age of 1950s SF cinema, featuring groundbreaking special effects by Menzies.",
+      "truth": "After their spacecraft crashes on Mars, the crew encounters the gentle Telosians, who reveal they were once like humans but evolved spiritually. The Martians warn that Earth faces the same nuclear destruction they nearly caused. The humans must repair their ship while learning from the Martians' wisdom.",
+      "core": "A product of post-war optimism about space exploration. The film's message about nuclear war and spiritual evolution reflects Cold War anxieties while offering hope for humanity's future. Notable for portraying aliens as peaceful teachers rather than threats.",
+      "created_at": "2026-06-17 03:03:34",
       "watch_url": null
     },
     {
@@ -21097,6 +21133,24 @@
       "watch_url": null
     },
     {
+      "title": "The Colossus of New York",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "Eug\u00e8ne Louri\u00e9",
+      "raw_score": 2.8,
+      "total_ratings": 41,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Cybernetics, Family, Loss",
+      "image_filename": "The_Colossus_of_New_York_1958.jpg",
+      "pitch": "After brilliant Jeremy Spensser is killed, his scientist father transplants his brain into a huge robotic body to save his mind for humanity. But the procedure costs Jeremy his humanity - and soon the colossus goes on a rampage.",
+      "truth": "Jeremy dies, his father William transplants his brain into a giant robot. Deprived of human contact, Jeremy loses his humanity and kills his brother. He gains powers like mind control and rampages through the UN. Only his young son can reach him to learn how to destroy the body.",
+      "core": "An early exploration of consciousness transfer and the boundaries between human and machine. The film asks whether we can separate mind from body - and what is lost when we try.",
+      "created_at": "2026-06-17 03:04:19",
+      "watch_url": null
+    },
+    {
       "title": "The Congress",
       "year": 2013,
       "medium": "Animated Film",
@@ -24065,6 +24119,24 @@
       "core": "The Madness of Dr. Tube is notable as an early experiment in science fiction special effects and the concept of altered perception through science. Feuillade explores the idea that science can change not just the world around us, but our very reality \u2014 a theme that would become foundational to the genre.\n\nThe film also reflects early 20th century anxieties about scientific progress: here, science is both wondrous and dangerous, capable of both amusement and harm. The scientist is well-meaning but somewhat bumbling, reflecting a ambivalent attitude toward unchecked scientific experimentation.\n\nTechnically, the film uses practical effects and in-camera tricks to achieve its transformations, representing the state of special effects art in 1915. It's a charming artifact of cinema's infancy, showing that the impulse to visualize impossible realities through film was present from the very beginning of the medium.",
       "created_at": "2026-06-13 11:09:47",
       "watch_url": "https://archive.org/details/la-follia-del-dottor-tube-1915-abel-gance"
+    },
+    {
+      "title": "The Magnetic Monster",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "Kurt Neumann",
+      "raw_score": 2.825,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Discovery, AI",
+      "image_filename": "The_Magnetic_Monster_1953.jpg",
+      "pitch": "A mysterious force is consuming energy from all matter in Los Angeles, doubling in size every few hours. The Office of Scientific Investigations must track down the source before it grows large enough to destroy Earth. An early hard SF classic with innovative effects.",
+      "truth": "Scientists discover a man-made isotope called a Deltatron is consuming energy from nearby mass, doubling in size every few hours. Initially microscopic, it will destroy Earth if not stopped. The team races to find a way to neutralize the exponential growth before it reaches critical mass.",
+      "core": "One of the earliest films to explore runaway technology and exponential growth. The concept predates modern AI and nanotech anxieties by decades - asking whether humanity can control its own creations.",
+      "created_at": "2026-06-17 03:03:28",
+      "watch_url": null
     },
     {
       "title": "The Man Who Came Early",
@@ -30475,5 +30547,5 @@
       "watch_url": null
     }
   ],
-  "count": 1693
+  "count": 1697
 }
