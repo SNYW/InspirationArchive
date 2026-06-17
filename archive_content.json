@@ -9271,6 +9271,42 @@
       "watch_url": "https://archive.org/details/b-1-t-00_202505"
     },
     {
+      "title": "Godzilla vs. Hedorah",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Toho",
+      "raw_score": 3.4,
+      "total_ratings": 246,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Monsters, Ecology",
+      "image_filename": "Godzilla_vs_Hedorah_1971.jpg",
+      "pitch": "1971 kaiju film with an environmentalist message - Godzilla battles Hedorah, an alien creature that feeds on pollution and grows into a deadly monster. One of the most unique entries in the franchise, known for its controversial flying atomic breath and cult status among fans.",
+      "truth": "An alien creature arrives on Earth feeding on pollution, growing into a poisonous monster. As Hedorah metamorphoses into increasingly powerful forms, Godzilla is called to fight. During the battle, Godzilla loses an eye and suffers chemical burns. Humans construct electrodes to help dehydrate Hedorah, enabling Godzilla to finally destroy it.",
+      "core": "Banno's directorial debut carries an explicit environmentalist message - Hedorah spawns from pollution. Has become a cult classic praised by Roger Ebert and Nicolas Cage. Broke franchise conventions with the controversial flying atomic breath.",
+      "created_at": "2026-06-17 21:19:34",
+      "watch_url": null
+    },
+    {
+      "title": "Godzilla vs. Megalon",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Toho",
+      "raw_score": 3.1,
+      "total_ratings": 239,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Monsters",
+      "image_filename": "Godzilla_vs_Megalon_1973.jpg",
+      "pitch": "1973 kaiju film where Godzilla teams with robot Jet Jaguar against Megalon and Gigan. When the undersea kingdom Seatopia rises for revenge, they unleash their beetle monster to destroy Tokyo. Jet Jaguar must break free and summon Godzilla for an epic battle.",
+      "truth": "Nuclear tests wake Seatopia, an undersea civilization seeking revenge for destroyed cities. They send Megalon to attack Tokyo, using kidnapped robot Jet Jaguar as a guide. Heroes free Jet Jaguar, who grows giant and brings Godzilla. After brutal combat, Godzilla and Jet Jaguar defeat both monsters.",
+      "core": "Notable for introducing Jet Jaguar, one of the few heroic kaiju robots in the franchise. The film carries environmentalist themes - Seatopia's vengeance is a direct response to nuclear testing. Has become a cult classic through MST3K appearances despite criticism for using stock footage.",
+      "created_at": "2026-06-17 21:19:24",
+      "watch_url": null
+    },
+    {
       "title": "Goku Midnight Eye",
       "year": 1989,
       "medium": "OVA",
@@ -32851,5 +32887,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1825
+  "count": 1827
 }
