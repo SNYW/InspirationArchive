@@ -17137,6 +17137,22 @@
       "watch_url": null
     },
     {
+      "title": "Soul Hunter",
+      "year": 1999,
+      "medium": "Anime",
+      "creator": "Naoyasu Hanyu",
+      "raw_score": 3.52,
+      "total_ratings": 7349,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Fantasy, Supernatural",
+      "topics": "Demons, Magic, Mythology",
+      "image_filename": "Soul_Hunter_1999.jpg",
+      "pitch": "A 1999 Japanese anime based on the Fengshen Yanyi myth. An evil sorceress has bewitched the emperor, plunging the kingdom into darkness. A young wizard must assemble the Confederation of Immortal Masters to challenge this evil and restore balance.",
+      "created_at": "2026-06-17 18:25:04",
+      "watch_url": null
+    },
+    {
       "title": "Space Academy",
       "year": 1977,
       "medium": "TV Series",
@@ -17390,6 +17406,22 @@
       "image_filename": "Space_Quest_1986.jpg",
       "pitch": "Space Quest is a series of comic science fiction adventure games released between 1986 and 1995, following the misadventures of Roger Wilco, a hapless janitor who stumbles into intergalactic heroics. Created by Sierra On-Line (the \"Two Guys from Andromeda\"\u2014Mark Crowe and Scott Murphy), the series parodies iconic science fiction properties like Star Wars and Star Trek while infusing every scenario with puns, farcical storylines, and an underdog protagonist who saves the universe by accident, only to be ignored or punished for violating minor regulations in the process.\n\nThe games pioneered comedic adventure gaming, offering a lighthearted counterpoint to the serious fantasy themes that dominated Sierra's flagship King's Quest series. Players navigate point-and-click puzzles across alien worlds, starships, and bizarre interdimensional locales, with Roger Wilco perpetually out of his depth yet somehow prevailing through luck and persistence.",
       "created_at": "2026-03-05 14:12:31",
+      "watch_url": null
+    },
+    {
+      "title": "Space Rangers",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "Pen Densham",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Exploration, Aliens, VR",
+      "image_filename": "Space_Rangers_1993.jpg",
+      "pitch": "Space Rangers is a short-lived American sci-fi drama from CBS, created by Pen Densham and Trilogy Entertainment. Set in the far future, it follows a group of elite operatives who patrol the outer reaches of space, defending humanity against alien threats.",
+      "created_at": "2026-06-17 18:24:52",
       "watch_url": null
     },
     {
@@ -21742,6 +21774,22 @@
       "image_filename": "The_Hidden_1987.jpg",
       "pitch": "When alien entities start possessing ordinary citizens in Los Angeles, turning them into violent killers, an FBI agent with a secret reveals he's actually an extraterrestrial lawman pursuing a rogue alien parasite that has escaped to Earth. The catch? The alien can jump from body to body, making it nearly impossible to destroy. What follows is a visceral cat-and-mouse chase through the streets of LA as the alien hops from host to host, leaving a trail of bodies\u2014and the question of what it truly means to be human.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "The Hobbits",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "Olof Qvickstr\u00f6m",
+      "raw_score": 2.96,
+      "total_ratings": 13,
+      "origin": "Finland",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy",
+      "topics": "Magic, Fairy Tale",
+      "image_filename": "The_Hobbits_1993.jpg",
+      "pitch": "A Finnish live-action miniseries from 1993, adapting Tolkien's The Hobbit and The Lord of the Rings. Bilbo joins dwarves to reclaim their homeland from Smaug while Frodo inherits the One Ring and begins his quest to Mount Doom.",
+      "created_at": "2026-06-17 18:24:48",
       "watch_url": null
     },
     {
@@ -28769,5 +28817,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1798
+  "count": 1801
 }
