@@ -945,6 +945,22 @@
       "watch_url": null
     },
     {
+      "title": "Absolon",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "David Barto",
+      "raw_score": 2.07,
+      "total_ratings": 81,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Pandemic, Megacorps, Survival",
+      "image_filename": "absolon_2003.jpg",
+      "pitch": "In 2010, a deadly virus has infected everyone. The only hope is Absolon\u2014a drug everyone must take to stay alive, controlled by one corporation. When a scientist is murdered, policeman Norman Scott investigates\u2014and soon discovers he's being hunted.",
+      "created_at": "2026-06-17 15:29:21",
+      "watch_url": null
+    },
+    {
       "title": "Accumulator 1",
       "year": 1994,
       "medium": "Film",
@@ -23985,6 +24001,22 @@
       "watch_url": "https://archive.org/details/turner_video_103998"
     },
     {
+      "title": "The Princess Blade",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "Shinsuke Sato",
+      "raw_score": 2.8,
+      "total_ratings": 37,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Rebellion, Revenge, Survival",
+      "image_filename": "The_Princess_Blade_2001.jpg",
+      "pitch": "Yuki is the last heir of the House of Takemikazuchi\u2014trained as a living weapon in a post-apocalyptic world. When she learns her mother was murdered, she leaves her isolated compound to hunt down the killer, discovering a rebel movement that offers both revenge and a chance at a new life.",
+      "created_at": "2026-06-17 15:36:16",
+      "watch_url": null
+    },
+    {
       "title": "The Princess and the Robot",
       "year": 1984,
       "medium": "Animated Film",
@@ -25743,6 +25775,22 @@
       "pitch": "A 1937 Czech dystopian film adapted from Karel \u010capek's anti-war play. In a country led by a fascist dictator known only as the Marshal, a deadly plague called the \\\"white disease\\\" (a leprosy-like illness) is killing citizens over 45. The government exploits the pandemic for propaganda while preparing for military expansion. Only Dr. Gal\u00e9n has developed a cure \u2014 but he refuses to release it until world peace is declared.\n\nThe film is a stark, prescient warning about fascism, militarism, and the moral responsibilities of scientists during times of war. Based on \u010capek's 1937 play written as Nazi power grew, it functions as both a literal plague narrative and a metaphor for the ideological poison consuming Europe on the eve of World War II.",
       "created_at": "2026-06-12 13:25:41",
       "watch_url": "https://archive.org/details/film-bila-nemoc-1937-cz"
+    },
+    {
+      "title": "The Wild Blue Yonder",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Werner Herzog",
+      "raw_score": 3.01,
+      "total_ratings": 91,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Space-Opera",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "wildblueyonder_2005.jpg",
+      "pitch": "An alien narrates the story of his dying planet, his and his people's visitations to Earth and Earth's self-made demise, while human astronauts in space are attempting to find an alternate planet for surviving humans to live on.",
+      "created_at": "2026-06-17 15:29:49",
+      "watch_url": null
     },
     {
       "title": "The Witcher",
@@ -28577,5 +28625,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1786
+  "count": 1789
 }
