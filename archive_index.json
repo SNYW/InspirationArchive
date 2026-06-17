@@ -3521,6 +3521,22 @@
       "watch_url": "https://archive.org/details/cat-city-aka-macskafogo-remaster-hu-with-eng-subs"
     },
     {
+      "title": "Cat Soup",
+      "year": 2001,
+      "medium": "Short Film",
+      "creator": "Tatsuo Sat\u014d",
+      "raw_score": 3.55,
+      "total_ratings": 168,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Death, Family",
+      "image_filename": "Cat_Soup_2001.jpg",
+      "pitch": "Kitten Nyata drowns and crosses into the land of the dead to retrieve his sister's split soul. A surreal, darkly comic journey through bizarre landscapes.",
+      "created_at": "2026-06-17 00:08:08",
+      "watch_url": null
+    },
+    {
       "title": "Catskill Park",
       "year": 2018,
       "medium": "Film",
@@ -5375,6 +5391,22 @@
       "pitch": "Dr. Cyclops is a 1940 American science fiction horror film from Paramount Pictures, notable as the first American horror film made in full three-strip Technicolor. Directed by Ernest B. Schoedsack\u2014better known for his work on King Kong\u2014the film follows a team of American biologists summoned to a remote Peruvian jungle laboratory by the eccentric Dr. Alexander Thorkel. What begins as a professional consultation quickly turns nightmarish when the scientists discover Thorkel's radical solution to overpopulation: using radiation to shrink living creatures, including humans, to twelve inches tall. The film was nominated for an Academy Award for Best Visual Effects and represents a landmark in early sci-fi cinema, combining elaborate sets with groundbreaking color cinematography.",
       "created_at": "2026-03-04 11:32:43",
       "watch_url": "https://archive.org/details/dr.-cyclops"
+    },
+    {
+      "title": "Dr. Plonk",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Rolf de Heer",
+      "raw_score": 3.15,
+      "total_ratings": 14,
+      "origin": "Australia",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Time-Travel, Prediction, Satire",
+      "image_filename": "Dr_Plonk_2007.jpg",
+      "pitch": "A 1907 scientist predicts the world will end in 101 years and builds a time machine to prove it. This Australian silent black-and-white sci-fi comedy satirizes old movie serials and modern life.",
+      "created_at": "2026-06-17 00:08:17",
+      "watch_url": null
     },
     {
       "title": "Dr. Slump",
@@ -12671,6 +12703,22 @@
       "pitch": "On the Silver Globe is a 1988 Polish epic surrealist science fiction arthouse film that defies easy categorization. Directed by Andrzej \u017bu\u0142awski (known for Possession and The Devil), this ambitious project was adapted from \"The Lunar Trilogy\" written by his grand-uncle Jerzy \u017bu\u0142awski around 1900. The film tells the story of a group of dissident astronauts who escape from a dystopian Earth and crash land on an unnamed planet, where they give rise to a new human civilization. Many years later, a second astronaut arrives and becomes entangled in religious prophecy and conflict with the planet's indigenous inhabitants. Production on this epic was plagued by political interference\u2014it began in 1976-1977 but was shut down by Polish authorities, with the reels ordered destroyed. \u017bu\u0142awski eventually completed the film in 1988 using preserved footage plus voice-over commentary to fill narrative gaps. The result is a haunting, philosophical meditation on civilization, religion, colonialism, and the cyclical nature of human history.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/on-the-silver-globe"
+    },
+    {
+      "title": "Once There Was Bras\u00edlia",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "unknown",
+      "raw_score": 2.8,
+      "total_ratings": 11,
+      "origin": "Brazil",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Time-Travel",
+      "topics": "Time-Travel, Politics, History",
+      "image_filename": "Once_There_Was_Brasilia_2017.jpg",
+      "pitch": "A disgraced intergalactic agent from 1959 is sent to kill President Kubitschek on Bras\u00edlia's inauguration day but arrives in 2016 Ceil\u00e2ndia during Dilma Rousseff's impeachment crisis.",
+      "created_at": "2026-06-17 00:08:26",
+      "watch_url": null
     },
     {
       "title": "Once in a New Moon",
@@ -26833,5 +26881,5 @@
       "watch_url": null
     }
   ],
-  "count": 1677
+  "count": 1680
 }
