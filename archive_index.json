@@ -12561,6 +12561,22 @@
       "watch_url": null
     },
     {
+      "title": "Misfits of Science",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "Ronald Austin",
+      "raw_score": 3.48,
+      "total_ratings": 25,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Science",
+      "image_filename": "Misfits_of_Science_1985.jpg",
+      "pitch": "A superhero fantasy TV series featuring super-powered humans and their madcap adventures. Created by Ronald Austin and produced by Stephen J. Cannell.",
+      "created_at": "2026-06-17 23:25:17",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Fighter G Gundam",
       "year": 1994,
       "medium": "Anime",
@@ -12782,6 +12798,22 @@
       "image_filename": "Monster_from_the_Ocean_Floor_1954.jpg",
       "pitch": "A 1954 American science fiction monster film that marks the directorial debut of Wyott Ordung and the first film produced by a young Roger Corman. The story follows Julie Blair, an American artist vacationing at a seaside village in Mexico, who investigates rumors of a man-eating sea monster dwelling in the cove. She teams up with skeptical marine biologist Steve Dunning, and together they discover a giant amoeba terrorizing the coastline. With limited resources but plenty of determination, Julie obtains a tissue sample from the creature, leading to an underwater battle in a one-man submarine.",
       "created_at": "2026-06-12 23:37:21",
+      "watch_url": null
+    },
+    {
+      "title": "Monsters",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Richard P. Rubinstein",
+      "raw_score": 3.55,
+      "total_ratings": 24,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Monsters",
+      "image_filename": "Monsters_1988.jpg",
+      "pitch": "A syndicated American horror anthology series from 1988 to 1991, featuring stand-alone tales of monsters\u2014from vicious plants to friendly aliens. Produced by the creators of Tales from the Darkside, it ran for 72 episodes.",
+      "created_at": "2026-06-17 23:24:26",
       "watch_url": null
     },
     {
@@ -22529,6 +22561,22 @@
       "watch_url": "https://archive.org/details/InvisibleManVsTheHumanFly1957_201501"
     },
     {
+      "title": "The Invisible Man's Love Life",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Jean-Louis",
+      "raw_score": 1.85,
+      "total_ratings": 18,
+      "origin": "France",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Science, Monsters",
+      "image_filename": "The Invisible Man's Love Life_1970.jpg",
+      "pitch": "A young doctor is summoned to a mysterious castle where Professor Orloff has created an invisible apeman. A 1970 French horror film with 18 votes on TMDB.",
+      "created_at": "2026-06-17 23:25:00",
+      "watch_url": null
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -28817,6 +28865,22 @@
       "watch_url": "https://archive.org/details/wild-zero-spanish-sub"
     },
     {
+      "title": "Wildfire",
+      "year": 1986,
+      "medium": "TV Series",
+      "creator": "Hanna-Barbera Productions",
+      "raw_score": 3.41,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy",
+      "topics": "Fairy Tale, Magic, Children",
+      "image_filename": "Wildfire_1986.jpg",
+      "pitch": "A 13-year-old girl raised on a Montana farm discovers she's actually a princess from another dimension, destined to fight an evil witch who murdered her mother. Produced by Hanna-Barbera in 1986.",
+      "created_at": "2026-06-17 23:24:10",
+      "watch_url": null
+    },
+    {
       "title": "Windy Tales",
       "year": 2004,
       "medium": "Anime",
@@ -29393,5 +29457,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1837
+  "count": 1841
 }

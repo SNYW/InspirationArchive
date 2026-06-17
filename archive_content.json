@@ -14131,6 +14131,24 @@
       "watch_url": null
     },
     {
+      "title": "Misfits of Science",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "Ronald Austin",
+      "raw_score": 3.48,
+      "total_ratings": 25,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Science",
+      "image_filename": "Misfits_of_Science_1985.jpg",
+      "pitch": "A superhero fantasy TV series featuring super-powered humans and their madcap adventures. Created by Ronald Austin and produced by Stephen J. Cannell.",
+      "truth": "The series followed a team of misfit superheroes with various extraordinary abilities, including a teenage girl with telekinetic powers, a man with super strength, and other unusual powers.",
+      "core": "An obscure 1980s superhero series that blended science fiction with fantasy elements, featuring a cast of characters with unconventional powers.",
+      "created_at": "2026-06-17 23:25:17",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Fighter G Gundam",
       "year": 1994,
       "medium": "Anime",
@@ -14380,6 +14398,24 @@
       "truth": "Julie Blair is an American artist enjoying a vacation at a coastal village in Mexico. She hears local stories about a mysterious man-eating creature living in the cove. She meets Steve Dunning, a marine biologist conducting research in the area, and they become romantically involved. Julie investigates the rumors of sea monster attacks and unexplained disappearances, but Dunning remains skeptical. When a diver is found dead, Julie takes action. She spots a massive amoeba rising from the ocean and manages to secure a tissue sample from the creature. Confronted with undeniable proof, Dunning pilots a one-man submarine to attack and destroy the monster. The film features early appearances from Jonathan Haze and a young Roger Corman himself in minor roles.",
       "core": "This modest B-movie is notable as Roger Corman's first produced film, launching a career that would redefine American independent cinema. Despite its tiny budget\u2014reportedly $12,000-$15,000\u2014and familiar creature-at-large premise, the film is noteworthy for its capable female protagonist who drives the investigation and saves the day. The picture represents the birth of Corman's penny-pinching production philosophy: maximum impact with minimum resources. It also established relationships that would lead to the creation of American International Pictures, which dominated teen-oriented sci-fi and horror films through the 1950s and 60s.",
       "created_at": "2026-06-12 23:37:21",
+      "watch_url": null
+    },
+    {
+      "title": "Monsters",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Richard P. Rubinstein",
+      "raw_score": 3.55,
+      "total_ratings": 24,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Monsters",
+      "image_filename": "Monsters_1988.jpg",
+      "pitch": "A syndicated American horror anthology series from 1988 to 1991, featuring stand-alone tales of monsters\u2014from vicious plants to friendly aliens. Produced by the creators of Tales from the Darkside, it ran for 72 episodes.",
+      "truth": "Each episode tells a complete story featuring different monsters, from animatronic puppets in children's TV to mutated weapon-wielding lab rats. The series was produced by Laurel Entertainment with special makeup effects consultant Dick Smith.",
+      "core": "Monsters was a deliberately monster-focused horror show, distinguishing it from its predecessor Tales from the Darkside which occasionally featured sci-fi and fantasy. The creator aimed for 'a mixture of fun and scare' with monsters as creatures of fairy tale rather than realistic menaces.",
+      "created_at": "2026-06-17 23:24:26",
       "watch_url": null
     },
     {
@@ -25345,6 +25381,24 @@
       "watch_url": "https://archive.org/details/InvisibleManVsTheHumanFly1957_201501"
     },
     {
+      "title": "The Invisible Man's Love Life",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Jean-Louis",
+      "raw_score": 1.85,
+      "total_ratings": 18,
+      "origin": "France",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Science, Monsters",
+      "image_filename": "The Invisible Man's Love Life_1970.jpg",
+      "pitch": "A young doctor is summoned to a mysterious castle where Professor Orloff has created an invisible apeman. A 1970 French horror film with 18 votes on TMDB.",
+      "truth": "Doctor Garondet is called to Professor Orloff's castle where the mad scientist has created an invisible apeman through his experiments. The creature roams the castle and terrorizes the inhabitants.",
+      "core": "A obscure French horror film from the early 1970s, featuring early special effects work around invisibility.",
+      "created_at": "2026-06-17 23:25:00",
+      "watch_url": null
+    },
+    {
       "title": "The Invisible Man's Revenge",
       "year": 1944,
       "medium": "Film",
@@ -32419,6 +32473,24 @@
       "watch_url": "https://archive.org/details/wild-zero-spanish-sub"
     },
     {
+      "title": "Wildfire",
+      "year": 1986,
+      "medium": "TV Series",
+      "creator": "Hanna-Barbera Productions",
+      "raw_score": 3.41,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy",
+      "topics": "Fairy Tale, Magic, Children",
+      "image_filename": "Wildfire_1986.jpg",
+      "pitch": "A 13-year-old girl raised on a Montana farm discovers she's actually a princess from another dimension, destined to fight an evil witch who murdered her mother. Produced by Hanna-Barbera in 1986.",
+      "truth": "Princess Sara was saved as a baby by the talking horse Wildfire and brought to Earth. Thirteen years later, Wildfire reveals her true identity and begins training her to reclaim the kingdom of Dar-Shan from Lady Diabolyn. She allies with sorcerer Alvarin and the boy Dorin to fight the witch.",
+      "core": "Wildfire is a children's fantasy adventure with serialized mythology. Each episode reveals more about the world of Dar-Shan and Sara's mysterious past. The show rewards attentive viewers with gradual world-building, unusual for American kids' TV of the era.",
+      "created_at": "2026-06-17 23:24:10",
+      "watch_url": null
+    },
+    {
       "title": "Windy Tales",
       "year": 2004,
       "medium": "Anime",
@@ -33067,5 +33139,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1837
+  "count": 1841
 }
