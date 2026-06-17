@@ -1041,6 +1041,22 @@
       "watch_url": null
     },
     {
+      "title": "After Blue",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "Paradis sale",
+      "raw_score": 2.7,
+      "total_ratings": 64,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Isolation, Aliens",
+      "image_filename": "after_blue_2022.jpg",
+      "pitch": "On the wild female-ruled planet After Blue, a lonely teenager named Roxy unknowingly releases a mystical assassin from her prison. A surreal feminist space fantasy.",
+      "created_at": "2026-06-17 13:06:34",
+      "watch_url": null
+    },
+    {
       "title": "After Yang",
       "year": 2021,
       "medium": "Film",
@@ -9041,6 +9057,22 @@
       "watch_url": "https://archive.org/details/ikarie-xb-1-1963-cz"
     },
     {
+      "title": "Immersion",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.13,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Horror",
+      "topics": "VR, Aliens",
+      "image_filename": "immersion_2023.jpg",
+      "pitch": "A Japanese VR tech company's employees begin dying mysteriously while immersed in the company's virtual reality system. The line between digital and real collapses.",
+      "created_at": "2026-06-17 13:06:22",
+      "watch_url": null
+    },
+    {
       "title": "In Your Image",
       "year": 2004,
       "medium": "Film",
@@ -14238,6 +14270,22 @@
       "image_filename": "Plan_75_2022.jpg",
       "pitch": "In near-future Japan, a government program offers elderly citizens voluntary euthanasia to address an aging crisis. Three lives intersect\u2014a desperate senior, a pragmatic salesman, and a young migrant caregiver\u2014exploring dignity in an ageist economy.",
       "created_at": "2026-06-16 15:46:13",
+      "watch_url": null
+    },
+    {
+      "title": "Planet B",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.62,
+      "total_ratings": 67,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Rebellion",
+      "image_filename": "planet_b_2024.jpg",
+      "pitch": "France, 2039. Activists fleeing State pursuit vanish and wake in an alien world called PLANET B. A dystopian thriller about resistance and escaping authoritarian control.",
+      "created_at": "2026-06-17 13:06:45",
       "watch_url": null
     },
     {
@@ -28289,5 +28337,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1768
+  "count": 1771
 }
