@@ -2369,6 +2369,22 @@
       "watch_url": null
     },
     {
+      "title": "B'T X",
+      "year": 1996,
+      "medium": "Anime",
+      "creator": "Masami Kurumada",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Action",
+      "topics": "Robots, Betrayal, Revenge",
+      "image_filename": null,
+      "pitch": "When Teppei's brother is kidnapped, he flees to a junkyard where his spilled blood awakens the legendary B't X \u2014 a powerful guardian demon bound in stone for millennia. Now Teppei must master this living weapon to save his brother from the evil forces that took him.",
+      "created_at": "2026-06-17 10:05:39",
+      "watch_url": null
+    },
+    {
       "title": "B.A.T.",
       "year": 1989,
       "medium": "Video Game",
@@ -4574,6 +4590,22 @@
       "image_filename": "Cyborg_009_1968.jpg",
       "pitch": "Cyborg 009 is a groundbreaking Japanese anime television series that inaugurated the genre of superhero anime. Based on the manga by Shotaro Ishinomori, the series follows nine individuals from around the world who are kidnapped by the evil Black Ghost organization and transformed into cyborgs with superhuman abilities. Each cyborg possesses unique powers\u2014telepathy, super speed, strength, underwater capability, and more\u2014that they must learn to control and deploy against their former captors. The series premiered on April 5, 1968, becoming Japan's first color TV anime featuring superheroes, and ran for 26 episodes until September 1968. It established many tropes that would define the superhero anime genre for decades to come, including teams of enhanced heroes, mad scientist villains, and themes of friendship and redemption.",
       "created_at": "2026-03-03 15:33:05",
+      "watch_url": null
+    },
+    {
+      "title": "DNA\u00b2",
+      "year": 1994,
+      "medium": "Anime",
+      "creator": "Kazuhiro Takamura",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Genetic Engineering, Identity",
+      "image_filename": null,
+      "pitch": "In 2080, DNA operator Karin is sent to 1994 to stop shy Junta from becoming the Mega-Playboy. She accidentally turns him into a charming playboy instead. Now two Juntas exist \u2014 and she's falling for the shy one.",
+      "created_at": "2026-06-17 10:05:30",
       "watch_url": null
     },
     {
@@ -9758,6 +9790,22 @@
       "image_filename": "kamikaze_1986.jpg",
       "pitch": "Albert, a brilliant scientist fired from his job, goes insane and develops a technology that lets him kill people through television cameras. He targets TV announcers, sparking a police manhunt. Co-written by Luc Besson, this obscure 1986 French film has a cool, surreal vibe.",
       "created_at": "2026-06-17 02:11:22",
+      "watch_url": null
+    },
+    {
+      "title": "Kamikaze Kaitou Jeanne",
+      "year": 1999,
+      "medium": "Anime",
+      "creator": "Katsuhiko Takashima",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Demons, Magic, Identity",
+      "image_filename": null,
+      "pitch": "Maron is a clumsy 14-year-old who discovers she is the reincarnation of Joan of Arc. With her angel sidekick Finn, she must seal demons hiding in pieces of art before they possess the weak-hearted. There's just one problem: the police and her best friend think she's a thief.",
+      "created_at": "2026-06-17 10:05:57",
       "watch_url": null
     },
     {
@@ -17937,6 +17985,22 @@
       "watch_url": "https://archive.org/details/tm-epub-and-pdf-en"
     },
     {
+      "title": "Tekkaman Blade",
+      "year": 1992,
+      "medium": "Anime",
+      "creator": "Kiyoshi Yoshida",
+      "raw_score": 3.74,
+      "total_ratings": 6133,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Action",
+      "topics": "Memory, Identity, Aliens",
+      "image_filename": "Tekkaman_Blade_1992.jpg",
+      "pitch": "In 2300 AD, the Radam invade Earth. A mysterious warrior called Blade arrives, fighting alongside the Space Knights. But Blade has no memory of his past \u2014 only fragments of a life he can't remember. Who is he really?",
+      "created_at": "2026-06-17 10:05:43",
+      "watch_url": null
+    },
+    {
       "title": "Ten Billion Days and One Hundred Billion Nights",
       "year": 1967,
       "medium": "Novel",
@@ -24897,6 +24961,22 @@
       "watch_url": null
     },
     {
+      "title": "The Vision of Escaflowne",
+      "year": 1996,
+      "medium": "Anime",
+      "creator": "K\u014dichi Mashimo",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Romance",
+      "topics": "Magic, Fate, Identity",
+      "image_filename": null,
+      "pitch": "High schooler Hitomi is transported to Gaea, a magical world where floating islands drift through an asteroid field. She meets Van, a prince fighting to unite his world against the evil Zaibach empire. As she discovers hidden magical powers, she must choose: return home or stay to help Van.",
+      "created_at": "2026-06-17 10:05:51",
+      "watch_url": null
+    },
+    {
       "title": "The Visitor",
       "year": 1979,
       "medium": "Film",
@@ -27873,5 +27953,5 @@
       "watch_url": null
     }
   ],
-  "count": 1742
+  "count": 1747
 }
