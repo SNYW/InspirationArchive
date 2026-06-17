@@ -23345,6 +23345,22 @@
       "watch_url": null
     },
     {
+      "title": "The Rhythm of Crime",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Vatroslav, Vatroslav",
+      "raw_score": 3.05,
+      "total_ratings": 14,
+      "origin": "Yugoslavia",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Surveillance, Prediction, Urban Development",
+      "image_filename": "The_Rhythm_of_Crime_1981.jpg",
+      "pitch": "In 1980s Zagreb, old houses are demolished for modern apartment blocks. Teacher Martin shelters statistical analyst Ravic, who claims he can predict crimes using pattern analysis. When a predicted murder fails to occur, Ravic becomes convinced the universe will restore balance through catastrophic means.",
+      "created_at": "2026-06-17 07:10:49",
+      "watch_url": null
+    },
+    {
       "title": "The Road Not Taken",
       "year": 1985,
       "medium": "Short Story",
@@ -27585,5 +27601,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1724
+  "count": 1725
 }
