@@ -2359,6 +2359,24 @@
       "watch_url": null
     },
     {
+      "title": "Arco",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.8,
+      "total_ratings": 225,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel, Children's",
+      "topics": "Time-Travel, Children, Adventure, Friendship",
+      "image_filename": "Arco_2025.jpg",
+      "pitch": "Ten-year-old Arco lives in a far future where children fly in rainbow suits. During his first flight, he loses control and falls into the past. Iris, a girl from 2075, must help him return home. A charming French children's sci-fi adventure.",
+      "truth": "Arco, a ten-year-old living in the far future, makes his first flight in a rainbow suit but crashes backward through time. Stranded in the past, he meets Iris, a girl his age from 2075 who becomes his guide and friend. Together they work to find a way to send Arco back to his own time.",
+      "core": "Arco is a French children's sci-fi that treats time travel as an adventure rather than a threat. It emphasizes friendship and courage, offering a gentle, optimistic take on the future for young audiences.",
+      "created_at": "2026-06-17 14:14:53",
+      "watch_url": null
+    },
+    {
       "title": "Aria the Avvenire",
       "year": 2015,
       "medium": "Anime Film",
@@ -5275,6 +5293,24 @@
       "watch_url": null
     },
     {
+      "title": "Cycle of Time",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.03,
+      "total_ratings": 105,
+      "origin": "France",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Time-Travel",
+      "topics": "Time-Travel, Technology, Family, Social Change",
+      "image_filename": "Cycle_of_Time_2025.jpg",
+      "pitch": "In 1950s France, a simple couple's lives change forever when a freak accident in 2025 sends shockwaves backward through time. A French meditation on progress, nostalgia, and whether moving forward is truly better.",
+      "truth": "Helene and Michel live a simple life in 1950s France. A mysterious accident in 2025 creates a temporal shockwave that transforms their lives: Helene becomes a successful bank executive while Michel falls into unemployment and depression. Their children grow up in a world dominated by technology, far removed from the simple life the parents once knew.",
+      "core": "Cycle of Time is a French meditation on progress and its costs. The title plays on the phrase \"it was better before\" - questioning whether technological and social advancement truly improves human life. It explores how the pursuit of progress can inadvertently destroy what matters most.",
+      "created_at": "2026-06-17 14:14:23",
+      "watch_url": null
+    },
+    {
       "title": "DNA\u00b2",
       "year": 1994,
       "medium": "Anime",
@@ -7847,6 +7883,24 @@
       "core": "**The Birth of the Sci-Fi Serial:** Flash Gordon is historically significant as the first dedicated science-fiction serial film. While earlier serials contained sci-fi elements, Flash Gordon established the genre as a viable format for the chapter-play medium. Its success prompted Universal and other studios to produce numerous sci-fi serials in the following years, creating a template for adventure science fiction that influenced decades of filmmaking.\n\n**Heroic Archetype and American Optimism:** The serial embodies the classic heroic archetype\u2014a handsome, virtuous American hero who overcomes impossible odds through physical prowess, quick thinking, and moral conviction. Unlike the morally complex protagonists of later science fiction, Flash represents an unambiguous hero whose victory is never in doubt. This optimistic worldview reflects 1930s American values during the Depression era, offering audiences escapist entertainment where good ultimately triumphs over evil.\n\n**Visual Spectacle and Production Design:** Despite its age, Flash Gordon remains notable for its ambitious production values. The elaborate costumes, including Ming's elaborate imperial robes and the various Mongo factions' distinctive attire, created an enduring visual vocabulary. The reuse of sets from horror classics lent the film an unexpected atmospheric quality, while the space effects\u2014though primitive by modern standards\u2014were innovative for their time.\n\n**Cultural Impact and Legacy:** The character of Flash Gordon became a cultural phenomenon, spawning multiple sequels, adaptations, and imitations. The serial's influence can be seen in everything from the Flash Gordon television series to the 1980 Alex Cox film to modern superhero cinema. Ming the Merciless became one of science fiction's most iconic villains, with Charles Middleton's performance setting a template for evil alien emperors that continues to resonate in contemporary sci-fi antagonists.",
       "created_at": "2026-03-04 00:15:37",
       "watch_url": "https://archive.org/details/flash-gordon-1936"
+    },
+    {
+      "title": "Flashback",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.96,
+      "total_ratings": 111,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Women's Rights, History",
+      "image_filename": "Flashback_2021.jpg",
+      "pitch": "A female French lawyer discovers she can travel through time and meets remarkable women from history who fought for equality. A hopeful journey through time that celebrates those who paved the way for women's rights.",
+      "truth": "A female lawyer acquires the ability to travel through time. Her journeys take her to meet extraordinary women from different eras who fought for women's rights - suffragettes, activists, and pioneers who challenged the status quo. Each encounter reinforces her commitment to her present-day cases.",
+      "core": "Flashback offers a hopeful, inspirational take on time travel that focuses on celebrating those who fought for progress rather than preventing it. The film connects present-day struggles to historical battles for equality.",
+      "created_at": "2026-06-17 14:14:35",
+      "watch_url": null
     },
     {
       "title": "Flesh Computer",
@@ -22915,6 +22969,24 @@
       "watch_url": "https://archive.org/details/einsteinintersec0000samu"
     },
     {
+      "title": "The Empire",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.44,
+      "total_ratings": 100,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Good vs Evil",
+      "image_filename": "The_Empire_2024.jpg",
+      "pitch": "A mysterious child born in a quiet French fishing village triggers an ancient cosmic war between extraterrestrial forces of good and evil. The village becomes the battleground for a conflict that has shaped human history from the shadows.",
+      "truth": "A woman gives birth to an unusual child in a small French village. As the child grows, alien watchers arrive - both benevolent and malevolent factions who have guided humanity for millennia. The child, born of ancient human-extraterrestrial union, must choose a side in the cosmic war.",
+      "core": "The Empire offers a French perspective on the eternal struggle between good and evil, recast through cosmic intervention in human affairs. It explores destiny and the blurred lines between human and alien, treating the extraordinary as emerging from the ordinary.",
+      "created_at": "2026-06-17 14:14:15",
+      "watch_url": null
+    },
+    {
       "title": "The End of August at the Hotel Ozone",
       "year": 1967,
       "medium": "Film",
@@ -24658,6 +24730,24 @@
       "truth": "The game takes place over three days (July 24-27, 1914) as the Orient Express travels from Paris to Constantinople. Robert Cath, wanted for a murder in Ireland, assumes his friend Tyler's identity after finding him dead. Among the passengers are:\n\n- **August Schmidt**: German arms dealer supplying weapons to the Serbian Black Hand\n- **Anna Wolff**: Austrian violinist who is actually a spy\n- **Vassili and Tatiana Obolensky**: Russian aristocrat and his granddaughter\n- **Alexei Dolnikov**: Russian anarchist and Tatiana's former lover\n- **Milo\u0161 Jovanovi\u0107**: Serbian nationalist coordinating the arms deal\n- **Kronos**: Mysterious art collector with his servant Kahina\n\nCath discovers Tyler was brokering a deal between Schmidt and the Black Hand, using a mechanical treasure called the \"Firebird\" as payment. When the Firebird goes missing, Cath must investigate each passenger's compartment, piece together their secrets, and prevent the assassination of Archduke Franz Ferdinand\u2014which will trigger World War I.\n\nThe game features multiple endings (around 30 game-overs plus four alternate endings). The true ending requires Cath to recover the Firebird, outwit Kronos, and reach Constantinople before the train is destroyed. Tatiana, grieving Alexei's death, detonates explosives in the baggage car, killing herself, her grandfather, and the driver\u2014while Cath and Anna escape together as war breaks out across Europe.",
       "core": "**Real-Time Innovation:** The Last Express pioneered persistent-world storytelling in games. Its NPCs have independent schedules\u2014they sleep, eat, and move through the train at predetermined times. Players must observe, follow, and intercept characters to gather information. This creates organic tension: you might knock on a door only to find your target has already left. The game treats time as a resource as precious as inventory items.\n\n**Historical Fiction as Mirror:** Mechner uses the actual historical backdrop (the last days before WWI) to explore how individual actions intersect with world-historical events. The assassination triggers are real\u2014the Black Hand, Archduke Franz Ferdinand, the July Crisis\u2014but the fictional Firebird plot dramatizes how small conspiracies can catalyze massive conflicts. The train becomes a microcosm of Europe: a closed system where tensions escalate toward inevitable catastrophe.\n\n**Noir Elements:** The game embraces classic noir themes: mistaken identities, fatalism, femme fatales, and the impossibility of escaping one's past. Cath is literally running from his past (the Ireland murder), and the train offers no escape\u2014only forward motion toward both Constantinople and war. The Art Nouveau visual style, with its flowing lines and melancholy atmosphere, reinforces this tone.\n\n**Mechanical Storytelling:** The Firebird itself\u2014a mechanical music box that transforms into a bird\u2014is a central metaphor. It's a device that appears beautiful but functions as a weapon, much like the train carrying passengers toward destruction. The rotoscoped characters, frozen in their elegant poses, suggest figures in a museum or memories\u2014emphasizing the game's themes of preservation and decay.\n\nDespite being a commercial failure upon release, The Last Express is now recognized as a landmark in interactive storytelling\u2014a game that prioritized character, atmosphere, and thematic depth over action or puzzles. Its influence can be seen in later narrative-driven games that treat player choice as meaningful within constrained, realistic environments.",
       "created_at": "2026-03-19 09:37:23",
+      "watch_url": null
+    },
+    {
+      "title": "The Last Journey",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.63,
+      "total_ratings": 190,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Apocalyptic",
+      "topics": "Space Travel, Apocalyptic, Survival, Mission",
+      "image_filename": "The_Last_Journey_2021.jpg",
+      "pitch": "The red moon threatens Earth. The world's last hope lies with Paul WR, the most talented astronaut of his generation - but hours before the mission to save humanity, Paul vanishes. A tense French sci-fi thriller about a desperate race against cosmic catastrophe.",
+      "truth": "A red moon appears, threatening all life on Earth. The world's governments unite to send humanity's best astronaut, Paul WR, on a crucial mission. But Paul disappears hours before launch, leaving humanity's fate uncertain. The search for Paul becomes a desperate race against time and cosmic doom.",
+      "core": "The Last Journey is a French contribution to the survival thriller genre, treating the astronaut as humanity's last hope against existential threat. It explores themes of individual heroism and sacrifice in the face of cosmic-scale disaster.",
+      "created_at": "2026-06-17 14:14:44",
       "watch_url": null
     },
     {
@@ -31915,5 +32005,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1773
+  "count": 1778
 }
