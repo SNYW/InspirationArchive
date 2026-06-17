@@ -6805,6 +6805,24 @@
       "watch_url": "https://archive.org/details/WinsorMcCayTheFlyingHouse1921"
     },
     {
+      "title": "Dreamsnake",
+      "year": 1978,
+      "medium": "Novel",
+      "creator": "Vonda N. McIntyre",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Science-Fantasy",
+      "topics": "Genetic Engineering, Healing, Survival, Gender",
+      "image_filename": "dreamsnake_1978.jpg",
+      "pitch": "In post-nuclear America, Snake is a healer who travels with three gen-engineered snakes\u2014including an alien dreamsnake whose venom gives the dying peaceful dreams. When her dreamsnake dies, she quests across the wasteland to find another. A feminist revision of the heroic quest.",
+      "truth": "Snake treats a boy but fear kills her dreamsnake. She helps Jesse, then the mayor of Mountainside, rescues Melissa from abuse. They head to Center, the tech city\u2014but turned away. She finds North's community, forced into a dreamsnake pit. Cold matures them; she escapes with breeding snakes and reunites with Arevin.",
+      "core": "Landmark second-wave feminist SF. Heroism redefined as healing, not violence. McIntyre avoids gender pronouns, challenging identity assumptions. Explores post-apocalyptic social structures. Won Hugo, Nebula, Locus Awards (1979).",
+      "created_at": "2026-06-17 16:47:28",
+      "watch_url": null
+    },
+    {
       "title": "Dreamweb",
       "year": 1994,
       "medium": "Video Game",
@@ -30583,6 +30601,24 @@
       "watch_url": "https://archive.org/details/ulysses-31-e-81"
     },
     {
+      "title": "Under Electric Clouds",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Aleksei Alekseivich German",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Russia",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Isolation, Survival, Society, Class Struggle",
+      "image_filename": "under_electric_clouds_2015.jpg",
+      "pitch": "A 2015 Russian-Ukrainian-Polish co-production directed by Aleksei German. Set in 2017 Russia on the brink of war, it follows outsiders orbiting an unfinished building\u2014drifters, dreamers, lost souls\u2014struggling to find meaning in a changing world. Won Silver Bear for Cinematography at Berlin 2015.",
+      "truth": "Multiple vignettes weave around an unfinished building. Petr drifts through lives of Nikolai, Sasha, Valya, Danya, Karim, Marat, Irina, Borya\u2014each isolated, seeking purpose as society teeters. Ambiguous ending leaves survival unresolved.",
+      "core": "German's final film is a meditation on post-Soviet disillusionment. The unfinished building mirrors unfinished lives\u2014a society in limbo. Cerebral, elliptical, mood-driven over plot. Explores alienation through fragmented narratives.",
+      "created_at": "2026-06-17 16:48:34",
+      "watch_url": null
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -32257,5 +32293,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1792
+  "count": 1794
 }
