@@ -2817,6 +2817,22 @@
       "watch_url": null
     },
     {
+      "title": "Bedmen",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Yilmak Film",
+      "raw_score": 2.27,
+      "total_ratings": 13,
+      "origin": "Turkey",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Crime",
+      "image_filename": "Bedmen_1973.jpg",
+      "pitch": "Bedmen is a 1973 Turkish exploitation film that adapts the Batman formula for local audiences. A young boy witnesses his father's murder and is trained by a mysterious mentor to become a bat-costumed crimefighter battling a criminal kingpin called Killer. Features stunt driving, martial arts, and campy villain scenes.",
+      "created_at": "2026-06-17 20:55:11",
+      "watch_url": null
+    },
+    {
       "title": "Beforeigners",
       "year": 2019,
       "medium": "TV Series",
@@ -6991,6 +7007,22 @@
       "pitch": "Fireball XL5 is a 1962 British puppet sci-fi series about Fireball XL5, a spacecraft of the World Space Patrol patrolling the cosmos in 2062. Commanded by Colonel Steve Zodiac, the crew defends Earth from interstellar threats.",
       "created_at": "2026-06-13 19:35:47",
       "watch_url": "https://archive.org/details/fireball-xl-5-01.-planet-46"
+    },
+    {
+      "title": "Fireworks",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Garin Nugroho",
+      "raw_score": 3.7,
+      "total_ratings": 11,
+      "origin": "Indonesia",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Survival, Death",
+      "image_filename": "Fireworks_2023.jpg",
+      "pitch": "Fireworks is a 2023 Indonesian experimental sci-fi film about four strangers who attempt suicide together using fireworks as a bomb, only to repeatedly wake up unharmed and trapped in a time loop.",
+      "created_at": "2026-06-17 20:55:31",
+      "watch_url": null
     },
     {
       "title": "First Spaceship on Venus",
@@ -18561,6 +18593,22 @@
       "watch_url": null
     },
     {
+      "title": "Synapse",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "Orson",
+      "raw_score": 2.2,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, AI, Crime",
+      "image_filename": "Synapse_2021.jpg",
+      "pitch": "Synapse is a 2021 sci-fi thriller about an addicted memory dealer who becomes the target of federal narcotics agents determined to extract the secrets locked in his mind.",
+      "created_at": "2026-06-17 20:55:53",
+      "watch_url": null
+    },
+    {
       "title": "System Shock",
       "year": 1994,
       "medium": "Video Game",
@@ -20799,6 +20847,22 @@
       "pitch": "In Budapest's 8th district, Roma kid Ricsi finds a time-travel key. He journeys to prehistoric times to kill mammoths and create oil for Hungary. A multicultural crew of friends joins the adventure. Sharp satirical comedy about ethnic diversity.",
       "created_at": "2026-06-16 13:39:55",
       "watch_url": "https://archive.org/details/stears666_gmail_New"
+    },
+    {
+      "title": "The Draft!",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "William",
+      "raw_score": 2.65,
+      "total_ratings": 11,
+      "origin": "Indonesia",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Survival, Death, Supernatural",
+      "image_filename": "The_Draft_2023.jpg",
+      "pitch": "The Draft! is a 2023 Indonesian horror film about five students who explore an abandoned villa and discover a dark secret in a forbidden room with an old well.",
+      "created_at": "2026-06-17 20:56:27",
+      "watch_url": null
     },
     {
       "title": "The Dragon Masters",
@@ -29137,5 +29201,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1821
+  "count": 1825
 }
