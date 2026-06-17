@@ -9233,6 +9233,22 @@
       "watch_url": "https://archive.org/details/japon-isi_movie"
     },
     {
+      "title": "Je t'aime",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.7,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fiction",
+      "topics": "Isolation, AI, Memory",
+      "image_filename": "Je_taime_2010.jpg",
+      "pitch": "Set in post-apocalyptic Tokyo, all humanity has vanished. A lonely basset hound wanders the deserted city, searching for the warmth of human connection that no longer exists. The film is a meditation on loneliness and the animal longing for companionship.\n\nPoignant and minimalist, it finds beauty in emptiness.",
+      "created_at": "2026-06-17 05:35:15",
+      "watch_url": null
+    },
+    {
       "title": "Je t'aime, je t'aime",
       "year": 1968,
       "medium": "Film",
@@ -20177,6 +20193,22 @@
       "watch_url": "https://archive.org/details/the.-gamma.-people.-1956"
     },
     {
+      "title": "The Gate",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.2,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Mutation, Pandemic, Surveillance",
+      "image_filename": "The_Gate_2011.jpg",
+      "pitch": "A parliamentary enquiry investigates three disturbing cases of extreme mutations leading to death. The film examines how society responds to unexplained biological threats, presenting a tense, analytical take on bureaucratic investigation.\n\nThe horror is quiet and unsettling.",
+      "created_at": "2026-06-17 05:34:58",
+      "watch_url": null
+    },
+    {
       "title": "The Gate to the Mind's Eye",
       "year": 1994,
       "medium": "Film",
@@ -27377,5 +27409,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1711
+  "count": 1713
 }
