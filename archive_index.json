@@ -1025,6 +1025,22 @@
       "watch_url": null
     },
     {
+      "title": "Adult Swim's The Elephant",
+      "year": 2025,
+      "medium": "Short Film",
+      "creator": "Jack Pendarvis, Kent Osborne",
+      "raw_score": 4.15,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Reincarnation, Identity",
+      "image_filename": "Adult_Swim_The_Elephant_2025.jpg",
+      "pitch": "An experimental animated TV special created for Adult Swim. Three animators use the exquisite corpse technique, each designing and animating a segment independently, to tell a single story with three disparate styles. Features voices by Maria Bamford, SungWon Cho, and Jordan Jensen.",
+      "created_at": "2026-06-17 18:51:28",
+      "watch_url": null
+    },
+    {
       "title": "Adventure",
       "year": 1980,
       "medium": "Video Game",
@@ -3662,6 +3678,22 @@
       "image_filename": "By_Day_and_by_Night_2010.jpg",
       "pitch": "In overpopulated near-future Mexico, citizens are programmed to live in either day or night cycles only - never both. This temporal segregation doubles capacity while keeping half the population separated.",
       "created_at": "2026-06-17 08:07:10",
+      "watch_url": null
+    },
+    {
+      "title": "C.I.Ape",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.95,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, Espionage",
+      "image_filename": "C_I_Ape_2022.jpg",
+      "pitch": "A comedic sci-fi film about a criminal plot that is discovered by the C.I.A., who turns to their first ever ape operative to foil the plot from the inside.",
+      "created_at": "2026-06-17 18:52:28",
       "watch_url": null
     },
     {
@@ -12769,6 +12801,22 @@
       "watch_url": null
     },
     {
+      "title": "Mutant Species",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "David A. Priest",
+      "raw_score": 2.0,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Mutation, Survival, Ecology",
+      "image_filename": "Mutant_Species_1995.jpg",
+      "pitch": "A low-budget sci-fi horror film from 1995. A team is sent to recover bio-hazardous material that crashed in a remote wooded area. One team member is infected and transforms into a monster, killing most of his comrades. Survivors must escape while fighting another creature.",
+      "created_at": "2026-06-17 18:50:36",
+      "watch_url": null
+    },
+    {
       "title": "My 20th Century",
       "year": 1989,
       "medium": "Film",
@@ -14527,6 +14575,22 @@
       "pitch": "In a dystopian future where Earth is dying from energy depletion and humanity is controlled through test-tube births and computer-assigned roles, young pilot Godo is chosen by the ambitious politician Rock to capture the mythical Phoenix\u2014a legendary bird whose blood can grant immortality and heal the dying planet. Guided by his loyal robot caretaker Olga and accompanied by a mysterious prisoner, Godo journeys into space to find the Phoenix, all while navigating forbidden love, political betrayal, and his own doubts about violence and sacrifice. This 1980 animated film from the legendary Osamu Tezuka is a visually stunning meditation on love, reincarnation, and selflessness that blends epic science fiction with mythic storytelling.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/phoenix_2772_1980"
+    },
+    {
+      "title": "Pichaikkaran 2",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Vijay Antony",
+      "raw_score": 2.2,
+      "total_ratings": 12,
+      "origin": "India",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Identity, Class Struggle, Technology",
+      "image_filename": "Pichaikkaran_2_2023.jpg",
+      "pitch": "A Tamil sci-fi action film about a beggar who undergoes an illegal brain transplant, waking up in the body of a wealthy business tycoon. Searching for his kidnapped sister, he must navigate a world of power and privilege while trying to reclaim his identity.",
+      "created_at": "2026-06-17 18:50:27",
+      "watch_url": null
     },
     {
       "title": "Pigtails",
@@ -17391,6 +17455,22 @@
       "pitch": "NYPD detective Patrick Brogan transfers to the alien police force on planet Altor. With partner Jack Haldane and a cast of colorful alien officers, he solves crimes in a futuristic space city. Created by Gerry Anderson, this 1994 British series combined practical effects with puppetry in the Anderson tradition.",
       "created_at": "2026-06-15 19:44:29",
       "watch_url": "https://archive.org/details/space-precinct-1994"
+    },
+    {
+      "title": "Space Pups",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.69,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Children, Family",
+      "image_filename": "Space_Pups_2023.jpg",
+      "pitch": "A family sci-fi film about two young children and their parents who help a trio of aliens transformed as friendly dogs escape the clutches of a local UFO hunter while they repair their spaceship.",
+      "created_at": "2026-06-17 18:52:00",
+      "watch_url": null
     },
     {
       "title": "Space Quest",
@@ -28817,5 +28897,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1801
+  "count": 1806
 }

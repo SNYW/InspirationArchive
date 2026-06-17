@@ -1153,6 +1153,24 @@
       "watch_url": null
     },
     {
+      "title": "Adult Swim's The Elephant",
+      "year": 2025,
+      "medium": "Short Film",
+      "creator": "Jack Pendarvis, Kent Osborne",
+      "raw_score": 4.15,
+      "total_ratings": 16,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Reincarnation, Identity",
+      "image_filename": "Adult_Swim_The_Elephant_2025.jpg",
+      "pitch": "An experimental animated TV special created for Adult Swim. Three animators use the exquisite corpse technique, each designing and animating a segment independently, to tell a single story with three disparate styles. Features voices by Maria Bamford, SungWon Cho, and Jordan Jensen.",
+      "truth": "Created by Jack Pendarvis and Kent Osborne, the special was animated by four renowned animators using the exquisite corpse technique\u2014Ward animated the beginning, Jones-Quartey and Sugar animated the middle, and McHale animated the ending. Each segment has a distinct style and tone, telling one cohesive story about reincarnation.",
+      "core": "A unique experimental piece that explores reincarnation through collaborative animation. The triptych structure creates multiple perspectives on identity and rebirth. The exquisite corpse technique itself becomes a metaphor for fragmented consciousness.",
+      "created_at": "2026-06-17 18:51:28",
+      "watch_url": null
+    },
+    {
       "title": "Adventure",
       "year": 1980,
       "medium": "Video Game",
@@ -4120,6 +4138,24 @@
       "truth": "Mexico's government implements temporal segregation as solution to overpopulation. Citizens are biologically programmed to be awake only during Day or Night cycles, living parallel lives that never meet. Anomalies begin occurring as boundaries break down.",
       "core": "Low-budget Mexican dystopian sci-fi using temporal segregation as metaphor for social division. Explores what is lost when crisis solutions sacrifice fundamental human experiences.",
       "created_at": "2026-06-17 08:07:10",
+      "watch_url": null
+    },
+    {
+      "title": "C.I.Ape",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.95,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, Espionage",
+      "image_filename": "C_I_Ape_2022.jpg",
+      "pitch": "A comedic sci-fi film about a criminal plot that is discovered by the C.I.A., who turns to their first ever ape operative to foil the plot from the inside.",
+      "truth": "When a criminal plot is discovered, the C.I.A. turns to their first ever ape operative, their most unique agent, to foil the plot from the inside.",
+      "core": "A lighthearted spy-comedy twist with an ape operative. The premise combines spy genre tropes with sci-fi for a family-friendly adventure.",
+      "created_at": "2026-06-17 18:52:28",
       "watch_url": null
     },
     {
@@ -14365,6 +14401,24 @@
       "watch_url": null
     },
     {
+      "title": "Mutant Species",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "David A. Priest",
+      "raw_score": 2.0,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Mutation, Survival, Ecology",
+      "image_filename": "Mutant_Species_1995.jpg",
+      "pitch": "A low-budget sci-fi horror film from 1995. A team is sent to recover bio-hazardous material that crashed in a remote wooded area. One team member is infected and transforms into a monster, killing most of his comrades. Survivors must escape while fighting another creature.",
+      "truth": "A rocket containing bio-hazardous material crashes in a remote wooded area. An army team is sent to recover it. One man is infected and mutates into a monster, killing most of the team. Two survivors\u2014a man and a woman who live in the woods\u2014help the last surviving soldier. Together they must stop the mutated soldier and face another creature threat.",
+      "core": "A straightforward creature-feature with standard bio-hazard horror tropes. The transformation scenes and practical effects provide some entertainment value. The film offers little beyond genre exercise, with weak production values and familiar plotting.",
+      "created_at": "2026-06-17 18:50:36",
+      "watch_url": null
+    },
+    {
       "title": "My 20th Century",
       "year": 1989,
       "medium": "Film",
@@ -16343,6 +16397,24 @@
       "core": "Phoenix 2772 explores several interlocking themes that run through Tezuka's entire Phoenix manga series. The central theme is reincarnation and the cyclical nature of existence\u2014Godo and Olga's story represents an eternal return, with their love transcending death itself. The film presents love as a force powerful enough to transform both the lover and the beloved, with the Phoenix itself being moved by Godo's compassion for all living things.\n\nThe film also examines the conflict between selfishness and selflessness. Rock represents the ultimate selfish character\u2014he wants immortality and power for himself. Godo initially seems selfish in his grief over Rena, but ultimately discovers the capacity for true selfless love. The Phoenix, who herself wanted to consume Godo's love, ultimately respects his choice to sacrifice himself for others.\n\nThe dystopian setting serves as a critique of totalitarian control and the dehumanization of society. Humanity has traded freedom for security, with computers assigning roles and test-tube births eliminating natural family bonds. Yet even in this sterile world, authentic human emotions\u2014love, loyalty, sacrifice\u2014prove more powerful than any system designed to suppress them.\n\nFinally, the film addresses environmental concerns through Earth's depletion and the destructive energy extraction in Iceland, suggesting that technological \"progress\" without spiritual growth leads to annihilation. Only through genuine love and self-sacrifice can humanity and the world be reborn.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/phoenix_2772_1980"
+    },
+    {
+      "title": "Pichaikkaran 2",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Vijay Antony",
+      "raw_score": 2.2,
+      "total_ratings": 12,
+      "origin": "India",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Identity, Class Struggle, Technology",
+      "image_filename": "Pichaikkaran_2_2023.jpg",
+      "pitch": "A Tamil sci-fi action film about a beggar who undergoes an illegal brain transplant, waking up in the body of a wealthy business tycoon. Searching for his kidnapped sister, he must navigate a world of power and privilege while trying to reclaim his identity.",
+      "truth": "Sathya is a beggar searching for his sister Raani, kidnapped by traffickers. Kidnapped himself, his brain is transplanted into Vijay Gurumoorthy, a wealthy tycoon. Forced to act as Vijay, he attempts to tell police his identity but is not believed. He kills his captors and uses Vijay's wealth to help the poor. Sentenced to prison, he finally reunites with his sister.",
+      "core": "Uses body-swap sci-fi to explore class inequality. The brain transplant represents the commodification of the poor. The journey from beggar to billionaire questions whether wealth determines identity. A fantasy premise with grounded social commentary on Indian class dynamics.",
+      "created_at": "2026-06-17 18:50:27",
+      "watch_url": null
     },
     {
       "title": "Pigtails",
@@ -19565,6 +19637,24 @@
       "core": "Gerry Anderson's final live-action series blends police procedural with sci-fi. Features elaborate alien prosthetics in his signature Supermarionation tradition. A cult favorite noted for its ambitious production design and international cast.",
       "created_at": "2026-06-15 19:44:29",
       "watch_url": "https://archive.org/details/space-precinct-1994"
+    },
+    {
+      "title": "Space Pups",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.69,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Children, Family",
+      "image_filename": "Space_Pups_2023.jpg",
+      "pitch": "A family sci-fi film about two young children and their parents who help a trio of aliens transformed as friendly dogs escape the clutches of a local UFO hunter while they repair their spaceship.",
+      "truth": "Two young children and their parents help three aliens who have been transformed into friendly dogs escape from a local UFO hunter. The family assists the aliens in repairing their spaceship and helping them escape.",
+      "core": "A lighthearted family sci-fi adventure with a friendly alien premise. The aliens-in-disguise-as-dogs is a classic twist on the hiding-alien genre.",
+      "created_at": "2026-06-17 18:52:00",
+      "watch_url": null
     },
     {
       "title": "Space Quest",
@@ -32419,5 +32509,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1801
+  "count": 1806
 }
