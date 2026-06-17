@@ -28855,6 +28855,24 @@
       "watch_url": null
     },
     {
+      "title": "The Third Planet",
+      "year": 1991,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.94,
+      "total_ratings": 16,
+      "origin": "Russia",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Isolation, Survival, Memory, Family",
+      "image_filename": "The_Third_Planet_1991.jpg",
+      "pitch": "A desperate father journeys into The Zone\u2014a forbidden post-apocalyptic wasteland\u2014to find a cure for his terminally ill daughter. Drawing from the Strugatsky brothers and Tarkovsky, this haunting Russian film is a meditation on paternal love, grief, and sacrifice.",
+      "truth": "The father embarks on a perilous journey into The Zone to find mysterious healers who might save his dying daughter. He faces strange phenomena, abandoned ruins, and psychological challenges that test his resolve. The healing he seeks may be literal or metaphorical\u2014the film ends on ambiguous hope.",
+      "core": "A philosophical meditation on paternal sacrifice and hope in a shattered world. The film draws from \"Roadside Picnic\" and \"Stalker\", exploring The Zone as a threshold between life and death. More concerned with interior landscapes than action, it honors the Russian post-apocalyptic tradition.",
+      "created_at": "2026-06-17 21:45:11",
+      "watch_url": null
+    },
+    {
       "title": "The Thousand Wonders of the Universe",
       "year": 1997,
       "medium": "Film",
@@ -32887,5 +32905,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1827
+  "count": 1828
 }
