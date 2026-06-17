@@ -2961,6 +2961,22 @@
       "watch_url": "https://archive.org/details/biomegatome010000tsut"
     },
     {
+      "title": "Biotherapy",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.05,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Science, Violence",
+      "image_filename": "biotherapy_1986.jpg",
+      "pitch": "A group of Japanese scientists are stalked and viciously butchered by a creepy alien in a trenchcoat. This obscure 1980s Japanese sci-fi horror film offers a creepy take on the alien-invasion genre.",
+      "created_at": "2026-06-17 10:55:21",
+      "watch_url": null
+    },
+    {
       "title": "Birdy the Mighty",
       "year": 1996,
       "medium": "OVA",
@@ -13201,6 +13217,22 @@
       "watch_url": null
     },
     {
+      "title": "Odin: Starlight Mutiny",
+      "year": 1985,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 2.45,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Space Travel, Exploration, Heroes",
+      "image_filename": "odin_starlight_mutiny_1985.jpg",
+      "pitch": "The crew of the laser-sailing space schooner Starlight embarks on an historic interstellar test flight. They discover a wrecked spaceship containing a lone survivor, Sara Cyanbaker. But unknown to them, a mechanized space fleet approaches Earth, and a scout vessel from that fleet was researching humanity.",
+      "created_at": "2026-06-17 10:55:34",
+      "watch_url": null
+    },
+    {
       "title": "Odysseus and the Stars",
       "year": 1976,
       "medium": "Film",
@@ -15217,6 +15249,22 @@
       "watch_url": null
     },
     {
+      "title": "Rising Storm",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.52,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Military",
+      "topics": "Authoritarianism, Rebellion, Religion",
+      "image_filename": "rising_storm_1989.jpg",
+      "pitch": "In 2099 America, the Reverend Jimmy Joe II rules as a theocratic dictator, his armed troopers patrolling the streets to crush any dissent. The Kropfelders, a resistance movement, fight to spark an uprising against the regime. This obscure B-movie offers a grim vision of a fundamentalist dystopia.",
+      "created_at": "2026-06-17 10:54:41",
+      "watch_url": null
+    },
+    {
       "title": "Roadside Picnic",
       "year": 1972,
       "medium": "Novel",
@@ -16846,6 +16894,22 @@
       "image_filename": "Space_Quest_1986.jpg",
       "pitch": "Space Quest is a series of comic science fiction adventure games released between 1986 and 1995, following the misadventures of Roger Wilco, a hapless janitor who stumbles into intergalactic heroics. Created by Sierra On-Line (the \"Two Guys from Andromeda\"\u2014Mark Crowe and Scott Murphy), the series parodies iconic science fiction properties like Star Wars and Star Trek while infusing every scenario with puns, farcical storylines, and an underdog protagonist who saves the universe by accident, only to be ignored or punished for violating minor regulations in the process.\n\nThe games pioneered comedic adventure gaming, offering a lighthearted counterpoint to the serious fantasy themes that dominated Sierra's flagship King's Quest series. Players navigate point-and-click puzzles across alien worlds, starships, and bizarre interdimensional locales, with Roger Wilco perpetually out of his depth yet somehow prevailing through luck and persistence.",
       "created_at": "2026-03-05 14:12:31",
+      "watch_url": null
+    },
+    {
+      "title": "Space Runaway Ideon: Contact",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "Yoshiyuki Tomino",
+      "raw_score": 3.23,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "Aliens, War, Robots",
+      "image_filename": "space_runaway_ideon_contact_1982.jpg",
+      "pitch": "A recap film of the Space Runaway Ideon TV series. Humanity discovers the mysterious Ideon\u2014three giant robot components\u2014and a powerful warship on the planet Solo. When the alien Buff Clan attacks, the Earthlings must use these ancient weapons to defend themselves against a powerful enemy.",
+      "created_at": "2026-06-17 10:55:09",
       "watch_url": null
     },
     {
@@ -26929,6 +26993,22 @@
       "watch_url": "https://archive.org/details/visitors-from-the-arkana-galaxy-gosti-iz-galaksije-1971-ljubisa-samardzic-zarko-"
     },
     {
+      "title": "Voltron: Fleet of Doom",
+      "year": 1986,
+      "medium": "Anime Film",
+      "creator": "World Events Productions",
+      "raw_score": 3.57,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "Heroes, Evil, Alliance",
+      "image_filename": "voltron_fleet_of_doom_1986.jpg",
+      "pitch": "King Zarkon of the Drule Empire allies with Viceroy Throk to form the Fleet of Doom, an armada bent on destroying the Galaxy Alliance. To stop them, the heroes of both Voltron series\u2014Lion Force and Vehicle Force\u2014must unite for the first time. This 1986 TV special brings together characters from the original Beast King Go-Lion and Armored Fleet Dairugger XV source series.",
+      "created_at": "2026-06-17 10:55:00",
+      "watch_url": null
+    },
+    {
       "title": "WXIII: Patlabor the Movie 3",
       "year": 2002,
       "medium": "Anime Film",
@@ -28001,5 +28081,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1750
+  "count": 1755
 }
