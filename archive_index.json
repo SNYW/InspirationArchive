@@ -14001,6 +14001,22 @@
       "watch_url": null
     },
     {
+      "title": "Origin: Spirits of the Past",
+      "year": 2006,
+      "medium": "Anime Film",
+      "creator": "Keiichi Sugiyama",
+      "raw_score": 3.48,
+      "total_ratings": 260,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Ecology, Evolution, Survival",
+      "image_filename": "Origin_Spirits_of_the_Past_2006.jpg",
+      "pitch": "In the 24th century, Earth is a plant-choked wasteland ruled by sentient trees. Agito awakens Toola, frozen for centuries, whose device could destroy the Forest and restore humanity. He must choose between saving his species or the ecosystem.",
+      "created_at": "2026-06-17 18:04:27",
+      "watch_url": null
+    },
+    {
       "title": "Orion's Key",
       "year": 1996,
       "medium": "Film",
@@ -28753,5 +28769,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1797
+  "count": 1798
 }
