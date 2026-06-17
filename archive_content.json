@@ -12871,6 +12871,24 @@
       "watch_url": "https://archive.org/details/turner_video_17493"
     },
     {
+      "title": "Mechanical Marie",
+      "year": 2025,
+      "medium": "Anime",
+      "creator": "Aki Akimoto",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Love, Deception",
+      "image_filename": "mechanical_marie.jpg",
+      "pitch": "Arthur Zetes is a misanthrope targeted by his jealous stepbrother. When Butler Roy hires Marie as his mechanical maid, Arthur expects nothing \u2014 but he's about to fall for his robot. Too bad Marie is 100% human, hiding her identity to protect a man who despises humans.",
+      "truth": "Arthur lives isolated, targeted by his stepbrother Maynard. Butler Roy hires Marie as his mechanical maid. In truth, Marie is a martial artist hiding her skills while protecting Arthur from assassins. As feelings develop, Arthur questions whether his robot has feelings. The climax forces Marie to reveal she's human to save him.",
+      "core": "The series inverts the robot-maid trope: the robot protects the human. It explores authenticity in relationships \u2014 can love be real when built on deception? Arthur's arc from misanthrope to accepting human connection mirrors Marie's journey. SF elements serve the character study.",
+      "created_at": "2026-06-17 09:14:33",
+      "watch_url": null
+    },
+    {
       "title": "Mechanical Violator Hakaider",
       "year": 1995,
       "medium": "Film",
@@ -31285,5 +31303,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1738
+  "count": 1739
 }
