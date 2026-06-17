@@ -3041,6 +3041,22 @@
       "watch_url": null
     },
     {
+      "title": "Black Hole",
+      "year": 2010,
+      "medium": "Short Film",
+      "creator": "Rupert Sanders",
+      "raw_score": 1.9,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Biopunk",
+      "topics": "Evolution, Genetic Engineering, Pandemic",
+      "image_filename": "Black_Hole_2010.jpg",
+      "pitch": "Based on Charles Burns' graphic novel, this short traces a mysterious STD causing grotesque mutations in teenagers. Body horror meets social ostracism in this AIDS-era parable.",
+      "created_at": "2026-06-17 13:24:46",
+      "watch_url": null
+    },
+    {
       "title": "Black Lightning",
       "year": 2009,
       "medium": "Film",
@@ -28337,5 +28353,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1771
+  "count": 1772
 }
