@@ -497,6 +497,22 @@
       "watch_url": "https://archive.org/details/a-cosmic-christmas-1977"
     },
     {
+      "title": "A Cure for Wellness",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Gore Verbinski",
+      "raw_score": 3.17,
+      "total_ratings": 4197,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Isolation, Corporate Power, Supernatural",
+      "image_filename": "A_Cure_for_Wellness_2017.jpg",
+      "pitch": "A young executive is sent to retrieve his company's CEO from a mysterious wellness center in the Swiss Alps, but discovers the spa holds dark secrets beneath its tranquil surface.",
+      "created_at": "2026-06-17 06:45:10",
+      "watch_url": null
+    },
+    {
       "title": "A Fire in the Sky",
       "year": 1978,
       "medium": "Film",
@@ -12001,6 +12017,22 @@
       "watch_url": "https://archive.org/details/Morning-patrol-movie"
     },
     {
+      "title": "Mortal Engines",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Christian Rivers",
+      "raw_score": 3.11,
+      "total_ratings": 5155,
+      "origin": "New-Zealand",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse, Steampunk",
+      "topics": "Rebellion, Survival, Corporate Power",
+      "image_filename": "Mortal_Engines_2018.jpg",
+      "pitch": "In a future where cities move on giant wheels to hunt smaller towns, a young historian and a scarred assassin must stop London from destroying the Anti-Traction League with a superweapon called MEDUSA.",
+      "created_at": "2026-06-17 06:45:31",
+      "watch_url": null
+    },
+    {
       "title": "Moscow-Cassiopeia",
       "year": 1974,
       "medium": "Film",
@@ -12991,6 +13023,22 @@
       "pitch": "The Syfy Channel's first original movie is a paranoid thriller about a man who believes he was abducted by aliens \u2014 only to discover the 'aliens' are actually humans from the future, sent back to prevent a catastrophe. Tense and conspiratorial.",
       "created_at": "2026-06-15 09:19:35",
       "watch_url": "https://archive.org/details/official-denial-remastered"
+    },
+    {
+      "title": "Okja",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Bong Joon-ho",
+      "raw_score": 3.67,
+      "total_ratings": 4545,
+      "origin": "South-Korea",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Genetic Engineering, Corporate Power, Ecology",
+      "image_filename": "Okja_2017.jpg",
+      "pitch": "A teenage girl has raised a genetically modified super pig named Okja since it was a piglet. When the corporation arrives to take Okja for a global competition, Mija embarks on a desperate journey to rescue her best friend.",
+      "created_at": "2026-06-17 06:44:53",
+      "watch_url": null
     },
     {
       "title": "Om-Dar-B-Dar",
@@ -18974,6 +19022,22 @@
       "image_filename": "The_Chninkel_1986.jpg",
       "pitch": "The Chninkel (Le Grand Pouvoir du Chninkel) is a groundbreaking Franco-Belgian graphic novel that blends fantasy, science fiction, and Biblical allegory into a singular narrative experience. Created by Belgian writer Jean Van Hamme and Polish artist Grzegorz Rosi\u0144ski\u2014better known for their acclaimed Thorgal series\u2014this 1986-1987 work was groundbreaking for being published originally in black and white, a radical departure from the color-heavy tradition of Franco-Belgian comics. The story follows J'on, a diminutive chninkel (a race of small humanoid beings) who is suddenly chosen by the god U'n to bring peace to the war-torn planet Daar. What unfolds is a darkly humorous, philosophically rich tale that mixes inspirations from Tolkien, 2001: A Space Odyssey, and the Bible into something entirely its own.",
       "created_at": "2026-03-06 17:27:03",
+      "watch_url": null
+    },
+    {
+      "title": "The Circle",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "James Ponsoldt",
+      "raw_score": 2.76,
+      "total_ratings": 4595,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Surveillance, Corporate Power, Identity",
+      "image_filename": "The_Circle_2017.jpg",
+      "pitch": "A young woman joins a powerful tech company that promises total transparency, only to discover its surveillance network has darker plans for society.",
+      "created_at": "2026-06-17 06:45:40",
       "watch_url": null
     },
     {
@@ -26161,6 +26225,22 @@
       "watch_url": "https://archive.org/details/universal-war-one-integrale-t-01..06-bajram-fra-mc-productions-2010-colori-by-lux-73"
     },
     {
+      "title": "Upgrade",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Leigh Whannell",
+      "raw_score": 3.75,
+      "total_ratings": 5028,
+      "origin": "Australia",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Horror",
+      "topics": "Cybernetics, AI, Revenge",
+      "image_filename": "Upgrade_2018.jpg",
+      "pitch": "In 2046, a technophobe mechanic becomes paralyzed after a mugging that kills his wife. A tech visionary offers him an experimental AI chip called STEM that restores his mobility, but the chip has its own agenda.",
+      "created_at": "2026-06-17 06:45:05",
+      "watch_url": null
+    },
+    {
       "title": "Uridium",
       "year": 1986,
       "medium": "Video Game",
@@ -27505,5 +27585,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1719
+  "count": 1724
 }
