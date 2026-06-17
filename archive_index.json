@@ -19297,6 +19297,22 @@
       "watch_url": "https://archive.org/details/amazing_3"
     },
     {
+      "title": "The Amazing Captain Nemo",
+      "year": 1978,
+      "medium": "TV Series",
+      "creator": "Alex March",
+      "raw_score": 2.71,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Adventure, Science-Fantasy",
+      "topics": "Exploration, Robots, Survival",
+      "image_filename": "The_Amazing_Captain_Nemo_1978.jpg",
+      "pitch": "A 1978 American science fiction adventure miniseries. Captain Nemo is found in suspended animation under the sea and revived by modern-day Navy men to battle a fiendish mad scientist. Loosely based on Jules Verne's Twenty Thousand Leagues Under the Seas.",
+      "created_at": "2026-06-17 20:06:19",
+      "watch_url": null
+    },
+    {
       "title": "The Amazing Colossal Man",
       "year": 1957,
       "medium": "Film",
@@ -22129,6 +22145,22 @@
       "watch_url": null
     },
     {
+      "title": "The Invisible Dr. Mabuse",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Harald Reinl",
+      "raw_score": 3.4,
+      "total_ratings": 13,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Thriller",
+      "topics": "Crime, Suspense",
+      "image_filename": "The_Invisible_Dr_Mabuse_1962.jpg",
+      "pitch": "A 1962 West German mystery thriller. FBI-Agent Joe Como investigates strange occurrences at a revue theatre and a suspicious transport firm, leading him to believe that the criminal mastermind Dr. Mabuse has returned.",
+      "created_at": "2026-06-17 20:05:48",
+      "watch_url": null
+    },
+    {
       "title": "The Invisible Man",
       "year": 1985,
       "medium": "Film",
@@ -23935,6 +23967,22 @@
       "pitch": "In a remote Tibetan monastery, a group of lamas has spent centuries working on the \"List of God\" - a philosophical project to write down all 9 billion possible names of the divine. When modern technology offers them a solution, they rent a computer from a Western engineering firm to complete the task. Two technicians, Larry and George, are sent to install and operate the machine in the ancient monastery. What begins as a straightforward technical job becomes increasingly unsettling as the monks grow more fervent in their devotions and the completion date approaches. The story is a masterful blend of humor, philosophical inquiry, and mounting dread about the nature of reality and purpose.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/ninebillionnames0000arth_f3r6"
+    },
+    {
+      "title": "The Noah",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Michael F. Kelly",
+      "raw_score": 2.99,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Drama",
+      "topics": "Survival, Isolation, Memory",
+      "image_filename": "The_Noah_1975.jpg",
+      "pitch": "A 1975 American post-apocalyptic drama. Noah is the sole surviving human after a nuclear holocaust. Unable to accept his unique predicament, he creates an imaginary companion, then a companion for his companion, and finally an entire civilization\u2014a world of illusion in which there is no reality but Noah.",
+      "created_at": "2026-06-17 20:06:07",
+      "watch_url": null
     },
     {
       "title": "The Octopuses from the Second Floor",
@@ -25761,6 +25809,22 @@
       "watch_url": "https://archive.org/details/The_Twonky_1953"
     },
     {
+      "title": "The UFO Incident",
+      "year": 1975,
+      "medium": "TV Series",
+      "creator": "Richard A. Colla",
+      "raw_score": 3.28,
+      "total_ratings": 18,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Drama, Biography",
+      "topics": "Aliens, Memory, Suspense",
+      "image_filename": "The_UFO_Incident_1975.jpg",
+      "pitch": "A 1975 American made-for-television biographical drama. Based on the alleged 1961 alien abduction of Barney and Betty Hill, the film explores an interracial couple who undergo hypnosis and recover suppressed memories of being abducted by extraterrestrials.",
+      "created_at": "2026-06-17 20:06:13",
+      "watch_url": null
+    },
+    {
       "title": "The Unknown",
       "year": 2000,
       "medium": "Film",
@@ -26319,6 +26383,22 @@
       "pitch": "An animated American series about the X's, a family of highly trained secret agents who happen to be terrible at normal family life. They save the world from supervillains but cannot figure out how to have a normal dinner conversation.",
       "created_at": "2026-06-16 14:36:37",
       "watch_url": "https://archive.org/details/the-xs-s-01-e-02-secret-agent-manual-the-spy-who-liked-me"
+    },
+    {
+      "title": "The Year of the Plague",
+      "year": 1978,
+      "medium": "Film",
+      "creator": "Felipe Cazals",
+      "raw_score": 2.65,
+      "total_ratings": 19,
+      "origin": "Mexico",
+      "mood": "Pessimistic",
+      "sub_genres": "Drama, Thriller",
+      "topics": "Pandemic, Survival, Government",
+      "image_filename": "The_Year_of_the_Plague_1978.jpg",
+      "pitch": "A 1978 Mexican sci-fi drama. A doctor in a small Mexican town discovers a deadly disease is spreading and tries to warn authorities, but no one listens. The government attempts to suppress information to prevent panic. Directed by Felipe Cazals with a screenplay co-written by Gabriel Garc\u00eda M\u00e1rquez.",
+      "created_at": "2026-06-17 20:06:02",
+      "watch_url": null
     },
     {
       "title": "The Year of the Quiet Sun",
@@ -28945,5 +29025,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1809
+  "count": 1814
 }
