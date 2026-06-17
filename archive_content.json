@@ -5851,6 +5851,24 @@
       "watch_url": null
     },
     {
+      "title": "Die 2050er - Everything will change",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.2,
+      "total_ratings": 11,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Climate, Ecology, Rebellion",
+      "image_filename": "die_2050er_2022.jpg",
+      "pitch": "In a dystopian 2054, three young rebels embark on a journey to find traces of the lost beauty of nature, searching for what happened to their devastated planet.",
+      "truth": "The world of 2054 is ravaged by climate catastrophe\u2014drought, floods, and storms have destroyed civilizations. Three young rebels leave their settlement on a quest to discover what remains of nature. Along the way, they face the remnants of a collapsed world and must confront the devastation humanity caused.",
+      "core": "A German climate-fiction drama that imagines the legal and social consequences of climate collapse. It uses near-future dystopia to critique present-day environmental inaction, exploring how future generations might judge today's choices.",
+      "created_at": "2026-06-17 09:39:48",
+      "watch_url": null
+    },
+    {
       "title": "Die Arche",
       "year": 1919,
       "medium": "Film",
@@ -17656,6 +17674,24 @@
       "truth": "The film presents a series of vignettes from the life of sentient beans living on a distant planet. An enormous eye in the sky \u2014 the observer \u2014 watches their every move. The beans go about their lives: working, loving, arguing, mourning, and celebrating. Some beans notice the eye and become uneasy; others dismiss it as natural.\n\nAs the film progresses, the beans' society becomes increasingly aware of the observer. Some begin performing for the eye, others try to hide. A religious movement emerges claiming the eye is a god. Political factions form \u2014 those who embrace the watcher and those who demand the beans rebel against their celestial spy. The eye, initially a passive observer, begins to react to what it sees, creating a tense feedback loop between observer and observed.\n\nThe film ends ambiguously \u2014 does the eye's attention elevate the beans to consciousness, or does their awareness of being watched ultimately destroy their innocent society? The final frames leave viewers questioning whether the watcher was ever truly separate from what was being watched.",
       "core": "Babfilm stands as a unique artifact of 1970s Eastern European science fiction \u2014 a period when Hungarian filmmakers found creative ways to explore big ideas under restrictive political conditions. The bean metaphor allows for pointed commentary on surveillance states, the psychology of being observed, and the relationship between privacy and consciousness.\n\nThe film asks fundamental questions: What makes something conscious? If a watcher observes a society, does that observation create the society's reality? The beans' journey from unaware existence to self-conscious awareness mirrors humanity's evolution from nature to civilization \u2014 and the anxiety that comes with knowing we're being watched.\n\nThematically, it presages later works exploring the observer effect in quantum physics and the surveillance debates of the digital age. The film's surreal imagery and deadpan tone place it in the tradition of Eastern European absurdism, yet its themes resonate with contemporary concerns about privacy, technology, and the gaze of power.",
       "created_at": "2026-06-12 17:23:29",
+      "watch_url": null
+    },
+    {
+      "title": "Schirkoa: In Lies We Trust",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.84,
+      "total_ratings": 11,
+      "origin": "Multinational",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Identity, Rebellion",
+      "image_filename": "schirkoa_in_lies_we_trust_2024.jpg",
+      "pitch": "In a hyper-organized society, citizens wear paper bags to eliminate class differences\u2014equality through erasure. When whispers spread of a hidden community living freely with uncovered faces, a council member sparks a dangerous revolution against enforced conformity.",
+      "truth": "Citizens wear paper bags for total equality. A council member discovers a hidden outside society living with real faces. Her curiosity sparks a movement questioning the system. The authorities increase surveillance. Some escape to freedom; others remain trapped in conformity.",
+      "core": "Schirkoa inverts the faceless society trope\u2014conformity through face-removal, not masks. The paper bag critiques surveillance culture and identity politics, asking if equality through erasure is progress. A cerebral dystopian work prioritizing ideas over spectacle.",
+      "created_at": "2026-06-17 09:39:19",
       "watch_url": null
     },
     {
@@ -31301,7 +31337,25 @@
       "core": "A sequel that expands the Zeiram universe with more action and world-building. Features practical effects and creative creature design.",
       "created_at": "2026-06-17 02:38:05",
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
+    },
+    {
+      "title": "\u00d6kozid",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.75,
+      "total_ratings": 11,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Climate, Law, Ecology",
+      "image_filename": "okozid_2020.jpg",
+      "pitch": "In 2034, after catastrophic climate events, the International Court of Justice operates from Berlin. Two lawyers represent 31 countries in landmark climate proceedings\u2014asking who bears responsibility for the ecological collapse.",
+      "truth": "The world faces repeated climate disasters\u2014droughts, floods, and storm tides have devastated millions. The International Court of Justice in The Hague has been evacuated to Berlin. There, a groundbreaking climate lawsuit unfolds: lawyers represent 31 countries seeking accountability for the ecological collapse that destroyed their homelands.",
+      "core": "A German climate-fiction legal drama that imagines a future where climate catastrophe becomes a matter of international law. It explores how society might one day hold powers accountable through legal frameworks\u2014a thought experiment in climate justice.",
+      "created_at": "2026-06-17 09:40:16",
+      "watch_url": null
     }
   ],
-  "count": 1739
+  "count": 1742
 }

@@ -5201,6 +5201,22 @@
       "watch_url": null
     },
     {
+      "title": "Die 2050er - Everything will change",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.2,
+      "total_ratings": 11,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Climate, Ecology, Rebellion",
+      "image_filename": "die_2050er_2022.jpg",
+      "pitch": "In a dystopian 2054, three young rebels embark on a journey to find traces of the lost beauty of nature, searching for what happened to their devastated planet.",
+      "created_at": "2026-06-17 09:39:48",
+      "watch_url": null
+    },
+    {
       "title": "Die Arche",
       "year": 1919,
       "medium": "Film",
@@ -15694,6 +15710,22 @@
       "image_filename": "Scenes_with_Beans_1976.jpg",
       "pitch": "In this hauntingly absurd Hungarian gem from 1976, an unseen cosmic observer watches from the stars as a civilization of sentient beans goes about its daily life \u2014 celebrating joys, enduring tragedies, and navigating the complexities of society. The all-seeing eye in the sky remains a passive witness until the beans finally become aware of being watched.\n\nThis surrealist masterpiece defies easy categorization. Part philosophical meditation on surveillance and the observer effect, part absurdist commentary on human (or bean-) nature, Babfilm presents a strange mirror to our own society's relationship with being observed. The film's dreamlike imagery and deadpan treatment of its ridiculous premise create an unsettling meditation on privacy, consciousness, and the thin membrane between watcher and watched.",
       "created_at": "2026-06-12 17:23:29",
+      "watch_url": null
+    },
+    {
+      "title": "Schirkoa: In Lies We Trust",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.84,
+      "total_ratings": 11,
+      "origin": "Multinational",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Identity, Rebellion",
+      "image_filename": "schirkoa_in_lies_we_trust_2024.jpg",
+      "pitch": "In a hyper-organized society, citizens wear paper bags to eliminate class differences\u2014equality through erasure. When whispers spread of a hidden community living freely with uncovered faces, a council member sparks a dangerous revolution against enforced conformity.",
+      "created_at": "2026-06-17 09:39:19",
       "watch_url": null
     },
     {
@@ -27823,7 +27855,23 @@
       "pitch": "Bounty hunter Iria returns to hunt an ancient mystical relic, but a second Zeiram unit goes rogue. With her AI partner Bob, she must survive a deadly game.",
       "created_at": "2026-06-17 02:38:05",
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
+    },
+    {
+      "title": "\u00d6kozid",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.75,
+      "total_ratings": 11,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Climate, Law, Ecology",
+      "image_filename": "okozid_2020.jpg",
+      "pitch": "In 2034, after catastrophic climate events, the International Court of Justice operates from Berlin. Two lawyers represent 31 countries in landmark climate proceedings\u2014asking who bears responsibility for the ecological collapse.",
+      "created_at": "2026-06-17 09:40:16",
+      "watch_url": null
     }
   ],
-  "count": 1739
+  "count": 1742
 }
