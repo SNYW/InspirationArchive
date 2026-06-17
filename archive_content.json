@@ -15985,6 +15985,24 @@
       "watch_url": null
     },
     {
+      "title": "Programmed to Kill",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Robert A. McGlow",
+      "raw_score": 1.85,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Cybernetics, Megacorps, Rebellion",
+      "image_filename": "Programmed_to_Kill_1987.jpg",
+      "pitch": "A female Middle Eastern terrorist is captured by the CIA in Greece and transformed into a cybernetic killing machine. Only 15 votes on TMDB, this remains an obscure 1980s sci-fi B-movie about identity, control, and state-sponsored violence.",
+      "truth": "Leila is captured after a marketplace attack and taken to a secret US facility. Experimental surgery transforms her into a cybernetic super-soldier. The CIA plans to deploy her back as their secret weapon, but memories of her past resurface and she resists her programming, turning against her creators.",
+      "core": "B-movie exploration of human weaponization. The film predates similar themes in major productions. Leila's struggle mirrors Cold War concerns about soldiers as disposable assets. Her cybernetic enhancements represent both power and captivity.",
+      "created_at": "2026-06-17 06:20:41",
+      "watch_url": null
+    },
+    {
       "title": "Project A-Ko",
       "year": 1986,
       "medium": "Anime Film",
@@ -30925,5 +30943,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1718
+  "count": 1719
 }
