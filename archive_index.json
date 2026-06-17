@@ -7057,6 +7057,22 @@
       "watch_url": null
     },
     {
+      "title": "Frankenstein: A Love Story",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Bob Th\u00e9nault",
+      "raw_score": 3.77,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Sentience, Cloning, Religion",
+      "image_filename": "frankenstein_a_love_story_1974.jpg",
+      "pitch": "A reclusive count attempts to create life from assembled corpses using alchemical knowledge and modern science. The resulting creature questions its existence and the nature of the soul in this obscure French film.",
+      "created_at": "2026-06-17 11:20:33",
+      "watch_url": null
+    },
+    {
       "title": "Frankenweenie",
       "year": 1984,
       "medium": "Short Film",
@@ -28081,5 +28097,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1755
+  "count": 1756
 }
