@@ -8353,6 +8353,24 @@
       "watch_url": null
     },
     {
+      "title": "Galactica 1980",
+      "year": 1980,
+      "medium": "TV Series",
+      "creator": "Glen A. Larson",
+      "raw_score": 3.07,
+      "total_ratings": 99,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Adventure",
+      "topics": "Space Travel, Aliens, Survival",
+      "image_filename": "Galactica_1980_1980.jpg",
+      "pitch": "Galactica 1980 continues the Battlestar Galactica saga 30 years after the original series. The crew of the Galactica reaches Earth only to find the planet far too primitive to help in the war against the Cylons. Now they must protect Earth while secretly guiding humanity toward technological advancement.",
+      "truth": "Set 30 years after the original Battlestar Galactica, the series follows Commander Adama and the crew as they arrive at Earth. Finding humanity technologically backward, they secretly guide Earth's development while protecting the planet from the Cylons.",
+      "core": "Galactica 1980 attempted to revive the franchise with lower costs and younger appeal. It introduced Earth as a protected primitive world \u2014 a motif later revisited in the reimagined series, expanding the Galactica universe's mythology.",
+      "created_at": "2026-06-17 12:35:45",
+      "watch_url": null
+    },
+    {
       "title": "Galaxy Express 999",
       "year": 1977,
       "medium": "Manga",
@@ -17317,6 +17335,24 @@
       "watch_url": "https://archive.org/details/roadsidepicnic00stru"
     },
     {
+      "title": "RoboCop: The Animated Series",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Edward Neumeier, Michael Miner",
+      "raw_score": 3.56,
+      "total_ratings": 94,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk, Superhero",
+      "topics": "Robots, Justice, Vigilantism",
+      "image_filename": "RoboCop_The_Animated_Series_1988.jpg",
+      "pitch": "RoboCop: The Animated Series adapts the 1987 action film for younger audiences. In futuristic Detroit, police officer Alex Murphy is killed in the line of duty and reborn as RoboCop, a cybernetic law enforcer. Now he patrols the streets with partner Anne Lewis, fighting criminals who control the city.",
+      "truth": "The series follows RoboCop and Officer Anne Lewis protecting Old Detroit from criminals. RoboCop was created by OCP after Murphy was killed in the line of duty. He battles villains including Serpentor and corrupt executive Kinney. The show replaced bullets with laser weapons for children's programming.",
+      "core": "This series represents late-1980s American animation adapting mature film properties for younger audiences. While losing the original's satirical edge, it embraced pure superhero adventure, reflecting the era's content restrictions on children's programming.",
+      "created_at": "2026-06-17 12:35:27",
+      "watch_url": null
+    },
+    {
       "title": "Robot & Scarecrow",
       "year": 2017,
       "medium": "Film",
@@ -19925,6 +19961,24 @@
       "core": "Explores evil within\u2014the Dark Hadou is a temptation, not external. Ryu must choose between its power and his humanity. The Shun relationship echoes Ryu's journey from student to master.",
       "created_at": "2026-06-15 23:55:20",
       "watch_url": "https://archive.org/details/turner_video_3037"
+    },
+    {
+      "title": "Street Hawk",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "Paul M. Belous, Robert Wolterstorff",
+      "raw_score": 3.45,
+      "total_ratings": 104,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Action, Superhero",
+      "topics": "Justice, Technology, Crime",
+      "image_filename": "Street_Hawk_1985.jpg",
+      "pitch": "Street Hawk is an action series about ex-motorcycle cop Jesse Mach, recruited for a top-secret government project. Equipped with an experimental armored motorcycle capable of incredible speeds, he becomes Street Hawk \u2014 a high-tech crimefighter operating in the shadows while the government denies his existence.",
+      "truth": "Jesse Mach, an ex-motorcycle cop injured in the line of duty, is recruited for a secret government program. Given the experimental Street Hawk motorcycle \u2014 a heavily armored bike with advanced technology \u2014 he fights crime while the government maintains official denial of his existence.",
+      "core": "Street Hawk embodies the 1980s trend of high-tech secret superheroes. The concept of a government-backed but officially denied crimefighter presaged themes explored in later media. The show features music by Tangerine Dream and represents a unique entry in the action hero genre.",
+      "created_at": "2026-06-17 12:35:50",
+      "watch_url": null
     },
     {
       "title": "Submersion of Japan",
@@ -30079,6 +30133,24 @@
       "watch_url": "https://archive.org/details/ultraman-zearth-english-subtitles"
     },
     {
+      "title": "Ulysses 31",
+      "year": 1981,
+      "medium": "Anime",
+      "creator": "Nina Wolmark, Jean Chalopin",
+      "raw_score": 4.02,
+      "total_ratings": 121,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Mythology, Space, Survival",
+      "image_filename": "Ulysses_31_1981.jpg",
+      "pitch": "Ulysses 31 is a French-Japanese animated series that reimagines Homer's Odyssey in the 31st century. When the gods punish Ulysses for an accident, he and his crew are condemned to wander the galaxy until they can find their way home, facing trials inspired by Greek mythology.",
+      "truth": "Ulysses 31 follows Ulysses (Odysseus) and his crew as they journey through space, condemned by the gods to wander for 31 centuries. Each episode presents a trial inspired by Greek mythology \u2014 from the Cyclops to Circe \u2014 while the ship computer provides exposition. The series combines classical myth with science fiction adventure.",
+      "core": "This series represents a bold attempt to modernize classical mythology through science fiction. By transposing the Odyssey to the 31st century, it created an educational yet entertaining blend of Greek myth and space adventure that influenced later animated series.",
+      "created_at": "2026-06-17 12:35:57",
+      "watch_url": null
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -31753,5 +31825,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1764
+  "count": 1768
 }
