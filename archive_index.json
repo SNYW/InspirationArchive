@@ -7505,6 +7505,22 @@
       "watch_url": null
     },
     {
+      "title": "Garakowa -Restore the World-",
+      "year": 2016,
+      "medium": "Anime Film",
+      "creator": "Rohayashi",
+      "raw_score": 2.8,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Memory, Aliens",
+      "image_filename": "garakowa.jpg",
+      "pitch": "In a zero-gravity space called the Box of Wisdom, floating lights represent worlds awaiting erasure. Dual and Dorothy fight Viruses that corrupt timelines\u2014until a mysterious anomaly challenges their mission. A meditative, visually haunting meditation on deletion, memory, and what it means to erase a world.",
+      "created_at": "2026-06-17 10:29:08",
+      "watch_url": null
+    },
+    {
       "title": "Garuda",
       "year": 2004,
       "medium": "Film",
@@ -17729,6 +17745,22 @@
       "watch_url": "https://cs.wikisource.org/wiki/Svat%C3%BD_Xaverius"
     },
     {
+      "title": "Synapse",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Kenlon Clark",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Memory, VR, Addiction",
+      "image_filename": null,
+      "pitch": "In a near-future America, \\\"mems\\\" - a biotech drug allowing users to download memories - has replaced traditional narcotics. When addicted dealer Nathan Stafford is chased by federal agents, he must protect the secrets locked in his mind or face total mind-wipe.",
+      "created_at": "2026-06-17 10:36:26",
+      "watch_url": null
+    },
+    {
       "title": "System Shock",
       "year": 1994,
       "medium": "Video Game",
@@ -26817,6 +26849,22 @@
       "watch_url": null
     },
     {
+      "title": "Violence Voyager",
+      "year": 2018,
+      "medium": "Anime Film",
+      "creator": "Tomomasa",
+      "raw_score": 3.38,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Survival, Children, Isolation",
+      "image_filename": "violence_voyager.jpg",
+      "pitch": "An American boy Bobby and his friend Akkun discover a mysterious amusement park in the mountains. What starts as adventure becomes a nightmare when they realize they cannot leave. Trapped with other lost children, they must survive brutal attacks in this eerie liminal space.",
+      "created_at": "2026-06-17 10:29:46",
+      "watch_url": null
+    },
+    {
       "title": "Virtual Sexuality",
       "year": 1999,
       "medium": "Film",
@@ -27953,5 +28001,5 @@
       "watch_url": null
     }
   ],
-  "count": 1747
+  "count": 1750
 }
