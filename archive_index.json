@@ -2433,6 +2433,22 @@
       "watch_url": "https://archive.org/details/barbarella_1968"
     },
     {
+      "title": "Barren Illusion",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Katsuhito Ishii",
+      "raw_score": 2.87,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia",
+      "topics": "Isolation, Rebellion, Ecology",
+      "image_filename": "Barren_Illusion_1999.jpg",
+      "pitch": "In near-future Japan with an allergy epidemic, a burnt-out music producer and a mail-thief form a bond. Both volunteer for an experimental drug trial.",
+      "created_at": "2026-06-17 02:38:00",
+      "watch_url": null
+    },
+    {
       "title": "Battle Angel",
       "year": 1993,
       "medium": "OVA",
@@ -3374,6 +3390,22 @@
       "image_filename": "camp_slaughter_2004.jpg",
       "pitch": "A slasher film with a twist\u2014four friends become trapped in a time loop at Camp Hiawatha, forced to relive the night of a brutal massacre until they can break the cycle. Twenty-four years after the original killings, the time-displaced travelers must confront the truth about the murders.",
       "created_at": "2026-06-16 23:40:24",
+      "watch_url": null
+    },
+    {
+      "title": "Capitaine X",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Pascal H\u00e9rold",
+      "raw_score": 3.27,
+      "total_ratings": 11,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Survival, Identity",
+      "image_filename": "Capitaine_X_1994.jpg",
+      "pitch": "A man wakes in a warehouse surrounded by degenerates who plan to execute him. Trapped with strangers, he must find a way to survive.",
+      "created_at": "2026-06-17 02:38:24",
       "watch_url": null
     },
     {
@@ -12497,6 +12529,22 @@
       "watch_url": null
     },
     {
+      "title": "Noiseman Sound Insect",
+      "year": 1997,
+      "medium": "Short Film",
+      "creator": "Koji Morimoto",
+      "raw_score": 3.43,
+      "total_ratings": 21,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Music, VR, Ecology",
+      "image_filename": "Noiseman_Sound_Insect_1997.jpg",
+      "pitch": "In a world where music has been banned, a boy remembers the old days when music flowed freely. He must convince a rogue scientist to return the captured musical ghosts.",
+      "created_at": "2026-06-17 02:38:16",
+      "watch_url": null
+    },
+    {
       "title": "Non-Stop New York",
       "year": 1937,
       "medium": "Film",
@@ -15566,6 +15614,22 @@
       "image_filename": "Silence_of_Doctor_Ivens_1974.jpg",
       "pitch": "In the surreal aftermath to a plane crash at sea, Dr. Iven \u2014 an eminent scientist \u2014 becomes the only survivor, rescued by alien visitors from a pacifist civilization. These extraterrestrials have come to study humanity, but they hold a troubling conclusion: the world, saturated with weapons of mass destruction, is not ready for the wonders of their advanced culture.\n\nThe situation grows more complicated when a genuine relationship blossoms between the doctor and his female alien rescuer. As Dr. Iven is drawn deeper into the aliens' worldview, he must confront an uncomfortable truth about his own species \u2014 and decide whether humanity deserves to join the cosmic community of intelligent beings.\n\nThis 1974 Soviet science fiction film explores first contact through a melancholy lens, questioning whether human violence and militarism have doomed us to isolation among the stars.",
       "created_at": "2026-06-13 05:05:55",
+      "watch_url": null
+    },
+    {
+      "title": "Silent M\u00f6bius",
+      "year": 1991,
+      "medium": "Anime Film",
+      "creator": "Kazuo Tomizawa",
+      "raw_score": 2.5,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Horror",
+      "topics": "Demons, Rebellion, VR",
+      "image_filename": "Silent_M\u00f6bius_1991.jpg",
+      "pitch": "In futuristic Tokyo, a secret war wages against demonic Lucifers. A police unit called AMP must defend the city while grappling with their own powers.",
+      "created_at": "2026-06-17 02:38:12",
       "watch_url": null
     },
     {
@@ -27007,7 +27071,23 @@
       "pitch": "Two office workers stumble upon intergalactic bounty hunter Ilia and her AI partner Bob. Transported to the Zone\u2014a virtual reality where Bob has trapped a biological weapon named Zeram\u2014they must survive the experience and help Ilia.",
       "created_at": "2026-06-15 23:29:40",
       "watch_url": null
+    },
+    {
+      "title": "Z\u00ebiram 2",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Keita Amemiya",
+      "raw_score": 3.32,
+      "total_ratings": 15,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Cyberpunk",
+      "topics": "Aliens, Exploration, AI",
+      "image_filename": "Z\u00ebiram_2_1994.jpg",
+      "pitch": "Bounty hunter Iria returns to hunt an ancient mystical relic, but a second Zeiram unit goes rogue. With her AI partner Bob, she must survive a deadly game.",
+      "created_at": "2026-06-17 02:38:05",
+      "watch_url": null
     }
   ],
-  "count": 1688
+  "count": 1693
 }
