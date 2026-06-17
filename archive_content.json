@@ -14617,6 +14617,24 @@
       "watch_url": null
     },
     {
+      "title": "Obsolete",
+      "year": 2019,
+      "medium": "TV Series",
+      "creator": "Tsutomu Niwa",
+      "raw_score": 3.65,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Cyberpunk, Hard-SF",
+      "topics": "AI, Robots, Aliens, Technology",
+      "image_filename": "Obsolete_2019.jpg",
+      "pitch": "In 2014, aliens reveal themselves to humanity, offering trade: limestone for consciousness-controlled robots called Exoframes. Cheap and easy to operate, these general-purpose machines rapidly transform warfare, industry, and daily life worldwide.",
+      "truth": "A 6-episode Japanese series produced by Bandai Namco. Each episode explores a different facet of how automation and alien technology reshape society \u2014 from economic disruption to military escalation. The Exoframes are piloted via consciousness transfer, raising questions of identity and embodiment.",
+      "core": "The premise subverts the usual alien-invasion narrative: the aliens come as traders, not conquerors. Their technology enables rapid automation but creates dependency. The series asks: when anyone can operate military-grade machinery, what happens to power structures?",
+      "created_at": "2026-06-17 07:35:31",
+      "watch_url": null
+    },
+    {
       "title": "Odysseus and the Stars",
       "year": 1976,
       "medium": "Film",
@@ -31051,5 +31069,5 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     }
   ],
-  "count": 1725
+  "count": 1726
 }
