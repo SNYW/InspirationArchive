@@ -11921,6 +11921,22 @@
       "watch_url": null
     },
     {
+      "title": "Nails",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Andrey Iskanov",
+      "raw_score": 2.45,
+      "total_ratings": 15,
+      "origin": "Russia",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Violence, Survival, Mental Health",
+      "image_filename": "nails_2003.jpg",
+      "pitch": "Hitman, a professional assassin, suffers from agonizing headaches. Desperate for relief, he turns to an experimental treatment: hammering nails into his skull. Each session provides temporary respite but requires deeper insertion. As the nails accumulate, his mind deteriorates and his violence escalates.",
+      "created_at": "2026-06-17 01:22:17",
+      "watch_url": null
+    },
+    {
       "title": "Natural City",
       "year": 2003,
       "medium": "Film",
@@ -26897,5 +26913,5 @@
       "watch_url": null
     }
   ],
-  "count": 1681
+  "count": 1682
 }
