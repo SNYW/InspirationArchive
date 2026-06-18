@@ -12145,6 +12145,22 @@
       "watch_url": null
     },
     {
+      "title": "MW",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Osamu Tezuka",
+      "raw_score": 3.19,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Thriller",
+      "topics": "Pandemic, Corporate Power, Survival",
+      "image_filename": "MW_2009.jpg",
+      "pitch": "A live-action adaptation of Tezuka's mature manga. A secret chemical called MW infects an island near Okinawa. The military kills all victims to cover it up. A survivor, Michio Yuki, grows up to become a banker with a dark secret.",
+      "created_at": "2026-06-18 07:46:23",
+      "watch_url": null
+    },
+    {
       "title": "MW -\u30e0\u30a6-",
       "year": 2009,
       "medium": "Film",
@@ -12703,6 +12719,22 @@
       "pitch": "Dystopian UK film based on Doris Lessing's novel. After a catastrophic collapse, a woman cares for a teenage girl in a city overrun by violent youth gangs. A contemplative meditation on survival and hope beyond apocalypse.",
       "created_at": "2026-06-13 21:53:32",
       "watch_url": "https://archive.org/details/memoirs-of-a-survivor-1981"
+    },
+    {
+      "title": "Memories",
+      "year": 1995,
+      "medium": "Anime Film",
+      "creator": "K\u014dji Morimoto, Tensai Okamura, Yoshiaki Kawajiri",
+      "raw_score": 3.74,
+      "total_ratings": 565,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Cyberpunk",
+      "topics": "Memory, Technology, AI",
+      "image_filename": "Memories_1995.jpg",
+      "pitch": "Three anime shorts explore memory and identity under progress. Magnetic Rose: engineers find a haunted space cruiser where a woman's digitized memories refuse to let go. Stink Bomb: a man becomes a walking bio-weapon. Cannon Fodder: endless war satirized.",
+      "created_at": "2026-06-18 07:45:00",
+      "watch_url": null
     },
     {
       "title": "Mercano the Martian",
@@ -13281,6 +13313,22 @@
       "watch_url": null
     },
     {
+      "title": "Moon Child",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "Gareth Edwards",
+      "raw_score": 2.91,
+      "total_ratings": 33,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Noir",
+      "topics": "Vampires, Identity, Survival",
+      "image_filename": "Moon_Child_2003.jpg",
+      "pitch": "A group of childhood friends advance in a futuristic criminal underworld. Sho becomes a vampire like his idol Kei\u2014granted eternal life but cursed with blood thirst. Their friendship corrodes through rivalry and love for the same woman.",
+      "created_at": "2026-06-18 07:46:40",
+      "watch_url": null
+    },
+    {
       "title": "Moon Zero Two",
       "year": 1969,
       "medium": "Film",
@@ -13807,6 +13855,22 @@
       "pitch": "The first Evangelion feature film combines two parts: Death, a recapped anthology of the TV series' key moments, and Rebirth, a preview of the alternate ending. Hideaki Anno deconstructs the mecha genre through psychological trauma and existential crisis.",
       "created_at": "2026-06-16 15:21:25",
       "watch_url": "https://archive.org/details/evangelion-death-and-rebirth"
+    },
+    {
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "year": 1997,
+      "medium": "Anime Film",
+      "creator": "Hideaki Anno",
+      "raw_score": 4.13,
+      "total_ratings": 1865,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Hard-SF",
+      "topics": "Identity, Mental Health, Evolution",
+      "image_filename": "Neon_Genesis_Evangelion_The_End_of_Evangelion_1997.jpg",
+      "pitch": "A alternative ending to the TV series. NERV launches a full-scale assault on the Angels while Gendo advances his own plans for Human Instrumentality. Shinji is pushed to the limits of his sanity as he is forced to decide humanity's fate.",
+      "created_at": "2026-06-18 07:45:27",
+      "watch_url": null
     },
     {
       "title": "Neppuu Kairiku Bushi Road",
@@ -19727,6 +19791,22 @@
       "pitch": "Teito Monogatari (\u5e1d\u90fd\u7269\u8a9e, \"Tale of the Imperial Capital\") is a Japanese alternate history science fantasy novel that retells the 20th-century history of Tokyo from an occultist perspective. Written by Hiroshi Aramata and first published in 1985, the novel is widely recognized as the first mainstream work to popularize onmy\u014dd\u014d (Japanese\u9634\u9633\u9053) and feng shui mythology in modern Japanese fiction. It was a bestseller with over 5 million copies sold in Japan and won the 1987 Nihon SF Taisho Award.\n\nThe story centers on a romanticized retelling of Tokyo's history through the lens of Japanese mysticism, focusing on the legend of Taira no Masakado, a 10th-century warlord who became a vengeful onry\u014d (vengeful spirit) and was later placated into a guardian kami. The narrative follows the cryptohistorical actions of Yasunori Kat\u014d, a mysterious former lieutenant of the Imperial Japanese Army who is himself an oni (demon), as he attempts to destroy Tokyo using supernatural forces.",
       "created_at": "2026-03-06 21:56:01",
       "watch_url": "https://archive.org/details/tm-epub-and-pdf-en"
+    },
+    {
+      "title": "TekWar: TekLords",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "William Shatner",
+      "raw_score": 3.15,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Thriller",
+      "topics": "Cybernetics, Corporate Power, VR",
+      "image_filename": "TekWar_TekLords_1994.jpg",
+      "pitch": "Jake Cardigan is a former cop framed for drug charges. In prison, a tek lord runs his drug empire. A virus hits the global computer network affecting both software and humans. Jake must stop the tek lords while dealing with his former wife's new husband.",
+      "created_at": "2026-06-18 07:47:45",
+      "watch_url": null
     },
     {
       "title": "Tekkaman Blade",
@@ -30241,5 +30321,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1890
+  "count": 1895
 }
