@@ -4645,6 +4645,24 @@
       "watch_url": "https://archive.org/details/cencoroll-257-mb"
     },
     {
+      "title": "Ceres: Celestial Legend",
+      "year": 2000,
+      "medium": "Anime",
+      "creator": "Yuu Watase",
+      "raw_score": 3.25,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Supernatural, Science-Fantasy",
+      "topics": "Reincarnation, Love, Family, Supernatural",
+      "image_filename": "ceres_celestial_legend.jpg",
+      "pitch": "On her sixteenth birthday, Aya Mikage discovers she is the reincarnation of Ceres, a powerful celestial maiden. Her own family has hunted her kind for centuries. As Aya wrestles with this supernatural legacy, she finds unlikely allies and devastating enemies, while a mysterious young man named Toya searches for memories intertwined with her fate.",
+      "truth": "Aya awakens as Ceres' vessel. The Mikage family sends assassins; she is saved by Suzumi Aogiri and Y\u016bhi. Her twin Aki becomes possessed by Shiso Mikagi, who stole Ceres' celestial robe. Toya, with no memories, falls in love with Aya and discovers he is the 'manna' \u2014 a fragment of the robe. In the climax, Aki sacrifices himself. Toya gives up immortality to save Aya and their child.",
+      "core": "The series explores reincarnation, cyclical vengeance, and how family legacy shapes identity. Ceres' story mirrors her descendants' fates \u2014 trapped by past wrongs. Grounded in Japanese mythology, it won the 1998 Shogakukan Manga Award in the sh\u014djo category.",
+      "created_at": "2026-06-18 04:49:15",
+      "watch_url": null
+    },
+    {
       "title": "Chameleon",
       "year": 1998,
       "medium": "Film",
@@ -33697,5 +33715,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1872
+  "count": 1873
 }
