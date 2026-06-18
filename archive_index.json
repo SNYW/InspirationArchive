@@ -11297,6 +11297,22 @@
       "watch_url": "https://archive.org/details/les-cites-obscures-t-01"
     },
     {
+      "title": "Les Cr\u00e9atures",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Agn\u00e8s Varda",
+      "raw_score": 3.2,
+      "total_ratings": 51,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Writing, Identity, Memory",
+      "image_filename": "Les_Creatures_1966.jpg",
+      "pitch": "A mute woman and her sci-fi writer husband move to a remote island after an accident. As he writes his next book, strange events in town begin mirroring his fictional narrative.",
+      "created_at": "2026-06-18 01:36:39",
+      "watch_url": null
+    },
+    {
       "title": "Les Ma\u00eetres du temps",
       "year": 1982,
       "medium": "Animated Film",
@@ -29633,5 +29649,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1852
+  "count": 1853
 }
