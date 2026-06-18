@@ -29585,6 +29585,22 @@
       "watch_url": "https://archive.org/details/zeiram-2-2-1994"
     },
     {
+      "title": "s-CRY-ed",
+      "year": 2001,
+      "medium": "Anime",
+      "creator": "Y\u014dsuke Kuroda, Sunrise",
+      "raw_score": 3.81,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Alters, Rebellion, Power, Friendship, Survival",
+      "image_filename": "s-CRY-ed_2001.jpg",
+      "pitch": "In an alternate Kanagawa, The Great Uprising divided the region into the lawless Lost Ground and the government-controlled Mainland. The disaster granted 1% of the population \"Alters\" \u2014 powers to manifest weapons. Kazuma is a mercenary; Ryuho serves in HOLY, the government's elite forces. Their rivalry drives this action series about freedom vs. authority.",
+      "created_at": "2026-06-18 01:09:28",
+      "watch_url": null
+    },
+    {
       "title": "\u00d6kozid",
       "year": 2020,
       "medium": "Film",
@@ -29601,5 +29617,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1850
+  "count": 1851
 }
