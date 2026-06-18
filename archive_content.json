@@ -721,6 +721,24 @@
       "watch_url": null
     },
     {
+      "title": "A Number",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Caryl Churchill",
+      "raw_score": 2.5,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Cloning, Identity, Family",
+      "image_filename": "",
+      "pitch": "A father faces the sons he had cloned decades earlier. Based on a play by Caryl Churchill, this sparse drama explores identity and what it means to be original.",
+      "truth": "A father who had himself cloned decades ago is confronted by multiple copies of himself as sons. The film explores the existential questions of identity and originality through these encounters.",
+      "core": "Adapted from Churchill's play, A Number examines\u514b\u9686 ethics and personal identity. The minimalist approach focuses on character rather than spectacle.",
+      "created_at": "2026-06-18 07:20:55",
+      "watch_url": null
+    },
+    {
       "title": "A Prayer for the Crown-Shy",
       "year": 2022,
       "medium": "Novella",
@@ -7345,6 +7363,24 @@
       "watch_url": null
     },
     {
+      "title": "Eel Girl",
+      "year": 2008,
+      "medium": "Short Film",
+      "creator": "Paul Campion",
+      "raw_score": 2.85,
+      "total_ratings": 14,
+      "origin": "New-Zealand",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Isolation, Obsession",
+      "image_filename": "",
+      "pitch": "A scientist becomes obsessed with a human-eel hybrid woman held in a secret naval research facility. Shot in Wellington by Paul Campion with Weta Workshop effects, this 5-minute short won 13 festival awards.",
+      "truth": "In a secure navy facility, a scientist activates override commands to approach the Eel Girl\u2014a hybrid with gills, fins, and pale skin. She beckons him through the security door. He embraces her, but she reveals rows of sharp teeth as the film ends ambiguously.",
+      "core": "Eel Girl is a showcase for practical effects and creature design. The ambiguous ending\u2014a predatory lure or genuine connection?\u2014adds psychological depth. The Weta Workshop craftsmanship makes it memorable.",
+      "created_at": "2026-06-18 07:20:36",
+      "watch_url": null
+    },
+    {
       "title": "Egg",
       "year": 2005,
       "medium": "Film",
@@ -11986,6 +12022,24 @@
       "truth": "The film opens by establishing Mohan's simple but virtuous life as a farmer in a rural Tamil village. Vani, the daughter of a wealthy landlord who lives in the city while her father's lands are managed by her conniving cousin Kannan, visits the village and meets Mohan. The two young people fall in love gradually through moonlight rendezvous and shared moments in nature.\n\nSimultaneously, a spacecraft hurtles toward Earth carrying two aliens who perfectly resemble humans. Their planet has achieved great scientific advancement but is severely lacking in the performing arts. They have come to Earth specifically to find and kidnap a talented artiste who can teach their people music and dance. As the spacecraft approaches Earth, the alien commander Thinna monitors performances from around the world, rejecting one after another until he discovers Vani singing. Mesmerized by her talent, he decides she is the perfect candidate for their mission.\n\nAfter Vani's secret meeting with Mohan, she is ambushed by the aliens and dragged into the spacecraft. Thinna takes Vani to their alien world while his companion Malla remains on Earth. Vani finds herself far from Earth but is treated kindly by the alien princess Rajini. She agrees to teach them dance and music.\n\nBack on Earth, Vani's father blames Kannan for her disappearance. Kannan, searching for Vani, encounters a mentally unstable girl named Valli who bears a striking resemblance to Vani. Believing Valli to be Vani, he kidnaps her and brings her to Vani's father, who, devastated to see his daughter apparently insane, agrees to let Kannan marry her. Meanwhile, Mohan spots the alien Malla and discovers the truth about Vani's abduction.\n\nMohan stows away on the alien spacecraft when it returns, journeying to the alien planet. Through various adventures and challenges, he ultimately rescues Vani and returns to Earth, where they are finally reunited.",
       "core": "Kalai Arasi represents a significant milestone in Indian cinema as the country's first science fiction film featuring aliens. At a time when Hollywood itself had barely explored space opera themes, this Tamil film boldly ventured into speculative fiction territory. The film's premise\u2014aliens seeking artistic enlightenment from Earth\u2014offers a unique inversion of the typical invasion narrative. Instead of Earth being conquered or exploited, the planet's cultural heritage becomes the valued commodity.\n\nThe film reflects mid-20th century India's fascination with modernization and technological progress while maintaining pride in traditional arts. The aliens' advanced science contrasts with their lack of artistic expression, suggesting that technological advancement without cultural depth is incomplete. This theme resonates with broader discussions about modernization in post-independence India\u2014embracing progress while preserving cultural identity.\n\nThe film's technical achievements for its time are notable, including special effects depicting the alien spacecraft and alien planet. The story's blend of romance, adventure, and science fiction elements created a template that would influence future Indian speculative films. M.G. Ramachandran's star power brought audiences to the film, and his character's journey from farmer to space traveler demonstrated the universal appeal of heroic rescue narratives.",
       "created_at": "2026-03-02 03:02:50",
+      "watch_url": null
+    },
+    {
+      "title": "Kamen Rider Blade: Missing Ace",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Toei",
+      "raw_score": 3.5,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Heroes, Sacrifice, Redemption",
+      "image_filename": "Kamen_Rider_Blade_Missing_Ace_2004.jpg",
+      "pitch": "The theatrical finale of Kamen Rider Blade. Four years after the series ended, the Undead are re-released and a new trio of Riders emerge to fight them. Former hero Kenzaki must rejoin the battle when an albino Joker threatens everyone.",
+      "truth": "The Undead are re-released. BOARD summons three new Riders\u2014Glaive, Larc, Lance\u2014to recapture them. Glaive is revealed as the albino Joker who captures Kotar\u014d's niece to obtain ultimate power. Hajime unsealed from the Joker Card swaps his life for hers, allowing himself to be destroyed. Blade achieves King Form and defeats Jashin 14.",
+      "core": "Legacy and passing the torch\u2014Missing Ace gives closure to Blade's story while introducing new Riders. Hajime's sacrifice provides redemption and emotional weight, a hallmark of Kamen Rider storytelling.",
+      "created_at": "2026-06-18 07:20:26",
       "watch_url": null
     },
     {
@@ -33967,5 +34021,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1887
+  "count": 1890
 }
