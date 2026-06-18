@@ -12331,6 +12331,24 @@
       "watch_url": "https://archive.org/details/l-inhumaine-the-inhuman-woman-1924-by-marcel-l-herbier"
     },
     {
+      "title": "L'\u00cele Myst\u00e9rieuse",
+      "year": 1973,
+      "medium": "TV Series",
+      "creator": "Jules Verne (novel), Daniel Moewen (adaptation)",
+      "raw_score": 3.3,
+      "total_ratings": 16,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Adventure, Science-Fantasy",
+      "topics": "Survival, Exploration, First Contact",
+      "image_filename": "LIle_Mysterieuse_1973.jpg",
+      "pitch": "A 1973 French miniseries based on Jules Verne's novel. Five Union prisoners escape in a balloon during the Civil War and crash on an uncharted island, where they meet Captain Nemo, a mysterious scientist living underground with his submarine Nautilus who helps them survive.",
+      "truth": "Five prisoners escape in a balloon and land on a mysterious island. They encounter Captain Nemo, who possesses advanced technology and protects them from pirates and disasters. Nemo is a reclusive scientist who withdrew from society. The colonists struggle to build a new community with his help.",
+      "core": "The series emphasizes that science and ingenuity can overcome obstacles. Captain Nemo represents the tragic scientist who has withdrawn from a destructive world. It explores whether knowledge should serve humanity or remain hidden to avoid misuse.",
+      "created_at": "2026-06-18 01:29:33",
+      "watch_url": null
+    },
+    {
       "title": "LFO",
       "year": 2013,
       "medium": "Film",
@@ -33319,5 +33337,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1851
+  "count": 1852
 }
