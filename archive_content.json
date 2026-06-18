@@ -8173,6 +8173,24 @@
       "watch_url": "https://archive.org/details/FriendWithoutAFace104"
     },
     {
+      "title": "Fight!! Iczer-One",
+      "year": 1985,
+      "medium": "Anime",
+      "creator": "Noboru Ishiguro",
+      "raw_score": 2.55,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Space-Opera",
+      "topics": "Aliens, First Contact, Rebellion",
+      "image_filename": "Fight_Iczer-One_1985.jpg",
+      "pitch": "A high school girl partners with a lone alien warrior to defend Earth against an alien invasion. Nagisa Kano's psychic bond with Iczer-One lets her support the fight against the Cthuwulf\u2014reversing the typical mecha formula by having the human as support, not pilot.",
+      "truth": "The Cthuwulf arrive to colonize Earth. Nagisa encounters Iczer-One, a lone alien rebel fighting the invaders. Through a psychic link, Nagisa supports Iczer-One's battles rather than piloting a robot. They recruit humans and mount a resistance. The final battle reveals Iczer-One's origins as the Cthuwulf invasion is pushed back.",
+      "core": "A 1980s inversion of the mecha genre\u2014the human supports the alien fighter rather than piloting a robot. Explores unlikely alliances and belonging through Nagisa's transformation from ordinary student to active defender.",
+      "created_at": "2026-06-18 08:35:10",
+      "watch_url": null
+    },
+    {
       "title": "Figure 17: Tsubasa & Hikaru",
       "year": 2001,
       "medium": "Anime",
@@ -34147,5 +34165,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1897
+  "count": 1898
 }
