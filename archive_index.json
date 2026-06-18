@@ -257,6 +257,22 @@
       "watch_url": "https://archive.org/details/2081."
     },
     {
+      "title": "24",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "Vikram Kumar",
+      "raw_score": 3.6,
+      "total_ratings": 133,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time-Travel, Family, Redemption",
+      "image_filename": "24_2016.jpg",
+      "pitch": "A 2016 Indian sci-fi thriller starring Suriya in triple roles. Sethuraman invents a time-travel watch, but his evil twin brother Athreya kills to steal it. Twenty-six years later, Sethuraman's son must use the watch to stop Athreya from rewriting history.",
+      "created_at": "2026-06-18 01:55:13",
+      "watch_url": null
+    },
+    {
       "title": "3%",
       "year": 2011,
       "medium": "Film",
@@ -29649,5 +29665,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1853
+  "count": 1854
 }
