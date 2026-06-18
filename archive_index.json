@@ -7441,6 +7441,22 @@
       "watch_url": "https://archive.org/details/fourthmansions0000rala_p4g0"
     },
     {
+      "title": "France Is a Gas",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "Beno\u00eet Glemin",
+      "raw_score": 2.7,
+      "total_ratings": 25,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, Survival, Technology",
+      "image_filename": "France_Is_a_Gas_2016.jpg",
+      "pitch": "In 2020, France faces catastrophe. The President gathers the nation's greatest minds at his home to find a solution. What follows is a satirical dissection of French society and the elites tasked with saving it.",
+      "created_at": "2026-06-18 02:21:40",
+      "watch_url": null
+    },
+    {
       "title": "France, Incorporated",
       "year": 1974,
       "medium": "Film",
@@ -11521,6 +11537,22 @@
       "watch_url": null
     },
     {
+      "title": "Living Still Life",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Beno\u00eet R\u0153ttgen",
+      "raw_score": 3.11,
+      "total_ratings": 28,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Memory, Isolation",
+      "image_filename": "Living_Still_Life_2014.jpg",
+      "pitch": "In a decaying world, a woman collects dead animals and restores them to life\u2014not through magic, but by filming them frame by frame, image by image. Her quiet obsession becomes a meditation on loss, memory, and the boundary between life and art.",
+      "created_at": "2026-06-18 02:21:36",
+      "watch_url": null
+    },
+    {
       "title": "Locke the Superman",
       "year": 1984,
       "medium": "Anime Film",
@@ -12062,6 +12094,22 @@
       "image_filename": "Marooned_1985.jpg",
       "pitch": "Marooned! is a text-graphical adventure game released in 1985 for the TRS-80 Color Computer (CoCo), an 8-bit home computer manufactured by Radio Shack. Developed by Steve Hartford and published by Saguaro Software, the game places players in the role of an ordinary person who witnesses a UFO landing in their corn field. What begins as curiosity quickly transforms into a fight for survival as the player is abducted by extraterrestrials and left on a mysterious alien world. The player must explore the alien environment, collect items, solve puzzles, and find a way to escape back to Earth.",
       "created_at": "2026-03-01 11:54:09",
+      "watch_url": null
+    },
+    {
+      "title": "Mars et Avril",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Martin Villeneuve",
+      "raw_score": 2.8,
+      "total_ratings": 20,
+      "origin": "Canada",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Love, Aging",
+      "image_filename": "Mars_et_Avril_2012.jpg",
+      "pitch": "In near-future Montreal, as humanity prepares for Mars, elderly musician Jacob Obus plays instruments that slow time. He and his friend Arthur both fall for young photographer Avril, while Arthur's father Eug\u00e8ne\u2014a cosmologist\u2014reveals a theory linking human desire for space exploration to consciousness itself.",
+      "created_at": "2026-06-18 02:21:22",
       "watch_url": null
     },
     {
@@ -28545,6 +28593,22 @@
       "watch_url": "https://archive.org/details/visitors-from-the-arkana-galaxy-gosti-iz-galaksije-1971-ljubisa-samardzic-zarko-"
     },
     {
+      "title": "Voice Over",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Jos\u00e9phina",
+      "raw_score": 3.29,
+      "total_ratings": 25,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Identity, Survival",
+      "image_filename": "Voice_Over_2011.jpg",
+      "pitch": "A cerebral experiment in three acts. A voice guides the viewer through three extreme survival situations that are actually the same. The viewer must piece together whose voice it is and whether they survive.",
+      "created_at": "2026-06-18 02:21:27",
+      "watch_url": null
+    },
+    {
       "title": "Voltron: Fleet of Doom",
       "year": 1986,
       "medium": "Anime Film",
@@ -29665,5 +29729,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1854
+  "count": 1858
 }
