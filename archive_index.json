@@ -2401,6 +2401,22 @@
       "watch_url": null
     },
     {
+      "title": "Attack on Titan: Counter Rockets",
+      "year": 2015,
+      "medium": "TV Series",
+      "creator": "Toho",
+      "raw_score": 3.75,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Monsters, Survival, Military",
+      "image_filename": "Attack_on_Titan_Counter_Rockets_2015.jpg",
+      "pitch": "A three-episode web miniseries serving as a prequel to the live-action Attack on Titan films. Follows Hange's Titan research and the creation of the omni-directional mobility gear.",
+      "created_at": "2026-06-18 03:36:08",
+      "watch_url": null
+    },
+    {
       "title": "August in the Water",
       "year": 1995,
       "medium": "Film",
@@ -10897,6 +10913,22 @@
       "watch_url": "https://archive.org/details/konga.-1961"
     },
     {
+      "title": "Koro Sensei Quest!",
+      "year": 2016,
+      "medium": "Anime",
+      "creator": "Lerche",
+      "raw_score": 3.15,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Magic, Superpowers",
+      "image_filename": "Koro_Sensei_Quest_2016.jpg",
+      "pitch": "A playful spin-off of Assassination Classroom flips the script: Koro-sensei is the Demon King while his students become heroes. Set at Kunugigaoka Magic School, they learn swordsmanship and sorcery to defeat him.",
+      "created_at": "2026-06-18 03:36:04",
+      "watch_url": null
+    },
+    {
       "title": "Krabi",
       "year": 1976,
       "medium": "Short Film",
@@ -10991,6 +11023,22 @@
       "pitch": "In 2100, a lunar experiment fuses twelve-year-old Kurau with a sentient energy being. Ten years later, she works as a freelance operative while a second Rynax sleeps inside her. A moody sci-fi anime about identity.",
       "created_at": "2026-06-15 01:06:35",
       "watch_url": "https://archive.org/details/turner_video_134388"
+    },
+    {
+      "title": "Kyousougiga",
+      "year": 2013,
+      "medium": "Anime",
+      "creator": "Toei",
+      "raw_score": 4.05,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Family, Time-Travel",
+      "image_filename": "Kyousougiga_2013.jpg",
+      "pitch": "Hidden within Kyoto is the mirror capital where youkai and humans live together. Protected by three siblings - Kurama, Yase, and Myoue - awaiting their parents' return. A girl named Koto arrives searching for her mother.",
+      "created_at": "2026-06-18 03:36:36",
+      "watch_url": null
     },
     {
       "title": "L'Atlantide",
@@ -13263,6 +13311,22 @@
       "pitch": "A mesmerizing Hungarian sci-fi meditation on the birth of modernity, \"My 20th Century\" weaves together the parallel lives of twin sisters born in Budapest in 1880\u2014the same moment Thomas Edison presents his electric lightbulb to the world. One twin becomes a naive, bomb-toting anarchist; the other, a pampered courtesan. Their paths converge on the Orient Express on New Year's Eve 1900, in a tale of mistaken identities, lost love, and the mysterious forces that shape an entire century. Shot in black-and-white with a playful, erotic tone, this experimental fairy tale won the Golden Camera at Cannes and established Enyedi as an early pioneer of female science-fiction cinema.",
       "created_at": "2026-02-28 19:46:56",
       "watch_url": "https://archive.org/details/az-en-xx.-szazadom-mi-siglo-xx-ildiko-enyedi-1989"
+    },
+    {
+      "title": "My Amazing Boyfriend",
+      "year": 2016,
+      "medium": "TV Series",
+      "creator": "Zhejiang Huace Film & TV",
+      "raw_score": 4.05,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy, Romance",
+      "topics": "Superpowers, Love, Comedy",
+      "image_filename": "My_Amazing_Boyfriend_2016.jpg",
+      "pitch": "A 2016 Chinese web series about a B-list actress who accidentally awakens a 500-year-old superhuman from his century-long sleep. From bickering to romance, unlikely love blooms.",
+      "created_at": "2026-06-18 03:36:28",
+      "watch_url": null
     },
     {
       "title": "My Beautiful Girl, Mari",
@@ -29857,5 +29921,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1866
+  "count": 1870
 }

@@ -2701,6 +2701,24 @@
       "watch_url": null
     },
     {
+      "title": "Attack on Titan: Counter Rockets",
+      "year": 2015,
+      "medium": "TV Series",
+      "creator": "Toho",
+      "raw_score": 3.75,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Monsters, Survival, Military",
+      "image_filename": "Attack_on_Titan_Counter_Rockets_2015.jpg",
+      "pitch": "A three-episode web miniseries serving as a prequel to the live-action Attack on Titan films. Follows Hange's Titan research and the creation of the omni-directional mobility gear.",
+      "truth": "Set in the world of Attack on Titan, this series focuses on Hange Zoe's research into Titans and the development of the omni-directional mobility gear. The story explores the everyday lives and secrets of soldiers before the main film's events.",
+      "core": "A supplemental story that expands the Attack on Titan universe through the lens of scientific discovery and military innovation. Shows the human side of the franchise's conflict.",
+      "created_at": "2026-06-18 03:36:08",
+      "watch_url": null
+    },
+    {
       "title": "August in the Water",
       "year": 1995,
       "medium": "Film",
@@ -12259,6 +12277,24 @@
       "watch_url": "https://archive.org/details/konga.-1961"
     },
     {
+      "title": "Koro Sensei Quest!",
+      "year": 2016,
+      "medium": "Anime",
+      "creator": "Lerche",
+      "raw_score": 3.15,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Magic, Superpowers",
+      "image_filename": "Koro_Sensei_Quest_2016.jpg",
+      "pitch": "A playful spin-off of Assassination Classroom flips the script: Koro-sensei is the Demon King while his students become heroes. Set at Kunugigaoka Magic School, they learn swordsmanship and sorcery to defeat him.",
+      "truth": "In this alternate universe, Koro-sensei is the Demon King who destroyed the moon. The Class 3-E students train at Kunugigaoka Magic School to learn swordsmanship and sorcery to prepare for their battle against him.",
+      "core": "A rare anime spin-off that inverts its source material's premise entirely, transforming the teacher into a villain and students into heroes. Works as both parody and genuine adventure.",
+      "created_at": "2026-06-18 03:36:04",
+      "watch_url": null
+    },
+    {
       "title": "Krabi",
       "year": 1976,
       "medium": "Short Film",
@@ -12365,6 +12401,24 @@
       "core": "Two minds in one body. The Rynax symbiosis is a metaphor for identity itself \u2014 neither human nor alien, both and neither. The GPO's fear mirrors real-world othering. A restrained, cinematic Bones production about trauma and belonging.",
       "created_at": "2026-06-15 01:06:35",
       "watch_url": "https://archive.org/details/turner_video_134388"
+    },
+    {
+      "title": "Kyousougiga",
+      "year": 2013,
+      "medium": "Anime",
+      "creator": "Toei",
+      "raw_score": 4.05,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Family, Time-Travel",
+      "image_filename": "Kyousougiga_2013.jpg",
+      "pitch": "Hidden within Kyoto is the mirror capital where youkai and humans live together. Protected by three siblings - Kurama, Yase, and Myoue - awaiting their parents' return. A girl named Koto arrives searching for her mother.",
+      "truth": "The Myoue siblings guard the mirror capital in Kyoto, existing in a realm between dimensions. When a girl named Koto and her brothers wander in from another dimension seeking their mother, the siblings must protect them while dealing with their own family dynamics and responsibilities.",
+      "core": "A visually striking anime blending Buddhist mythology with Japanese folklore. Explores themes of family, responsibility, and the boundaries between worlds through surreal imagery.",
+      "created_at": "2026-06-18 03:36:36",
+      "watch_url": null
     },
     {
       "title": "L'Atlantide",
@@ -14921,6 +14975,24 @@
       "core": "\"My 20th Century\" is a pointed critique of man's arrogance through his pursuit for truth and his assumed infallibility of science in its infantile state. Enyedi treats science as a source of wonder, magic, fantasy, and utopianism\u2014every frame a meditation on the paradoxes of modernity. The twin narrative structure reflects the diverging paths of male scientific triumph over nature and female biological capability. Both cinema and electricity are born in 1880, and the film suggests our 20th century is one of paradoxes: we, like dogs connected to electrodes, know nothing of the universe beyond our own laboratory. Critics have called it \"a true masterpiece of domesticated sci-fi\" and \"one of the great debuts in film history, as formally daring, visually inventive, and thematically complex as Citizen Kane.\"",
       "created_at": "2026-02-28 19:46:56",
       "watch_url": "https://archive.org/details/az-en-xx.-szazadom-mi-siglo-xx-ildiko-enyedi-1989"
+    },
+    {
+      "title": "My Amazing Boyfriend",
+      "year": 2016,
+      "medium": "TV Series",
+      "creator": "Zhejiang Huace Film & TV",
+      "raw_score": 4.05,
+      "total_ratings": 12,
+      "origin": "China",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy, Romance",
+      "topics": "Superpowers, Love, Comedy",
+      "image_filename": "My_Amazing_Boyfriend_2016.jpg",
+      "pitch": "A 2016 Chinese web series about a B-list actress who accidentally awakens a 500-year-old superhuman from his century-long sleep. From bickering to romance, unlikely love blooms.",
+      "truth": "Tian Jing Zhi, a struggling actress, accidentally awakens Xue Ling Qiao, a superhuman who has been asleep for a century. Forced to share her home with this awkward man with super powers, their relationship evolves from conflict to affection. But a cosmic conspiracy threatens to keep them apart.",
+      "core": "An adaptation of a popular Chinese novel that blends romantic comedy with fantasy elements. The series gained popularity for its unique premise and leads, winning Most Popular Actress at the 2016 Golden Guduo Media Awards.",
+      "created_at": "2026-06-18 03:36:28",
+      "watch_url": null
     },
     {
       "title": "My Beautiful Girl, Mari",
@@ -33589,5 +33661,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1866
+  "count": 1870
 }
