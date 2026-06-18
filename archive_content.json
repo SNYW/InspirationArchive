@@ -5617,6 +5617,24 @@
       "watch_url": null
     },
     {
+      "title": "Dark Resurrection",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Angelo Licata",
+      "raw_score": 3.0,
+      "total_ratings": 21,
+      "origin": "Italy",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Jedi, Mythology, Good vs Evil",
+      "image_filename": "Dark_Resurrection_2007.jpg",
+      "pitch": "A Star Wars fan film set centuries after Return of the Jedi. Jedi Master Organa has foreseen the destruction of the Jedi Order and sends young Hope and her master Zui Mar-Lee to attempt to reach Eron before the dark Lord Sorran\u2014a mythical place capable of giving the Chosen One infinite knowledge.",
+      "truth": "Jedi Master Organa senses a dark prophecy and sends young Hope and her master Zui Mar-Lee to find Eron before dark Lord Sorran does. In the prequel, Lord Sorran escapes with the secret of immortality. The story explores the eternal battle between light and dark, with Hope ultimately confronting Sorran.",
+      "core": "A remarkable Star Wars fan film made on a \u20ac7,000 budget, Dark Resurrection became an underground hit with over 15,000 downloads per day. It demonstrates how fan communities can create meaningful sci-fi works outside the studio system\u2014a testament to creative passion over production budgets.",
+      "created_at": "2026-06-18 02:44:43",
+      "watch_url": null
+    },
+    {
       "title": "Dark Star",
       "year": 1974,
       "medium": "Film",
@@ -19765,6 +19783,24 @@
       "watch_url": null
     },
     {
+      "title": "Snow Devils",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.86,
+      "total_ratings": 20,
+      "origin": "Italy",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Aliens, First Contact, Exploration",
+      "image_filename": "Snow_Devils_1967.jpg",
+      "pitch": "A heroic expedition braves snow-whipped precipices in the Alps, only to discover the dreaded humanoids\u2014extraterrestrial yetis who have arrived from outer space to conquer Earth by melting the polar ice caps with high-energy proton fields. Will mankind be global-warmed into surrender?",
+      "truth": "An expedition exploring the Alps discovers extraterrestrial yetis from the planet Aytin who have come to Earth to melt the polar ice caps using high-energy proton fields. The aliens plan to flood the planet and conquer humanity. The explorers must stop the alien invasion before the ice caps melt completely.",
+      "core": "A lesser-known Italian sci-fi film from the 1960s, Snow Devils represents an early example of the alien invasion subgenre with a unique twist\u2014global warming as a weapon. It captures Cold War anxieties about technological threat in a campy, pulp storytelling style.",
+      "created_at": "2026-06-18 02:44:34",
+      "watch_url": null
+    },
+    {
       "title": "Sol Bianca",
       "year": 1990,
       "medium": "OVA",
@@ -21202,6 +21238,24 @@
       "truth": "Karin rescues an exhausted alien piglet who turns out to be Prince Tonrariano III. He grants her powers to become Super Pig, a superhero who fights villains while learning about friendship and responsibility.",
       "core": "A charming 1990s superhero parody that plays with the magical girl and sentai genres, while delivering earnest messages about heroism and loyalty.",
       "created_at": "2026-06-16 22:49:31",
+      "watch_url": null
+    },
+    {
+      "title": "Superargo vs Diabolicus",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Nick Nostro",
+      "raw_score": 2.67,
+      "total_ratings": 19,
+      "origin": "Italy",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Secret Agents, World Domination",
+      "image_filename": "Superargo_vs_Diabolicus_1966.jpg",
+      "pitch": "After accidentally killing an opponent in the ring, masked wrestler Superargo quits wrestling and becomes a secret agent for the Secret Service. Using his superhuman strength, he must stop villain Diabolicus from wrecking the global economy by turning uranium into gold. Campy 1960s Italian superhero pulp at its finest.",
+      "truth": "Superargo (Giovanni Cianfriglia), a super-powered masked wrestler, accidentally kills an opponent in the ring and retires from wrestling. Colonel Alex Kinski of the Secret Service recruits him as an agent to stop Diabolicus (G\u00e9rard Tichy), who plans to turn uranium into gold and take over the world. Superargo defeats Diabolicus and his henchmen, saving the world from global economic collapse.",
+      "core": "A quintessential example of 1960s Italian superhero cinema\u2014an interesting footnote in superhero film history predating the modern superhero boom by decades.",
+      "created_at": "2026-06-18 02:44:24",
       "watch_url": null
     },
     {
@@ -33445,5 +33499,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1858
+  "count": 1861
 }
