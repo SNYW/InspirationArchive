@@ -1081,6 +1081,24 @@
       "watch_url": null
     },
     {
+      "title": "AI Amok",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "Japanese",
+      "raw_score": 3.55,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Thriller",
+      "topics": "AI, Technology, Disaster",
+      "image_filename": "ai_amok_2020.jpg",
+      "pitch": "In 2030, AI is everywhere\u2014including the medical field, finance, and security. Artificial intelligence has become essential in people's lives.",
+      "truth": "People have come to completely trust AI, but it becomes out of control and causes disaster.",
+      "core": "The film explores humanity's dependence on AI and the dangers of trusting technology too much.",
+      "created_at": "2026-06-18 11:55:44",
+      "watch_url": null
+    },
+    {
       "title": "Aachi & Ssipak",
       "year": 2006,
       "medium": "Animated Film",
@@ -23077,6 +23095,24 @@
       "watch_url": null
     },
     {
+      "title": "The Alternate",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "American",
+      "raw_score": 4.23,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science Fiction, Thriller",
+      "topics": "Reality, Identity, Dreams",
+      "image_filename": "the_alternate_2021.jpg",
+      "pitch": "Upon unlocking a portal to an alternate dimension where all his dreams have come true, struggling filmmaker Jake is forced to confront his idealized self.",
+      "truth": "Jake, a struggling filmmaker, finds a portal to a world where he achieved his dreams. But his alternate self made dark compromises.",
+      "core": "The film examines artistic ambition and the costs of idealized success.",
+      "created_at": "2026-06-18 11:55:15",
+      "watch_url": null
+    },
+    {
       "title": "The Amazing 3",
       "year": 1965,
       "medium": "Anime",
@@ -34399,5 +34435,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1911
+  "count": 1913
 }
