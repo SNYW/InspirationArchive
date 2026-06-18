@@ -753,6 +753,22 @@
       "watch_url": "https://archive.org/details/soundofthunderot0000brad"
     },
     {
+      "title": "A Ticket to Space",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.6,
+      "total_ratings": 151,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Science-Fantasy",
+      "topics": "Space, Politics, Media",
+      "image_filename": "A_Ticket_to_Space_2006.jpg",
+      "pitch": "To combat French public skepticism about space research funding, the government runs a PR campaign. In partnership with the French space agency, they organize a lottery game - a scratch-off ticket that will allow two civilians to stay at the European space station. What could go wrong?",
+      "created_at": "2026-06-18 06:56:51",
+      "watch_url": null
+    },
+    {
       "title": "A Trip to Mars",
       "year": 1918,
       "medium": "Film",
@@ -5073,6 +5089,22 @@
       "watch_url": null
     },
     {
+      "title": "Dante 01",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Marc Caro",
+      "raw_score": 2.46,
+      "total_ratings": 142,
+      "origin": "France",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Space, Nanotech, Religion, Isolation",
+      "image_filename": "Dante_01_2008.jpg",
+      "pitch": "A dark sci-fi fairy tale on a psychiatric space station orbiting a fiery planet. Six prisoners volunteer as test subjects for dangerous nanotechnology. When amnesiac survivor Saint-Georges arrives with healing powers, they debate: miracle or menace? Visually stunning.",
+      "created_at": "2026-06-18 06:56:03",
+      "watch_url": null
+    },
+    {
       "title": "Dark City",
       "year": 1998,
       "medium": "Film",
@@ -6479,6 +6511,22 @@
       "pitch": "Thieves attempting a jewelry heist break into an industrial facility, only to discover secret experiments turning corpses into flesh-eating zombies. A low-budget Hong Kong horror that capitalizes on pandemic fears.",
       "created_at": "2026-06-15 10:09:32",
       "watch_url": "https://archive.org/details/turner_video_15942"
+    },
+    {
+      "title": "Eden Log",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Franck Vestiel",
+      "raw_score": 2.55,
+      "total_ratings": 166,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Megacorps, Ecology, Rebellion, Mutation",
+      "image_filename": "Eden_Log_2007.jpg",
+      "pitch": "A man wakes with amnesia in an underground cave, surrounded by a gigantic plant consuming an abandoned facility. As he ascends through levels, he discovers Eden Log: a corporate power plant harvesting energy from immigrant workers. The twist: he's the security commander who quashed the rebellion and killed the architect - and he's infected.",
+      "created_at": "2026-06-18 06:56:38",
+      "watch_url": null
     },
     {
       "title": "Egg",
@@ -30145,5 +30193,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1884
+  "count": 1887
 }
