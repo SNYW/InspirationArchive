@@ -31915,6 +31915,24 @@
       "watch_url": null
     },
     {
+      "title": "Ultraman Gaia",
+      "year": 1998,
+      "medium": "TV Series",
+      "creator": "Chiaki J. Konaka",
+      "raw_score": 4.15,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Sci-Fi, Tokusatsu",
+      "topics": "Aliens, First Contact, Ecology, AI",
+      "image_filename": "Ultraman_Gaia_1998.jpg",
+      "pitch": "In 2000, Earth faces destruction from the Radical Destruction Bringer. Young scientist Gamu Takayama merges with Ultraman Gaia to fight monsters\u2014but clashes with fellow Ultraman Agul, who believes the planet matters more than humanity.",
+      "truth": "Chrisis predicts Earth's annihilation. G.U.A.R.D. is formed to defend the planet. Gamu becomes Gaia's host while Hiroya hosts Agul. They battle monsters but conflict\u2014Gaia protects humanity, Agul prioritizes Earth alone. When the Radical Destruction Bringer arrives, they must merge powers to survive.",
+      "core": "Ultraman Gaia explores anthropocentrism vs ecocentrism\u2014should humanity be valued above all else? Writer Chiaki J. Konaka (Serial Experiments Lain) delivers a mature meditation on environmentalism through two opposing Ultramen representing different philosophies.",
+      "created_at": "2026-06-18 05:39:46",
+      "watch_url": null
+    },
+    {
       "title": "Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light",
       "year": 1998,
       "medium": "Film",
@@ -33715,5 +33733,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1873
+  "count": 1874
 }
