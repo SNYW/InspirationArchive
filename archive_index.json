@@ -2433,6 +2433,22 @@
       "watch_url": "https://archive.org/details/august-in-the-water-1995"
     },
     {
+      "title": "Automan",
+      "year": 1983,
+      "medium": "TV Series",
+      "creator": "Glen A. Larson",
+      "raw_score": 3.9,
+      "total_ratings": 187,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "AI, Robots, Cybernetics",
+      "image_filename": "Automan_1983.jpg",
+      "pitch": "Police officer and programmer Walter Nebicher creates an AI that generates a holographic superhero. Automan materializes from the computer to fight crime, posing as Walter's government agent friend. Emulating Tron's visual style with a glowing hologram costume and a Lamborghini that makes 90-degree turns. Ahead of its time in depicting AI.",
+      "created_at": "2026-06-18 06:29:20",
+      "watch_url": null
+    },
+    {
       "title": "Automania 2000",
       "year": 1963,
       "medium": "Animated Film",
@@ -3439,6 +3455,22 @@
       "pitch": "Momiji Fujimiya is a descendant of the mythical Princess Kushinada\u2014destined to be sacrificed to appease the Aragami, giant demons spawned by the Yamato-no-Orochi. Instead of accepting her fate, she joins the secret Terrestrial Administration Center to fight them.",
       "created_at": "2026-06-15 05:35:26",
       "watch_url": "https://archive.org/details/turner_video_140320"
+    },
+    {
+      "title": "Blue Thunder",
+      "year": 1984,
+      "medium": "TV Series",
+      "creator": "Guy Magar",
+      "raw_score": 3.46,
+      "total_ratings": 126,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Surveillance, Technology, Police",
+      "image_filename": "BlueThunder_1984.jpg",
+      "pitch": "A tactical LAPD helicopter code-named Blue Thunder is operated by a four-person team, partially controlled by federal agency APEX. The series based on the 1983 film features a converted A\u00e9rospatiale Gazelle and a ground support unit called Rolling Thunder.",
+      "created_at": "2026-06-18 06:29:23",
+      "watch_url": null
     },
     {
       "title": "Bob Spit: We Do Not Like People",
@@ -30097,5 +30129,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1881
+  "count": 1883
 }
