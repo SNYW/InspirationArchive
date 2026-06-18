@@ -20773,6 +20773,24 @@
       "watch_url": null
     },
     {
+      "title": "Space Rage",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Conrad E. Palmisano",
+      "raw_score": 2.03,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Western, Dystopia",
+      "topics": "Prison, Survival, Bounty Hunters, Space Travel",
+      "image_filename": "space_rage_1985.jpg",
+      "pitch": "A 1985 American space Western transplanting frontier mythology to a penal colony on Proxima Centauri 3. Dangerous convict Grange is transferred by bounty hunter Walker and Colonel\u2014his escape attempt sparks a violent showdown. Features Richard Farnsworth and Michael Par\u00e9.",
+      "truth": "Grange, deemed too dangerous for regular prisons, is exiled to Botany Bay. Walker and Colonel must transport him, but Grange manipulates the corrupt governor and sparks a riot to escape. He seizes control of the colony but is finally captured.",
+      "core": "Space Western: frontier mythology in alien settings. The penal colony explores exile and social control\u2014isolating those deemed too dangerous. Dismissed as low-budget genre exercise, but an artifact of 1980s direct-to-video SF.",
+      "created_at": "2026-06-18 08:11:39",
+      "watch_url": null
+    },
+    {
       "title": "Space Rangers",
       "year": 1993,
       "medium": "TV Series",
@@ -30475,6 +30493,24 @@
       "watch_url": "https://archive.org/details/vanishing_shadow_ep2"
     },
     {
+      "title": "The Veldt",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Nasim Tulyakhodzhayev",
+      "raw_score": 2.65,
+      "total_ratings": 17,
+      "origin": "Soviet-Union",
+      "mood": "Eerie",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Virtual Reality, Family, Technology",
+      "image_filename": "the_veldt_1987.jpg",
+      "pitch": "A 1987 Soviet sci-fi horror film based on Ray Bradbury's story. The Stone family lives in a high-tech home with a VR nursery\u2014their children become obsessed with African lion hunts. When parents try to shut down the room, tensions escalate into horrifying consequences.",
+      "truth": "The Stone family lives in an automated home. Kids spend all time in a VR nursery with lion hunts. When Michael locks the room, children's animosity grows. Meanwhile, quarantine teams hunt creatures posing as deceased relatives. Children lure parents into the nursery\u2014where they become victims of the lions.",
+      "core": "Soviet Bradbury adaptation explores technology's impact on family. The VR nursery shows how tech replaces real relationships\u2014children prefer virtual worlds to parents. The lions become metaphor for technology consuming humanity. An eerie artifact of Soviet SF cinema.",
+      "created_at": "2026-06-18 08:12:40",
+      "watch_url": null
+    },
+    {
       "title": "The Velvet Prison",
       "year": 1977,
       "medium": "Short Story",
@@ -34111,5 +34147,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1895
+  "count": 1897
 }
