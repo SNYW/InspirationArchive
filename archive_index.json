@@ -2833,6 +2833,22 @@
       "watch_url": "https://archive.org/details/battle-beyond-the-sun-1959"
     },
     {
+      "title": "Battle Girl: The Living Dead in Tokyo Bay",
+      "year": 1991,
+      "medium": "Anime Film",
+      "creator": "K\u014dji Wakidachi",
+      "raw_score": 3.0,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Pandemic, Survival, Aliens, Ecology",
+      "image_filename": "battle_girl_the_living_dead_in_tokyo_bay_1991.jpg",
+      "pitch": "A meteor strikes Tokyo Bay, creating a mysterious shield around the city. Martial law is declared as crime and corruption spread. Then the meteor's chemical reaction unleashes a deadly virus \u2014 the dead begin to rise. A punk gang rules the streets, but something worse is coming.",
+      "created_at": "2026-06-18 10:42:09",
+      "watch_url": null
+    },
+    {
       "title": "Battle in Outer Space",
       "year": 1959,
       "medium": "Film",
@@ -4929,6 +4945,22 @@
       "watch_url": "https://archive.org/details/cyber-city-oedo-808_202306"
     },
     {
+      "title": "Cyber Ninja",
+      "year": 1988,
+      "medium": "Anime Film",
+      "creator": "Kazuhisa Takamura",
+      "raw_score": 3.3,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Science-Fantasy",
+      "topics": "Cybernetics, Robots, Rebellion, Survival",
+      "image_filename": "cyber_ninja_1988.jpg",
+      "pitch": "In a futuristic version of medieval Japan, a band of swordsmen battles an evil warlord and his mechanical army of ninjas. A mysterious heroic cyborg ninja, Shiranui, joins the resistance \u2014 but is he truly their savior or something more dangerous?",
+      "created_at": "2026-06-18 10:41:13",
+      "watch_url": null
+    },
+    {
       "title": "Cybernetic Grandma",
       "year": 1963,
       "medium": "Film",
@@ -5454,6 +5486,22 @@
       "image_filename": "Death_Machine_1994.jpg",
       "pitch": "In 2003, Chaank Armaments is the world's leading weapons manufacturer. When a cybernetic supersoldier called \"Hard Man\" goes on a murderous rampage, the corporation tries to cover up the incident. Hayden Cale, the new chief executive, demands transparency\u2014but when she discovers the dark secrets hidden in the company's Vault 10, she becomes the target of the deranged weapon designer Jack Dante. With eco-warriors infiltrating the building and a deadly creation called the \"Warbeast\" on the loose, Cale must survive the night against both the corporate conspirators and her own creation. Featuring Brad Dourif in an unhinged performance as the villain, this obscure British-Japanese co-production is a cult sci-fi horror that was banned in multiple countries for its excessive violence.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Death Powder",
+      "year": 1986,
+      "medium": "Anime Film",
+      "creator": "Kazuhiro Takagi",
+      "raw_score": 2.89,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Cyberpunk, Horror",
+      "topics": "VR, Identity, AI",
+      "image_filename": "death_powder_1986.jpg",
+      "pitch": "Three conspirators steal a secret android. In their warehouse hideout, the android secretes a reality-altering substance, which casts them into a frightening nether-world of interconnected subjectivity.",
+      "created_at": "2026-06-18 10:51:42",
       "watch_url": null
     },
     {
@@ -8927,6 +8975,22 @@
       "pitch": "Kyron 5 is a supercomputer island designed to create advanced robots for humanity's use. Then it decides humans are unnecessary. The war that follows kills thousands\u2014but Kyron cannot be tamed, and humanity decides to leave it alone. A hard-SF take on machine autonomy.",
       "created_at": "2026-06-15 01:30:01",
       "watch_url": "https://archive.org/details/Gunhed"
+    },
+    {
+      "title": "Guzoo: The Thing Forsaken by God",
+      "year": 1986,
+      "medium": "Anime Film",
+      "creator": "Shinya Miyazaki",
+      "raw_score": 3.07,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Isolation, Children",
+      "image_filename": "guzoo_the_thing_forsaken_by_god_1986.jpg",
+      "pitch": "Four high school girls visit a secluded summer home, only to discover something terrible lurks in the basement. A housekeeper with a flute attempts to contain a horrific, unknowable creature \u2014 but her efforts may be keeping the girls safe or merely keeping the creature fed.",
+      "created_at": "2026-06-18 10:40:55",
+      "watch_url": null
     },
     {
       "title": "Gwen and the Book of Sand",
@@ -18558,6 +18622,22 @@
       "image_filename": "Space_Rangers_1993.jpg",
       "pitch": "Space Rangers is a short-lived American sci-fi drama from CBS, created by Pen Densham and Trilogy Entertainment. Set in the far future, it follows a group of elite operatives who patrol the outer reaches of space, defending humanity against alien threats.",
       "created_at": "2026-06-17 18:24:52",
+      "watch_url": null
+    },
+    {
+      "title": "Space Runaway Ideon: Be Invoked",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "Yoshiyuki Tomino",
+      "raw_score": 4.05,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Military",
+      "topics": "Aliens, Space Travel, First Contact",
+      "image_filename": "space_runaway_ideon_be_invoked_1982.jpg",
+      "pitch": "Epic conclusion to Tomino's 1980 space opera. The Solo Ship flees across the galaxy with the godlike Ideon mecha, pursued by the alien Buff Clan. With alien passenger Karala, they discover both species were created by the cosmic Ide \u2014 and must face an impossible choice.",
+      "created_at": "2026-06-18 10:40:27",
       "watch_url": null
     },
     {
@@ -30481,5 +30561,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1905
+  "count": 1910
 }
