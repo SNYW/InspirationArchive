@@ -17265,6 +17265,22 @@
       "watch_url": null
     },
     {
+      "title": "Shamanic Princess",
+      "year": 1996,
+      "medium": "OVA",
+      "creator": "Triangle Staff",
+      "raw_score": 2.68,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Supernatural, Identity",
+      "image_filename": "Shamanic_Princess_1996.jpg",
+      "pitch": "Tiara, a warrior from another dimension, is sent to Earth to retrieve the magical Throne of Yord stolen by her former lover. She disguises herself as a college student while battling rival hunters. Notable for its surreal visuals and non-linear narrative.",
+      "created_at": "2026-06-18 04:24:09",
+      "watch_url": null
+    },
+    {
       "title": "She Came Out of the Blue Sky",
       "year": 1978,
       "medium": "TV Series",
@@ -29937,5 +29953,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1871
+  "count": 1872
 }
