@@ -1269,8 +1269,8 @@
       "year": 1982,
       "medium": "Manga",
       "creator": "Katsuhiro Otomo",
-      "raw_score": 4.4,
-      "total_ratings": 200000,
+      "raw_score": 4.23,
+      "total_ratings": 85,
       "origin": "Japan",
       "mood": "Gritty",
       "sub_genres": "Cyberpunk, Post-Apocalypse",
@@ -2462,7 +2462,7 @@
       "image_filename": "Automatons.jpg",
       "pitch": "In a distant future, The Girl lives alone in an underground bunker, commanding antiquated robots in a war against an enemy she has never seen. She was created as a clone\u2014the last attempt to preserve humanity. When she finally confronts the enemy, victory comes at the cost of everything that kept her alive.",
       "created_at": "2026-06-18 04:05:04",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/automatons-2006"
     },
     {
       "title": "Avalon",
@@ -3211,7 +3211,7 @@
       "mood": "Cerebral",
       "sub_genres": "Science-Fantasy",
       "topics": "Ethics, Survival",
-      "image_filename": null,
+      "image_filename": "",
       "pitch": "Mr. Roberts wakes in a white room with a choice: push a black button to receive millions (killing someone), or take a key and leave penniless. An ethical trap that reveals the price of greed.",
       "created_at": "2026-06-16 07:52:03",
       "watch_url": null
@@ -17278,7 +17278,7 @@
       "image_filename": "Shamanic_Princess_1996.jpg",
       "pitch": "Tiara, a warrior from another dimension, is sent to Earth to retrieve the magical Throne of Yord stolen by her former lover. She disguises herself as a college student while battling rival hunters. Notable for its surreal visuals and non-linear narrative.",
       "created_at": "2026-06-18 04:24:09",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_135042"
     },
     {
       "title": "She Came Out of the Blue Sky",
