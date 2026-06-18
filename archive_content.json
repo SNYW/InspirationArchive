@@ -4285,6 +4285,24 @@
       "watch_url": "https://archive.org/details/ciape"
     },
     {
+      "title": "Cade: The Tortured Crossing",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.55,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "AI, Mental Health, Robots",
+      "image_filename": "Cade_The_Tortured_Crossing_2023.jpg",
+      "pitch": "An AI twin restores an old mental asylum and trains patients as warriors for humanity. An obscure sci-fi horror with an unusual premise about artificial intelligence and human potential.",
+      "truth": "An identical AI twin restores an abandoned mental asylum. He takes it upon himself to mystically train the patients as warriors for humanity and justice, unlocking hidden potential in the mentally ill.",
+      "core": "Explores themes of AI, identity, and the hidden potential of those society discards. The premise\u2014that an AI sees value where society sees only illness\u2014offers an unusual angle on both technology and mental health.",
+      "created_at": "2026-06-18 06:05:52",
+      "watch_url": null
+    },
+    {
       "title": "Calculator",
       "year": 2014,
       "medium": "Film",
@@ -11647,6 +11665,24 @@
       "watch_url": "https://vimeo.com/255156169"
     },
     {
+      "title": "Junk World",
+      "year": 2025,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.39,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space, Exploration",
+      "image_filename": "Junk_World_2025.jpg",
+      "pitch": "A Japanese sci-fi fantasy set 1,042 years before JUNK HEAD. A robot named Robin escorts a human commander on a mission to the underground city of Carp Bar. Part of an obscure Japanese franchise with minimal Western exposure.",
+      "truth": "Robin the robot escorts a human commander on a mission to the underground city of Carp Bar. Set in the same universe as JUNK HEAD but 1,042 years earlier, exploring the origins of this robot-centric world.",
+      "core": "Provides backstory for the JUNK HEAD franchise, exploring the relationship between robots and humans in this science-fantasy world. The franchise remains largely unknown outside Japan despite its unique visual style.",
+      "created_at": "2026-06-18 06:05:46",
+      "watch_url": null
+    },
+    {
       "title": "Jurassic Thunder",
       "year": 2019,
       "medium": "Film",
@@ -11663,6 +11699,24 @@
       "core": "Jurassic Thunder explores the ethics of bio-weaponry through its absurd premise. The film blends military thriller conventions with creature-feature excitement, creating an unapologetic B-movie that commits to its ridiculous but entertaining concept.",
       "created_at": "2026-06-15 15:09:46",
       "watch_url": "https://archive.org/details/turner_video_113726"
+    },
+    {
+      "title": "Jurassic Triangle",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.25,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Dinosaurs, Survival, Aliens",
+      "image_filename": "Jurassic_Triangle_2024.jpg",
+      "pitch": "A group of colleagues crash land on a mysterious island they cannot escape. They discover they are not alone when they encounter bloodthirsty creatures and dinosaurs. Will they survive?",
+      "truth": "A corporate team crashes on a mysterious island. Trapped, they face dinosaurs and other deadly creatures. The film chronicles their desperate survival attempt against prehistoric threats.",
+      "core": "A low-budget entry in the dinosaur horror subgenre. Combines crash-landed survivors with dinosaur encounters\u2014a familiar premise executed with minimal recognition.",
+      "created_at": "2026-06-18 06:06:06",
+      "watch_url": null
     },
     {
       "title": "Just Imagine",
@@ -15769,6 +15823,24 @@
       "watch_url": "https://archive.org/details/no-blade-of-grass"
     },
     {
+      "title": "No Man's Land",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.73,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Military, Horror",
+      "topics": "Aliens, War, Survival",
+      "image_filename": "No_Mans_Land_2024.jpg",
+      "pitch": "An obscure sci-fi horror reimagining WWI trench warfare with an alien twist. Imperial soldiers entrenched in a desolate battlefield find themselves fighting not enemy soldiers but something far more terrifying from another world. Tagline: \"Battlefield 1 meets Aliens.\"",
+      "truth": "Imperial soldiers prepare for assault across no-man's land when alien entities appear. Communications break down, officers fall, and the soldiers must survive this unknown threat. Many die confronting creatures that respect no trench or human convention of war.",
+      "core": "Inverts WWI cinema by adding literal aliens to the deadliest battlefield on Earth. Extends the estrangement of trench warfare to its cosmic conclusion\u2014combining two well-worn genres into something fresh and strange.",
+      "created_at": "2026-06-18 06:05:39",
+      "watch_url": null
+    },
+    {
       "title": "No. 5",
       "year": 2000,
       "medium": "Manga",
@@ -18556,6 +18628,24 @@
       "truth": "In 2016, Takao is injured in an accident and falls into a coma. During his unconscious state, a robot named Atom appears and invites him to see the future. In 2028, Sagami has become a Robot Town where humans and robots live and work together.",
       "core": "An optimistic vision of human-robot relations, presenting robots as partners in building a better world.",
       "created_at": "2026-06-13 18:24:56",
+      "watch_url": null
+    },
+    {
+      "title": "Robotica Destructiva",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.14,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, AI, War",
+      "image_filename": "Robotica_Destructiva_2023.jpg",
+      "pitch": "A trio of android warrior sisters awaken after a 10,000-year sleep to battle mechanized warlords threatening their world. Obscure sci-fi featuring female android protagonists in eternal war.",
+      "truth": "Three android sisters awaken after millennia of sleep to find their world ruled by mechanized warlords. They must battle across wastelands to defeat these threats and reclaim their world.",
+      "core": "Features eternal female warriors in a post-apocalyptic robot war. The 10,000-year sleep adds mythologic depth to the standard android uprising premise.",
+      "created_at": "2026-06-18 06:06:26",
       "watch_url": null
     },
     {
@@ -22625,6 +22715,24 @@
       "core": "**Scientific Authenticity:** The Andromeda Strain was groundbreaking for its commitment to scientific accuracy. Director Robert Wise worked with microbiologists and used real laboratory settings at Caltech. The film's depiction of scientists using rigorous methodology rather than intuition or heroism influenced the \"hard SF\" approach in cinema.\n\n**Pandemic and Biological Threats:** Long before COVID-19, the film explored themes of infectious disease, extraterrestrial contamination, and the fear of alien biology. It raised public concerns about interplanetary contamination and back-contamination\u2014fears that would later resurface in discussions about returning lunar or Martian samples.\n\n**Bureaucratic Coldness:** The film's tone is deliberately clinical and detached, reflecting the bureaucratic nature of the Wildflower facility. The scientists operate as functionaries following protocols rather than heroic individuals, emphasizing the impersonal nature of institutional responses to crises.\n\n**The Limits of Human Control:** The organism's ability to mutate and adapt represents the limits of human understanding and control. The film suggests that confronting truly alien life may be beyond human comprehension\u2014or at least require humbling acknowledgments of our limitations.\n\nThe Andromeda Strain remains a landmark in science fiction cinema for its serious treatment of scientific inquiry, its influential visual style, and its prescient themes about biological threats and planetary protection.",
       "created_at": "2026-03-04 22:19:10",
       "watch_url": "https://archive.org/details/turner_video_379390"
+    },
+    {
+      "title": "The Area 51 Incident",
+      "year": 2022,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.23,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Survival, Military",
+      "image_filename": "The_Area_51_Incident_2022.jpg",
+      "pitch": "An outbreak occurs at Area 51, leading survivors to an underground bunker\u2014only to learn they are not alone. An obscure sci-fi horror exploring what hides beneath the famous military base.",
+      "truth": "An outbreak forces survivors to seek shelter in an underground bunker at Area 51. They discover something already lurks below\u2014alien presence or experiment escapes threaten their survival.",
+      "core": "Exploits the Area 51 mythos with a classic bunker-survival horror premise. The revelation that underground is worse than above offers familiar but effective tension.",
+      "created_at": "2026-06-18 06:06:14",
+      "watch_url": null
     },
     {
       "title": "The Arrival",
@@ -29125,6 +29233,24 @@
       "watch_url": "https://archive.org/details/silvercrown00obri"
     },
     {
+      "title": "The Skeleton's Compass",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.91,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Adventure, Discovery, Children",
+      "image_filename": "The_Skeletons_Compass_2023.jpg",
+      "pitch": "A group of middle school friends go on a treasure hunt after finding a skeleton in the woods. An obscure adventure combining youthful discovery with a hint of the supernatural.",
+      "truth": "Kids discover a skeleton in the woods, leading to a treasure hunt. The adventure unfolds as they follow clues left by the deceased, uncovering hidden valuables.",
+      "core": "A child-focused adventure offering wholesome discovery. The skeleton provides an entry point for youthful exploration rather than horror.",
+      "created_at": "2026-06-18 06:06:32",
+      "watch_url": null
+    },
+    {
       "title": "The Sky Calls",
       "year": 1959,
       "medium": "Film",
@@ -33733,5 +33859,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1874
+  "count": 1881
 }
