@@ -13745,6 +13745,22 @@
       "watch_url": null
     },
     {
+      "title": "My Twentieth Century",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Ildik\u00f3 Enyedi",
+      "raw_score": 3.25,
+      "total_ratings": 47,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Identity, Technology",
+      "image_filename": "my_twentieth_century_1989.jpg",
+      "pitch": "In Budapest 1880, twin sisters are born at the exact moment Edison unveils his lightbulb. Separated in childhood, they become mirror images of modernity\u2014one an anarchist, the other a courtesan. Their paths cross aboard the Orient Express. A luminous meditation on technology's promises.",
+      "created_at": "2026-06-18 11:36:08",
+      "watch_url": null
+    },
+    {
       "title": "My-Otome",
       "year": 2005,
       "medium": "Anime",
@@ -30561,5 +30577,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1910
+  "count": 1911
 }

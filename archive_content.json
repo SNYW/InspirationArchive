@@ -15463,6 +15463,24 @@
       "watch_url": null
     },
     {
+      "title": "My Twentieth Century",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Ildik\u00f3 Enyedi",
+      "raw_score": 3.25,
+      "total_ratings": 47,
+      "origin": "Hungary",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Identity, Technology",
+      "image_filename": "my_twentieth_century_1989.jpg",
+      "pitch": "In Budapest 1880, twin sisters are born at the exact moment Edison unveils his lightbulb. Separated in childhood, they become mirror images of modernity\u2014one an anarchist, the other a courtesan. Their paths cross aboard the Orient Express. A luminous meditation on technology's promises.",
+      "truth": "The twins separated after their mother's death are taken by different men who won them in a coin flip. Years later, D\u00f3ra the drifter and Lili the revolutionary board the same Orient Express on New Year's Eve 1900 but fail to recognize each other. Lili carries a bomb to kill the minister but cannot go through with it. The twins finally see each other in a fun house and escape together.",
+      "core": "A masterpiece of domesticated sci-fi, as formally daring as Citizen Kane. The film shows how electricity and cinema promised utopia but brought new dangers. The twins embody two visions of modernity\u2014one violent, one decadent. Won the Golden Camera at Cannes 1989.",
+      "created_at": "2026-06-18 11:36:08",
+      "watch_url": null
+    },
+    {
       "title": "My-Otome",
       "year": 2005,
       "medium": "Anime",
@@ -34381,5 +34399,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1910
+  "count": 1911
 }
