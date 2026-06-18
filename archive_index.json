@@ -2449,6 +2449,22 @@
       "watch_url": null
     },
     {
+      "title": "Automatons",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "James Felix McKenney",
+      "raw_score": 3.3,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse, Hard-SF",
+      "topics": "Robots, Cloning, Isolation, AI",
+      "image_filename": "Automatons.jpg",
+      "pitch": "In a distant future, The Girl lives alone in an underground bunker, commanding antiquated robots in a war against an enemy she has never seen. She was created as a clone\u2014the last attempt to preserve humanity. When she finally confronts the enemy, victory comes at the cost of everything that kept her alive.",
+      "created_at": "2026-06-18 04:05:04",
+      "watch_url": null
+    },
+    {
       "title": "Avalon",
       "year": 2001,
       "medium": "Film",
@@ -29921,5 +29937,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1870
+  "count": 1871
 }
