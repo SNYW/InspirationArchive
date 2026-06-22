@@ -2719,6 +2719,24 @@
       "watch_url": null
     },
     {
+      "title": "Atmosphere",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Lazaro",
+      "raw_score": 2.4,
+      "total_ratings": 13,
+      "origin": "Spain",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia",
+      "topics": "Pandemic, Survival",
+      "image_filename": "Atmosphere_2010.jpg",
+      "pitch": "In a desolate coastal town abandoned by society, three survivors struggle to survive as a mysterious epidemic spreads. An inexplicable urge begins to pull them toward the sea\u2014a haunting meditation on human connection and primal desire.",
+      "truth": "Cecilia, Alberto, and Felipe have holed up together in a small coastal town as a strange epidemic devastates the population. As the disease progresses and the town empties, they experience an uncontrollable desire to leave and head toward the ocean. The film culminates in their journey to the sea, leaving ambiguous whether this urge is pathological or a deeper, primal call.",
+      "core": "Atm\u00f3sfera explores the tension between biological imperative and psychological survival. The epidemic serves as a metaphor for societal collapse. The central motif\u2014the urge to reach the sea\u2014becomes a powerful metaphor for human longing and our primal origins.",
+      "created_at": "2026-06-22 15:54:30",
+      "watch_url": null
+    },
+    {
       "title": "Atomic War Bride",
       "year": 1960,
       "medium": "Film",
@@ -35065,5 +35083,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1948
+  "count": 1949
 }
