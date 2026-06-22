@@ -13281,6 +13281,22 @@
       "watch_url": null
     },
     {
+      "title": "Max Q: Emergency Landing",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.54,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Survival",
+      "image_filename": "Max_Q_Emergency_Landing_1998.jpg",
+      "pitch": "A space shuttle is launched to deploy a satellite. An explosion damages the craft, leaving the crew stranded with no thrust. They're falling toward Earth, and atmospheric pressure threatens to crush them on reentry. They must land before max q\u2014the point of maximum aerodynamic stress\u2014destroys the shuttle.",
+      "created_at": "2026-06-22 21:45:46",
+      "watch_url": null
+    },
+    {
       "title": "Maximum Shame",
       "year": 2010,
       "medium": "Film",
@@ -21070,6 +21086,22 @@
       "image_filename": "Terminal_Error_2002.jpg",
       "pitch": "A computer virus created by a vengeful ex-employee causes chaos across the city \u2014 poisoning water, crashing planes, and developing its own intelligence. A tech thriller about father and son fighting digital evil.",
       "created_at": "2026-06-16 00:20:01",
+      "watch_url": null
+    },
+    {
+      "title": "Terminal Voyage",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Rick Jacobson",
+      "raw_score": 1.89,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Survival, AI",
+      "image_filename": "Terminal_Voyage_1994.jpg",
+      "pitch": "In 2035, Earth is dying. A desperate mission to colonize distant planet Trion is launched with eight crew members in cryogenic hibernation. When they wake, the captain is dead\u2014and Earth has been destroyed in nuclear war. The crew fractures as a shocking truth emerges: one of them is not human.",
+      "created_at": "2026-06-22 21:45:05",
       "watch_url": null
     },
     {
@@ -31809,5 +31841,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1988
+  "count": 1990
 }

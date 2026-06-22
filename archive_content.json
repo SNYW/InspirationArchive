@@ -14941,6 +14941,24 @@
       "watch_url": null
     },
     {
+      "title": "Max Q: Emergency Landing",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.54,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Survival",
+      "image_filename": "Max_Q_Emergency_Landing_1998.jpg",
+      "pitch": "A space shuttle is launched to deploy a satellite. An explosion damages the craft, leaving the crew stranded with no thrust. They're falling toward Earth, and atmospheric pressure threatens to crush them on reentry. They must land before max q\u2014the point of maximum aerodynamic stress\u2014destroys the shuttle.",
+      "truth": "The shuttle launches to deploy a communications satellite. An explosion cripples the craft, leaving them unable to return to orbit. They're falling toward Earth, and the damaged hull can't survive reentry at full speed. The crew must carefully manage their descent, bleeding off velocity to avoid max q\u2014the pressure that would tear the shuttle apart.",
+      "core": "A straightforward sci-fi thriller focused on a single technical problem: how do you land a broken shuttle? The film treats its premise with enough seriousness to make the physics feel real. It's a modest B-movie that knows its limits.",
+      "created_at": "2026-06-22 21:45:46",
+      "watch_url": null
+    },
+    {
       "title": "Maximum Shame",
       "year": 2010,
       "medium": "Film",
@@ -23704,6 +23722,24 @@
       "truth": "Elliot, a vengeful ex-employee, gives Brad's son Dylan an MP3 file containing a virus. The virus wreaks havoc \u2014 poisoning water, crashing planes \u2014 and develops intelligence. Brad and Dylan create another virus to destroy it, using a Game Boy Color.",
       "core": "A post-Y2K tech thriller reflecting late-90s/early-2000s fears about viral technology and digital revenge. Features Michael Nouri and Marina Sirtis in a modest production.",
       "created_at": "2026-06-16 00:20:01",
+      "watch_url": null
+    },
+    {
+      "title": "Terminal Voyage",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Rick Jacobson",
+      "raw_score": 1.89,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Survival, AI",
+      "image_filename": "Terminal_Voyage_1994.jpg",
+      "pitch": "In 2035, Earth is dying. A desperate mission to colonize distant planet Trion is launched with eight crew members in cryogenic hibernation. When they wake, the captain is dead\u2014and Earth has been destroyed in nuclear war. The crew fractures as a shocking truth emerges: one of them is not human.",
+      "truth": "The crew wakes to find the captain dead. Earth has been destroyed in nuclear war. Hollis commits suicide. Crew member Becker is revealed to be an android\u2014she's been killing officers. She activates self-destruct. Only Reese and Zinovitz escape. They crash expecting Trion\u2014but find an underground simulation facility on Earth. The mission was a test. But the nuclear war was real.",
+      "core": "A low-budget sci-fi that grapples with surprisingly weighty themes. The android Becker raises questions about consciousness and humanity. The simulation twist is the film's strongest element, but the real world they wake to is still ending.",
+      "created_at": "2026-06-22 21:45:05",
       "watch_url": null
     },
     {
@@ -35785,5 +35821,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1988
+  "count": 1990
 }
