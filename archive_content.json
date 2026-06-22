@@ -5257,6 +5257,24 @@
       "watch_url": "https://archive.org/details/chronopolis_1982"
     },
     {
+      "title": "Ch\u014djin Sentai Jetman",
+      "year": 1991,
+      "medium": "TV Series",
+      "creator": "Saburo Yatsude, Toei Company",
+      "raw_score": 3.95,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Superhero",
+      "topics": "Aliens, Superpowers, Military, Love",
+      "image_filename": "Chojin_Sentai_Jetman_1991.jpg",
+      "pitch": "Ch\u014djin Sentai Jetman is a 1991 Japanese tokusatsu series where five civilians gain superhuman powers through experimental Birdonic Waves technology to defend Earth against alien invaders from Vyram.",
+      "truth": "Sky Force develops Birdonic Waves but is attacked by Vyram before completion. Four civilians accidentally receive the powers and join Ryu to form Jetman. Ryu\u2019s presumed-dead lover Rie has been brainwashed by Vyram\u2014she sacrifices herself to save him. The team defeats Vyram.",
+      "core": "Jetman stands out for emotional depth. The brainwashed Rie storyline presents moral complexity rare in tokusatsu. The accidental heroes represent ordinary people thrust into extraordinary circumstances, a metaphor for generational uncertainty.",
+      "created_at": "2026-06-22 23:24:24",
+      "watch_url": null
+    },
+    {
       "title": "Ciao marziano",
       "year": 1980,
       "medium": "Film",
@@ -35929,5 +35947,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1996
+  "count": 1997
 }
