@@ -13585,6 +13585,22 @@
       "watch_url": "https://archive.org/details/moon-child-2003"
     },
     {
+      "title": "Moon Rainbow",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Andrei Yermash",
+      "raw_score": 5.0,
+      "total_ratings": 17,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Space Travel, Exploration",
+      "image_filename": "moon_rainbow_1983.jpg",
+      "pitch": "Strange magnetic storms disable electronics worldwide. A Soviet team traces them to a disaster on Oberon where four Space Marines gained telekinetic powers after radiation exposure. Former Marine David Norton must now cross Mercury's deadly Fire Snakes plateau.",
+      "created_at": "2026-06-22 12:35:18",
+      "watch_url": null
+    },
+    {
       "title": "Moon Zero Two",
       "year": 1969,
       "medium": "Film",
@@ -30785,5 +30801,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1924
+  "count": 1925
 }
