@@ -8857,6 +8857,24 @@
       "watch_url": null
     },
     {
+      "title": "Frankenstein and the Monster from Hell",
+      "year": 1974,
+      "medium": "Film",
+      "creator": "Terence Fisher",
+      "raw_score": 3.09,
+      "total_ratings": 114,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Monsters, Mental Health",
+      "image_filename": "Frankenstein_and_the_Monster_from_Hell_1974.jpg",
+      "pitch": "Baron Frankenstein works in an insane asylum, using his position to continue his experiments. When young doctor Simon Helder arrives as an inmate, the Baron takes him on as apprentice. Together they create a new creature from a homicidal inmate and a dead sculptor's hands. Peter Cushing stars.",
+      "truth": "Victor works in an asylum as Dr. Carl Victor. He takes Simon Helder as apprentice and together they create a creature from surviving inmate Schneider with grafted hands of a dead sculptor. The mute Sarah assists. The monster kills the corrupt director Klauss, then is destroyed by inmates. Frankenstein is already planning new experiments.",
+      "core": "The final Hammer Frankenstein film. Set in an asylum, it adds psychological depth to the franchise. The creature is sympathetic - a victim rather than killer. Directed by Terence Fisher in his last film.",
+      "created_at": "2026-06-22 14:40:48",
+      "watch_url": null
+    },
+    {
       "title": "Frankenstein's Great Aunt Tillie",
       "year": 1984,
       "medium": "Film",
@@ -20035,6 +20053,24 @@
       "watch_url": "https://archive.org/details/turner_video_224415"
     },
     {
+      "title": "Scream and Scream Again",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Gordon Hessler",
+      "raw_score": 2.65,
+      "total_ratings": 106,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Science, Monsters, Crime",
+      "image_filename": "Scream_and_Scream_Again_1970.jpg",
+      "pitch": "A vampire-like killer stalks London while a Soviet agent returns from an Eastern European mission with deadly powers. Vincent Price, Christopher Lee, and Peter Cushing star in this 1970 Amicus production. The fragmented narrative alternates between three plot threads.",
+      "truth": "A man jogs through London, collapses, and wakes to find his leg amputated - more limbs follow. Soviet agent Konratz returns with deadly touch powers, killing his superiors. Detective Bellaver investigates vampire-like killings. WPC Helen Bradford is sent as bait and barely escapes. The paths converge at the climax.",
+      "core": "A cult classic overlooked at release. Features three legendary horror actors in supporting roles. The fragmented narrative and genre-blending (spy thriller + vampire horror + sci-fi) make it unique. The Overlook Film Guide calls it one of Britain's best sci-fi films.",
+      "created_at": "2026-06-22 14:40:59",
+      "watch_url": null
+    },
+    {
       "title": "Sea Shadows",
       "year": 2025,
       "medium": "TV Series",
@@ -22643,6 +22679,24 @@
       "core": "Notable for being an early Paxton vehicle and for its experimental approach to adapting Burroughs' work. The film represents a fringe corner of early 1980s indie sci-fi, blending avant-garde techniques with genre themes.",
       "created_at": "2026-06-14 19:13:16",
       "watch_url": "https://archive.org/details/TakingTigerMountain"
+    },
+    {
+      "title": "Tales That Witness Madness",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Freddie Francis",
+      "raw_score": 2.76,
+      "total_ratings": 55,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Mental Health, Supernatural",
+      "image_filename": "Tales_That_Witness_Madness_1973.jpg",
+      "pitch": "A psychiatrist reveals to his colleague the truth behind four bizarre cases at his asylum. Each patient presents a different psychological horror: a boy and his imaginary tiger, a time-traveling bicycle, an obsessed man and his dead tree, and a Hawaiian ceremony that demands sacrifice. Stars Donald Pleasence, Joan Collins, Kim Novak.",
+      "truth": "Dr. Tremayne presents four cases to Nicholas. Paul befriends an imaginary tiger that attacks his father. Timothy time-travels via penny-farthing to Victorian England. Brian becomes dangerously attached to a dead tree. Auriol arranges a Hawaiian ritual requiring her daughter's flesh. At the climax, manifestations materialize and Nicholas is killed by the tiger.",
+      "core": "Each story reflects inner psychological turmoil manifesting as external threats. The film explores how the mind creates its own monsters through carefully crafted vignettes. Francis uses atmosphere over graphic horror for a more cerebral approach to fear.",
+      "created_at": "2026-06-22 14:40:18",
+      "watch_url": null
     },
     {
       "title": "Tales from the Neverending Story",
@@ -26567,6 +26621,24 @@
       "core": "A distinctive Finnish take on Middle-earth, offering a northern European perspective rare among Tolkien adaptations. Explores courage, friendship, and how ordinary people can change the world's fate.",
       "created_at": "2026-06-17 18:24:48",
       "watch_url": "https://archive.org/details/hobitit-1-bilbo"
+    },
+    {
+      "title": "The Horror of Frankenstein",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Jimmy Sangster",
+      "raw_score": 2.93,
+      "total_ratings": 88,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Monsters",
+      "image_filename": "The_Horror_of_Frankenstein_1970.jpg",
+      "pitch": "A brilliant but arrogant scientist Victor Frankenstein builds a man from spare body parts, only for the monster to come alive and wreak havoc. Ralph Bates stars as the ambitious Baron in this 1970 Hammer production.",
+      "truth": "Victor Frankenstein sabotages his father's shotgun to inherit the family fortune, then enters medical school in Vienna. When forced to return home after impregnating the dean's daughter, he sets up a laboratory and assembles a creature from human body parts. The monster goes on a homicidal rampage until accidentally destroyed by acid when a little girl floods its hiding vat.",
+      "core": "This Hammer film is both a semi-parody and semi-remake of The Curse of Frankenstein. Sangster wrote it as black comedy rather than straight horror, making Victor more of a psychopath. Features David Prowse as the monster before his famous Darth Vader role.",
+      "created_at": "2026-06-22 14:40:28",
+      "watch_url": null
     },
     {
       "title": "The Host",
@@ -34921,5 +34993,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1940
+  "count": 1944
 }
