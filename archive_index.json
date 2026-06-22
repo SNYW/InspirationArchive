@@ -2305,6 +2305,22 @@
       "watch_url": null
     },
     {
+      "title": "Ark",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Richard J. Lewis",
+      "raw_score": 2.81,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Space-Opera",
+      "topics": "War, Rebellion, Survival",
+      "image_filename": "Ark_2005.jpg",
+      "pitch": "On the war-torn planet Alcyone, two civilizations - the Ceveans and Storrions - are locked in eternal conflict that threatens to destroy their world. Led by priestess Amiel, the Ceveans build an Ark to flee, but the Storrions seize it, enslaving some and banishing the rest.",
+      "created_at": "2026-06-22 21:20:21",
+      "watch_url": null
+    },
+    {
       "title": "Armageddon",
       "year": 1997,
       "medium": "Film",
@@ -3411,16 +3427,16 @@
     {
       "title": "Black Button",
       "year": 2007,
-      "medium": "Short Film",
-      "creator": "Unknown",
+      "medium": "Film",
+      "creator": "James R. Katsey",
       "raw_score": 3.2,
       "total_ratings": 13,
-      "origin": "UK",
-      "mood": "Cerebral",
+      "origin": "USA",
+      "mood": "Tense",
       "sub_genres": "Science-Fantasy",
-      "topics": "Ethics, Survival",
+      "topics": "Morality, Survival, Choice",
       "image_filename": "",
-      "pitch": "Mr. Roberts wakes in a white room with a choice: push a black button to receive millions (killing someone), or take a key and leave penniless. An ethical trap that reveals the price of greed.",
+      "pitch": "Mr Roberts wakes in a stark white room with a man at a desk and a black button between them. Push it and receive millions in a briefcase. Refuse and leave with nothing. The catch: pushing the button means someone somewhere will die.",
       "created_at": "2026-06-16 07:52:03",
       "watch_url": null
     },
@@ -7217,6 +7233,22 @@
       "watch_url": "https://archive.org/details/exosquad-s-02-e-06-mind-set_202412"
     },
     {
+      "title": "Experiment",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "\u672a\u77e5",
+      "raw_score": 2.13,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, Identity, Survival",
+      "image_filename": "Experiment_2005.jpg",
+      "pitch": "Anna walks a foreign city with no memory, plagued by nightmares. She meets Morgan, also without memory. Together they feel an mysterious connection, unaware that unseen forces guide their every action.",
+      "created_at": "2026-06-22 21:20:57",
+      "watch_url": null
+    },
+    {
       "title": "Exterminator City",
       "year": 2005,
       "medium": "Film",
@@ -7918,6 +7950,22 @@
       "image_filename": "Flytrap_2014.jpg",
       "pitch": "A reserved English astronomer is kidnapped by the mysterious Mary Ann and her dangerous crew in suburban San Fernando Valley. Held hostage in a twisted version of the suburbs, he must uncover why he was taken and what it means for humanity.",
       "created_at": "2026-06-22 21:19:22",
+      "watch_url": null
+    },
+    {
+      "title": "For the Cause",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "David A. Prior",
+      "raw_score": 2.65,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "War, Rebellion, Survival",
+      "image_filename": "For_the_Cause_2000.jpg",
+      "pitch": "Two human colonies on a distant world create a new civilization but inherit Earth's worst traits. War destroys their cities, and it falls to teens to bring peace.",
+      "created_at": "2026-06-22 21:21:07",
       "watch_url": null
     },
     {
@@ -17278,6 +17326,22 @@
       "image_filename": "Red_Matter_2018.jpg",
       "pitch": "Red Matter is a 2018 sci-fi virtual reality puzzle game developed by the Spanish studio Vertical Robot. The player assumes the role of Agent Epsilon, an agent of the Atlantic Union who crash-lands on Rhea, one of Saturn's moons, to investigate a top-secret Volgravian military research facility. The game features meticulously detailed retro-futuristic environments and a Cold War-inspired setting between two fictional superpowers\u2014the Atlantic Union and the People's Republic of Volgravia. As a VR title, Red Matter emphasizes immersion, allowing players to physically interact with objects, solve puzzles, and explore the atmospheric abandoned station using motion controllers. The game received critical acclaim for its visuals and world-building, though some critics noted that certain puzzles could be frustratingly opaque.",
       "created_at": "2026-03-06 23:42:09",
+      "watch_url": null
+    },
+    {
+      "title": "Reign in Darkness",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Joshua Brown",
+      "raw_score": 1.62,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Virus, Survival, Morality",
+      "image_filename": "Reign_in_Darkness_2002.jpg",
+      "pitch": "Biologist Michael Dorn is infected with a virus meant to cure HIV - but it turns victims into vampires. Now a threat to the organization that created it, Michael must choose: destroy all knowledge of the virus, or succumb to the dark power.",
+      "created_at": "2026-06-22 21:20:40",
       "watch_url": null
     },
     {
@@ -31745,5 +31809,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1984
+  "count": 1988
 }
