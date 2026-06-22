@@ -15571,6 +15571,24 @@
       "watch_url": "https://archive.org/details/my-beautiful-girl-mari-b"
     },
     {
+      "title": "My God, My God, Why Hast Thou Forsaken Me?",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Shinji Aoyama",
+      "raw_score": 3.65,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Pandemic, Music, Survival, Family",
+      "image_filename": "My_God_My_God_Why_Hast_Thou_Forsaken_Me_2005.jpg",
+      "pitch": "In near-future Japan, a virus called Lemming Syndrome spreads through images and drives victims to suicide. A grieving billionaire hires a detective to find musicians whose music might save his infected granddaughter\u2014a haunting meditation on art's power to redeem in a world without hope.",
+      "truth": "In 2015, Lemming Syndrome has devastated the world. Billionaire Miyagi hires detective Natsui to find help for his infected granddaughter Hana. They discover that musicians Mizui and Asahara play music that suppresses the disease. After Asahara succumbs to suicide, Mizui agrees to play for Hana in an intense outdoor musical ritual. She survives and chooses to live.",
+      "core": "Adapted from Atsushi Mori's short story. Premiered at Cannes 2005. Aoyama's film asks whether art can fill the void when God is silent\u2014the biblical title ('Why have you forsaken me?') frames this existential question. The answer is ambiguous: art offers personal redemption but no universal cure.",
+      "created_at": "2026-06-22 11:20:48",
+      "watch_url": null
+    },
+    {
       "title": "My Grandpa is an Alien",
       "year": 2019,
       "medium": "Film",
@@ -34597,5 +34615,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1922
+  "count": 1923
 }
