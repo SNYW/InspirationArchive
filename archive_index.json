@@ -22705,6 +22705,22 @@
       "watch_url": "https://archive.org/details/invention-for-destruction-czech"
     },
     {
+      "title": "The Face of Another",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "K\u014dz\u014d Kusabue",
+      "raw_score": 3.88,
+      "total_ratings": 282,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Identity, Surgery, Alienation",
+      "image_filename": "476082.jpg",
+      "pitch": "A businessman hides his face behind a lifelike mask after a disfiguring accident. But the mask begins to change him - altering his personality and making him question who he really is.",
+      "created_at": "2026-06-22 16:19:25",
+      "watch_url": null
+    },
+    {
       "title": "The Falconeer",
       "year": 2020,
       "medium": "Video Game",
@@ -28017,6 +28033,22 @@
       "watch_url": "https://archive.org/details/the-war-in-space"
     },
     {
+      "title": "The War of the Gargantuas",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.18,
+      "total_ratings": 105,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Monsters, Good vs Evil, Survival",
+      "image_filename": "476081.jpg",
+      "pitch": "A monstrous humanoid creature emerges from Tokyo Bay - Gaira, a Gargantua born from Frankenstein's discarded cells, hunts along the coast. Then comes Sanda, another Gargantua - gentler, drawn by his brother's roars. As Tokyo burns, the two brothers - identical in origin yet opposite in nature - collide in inevitable battle.",
+      "created_at": "2026-06-22 16:19:02",
+      "watch_url": null
+    },
+    {
       "title": "The War of the Worlds",
       "year": 1898,
       "medium": "Novel",
@@ -31185,5 +31217,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1949
+  "count": 1951
 }
