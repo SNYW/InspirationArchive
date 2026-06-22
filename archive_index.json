@@ -7889,6 +7889,22 @@
       "watch_url": "https://archive.org/details/frankenweenie-1984-disney-plus-dubbing-credits-greek"
     },
     {
+      "title": "Freddy's Nightmares",
+      "year": 1988,
+      "medium": "TV Series",
+      "creator": "Wes Craven, Robert Englund",
+      "raw_score": 3.59,
+      "total_ratings": 212,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Horror, Demons, Supernatural",
+      "image_filename": "Freddys_Nightmares_1988.jpg",
+      "pitch": "Freddy's Nightmares is a horror anthology TV series spin-off from the A Nightmare on Elm Street films. Each episode introduced by Freddy Krueger (Robert Englund) features two different dark tales set in Springwood, Ohio on Elm Street. 44 episodes aired from 1988-1990 in syndication.",
+      "created_at": "2026-06-22 09:37:17",
+      "watch_url": null
+    },
+    {
       "title": "Freedom",
       "year": 2006,
       "medium": "OVA",
@@ -10447,6 +10463,22 @@
       "pitch": "In this 1987 Turkish sci-fi comedy, a hapless romantic named Veysel pines for the beautiful singer Ba\u015fak, who spurns his advances. After rescuing a Japanese tourist from an accident, Veysel receives an unexpected gift: a robot double of Ba\u015fak, sent from Japan in gratitude. The android is indistinguishable from the real singer\u2014and far more affectionate.\n\nThe film plays as a gentle satire of sci-fi fantasies about the perfect partner: a lookalike without the original's attitude. It's a charming period piece that blends 1980s Turkish popular culture with robot technology that was then futuristic. The comedy relies on misunderstandings and the absurdity of passing off an android as one's spouse.",
       "created_at": "2026-06-13 03:08:10",
       "watch_url": "https://archive.org/details/japon-isi_movie"
+    },
+    {
+      "title": "Jayce and the Wheeled Warriors",
+      "year": 1985,
+      "medium": "Anime",
+      "creator": "DIC Audiovisuel, Jean Chalopin, J. Michael Straczynski",
+      "raw_score": 3.44,
+      "total_ratings": 33,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Space-Opera",
+      "topics": "Aliens, Space Travel, Rebellion",
+      "image_filename": "Jayce_and_the_Wheeled_Warriors_1985.jpg",
+      "pitch": "French-Canadian animated series from 1985 supporting Mattel's toyline. Teenager Jayce leads the Lightning League in vehicles, searching for his lost father while battling plant-based Monster Minds across the galaxy. 65 episodes of serialized quest for the Magic Root.",
+      "created_at": "2026-06-22 09:36:45",
+      "watch_url": null
     },
     {
       "title": "Je t'aime",
@@ -13231,6 +13263,22 @@
       "pitch": "A superhero fantasy TV series featuring super-powered humans and their madcap adventures. Created by Ronald Austin and produced by Stephen J. Cannell.",
       "created_at": "2026-06-17 23:25:17",
       "watch_url": "https://archive.org/details/misfits-of-science-complete-series"
+    },
+    {
+      "title": "Mobile Cop Jiban",
+      "year": 1989,
+      "medium": "TV Series",
+      "creator": "Toei Company",
+      "raw_score": 3.95,
+      "total_ratings": 218,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Crime, Survival",
+      "image_filename": "Mobile_Cop_Jiban_1989.jpg",
+      "pitch": "Mobile Cop Jiban is a Japanese tokusatsu TV series (superhero live-action) from Toei Company, the makers of Kamen Rider. It aired in 1989 as part of the Metal Hero series. The hero Jiban is a detective who can transform and uses various vehicles and equipment to fight the alien Bioron race threatening Earth.",
+      "created_at": "2026-06-22 09:37:29",
+      "watch_url": null
     },
     {
       "title": "Mobile Fighter G Gundam",
@@ -29505,6 +29553,22 @@
       "watch_url": null
     },
     {
+      "title": "Voyagers",
+      "year": 1982,
+      "medium": "TV Series",
+      "creator": "Michael D. Weiss",
+      "raw_score": 3.77,
+      "total_ratings": 93,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, History, Discovery",
+      "image_filename": "Voyagers_1982.jpg",
+      "pitch": "1982 American sci-fi series following Phineas Bogg of the League of Time Travelers and young partner Jones as they travel through time correcting errors in history. Uses the Omni-Viewer device to enter historical events and fix timeline disruptions caused by the Ektron.",
+      "created_at": "2026-06-22 09:37:03",
+      "watch_url": null
+    },
+    {
       "title": "WXIII: Patlabor the Movie 3",
       "year": 2002,
       "medium": "Anime Film",
@@ -30625,5 +30689,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1914
+  "count": 1918
 }
