@@ -9425,6 +9425,22 @@
       "watch_url": null
     },
     {
+      "title": "Hello World :)",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.15,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia",
+      "topics": "Memory, Technology, Surveillance",
+      "image_filename": "Hello_World_2013.jpg",
+      "pitch": "In a near-future where a company stores human memories on a single server to boost brain capacity, a young woman discovers she has the power to change things. A cerebral sci-fi about memory, control, and freedom.",
+      "created_at": "2026-06-22 10:55:57",
+      "watch_url": null
+    },
+    {
       "title": "Heroic Age",
       "year": 2007,
       "medium": "Anime",
@@ -14671,6 +14687,22 @@
       "pitch": "In a frozen post-apocalyptic world, humanity survives in an underground vault called The Dome. Their only hope lies in a mysterious vessel called The Ark, said to be on its way to rescue the last remnants of civilization. But The Ark is a myth\u2014a lie planted by Soft, a propaganda worker whose job is to ensure citizen morale doesn't collapse along with the world above.\n\nPolish director Piotr Szulkin crafts a bleak, philosophical meditation on power, hope, and the lies we tell ourselves to survive. The film takes place entirely within the claustrophobic walls of The Dome, where authorities promise prosperity is coming soon in the form of a giant ark. As resources dwindle and the vault crumbles, the question becomes: what happens when the lie is finally exposed?",
       "created_at": "2026-03-06 13:42:10",
       "watch_url": "https://archive.org/details/obi-oba-1985-pol"
+    },
+    {
+      "title": "OMG, I'm a Robot!",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Tal Goldberg, Gal Zelezniak",
+      "raw_score": 3.2,
+      "total_ratings": 10,
+      "origin": "Israel",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Biopunk",
+      "topics": "Robots, Identity, Love",
+      "image_filename": "OMG_Im_a_Robot_2015.jpg",
+      "pitch": "Danny gets dumped, then discovers he's actually an engineered robot. Before he can process this, his ex Noa is kidnapped by a high-tech conspiracy. With his macho boss and a small Jewish R2-D2, Danny must rescue her. A quirky Israeli sci-fi comedy about identity.",
+      "created_at": "2026-06-22 10:55:47",
+      "watch_url": null
     },
     {
       "title": "Observer",
@@ -30721,5 +30753,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1920
+  "count": 1922
 }
