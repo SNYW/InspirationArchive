@@ -4401,6 +4401,22 @@
       "watch_url": "https://archive.org/details/cencoroll-257-mb"
     },
     {
+      "title": "Cencoroll Connect",
+      "year": 2019,
+      "medium": "Anime Film",
+      "creator": "Yoshiyuki Sadamoto",
+      "raw_score": 3.4,
+      "total_ratings": 26,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Memory, Identity",
+      "image_filename": null,
+      "pitch": "Student Yuki has never seen one of the giant monsters she always hears about on the news. But when she meets the lethargic Tetsu, things change. He moves around with a creature called Cencoroll - a shapeshifting entity he controls with his mind.",
+      "created_at": "2026-06-22 22:10:19",
+      "watch_url": null
+    },
+    {
       "title": "Ceres: Celestial Legend",
       "year": 2000,
       "medium": "Anime",
@@ -10721,6 +10737,22 @@
       "watch_url": "https://archive.org/details/turner_video_390802"
     },
     {
+      "title": "Iron Girl: Ultimate Weapon",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "Seiji Saito",
+      "raw_score": 2.55,
+      "total_ratings": 23,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Post-Apocalypse",
+      "topics": "Memory, Survival, Rebellion",
+      "image_filename": "iron_girl_ultimate_weapon_2015.jpg",
+      "pitch": "In a lawless near-future world, Kurisu Saotome is a deadly bounty hunter known as Iron Girl. She wears a powerful armored suit but has no memory of her past. To reclaim her identity, she must keep fighting.",
+      "created_at": "2026-06-22 22:10:13",
+      "watch_url": null
+    },
+    {
       "title": "Iron Sky",
       "year": 2012,
       "medium": "Film",
@@ -11422,6 +11454,22 @@
       "image_filename": "kamillions_1990.jpg",
       "pitch": "Mad scientist Nathaniel Pickman Wingate opens a portal to another dimension in his basement laboratory, accidentally unleashing two alien shapeshifters to Earth. One\u2014a friendly female\u2014befriends his son Sam, while the other is a mischievous trickster who terrorizes the family during his birthday party.",
       "created_at": "2026-06-16 09:56:10",
+      "watch_url": null
+    },
+    {
+      "title": "KanColle Movie",
+      "year": 2016,
+      "medium": "Anime Film",
+      "creator": "Atumi Saito",
+      "raw_score": 5.0,
+      "total_ratings": 23,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fantasy",
+      "topics": "War, AI, Robots",
+      "image_filename": "kancolle_movie_2016.jpg",
+      "pitch": "The KanColle Movie continues the WWII shipgirl franchise. After Kisaragi was sunk, she mysteriously resurfaces from the ocean during a night battle. The Mikawa Fleet fights on while processing this impossible return.",
+      "created_at": "2026-06-22 22:10:01",
       "watch_url": null
     },
     {
@@ -13951,6 +13999,22 @@
       "pitch": "A compact three-episode ONA side story to Gundam SEED Destiny, focusing on the Stargazer Project \u2014 a deep space exploration initiative. When a researcher and a soldier from opposing factions end up stranded together in space, they must bridge their ideological divide to survive.",
       "created_at": "2026-06-16 19:54:44",
       "watch_url": "https://archive.org/details/BagRaidersShootingStarsStargazerToolHQ"
+    },
+    {
+      "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+      "year": 2017,
+      "medium": "Anime Film",
+      "creator": "Kouichi Taguchi",
+      "raw_score": 3.15,
+      "total_ratings": 23,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Military, Space-Opera",
+      "topics": "War, Rebellion, Survival",
+      "image_filename": null,
+      "pitch": "The second entry in the Gundam Thunderbolt Series. Eight months after the One Year War, Captain Monica launches a secret mission. She selects Io to pilot the Atlas Gundam, leading the assault landing ship Spartan into South Seas Alliance territory.",
+      "created_at": "2026-06-22 22:10:31",
+      "watch_url": null
     },
     {
       "title": "Mobile Suit Gundam ZZ",
@@ -31841,5 +31905,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1990
+  "count": 1994
 }
