@@ -3079,6 +3079,24 @@
       "watch_url": null
     },
     {
+      "title": "Bagi, the Monster of Mighty Nature",
+      "year": 1984,
+      "medium": "Anime Film",
+      "creator": "Osamu Tezuka",
+      "raw_score": 2.55,
+      "total_ratings": 19,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Biopunk",
+      "topics": "Genetic Engineering, Family, Sacrifice",
+      "image_filename": "bagi_1984.jpg",
+      "pitch": "Osamu Tezuka's prescient 1984 warning about genetic engineering. When a young biker reunites with his childhood pet cat-woman, he discovers she's a human-lion chimera created by his scientist mother. Their journey leads to a South American lab where poisoned rice could destroy humanity. A tragic fable about playing god.",
+      "truth": "Ryosuke Ishigami, a delinquent teen, reunites with Bagi, a cat-woman he raised as a child. His mother created her through genetic experiments. They travel to South America where the lab is creating deadly rice. Ryosuke's mother dies, and Ryosuke mistakenly stabs Bagi. He finds her mother's letter too late. Bagi survives and runs off alone.",
+      "core": "Tezuka critiques unchecked genetic engineering through a melancholic fairy tale. Bagi \u2014 neither fully human nor animal \u2014 embodies the tragic cost of scientific hubris. A warning about creating life without accepting responsibility for it.",
+      "created_at": "2026-06-22 09:07:16",
+      "watch_url": null
+    },
+    {
       "title": "Baoh: The Visitor",
       "year": 1989,
       "medium": "OVA",
@@ -34435,5 +34453,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1913
+  "count": 1914
 }
