@@ -2935,6 +2935,24 @@
       "watch_url": null
     },
     {
+      "title": "Aziris Nuna",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.24,
+      "total_ratings": 18,
+      "origin": "Russia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Adventure, Exploration",
+      "image_filename": "Aziris_Nuna_2006.jpg",
+      "pitch": "Two brothers, Stas and Kostya, find themselves in the year 2506 as prisoners of a Space Prison. They connect with unusual people of the future and become involved in a strange game. Then they're captured by a fantastic sphinx guarding them from dangers.",
+      "truth": "Brothers Stas and Kostya are transported to 2506 and imprisoned in a space prison. They encounter future humans and participate in mysterious games. They're captured by Shidla, a sphinx-like guardian, who protects them from various dangers. The brothers then travel further in their time machine to Ancient Egypt.",
+      "core": "A Russian time-travel adventure for children, part of the post-Soviet tradition of family sci-fi. The film combines futuristic settings with historical time jumps.",
+      "created_at": "2026-06-22 15:35:18",
+      "watch_url": null
+    },
+    {
       "title": "B'T X",
       "year": 1996,
       "medium": "Anime",
@@ -3526,6 +3544,24 @@
       "truth": "A cafe owner's TV begins showing images two minutes into the future\u2014first mundane, then crucial. He uses this to prevent accidents and help customers, until he sees something he wishes he hadn't.",
       "core": "The film is notable for its creative low-budget approach to time paradoxes. Rather than complex mechanics, it focuses on the emotional weight of knowing the future and the moral burden of choices.",
       "created_at": "2026-06-16 15:47:52",
+      "watch_url": null
+    },
+    {
+      "title": "Big Ear",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 19,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Children, Discovery",
+      "image_filename": "Big_Ear_1989.jpg",
+      "pitch": "A young wolf cub discovers an alien with an enormous ear who can hear cosmic communications but misses the forest creatures' cries for help when they need him most. A gentle Soviet children's sci-fi fantasy.",
+      "truth": "An alien crashes near a forest and is found by a young wolf cub. His huge ear can hear across the universe, but when danger threatens, he fails to hear local cries \u2014 his ear is tuned to cosmic frequencies. The cub must solve problems on his own.",
+      "core": "Soviet children's sci-fi exploring the gap between having abilities and applying them. A minor late Soviet film.",
+      "created_at": "2026-06-22 15:34:57",
       "watch_url": null
     },
     {
@@ -28405,6 +28441,24 @@
       "watch_url": "https://archive.org/details/silent-the-mechanical-man"
     },
     {
+      "title": "The Mediator",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.56,
+      "total_ratings": 17,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Aliens, VR, Isolation",
+      "image_filename": "The_Mediator_1990.jpg",
+      "pitch": "In a Soviet industrial town with a radio-telescope, residents begin behaving strangely, adopting geometric aliases and organizing into hierarchies. A mysterious alien device implants extraterrestrial minds into human bodies.",
+      "truth": "Town residents start behaving robotically, using geometric aliases like Square and Triangle. An alien device called the Mediator implants extraterrestrial consciousnesses into human bodies. The phenomenon spreads through the town like a virus, as aliens experiment with consciousness transfer.",
+      "core": "Cerebral Soviet SF exploring identity and the boundaries between human and alien minds. Reflects late Soviet anxieties about conformity.",
+      "created_at": "2026-06-22 15:35:09",
+      "watch_url": null
+    },
+    {
       "title": "The Medusa Touch",
       "year": 1978,
       "medium": "Film",
@@ -35011,5 +35065,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1945
+  "count": 1948
 }
