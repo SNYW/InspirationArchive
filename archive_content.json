@@ -9127,6 +9127,24 @@
       "watch_url": "https://archive.org/details/future-war-198-x-hardcoded-english-subtitles"
     },
     {
+      "title": "G.I. Samurai",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Ry\u014d Hanmura",
+      "raw_score": 2.95,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Time-Travel",
+      "topics": "Time-Travel, War, Survival",
+      "image_filename": "G.I._Samurai_1979.jpg",
+      "pitch": "G.I. Samurai (Sengoku Jieitai) is a 1979 Japanese action film starring Sonny Chiba. During a routine Self-Defense Force exercise, an entire unit is transported 400 years back to Japan's Warring States period. Their modern weapons devastate samurai forces, but Second Lieutenant Iba must decide whether to conquer or survive.",
+      "truth": "Second Lieutenant Iba commands an SDF unit transported to 1570s Japan. Machine guns and helicopters decimate samurai. War lord Kagetora invites Iba to join forces. A romance develops between a female SDF member and a samurai. The film explores cultural adaptation and the corrupting influence of power.",
+      "core": "One of the earliest Japanese films combining modern military with historical settings. Explores whether superior firepower guarantees moral right. Sonny Chiba brings gravitas as a serious military leader. Based on Hanmura's novel bridging historical and sci-fi genres.",
+      "created_at": "2026-06-22 12:10:13",
+      "watch_url": null
+    },
+    {
       "title": "G.O.R.A.",
       "year": 2004,
       "medium": "Film",
@@ -34615,5 +34633,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1923
+  "count": 1924
 }
