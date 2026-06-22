@@ -6321,6 +6321,22 @@
       "watch_url": "https://archive.org/details/domu-a-childs-dream"
     },
     {
+      "title": "Doomed Megalopolis",
+      "year": 1991,
+      "medium": "OVA",
+      "creator": "Hiroshi Aramata",
+      "raw_score": 2.98,
+      "total_ratings": 3546,
+      "origin": "Japan",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Fantasy",
+      "topics": "Supernatural, Magic, History",
+      "image_filename": "Doomed_Megalopolis_1991.jpg",
+      "pitch": "A spiritual battle rages within Tokyo during the turn of the 20th century. Onmyoji master Yasumasa Hirai must stop the evil Kato from awakening the vengeful spirit of Taira no Masakado to destroy the city. An adaptation of the historical fantasy novel Teito Monogatari.",
+      "created_at": "2026-06-22 20:56:17",
+      "watch_url": null
+    },
+    {
       "title": "Doomsday Book",
       "year": 2012,
       "medium": "Film",
@@ -10398,6 +10414,22 @@
       "image_filename": "Indru_Netru_Naalai_2015.jpg",
       "pitch": "Two friends find a time machine from 2065 and use it to get rich through astrology predictions and stock market foreknowledge, until they accidentally save a gangster and must fix the timeline. A 2015 Tamil sci-fi black comedy.",
       "created_at": "2026-06-16 10:45:39",
+      "watch_url": null
+    },
+    {
+      "title": "Infinite Ryvius",
+      "year": 1999,
+      "medium": "Anime",
+      "creator": "Japanese",
+      "raw_score": 3.71,
+      "total_ratings": 13346,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Dystopia",
+      "topics": "Space Travel, Survival, Rebellion",
+      "image_filename": "Infinite_Ryvius_1999.jpg",
+      "pitch": "When sabotage sends a space station plummeting toward the deadly Sea of Geduld, a group of teen cadets must flee aboard the hidden spacecraft Ryvius. With all adults dead, they must survive the void and their own darker impulses. A haunting story of youth forced into adulthood by catastrophe.",
+      "created_at": "2026-06-22 20:56:10",
       "watch_url": null
     },
     {
@@ -24561,6 +24593,22 @@
       "watch_url": "https://archive.org/details/iron-giant-vhs"
     },
     {
+      "title": "The Irresponsible Captain Tylor",
+      "year": 1993,
+      "medium": "Anime",
+      "creator": "Hitoshi Yoshioka",
+      "raw_score": 3.93,
+      "total_ratings": 17595,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Comedy",
+      "topics": "Military, Satire, Space Travel",
+      "image_filename": "The_Irresponsible_Captain_Tylor_1993.jpg",
+      "pitch": "Lazy soldier Tylor joins the military for an easy retirement. By accident, he saves an admiral during a hostage crisis and is made captain of a rundown ship. Despite knowing nothing about command, he leads his crew to victory after victory through sheer luck. A loving satire of space opera tropes.",
+      "created_at": "2026-06-22 20:56:03",
+      "watch_url": null
+    },
+    {
       "title": "The Journeyman Project",
       "year": 1993,
       "medium": "Video Game",
@@ -31681,5 +31729,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1980
+  "count": 1983
 }

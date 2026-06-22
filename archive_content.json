@@ -7111,6 +7111,24 @@
       "watch_url": "https://archive.org/details/domu-a-childs-dream"
     },
     {
+      "title": "Doomed Megalopolis",
+      "year": 1991,
+      "medium": "OVA",
+      "creator": "Hiroshi Aramata",
+      "raw_score": 2.98,
+      "total_ratings": 3546,
+      "origin": "Japan",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Fantasy",
+      "topics": "Supernatural, Magic, History",
+      "image_filename": "Doomed_Megalopolis_1991.jpg",
+      "pitch": "A spiritual battle rages within Tokyo during the turn of the 20th century. Onmyoji master Yasumasa Hirai must stop the evil Kato from awakening the vengeful spirit of Taira no Masakado to destroy the city. An adaptation of the historical fantasy novel Teito Monogatari.",
+      "truth": "In 1908 Tokyo, onmyoji Yasumasa Hirai arrives to help modernize the city. Meanwhile, evil onmyoji Kato seeks to awaken the angry spirit of executed rebel Taira no Masakado to demolish Tokyo. Kato kidnaps psychic Yukari as a medium. Hirai battles Kato's magical forces to stop the awakening before Masakado's rage destroys the empire.",
+      "core": "Blends historical fantasy with urban horror. The spirit of historical resentment haunts modernization. Explores how past trauma shapes present reality. A cult classic that influenced modern supernatural anime.",
+      "created_at": "2026-06-22 20:56:17",
+      "watch_url": null
+    },
+    {
       "title": "Doomsday Book",
       "year": 2012,
       "medium": "Film",
@@ -11698,6 +11716,24 @@
       "truth": "Elango and Arumugam find a time machine from 2065. They use it to make money until they accidentally prevent a gangster's assassination, leading him to target them. After killing Anu, Elango goes back to kill the gangster but ends up trapping himself in the past. He tricks the gangster into shooting his past self, then prevents themselves from ever finding the machine.",
       "core": "Tamil cinema's smart time travel black comedy. Explores greed and paradoxes with humor. Won Best Screenplay. An example of regional Indian sci-fi moving beyond just action spectacles.",
       "created_at": "2026-06-16 10:45:39",
+      "watch_url": null
+    },
+    {
+      "title": "Infinite Ryvius",
+      "year": 1999,
+      "medium": "Anime",
+      "creator": "Japanese",
+      "raw_score": 3.71,
+      "total_ratings": 13346,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Dystopia",
+      "topics": "Space Travel, Survival, Rebellion",
+      "image_filename": "Infinite_Ryvius_1999.jpg",
+      "pitch": "When sabotage sends a space station plummeting toward the deadly Sea of Geduld, a group of teen cadets must flee aboard the hidden spacecraft Ryvius. With all adults dead, they must survive the void and their own darker impulses. A haunting story of youth forced into adulthood by catastrophe.",
+      "truth": "The space station Vanguard suffers sabotage and begins falling toward the Sea of Geduld. Cadets hide aboard the Ryvius and escape. With adult crew dead, the teens must navigate hostile space while battling their own desire for control. The adults who survived become a threat themselves, wanting the Ryvius for escape. The teens must choose between hope and despair.",
+      "core": "A darker take on space survival - youth forced to lead when adults fail them. Explores how crisis reveals character and how power corrupts. The void becomes both threat and mirror for the protagonists' inner darkness.",
+      "created_at": "2026-06-22 20:56:10",
       "watch_url": null
     },
     {
@@ -27631,6 +27667,24 @@
       "watch_url": "https://archive.org/details/iron-giant-vhs"
     },
     {
+      "title": "The Irresponsible Captain Tylor",
+      "year": 1993,
+      "medium": "Anime",
+      "creator": "Hitoshi Yoshioka",
+      "raw_score": 3.93,
+      "total_ratings": 17595,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Comedy",
+      "topics": "Military, Satire, Space Travel",
+      "image_filename": "The_Irresponsible_Captain_Tylor_1993.jpg",
+      "pitch": "Lazy soldier Tylor joins the military for an easy retirement. By accident, he saves an admiral during a hostage crisis and is made captain of a rundown ship. Despite knowing nothing about command, he leads his crew to victory after victory through sheer luck. A loving satire of space opera tropes.",
+      "truth": "Tylor accidentally saves Admiral Yamamoto and is promoted to captain of the worst ship in the fleet. Through luck and absurdity, he defeats the Raalgon Empire's invasion. His competent but baffled officers can't understand how someone so useless keeps winning. The series is a comedy where the universe is saved by complete incompetence.",
+      "core": "Satire of space opera - Tylor plays hero tropes straight while subverting them through total incompetence. Critiques military bureaucracy, celebrates individual initiative. The joke: the universe's savior might be its most useless person.",
+      "created_at": "2026-06-22 20:56:03",
+      "watch_url": null
+    },
+    {
       "title": "The Journeyman Project",
       "year": 1993,
       "medium": "Video Game",
@@ -35641,5 +35695,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1980
+  "count": 1983
 }
