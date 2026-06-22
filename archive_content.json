@@ -865,6 +865,24 @@
       "watch_url": "https://archive.org/details/soundofthunderot0000brad"
     },
     {
+      "title": "A Sound of Thunder",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Peter Hyams",
+      "raw_score": 2.44,
+      "total_ratings": 446,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi, Thriller, Time Travel",
+      "topics": "Dinosaurs, Time Travel, Butterfly Effect",
+      "image_filename": "A_Sound_of_Thunder_2005.jpg",
+      "pitch": "In 2055, time tourists hunt dinosaurs - but when a hunter steps off the path, the timeline shifts. Now the present is unrecognizable.",
+      "truth": "When Eckels panics and steps off the Time Safari path, he kills a butterfly - and history changes. The president who should have won is now a dictator, and Travis must face the consequences of this small disruption.",
+      "core": "The butterfly effect made literal - one step off the path and the future is rewritten. But who's responsible when the change seems better? Bradbury's question remains: is destiny fixed, or can we trust ourselves not to make things worse?",
+      "created_at": "2026-06-22 14:16:55",
+      "watch_url": null
+    },
+    {
       "title": "A Ticket to Space",
       "year": 2006,
       "medium": "Film",
@@ -9610,6 +9628,24 @@
       "truth": "In 1970s Tokyo, evil spirits threaten the human world. The Spirit Patrol, sent from the underworld, fights these threats. Enma leads the team with Yukiko, Kapael, and their guide Chapeau-jii \u2014 a hat-shaped spirit. They face various supernatural adversaries throughout the series.",
       "core": "This obscure series (11 votes, 7.3 rating) stands out for its unique 1970s Tokyo setting and yokai folklore. It blends classic supernatural adventure with period nostalgia, featuring demons and spirits in a modern urban context.",
       "created_at": "2026-06-17 03:25:37",
+      "watch_url": null
+    },
+    {
+      "title": "Ghost Machine",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Chris Hartwill",
+      "raw_score": 2.38,
+      "total_ratings": 57,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Virtual Reality, Horror",
+      "topics": "Military, VR Gaming, Simulation",
+      "image_filename": "Ghost_Machine_2009.jpg",
+      "pitch": "Two military technicians smuggle a top-secret virtual warfare program into a disused prison to experiment with candidates. But a vengeful outsider has manipulated the software, turning their training exercise into deadly reality.",
+      "truth": "When Tom and Vic use their classified VR program to test candidates in an abandoned prison, they have no idea someone has weaponized the simulation. When candidates are kidnapped into the virtual world, Jess must enter the game to save them - discovering a world as deadly as real warfare.",
+      "core": "Virtual reality as training ground for warfare - what happens when the simulation fights back? The film anticipates today's VR military training debates: is it desensitizing soldiers, or is the line between game and kill increasingly blurred?",
+      "created_at": "2026-06-22 14:14:54",
       "watch_url": null
     },
     {
@@ -19009,6 +19045,24 @@
       "watch_url": null
     },
     {
+      "title": "Retrograde",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Christopher Kulikowski",
+      "raw_score": 1.58,
+      "total_ratings": 54,
+      "origin": "USA",
+      "mood": "Action, Tense",
+      "sub_genres": "Sci-Fi, Action, Time Travel",
+      "topics": "Time Travel, Virus, Military",
+      "image_filename": "Retrograde_2004.jpg",
+      "pitch": "In 2204, a deadly microorganism threatens humanity. Captain Foster and his squad must travel back in time to prevent the virus from ever existing.",
+      "truth": "When a super-bug threatens to destroy civilization, the only hope is sending elite soldiers back to 2004 to ensure the first infection never happens. But changing the past could have dire consequences for the future.",
+      "core": "Time travel as preventive medicine - can you undo a catastrophe without creating a worse one? The film asks whether killing Patient Zero makes you a hero or a monster.",
+      "created_at": "2026-06-22 14:15:38",
+      "watch_url": null
+    },
+    {
       "title": "Return",
       "year": 2008,
       "medium": "Short Film",
@@ -22841,6 +22895,24 @@
       "core": "Tekkaman Blade is a haunted redemption story wrapped in 90s OVA action. The central question \u2014 is the person you were the same as the person you've become? \u2014 gives the fights real weight. Essential viewing for the era.",
       "created_at": "2026-06-17 10:05:43",
       "watch_url": "https://archive.org/details/tekkaman-blade-bonus-collection-raw"
+    },
+    {
+      "title": "Teknolust",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Lynn Hershman Leeson",
+      "raw_score": 2.2,
+      "total_ratings": 38,
+      "origin": "USA",
+      "mood": "Erotic, Tense",
+      "sub_genres": "Cyberpunk, Sci-Fi",
+      "topics": "AI, Cyborgs, Cloning, Sexuality",
+      "image_filename": "Teknolust_2002.jpg",
+      "pitch": "Genetics researcher Rosetta Stone creates three self-replicating cyborg clones from her own DNA. But these S.R.A.s must venture into the real world to obtain Y chromosomes to survive - leaving infected males in their wake.",
+      "truth": "When Rosetta injects her DNA into three S.R.A.s, she creates an all-female species that must periodically leave the lab to harvest genetic material from men. But each encounter spreads a strange virus that overtakes both bodies and computers - the lust carries over into technology.",
+      "core": "Self-replicating machines that need humans to reproduce - a literal reading of the Bechtel test. What happens when artificial life mimics human sexuality, and the boundary between organic and digital desire blurs?",
+      "created_at": "2026-06-22 14:15:12",
+      "watch_url": null
     },
     {
       "title": "Ten Billion Days and One Hundred Billion Nights",
@@ -26944,6 +27016,24 @@
       "truth": "Anna returns to her Belarus village after 12 years. Two time travelers from the 28th century arrive searching for unrecognized geniuses lost to history. When their colleague is trapped in the past, Anna must travel back to save him. The twist: the real genius isn't the notable boyar but his humble helper Akiplesha, who conducted secret experiments.",
       "core": "The film explores how true genius often goes unrecognized. The \"wizard\" label applied to time travelers becomes a metaphor for those with knowledge beyond their era. The real innovator is physically unremarkable, reinforcing that brilliance doesn't present itself visibly.",
       "created_at": "2026-06-18 06:35:16",
+      "watch_url": null
+    },
+    {
+      "title": "The Kovak Box",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Daniel Monz\u00f3n",
+      "raw_score": 2.89,
+      "total_ratings": 120,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Psychological Thriller, Sci-Fi",
+      "topics": "Writer, Fiction-Reality, Conspiracy",
+      "image_filename": "The_Kovak_Box_2006.jpg",
+      "pitch": "American horror novelist David Norton promotes his latest book in Spain, only to find the plot of his story unfold around him when his fianc\u00e9e jumps to her death.",
+      "truth": "When Jane dies by suicide, Norton discovers others have died the same way - all connected to his book about Frank Kovak, a disgraced Hungarian doctor who used neural implants to recreate his deadly experiment. Now Norton must face the real-life version of his fiction.",
+      "core": "What happens when fiction becomes reality? The novel as prophecy - can art predict life, or is the artist merely channeling patterns already latent in the world?",
+      "created_at": "2026-06-22 14:16:12",
       "watch_url": null
     },
     {
@@ -34831,5 +34921,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1935
+  "count": 1940
 }

@@ -769,6 +769,22 @@
       "watch_url": "https://archive.org/details/soundofthunderot0000brad"
     },
     {
+      "title": "A Sound of Thunder",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Peter Hyams",
+      "raw_score": 2.44,
+      "total_ratings": 446,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi, Thriller, Time Travel",
+      "topics": "Dinosaurs, Time Travel, Butterfly Effect",
+      "image_filename": "A_Sound_of_Thunder_2005.jpg",
+      "pitch": "In 2055, time tourists hunt dinosaurs - but when a hunter steps off the path, the timeline shifts. Now the present is unrecognizable.",
+      "created_at": "2026-06-22 14:16:55",
+      "watch_url": null
+    },
+    {
       "title": "A Ticket to Space",
       "year": 2006,
       "medium": "Film",
@@ -8542,6 +8558,22 @@
       "image_filename": "Ghastly_Prince_Enma_Burning_Up_2011.jpg",
       "pitch": "A 2011 anime set in 1970s Tokyo where evil spirits threaten humanity. The Spirit Patrol \u2014 hot-headed Enma, proud Yukiko, water sprite Kapael, and Chapeau-jii the hat-shaped spirit \u2014 must stop the supernatural threats. A blend of yokai folklore and period nostalgia.",
       "created_at": "2026-06-17 03:25:37",
+      "watch_url": null
+    },
+    {
+      "title": "Ghost Machine",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Chris Hartwill",
+      "raw_score": 2.38,
+      "total_ratings": 57,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Virtual Reality, Horror",
+      "topics": "Military, VR Gaming, Simulation",
+      "image_filename": "Ghost_Machine_2009.jpg",
+      "pitch": "Two military technicians smuggle a top-secret virtual warfare program into a disused prison to experiment with candidates. But a vengeful outsider has manipulated the software, turning their training exercise into deadly reality.",
+      "created_at": "2026-06-22 14:14:54",
       "watch_url": null
     },
     {
@@ -16897,6 +16929,22 @@
       "watch_url": null
     },
     {
+      "title": "Retrograde",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Christopher Kulikowski",
+      "raw_score": 1.58,
+      "total_ratings": 54,
+      "origin": "USA",
+      "mood": "Action, Tense",
+      "sub_genres": "Sci-Fi, Action, Time Travel",
+      "topics": "Time Travel, Virus, Military",
+      "image_filename": "Retrograde_2004.jpg",
+      "pitch": "In 2204, a deadly microorganism threatens humanity. Captain Foster and his squad must travel back in time to prevent the virus from ever existing.",
+      "created_at": "2026-06-22 14:15:38",
+      "watch_url": null
+    },
+    {
       "title": "Return",
       "year": 2008,
       "medium": "Short Film",
@@ -20303,6 +20351,22 @@
       "pitch": "In 2300 AD, the Radam invade Earth. A mysterious warrior called Blade arrives, fighting alongside the Space Knights. But Blade has no memory of his past \u2014 only fragments of a life he can't remember. Who is he really?",
       "created_at": "2026-06-17 10:05:43",
       "watch_url": "https://archive.org/details/tekkaman-blade-bonus-collection-raw"
+    },
+    {
+      "title": "Teknolust",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Lynn Hershman Leeson",
+      "raw_score": 2.2,
+      "total_ratings": 38,
+      "origin": "USA",
+      "mood": "Erotic, Tense",
+      "sub_genres": "Cyberpunk, Sci-Fi",
+      "topics": "AI, Cyborgs, Cloning, Sexuality",
+      "image_filename": "Teknolust_2002.jpg",
+      "pitch": "Genetics researcher Rosetta Stone creates three self-replicating cyborg clones from her own DNA. But these S.R.A.s must venture into the real world to obtain Y chromosomes to survive - leaving infected males in their wake.",
+      "created_at": "2026-06-22 14:15:12",
+      "watch_url": null
     },
     {
       "title": "Ten Billion Days and One Hundred Billion Nights",
@@ -23950,6 +24014,22 @@
       "image_filename": "The_Kidnapping_of_a_Wizard_1989.jpg",
       "pitch": "A graduate student returns to her grandmother's village to write her dissertation, but two strangers arrive claiming to be time travelers from the 28th century. They're searching for historical geniuses whose brilliant lives were cut short, hoping to evacuate them to the future. Anna becomes entangled in their dangerous mission.",
       "created_at": "2026-06-18 06:35:16",
+      "watch_url": null
+    },
+    {
+      "title": "The Kovak Box",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Daniel Monz\u00f3n",
+      "raw_score": 2.89,
+      "total_ratings": 120,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Psychological Thriller, Sci-Fi",
+      "topics": "Writer, Fiction-Reality, Conspiracy",
+      "image_filename": "The_Kovak_Box_2006.jpg",
+      "pitch": "American horror novelist David Norton promotes his latest book in Spain, only to find the plot of his story unfold around him when his fianc\u00e9e jumps to her death.",
+      "created_at": "2026-06-22 14:16:12",
       "watch_url": null
     },
     {
@@ -30961,5 +31041,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1935
+  "count": 1940
 }
