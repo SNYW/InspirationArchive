@@ -22375,6 +22375,24 @@
       "watch_url": "https://commons.wikimedia.org/wiki/File%3AButterfly_Swallowtail.ogv"
     },
     {
+      "title": "Swamp Thing",
+      "year": 1990,
+      "medium": "TV Series",
+      "creator": "Joseph Stefano (developer); Len Wein & Bernie Wrightson (characters)",
+      "raw_score": 3.15,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Ecology, Supernatural, Redemption, Survival",
+      "image_filename": "Swamp_Thing_1990.jpg",
+      "pitch": "American superhero TV series based on DC Comics. Scientist Alec Holland transforms into Swamp Thing after a chemical accident in the Louisiana swamps. Dick Durock reprises his film role. 72 episodes across three seasons.",
+      "truth": "Alec Holland works on biochemicals when employer Anton Arcane sabotages his project. Exposed to the chemicals, Holland transforms into Swamp Thing\u2014a plant-creature with superhuman strength. He protects the swamp while struggling with his humanity.\n\nEpisodes feature guest stars facing supernatural threats. Arcane appears as the main antagonist.",
+      "core": "Environmental themes through a plant-based protector\u2014Swamp Thing embodies nature fighting human corruption. Developer Joseph Stefano brought gravity to creature fare. One of the first superhero TV adaptations, predating the modern boom by over a decade.",
+      "created_at": "2026-06-22 13:24:23",
+      "watch_url": null
+    },
+    {
       "title": "Synapse",
       "year": 2015,
       "medium": "Film",
@@ -34723,5 +34741,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1929
+  "count": 1930
 }
