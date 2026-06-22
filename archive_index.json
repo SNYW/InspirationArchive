@@ -4017,6 +4017,22 @@
       "watch_url": null
     },
     {
+      "title": "C.H.O.M.P.S.",
+      "year": 1979,
+      "medium": "Film",
+      "creator": "Joseph Barbera",
+      "raw_score": 2.5,
+      "total_ratings": 19,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Robots, Inventions",
+      "image_filename": "C.H.O.M.P.S._1979.jpg",
+      "pitch": "A 1979 American comic sci-fi film produced by Hanna-Barbera. A young inventor creates a robotic dog called C.H.O.M.P.S. (Canine HOMe Protection System) for home protection. A rival company wants the dog and sends criminals to kidnap it.",
+      "created_at": "2026-06-22 19:42:25",
+      "watch_url": null
+    },
+    {
       "title": "C.I.Ape",
       "year": 2022,
       "medium": "Film",
@@ -8881,6 +8897,22 @@
       "watch_url": null
     },
     {
+      "title": "Girls in Trouble: Space Squad Episode Zero",
+      "year": 2017,
+      "medium": "OVA",
+      "creator": "Koichi Sakamoto",
+      "raw_score": 4.23,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superheroes, Crossover, Teamwork",
+      "image_filename": "Girls_in_Trouble_Space_Squad_Episode_Zero_2017.jpg",
+      "pitch": "A V-Cinema crossover between the Metal Hero Series and Super Sentai franchises, bringing together Space Sheriff Gavan and Tokusou Sentai Dekaranger. Directed by Koichi Sakamoto, this 85-minute film serves as a prologue to Gavan vs. Dekaranger, focusing on the female characters from both series.",
+      "created_at": "2026-06-22 19:40:55",
+      "watch_url": null
+    },
+    {
       "title": "Glass Trap",
       "year": 2005,
       "medium": "Film",
@@ -12254,6 +12286,22 @@
       "image_filename": "librarian.jpg",
       "pitch": "An unsuccessful actor learns his father was killed under mysterious circumstances and travels to his father's hometown to sell an apartment, but instead finds himself embroiled in dangerous events. Locals believe that books by a long-forgotten Soviet writer have magical properties - each giving a specific supernatural effect.",
       "created_at": "2026-06-17 11:45:47",
+      "watch_url": null
+    },
+    {
+      "title": "Light Blast",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Enzo G. Castellari",
+      "raw_score": 2.25,
+      "total_ratings": 16,
+      "origin": "Italy",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy, Action",
+      "topics": "Lasers, Crime, San Francisco",
+      "image_filename": "Light_Blast_1985.jpg",
+      "pitch": "A 1985 Italian sci-fi action film directed by Enzo G. Castellari. In San Francisco, a former professor threatens the city with a laser ray unless paid five million dollars. An inspector must stop him.",
+      "created_at": "2026-06-22 19:43:27",
       "watch_url": null
     },
     {
@@ -17551,6 +17599,22 @@
       "pitch": "A trio of android warrior sisters awaken after a 10,000-year sleep to battle mechanized warlords threatening their world. Obscure sci-fi featuring female android protagonists in eternal war.",
       "created_at": "2026-06-18 06:06:26",
       "watch_url": "https://archive.org/details/robotica_destructiva"
+    },
+    {
+      "title": "Robotix",
+      "year": 1985,
+      "medium": "Animated Film",
+      "creator": "Sunbow Productions",
+      "raw_score": 3.25,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Robots, Aliens, Teamwork, Good vs. Evil",
+      "image_filename": "Robotix_1985.jpg",
+      "pitch": "An animated series following the conflict between the peaceful Protectons and warmongering Terrakors on the alien world Skalorr V. Two groups of humans from the year 200X get caught up in the intergalactic conflict.",
+      "created_at": "2026-06-22 19:41:27",
+      "watch_url": null
     },
     {
       "title": "Robotrix",
@@ -24062,6 +24126,22 @@
       "image_filename": "The_Hidden_1987.jpg",
       "pitch": "When alien entities start possessing ordinary citizens in Los Angeles, turning them into violent killers, an FBI agent with a secret reveals he's actually an extraterrestrial lawman pursuing a rogue alien parasite that has escaped to Earth. The catch? The alien can jump from body to body, making it nearly impossible to destroy. What follows is a visceral cat-and-mouse chase through the streets of LA as the alien hops from host to host, leaving a trail of bodies\u2014and the question of what it truly means to be human.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "The Highwayman",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "Glen A. Larson",
+      "raw_score": 3.65,
+      "total_ratings": 26,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Technology, Crime, Survival",
+      "image_filename": "The_Highwayman_1987.jpg",
+      "pitch": "An American action series set in the near future, following a mysterious group of lawmen in high-tech trucks who fight crime at the fringes of society. Created by Glen A. Larson, it stars Sam J. Jones as the enigmatic Highwayman, whose real name is never revealed.",
+      "created_at": "2026-06-22 19:40:00",
       "watch_url": null
     },
     {
@@ -31569,5 +31649,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1973
+  "count": 1978
 }
