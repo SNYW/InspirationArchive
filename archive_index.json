@@ -65,6 +65,22 @@
       "watch_url": null
     },
     {
+      "title": "15 Till Midnight",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Brandon Slagle, Wolfgang Meyer",
+      "raw_score": 1.75,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "VR, Isolation, Parallel Worlds",
+      "image_filename": "15_till_midnight_2010.jpg",
+      "pitch": "A sci-fi thriller about a man trapped between parallel existences. Lukas Reyes finds himself in an endless loop between two realities \u2014 one where his wife Sera exists, another where a figure named Nara exists. As the worlds begin bleeding into each other, he is pursued by shadow-men known as \"The Knowers.\" The key is 11:45 \u2014 fifteen minutes until midnight.",
+      "created_at": "2026-06-22 17:35:25",
+      "watch_url": null
+    },
+    {
       "title": "1984",
       "year": 1956,
       "medium": "Film",
@@ -2911,6 +2927,22 @@
       "pitch": "Battle Beyond the Sun is a remarkable artifact of Cold War cinema\u2014a 1959 Soviet science fiction film that became an unlikely bridge between two opposing cinematic worlds. Originally titled \"Nebo Zovyot\" (The Sky is Calling), the film was acquired by Roger Corman in 1962, who hired a young Francis Ford Coppola to \"Americanize\" it for US audiences. The result is a fascinating dual narrative: a Soviet space race story reimagined through Western eyes, complete with added monster sequences and re-edited footage designed to mask the film's communist origins. The original tells of two superpowers racing to Mars; the American version transforms them into fictional nations North Hemis and South Hemis, complete with dubbed dialogue and even a pastel rhombus to cover the Cyrillic \"CCCP\" on-screen.",
       "created_at": "2026-03-01 10:13:33",
       "watch_url": "https://archive.org/details/battle-beyond-the-sun-1959"
+    },
+    {
+      "title": "Battle Earth",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.9,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fiction",
+      "topics": "Aliens, War, First Contact",
+      "image_filename": "battle_earth_2013.jpg",
+      "pitch": "A low-budget indie sci-fi film about humanity's first contact with extraterrestrials. When a massive spacecraft crashes into the Atlantic Ocean, confirmation of alien life appears on television screens worldwide. A young paramedic named Greg Baker signs up to fight for his planet and joins Special Forces as a squad medic, escorting a classified package across enemy territory.",
+      "created_at": "2026-06-22 17:35:06",
+      "watch_url": null
     },
     {
       "title": "Battle Girl: The Living Dead in Tokyo Bay",
@@ -23617,6 +23649,22 @@
       "watch_url": "https://archive.org/details/the-gone-world-2018-tom-sweterlitsch"
     },
     {
+      "title": "The Great Martian War 1913\u20131917",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Steve Maher, Stephen Sarossy, Mike Slee",
+      "raw_score": 3.15,
+      "total_ratings": 10,
+      "origin": "Multinational",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fantasy",
+      "topics": "Aliens, War, First Contact",
+      "image_filename": "the_great_martian_war_1913_2013.jpg",
+      "pitch": "A Canadian-UK co-production reimagining WWI as humanity's fight against Martian invaders. Documentary-drama style presents footage and records showing European powers uniting against alien fighters arriving in 1913. Real WWI events \u2014 trench warfare, Christmas truce, Spanish flu \u2014 are woven into this alternate history.",
+      "created_at": "2026-06-22 17:34:35",
+      "watch_url": null
+    },
+    {
       "title": "The Great Space Journey",
       "year": 1975,
       "medium": "Film",
@@ -31249,5 +31297,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1953
+  "count": 1956
 }

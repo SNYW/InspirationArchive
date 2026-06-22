@@ -73,6 +73,24 @@
       "watch_url": null
     },
     {
+      "title": "15 Till Midnight",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Brandon Slagle, Wolfgang Meyer",
+      "raw_score": 1.75,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "VR, Isolation, Parallel Worlds",
+      "image_filename": "15_till_midnight_2010.jpg",
+      "pitch": "A sci-fi thriller about a man trapped between parallel existences. Lukas Reyes finds himself in an endless loop between two realities \u2014 one where his wife Sera exists, another where a figure named Nara exists. As the worlds begin bleeding into each other, he is pursued by shadow-men known as \"The Knowers.\" The key is 11:45 \u2014 fifteen minutes until midnight.",
+      "truth": "Lukas Reyes is trapped in a loop between parallel existences. In one world, his spouse Sera exists; in another, a woman named Nara exists from a different life. As the worlds bleed into each other, Lukas is pursued by \"The Knowers.\" The time 11:45 \u2014 fifteen minutes until midnight \u2014 is the key.",
+      "core": "An indie exploration of parallel universes and identity. The film plays with time as the boundary between realities. The \"fifteen minutes until midnight\" motif suggests a liminal space between existence and non-existence.",
+      "created_at": "2026-06-22 17:35:25",
+      "watch_url": null
+    },
+    {
       "title": "1984",
       "year": 1956,
       "medium": "Film",
@@ -3275,6 +3293,24 @@
       "core": "This film stands as a unique historical curiosity\u2014a Soviet production that literally became a piece of American cinema through Cold War cultural appropriation. The film's journey mirrors the space race itself: two competing systems, each trying to claim the same achievements. The original Soviet version reflects genuine optimism about space exploration, portraying scientific cooperation even amid competition. Corman's Americanization reveals how Western cinema often reframed Eastern Bloc works to fit domestic narratives.\n\nThe film also represents an early example of international co-production and dubbing manipulation, decades before such practices became standard. Coppola's involvement\u2014before he became a legendary filmmaker\u2014shows how low-budget genre films served as training grounds for future cinema giants. The monster sequences added for American audiences demonstrate how commercial concerns could fundamentally alter a film's meaning, transforming serious Soviet science fiction into exploitation cinema.\n\nToday, \"Nebo Zovyot\" is remembered as a pioneering work of Soviet science fiction cinema, while \"Battle Beyond the Sun\" remains a curiosity\u2014a film that exists in two contradictory forms, each telling its own story about national pride, competition, and the conquest of space.",
       "created_at": "2026-03-01 10:13:33",
       "watch_url": "https://archive.org/details/battle-beyond-the-sun-1959"
+    },
+    {
+      "title": "Battle Earth",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.9,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fiction",
+      "topics": "Aliens, War, First Contact",
+      "image_filename": "battle_earth_2013.jpg",
+      "pitch": "A low-budget indie sci-fi film about humanity's first contact with extraterrestrials. When a massive spacecraft crashes into the Atlantic Ocean, confirmation of alien life appears on television screens worldwide. A young paramedic named Greg Baker signs up to fight for his planet and joins Special Forces as a squad medic, escorting a classified package across enemy territory.",
+      "truth": "Greg Baker, a young paramedic, witnesses confirmation of alien life on TV as a massive spacecraft crashes into the Atlantic Ocean. He enlists and joins a Special Forces unit as squad medic, tasked with escorting a classified package by chopper over enemy territory.",
+      "core": "A straightforward first-contact military sci-fi in the 1950s invader tradition. The film follows familiar beats \u2014 ordinary human becomes hero, military fights aliens \u2014 but delivers them with earnest enthusiasm. Low-budget values don't diminish the core appeal.",
+      "created_at": "2026-06-22 17:35:06",
+      "watch_url": null
     },
     {
       "title": "Battle Girl: The Living Dead in Tokyo Bay",
@@ -26569,6 +26605,24 @@
       "watch_url": "https://archive.org/details/the-gone-world-2018-tom-sweterlitsch"
     },
     {
+      "title": "The Great Martian War 1913\u20131917",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Steve Maher, Stephen Sarossy, Mike Slee",
+      "raw_score": 3.15,
+      "total_ratings": 10,
+      "origin": "Multinational",
+      "mood": "Tense",
+      "sub_genres": "Military, Science-Fantasy",
+      "topics": "Aliens, War, First Contact",
+      "image_filename": "the_great_martian_war_1913_2013.jpg",
+      "pitch": "A Canadian-UK co-production reimagining WWI as humanity's fight against Martian invaders. Documentary-drama style presents footage and records showing European powers uniting against alien fighters arriving in 1913. Real WWI events \u2014 trench warfare, Christmas truce, Spanish flu \u2014 are woven into this alternate history.",
+      "truth": "In 1913, a meteor crashes in the Black Forest. Troops sent to investigate are destroyed by Martian fighting machines. Europe unites against the alien threat. The Christmas truce becomes a ceasefire between human armies. America's late entry is driven by the invasion. The Spanish flu finally defeats the Martians, who are vulnerable to earthly diseases.",
+      "core": "A clever meditation on history and narrative. By replacing the German enemy with Martians, the film asks what if the Great War was always a story we told ourselves? The documentary format suggests history is a construction. Alternate histories reveal the contingency of what we take as inevitable.",
+      "created_at": "2026-06-22 17:34:35",
+      "watch_url": null
+    },
+    {
       "title": "The Great Space Journey",
       "year": 1975,
       "medium": "Film",
@@ -35155,5 +35209,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1953
+  "count": 1956
 }
