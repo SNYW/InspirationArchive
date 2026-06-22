@@ -14959,6 +14959,24 @@
       "watch_url": "https://archive.org/details/turner_video_390878"
     },
     {
+      "title": "Mega Scorpions",
+      "year": 2003,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.4,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Survival",
+      "image_filename": "Mega_Scorpions_2003.jpg",
+      "pitch": "2003 horror-comedy homage to 1950s giant bug films. Residents of a halfway house face six-foot-long killer scorpions. Shown at Frightvision Horror Festival, never released on DVD.",
+      "truth": "Residents of a halfway house become targets of giant mutant scorpions born from toxic waste. They must defend themselves with makeshift weapons.",
+      "core": "Forgotten 2000s B-movie that never saw home video. Like 1950s predecessors, uses giant creatures as metaphor for anxieties, though comedically. Its obscurity is self-proof.",
+      "created_at": "2026-06-22 20:04:18",
+      "watch_url": null
+    },
+    {
       "title": "Megabeast Investigator Juspion",
       "year": 1985,
       "medium": "TV Series",
@@ -35605,5 +35623,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1978
+  "count": 1979
 }
