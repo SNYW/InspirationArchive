@@ -5985,6 +5985,22 @@
       "watch_url": null
     },
     {
+      "title": "Dirty Blondes from Beyond",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.15,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Sci-Fi",
+      "topics": "Aliens, Space",
+      "image_filename": "Dirty_Blondes_from_Beyond_2012.jpg",
+      "pitch": "Princess Farra and her beautiful bodyguard flee to Earth while being pursued by the evil Empress and her henchwoman. Galaxy-spanning adventure with a comedic edge.",
+      "created_at": "2026-06-22 13:51:03",
+      "watch_url": null
+    },
+    {
       "title": "Dirty Pair Flash",
       "year": 1994,
       "medium": "OVA",
@@ -8990,6 +9006,22 @@
       "image_filename": "Guin_Saga_2009.jpg",
       "pitch": "A 2009 anime featuring a mysterious leopard-headed warrior who protects royal twins fleeing their conquered kingdom in the fantasy land of Nospherus.",
       "created_at": "2026-06-16 08:39:25",
+      "watch_url": null
+    },
+    {
+      "title": "Gulf Stream Under the Iceberg",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.0,
+      "total_ratings": 11,
+      "origin": "Russia",
+      "mood": "Surreal",
+      "sub_genres": "Sci-Fi",
+      "topics": "Memory, Identity",
+      "image_filename": "Gulf_Stream_Under_the_Iceberg_2012.jpg",
+      "pitch": "Adam's first wife Lilith was not created from Adam's rib like Eve, but from clay like himself. She left Adam after a quarrel, heading for Babylon. Immortal and soulless, she assumes different names throughout history. A surreal exploration of myth and identity.",
+      "created_at": "2026-06-22 13:51:17",
       "watch_url": null
     },
     {
@@ -18449,6 +18481,22 @@
       "watch_url": null
     },
     {
+      "title": "Solid State",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 1.2,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi",
+      "topics": "Aliens, First Contact",
+      "image_filename": "Solid_State_2012.jpg",
+      "pitch": "A meteor heading for Earth is destroyed by missiles, but a fragment lands in remote Europe. When an American rock band's van breaks down near the impact site, they discover the locals have been replaced by something not human. Low-budget indie alien invasion thriller.",
+      "created_at": "2026-06-22 13:50:58",
+      "watch_url": null
+    },
+    {
       "title": "Solty Rei",
       "year": 2005,
       "medium": "Anime",
@@ -22894,6 +22942,22 @@
       "image_filename": "The_Forbidden_Quest_1993.jpg",
       "pitch": "The Forbidden Quest is a 1993 Dutch pseudo-documentary directed by Peter Delpeut that weaves together archival footage and fictional narrative to tell the story of a doomed Antarctic expedition. The film presents itself as a 1941 documentary about a 1905 Norwegian voyage to Antarctica aboard the ship Hollandia, which disappeared without a trace. Using reconstructed footage and interviews with the last surviving crewmember, the film blends fact and fiction in a hypnotic meditation on exploration, mortality, and the boundaries of documentary filmmaking. The film won the 1994 International Fantasy Film Special Jury Award at Fantasporto and the 1993 Special Jury Prize at the Nederlands Film Festival.",
       "created_at": "2026-03-05 07:16:23",
+      "watch_url": null
+    },
+    {
+      "title": "The Forest",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.85,
+      "total_ratings": 11,
+      "origin": "Spain",
+      "mood": "Eerie",
+      "sub_genres": "Sci-Fi",
+      "topics": "Aliens, First Contact",
+      "image_filename": "The_Forest_2012.jpg",
+      "pitch": "During the Spanish Civil War, a strange green light appears in the woods, opening a portal to another world called the Bream Lords. A couple's lives become complicated as they encounter this supernatural doorway.",
+      "created_at": "2026-06-22 13:51:12",
       "watch_url": null
     },
     {
@@ -29841,6 +29905,22 @@
       "watch_url": "https://archive.org/details/war-of-the-planets_202508"
     },
     {
+      "title": "War of the Worlds the True Story",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 2.2,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Sci-Fi",
+      "topics": "Aliens, War",
+      "image_filename": "War_of_the_Worlds_the_True_Story_2012.jpg",
+      "pitch": "What if H.G. Wells' War of the Worlds wasn't fiction? This mockumentary presents itself as the true story of an actual 1900 Earth-Mars war, told through the memoir of Bertie Wells, the last surviving witness.",
+      "created_at": "2026-06-22 13:51:07",
+      "watch_url": null
+    },
+    {
       "title": "War with the Newts",
       "year": 1936,
       "medium": "Novel",
@@ -30881,5 +30961,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1930
+  "count": 1935
 }
