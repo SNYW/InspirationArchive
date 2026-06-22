@@ -30997,6 +30997,24 @@
       "watch_url": null
     },
     {
+      "title": "The Seed of Man",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Marco Ferreri",
+      "raw_score": 3.22,
+      "total_ratings": 28,
+      "origin": "Italy",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Pandemic, Survival, Family",
+      "image_filename": "The_Seed_of_Man_1969.jpg",
+      "pitch": "After a global plague wipes out most of humanity, a young couple called Cino and Dora are selected to repopulate the Earth. Living under scientific surveillance in an isolated house, they must decide whether to bring a child into a dying world. Dora wants to hope; Cino sees only futility.",
+      "truth": "The film opens on a world devastated by plague. Cino and Dora are chosen to continue humanity, monitored by doctors in a remote house. They argue about having a child\u2014Dora wants to hope, Cino refuses to perpetuate a doomed species. A pregnant woman from outside arrives, complicating their dynamics. The film ends ambiguously, refusing to resolve whether they conceive.",
+      "core": "Ferreri presents reproduction as a political act rather than intimate choice\u2014the state decides who breeds. Cino's nihilism challenges whether survival itself is meaningful if civilization has failed. The clinical setting suggests humanity's end won't come from plague, but from loss of meaning.",
+      "created_at": "2026-06-22 23:05:58",
+      "watch_url": null
+    },
+    {
       "title": "The Sender",
       "year": 1982,
       "medium": "Film",
@@ -35911,5 +35929,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1995
+  "count": 1996
 }
