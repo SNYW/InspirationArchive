@@ -6865,6 +6865,22 @@
       "watch_url": null
     },
     {
+      "title": "Electric Dragon 80000V",
+      "year": 2001,
+      "medium": "Film",
+      "creator": "Gakury\u016b Ishii",
+      "raw_score": 3.415,
+      "total_ratings": 78,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Cyberpunk",
+      "topics": "Cybernetics, Rebellion",
+      "image_filename": "electric_dragon_80000v.jpg",
+      "pitch": "A hyperkinetic 55-minute burst of electro-charged punk madness. Two electrified vigilantes\u2014Morrison, a reptile investigator who can channel electricity, and Thunderbolt Buddha, a TV repair man turned street fighter\u2014battle across rooftops of Tokyo. Directed by Gakury\u016b Ishii.",
+      "created_at": "2026-06-22 18:03:46",
+      "watch_url": null
+    },
+    {
       "title": "Electronic Man 337",
       "year": 1977,
       "medium": "Animated Film",
@@ -10110,6 +10126,22 @@
       "image_filename": "Ice_1970.jpg",
       "pitch": "An underground revolutionary group wages urban guerrilla warfare against a fictional fascist regime in near-future America. Robert Kramer directs and stars in this stark, 16mm political thriller \u2014 a counterculture artifact from the height of the Vietnam era.",
       "created_at": "2026-06-22 17:10:07",
+      "watch_url": null
+    },
+    {
+      "title": "Idaho Transfer",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Peter Fonda",
+      "raw_score": 2.46,
+      "total_ratings": 29,
+      "origin": "USA",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Time-Travel",
+      "topics": "Time-Travel, Survival, Ecology",
+      "image_filename": null,
+      "pitch": "A 1973 government project in Idaho develops time travel but discovers adults cannot survive the transfer. When scientists realize civilization will collapse, they send only young people 56 years forward. Peter Fonda's only directorial work without himself acting is a bleak meditation on generational sacrifice.",
+      "created_at": "2026-06-22 17:59:42",
       "watch_url": null
     },
     {
@@ -17263,6 +17295,22 @@
       "pitch": "RoboCop: The Animated Series adapts the 1987 action film for younger audiences. In futuristic Detroit, police officer Alex Murphy is killed in the line of duty and reborn as RoboCop, a cybernetic law enforcer. Now he patrols the streets with partner Anne Lewis, fighting criminals who control the city.",
       "created_at": "2026-06-17 12:35:27",
       "watch_url": "https://archive.org/details/the-first-four-episode-of-robocop-the-animated-series"
+    },
+    {
+      "title": "RoboGeisha",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Noboru Iguchi",
+      "raw_score": 2.7,
+      "total_ratings": 79,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Cyberpunk",
+      "topics": "Cybernetics, Sisters, Corporate Power",
+      "image_filename": "robogeisha.jpg",
+      "pitch": "Two orphaned geisha sisters are abducted by a steel corporation and transformed into murderous cyborg assassins. Directed by Noboru Iguchi. Geisha with breast-mounted machine guns\u2014what's not to love?",
+      "created_at": "2026-06-22 18:04:03",
+      "watch_url": null
     },
     {
       "title": "Robot & Scarecrow",
@@ -31297,5 +31345,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1956
+  "count": 1959
 }
