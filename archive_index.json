@@ -10945,6 +10945,22 @@
       "watch_url": "https://archive.org/details/invisible-adversaries-1977"
     },
     {
+      "title": "Involution",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Evolution, Survival, AI",
+      "image_filename": null,
+      "pitch": "In a future where a mechanism reverses human evolution, turning people into animals, Hamming and Liv fight to preserve their humanity. A meditation on what lies beneath civilization.",
+      "created_at": "2026-06-23 04:29:30",
+      "watch_url": null
+    },
+    {
       "title": "Iria: Zeiram the Animation",
       "year": 1994,
       "medium": "OVA",
@@ -14561,6 +14577,22 @@
       "watch_url": null
     },
     {
+      "title": "Mosquito-Man",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Jimmy",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Sci-Fi",
+      "topics": "Mutation, Survival",
+      "image_filename": null,
+      "pitch": "Down-on-his-luck unlikely hero Jim Crawley decides to end it all but fails. An improbable event changes everything and he becomes a half man/half creature. A transformation horror with sci-fi elements.",
+      "created_at": "2026-06-23 04:33:38",
+      "watch_url": null
+    },
+    {
       "title": "Motel Mist",
       "year": 2016,
       "medium": "Film",
@@ -15624,11 +15656,11 @@
       "raw_score": 3.2,
       "total_ratings": 10,
       "origin": "Israel",
-      "mood": "Satirical",
-      "sub_genres": "Comedy, Biopunk",
-      "topics": "Robots, Identity, Love",
+      "mood": "Surreal",
+      "sub_genres": "Sci-Fi, Comedy",
+      "topics": "AI, Robots, Identity",
       "image_filename": "OMG_Im_a_Robot_2015.jpg",
-      "pitch": "Danny gets dumped, then discovers he's actually an engineered robot. Before he can process this, his ex Noa is kidnapped by a high-tech conspiracy. With his macho boss and a small Jewish R2-D2, Danny must rescue her. A quirky Israeli sci-fi comedy about identity.",
+      "pitch": "Danny gets dumped by Noa, then discovers he's an engineered robot with fabricated memories. He searches for her, finding Noa kidnapped by a high-tech conspiracy using robot-humans for violence. Israeli sci-fi comedy about identity.",
       "created_at": "2026-06-22 10:55:47",
       "watch_url": null
     },
@@ -28481,6 +28513,22 @@
       "watch_url": null
     },
     {
+      "title": "The Theta Girl",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Noir",
+      "topics": "Drugs, Music, Survival",
+      "image_filename": null,
+      "pitch": "Gayce deals a hallucinogenic drug called theta that opens minds \u2014 and doors. When her all-girl rock band friends are murdered, she must solve the mystery before the killer finds her. A neo-noir with psychedelic undertones.",
+      "created_at": "2026-06-23 04:29:53",
+      "watch_url": null
+    },
+    {
       "title": "The Things",
       "year": 2010,
       "medium": "Short Story",
@@ -32385,5 +32433,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2024
+  "count": 2027
 }

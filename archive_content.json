@@ -12313,6 +12313,24 @@
       "watch_url": "https://archive.org/details/invisible-adversaries-1977"
     },
     {
+      "title": "Involution",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Evolution, Survival, AI",
+      "image_filename": null,
+      "pitch": "In a future where a mechanism reverses human evolution, turning people into animals, Hamming and Liv fight to preserve their humanity. A meditation on what lies beneath civilization.",
+      "truth": "Earth's mechanism rewinds evolution, causing humans to regress to primitive states. Hamming and Liv retain their cognition but begin feeling animal urges \u2014 aggression, desire, territoriality. As society collapses, they must choose: fight for their humanity or accept their new nature. The ending is ambiguous, both partially transformed.",
+      "core": "Involution is an ambitious low-budget take on evolution horror, asking whether humanity is more than biology. The reversal of Darwin's theory serves as meditation on consciousness and primal drives beneath society. Rough execution but places it alongside The Fly and Annihilation.",
+      "created_at": "2026-06-23 04:29:30",
+      "watch_url": null
+    },
+    {
       "title": "Iria: Zeiram the Animation",
       "year": 1994,
       "medium": "OVA",
@@ -16381,6 +16399,24 @@
       "watch_url": null
     },
     {
+      "title": "Mosquito-Man",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Jimmy",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Sci-Fi",
+      "topics": "Mutation, Survival",
+      "image_filename": null,
+      "pitch": "Down-on-his-luck unlikely hero Jim Crawley decides to end it all but fails. An improbable event changes everything and he becomes a half man/half creature. A transformation horror with sci-fi elements.",
+      "truth": "Jim Crawley is having the worst day of his miserable life. He decides to end it all and even fails at that. An improbable event transforms him into a half-man half-creature.",
+      "core": "Uses transformation horror to explore mutation and survival. A low-budget indie that plays with the monster metaphor.",
+      "created_at": "2026-06-23 04:33:38",
+      "watch_url": null
+    },
+    {
       "title": "Motel Mist",
       "year": 2016,
       "medium": "Film",
@@ -17576,13 +17612,13 @@
       "raw_score": 3.2,
       "total_ratings": 10,
       "origin": "Israel",
-      "mood": "Satirical",
-      "sub_genres": "Comedy, Biopunk",
-      "topics": "Robots, Identity, Love",
+      "mood": "Surreal",
+      "sub_genres": "Sci-Fi, Comedy",
+      "topics": "AI, Robots, Identity",
       "image_filename": "OMG_Im_a_Robot_2015.jpg",
-      "pitch": "Danny gets dumped, then discovers he's actually an engineered robot. Before he can process this, his ex Noa is kidnapped by a high-tech conspiracy. With his macho boss and a small Jewish R2-D2, Danny must rescue her. A quirky Israeli sci-fi comedy about identity.",
-      "truth": "Danny is dumped by Noa, discovers he's a robot, then learns Noa has been kidnapped by the company that created him. With his boss and a small robot helper, he infiltrates the company to rescue her. He comes to terms with his artificial nature and saves the day.",
-      "core": "Uses comedy to explore what makes us human. Satirizes corporate tech culture with Israeli specificity. A lightweight but entertaining take on the robot revelation story with cultural flavor.",
+      "pitch": "Danny gets dumped by Noa, then discovers he's an engineered robot with fabricated memories. He searches for her, finding Noa kidnapped by a high-tech conspiracy using robot-humans for violence. Israeli sci-fi comedy about identity.",
+      "truth": "Danny's girlfriend Noa dumps him. He discovers he's a robot with fake memories. He finds Noa kidnapped by his creators. He teams with the real Noa (his handler) to expose the conspiracy.",
+      "core": "Uses robot-revelation to explore identity: if memories are false, are you still human? Suggests identity is performative. Critiques technology as weapon while arguing created beings can develop genuine humanity.",
       "created_at": "2026-06-22 10:55:47",
       "watch_url": null
     },
@@ -32041,6 +32077,24 @@
       "watch_url": null
     },
     {
+      "title": "The Theta Girl",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Noir",
+      "topics": "Drugs, Music, Survival",
+      "image_filename": null,
+      "pitch": "Gayce deals a hallucinogenic drug called theta that opens minds \u2014 and doors. When her all-girl rock band friends are murdered, she must solve the mystery before the killer finds her. A neo-noir with psychedelic undertones.",
+      "truth": "Gayce deals theta, a drug causing vivid hallucinations. She uses it to help her friends' rock band achieve breakthroughs. When her friends are murdered, she investigates and discovers theta connects to something larger \u2014 entities in altered states.",
+      "core": "The Theta Girl blends neo-noir with psychedelic SF. Theta is both substance and metaphor for art revealing hidden truths. What is real when perception becomes unreliable? Low-budget indie exploring altered consciousness.",
+      "created_at": "2026-06-23 04:29:53",
+      "watch_url": null
+    },
+    {
       "title": "The Things",
       "year": 2010,
       "medium": "Short Story",
@@ -36433,5 +36487,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2024
+  "count": 2027
 }
