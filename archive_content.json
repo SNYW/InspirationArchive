@@ -35083,6 +35083,24 @@
       "watch_url": "https://archive.org/details/think-blue-count-two_202308"
     },
     {
+      "title": "Third Kind",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.7,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Space, First Contact",
+      "image_filename": "Third_Kind_2018.jpg",
+      "pitch": "In a future where Earth has been abandoned for generations, humanity survives in outer space. Three archaeologists receive a mysterious five-tone signal from the abandoned homeworld. Their return is both scientific expedition and pilgrimage to uncover the truth about humanity's origins.",
+      "truth": "The three land on ruined Earth and investigate the signal's source. They discover it originated from a previous civilization - perhaps humanity itself, leaving a message from the past. A contemplative exploration of memory, legacy, and what we leave behind.",
+      "core": "A meditation on archaeology and heritage. The five-tone signal is a message from the past, asking whether humanity will ever understand its origins.",
+      "created_at": "2026-06-23 22:21:44",
+      "watch_url": null
+    },
+    {
       "title": "This Island Earth",
       "year": 1955,
       "medium": "Film",
@@ -38305,5 +38323,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2128
+  "count": 2129
 }
