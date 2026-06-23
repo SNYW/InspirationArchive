@@ -10405,6 +10405,24 @@
       "watch_url": null
     },
     {
+      "title": "Golden Years",
+      "year": 1991,
+      "medium": "TV Series",
+      "creator": "Stephen King",
+      "raw_score": 3.11,
+      "total_ratings": 19,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Time-Travel, Science, Survival",
+      "image_filename": "Golden_Years_1991.jpg",
+      "pitch": "An elderly janitor survives an explosion at a secret lab \u2014 then starts getting younger. On the run from a shadowy government agency, Harlan must hide his impossible condition.",
+      "truth": "Harlan works at a secret facility. An explosion exposes him to an experimental aging-reversal compound. He begins getting younger daily. He teams up with researcher Terry and goes on the run from \"The Shop.\"",
+      "core": "Explores mortality and identity \u2014 if the body becomes young, is the person still the same? Also critiques government secrecy and scientific exploitation.",
+      "created_at": "2026-06-23 01:33:53",
+      "watch_url": null
+    },
+    {
       "title": "Goldengirl",
       "year": 1979,
       "medium": "Film",
@@ -36109,5 +36127,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2006
+  "count": 2007
 }
