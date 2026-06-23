@@ -10837,6 +10837,24 @@
       "watch_url": null
     },
     {
+      "title": "Hands of Steel",
+      "year": 1986,
+      "medium": "Film",
+      "creator": "Sergio Martino",
+      "raw_score": 2.64,
+      "total_ratings": 88,
+      "origin": "Italy",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Cyborgs, AI, Survival",
+      "image_filename": "Hands_of_Steel_1986.jpg",
+      "pitch": "Hands of Steel (1986) is an Italian sci-fi action film about a cyborg programmed to kill a scientist who holds humanity's fate. A cold, efficient assassin against a brilliant mind \u2014 a classic showdown in the tradition of Italian exploitation cinema.",
+      "truth": "A cyborg is programmed to kill a scientist who possesses crucial knowledge that could determine humanity's future. The assassin hunts the scientist, but as the confrontation approaches, the cyborg begins to question its programming and the nature of its mission.",
+      "core": "Part of Italy's 1980s cyberpunk wave, the film explores the theme of programmed destiny versus free will. The cyborg as both weapon and potential savior reflects anxieties about technology outpacing human control.",
+      "created_at": "2026-06-23 01:10:57",
+      "watch_url": null
+    },
+    {
       "title": "Hanuman and the Seven Ultramen",
       "year": 1974,
       "medium": "Film",
@@ -19222,6 +19240,24 @@
       "truth": "Set in ancient Korea, the film opens with a king who strictly controls the land, subjecting the peasantry to misery and starvation. The finest blacksmith in the land, Takse, is imprisoned and starved to death for defending his people. Before dying, Takse creates a tiny rice figurine of a monster and prays to the gods to make it a living creature that protects the rebels and the oppressed.\n\nShortly after Takse's death, his daughter Ami discovers the figurine, which springs to life upon contact with her blood when she accidentally wounds herself while sewing. The figurine becomes a metal-eating monster that Ami names Pulgasari, after the mythical beast her father used to describe a creature that eats iron and steel. Pulgasari shares a special bond with Ami and grows increasingly powerful as it consumes metal tools and weapons from the peasants.\n\nThe peasants, fed up with their poverty and suffering, form an army to overthrow the monarchy with Pulgasari's help. The monster proves invincible, devouring the royal army's metal weapons. However, the king captures Ami and threatens to kill her unless Pulgasari enters a large cage. The monster surrenders itself to save Ami and is set ablaze, but survives. The rebels storm the palace, killing the governor.\n\nWhen the king discovers the rebellion, he orders Pulgasari buried alive. The creature appears to die, and the royal army captures and executes InDe, the rebellion's leader and Ami's betrothed. Ami escapes, revives Pulgasari by pouring her blood on its burial site, and the monster attacks the king's palace, destroying it and killing the king.\n\nHowever, after victory, Pulgasari continues eating the rebels' weapons and farmers' tools. Ami realizes the monster's hunger will never be sated and that it is now oppressing the people it fought to liberate. She sacrifices herself by hiding inside a large bell that Pulgasari quickly eats. The monster's yells in anguish as Ami's presence in its body turns it to stone, killing both the monster and Ami but saving the people.",
       "core": "**Political Allegory and Propaganda:** Pulgasari has been interpreted as a political allegory, with the monster representing various revolutionary forces. Some analysts see it as a metaphor for the Korean revolution itself\u2014initially serving the people but eventually becoming a tyranny that consumes its own. Others interpret it as a critique of the Kim Il Sung regime, suggesting Shin Sang-ok smuggled anti-communist messaging into what was meant to be propaganda. Shin himself later stated the film was meant as a plea for pacifism and a warning against nuclear war, though he maintained it was \"a pure monster film\" without explicit ideology.\n\n**Cultural Context and Historical Significance:** The film's production story is as remarkable as its content. Shin Sang-ok and his wife, actress Choi Eun-hee, were kidnapped by North Korean agents in 1978 at Kim Jong Il's orders to create propaganda films for the regime. After years of captivity, Shin was put to work directing this massive production. The film was intended to capitalize on the success of The Return of Godzilla (1984), with Kim Jong Il specifically requesting a monster that resembled a bull. Production involved 15 Toho Studios employees, including special effects director Teruyoshi Nakano and suit actor Kenpachiro Satsuma, who had played Godzilla in the Japanese films.\n\n**Reception and Legacy:** After Shin and Choi escaped North Korea in March 1986 during a trip to Vienna, Pulgasari was banned in North Korea. It eventually premiered in Japan on VHS in 1995 and in theaters in 1998, becoming the most widely-seen North Korean film internationally. Critical reception in Japan was positive, with critics praising it as a worthy kaiju entry. The film became a cult classic and the first North Korean film released in South Korean theaters in 2000.\n\nPulgasari remains significant as a unique artifact of Cold War cinema\u2014a North Korean production made with Japanese technical expertise, reflecting both the isolated nation's ambitions and the universal appeal of the kaiju genre. Its behind-the-scenes story of kidnapping, propaganda, and escape is more fascinating than the film itself, making it a remarkable footnote in the history of science fiction cinema.",
       "created_at": "2026-03-03 05:18:47",
+      "watch_url": null
+    },
+    {
+      "title": "Pumaman",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Alberto De Martino",
+      "raw_score": 1.43,
+      "total_ratings": 80,
+      "origin": "Italy",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, First Contact, Religion",
+      "image_filename": "Pumaman_1980.jpg",
+      "pitch": "The Pumaman (1980) is an Italian superhero film. When archaeologist Jane Dodson uncovers a gold mask with mind-control powers in London, villain Dr. Kobras (Donald Pleasence) wants it to rule the world. But ancient Aztec gods left behind a protector: the Pumaman, a superhuman with powers from a magical golden belt.",
+      "truth": "Thousands of years ago, aliens became gods to the Aztecs and fathered the Pumaman. In London, Jane finds the gold mask; Kobras steals it to control world leaders. paleontologist Tony learns he's the Pumaman, dons the belt, and defeats Kobras with Jane's help.",
+      "core": "Fuses Aztec mythology with superhero tropes, exploring ancient astronaut theory. Part of Italy's exploitation film wave, it stands out for its unusual premise. Now a cult classic via MST3K.",
+      "created_at": "2026-06-23 01:10:20",
       "watch_url": null
     },
     {
@@ -36073,5 +36109,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2004
+  "count": 2006
 }
