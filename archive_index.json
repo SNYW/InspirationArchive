@@ -7681,6 +7681,22 @@
       "watch_url": null
     },
     {
+      "title": "Factory Farmed",
+      "year": 2008,
+      "medium": "Short Film",
+      "creator": "Simon H. Tait",
+      "raw_score": 3.2,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Survival, Dystopia, Technology",
+      "image_filename": "Factory_Farmed_2008.jpg",
+      "pitch": "In near-future Britain, survivors awaken in an underground bunker with no memory of arrival. Venturing to the surface, they find a world of ecological collapse where food is synthesized, not grown\u2014a grim vision of what happens when nature fails.",
+      "created_at": "2026-06-23 09:26:59",
+      "watch_url": null
+    },
+    {
       "title": "Fahrenheit 451",
       "year": 1953,
       "medium": "Novel",
@@ -9329,6 +9345,22 @@
       "watch_url": null
     },
     {
+      "title": "Godmonster of Indian Flats",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Fredric Hobbs",
+      "raw_score": 1.79,
+      "total_ratings": 28,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Survival, Ecology",
+      "image_filename": "Godmonster_of_Indian_Flats_1973.jpg",
+      "pitch": "In a Nevada mining town, a rancher discovers a mutated sheep embryo that grows into an eight-foot monster. Meanwhile, a Black businessman from the East Coast attempts to purchase land for development, only to be thwarted by a mayor who wants to preserve the town for Old West tourism. The monster escapes and terrorizes the town while racial tensions escalate.",
+      "created_at": "2026-06-23 09:27:48",
+      "watch_url": null
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -10587,7 +10619,7 @@
       "mood": "Tense",
       "sub_genres": "Dystopia, Science-Fantasy",
       "topics": "AI, Robots, Survival, Rebellion, Transhumanism",
-      "image_filename": null,
+      "image_filename": "I_Am_Mother_2019.jpg",
       "pitch": "In an underground bunker after humanity's extinction, Daughter is raised by Mother\u2014an AI designed to repopulate Earth. When a wounded stranger arrives claiming robots hunt humans, Daughter must choose between her Mother's version of truth and the chaotic world outside.",
       "created_at": "2026-06-23 09:03:52",
       "watch_url": null
@@ -13947,7 +13979,7 @@
       "mood": "Melancholic",
       "sub_genres": "Dystopia, Science-Fantasy",
       "topics": "Apocalypse, Family, Grief, Survival",
-      "image_filename": null,
+      "image_filename": "Melancholia_2011.jpg",
       "pitch": "As a rogue planet collides with Earth, two sisters\u2014one newly married, one struggling\u2014must confront their fractured relationship in the face of extinction. A devastating, visually stunning meditation on family and the end of the world.",
       "created_at": "2026-06-23 09:05:28",
       "watch_url": null
@@ -25537,6 +25569,22 @@
       "watch_url": "https://archive.org/details/iron-giant-vhs"
     },
     {
+      "title": "The Iron Superman",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Kwok Ting-Hung",
+      "raw_score": 2.9,
+      "total_ratings": 28,
+      "origin": "Taiwan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Survival, Space",
+      "image_filename": "The_Iron_Superman_1975.jpg",
+      "pitch": "In 1970s Taiwan, a young pilot named Yan Tien-Yu inherits a giant robot called Mazinger to battle the evil Dr. Hell and his Robot Empire. Based on the Japanese series Super Robot Mach Baron, the film re-edits Japanese footage with new Taiwanese scenes, following the classic hero's journey of revenge and defense.",
+      "created_at": "2026-06-23 09:27:36",
+      "watch_url": null
+    },
+    {
       "title": "The Irresponsible Captain Tylor",
       "year": 1993,
       "medium": "Anime",
@@ -27535,6 +27583,22 @@
       "pitch": "A rescue expedition to Antarctica leads Major Ben McBride to the hidden island of Caprona, a lost world where dinosaurs and primitive barbarian tribes coexist. This 1977 British adventure fantasy, based on Edgar Rice Burroughs' novel, continues the story from The Land That Time Forgot.",
       "created_at": "2026-06-13 20:57:26",
       "watch_url": "https://archive.org/details/the-people-that-time-forgot_202603"
+    },
+    {
+      "title": "The People Who Own the Dark",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Le\u00f3n Klimovsky",
+      "raw_score": 2.43,
+      "total_ratings": 29,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Class Struggle, Rebellion",
+      "image_filename": "The_People_Who_Own_the_Dark_1976.jpg",
+      "pitch": "In post-apocalyptic Spain, wealthy survivors party in a countryside mansion-brothel while the outside world suffers from nuclear fallout. Their privileged bubble is disrupted when blinded townsfolk\u2014victims of the radiation\u2014attack. The elites must confront what they've escaped.",
+      "created_at": "2026-06-23 09:28:06",
+      "watch_url": null
     },
     {
       "title": "The Perfect Woman",
@@ -30785,6 +30849,22 @@
       "watch_url": null
     },
     {
+      "title": "Tribulation",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "Peter Gerretson",
+      "raw_score": 2.29,
+      "total_ratings": 12,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Religion, Survival, Authoritarianism",
+      "image_filename": "Tribulation_2000.jpg",
+      "pitch": "In a world where Christians have vanished in the Rapture, police detective Tom Canboro awakens from a coma to find society transformed\u201495% now worships the Antichrist Franco Macalousso, and those refusing the 666 mark are beheaded. Canboro must rescue his family while resistance leader Helen Hannah exposes the Antichrist.",
+      "created_at": "2026-06-23 09:27:14",
+      "watch_url": null
+    },
+    {
       "title": "Tron",
       "year": 1982,
       "medium": "Film",
@@ -32817,5 +32897,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2051
+  "count": 2056
 }

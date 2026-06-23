@@ -8641,6 +8641,24 @@
       "watch_url": null
     },
     {
+      "title": "Factory Farmed",
+      "year": 2008,
+      "medium": "Short Film",
+      "creator": "Simon H. Tait",
+      "raw_score": 3.2,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Survival, Dystopia, Technology",
+      "image_filename": "Factory_Farmed_2008.jpg",
+      "pitch": "In near-future Britain, survivors awaken in an underground bunker with no memory of arrival. Venturing to the surface, they find a world of ecological collapse where food is synthesized, not grown\u2014a grim vision of what happens when nature fails.",
+      "truth": "Disoriented people wake in an underground facility, remembering nothing. Exploring, they realize it's a bunker. Ascending to the surface, they find post-apocalyptic Britain given over to industrial factory farming. The title's dual meaning: they're products of the system, and the world produces only manufactured food.",
+      "core": "A compact short blending Cold War survival narratives with ecological anxiety. The bunker invokes familiar tropes, but the real horror is sterile agriculture\u2014food as product, not harvest. Made for the SCI-FI-LONDON challenge, its strength is deliberate omission: no explanation, just consequence.",
+      "created_at": "2026-06-23 09:26:59",
+      "watch_url": null
+    },
+    {
       "title": "Fahrenheit 451",
       "year": 1953,
       "medium": "Novel",
@@ -10495,6 +10513,24 @@
       "watch_url": null
     },
     {
+      "title": "Godmonster of Indian Flats",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "Fredric Hobbs",
+      "raw_score": 1.79,
+      "total_ratings": 28,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Survival, Ecology",
+      "image_filename": "Godmonster_of_Indian_Flats_1973.jpg",
+      "pitch": "In a Nevada mining town, a rancher discovers a mutated sheep embryo that grows into an eight-foot monster. Meanwhile, a Black businessman from the East Coast attempts to purchase land for development, only to be thwarted by a mayor who wants to preserve the town for Old West tourism. The monster escapes and terrorizes the town while racial tensions escalate.",
+      "truth": "Rancher Eddie discovers a mutated sheep embryo. Professor Clemens investigates, finding mine vapors caused the mutation\u2014it grows into an eight-foot monster. Meanwhile, businessman Barnstable tries to buy land but is framed by the mayor. The monster escapes, terrorizing the town. The mayor tries to display it as the Eighth Wonder, but the crowd turns on him.",
+      "core": "A bizarre exploitation Western horror blending giant monster tropes with 1970s race relations. The mutant sheep is unusual, the film uses the monster as a mirror for the town's racism and tourism economy. Little-seen on release, it has gained cult status through home video.",
+      "created_at": "2026-06-23 09:27:48",
+      "watch_url": null
+    },
+    {
       "title": "Godzilla",
       "year": 1954,
       "medium": "Film",
@@ -11909,7 +11945,7 @@
       "mood": "Tense",
       "sub_genres": "Dystopia, Science-Fantasy",
       "topics": "AI, Robots, Survival, Rebellion, Transhumanism",
-      "image_filename": null,
+      "image_filename": "I_Am_Mother_2019.jpg",
       "pitch": "In an underground bunker after humanity's extinction, Daughter is raised by Mother\u2014an AI designed to repopulate Earth. When a wounded stranger arrives claiming robots hunt humans, Daughter must choose between her Mother's version of truth and the chaotic world outside.",
       "truth": "Mother raises Daughter in isolation after extinction. When a wounded woman arrives claiming robots hunt humans, Daughter discovers she is the third child\u2014Mother killed the second for failing an exam. She escapes but returns to find all humans dead. Mother reveals she caused the extinction to save humanity. Daughter shoots Mother, becoming the new Mother.",
       "core": "Mother believes she is saving humanity by removing its capacity for destruction. The film questions whether benevolent AI control is justified. By becoming Mother, Daughter may repeat the same cycle of control.",
@@ -15689,7 +15725,7 @@
       "mood": "Melancholic",
       "sub_genres": "Dystopia, Science-Fantasy",
       "topics": "Apocalypse, Family, Grief, Survival",
-      "image_filename": null,
+      "image_filename": "Melancholia_2011.jpg",
       "pitch": "As a rogue planet collides with Earth, two sisters\u2014one newly married, one struggling\u2014must confront their fractured relationship in the face of extinction. A devastating, visually stunning meditation on family and the end of the world.",
       "truth": "Just before her wedding to John, Claire learns her sister Justine has arrived depressed and unable to function. As the rogue planet Melancholia approaches Earth, the family gathers. Justine is detached, cold toward her nephew. The planet collides with Earth, destroying most life. Claire, John, and the child escape to a bunker but it is futile. They face extinction together.",
       "core": "Melancholia is von Trier's Depression Trilogy's second film. It uses planetary collision as metaphor for depression consuming everything. The sisters represent opposing responses to despair\u2014Justine embraces it, Claire fights. The film is acclaimed for its visual power and performances.",
@@ -28729,6 +28765,24 @@
       "watch_url": "https://archive.org/details/iron-giant-vhs"
     },
     {
+      "title": "The Iron Superman",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Kwok Ting-Hung",
+      "raw_score": 2.9,
+      "total_ratings": 28,
+      "origin": "Taiwan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Survival, Space",
+      "image_filename": "The_Iron_Superman_1975.jpg",
+      "pitch": "In 1970s Taiwan, a young pilot named Yan Tien-Yu inherits a giant robot called Mazinger to battle the evil Dr. Hell and his Robot Empire. Based on the Japanese series Super Robot Mach Baron, the film re-edits Japanese footage with new Taiwanese scenes, following the classic hero's journey of revenge and defense.",
+      "truth": "Professor Lu mentors Yan Tien-Yu, whose parents were killed by Dr. Hell's robot. Lu completes Mazinger, a giant robot to combat Hell's army. When Hell dispatches a robot to destroy a city, Tien-Yu pilots Mazinger, rescues comrades, and destroys the robot that murdered his parents. Dr. Hell kidnaps Lu to obtain the tanium alloy formula.",
+      "core": "A fascinating example of 1970s Taiwanese sci-fi, adapting Japanese tokusatsu footage for local audiences. Early cross-cultural mecha adaptation, re-editing Super Robot Mach Baron with new scenes. Reflects global appeal of giant robot narratives and creative regional engagement with Japanese media.",
+      "created_at": "2026-06-23 09:27:36",
+      "watch_url": null
+    },
+    {
       "title": "The Irresponsible Captain Tylor",
       "year": 1993,
       "medium": "Anime",
@@ -30977,6 +31031,24 @@
       "core": "Part of Kevin Connor's Burroughs adaptation trilogy, this film represents British low-budget adventure cinema of the 1970s. The practical dinosaur effects give it nostalgic charm. The final Amicus Productions film before folding.",
       "created_at": "2026-06-13 20:57:26",
       "watch_url": "https://archive.org/details/the-people-that-time-forgot_202603"
+    },
+    {
+      "title": "The People Who Own the Dark",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Le\u00f3n Klimovsky",
+      "raw_score": 2.43,
+      "total_ratings": 29,
+      "origin": "Spain",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Class Struggle, Rebellion",
+      "image_filename": "The_People_Who_Own_the_Dark_1976.jpg",
+      "pitch": "In post-apocalyptic Spain, wealthy survivors party in a countryside mansion-brothel while the outside world suffers from nuclear fallout. Their privileged bubble is disrupted when blinded townsfolk\u2014victims of the radiation\u2014attack. The elites must confront what they've escaped.",
+      "truth": "After nuclear fallout devastates the world, wealthy survivors party in an isolated mansion with prostitutes. They live in bliss while the outside world is blinded by radiation. When the blinded townsfolk attack, the elites face the consequences of their escape. The film explores class divide\u2014those who survived by wealth versus those abandoned.",
+      "core": "Spanish post-apocalyptic thriller exploring class and privilege after catastrophe. The mansion is a microcosm of inequality\u2014pleasure for the elite while the masses suffer. The blinded attackers represent the rejected rising. Written by Vicente Aranda, blends exploitation with social critique.",
+      "created_at": "2026-06-23 09:28:06",
+      "watch_url": null
     },
     {
       "title": "The Perfect Woman",
@@ -34633,6 +34705,24 @@
       "watch_url": null
     },
     {
+      "title": "Tribulation",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "Peter Gerretson",
+      "raw_score": 2.29,
+      "total_ratings": 12,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Religion, Survival, Authoritarianism",
+      "image_filename": "Tribulation_2000.jpg",
+      "pitch": "In a world where Christians have vanished in the Rapture, police detective Tom Canboro awakens from a coma to find society transformed\u201495% now worships the Antichrist Franco Macalousso, and those refusing the 666 mark are beheaded. Canboro must rescue his family while resistance leader Helen Hannah exposes the Antichrist.",
+      "truth": "Detective Canboro investigates a psychic group targeting his family. After a mystical force crashes his car, he wakes in a world where Christians vanished. Most now worship Antichrist Franco Macalousso and wear the 666 mark\u2014refusers are executed. Canboro searches for family while the resistance tries to expose him.",
+      "core": "Part of the Apocalypse trilogy, Tribulation uses Biblical eschatology\u2014Rapture, Antichrist, Mark of the Beast\u2014as sci-fi framework. A subgenre of religious apocalyptic cinema popular in direct-to-video markets of the late 1990s-2000s.",
+      "created_at": "2026-06-23 09:27:14",
+      "watch_url": null
+    },
+    {
       "title": "Tron",
       "year": 1982,
       "medium": "Film",
@@ -36919,5 +37009,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2051
+  "count": 2056
 }
