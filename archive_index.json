@@ -3665,6 +3665,22 @@
       "watch_url": "https://archive.org/details/black-mirror-bandersnatch-netflix-emmy-fyc.-7z"
     },
     {
+      "title": "Black Night",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 21,
+      "origin": "France",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Isolation",
+      "image_filename": "Black_Night_2005.jpg",
+      "pitch": "In a world overtaken by eternal darkness, an entomologist abandons his structured life to embrace the unknown.",
+      "created_at": "2026-06-23 21:05:43",
+      "watch_url": null
+    },
+    {
       "title": "Black Oxen",
       "year": 1923,
       "medium": "Film",
@@ -4927,6 +4943,22 @@
       "pitch": "Chronopolis is a 1982 experimental stop-motion science fiction film directed by Polish animator Piotr Kamler, his only full-length work. The film tells the story of a gargantuan city floating in the sky, colonized by powerful immortals who have grown jaded and bored with eternal life. These beings manipulate elements of time itself, playing with atomic particles and electricity while monotonously constructing bizarre objects\u2014all while waiting for \"the ultimate gift\" to arrive in their hands. With music by renowned composer Luc Ferrari and narration by Michael Lonsdale (in the original version), the film is a hypnotic, meditative exploration of time, immortality, and the search for meaning in eternity.",
       "created_at": "2026-03-01 11:23:14",
       "watch_url": "https://archive.org/details/chronopolis_1982"
+    },
+    {
+      "title": "Chrysalis",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Julien Leclercq",
+      "raw_score": 2.63,
+      "total_ratings": 89,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Noir",
+      "topics": "Memory, Surveillance, Identity",
+      "image_filename": "Chrysalis_2007.jpg",
+      "pitch": "In near-future Paris, a police lieutenant loses his wife and memories to a secret military memory-erasing technology called Chrysalis. When a young woman with the same marks appears, he must recover his past.",
+      "created_at": "2026-06-23 21:05:37",
+      "watch_url": null
     },
     {
       "title": "Ch\u014djin Sentai Jetman",
@@ -6591,6 +6623,22 @@
       "pitch": "Kei and Yuri are junior agents in the WWWA, paired as the Lovely Angels. Tasked with world-saving missions, they cause catastrophic collateral damage. A comedy of cosmic incompetence.",
       "created_at": "2026-06-16 22:49:54",
       "watch_url": "https://archive.org/details/dirty-pair-flash"
+    },
+    {
+      "title": "Dirty Pair: Affair on Nolandia",
+      "year": 1985,
+      "medium": "Anime Film",
+      "creator": "Haruka Takachiho",
+      "raw_score": 3.55,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Exploration, AI, Robots",
+      "image_filename": "Dirty_Pair_Affair_on_Nolandia_1985.jpg",
+      "pitch": "Kei and Yuri, the Lovely Angels trouble consultants, are dispatched to the planet Ookbar to find a missing girl. They trace her to the forest of Nolandia, but bureaucratic obstacles and a rampaging killer robot stand in their way.",
+      "created_at": "2026-06-23 21:06:20",
+      "watch_url": null
     },
     {
       "title": "Dirty Pair: Flight 005 Conspiracy",
@@ -15073,6 +15121,22 @@
       "watch_url": null
     },
     {
+      "title": "Monstrosity",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.25,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Sentience, Rebellion",
+      "image_filename": "Monstrosity_1987.jpg",
+      "pitch": "A young man whose girlfriend was killed by street thugs builds a Golem programmed to seek revenge. But the creature discovers it wants something else: love and acceptance in a world that fears it.",
+      "created_at": "2026-06-23 21:05:52",
+      "watch_url": null
+    },
+    {
       "title": "Moon Child",
       "year": 2003,
       "medium": "Film",
@@ -17726,6 +17790,22 @@
       "image_filename": "Polygon_1977.jpg",
       "pitch": "Polygon (also known as Proving Ground) is a 1977 Soviet animated science fiction short film directed by Anatoly Petrov and produced by the legendary Soyuzmultfilm studio. Based on a story by Sever Gansovsky, this 10-minute animated short uses a distinctive animation technique called \"photographica\" - featuring two celluloid layers for each character with special color schemes and deliberately out-of-focus layering to create three-dimensional depth without CGI. The film presents a dark anti-war parable set in a not-too-distant future where a grieving professor invents a mind-reading automated tank capable of detecting human hostility - with devastating consequences. The film won First Prize at the Yerevan Film Festival (1978) and was officially selected for the Oberhausen Film Festival (1979).",
       "created_at": "2026-03-01 20:26:42",
+      "watch_url": null
+    },
+    {
+      "title": "Possibility of an Island",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Michel Houellebecq",
+      "raw_score": 2.2,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Sentience, Isolation, Love",
+      "image_filename": "Possibility_of_an_Island_2008.jpg",
+      "pitch": "Daniel1, a reclusive author, becomes obsessed with Neo-Life, a TV show where wealthy clients have their consciousness cloned to live on utopian islands. When producers create a clone of him, he must confront what it means to be an individual.",
+      "created_at": "2026-06-23 21:05:24",
       "watch_url": null
     },
     {
@@ -22318,6 +22398,22 @@
       "image_filename": "Technical_Error_1950.jpg",
       "pitch": "In 1950s England, the world's first superconducting power plant has been built, and technician Richard Nelson becomes the victim of a bizarre industrial accident. During maintenance work inside the massive generator, a short-circuit causes Nelson to be \"laterally inverted\" through a fourth spatial dimension\u2014effectively mirror-reversed. He returns home wearing his wedding ring on the wrong hand, finding his food inedible and his world fundamentally altered. As scientists scramble to understand what happened and develop a way to reverse the process, Nelson faces a slow starvation because normal food cannot nourish his mirror-flipped biology. The story explores the physical and existential horror of being fundamentally out of step with reality itself.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Techno Police 21C",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "Masashi Matsumoto",
+      "raw_score": 3.17,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk, Space-Opera",
+      "topics": "VR, Robots, Surveillance",
+      "image_filename": "Techno_Police_21C_1982.jpg",
+      "pitch": "In 21st century Centinel City, robot police squads chase a hijacked prototype tank. Ken, a hotshot motorcycle cop, joins the elite force and learns to work with his robot partner Blader to stop a foreign-backed conspiracy.",
+      "created_at": "2026-06-23 21:06:14",
       "watch_url": null
     },
     {
@@ -33921,5 +34017,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2120
+  "count": 2126
 }

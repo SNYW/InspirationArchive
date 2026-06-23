@@ -4123,6 +4123,24 @@
       "watch_url": "https://archive.org/details/black-mirror-bandersnatch-netflix-emmy-fyc.-7z"
     },
     {
+      "title": "Black Night",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 21,
+      "origin": "France",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Exploration, Isolation",
+      "image_filename": "Black_Night_2005.jpg",
+      "pitch": "In a world overtaken by eternal darkness, an entomologist abandons his structured life to embrace the unknown.",
+      "truth": "A buttoned-down entomologist lives in a world of eternal darkness. He abandons his safe, predictable existence to explore what lies beyond the shadows.",
+      "core": "A brief, eerie meditation on breaking free from routine to embrace the unknown. Minimalist sci-fi with a poetic touch.",
+      "created_at": "2026-06-23 21:05:43",
+      "watch_url": null
+    },
+    {
       "title": "Black Oxen",
       "year": 1923,
       "medium": "Film",
@@ -5543,6 +5561,24 @@
       "core": "**Immortality as Curse:** Chronopolis presents immortality not as a gift but as a profound curse\u2014the eternal repetition of existence without change or end. The immortals have exhausted all possibilities, leaving them in a state of absolute boredom that borders on suffering. This themes echoes philosophical questions about the value of mortality and whether endless life would truly be desirable.\n\n**Time and Its Manipulation:** The film's title combines \"chrono\" (time) and \"polis\" (city), suggesting time itself as the domain these beings inhabit. They don't merely live in time\u2014they manipulate it, play with it, attempt to master it. Yet for all their power over temporal elements, they remain trapped in their own eternal present.\n\n**Experimental Form as Content:** Kamler's choice of stop-motion animation perfectly embodies the film's themes. The jerky, deliberate movement of the animation creates a sense of time passing differently\u2014each frame is a small eternity, yet they flow together into something larger. The experimental approach also reflects the film's rejection of traditional narrative in favor of atmospheric, meditative exploration.\n\n**The Quest for Meaning:** What makes Chronopolis most poignant is its exploration of existential purpose. The immortals have everything except what they need: a reason to continue. Their\u7b49\u5f85 for \"the ultimate gift\" is a search for meaning that never concludes\u2014a perfect metaphor for the human condition condensed into immortal form.\n\nThe film won \"Best Children's Film\" at Fantafestival in 1982 and \"Critics' Award - Special Mention\" at Fantasporto. It was also shown out of competition at the 1982 Cannes Film Festival, demonstrating the international recognition for this unique work of animated science fiction.",
       "created_at": "2026-03-01 11:23:14",
       "watch_url": "https://archive.org/details/chronopolis_1982"
+    },
+    {
+      "title": "Chrysalis",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Julien Leclercq",
+      "raw_score": 2.63,
+      "total_ratings": 89,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Noir",
+      "topics": "Memory, Surveillance, Identity",
+      "image_filename": "Chrysalis_2007.jpg",
+      "pitch": "In near-future Paris, a police lieutenant loses his wife and memories to a secret military memory-erasing technology called Chrysalis. When a young woman with the same marks appears, he must recover his past.",
+      "truth": "David loses his wife Sarah, then his memories to Chrysalis machine. He discovers Elena was kidnapped to replace Br\u00fcckens dead daughter. He kills the trafficker and protects Elena. A conspiracy is exposed.",
+      "core": "Homage to Eyes Without a Face, blending cyberpunk and film noir. Memory defines identity - erase it and who remains? The cloned Elena raises copy vs original questions.",
+      "created_at": "2026-06-23 21:05:37",
+      "watch_url": null
     },
     {
       "title": "Ch\u014djin Sentai Jetman",
@@ -7415,6 +7451,24 @@
       "core": "A parody of sci-fi action tropes, where the heroes are well-meaning but disaster-prone. The \"Dirty Pair\" name comes from the damage they cause.",
       "created_at": "2026-06-16 22:49:54",
       "watch_url": "https://archive.org/details/dirty-pair-flash"
+    },
+    {
+      "title": "Dirty Pair: Affair on Nolandia",
+      "year": 1985,
+      "medium": "Anime Film",
+      "creator": "Haruka Takachiho",
+      "raw_score": 3.55,
+      "total_ratings": 11,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Exploration, AI, Robots",
+      "image_filename": "Dirty_Pair_Affair_on_Nolandia_1985.jpg",
+      "pitch": "Kei and Yuri, the Lovely Angels trouble consultants, are dispatched to the planet Ookbar to find a missing girl. They trace her to the forest of Nolandia, but bureaucratic obstacles and a rampaging killer robot stand in their way.",
+      "truth": "The Lovely Angels search for Missinie in Nolandia forest. The unhelpful Chief of Security delays them. Kei and Yuri bypass bureaucracy, fight a killer robot, and locate the missing girl on the alien planet.",
+      "core": "Part of the Dirty Pair franchise known for girls-with-guns action and comedic destruction. The film showcases the duo's chemistry and willingness to cause collateral damage while completing missions.",
+      "created_at": "2026-06-23 21:06:20",
+      "watch_url": null
     },
     {
       "title": "Dirty Pair: Flight 005 Conspiracy",
@@ -16957,6 +17011,24 @@
       "watch_url": null
     },
     {
+      "title": "Monstrosity",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.25,
+      "total_ratings": 10,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Sentience, Rebellion",
+      "image_filename": "Monstrosity_1987.jpg",
+      "pitch": "A young man whose girlfriend was killed by street thugs builds a Golem programmed to seek revenge. But the creature discovers it wants something else: love and acceptance in a world that fears it.",
+      "truth": "A man creates a Golem from clay and programming to kill his girlfriend's killers. The creature completes its mission but then struggles with identity and the desire for connection, not violence.",
+      "core": "A low-budget horror exploring creation and purpose. The Golem is a metaphor for any outsider seeking belonging.",
+      "created_at": "2026-06-23 21:05:52",
+      "watch_url": null
+    },
+    {
       "title": "Moon Child",
       "year": 2003,
       "medium": "Film",
@@ -19942,6 +20014,24 @@
       "truth": "In the not-too-distant future, a professor from a major military power has lost his son - a paratrooper killed during warfare. Consumed by grief and revenge, he devotes his scientific expertise to creating an ultimate weapon: an automated tank equipped with mind-reading capabilities that can detect feelings of hostility and fear in humans. The tank's AI allows it to identify and eliminate anyone who harbors aggressive thoughts.\n\nThe professor's revenge succeeds beyond his expectations - the tank destroys several generals responsible for sending his son to die. However, the professor himself soon becomes a victim of his own creation. As he contemplates the consequences of his actions and feels guilt, fear, and anger, the tank turns on him. The film ends with an open conclusion, leaving the professor's fate ambiguous but suggesting he too has fallen victim to the weapon he created.\n\nThe animation features faces modeled on famous celebrities of the era including Ringo Starr, Jean Gabin, Paul Newman, Yul Brynner, and Mel Ferrer. The film's musical theme is an instrumental arrangement of \"El Bimbo\" by French euro disco group Bimbo Jet.",
       "core": "**The Horror of Automated Violence:** The film presents a chilling vision of weapons technology that operates without human judgment. The mind-reading tank represents the ultimate dehumanization of warfare - a system that judges people based on their thoughts rather than their actions. The professor's invention turns soldiers into potential targets and creates a world where any expression of anger or fear becomes dangerous.\n\n**Revenge as Self-Destruction:** The professor's quest for vengeance leads inexorably to his own destruction. The film suggests that the military mindset that created the system - the willingness to use any means necessary to achieve victory - ultimately consumes even those who wield it. His grief transforms him into exactly the kind of threat his own creation was designed to eliminate.\n\n**The Cycle of Violence:** By creating a weapon that responds to hostility, the professor ensures that any resistance or even emotional response will be met with force. The system perpetuates endless conflict - anyone who mourns, resents, or fights back becomes a target. This creates an eternal cycle where the instrument of revenge becomes an instrument of perpetual war.\n\n**Animation as Art Form:** The innovative photographica technique demonstrates how Soviet animators achieved remarkable visual depth and dynamism without any computer assistance. The artistic choices - including celebrity caricatures and the distinctive visual style - add layers of meaning and cultural reference that reward close analysis.",
       "created_at": "2026-03-01 20:26:42",
+      "watch_url": null
+    },
+    {
+      "title": "Possibility of an Island",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Michel Houellebecq",
+      "raw_score": 2.2,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Sentience, Isolation, Love",
+      "image_filename": "Possibility_of_an_Island_2008.jpg",
+      "pitch": "Daniel1, a reclusive author, becomes obsessed with Neo-Life, a TV show where wealthy clients have their consciousness cloned to live on utopian islands. When producers create a clone of him, he must confront what it means to be an individual.",
+      "truth": "Daniel1 lives as a recluse, fixated on Neo-Life where cloned consciousnesses inhabit perfect islands. He gets a clone, Daniel2. Both fall in love with journalist Esther, forcing them to question if their feelings are authentic. Neither finds true happiness.",
+      "core": "Houellebecq applies his pessimistic philosophy to sci-fi, questioning identity and whether consciousness can be replicated. The Neo-Life clones represent perfect but hollow existence - true humanity requires imperfection and mortality.",
+      "created_at": "2026-06-23 21:05:24",
       "watch_url": null
     },
     {
@@ -25108,6 +25198,24 @@
       "truth": "Richard Nelson, a technician at Britain's first superconducting power plant, is working inside the disassembled generator during a maintenance period when a short-circuit occurs. The accident has a miraculous and terrifying result: Nelson is pushed through a fourth spatial dimension and returns laterally inverted\u2014completely mirror-reversed.\n\nThe implications of his condition are immediately dire. His wedding ring now sits on the wrong hand. Written text appears backwards to him. His coins and technical diary have been affected. Most critically, he begins to starve because biological molecules are chiral\u2014they have a specific \"handedness\" that his reversed body can no longer process. The chemistry that sustains normal human life is now poison to him.\n\nProfessor Vandenburg, a chemist, attempts to solve this problem by synthesizing mirror-inverted versions of essential nutrients. This buys Nelson time, but the solution is temporary and increasingly difficult to maintain.\n\nRalph Hughes, the station's chief physicist, investigates the incident and determines that Nelson has indeed traveled through a fourth spatial dimension. His curious secretary, McPherson, suggests that Einstein had found this fourth dimension\u2014time\u2014but Hughes dismisses this theory.\n\nThe power company's board of directors pressure Nelson to participate in an experiment to recreate the accident and potentially \"re-invert\" him. However, as the team prepares to replicate the short-circuit, numerous technical parameters must be precisely matched. No one is certain they can successfully reverse the process, and there's grave uncertainty about whether they can continue meeting Nelson's unique dietary needs indefinitely.\n\nDuring the second experiment, Nelson disappears. The rotor is hastily reinstalled to restore power to the grid. The assistant observes that there \"didn't seem to be a person in the generator immediately after the accident.\"\n\nIn the story's haunting conclusion, Hughes realizes that the assistant's observation proves Nelson had momentarily disappeared during the first inversion as well. This leads him to conclude that Nelson has disappeared from normal time entirely\u2014but could re-materialize inside the running generator at any moment. Hughes rushes to contact the power station but arrives too late. In the distance, a giant cloud of destruction rises above the site.",
       "core": "\"Technical Error\" is a masterful exploration of chirality\u2014the property of asymmetry in molecular structures\u2014and its implications for human existence. Clarke, drawing on his own scientific background, extrapolates a genuinely horrifying scenario from real physics: if a human being were truly mirror-reversed at the molecular level, they could not survive on normal food because the chemistry of life is fundamentally \"handed.\"\n\nThe story functions on multiple levels. On the surface, it's a gripping tale of scientific accident and its consequences. But Clarke uses this premise to meditate on humanity's place in a universe that operates according to precise, unbreakable laws. Nelson isn't a victim of malfunctioning technology\u2014he's a victim of the universe's fundamental structure.\n\nThe horror is existential rather than violent. Nelson isn't dying in a dramatic way; he's slowly starving because the universe itself has no place for him. His reverse-chirality body represents a form of cosmic exile\u2014the inability to participate in the basic chemistry that defines organic life.\n\nThe ending is deliberately ambiguous and devastating. Hughes's realization that Nelson could appear at any moment inside a functioning generator creates unbearable tension, and the destruction cloud suggests the worst: Nelson materialized inside the running machine, resulting in catastrophe. The story implies that our three-dimensional existence is fragile, and that higher dimensions\u2014while theoretically knowable\u2014may be utterly hostile to human life.\n\nClarke would later explore similar themes in works like \"The Nine Billion Names of God,\" but \"Technical Error\" remains one of his most scientifically grounded and unsettling short works\u2014a Cold War era meditation on the terrifying indifference of the cosmos to human survival.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Techno Police 21C",
+      "year": 1982,
+      "medium": "Anime Film",
+      "creator": "Masashi Matsumoto",
+      "raw_score": 3.17,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Cyberpunk, Space-Opera",
+      "topics": "VR, Robots, Surveillance",
+      "image_filename": "Techno_Police_21C_1982.jpg",
+      "pitch": "In 21st century Centinel City, robot police squads chase a hijacked prototype tank. Ken, a hotshot motorcycle cop, joins the elite force and learns to work with his robot partner Blader to stop a foreign-backed conspiracy.",
+      "truth": "Ken, a highway patrolman, is recruited to Centinel City's robot police force. His team - Eleanor with robot Scanny and Gora with robot Vigobus - must recover a hijacked MBT-99 tank carrying missiles. The chase leads to a bank robbery and finally a pier where the tank rendezvous with an enemy submarine.",
+      "core": "Joe Hisaishi's first score and Yoshitaka Amano character designs anchor this mecha police anime. An early example of cop-drama with robots, exploring human-machine partnership. The flat comedic tone contrasts with darker 80s anime.",
+      "created_at": "2026-06-23 21:06:14",
       "watch_url": null
     },
     {
@@ -38161,5 +38269,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2120
+  "count": 2126
 }
