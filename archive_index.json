@@ -31137,6 +31137,22 @@
       "watch_url": null
     },
     {
+      "title": "They Call Me Jeeg",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Gabriele Mainetti",
+      "raw_score": 3.7,
+      "total_ratings": 2586,
+      "origin": "Italy",
+      "mood": "Gritty",
+      "sub_genres": "Superhero, Cyberpunk",
+      "topics": "Superpowers, Crime, Identity, Redemption",
+      "image_filename": "They_Call_Me_Jeeg_2015.jpg",
+      "pitch": "Italian superhero film where a small-time crook gains superhuman strength after exposure to radioactive waste. A tribute to 1970s anime Steel Jeeg, filtered through Roman crime cinema. The emotionally fragile Alessia sees Enzo as her real-life hero.",
+      "created_at": "2026-06-23 23:35:30",
+      "watch_url": null
+    },
+    {
       "title": "They Came from Beyond Space",
       "year": 1967,
       "medium": "Film",
@@ -34145,5 +34161,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2134
+  "count": 2135
 }
