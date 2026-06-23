@@ -4951,6 +4951,24 @@
       "watch_url": "https://archive.org/details/captain-scarlet-and-the-mysterons-1967"
     },
     {
+      "title": "Car Cemetery",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Fr\u00e9d\u00e9ric Diefenthal",
+      "raw_score": 2.54,
+      "total_ratings": 12,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Survival, Fantasy, Isolation",
+      "image_filename": "car_cemetery_1983.jpg",
+      "pitch": "In a vast post-apocalyptic junkyard, refugees from authority hide and practice their fantasies without police interference. They are led by Emanou, a messianic figure who promises music rather than salvation. A surreal vision of freedom and decay.",
+      "truth": "The film is set in a post-apocalyptic junkyard where outcasts take refuge from authority. They live freely, practicing fantasies without police intervention. Emanou leads them as a messianic figure offering music and community. The boundaries between freedom and delusion blur.",
+      "core": "A surreal exploration of freedom and marginalization. The junkyard becomes a space of liberation and fantasy, challenging conventional notions of society and authority. Notable for its dreamlike atmosphere and existential themes.",
+      "created_at": "2026-06-23 13:35:30",
+      "watch_url": null
+    },
+    {
       "title": "Cargo",
       "year": 2019,
       "medium": "Film",
@@ -22879,6 +22897,24 @@
       "watch_url": "https://archive.org/details/space-adventure-cobra-episodio-1"
     },
     {
+      "title": "Space Amoeba",
+      "year": 1970,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.22,
+      "total_ratings": 55,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Monsters, Survival",
+      "image_filename": "space_amoeba_1970.jpg",
+      "pitch": "When a space probe crash-lands on a remote Pacific atoll, alien stowaways emerge and take control of three indigenous creatures\u2014a squid, a crab, and a snapping turtle\u2014transforming them into colossal mutant monsters. The military races to stop the creatures while a young boy and his sister discover an unlikely way to communicate with the invaders. Classic Toho kaiju cinema at its most inventive.",
+      "truth": "Alien refugees from a destroyed world possess a giant squid, crab, and turtle on a Pacific atoll, creating monsters Gezora, Ganime, and Kameba. Military forces fail against the creatures. Two children stranded on the atoll form a telepathic bond with the aliens, convincing them to leave Earth peacefully.",
+      "core": "Distinctive kaiju film featuring three monsters instead of one. Offers a nuanced first contact narrative\u2014aliens as refugees, not conquerors. Predates Alien in portraying sympathetic extraterrestrial refugees.",
+      "created_at": "2026-06-23 13:34:37",
+      "watch_url": null
+    },
+    {
       "title": "Space Battleship Yamato",
       "year": 1974,
       "medium": "Anime",
@@ -34885,6 +34921,24 @@
       "watch_url": null
     },
     {
+      "title": "Tintarella di Luna",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Jean-Louis Bournat",
+      "raw_score": 2.65,
+      "total_ratings": 15,
+      "origin": "France",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Survival, Pandemic, Ecology",
+      "image_filename": "tintarella_di_luna_1985.jpg",
+      "pitch": "After a catastrophic volcanic eruption blankets a small village in ash, survivors face a deadly plague and famine. A young woman is forced to trade her body for bread while society collapses around her. Someone watches from the hilltop as humanity descends into darkness.",
+      "truth": "The film presents bleak vignettes in a post-apocalyptic village after a volcanic eruption. The plague spreads, killing survivors while famine devastates those who remain. Charlotte trades with the grocer for food. The film ends with a figure watching from the hilltop as civilization crumbles.",
+      "core": "A stark, minimalist post-apocalyptic drama exploring societal collapse through individual desperation. Notable for unflinching portrayal of how quickly civilization breaks down when resources become scarce.",
+      "created_at": "2026-06-23 13:35:11",
+      "watch_url": null
+    },
+    {
       "title": "Tiong Bahru Social Club",
       "year": 2020,
       "medium": "Film",
@@ -37513,5 +37567,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2084
+  "count": 2087
 }
