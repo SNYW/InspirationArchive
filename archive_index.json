@@ -1313,6 +1313,22 @@
       "watch_url": "https://archive.org/details/turner_video_10771"
     },
     {
+      "title": "Agent for H.A.R.M.",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Gerd Oswald",
+      "raw_score": 2.5,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Spy-Fi, Horror",
+      "topics": "Spy, Weapons, Fungus",
+      "image_filename": "agent_for_harm.jpg",
+      "pitch": "Agent Adam Chance works for H.A.R.M., protecting a Soviet defector who has developed a spore weapon that dissolves human skin on contact. When communist agents kidnap the scientist, Chance must stop them from dusting American crops with deadly spores.",
+      "created_at": "2026-06-23 05:40:45",
+      "watch_url": null
+    },
+    {
       "title": "Ai City",
       "year": 1986,
       "medium": "Anime Film",
@@ -11343,6 +11359,22 @@
       "pitch": "Journey to the Beginning of Time (Czech: Cesta do prav\u011bku) is a 1955 Czechoslovak science fiction adventure film directed by the visionary Karel Zeman, renowned for his innovative special effects that seamlessly blended live-action with stop-motion animation. The film follows four teenage friends\u2014Petr, Ton\u00edk, Jenda, and Jirka\u2014who discover a mysterious cave leading to a \"river of time.\" As they row upstream, they travel progressively backward through geological eras, encountering the prehistoric creatures that once roamed Earth. The film is celebrated for its pioneering techniques, combining 2-D and 3-D models with live-action footage in ways that influenced future filmmakers, including Steven Spielberg, who cited it as an inspiration for Jurassic Park. It won awards at the Venice and Mannheim International Film Festivals and is considered the best Czech science fiction film of all time.",
       "created_at": "2026-02-28 18:45:33",
       "watch_url": "https://archive.org/details/journey-to-the-beginning-of-time-1955-cz"
+    },
+    {
+      "title": "Journey to the Center of Time",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "David L. Hewitt",
+      "raw_score": 3.74,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Time-Travel, Hard-SF",
+      "topics": "Time Travel, Exploration, Paradox",
+      "image_filename": "journey_to_the_center_of_time.jpg",
+      "pitch": "Scientists push time travel beyond safety limits, traveling 5,000 years into the future where aliens prepare to colonize Earth during global war. They must warn humanity while trapped in temporal paradoxes.",
+      "created_at": "2026-06-23 05:40:36",
+      "watch_url": null
     },
     {
       "title": "Journey to the Center of the Earth",
@@ -24913,6 +24945,22 @@
       "watch_url": null
     },
     {
+      "title": "The Human Duplicators",
+      "year": 1965,
+      "medium": "Film",
+      "creator": "Hugo Grimaldi",
+      "raw_score": 3.67,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi, Horror",
+      "topics": "Aliens, Doppelganger, Invasion",
+      "image_filename": "the_human_duplicators.jpg",
+      "pitch": "A gigantic alien arrives to replace humans with android duplicates, part of an intergalactic colonization plan. When the National Intelligence Agency investigates, they discover that top scientists have already been replaced\u2014and their duplicates are nearly indistinguishable.",
+      "created_at": "2026-06-23 05:41:02",
+      "watch_url": null
+    },
+    {
       "title": "The Humanoid",
       "year": 1979,
       "medium": "Film",
@@ -32465,5 +32513,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2029
+  "count": 2032
 }

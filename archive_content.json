@@ -1477,6 +1477,24 @@
       "watch_url": "https://archive.org/details/turner_video_10771"
     },
     {
+      "title": "Agent for H.A.R.M.",
+      "year": 1966,
+      "medium": "Film",
+      "creator": "Gerd Oswald",
+      "raw_score": 2.5,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Spy-Fi, Horror",
+      "topics": "Spy, Weapons, Fungus",
+      "image_filename": "agent_for_harm.jpg",
+      "pitch": "Agent Adam Chance works for H.A.R.M., protecting a Soviet defector who has developed a spore weapon that dissolves human skin on contact. When communist agents kidnap the scientist, Chance must stop them from dusting American crops with deadly spores.",
+      "truth": "Adam Chance protects Dr. Steffanic, a Soviet defector with a spore weapon, at a beach house with his niece Ava. The communists plan to dust American crops with deadly spores. After Steffanic is kidnapped and exposes himself to his own spores in sacrifice, Chance returns and arrests Ava.",
+      "core": "A spy thriller with conspicuous sci-fi elements\u2014the spore weapon anticipates later bioweapon narratives. Intended as a TV pilot but released theatrically, it is an anemic James Bond imitation according to contemporary critics.",
+      "created_at": "2026-06-23 05:40:45",
+      "watch_url": null
+    },
+    {
       "title": "Ai City",
       "year": 1986,
       "medium": "Anime Film",
@@ -12761,6 +12779,24 @@
       "core": "**The Wonder of Scientific Discovery:** The film represents a celebration of paleontology and scientific exploration, bringing to life the prehistoric creatures that existed millions of years ago. Based on the reconstructions of Czech paleo-artist Zden\u011bk Burian, created under the guidance of paleontologist Josef Augusta, the film educates viewers about Earth's ancient inhabitants while entertaining them with adventure.\n\n**Time as a River:** The central metaphor of time as a navigable river\u2014flowing backward into the past\u2014creates a poetic framework for understanding geological time. The boys' journey upstream literally becomes a journey backward through millions of years, making abstract concepts of deep time accessible and tangible to audiences.\n\n**Innovation in Cinema:** Karel Zeman's techniques were groundbreaking for their era. Unlike Hollywood's jerky stop-motion sequences, Zeman developed methods to seamlessly integrate live-action performers with animated elements, filming in real time and using concealed means to animate models. This innovation influenced generations of filmmakers and predated CGI techniques by decades.\n\n**Influence on Future Filmmakers:** Steven Spielberg specifically cited Journey to the Beginning of Time as a film of high quality that influenced his approach to depicting dinosaurs in Jurassic Park. The film's philosophy of showing animals in natural behaviors, as if observed documentary-style, differs from the monster-movie approach and anticipates modern paleontological accuracy.\n\n**Cultural Ambassador:** The film achieved remarkable international success, particularly in East Germany, the United States, and Japan. In New York City alone, it was screened in 96 cinemas\u2014a record for a Czech film that has never been matched. Its inclusion in The Criterion Collection's \"Three Fantastic Journeys by Karel Zeman\" box set in 2020 cements its status as a classic of world cinema.",
       "created_at": "2026-02-28 18:45:33",
       "watch_url": "https://archive.org/details/journey-to-the-beginning-of-time-1955-cz"
+    },
+    {
+      "title": "Journey to the Center of Time",
+      "year": 1967,
+      "medium": "Film",
+      "creator": "David L. Hewitt",
+      "raw_score": 3.74,
+      "total_ratings": 21,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Time-Travel, Hard-SF",
+      "topics": "Time Travel, Exploration, Paradox",
+      "image_filename": "journey_to_the_center_of_time.jpg",
+      "pitch": "Scientists push time travel beyond safety limits, traveling 5,000 years into the future where aliens prepare to colonize Earth during global war. They must warn humanity while trapped in temporal paradoxes.",
+      "truth": "Stanton leads a company whose funding is cut. Scientists push the time machine too far, meet aliens seeking Earth, then destroy another time vessel in self-defense. Overshooting to the dinosaur age, Stanton abandons his team for rubies and dies in a paradox he created. Gordon falls in lava. Mark and Karen become lost in time.",
+      "core": "A meditation on causality and greed. Stanton's self-destruction through temporal paradox questions whether free will exists. The script demonstrates genuine cleverness predating later loop narratives.",
+      "created_at": "2026-06-23 05:40:36",
+      "watch_url": null
     },
     {
       "title": "Journey to the Center of the Earth",
@@ -28027,6 +28063,24 @@
       "watch_url": null
     },
     {
+      "title": "The Human Duplicators",
+      "year": 1965,
+      "medium": "Film",
+      "creator": "Hugo Grimaldi",
+      "raw_score": 3.67,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi, Horror",
+      "topics": "Aliens, Doppelganger, Invasion",
+      "image_filename": "the_human_duplicators.jpg",
+      "pitch": "A gigantic alien arrives to replace humans with android duplicates, part of an intergalactic colonization plan. When the National Intelligence Agency investigates, they discover that top scientists have already been replaced\u2014and their duplicates are nearly indistinguishable.",
+      "truth": "Kolos, a giant alien, arrives to replace humans with androids for Earth takeover. Dr. Munson, an android, goes on a rampage. Agent Glenn Martin investigates and discovers human duplication at Dornheimer's lab. After android Glenn infiltrates NIA, his girlfriend notices his cold behavior. The plan fails when androids are destroyed.",
+      "core": "A low-budget alien invasion film with an effective doppelganger premise. The androids are nearly indistinguishable, raising questions about identity and whether we can trust those closest to us. Notable future casting includes Richard Kiel as the giant alien.",
+      "created_at": "2026-06-23 05:41:02",
+      "watch_url": null
+    },
+    {
       "title": "The Humanoid",
       "year": 1979,
       "medium": "Film",
@@ -36523,5 +36577,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2029
+  "count": 2032
 }
