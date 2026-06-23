@@ -7507,6 +7507,24 @@
       "watch_url": "https://archive.org/details/doctor-bloods-coffin-1961"
     },
     {
+      "title": "Doctor Snuggles",
+      "year": 1981,
+      "medium": "TV Series",
+      "creator": "Jeffrey O'Kelly",
+      "raw_score": 3.43,
+      "total_ratings": 19,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Invention, Magic, Children, Friendship",
+      "image_filename": "Doctor_Snuggles_1981.jpg",
+      "pitch": "A kindly old inventor creates fantastical machines to solve unusual problems - a robot housekeeper, worm-mobile, time machine. Narrated by Peter Ustinov, with two episodes written by Douglas Adams of Hitchhiker's Guide fame.",
+      "truth": "Thirteen half-hour episodes. Doctor Snuggles solves problems through inventions like Mathilda Junkbottom the robot, the shrinking Wormmobile, and Rainbow Machine. He travels by talking pogo-stick umbrella, opposing magician Professor Emerald.",
+      "core": "Notable for Douglas Adams and John Lloyd writing two episodes - an unexpected Hitchhiker's Guide connection. Topcraft Japan handled early episodes in this UK/Netherlands co-production, representing gentle 1980s children's entertainment.",
+      "created_at": "2026-06-23 16:34:12",
+      "watch_url": null
+    },
+    {
       "title": "Domu: A Child's Dream",
       "year": 1980,
       "medium": "Manga",
@@ -32185,6 +32203,24 @@
       "watch_url": null
     },
     {
+      "title": "The Return of the Living Dead",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Dan O'Bannon",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Horror",
+      "topics": "Zombies, Survival, Punk Culture",
+      "image_filename": null,
+      "pitch": "When toxic gas reanimates a corpse in a Louisville warehouse, the zombie talks, demands brains, and can't be killed. Cremation releases the gas into rain that reanimates an entire cemetery. Punk teenagers must survive the night. This 1985 cult classic invented the zombie-comedy genre.",
+      "truth": "Frank releases Trioxin gas at a warehouse, reanimating a cadaver that demands brains. The cremation releases gas into rain that reanimates cemetery corpses. Teens fight zombies all night. Military bombs the area. Freddy and Burt escape.",
+      "core": "First zombie film with speaking zombies who crave brains, first with headshot vulnerability. Punk aesthetic and anti-authority stance. Soundtrack featuring The Cramps brought underground deathrock to mainstream. Cult classic with four sequels.",
+      "created_at": "2026-06-23 16:30:03",
+      "watch_url": null
+    },
+    {
       "title": "The Rhythm of Crime",
       "year": 1981,
       "medium": "Film",
@@ -37819,5 +37855,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2101
+  "count": 2103
 }
