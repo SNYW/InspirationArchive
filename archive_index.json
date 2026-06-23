@@ -5089,6 +5089,22 @@
       "watch_url": null
     },
     {
+      "title": "Connors' War",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "James Allen",
+      "raw_score": 3.0,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Action, Science-Fantasy",
+      "topics": "Revenge, Survival, Redemption",
+      "image_filename": "Connors_War_2006.jpg",
+      "pitch": "A blinded ex-special agent gets his sight back via a serum and must stop a hidden nuke. The cure comes with dependencies that make him controllable. Personal war meets systemic conspiracy.",
+      "created_at": "2026-06-23 19:24:27",
+      "watch_url": null
+    },
+    {
       "title": "Consortium",
       "year": 2014,
       "medium": "Video Game",
@@ -8751,6 +8767,22 @@
       "pitch": "From Morn to Midnight is a groundbreaking German Expressionist silent film that pushes the boundaries of cinematic art to tell the story of a bank cashier whose life unravels after encountering a wealthy woman. Based on Georg Kaiser's 1912 expressionist play, the film unfolds entirely against stark black backdrops with distorted sets, creating a fever-dream atmosphere that predates similar techniques in The Cabinet of Dr. Caligari. The film's radical visual style\u2014featuring spiky title cards, painted shadows, and deliberately artificial sets\u2014makes it one of the most visually experimental works of early cinema. Shot in 1920, it was considered so avant-garde that German theater owners initially refused to release it, and it only found its way to audiences in Japan in 1922.",
       "created_at": "2026-03-05 21:42:27",
       "watch_url": "https://archive.org/details/silent-from-morn-to-midnight"
+    },
+    {
+      "title": "From Other Worlds",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Steven Moran",
+      "raw_score": 2.0,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, First Contact, Romance",
+      "image_filename": "From_Other_Worlds_2004.jpg",
+      "pitch": "A depressed Brooklyn housewife sleepwalks through life until she encounters an alien force in her backyard. This sci-fi comedy turns her mundane existence upside down.",
+      "created_at": "2026-06-23 19:24:38",
+      "watch_url": null
     },
     {
       "title": "From the New World",
@@ -13646,6 +13678,22 @@
       "image_filename": "MDK2_2000.jpg",
       "pitch": "MDK2 is a 2000 third-person shooter developed by BioWare (the renowned studio behind Baldur's Gate and Mass Effect) and published by Interplay Entertainment. A sequel to the 1997 game MDK, it tasks players with controlling three distinct characters\u2014Kurt Hectic, Dr. Fluke Hawkins, and Max the genetically engineered robot dog\u2014each with unique abilities and playstyles. The game begins moments after the original MDK's conclusion, as the heroes discover that Earth's alien invasion was not fully defeated. With his signature chain gun, sniper rifle, and infinite parachute, Kurt must once again don his superhero janitor persona to battle alien forces across various environments. The game stands out for its variety: Kurt's run-and-gun gameplay, Dr. Hawkins' puzzle-solving with his inventory combination system, and Max's heavy weapons approach offer three completely different experiences within one game.",
       "created_at": "2026-03-03 01:50:07",
+      "watch_url": null
+    },
+    {
+      "title": "MTV Reloaded",
+      "year": 2003,
+      "medium": "Short Film",
+      "creator": "MTV",
+      "raw_score": 3.65,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Parody",
+      "topics": "Media, Fame, Satire",
+      "image_filename": "MTV_Reloaded_2003.jpg",
+      "pitch": "A short film parody of The Matrix Reloaded. Justin Timberlake and Seann William Scott navigate the Matrix to fulfill their destiny: hosting the 2003 MTV Movie Awards.",
+      "created_at": "2026-06-23 19:25:00",
       "watch_url": null
     },
     {
@@ -21662,6 +21710,22 @@
       "image_filename": "strayers_chronicle_2015.jpg",
       "pitch": "A gritty sci-fi action film from director Takaki H. Tsurumi. Secret experiments in early 1990s Japan create children with special abilities - some through stress-induced mutations, others through animal-insect hybrid DNA. When the government tries to weaponize these superchildren, they must fight back.",
       "created_at": "2026-06-18 03:12:24",
+      "watch_url": null
+    },
+    {
+      "title": "Street Fighter - Round One - FIGHT!",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "Andrew J. Shaw",
+      "raw_score": 2.3,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Action, Martial-Arts",
+      "topics": "Revenge, Justice, Investigation",
+      "image_filename": "Street_Fighter_Round_One_FIGHT_2009.jpg",
+      "pitch": "A fan film following Ryu and Ken as they investigate the murder of their martial arts master. Their search leads to Japan and encounters with M. Bison's minions.",
+      "created_at": "2026-06-23 19:24:49",
       "watch_url": null
     },
     {
@@ -33841,5 +33905,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2115
+  "count": 2119
 }
