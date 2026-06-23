@@ -225,6 +225,22 @@
       "watch_url": "https://archive.org/details/2019-after-the-fall-of-new-york-1983_202312"
     },
     {
+      "title": "2019: After the Fall of New York",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Sergio Martino",
+      "raw_score": 2.7,
+      "total_ratings": 104,
+      "origin": "Italy",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Sterility, Survival, Rebellion",
+      "image_filename": "2019_After_the_Fall_of_New_York_1983.jpg",
+      "pitch": "In 2019, radiation from WWIII has made all humans sterile. Former soldier Parsifal must infiltrate occupied Manhattan to rescue the last fertile woman on Earth. Italian post-apocalyptic classic.",
+      "created_at": "2026-06-23 04:04:57",
+      "watch_url": null
+    },
+    {
       "title": "2030 \u2013 Aufstand der Alten",
       "year": 2007,
       "medium": "TV Series",
@@ -32369,5 +32385,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2023
+  "count": 2024
 }
