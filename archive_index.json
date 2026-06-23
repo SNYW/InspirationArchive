@@ -13393,6 +13393,22 @@
       "watch_url": null
     },
     {
+      "title": "Loop",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.9,
+      "total_ratings": 12,
+      "origin": "Portugal",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Romance",
+      "topics": "Time-Travel, Love, Loss",
+      "image_filename": "Loop_2019.jpg",
+      "pitch": "Loop is a 2019 Portuguese sci-fi film. After his girlfriend's murder, a physics student becomes obsessed with going back in time to stop the tragedy. After years of isolation, he finds the solution and returns to the past, but he is not the same man.",
+      "created_at": "2026-06-23 15:42:02",
+      "watch_url": null
+    },
+    {
       "title": "Lorelei: The Witch of the Pacific Ocean",
       "year": 2005,
       "medium": "Film",
@@ -15454,6 +15470,22 @@
       "image_filename": "Nabi_2001.jpg",
       "pitch": "In a near-future Korea plagued by acid rain, lead poisoning, and a mysterious \\\"oblivion virus\\\" that causes memory loss, a tourist industry has emerged: travelers from around the world pay to be deliberately infected with the virus, hoping to erase painful memories from their past. This is the premise of Nabi (Butterfly), a 2001 South Korean science fiction feature that flew under the radar of most international audiences.\n\nThe film follows Anna Kim, a German woman of Korean descent who arrives in the city seeking the oblivion virus to forget the trauma of a recent abortion. She is assigned Yuki, a seven-months-pregnant virus guide who needs money to support her unborn child, and K, a new driver who secretly hopes that one of his passengers will recognize him from an old photograph\u2014though he has no memory of his own past. As the three navigate the city's toxic landscape, bonds form between them, leading to a devastating climax at the edge of the sea.\n\nShot on a shoestring budget of $380,000 and transferred from digital video to 35mm, Nabi is a visual meditation on memory, loss, and the weight of what we choose to forget.",
       "created_at": "2026-06-12 21:52:51",
+      "watch_url": null
+    },
+    {
+      "title": "Nadia: The Secret of Blue Water",
+      "year": 1990,
+      "medium": "Anime",
+      "creator": "Hideaki Anno, Hayao Miyazaki (concept)",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Steampunk, Adventure",
+      "topics": "Exploration, Aliens, Robots",
+      "image_filename": null,
+      "pitch": "Nadia: The Secret of Blue Water is a 39-episode Gainax anime created by Hideaki Anno with concept by Hayao Miyazaki. Set in 1889, it follows 14-year-old Nadia and French inventor Jean chased by jewel thieves seeking her mysterious Blue Water pendant. Rescued by Captain Nemo aboard the Nautilus, they join the fight against Neo-Atlantean forces led by Gargoyle.",
+      "created_at": "2026-06-23 15:40:26",
       "watch_url": null
     },
     {
@@ -18302,6 +18334,22 @@
       "image_filename": "Red_Matter_2018.jpg",
       "pitch": "Red Matter is a 2018 sci-fi virtual reality puzzle game developed by the Spanish studio Vertical Robot. The player assumes the role of Agent Epsilon, an agent of the Atlantic Union who crash-lands on Rhea, one of Saturn's moons, to investigate a top-secret Volgravian military research facility. The game features meticulously detailed retro-futuristic environments and a Cold War-inspired setting between two fictional superpowers\u2014the Atlantic Union and the People's Republic of Volgravia. As a VR title, Red Matter emphasizes immersion, allowing players to physically interact with objects, solve puzzles, and explore the atmospheric abandoned station using motion controllers. The game received critical acclaim for its visuals and world-building, though some critics noted that certain puzzles could be frustratingly opaque.",
       "created_at": "2026-03-06 23:42:09",
+      "watch_url": null
+    },
+    {
+      "title": "Red Room 2",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.43,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Survival, Violence",
+      "image_filename": "Red_Room_2_2000.jpg",
+      "pitch": "Red Room 2 is a 2000 Japanese horror film. Four contestants enter the Red Room, a deadly game where losers must perform whatever action winners desire. Played until only one survivor remains.",
+      "created_at": "2026-06-23 15:41:34",
       "watch_url": null
     },
     {
@@ -31761,6 +31809,22 @@
       "watch_url": null
     },
     {
+      "title": "Ultraman Mebius & Ultra Brothers",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "Tsuburaya Productions",
+      "raw_score": 3.85,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Aliens, Robots, Supernatural",
+      "image_filename": "Ultraman_Mebius_Ultra_Brothers_2006.jpg",
+      "pitch": "Ultraman Mebius & Ultra Brothers is a 2006 Japanese tokusatsu film featuring Ultraman Mebius. The film depicts a battle from 20 years ago when Ultraman, Seven, Jack, and Ace\u2014the four Ultra brothers\u2014fought the monster Yapool on the moon. The film also follows Mebius as he faces new threats on Earth.",
+      "created_at": "2026-06-23 15:41:07",
+      "watch_url": null
+    },
+    {
       "title": "Ultraman Tiga & Ultraman Dyna: Warriors of the Star of Light",
       "year": 1998,
       "medium": "Film",
@@ -33297,6 +33361,22 @@
       "watch_url": null
     },
     {
+      "title": "Zenki",
+      "year": 1995,
+      "medium": "Anime",
+      "creator": "Kikuhide Tani, Yoshihiro Kuroiwa",
+      "raw_score": 3.5,
+      "total_ratings": 6036,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Demons, Magic, Supernatural",
+      "image_filename": "Zenki_1995.jpg",
+      "pitch": "Zenki (1995) follows Chiaki Enno, descendant of the Bodhisattva Enno Ozunu. When evil Karuma's seals break, she frees the demon god Zenki. Using a magical bracelet, Chiaki transforms rebellious Zenki into his Demon Lord form to battle monsters. With Goki's help, they face Karuma herself.",
+      "created_at": "2026-06-23 15:39:58",
+      "watch_url": null
+    },
+    {
       "title": "Zeta One",
       "year": 1969,
       "medium": "Film",
@@ -33505,5 +33585,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2094
+  "count": 2099
 }
