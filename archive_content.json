@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "009-1: The End of the Beginning",
+      "year": 2013,
+      "medium": "Anime Film",
+      "creator": "Kenichi Kasai",
+      "raw_score": 2.94,
+      "total_ratings": 52,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk, Espionage",
+      "topics": "Cybernetics, Espionage, Cold War",
+      "image_filename": null,
+      "pitch": "009-1: The End of the Beginning is a 2013 anime film continuing the cyberpunk spy saga. Mylene Hoffman, a cyborg spy for the 00 Organization, battles agents of the Eastern block in high-stakes technological warfare.",
+      "truth": "In a universe where the Cold War never ended, Mylene Hoffman of the 00 Organization continues her missions as a cyborg spy. She faces Eastern block agents in escalating conflicts involving advanced technology and espionage.",
+      "core": "The film explores themes of the ongoing Cold War tensions in a speculative future, the ethics of cybernetic enhancement, and the blurred lines between human and machine in modern warfare.",
+      "created_at": "2026-06-23 00:43:00",
+      "watch_url": null
+    },
+    {
       "title": "1",
       "year": 2009,
       "medium": "Film",
@@ -20107,6 +20125,24 @@
       "watch_url": null
     },
     {
+      "title": "Robot on the Road",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "Kazuya Konishi",
+      "raw_score": 3.4,
+      "total_ratings": 40,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, VR, Identity",
+      "image_filename": "Robot_on_the_Road_2015.jpg",
+      "pitch": "A surreal 2015 Japanese animated film about a robot hitchhiker who encounters a woman traveling across Japan. The film explores the robot's obsession with documenting human life through photography, creating a darkly comedic examination of technology and desire.",
+      "truth": "A robot leaves its laboratory and begins hitchhiking across Japan. It meets a young woman traveling to deliver a package and follows her journey, attempting to photograph her. The robot observes human behavior and develops an understanding of human connection through its journey.",
+      "core": "The film uses the robot protagonist as a lens to examine human behavior, voyeurism, and the ethics of technology. It explores what it means to be human and the boundaries between artificial intelligence and consciousness.",
+      "created_at": "2026-06-23 00:42:44",
+      "watch_url": null
+    },
+    {
       "title": "Robotica Destructiva",
       "year": 2023,
       "medium": "Film",
@@ -26945,6 +26981,24 @@
       "core": "1950s British sci-fi exploring fears of nuclear tech and eugenics. The gamma rays are an allegory for atomic power. Warwick Films' only sci-fi venture before James Bond. Based on a script by Robert Aldrich.",
       "created_at": "2026-06-13 15:42:32",
       "watch_url": "https://archive.org/details/the.-gamma.-people.-1956"
+    },
+    {
+      "title": "The Garden of Sinners: Future Gospel",
+      "year": 2013,
+      "medium": "Anime Film",
+      "creator": "Tomonori Sudo",
+      "raw_score": 3.65,
+      "total_ratings": 74,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Mystery",
+      "topics": "Time-Travel, Murder, Memory",
+      "image_filename": "The_Garden_of_Sinners_Future_Gospel_2013.jpg",
+      "pitch": "The Garden of Sinners: Future Gospel is the sixth film in the Kinoko Nasu franchise. A continuation of the mystery series featuring Shiki Ryougi and Mikiya Kokutou, this entry explores a strange suicide case connected to Shiki's friends.",
+      "truth": "Mikiya Kokutou gives Shiki Ryougi a cat to watch while he is away. Meanwhile, in another part of the city, Ririsu Miyazuki visits the place where her dear friend committed suicide, seeking answers about the mysterious circumstances surrounding her death.",
+      "core": "The film continues the Garden of Sinners series' exploration of death, identity, and the nature of mystery. It examines how memory shapes perception and the blurred lines between reality and the supernatural.",
+      "created_at": "2026-06-23 00:42:52",
+      "watch_url": null
     },
     {
       "title": "The Gate",
@@ -36019,5 +36073,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2001
+  "count": 2004
 }
