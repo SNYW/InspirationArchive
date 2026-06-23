@@ -36037,6 +36037,24 @@
       "watch_url": null
     },
     {
+      "title": "We Are from the Future",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Andrei Malyuk",
+      "raw_score": 3.0,
+      "total_ratings": 122,
+      "origin": "Russia",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel, War",
+      "topics": "Time-Travel, War, History",
+      "image_filename": null,
+      "pitch": "Four present-day Russian treasure hunters discover a lake that sends them to 1942 WWII. Stranded in the brutal Eastern Front, they must fight alongside Soviet soldiers while seeking a way home.",
+      "truth": "Friends hunting WWII relics are pulled to 1942. Mistaken for saboteurs, they prove loyalty by helping repel a Nazi attack. Using historical knowledge, they warn Soviet command. The conflict involves returning home while forming bonds with soldiers who will die. The ending leaves uncertain whether their actions altered the present.",
+      "core": "A meditation on memory and responsibility. The film explores changing history versus living through its reality. As a Russian production, it offers a non-Western WWII perspective.",
+      "created_at": "2026-06-23 09:51:31",
+      "watch_url": null
+    },
+    {
       "title": "We Called Him Robert",
       "year": 1967,
       "medium": "Film",
@@ -37099,5 +37117,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2061
+  "count": 2062
 }
