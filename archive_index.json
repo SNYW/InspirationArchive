@@ -10949,16 +10949,16 @@
       "year": 2018,
       "medium": "Film",
       "creator": "",
-      "raw_score": null,
-      "total_ratings": null,
+      "raw_score": 1.5,
+      "total_ratings": 10,
       "origin": "USA",
       "mood": "Gritty",
       "sub_genres": "Dystopia",
       "topics": "Evolution, Survival, AI",
-      "image_filename": null,
+      "image_filename": "Involution_2018.jpg",
       "pitch": "In a future where a mechanism reverses human evolution, turning people into animals, Hamming and Liv fight to preserve their humanity. A meditation on what lies beneath civilization.",
       "created_at": "2026-06-23 04:29:30",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_110594"
     },
     {
       "title": "Iria: Zeiram the Animation",
@@ -14581,13 +14581,13 @@
       "year": 2013,
       "medium": "Film",
       "creator": "Jimmy",
-      "raw_score": null,
-      "total_ratings": null,
+      "raw_score": 2.05,
+      "total_ratings": 10,
       "origin": "USA",
       "mood": "Gritty",
       "sub_genres": "Horror, Sci-Fi",
       "topics": "Mutation, Survival",
-      "image_filename": null,
+      "image_filename": "Mosquito-Man_2013.jpg",
       "pitch": "Down-on-his-luck unlikely hero Jim Crawley decides to end it all but fails. An improbable event changes everything and he becomes a half man/half creature. A transformation horror with sci-fi elements.",
       "created_at": "2026-06-23 04:33:38",
       "watch_url": null
@@ -24702,7 +24702,7 @@
       "image_filename": "The_Groundstar_Conspiracy_1972.jpg",
       "pitch": "A space project technician is disfigured attempting to steal classified plans. He awakens with no memory of his crime\u2014or his own life. A brutal government interrogator suspects he's lying, but the truth proves stranger than imagined.",
       "created_at": "2026-06-23 05:14:57",
-      "watch_url": null
+      "watch_url": "https://vimeo.com/273339793"
     },
     {
       "title": "The Halt",
@@ -28549,16 +28549,16 @@
       "year": 2017,
       "medium": "Film",
       "creator": "",
-      "raw_score": null,
-      "total_ratings": null,
+      "raw_score": 2.85,
+      "total_ratings": 10,
       "origin": "USA",
       "mood": "Tense",
       "sub_genres": "Science-Fantasy, Noir",
       "topics": "Drugs, Music, Survival",
-      "image_filename": null,
+      "image_filename": "The_Theta_Girl_2017.jpg",
       "pitch": "Gayce deals a hallucinogenic drug called theta that opens minds \u2014 and doors. When her all-girl rock band friends are murdered, she must solve the mystery before the killer finds her. A neo-noir with psychedelic undertones.",
       "created_at": "2026-06-23 04:29:53",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/the_theta_girl"
     },
     {
       "title": "The Things",
