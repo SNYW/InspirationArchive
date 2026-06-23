@@ -24932,6 +24932,24 @@
     },
     {
       "title": "Target Earth",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Willis O'Brien",
+      "raw_score": 2.99,
+      "total_ratings": 31,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Invasion, Survival",
+      "image_filename": "Target_Earth_1954.jpg",
+      "pitch": "A 1954 American B-movie about giant robots from Venus invading Chicago. When the city is abandoned, four survivors must navigate the deserted metropolis while evading the robot patrols. The tension escalates as they encounter both a psychopathic killer and the mechanical invaders.",
+      "truth": "Giant robots from Venus invade Chicago, forcing the city s evacuation. Stranded in the deserted city are Frank and Nora, who recently attempted suicide, and a celebrating couple Vicki and Jim. The four take refuge in a hotel, only to face a new threat: Davis, a psychopathic killer who stalks them through the empty streets.",
+      "core": "Classic 1950s B-movie sci-fi exploring isolation and human desperation. The post-apocalyptic urban setting and juxtaposition of mechanical and human threats reflect Cold War anxieties about technological destruction.",
+      "created_at": "2026-06-23 17:44:11",
+      "watch_url": null
+    },
+    {
+      "title": "Target Earth",
       "year": 1998,
       "medium": "Film",
       "creator": "",
@@ -30763,6 +30781,24 @@
       "watch_url": "https://archive.org/details/turner_video_15031"
     },
     {
+      "title": "The Manster",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "George P. Breakston, Kenneth G. Crane",
+      "raw_score": 2.34,
+      "total_ratings": 34,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Evolution, Science, Transformation",
+      "image_filename": "The_Manster_1959.jpg",
+      "pitch": "A 1959 American sci-fi horror film shot in Japan. Foreign correspondent Larry Stanford undergoes an experimental procedure by Dr. Suzuki that causes a second head to grow from his shoulder \u2014 transforming him into a murderous two-headed monster. The film is a cult classic known for its campy special effects and body horror premise.",
+      "truth": "Larry Stanford visits Dr. Suzuki, who secretly injects him with an experimental formula. An eyeball grows on his shoulder, then a second head. He goes on a killing rampage through Tokyo. Suzuki develops a remedy that allows Larry to physically split into two beings \u2014 one human, one monstrous. Larry pushes his grotesque self into a volcano while police arrest him.",
+      "core": "A cult classic blending sci-fi with body horror. Filmed in Japan, it reflects anxieties about scientific experimentation. The film has gained a following among camp horror fans for being both unintentionally funny and genuinely creepy.",
+      "created_at": "2026-06-23 17:44:25",
+      "watch_url": null
+    },
+    {
       "title": "The Marked Hour",
       "year": 1988,
       "medium": "TV Series",
@@ -35299,6 +35335,24 @@
       "watch_url": "https://archive.org/details/to-the-stars-by-hard-ways-1981"
     },
     {
+      "title": "Tobor the Great",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Lee Sholem",
+      "raw_score": 2.67,
+      "total_ratings": 31,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel, Children",
+      "image_filename": "Tobor_the_Great_1954.jpg",
+      "pitch": "A 1954 Republic Pictures B-movie. Professor Nordstrom creates Tobor, a robot designed to replace human astronauts for dangerous space missions. Young Brian forms an emotional bond with the robot. When foreign agents kidnap Brian and the Professor, the boy must use his special connection with Tobor to save them.",
+      "truth": "Professor Nordstrom builds Tobor, a robot with telepathic abilities for space exploration. Young Brian discovers he can control Tobor emotionally. Foreign spies kidnap Brian and Nordstrom to steal the robot s control codes. Nordstrom remotely activates Tobor, who rescues the hostages. The robot then launches successfully into space.",
+      "core": "A noteworthy 1950s sci-fi B-movie that anticipated the friendly robot trope. The film reflects optimism about space travel while questioning its dangers. It inspired an unrealized TV series and maintains a cult following among sci-fi enthusiasts.",
+      "created_at": "2026-06-23 17:43:58",
+      "watch_url": null
+    },
+    {
       "title": "Tokyo Species",
       "year": 2012,
       "medium": "Film",
@@ -37945,5 +37999,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2108
+  "count": 2111
 }

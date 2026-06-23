@@ -22162,6 +22162,22 @@
     },
     {
       "title": "Target Earth",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Willis O'Brien",
+      "raw_score": 2.99,
+      "total_ratings": 31,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Invasion, Survival",
+      "image_filename": "Target_Earth_1954.jpg",
+      "pitch": "A 1954 American B-movie about giant robots from Venus invading Chicago. When the city is abandoned, four survivors must navigate the deserted metropolis while evading the robot patrols. The tension escalates as they encounter both a psychopathic killer and the mechanical invaders.",
+      "created_at": "2026-06-23 17:44:11",
+      "watch_url": null
+    },
+    {
+      "title": "Target Earth",
       "year": 1998,
       "medium": "Film",
       "creator": "",
@@ -27345,6 +27361,22 @@
       "watch_url": "https://archive.org/details/turner_video_15031"
     },
     {
+      "title": "The Manster",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "George P. Breakston, Kenneth G. Crane",
+      "raw_score": 2.34,
+      "total_ratings": 34,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Evolution, Science, Transformation",
+      "image_filename": "The_Manster_1959.jpg",
+      "pitch": "A 1959 American sci-fi horror film shot in Japan. Foreign correspondent Larry Stanford undergoes an experimental procedure by Dr. Suzuki that causes a second head to grow from his shoulder \u2014 transforming him into a murderous two-headed monster. The film is a cult classic known for its campy special effects and body horror premise.",
+      "created_at": "2026-06-23 17:44:25",
+      "watch_url": null
+    },
+    {
       "title": "The Marked Hour",
       "year": 1988,
       "medium": "TV Series",
@@ -31377,6 +31409,22 @@
       "watch_url": "https://archive.org/details/to-the-stars-by-hard-ways-1981"
     },
     {
+      "title": "Tobor the Great",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Lee Sholem",
+      "raw_score": 2.67,
+      "total_ratings": 31,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Space Travel, Children",
+      "image_filename": "Tobor_the_Great_1954.jpg",
+      "pitch": "A 1954 Republic Pictures B-movie. Professor Nordstrom creates Tobor, a robot designed to replace human astronauts for dangerous space missions. Young Brian forms an emotional bond with the robot. When foreign agents kidnap Brian and the Professor, the boy must use his special connection with Tobor to save them.",
+      "created_at": "2026-06-23 17:43:58",
+      "watch_url": null
+    },
+    {
       "title": "Tokyo Species",
       "year": 2012,
       "medium": "Film",
@@ -33729,5 +33777,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2108
+  "count": 2111
 }
