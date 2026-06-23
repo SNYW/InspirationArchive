@@ -16529,6 +16529,22 @@
       "watch_url": "https://archive.org/details/patlabor-the-movie-2"
     },
     {
+      "title": "Patlabor WXIII the Movie",
+      "year": 2002,
+      "medium": "Anime Film",
+      "creator": "Headgear",
+      "raw_score": 3.3,
+      "total_ratings": 50,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF, Dystopia",
+      "topics": "Genetic Engineering, Police, Conspiracy",
+      "image_filename": "patlabor_wxiii.jpg",
+      "pitch": "In 2000 Tokyo, detectives probe missing scientists\u2014uncovering WXIII, a secret bioweapon program. SV2's Labor unit is called in as things spiral out of control. Hata discovers a tragic personal link to the conspiracy.",
+      "created_at": "2026-06-23 06:04:21",
+      "watch_url": null
+    },
+    {
       "title": "Patlabor: Early Days",
       "year": 1988,
       "medium": "OVA",
@@ -32513,5 +32529,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2032
+  "count": 2033
 }
