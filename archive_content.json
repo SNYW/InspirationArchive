@@ -14041,6 +14041,24 @@
       "watch_url": "https://archive.org/details/lathe_of_heaven_2002"
     },
     {
+      "title": "Le Bunker de la derni\u00e8re rafale",
+      "year": 1981,
+      "medium": "Short Film",
+      "creator": "Marc Caro, Jean-Pierre Jeunet",
+      "raw_score": 2.92,
+      "total_ratings": 35,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Military, Isolation, Survival, Madness",
+      "image_filename": "Le_Bunker_de_la_derniere_rafale_1981.jpg",
+      "pitch": "A team of soldiers trapped in an underground bunker discovers a mysterious countdown timer. As numbers tick down, paranoia consumes the group. This 26-minute French short is an early Caro-Jeunet collaboration.",
+      "truth": "Soldiers confined in a bunker find a countdown timer. Paranoia spreads as numbers drop. Each man suspects betrayal. When zero arrives, the horror is not an explosion but psychological collapse\u2014their minds break before any external threat materializes.",
+      "core": "Early Caro-Jeunet work showing their recurring themes: institutional absurdity and the membrane between comedy and horror. The bunker is metaphorical\u2014men trapped waiting for fate. Their signature style\u2014Expressionist shadows, grotesque-cute aesthetic\u2014is already evident.",
+      "created_at": "2026-06-23 06:54:55",
+      "watch_url": null
+    },
+    {
       "title": "Le Prix du Danger",
       "year": 1983,
       "medium": "Film",
@@ -36613,5 +36631,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2034
+  "count": 2035
 }
