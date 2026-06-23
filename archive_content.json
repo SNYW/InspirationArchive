@@ -2323,6 +2323,24 @@
       "watch_url": null
     },
     {
+      "title": "Animalia",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Sofia Alaoui",
+      "raw_score": 3.0,
+      "total_ratings": 34,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "",
+      "topics": "Aliens, First Contact, Pregnancy",
+      "image_filename": "Animalia_2023.jpg",
+      "pitch": "A pregnant woman in Morocco attempts to reunite with her husband as extraterrestrial events cause the country to descend into chaos. The feature debut from director Sofia Alaoui premiered at Sundance 2023, where it received 100% on Rotten Tomatoes.",
+      "truth": "Itto, a pregnant woman from a modest rural background, is adapting to her husband's wealthy family. When supernatural events put Morocco in a state of emergency, she becomes separated from her husband Amine. Alone and pregnant, she searches for him through the chaos.",
+      "core": "Explores first contact through a pregnant woman's journey toward independence. The extraterrestrial events become a catalyst for her personal transformation.",
+      "created_at": "2026-06-23 10:39:59",
+      "watch_url": null
+    },
+    {
       "title": "Anna to the Infinite Power",
       "year": 1982,
       "medium": "Film",
@@ -4210,6 +4228,24 @@
       "truth": "Kisaragi is transformed into a cyborg and immediately becomes a target. Vampires and yakuza pursue him across Japan in this action-filled chase. The film features intense action sequences as Kisaragi fights to survive his pursuers.",
       "core": "A genre-blending anime that combines cyberpunk aesthetics with vampire mythology. The cyborg transformation trope meets traditional yakuza revenge narratives in this visually driven action film.",
       "created_at": "2026-06-17 12:11:19",
+      "watch_url": null
+    },
+    {
+      "title": "Bloody Mallory",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Julien Magnat",
+      "raw_score": 2.55,
+      "total_ratings": 38,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Vampires",
+      "image_filename": "Bloody_Mallory_2002.jpg",
+      "pitch": "Mallory leads an elite government strike force battling supernatural threats. Her team\u2014a drag queen explosives expert, a mute telepathic child, and an armed agent\u2014protects a convent from undead monsters and gets deployed to rescue the newly kidnapped Pope from a centuries-old vampire.",
+      "truth": "Mallory's team is attacked protecting a convent, leaving Durand dead and Talking Tina in a coma. When the Pope is kidnapped, Mallory discovers a connection between her attackers and the kidnappers. Tracking them to a pocket dimension, she joins forces with P\u00e8re Carras to face Lady Valentine, a vampire since the French Revolution who aims to summon the demon Abaddon.",
+      "core": "A mix of horror, action, and comedy reminiscent of Buffy the Vampire Slayer. Explores themes of faith, the supernatural, and a team of misfits united against otherworldly threats. The director admits heavy influence from anime and manga in visual style.",
+      "created_at": "2026-06-23 10:40:23",
       "watch_url": null
     },
     {
@@ -21187,6 +21223,24 @@
       "watch_url": null
     },
     {
+      "title": "Sabretooth",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "James D.R. Hickox",
+      "raw_score": 2.3,
+      "total_ratings": 33,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Cloning, Survival",
+      "image_filename": "Sabretooth_2002.jpg",
+      "pitch": "A cloned sabretooth tiger escapes from a laboratory and goes on a killing spree in the Pacific Northwest. A billionaire and the scientist who created it hire a big-game hunter to track the prehistoric predator\u2014only to discover that some ancient creatures were meant to stay extinct.",
+      "truth": "Scientist Catherine Viciy clones a sabretooth from fossilized DNA. When it escapes, it kills campers in the forest. She hires hunter Thatcher to track it but refuses to let him kill her creation. The creature kills several people including Catherine herself. Thatcher finally kills the beast with a spear.",
+      "core": "Explores scientific hubris\u2014resurrecting extinct species through genetic engineering. The creature represents nature's power that defies human control. Catherine's obsession with her creation becomes her downfall.",
+      "created_at": "2026-06-23 10:39:03",
+      "watch_url": null
+    },
+    {
       "title": "Sailboat",
       "year": 1967,
       "medium": "Short Story",
@@ -34111,6 +34165,24 @@
       "watch_url": null
     },
     {
+      "title": "Thomas est amoureux",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "Pierre-Paul Renders",
+      "raw_score": 3.33,
+      "total_ratings": 33,
+      "origin": "France",
+      "mood": "Melancholic",
+      "sub_genres": "",
+      "topics": "VR, Isolation",
+      "image_filename": "Thomas_est_amoureux_2000.jpg",
+      "pitch": "Thomas is an agoraphobic man who hasn't left his Paris apartment in years. He lives with a computer-generated girlfriend named Maria and has never faced the real world\u2014until a prostitute arrives at his door, challenging his carefully constructed digital reality.",
+      "truth": "Thomas hasn't left his apartment for years, living with a computer-generated woman he created. When a prostitute named Marie arrives by mistake, she becomes fascinated and visits regularly, trying to convince him to leave. The boundary between his virtual world and reality blurs.",
+      "core": "Explores virtual relationships and digital intimacy. Thomas's computer-generated girlfriend represents how technology can both isolate and comfort. The film examines agoraphobia and the fear of real-world connection.",
+      "created_at": "2026-06-23 10:39:26",
+      "watch_url": null
+    },
+    {
       "title": "Those Science Freaks",
       "year": 2013,
       "medium": "Film",
@@ -37135,5 +37207,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2063
+  "count": 2067
 }
