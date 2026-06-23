@@ -7687,6 +7687,24 @@
       "watch_url": null
     },
     {
+      "title": "Dororo and Hyakkimaru",
+      "year": 1969,
+      "medium": "TV Series",
+      "creator": "Osamu Tezuka",
+      "raw_score": 3.2,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Dark Fantasy, Science-Fantasy",
+      "topics": "Demons, Supernatural, Identity",
+      "image_filename": "Dororo_and_Hyakkimaru_1969.jpg",
+      "pitch": "A pioneering 1969 anime. Hyakkimaru, born disfigured after his father bargained with demons, hunts them to reclaim his stolen body. Joined by young thief Dororo, they journey through war-torn Japan in this dark tale about power's cost and identity.",
+      "truth": "Lord Kagemitsu bargains with 48 demons, offering his unborn child. The boy, born missing body parts, is rescued by Jukai who creates prosthetic limbs. Hyakkimaru learns killing demons restores his body. He meets Dororo, raised as a boy, who joins his quest. Together they battle supernatural forces as Hyakkimaru regains his body, confronting his possessed father.",
+      "core": "One of the first anime for adult audiences, with mature themes unusual for 1969 TV. Explores how ambition leads to sacrifice\u2014Kagemitsu's desire cost his child. Pioneered identity exploration with Dororo's gender complexity. Directed by Gisaburou Sugii.",
+      "created_at": "2026-06-23 16:54:18",
+      "watch_url": null
+    },
+    {
       "title": "Dororo to Hyakkimaru",
       "year": 1969,
       "medium": "Anime",
@@ -37855,5 +37873,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2103
+  "count": 2104
 }
