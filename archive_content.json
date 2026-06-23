@@ -10945,6 +10945,24 @@
       "watch_url": null
     },
     {
+      "title": "Great Mazinger",
+      "year": 1974,
+      "medium": "Anime",
+      "creator": "Go Nagai, Dynamic Productions, Toei Animation",
+      "raw_score": 4.13,
+      "total_ratings": 141,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha, Science-Fantasy",
+      "topics": "Robots, Heroes, Evolution",
+      "image_filename": "great_mazinger_1974.jpg",
+      "pitch": "Great Mazinger continues the Mazinger Z legacy with Tetsuya Tsurugi piloting the new Great Mazinger robot against the Mycenae Empire and their Battle Beasts. Alongside Jun Hono in Venus A, Tetsuya must defend Japan when Kouji Kabuto is away.",
+      "truth": "Tetsuya Tsurugi completes his training just as the Mycenae Battle Beasts attack. He fights the Great General of Darkness and later Doctor Hell disguised as the Great Marshall of Hell across 56 episodes. The series establishes the Mazinger universe mythology.",
+      "core": "Great Mazinger established core mecha anime tropes. Created by Go Nagai, it shows the passing of the torch from one pilot to the next and paved the way for Grendizer. The franchise influenced countless anime and the Shogun Warriors toy line.",
+      "created_at": "2026-06-23 14:24:21",
+      "watch_url": null
+    },
+    {
       "title": "Grenadier",
       "year": 2004,
       "medium": "Anime",
@@ -37657,5 +37675,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2092
+  "count": 2093
 }

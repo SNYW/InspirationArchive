@@ -9729,6 +9729,22 @@
       "watch_url": null
     },
     {
+      "title": "Great Mazinger",
+      "year": 1974,
+      "medium": "Anime",
+      "creator": "Go Nagai, Dynamic Productions, Toei Animation",
+      "raw_score": 4.13,
+      "total_ratings": 141,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Mecha, Science-Fantasy",
+      "topics": "Robots, Heroes, Evolution",
+      "image_filename": "great_mazinger_1974.jpg",
+      "pitch": "Great Mazinger continues the Mazinger Z legacy with Tetsuya Tsurugi piloting the new Great Mazinger robot against the Mycenae Empire and their Battle Beasts. Alongside Jun Hono in Venus A, Tetsuya must defend Japan when Kouji Kabuto is away.",
+      "created_at": "2026-06-23 14:24:21",
+      "watch_url": null
+    },
+    {
       "title": "Grenadier",
       "year": 2004,
       "medium": "Anime",
@@ -33473,5 +33489,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2092
+  "count": 2093
 }
