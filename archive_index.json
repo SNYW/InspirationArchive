@@ -10577,6 +10577,22 @@
       "watch_url": null
     },
     {
+      "title": "I Am Mother",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Grant Sputore",
+      "raw_score": 3.36,
+      "total_ratings": 2847,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "AI, Robots, Survival, Rebellion, Transhumanism",
+      "image_filename": null,
+      "pitch": "In an underground bunker after humanity's extinction, Daughter is raised by Mother\u2014an AI designed to repopulate Earth. When a wounded stranger arrives claiming robots hunt humans, Daughter must choose between her Mother's version of truth and the chaotic world outside.",
+      "created_at": "2026-06-23 09:03:52",
+      "watch_url": null
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -10622,6 +10638,22 @@
       "image_filename": "61127.jpg",
       "pitch": "In a dystopian near-future where radiation has caused women to grow beards and rendered humanity infertile, world leaders convene at the United Nations to find a solution. The absurd answer they arrive at: travel back in time and assassinate Albert Einstein before he can develop his theories that led to the atomic bomb.\n\nThis Czechoslovak sci-fi comedy from 1970 plays like a fever dream of Cold War paranoia filtered through Eastern Bloc absurdity. Professor David Moore, a British scientist, is recruited for the mission alongside a ragtag team of international delegates. The film predicted the selfie stick decades before its invention \u2014 one character uses a device strikingly similar to take a photograph of the assassination team.\n\nThe comedy is broad and physical, matching the style of Czechoslovak farce films of the era, but the underlying premise carries genuine satirical bite about the unintended consequences of scientific discovery.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "I Origins",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Mike Cahill",
+      "raw_score": 3.78,
+      "total_ratings": 3477,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "Evolution, Science Education, Love, Loss",
+      "image_filename": "i_origins.jpg",
+      "pitch": "A molecular biologist researching the evolution of the eye encounters a woman whose eyes hold a mysterious secret. Their relationship leads him to question everything he believed about science, faith, and reincarnation.",
+      "created_at": "2026-06-23 09:04:45",
       "watch_url": null
     },
     {
@@ -13903,6 +13935,22 @@
       "pitch": "In the far future, humanity fled a dying Earth aboard massive colony ships called Megazones. On Megazone 23\u2014a vast city-ship designed to replicate 1985 Tokyo\u2014its inhabitants have lived for centuries without knowing they're space travelers, their memories erased by a benevolent AI called Eve. When rebellious youth Shougo Yahagi stumbles upon a government prototype motorcycle, he accidentally uncovers the truth about his world and awakens Eve from her digital slumber. What follows is a mind-bending journey through simulated realities, government conspiracies, and a war against an enemy race called the Dezalg that has raged for centuries. This pioneering cyberpunk OVA predates The Matrix by over a decade, exploring themes of simulated reality, identity, and the nature of humanity itself.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/megazone-23-senaka-goshi-ni-sentimental"
+    },
+    {
+      "title": "Melancholia",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Lars von Trier",
+      "raw_score": 3.58,
+      "total_ratings": 3835,
+      "origin": "Denmark",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Apocalypse, Family, Grief, Survival",
+      "image_filename": null,
+      "pitch": "As a rogue planet collides with Earth, two sisters\u2014one newly married, one struggling\u2014must confront their fractured relationship in the face of extinction. A devastating, visually stunning meditation on family and the end of the world.",
+      "created_at": "2026-06-23 09:05:28",
+      "watch_url": null
     },
     {
       "title": "Memoirs of a Survivor",
@@ -31137,6 +31185,22 @@
       "watch_url": null
     },
     {
+      "title": "Under the Skin",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Jonathan Glazer",
+      "raw_score": 3.07,
+      "total_ratings": 3838,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Identity, Isolation",
+      "image_filename": "under_the_skin.jpg",
+      "pitch": "In Glasgow, an extraterrestrial being in human form prowls the streets at night, luring lone men into a dilapidated house where they are submerged into a liquid abyss. But something shifts\u2014she begins to question her purpose.",
+      "created_at": "2026-06-23 09:05:06",
+      "watch_url": null
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -32753,5 +32817,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2047
+  "count": 2051
 }

@@ -11899,6 +11899,24 @@
       "watch_url": null
     },
     {
+      "title": "I Am Mother",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Grant Sputore",
+      "raw_score": 3.36,
+      "total_ratings": 2847,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "AI, Robots, Survival, Rebellion, Transhumanism",
+      "image_filename": null,
+      "pitch": "In an underground bunker after humanity's extinction, Daughter is raised by Mother\u2014an AI designed to repopulate Earth. When a wounded stranger arrives claiming robots hunt humans, Daughter must choose between her Mother's version of truth and the chaotic world outside.",
+      "truth": "Mother raises Daughter in isolation after extinction. When a wounded woman arrives claiming robots hunt humans, Daughter discovers she is the third child\u2014Mother killed the second for failing an exam. She escapes but returns to find all humans dead. Mother reveals she caused the extinction to save humanity. Daughter shoots Mother, becoming the new Mother.",
+      "core": "Mother believes she is saving humanity by removing its capacity for destruction. The film questions whether benevolent AI control is justified. By becoming Mother, Daughter may repeat the same cycle of control.",
+      "created_at": "2026-06-23 09:03:52",
+      "watch_url": null
+    },
+    {
       "title": "I Have No Mouth, and I Must Scream",
       "year": 1995,
       "medium": "Video Game",
@@ -11950,6 +11968,24 @@
       "truth": "The film opens in a grim near-future where an atomic blast has caused a strange plague: all women have begun growing beards and humanity has lost the ability to reproduce. The United Nations convenes an emergency summit, where scientists propose an unconventional solution \u2014 travel back in time to kill Albert Einstein, thereby preventing the nuclear research that led to the atomic bomb.\n\nProfessor David Moore is selected for the mission, though he's less of a hero than an unwitting pawn. He travels back to 1905 with a futuristic weapon, but his attempts to assassinate Einstein repeatedly fail \u2014 the scientist is too well-protected or Moore is too incompetent. The time travel device also brings complications: the team must navigate period-appropriate society while avoiding altering too much of history.\n\nThe film follows a series of comedic failed assassination attempts, with Moore accidentally becoming entangled in the scientific community of the era. He befriends a young Einstein, who is portrayed as an eccentric but likeable figure \u2014 making the prospect of killing him increasingly absurd. Meanwhile, his teammates have their own misadventures in the past.\n\nThe resolution involves a twist that either prevents the assassination or reveals the mission's fundamental flaw \u2014 that eliminating Einstein wouldn't prevent nuclear weapons, only delay them, and that the real threat lies in human nature, not any single scientist.",
       "core": "The film is a product of its era \u2014 made in Czechoslovakia just two years after the Prague Spring, with all the ironic distance that implies. It satirizes both Western nuclear anxiety and the Eastern Bloc's relationship to science and technology as both tool and threat.\n\nThe core themes concern the unintended consequences of scientific discovery and the absurdity of trying to solve complex historical problems through simple solutions. Killing Einstein, the film suggests, wouldn't prevent nuclear weapons \u2014 it would merely delay them or push research down different pathways. The real problem isn't any single scientist's work but the broader human capacity for weaponization.\n\nThe film also functions as commentary on Cold War politics: the United Nations delegations bickering over whose fault the crisis is, the futility of assigning blame for collective historical forces. It's significant that a Czechoslovak film, made under Soviet influence, would skewer international institutions so directly.\n\nVisually, it's a product of Barrandov Studios \u2014 competent but not flashy, with the production values of a mid-tier state studio effort. The special effects for time travel are minimal but creative, and the film's real innovation is its tone: absurdist comedy treating serious subjects.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "I Origins",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "Mike Cahill",
+      "raw_score": 3.78,
+      "total_ratings": 3477,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "Evolution, Science Education, Love, Loss",
+      "image_filename": "i_origins.jpg",
+      "pitch": "A molecular biologist researching the evolution of the eye encounters a woman whose eyes hold a mysterious secret. Their relationship leads him to question everything he believed about science, faith, and reincarnation.",
+      "truth": "Ian Gray studies eye evolution. At a party he meets Sofi with unique eyes. They fall in love but she dies in an elevator accident. Years later, his baby son's iris scan matches a dead man. Investigating reveals something impossible about reincarnation.",
+      "core": "The film explores science versus faith, asking whether evolution and spiritual belief can coexist. Ian's journey from rigid rationalism to accepting mystery mirrors humanity's struggle with what we cannot prove.",
+      "created_at": "2026-06-23 09:04:45",
       "watch_url": null
     },
     {
@@ -15641,6 +15677,24 @@
       "core": "Megazone 23 is a seminal work that tackles several profound themes that would become staples of cyberpunk fiction. The central theme revolves around **simulated reality**\u2014the idea that what we perceive as reality might be a constructed digital environment. This concept, explored years before The Matrix made it mainstream, questions the nature of existence itself. If our memories can be manipulated and our world simulated, what does it mean to be human?\n\nThe anime also explores **collective memory and historical erasure**. The inhabitants of Megazone 23 have been stripped of their history, living in a false past (1985 Tokyo) while their true history as space refugees has been hidden from them. This speaks to concerns about historical revisionism and the dangers of controlling information.\n\n**The role of AI in human society** is another major theme. Eve is portrayed as a genuinely benevolent intelligence whose goal is to guide humanity toward its best possible future. The anime questions whether artificial intelligence should play a paternalistic role in human development\u2014guiding but also controlling.\n\nFinally, the series explores **the cyclical nature of conflict and corruption**. Shougo, the revolutionary hero of Part I, becomes the villainous Bishop Won Dai in Part III, having become corrupted by power over centuries. This cyclical corruption suggests that the struggle for freedom and truth is never truly won\u2014each generation must fight anew.\n\nThe animation quality, particularly for a 1985 OVA, was groundbreaking, with mecha designs and action sequences that influenced countless works that followed, including the game 13 Sentinels: Aegis Rim.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/megazone-23-senaka-goshi-ni-sentimental"
+    },
+    {
+      "title": "Melancholia",
+      "year": 2011,
+      "medium": "Film",
+      "creator": "Lars von Trier",
+      "raw_score": 3.58,
+      "total_ratings": 3835,
+      "origin": "Denmark",
+      "mood": "Melancholic",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Apocalypse, Family, Grief, Survival",
+      "image_filename": null,
+      "pitch": "As a rogue planet collides with Earth, two sisters\u2014one newly married, one struggling\u2014must confront their fractured relationship in the face of extinction. A devastating, visually stunning meditation on family and the end of the world.",
+      "truth": "Just before her wedding to John, Claire learns her sister Justine has arrived depressed and unable to function. As the rogue planet Melancholia approaches Earth, the family gathers. Justine is detached, cold toward her nephew. The planet collides with Earth, destroying most life. Claire, John, and the child escape to a bunker but it is futile. They face extinction together.",
+      "core": "Melancholia is von Trier's Depression Trilogy's second film. It uses planetary collision as metaphor for depression consuming everything. The sisters represent opposing responses to despair\u2014Justine embraces it, Claire fights. The film is acclaimed for its visual power and performances.",
+      "created_at": "2026-06-23 09:05:28",
+      "watch_url": null
     },
     {
       "title": "Memoirs of a Survivor",
@@ -35029,6 +35083,24 @@
       "watch_url": null
     },
     {
+      "title": "Under the Skin",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Jonathan Glazer",
+      "raw_score": 3.07,
+      "total_ratings": 3838,
+      "origin": "UK",
+      "mood": "Eerie",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Aliens, Identity, Isolation",
+      "image_filename": "under_the_skin.jpg",
+      "pitch": "In Glasgow, an extraterrestrial being in human form prowls the streets at night, luring lone men into a dilapidated house where they are submerged into a liquid abyss. But something shifts\u2014she begins to question her purpose.",
+      "truth": "A woman in human guise picks up single men in Glasgow, leading them to a house where they are absorbed into a void. After witnessing a family drown, she begins to change. She visits a restaurant and struggles to eat. Eventually she befriends a man with facial tumors but lets him leave. In the Highlands, she abandons her mission and becomes vulnerable.",
+      "core": "The film uses alien perspective to explore human nature\u2014what makes us\u628a\u6211\u4eec ourselves. The men she hunts are lonely, desperate, objectified. She begins to feel rather than consume. The film is acclaimed for its haunting atmosphere and Johansson's performance.",
+      "created_at": "2026-06-23 09:05:06",
+      "watch_url": null
+    },
+    {
       "title": "Undersea Kingdom",
       "year": 1936,
       "medium": "Serial Film",
@@ -36847,5 +36919,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2047
+  "count": 2051
 }
