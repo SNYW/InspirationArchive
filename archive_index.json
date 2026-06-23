@@ -22481,6 +22481,22 @@
       "watch_url": "https://archive.org/details/teknolust-2002-turkce-dublaj"
     },
     {
+      "title": "Temmink: The Ultimate Fight",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "Boris Paval Conen",
+      "raw_score": 3.1,
+      "total_ratings": 11,
+      "origin": "Netherlands",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Violence, Survival, Rebellion",
+      "image_filename": "temmink_the_ultimate_fight_1998.jpg",
+      "pitch": "In near-future Netherlands, society outsources execution to the Arena \u2014 a televised gladiatorial pit where violent criminals fight to the death for entertainment. When sociopathic killer Temmink enters, he discovers an unexpected side effect: genuine human connection.",
+      "created_at": "2026-06-23 20:39:29",
+      "watch_url": null
+    },
+    {
       "title": "Ten Billion Days and One Hundred Billion Nights",
       "year": 1967,
       "medium": "Novel",
@@ -33905,5 +33921,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2119
+  "count": 2120
 }
