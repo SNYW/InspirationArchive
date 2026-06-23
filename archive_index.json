@@ -13121,6 +13121,22 @@
       "watch_url": null
     },
     {
+      "title": "Life Tracker",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Michael K. McCann",
+      "raw_score": 2.45,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Technology, Prediction, Science",
+      "image_filename": "Life_Tracker_2013.jpg",
+      "pitch": "A documentary filmmaker investigates Life Tracker Limited, a company claiming to predict biological events through DNA analysis. What starts as a pseudoscience expos\u00e9 becomes a paranoid hunt for dangerous truth.",
+      "created_at": "2026-06-23 16:04:33",
+      "watch_url": null
+    },
+    {
       "title": "Light Blast",
       "year": 1985,
       "medium": "Film",
@@ -17998,6 +18014,22 @@
       "image_filename": "Quantum_Break_2016.jpg",
       "pitch": "Quantum Break is a 2016 action-adventure third-person shooter developed by Finnish studio Remedy Entertainment. The game centers on Jack Joyce, who gains time manipulation powers after a failed time-machine experiment, as he battles his former friend Paul Serene over preventing an apocalyptic \"End of Time.\" What sets Quantum Break apart is its unique blend of traditional video game gameplay with integrated live-action television episodes, creating a transmedia experience where player choices affect the narrative.\n\nThe game was originally conceived as a sequel to Remedy's earlier title Alan Wake, but Microsoft redirected the project toward a new intellectual property focused on time travel. The result is a story-driven action experience that combines cinematic storytelling with interactive gameplay, featuring performances by actors like Aidan Gillen and Lance Reddick in both the game and the accompanying TV segments.",
       "created_at": "2026-03-04 19:48:27",
+      "watch_url": null
+    },
+    {
+      "title": "Quarantine L.A.",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "James William M.",
+      "raw_score": 1.85,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Pandemic, Survival, Outbreak",
+      "image_filename": "Quarantine_L.A._2016.jpg",
+      "pitch": "Seven strangers wake up trapped in isolated Los Angeles after a devastating viral outbreak. The infected have been dramatically altered\u2014turned into something beyond zombies. They must band together to survive the night.",
+      "created_at": "2026-06-23 16:05:15",
       "watch_url": null
     },
     {
@@ -33585,5 +33617,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2099
+  "count": 2101
 }
