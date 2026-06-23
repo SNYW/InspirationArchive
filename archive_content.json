@@ -22555,6 +22555,24 @@
       "watch_url": null
     },
     {
+      "title": "Sori: Voice from the Heart",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.35,
+      "total_ratings": 17,
+      "origin": "South-Korea",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "AI, Memory, Grief, Family",
+      "image_filename": "sori_voice_from_the_heart.jpg",
+      "pitch": "A grieving father searches for his missing daughter and finds Sori, an AI that records sounds worldwide. Together they track traces of her voice, forming an unexpected bond. Quiet, melancholic sci-fi about grief and technology.",
+      "truth": "Hae-kwan searches for his missing daughter and finds Sori, an AI that records sounds. They journey together following traces of her voice. As they search, man and machine form a bond\u2014Sori learns human emotion while Hae-kwan finds hope.",
+      "core": "Can AI understand grief? Sori represents hope and the limits of machine emotion. Sound becomes metaphor\u2014voices carry memory. The film asks if algorithm can become love, answered in the bond between father and robot.",
+      "created_at": "2026-06-23 11:06:54",
+      "watch_url": null
+    },
+    {
       "title": "Soul Hunter",
       "year": 1999,
       "medium": "Anime",
@@ -37207,5 +37225,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2067
+  "count": 2068
 }
