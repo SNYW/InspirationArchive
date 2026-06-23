@@ -4881,6 +4881,22 @@
       "watch_url": null
     },
     {
+      "title": "Cold Lazarus",
+      "year": 1996,
+      "medium": "TV Series",
+      "creator": "Dennis Potter",
+      "raw_score": 3.4,
+      "total_ratings": 22,
+      "origin": "UK",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Dystopia, Virtual Reality, AI, Rebellion",
+      "image_filename": "Cold_Lazarus_1996.jpg",
+      "pitch": "In 24th-century Britain, a world of synthetic experiences and corporate control, scientists attempt to revive a frozen 20th-century writer's mind. Written by Dennis Potter in his final months, this four-part drama explores consciousness and authenticity.",
+      "created_at": "2026-06-23 07:45:21",
+      "watch_url": null
+    },
+    {
       "title": "Colony",
       "year": 2016,
       "medium": "TV Series",
@@ -14881,6 +14897,22 @@
       "watch_url": null
     },
     {
+      "title": "My Parents Are Aliens",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Andy Watts",
+      "raw_score": 3.35,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Family, Children, Survival",
+      "image_filename": "My_Parents_Are_Aliens_1999.jpg",
+      "pitch": "Three orphaned siblings discover their new foster parents are aliens from planet Valux who crash-landed on Earth. A British children's sitcom blending family drama with extraterrestrial comedy.",
+      "created_at": "2026-06-23 07:45:35",
+      "watch_url": null
+    },
+    {
       "title": "My Twentieth Century",
       "year": 1989,
       "medium": "Film",
@@ -15230,6 +15262,22 @@
       "image_filename": "Neutron_and_the_Black_Mask_1962.jpg",
       "pitch": "Neutr\u00f3n el enmascarado negro (The Black Mask) is a 1962 Mexican sci-fi superhero film featuring Neutron, a masked wrestler who fights crime with his fists and wit. When a sinister gang of crooks plots to steal a secret formula, Neutron springs into action to stop their evil scheme.\n\nThis film represents a unique branch of Mexican cinema \u2014 the luchador superhero genre \u2014 where masked wrestlers double as crime-fighting superheroes. The combination of pulp science fiction with the theatrical tradition of Mexican masked wrestling creates an entertaining hybrid that predates many later superhero films.",
       "created_at": "2026-06-13 10:40:26",
+      "watch_url": null
+    },
+    {
+      "title": "Neverwhere",
+      "year": 1996,
+      "medium": "TV Series",
+      "creator": "Neil Gaiman",
+      "raw_score": 3.33,
+      "total_ratings": 55,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Urban Fantasy",
+      "topics": "Magic, Urban Fantasy, Identity, Survival",
+      "image_filename": "Neverwhere_1996.jpg",
+      "pitch": "A young businessman helping an injured girl discovers he has been erased from the world above, existing only in London Below \u2014 a magical realm beneath the sewers where the homeless and fantastical creatures dwell. Neil Gaiman's urban fantasy adaptation.",
+      "created_at": "2026-06-23 07:45:29",
       "watch_url": null
     },
     {
@@ -32609,5 +32657,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2038
+  "count": 2041
 }

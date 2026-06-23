@@ -5491,6 +5491,24 @@
       "watch_url": null
     },
     {
+      "title": "Cold Lazarus",
+      "year": 1996,
+      "medium": "TV Series",
+      "creator": "Dennis Potter",
+      "raw_score": 3.4,
+      "total_ratings": 22,
+      "origin": "UK",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Dystopia, Virtual Reality, AI, Rebellion",
+      "image_filename": "Cold_Lazarus_1996.jpg",
+      "pitch": "In 24th-century Britain, a world of synthetic experiences and corporate control, scientists attempt to revive a frozen 20th-century writer's mind. Written by Dennis Potter in his final months, this four-part drama explores consciousness and authenticity.",
+      "truth": "In 2368, Britain run by American oligarchs. Dr. Porlock revives writer Daniel Feeld, cryonically preserved. Media mogul Siltz wants to broadcast his memories. Resistance member Glazunov fights the virtual society. Feeld revives conscious but pleading to die. Glazunov destroys all.",
+      "core": "Potter's only SF work, created while dying. Asks whether consciousness without authenticity is life, and what value human memory has when commodified. No easy answers \u2014 only the question of whether trapped consciousness truly lives.",
+      "created_at": "2026-06-23 07:45:21",
+      "watch_url": null
+    },
+    {
       "title": "Colony",
       "year": 2016,
       "medium": "TV Series",
@@ -16741,6 +16759,24 @@
       "watch_url": null
     },
     {
+      "title": "My Parents Are Aliens",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Andy Watts",
+      "raw_score": 3.35,
+      "total_ratings": 15,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Family, Children, Survival",
+      "image_filename": "My_Parents_Are_Aliens_1999.jpg",
+      "pitch": "Three orphaned siblings discover their new foster parents are aliens from planet Valux who crash-landed on Earth. A British children's sitcom blending family drama with extraterrestrial comedy.",
+      "truth": "Mel, Josh, and Lucy Barker are fostered by Brian and Sophie Johnson, who are actually Valuxian aliens. Their spaceship crashed when Brian tampered with controls. The children must hide their parents' alien nature while learning to coexist.",
+      "core": "Subversive children's sci-fi that treats alien incompetence with warmth. The show ran for 8 series, gaining an unexpected adult following for its gentle subversion of family and cultural norms. Notable for blending comedy with genuine emotional depth.",
+      "created_at": "2026-06-23 07:45:35",
+      "watch_url": null
+    },
+    {
       "title": "My Twentieth Century",
       "year": 1989,
       "medium": "Film",
@@ -17134,6 +17170,24 @@
       "truth": "The film opens with a criminal gang attempting to steal a secret formula from a scientist's laboratory. The formula belongs to Professor Vargas, who has developed a powerful chemical compound. The criminals are thwarted in their initial attempt but escape with some notes.\n\nNeutron, the mysterious masked hero, learns of the crime and begins investigating. He discovers the gang plans to use the formula for their own malicious purposes. Along the way, Neutron faces various henchmen in physical confrontations that showcase his wrestling prowess.\n\nThe climax reveals the full extent of the villain's plan, and Neutron must use all his skills to thwart the formula from falling into the wrong hands. After defeating the gang's leader, Neutron ensures the formula is returned to its rightful owner.",
       "core": "Neutron and the Black Mask represents an interesting footnote in sci-fi film history \u2014 the Mexican luchador superhero. These films combined the popular tradition of masked wrestling with pulp science fiction, creating uniquely Mexican genre entertainment.\n\nWhile the production values are modest, the films serve as an important example of how science fiction crossed cultural boundaries in the 1960s. The genre influenced later superhero films and demonstrates the global reach of sci-fi storytelling traditions.",
       "created_at": "2026-06-13 10:40:26",
+      "watch_url": null
+    },
+    {
+      "title": "Neverwhere",
+      "year": 1996,
+      "medium": "TV Series",
+      "creator": "Neil Gaiman",
+      "raw_score": 3.33,
+      "total_ratings": 55,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Urban Fantasy",
+      "topics": "Magic, Urban Fantasy, Identity, Survival",
+      "image_filename": "Neverwhere_1996.jpg",
+      "pitch": "A young businessman helping an injured girl discovers he has been erased from the world above, existing only in London Below \u2014 a magical realm beneath the sewers where the homeless and fantastical creatures dwell. Neil Gaiman's urban fantasy adaptation.",
+      "truth": "Richard Mayhew helps Door and ceases to exist in London Above. He travels London Below with Door, hunted by assassins Croup and Vandemar. With allies including the Marquis de Carabas and the Angel Islington, Richard learns to survive in this hidden world until he can return home.",
+      "core": "Gaiman explores identity and belonging through a parallel London. The homeless become invisible citizens of a magical realm. Richard must choose between his old life and a new purpose. Notable early roles for Peter Capaldi and Laura Fraser.",
+      "created_at": "2026-06-23 07:45:29",
       "watch_url": null
     },
     {
@@ -36685,5 +36739,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2038
+  "count": 2041
 }
