@@ -2449,6 +2449,22 @@
       "watch_url": "https://archive.org/details/turner_video_136095"
     },
     {
+      "title": "Armitage: Dual Matrix",
+      "year": 2002,
+      "medium": "Anime Film",
+      "creator": "AIC",
+      "raw_score": 3.23,
+      "total_ratings": 59,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Cybernetics, Corporate Power",
+      "image_filename": "Armitage_Dual_Matrix_2002.jpg",
+      "pitch": "Armitage: Dual Matrix is a 2002 cyberpunk anime film, the sequel to Armitage III. Naomi Armitage \u2014 a highly advanced Type-III android \u2014 and partner Ross Sylibus now live quietly on Mars with their daughter. When an android riot erupts on Earth, their hidden life is threatened.",
+      "created_at": "2026-06-23 12:19:21",
+      "watch_url": null
+    },
+    {
       "title": "Armored Trooper VOTOMS",
       "year": 1983,
       "medium": "Anime",
@@ -3359,6 +3375,22 @@
       "pitch": "A young wolf cub discovers an alien with an enormous ear who can hear cosmic communications but misses the forest creatures' cries for help when they need him most. A gentle Soviet children's sci-fi fantasy.",
       "created_at": "2026-06-22 15:34:57",
       "watch_url": "https://archive.org/details/9324-big-ear"
+    },
+    {
+      "title": "Big Man Japan",
+      "year": 2007,
+      "medium": "Film",
+      "creator": "Hitoshi Matsumoto",
+      "raw_score": 3.01,
+      "total_ratings": 97,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Rebellion",
+      "image_filename": "Big_Man_Japan_2007.jpg",
+      "pitch": "Big Man Japan is a 2007 Japanese kaiju mockumentary written, starring and directed by Hitoshi Matsumoto. Masaru Daisatou is an otherwise normal Japanese citizen \u2014 except for an inherited ability to grow to 30 meters tall when struck by high voltage electricity. He fights giant monsters for the Ministry of Monster Prevention while his ratings fluctuate on TV.",
+      "created_at": "2026-06-23 12:19:56",
+      "watch_url": null
     },
     {
       "title": "Big Wars",
@@ -5966,6 +5998,22 @@
       "image_filename": "Death_Stranding_2019.jpg",
       "pitch": "Death Stranding is a 2019 action-adventure game developed by Kojima Productions, marking director Hideo Kojima's first original game after his departure from Konami. Set in a post-apocalyptic United States following a cataclysmic event called the \"Death Stranding,\" the game puts players in the role of Sam Porter Bridges, a courier tasked with delivering supplies to isolated colonies and reconnecting them via a wireless communications network known as the Chiral Network.\n\nThe game is set in the United States after mysterious creatures known as \"Beached Things\" (BTs) began roaming the Earth following a catastrophic event. These entities are surrounded by \"Timefall\" rain that accelerates aging and deterioration. The event devastated the country's infrastructure, forcing the remaining population into remote colonies called \"KNOT Cities.\" Players must navigate this treacherous landscape while avoiding BTs, hostile militia groups, and the challenges of delivering cargo across vast distances.\n\nWhat sets Death Stranding apart is its innovative \"strand\" gameplay style\u2014a new genre Kojima coined\u2014which emphasizes asynchronous online cooperation. Players can leave supplies, structures, and messages for others to find, creating a shared experience without direct interaction. The game features an ensemble cast including Norman Reedus, Mads Mikkelsen, L\u00e9a Seydoux, and Guillermo del Toro in supporting roles.",
       "created_at": "2026-03-19 02:53:13",
+      "watch_url": null
+    },
+    {
+      "title": "Death Trance",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Yuji Shimomura",
+      "raw_score": 3.0,
+      "total_ratings": 68,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Rebellion",
+      "image_filename": "Death_Trance_2005.jpg",
+      "pitch": "Death Trance is a 2005 Japanese action/fantasy film starring Tak Sakaguchi (of Versus fame). In an unknown time and place, a lone swordsman named Grave seeks the ultimate battle. Legend tells of a black coffin at Tougan Temple that grants any man's deepest desire \u2014 but the monks believe it contains the Goddess of Destruction.",
+      "created_at": "2026-06-23 12:19:43",
       "watch_url": null
     },
     {
@@ -8673,6 +8721,22 @@
       "watch_url": null
     },
     {
+      "title": "Funky Forest: The First Contact",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Katsuhito Ishii, Hajime Ishimine, Shunichiro Miki",
+      "raw_score": 3.2,
+      "total_ratings": 62,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Isolation",
+      "image_filename": "Funky_Forest_The_First_Contact_2005.jpg",
+      "pitch": "Funky Forest: The First Contact is a 2005 Japanese surrealist anthology sci-fi comedy featuring multiple intersecting storylines. Directed by Katsuhito Ishii and collaborators, it weaves together bizarre tales involving unusual characters \u2014 including a man with guitar fingers, a one-eyed doctor, and other eccentrics. Part comedy, part surreal fever dream.",
+      "created_at": "2026-06-23 12:19:30",
+      "watch_url": null
+    },
+    {
       "title": "Funky Koval",
       "year": 1982,
       "medium": "Graphic Novel",
@@ -9102,6 +9166,22 @@
       "image_filename": "Generation_P_2011.jpg",
       "pitch": "A disaffected poet-turned-advertising copywriter navigates Moscow's chaotic 90s. As he climbs the corporate ladder, he discovers that advertising is actually ancient Babylonian mythology come to life.",
       "created_at": "2026-06-17 14:40:26",
+      "watch_url": null
+    },
+    {
+      "title": "Genius Party",
+      "year": 2007,
+      "medium": "Anime Film",
+      "creator": "Studio 4\u00b0C",
+      "raw_score": 3.25,
+      "total_ratings": 59,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, VR, Evolution",
+      "image_filename": "Genius_Party_2007.jpg",
+      "pitch": "Genius Party is an animated anthology from Studio 4\u00b0C featuring seven distinct shorts directed by top Japanese animators including Masaaki Yuasa and Shinichir\u014d Watanabe. Each film has its own unique style and story \u2014 from surreal abstract art to cyberpunk adventure to poetic fantasy.",
+      "created_at": "2026-06-23 12:19:08",
       "watch_url": null
     },
     {
@@ -33169,5 +33249,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2073
+  "count": 2078
 }
