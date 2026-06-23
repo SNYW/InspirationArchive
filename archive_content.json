@@ -24301,6 +24301,24 @@
       "watch_url": null
     },
     {
+      "title": "Terminus",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Pierre-William Glenn",
+      "raw_score": 4.1,
+      "total_ratings": 27,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "AI, Cloning, Space Travel",
+      "image_filename": "terminus_1987.jpg",
+      "pitch": "In 2037, drivers race armored trucks across a post-apocalyptic wasteland in a deadly sport. When the AI fails, pilot Gus enters uncharted territory where she's captured by leather-clad hoods. The twist: her young creator is a clone, watched by the sinister doctor who made him.",
+      "truth": "French-German sci-fi directed by Pierre-William Glenn, starring Johnny Hallyday, Karen Allen, J\u00fcrgen Prochnow. Released January 1987. Inspired by Mad Max 2, praised for props and sets.",
+      "core": "Post-apocalyptic truck racing, AI failure, cloning revelation, survival against hostile wasteland",
+      "created_at": "2026-06-23 06:34:45",
+      "watch_url": null
+    },
+    {
       "title": "Terrahawks",
       "year": 1983,
       "medium": "TV Series",
@@ -36595,5 +36613,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2033
+  "count": 2034
 }
