@@ -29601,6 +29601,22 @@
       "watch_url": null
     },
     {
+      "title": "The Super Powers Team: Galactic Guardians",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "E. Nelson Bridwell, Carmine Infantino",
+      "raw_score": 4.11,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Superheroes, Space Travel, Good vs Evil",
+      "image_filename": "the_super_powers_team_galactic_guardians_1985.jpg",
+      "pitch": "The final chapter in Hanna-Barbera's Super Friends franchise. This 8-episode 1985 season teamed the Justice League with new heroes Cyborg, Samurai and El Dorado against DC villains including Darkseid, Brainiac and Mister Mxyzptlk. The storylines pushed into darker territory than typical Super Friends fare.",
+      "created_at": "2026-06-23 19:04:35",
+      "watch_url": null
+    },
+    {
       "title": "The Super Rider V3",
       "year": 1975,
       "medium": "Film",
@@ -33825,5 +33841,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2114
+  "count": 2115
 }
