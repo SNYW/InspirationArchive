@@ -16705,6 +16705,24 @@
       "watch_url": null
     },
     {
+      "title": "Monster Allergy",
+      "year": 2006,
+      "medium": "TV Series",
+      "creator": "Katja Centomo, Francesco Artibani, Alessandro Barbucci, Barbara Canepa",
+      "raw_score": 4.0,
+      "total_ratings": 13,
+      "origin": "Italy",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Monsters, Supernatural, Friendship, Identity",
+      "image_filename": "Monster_Allergy_2006.jpg",
+      "pitch": "When Elena Potato moves to Old Mill Village, she meets Ezekiel Zick, a boy who can see monsters invisible to everyone else. Together with Timothy-Moth\u2014a creature posing as Zick's cat who is actually a monster tutor\u2014they discover their town hides a secret world of supernatural creatures.",
+      "truth": "Elena Potato moves to Old Mill Village and meets Ezekiel Zick, who can see monsters invisible to ordinary people. With Timothy-Moth, a guardian monster posing as Zick's cat, they uncover a hidden world where supernatural creatures live among humans. When dangerous monsters threaten both worlds, Elena and Zick must protect the balance between realms.",
+      "core": "Monster Allergy uses monsters as metaphors for otherness. Elena and Zick's ability to see what others cannot represents the perspective of those who feel different. The series explores how communities form around shared secrets and friendship between individuals who share uncommon experiences.",
+      "created_at": "2026-06-23 14:49:46",
+      "watch_url": null
+    },
+    {
       "title": "Monster Planet of Godzilla",
       "year": 1994,
       "medium": "Short Film",
@@ -37675,5 +37693,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2093
+  "count": 2094
 }
