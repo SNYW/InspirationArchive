@@ -7361,6 +7361,22 @@
       "watch_url": null
     },
     {
+      "title": "Extreme Dinosaurs",
+      "year": 1997,
+      "medium": "TV Series",
+      "creator": "DIC Entertainment",
+      "raw_score": 3.4,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Evolution, Survival",
+      "image_filename": "Extreme_Dinosaurs_1997.jpg",
+      "pitch": "A 1997 American animated series from DIC Entertainment featuring four anthropomorphic dinosaurs created by aliens who must stop three villainous velociraptors from accelerating global warming to restore Earth's prehistoric climate.",
+      "created_at": "2026-06-23 00:15:56",
+      "watch_url": null
+    },
+    {
       "title": "Eyes Behind the Stars",
       "year": 1978,
       "medium": "Film",
@@ -18737,6 +18753,22 @@
       "watch_url": "https://archive.org/details/e5_20231111"
     },
     {
+      "title": "Sherlock Holmes in the 22nd Century",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "DIC Entertainment",
+      "raw_score": 3.97,
+      "total_ratings": 17,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "AI, Crime, Time-Travel",
+      "image_filename": "Sherlock_Holmes_in_the_22nd_Century_1999.jpg",
+      "pitch": "A 1999 animated series co-produced by DIC Entertainment and Scottish Television in which Sherlock Holmes is brought back to life in the 22nd century to fight crime using advanced technology.",
+      "created_at": "2026-06-23 00:16:11",
+      "watch_url": null
+    },
+    {
       "title": "Shikari",
       "year": 1963,
       "medium": "Film",
@@ -28465,6 +28497,22 @@
       "watch_url": null
     },
     {
+      "title": "The Twisted Tales of Felix the Cat",
+      "year": 1995,
+      "medium": "TV Series",
+      "creator": "Film Roman",
+      "raw_score": 3.9,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Technology, Dreams",
+      "image_filename": "The_Twisted_Tales_of_Felix_the_Cat_1995.jpg",
+      "pitch": "A 1995 American animated series produced by Film Roman featuring Felix the Cat in surreal animated adventures. The show featured Felix navigating various surreal worlds and dimensions.",
+      "created_at": "2026-06-23 00:16:04",
+      "watch_url": null
+    },
+    {
       "title": "The Two Faces of Dr. Jekyll",
       "year": 1960,
       "medium": "Film",
@@ -30011,7 +30059,7 @@
       "mood": "Tense",
       "sub_genres": "Horror, Science-Fantasy",
       "topics": "Evolution",
-      "image_filename": "Tuko_sa_Madre_Kakaw_1959.jpg",
+      "image_filename": "Tuko_Sa_Madre_Kakaw_1959.jpg",
       "pitch": "Tuko sa Madre Kakaw (Gecko on the Madre de Cacao Tree) is a 1959 Filipino science fiction and kaiju film produced by LVN Pictures and directed by Richard Abelardo, one of the Philippines' pioneering special effects directors. Based on a comic by Clodualdo del Mundo Sr., the film tells the story of a mad scientist who develops a serum capable of turning ordinary animals into giants, using it to create a massive gecko that terrorizes a neighborhood. The film represents a fascinating artifact of Filipino cinema during the 1950s Golden Age, when the Philippines was one of Asia's most prolific film-producing countries.",
       "created_at": "2026-03-06 01:28:14",
       "watch_url": null
@@ -31969,5 +32017,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1998
+  "count": 2001
 }

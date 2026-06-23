@@ -8281,6 +8281,24 @@
       "watch_url": null
     },
     {
+      "title": "Extreme Dinosaurs",
+      "year": 1997,
+      "medium": "TV Series",
+      "creator": "DIC Entertainment",
+      "raw_score": 3.4,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Evolution, Survival",
+      "image_filename": "Extreme_Dinosaurs_1997.jpg",
+      "pitch": "A 1997 American animated series from DIC Entertainment featuring four anthropomorphic dinosaurs created by aliens who must stop three villainous velociraptors from accelerating global warming to restore Earth's prehistoric climate.",
+      "truth": "Four dinosaurs \u2014 Bullzacker, Cheer, thug, and Huffy \u2014 were created by aliens and placed in suspended animation. When three velociraptor villains escape and plan to trigger global warming to restore Earth's dinosaur-era climate, the DINOs are awakened to stop them. Across 52 episodes, they battle the villains while adapting to modern life.",
+      "core": "Extreme Dinosaurs represents 1990s children's sci-fi programming that combined the decade's \"extreme\" aesthetic with dinosaur paleontology. The show addresses environmental themes through the lens of what intelligent dinosaurs might think of humanity's impact on Earth.",
+      "created_at": "2026-06-23 00:15:56",
+      "watch_url": null
+    },
+    {
       "title": "Eyes Behind the Stars",
       "year": 1978,
       "medium": "Film",
@@ -21079,6 +21097,24 @@
       "watch_url": "https://archive.org/details/e5_20231111"
     },
     {
+      "title": "Sherlock Holmes in the 22nd Century",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "DIC Entertainment",
+      "raw_score": 3.97,
+      "total_ratings": 17,
+      "origin": "UK",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "AI, Crime, Time-Travel",
+      "image_filename": "Sherlock_Holmes_in_the_22nd_Century_1999.jpg",
+      "pitch": "A 1999 animated series co-produced by DIC Entertainment and Scottish Television in which Sherlock Holmes is brought back to life in the 22nd century to fight crime using advanced technology.",
+      "truth": "Sherlock Holmes is resurrected in the year 22nd century by a futuristic version of Scotland Yard. Using an android companion modeled after Dr. Watson, Holmes uses his deductive reasoning to solve crimes in a world of advanced technology. The series ran for 26 episodes across 2 seasons.",
+      "core": "The series reimagines the classic detective in a far-future setting, exploring how Holmes' deductive methods would apply in a world of artificial intelligence and advanced forensics. It was nominated for a Daytime Emmy.",
+      "created_at": "2026-06-23 00:16:11",
+      "watch_url": null
+    },
+    {
       "title": "Shikari",
       "year": 1963,
       "medium": "Film",
@@ -32023,6 +32059,24 @@
       "watch_url": null
     },
     {
+      "title": "The Twisted Tales of Felix the Cat",
+      "year": 1995,
+      "medium": "TV Series",
+      "creator": "Film Roman",
+      "raw_score": 3.9,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Technology, Dreams",
+      "image_filename": "The_Twisted_Tales_of_Felix_the_Cat_1995.jpg",
+      "pitch": "A 1995 American animated series produced by Film Roman featuring Felix the Cat in surreal animated adventures. The show featured Felix navigating various surreal worlds and dimensions.",
+      "truth": "The series follows Felix the Cat as he travels through surreal dreamlike worlds and adventures. The first season consisted of 13 episodes and the second season had 8 episodes, airing on CBS Saturday mornings from 1995 to 1997.",
+      "core": "The Twisted Tales of Felix the Cat continued the legacy of the iconic character into the 1990s with a more experimental animated approach, exploring surreal and psychedelic storytelling.",
+      "created_at": "2026-06-23 00:16:04",
+      "watch_url": null
+    },
+    {
       "title": "The Two Faces of Dr. Jekyll",
       "year": 1960,
       "medium": "Film",
@@ -33761,7 +33815,7 @@
       "mood": "Tense",
       "sub_genres": "Horror, Science-Fantasy",
       "topics": "Evolution",
-      "image_filename": "Tuko_sa_Madre_Kakaw_1959.jpg",
+      "image_filename": "Tuko_Sa_Madre_Kakaw_1959.jpg",
       "pitch": "Tuko sa Madre Kakaw (Gecko on the Madre de Cacao Tree) is a 1959 Filipino science fiction and kaiju film produced by LVN Pictures and directed by Richard Abelardo, one of the Philippines' pioneering special effects directors. Based on a comic by Clodualdo del Mundo Sr., the film tells the story of a mad scientist who develops a serum capable of turning ordinary animals into giants, using it to create a massive gecko that terrorizes a neighborhood. The film represents a fascinating artifact of Filipino cinema during the 1950s Golden Age, when the Philippines was one of Asia's most prolific film-producing countries.",
       "truth": "The film centers on a mad biologist who invents a serum that causes animals to grow to enormous sizes. Testing his formula on a gecko (tuko) that lives in a madre de cacao tree near his home, the scientist watches as the creature grows first to the size of a man, then to massive proportions. As the giant gecko escapes and terrorizes the neighborhood, the scientist's assistant discovers his master's plan for world domination and abandons him. The military is called in, but conventional weapons prove useless against the creature. Meanwhile, a rival scientist hired by Americans arrives seeking to steal the formula. The film culminates in a battle between the heroes and the giant gecko, ultimately using a special ray device to shrink the creature back to normal size\u2014but not before it eliminates the villainous foreigners.",
       "core": "Tuko sa Madre Kakaw exemplifies the international wave of 1950s kaiju and monster films that emerged following the success of Godzilla (1954) and other Japanese tokusatsu productions. The film represents the Philippines' contribution to this genre, adapting familiar formula for local audiences while incorporating Filipino cultural elements. The choice of a gecko as the monster reflects a distinctly Philippine context\u2014geckos (tuko) are common in Filipino homes and folklore, where their chirping is often associated with omens. The film also reflects Cold War anxieties through its narrative of foreign powers seeking to exploit local scientific discoveries for their own purposes. As one of the few Filipino science fiction films from the 1950s with surviving documentation, Tuko sa Madre Kakaw provides valuable insight into this overlooked chapter of Philippine cinematic history.",
@@ -35965,5 +36019,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 1998
+  "count": 2001
 }
