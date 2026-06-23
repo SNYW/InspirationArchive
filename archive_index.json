@@ -12945,6 +12945,22 @@
       "watch_url": null
     },
     {
+      "title": "Lilac Ball",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Pavel Arsenov",
+      "raw_score": 2.75,
+      "total_ratings": 23,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Time-Travel, Magic",
+      "image_filename": "lilac_ball.jpg",
+      "pitch": "Alisa Seleznyova and her father meet an alien archaeologist whose ship carries a virus of hatred planted on Earth 26,000 years ago. To stop it, she must travel back to the age of witches and dragons. A Soviet children's space adventure blending sci-fi with Russian folk mythology.",
+      "created_at": "2026-06-23 10:16:12",
+      "watch_url": null
+    },
+    {
       "title": "Lily C.A.T.",
       "year": 1987,
       "medium": "OVA",
@@ -32993,5 +33009,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2062
+  "count": 2063
 }
