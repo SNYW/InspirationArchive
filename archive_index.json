@@ -14417,6 +14417,22 @@
       "watch_url": "https://archive.org/details/gundamzz"
     },
     {
+      "title": "Mobile Suit Gundam: The Origin IV - Eve of Destiny",
+      "year": 2016,
+      "medium": "Anime Film",
+      "creator": "Yoshikazu Yasuhiko (creator), Sunrise",
+      "raw_score": 3.85,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Military, Space-Opera",
+      "topics": "War, Politics, Rebellion",
+      "image_filename": "mobile_suit_gundam_the_origin_iv.jpg",
+      "pitch": "Char Aznable is sent to Earth by Dozle Zabi after the failed Dawn Rebellion. Set in Universal Century 0077, this OVA retells the backstory of the Gundam universe through Char's eyes, exploring his relationship with Garma Zabi and the political intrigue leading to the One Year War.",
+      "created_at": "2026-06-23 08:34:28",
+      "watch_url": null
+    },
+    {
       "title": "Mobile Suit SD Gundam Mk IV",
       "year": 1990,
       "medium": "Anime Film",
@@ -17086,6 +17102,22 @@
       "image_filename": "Platillos_volantes_2003.jpg",
       "pitch": "In 1972 Catalonia, two textile workers become obsessed with UFOs after finding a mysterious note near a corpse. This Spanish sci-fi comedy mixes the absurd with the profound \u2014 a deadpan look at how people cope with the unknowable.",
       "created_at": "2026-06-15 19:19:16",
+      "watch_url": null
+    },
+    {
+      "title": "Platinum Data",
+      "year": 2013,
+      "medium": "Anime Film",
+      "creator": "Kazuto Sato (director), Production I.G",
+      "raw_score": 2.7,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Surveillance, Genetic Engineering, Government Conspiracy",
+      "image_filename": "platinum_data.jpg",
+      "pitch": "In 2017 Japan, a top DNA analyst becomes the prime suspect when the inventor of a DNA analysis system is murdered. His own DNA is found at the crime scene, and he must uncover a government conspiracy to control the people's DNA.",
+      "created_at": "2026-06-23 08:35:48",
       "watch_url": null
     },
     {
@@ -29937,6 +29969,22 @@
       "watch_url": "https://archive.org/details/there-will-come-soft-rains-1984"
     },
     {
+      "title": "Thermae Romae II",
+      "year": 2014,
+      "medium": "Anime Film",
+      "creator": "Yoshiaki Kawajiri (director)",
+      "raw_score": 3.15,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Discovery, Technology",
+      "image_filename": "thermae_romae_ii.jpg",
+      "pitch": "Roman bathhouse architect Lucius returns to ancient Rome via time slip, now tasked with building a thermae in the Colosseum to help gladiators recover. He faces new challenges and must draw inspiration from modern Japanese bath culture again.",
+      "created_at": "2026-06-23 08:35:29",
+      "watch_url": null
+    },
+    {
       "title": "They Came from Beyond Space",
       "year": 1967,
       "medium": "Film",
@@ -30542,6 +30590,22 @@
       "image_filename": "Toto_in_the_Moon_1958.jpg",
       "pitch": "Tot\u00f2 in the Moon is a 1958 Italian comedy science fiction film that represents a delightful piece of Cold War-era space age satire. Directed by Steno (who co-wrote the script with Lucio Fulci), the film follows Achilles Paoloni, a humble delivery boy at a small publishing house who writes a science fiction novel in his spare time. When U.S. scientists discover that Achilles possesses a rare substance in his blood\u2014glumonium, derived from monkey breast milk\u2014making him ideal for spaceflight, two rival powers (the Americans and a mysterious foreign power) compete to recruit him for a moon landing mission.\n\nWhat makes this film remarkable is its playful subversion of spy thriller tropes and space race fever. The aliens\u2014the Annelids\u2014send down two clones (cosoni) of the main characters to sabotage the human mission, in a direct parody of Invasion of the Body Snatchers. The film balances slapstick comedy with genuine sci-fi imagination, creating an entertaining time capsule of 1950s optimism about space exploration mixed with the era's anxieties about Cold War competition.",
       "created_at": "2026-06-13 00:08:27",
+      "watch_url": null
+    },
+    {
+      "title": "Towa no Quon 1: The Ephemeral Petals",
+      "year": 2011,
+      "medium": "Anime Film",
+      "creator": "Yoshiyuki Tomino (creator), Sunrise",
+      "raw_score": 3.4,
+      "total_ratings": 30,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Rebellion, Identity",
+      "image_filename": "towa_no_quon_1.jpg",
+      "pitch": "Quon, a boy who can see the soul in others, awakens supernatural powers called 'Attractors' along with other children. A secret organization hunts them, seeking to control their abilities.",
+      "created_at": "2026-06-23 08:35:12",
       "watch_url": null
     },
     {
@@ -32689,5 +32753,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2043
+  "count": 2047
 }
