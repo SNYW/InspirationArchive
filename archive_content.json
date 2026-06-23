@@ -4915,6 +4915,24 @@
       "watch_url": "https://archive.org/details/catsoup"
     },
     {
+      "title": "Cat-Women of the Moon",
+      "year": 1953,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.06,
+      "total_ratings": 50,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Space Travel, Aliens",
+      "image_filename": "Cat-Women_of_the_Moon_1953.jpg",
+      "pitch": "Astronauts land on the Moon expecting history, but discover an underground civilization of telepathic cat-women who summon men to breed with them. The cat-women use hypnotic powers to control the astronauts, trapping them in a lunar pleasure palace. Only one astronaut resists long enough to escape with the sole female crew member, leaving his comrade behind.",
+      "truth": "Three astronauts land on the Moon and find an underground cavern with beautiful women in black cat-suits. The cat-women explain they summoned the men to breed with them. Using telepathic hypnosis, they control the men. John immediately succumbs, but Harvey resists. June, the only female astronaut, is immune. Harvey and June escape in the rocket while John remains trapped forever.",
+      "core": "Campy 1950s B-movie exploring gender dynamics through alien encounters. The cat-women embody fears of female allure and temptation. Low-budget but daring for its era\u2014early sci-fi presenting aliens as sophisticated rather than hostile monsters.",
+      "created_at": "2026-06-23 02:49:41",
+      "watch_url": null
+    },
+    {
       "title": "Catherine and I",
       "year": 1980,
       "medium": "Film",
@@ -16108,6 +16126,24 @@
       "truth": "Julie Blair is an American artist enjoying a vacation at a coastal village in Mexico. She hears local stories about a mysterious man-eating creature living in the cove. She meets Steve Dunning, a marine biologist conducting research in the area, and they become romantically involved. Julie investigates the rumors of sea monster attacks and unexplained disappearances, but Dunning remains skeptical. When a diver is found dead, Julie takes action. She spots a massive amoeba rising from the ocean and manages to secure a tissue sample from the creature. Confronted with undeniable proof, Dunning pilots a one-man submarine to attack and destroy the monster. The film features early appearances from Jonathan Haze and a young Roger Corman himself in minor roles.",
       "core": "This modest B-movie is notable as Roger Corman's first produced film, launching a career that would redefine American independent cinema. Despite its tiny budget\u2014reportedly $12,000-$15,000\u2014and familiar creature-at-large premise, the film is noteworthy for its capable female protagonist who drives the investigation and saves the day. The picture represents the birth of Corman's penny-pinching production philosophy: maximum impact with minimum resources. It also established relationships that would lead to the creation of American International Pictures, which dominated teen-oriented sci-fi and horror films through the 1950s and 60s.",
       "created_at": "2026-06-12 23:37:21",
+      "watch_url": null
+    },
+    {
+      "title": "Monster on the Campus",
+      "year": 1958,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.07,
+      "total_ratings": 53,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Science, Evolution",
+      "image_filename": "Monster_on_the_Campus_1958.jpg",
+      "pitch": "A paleontology professor acquires a newly discovered coelacanth specimen for his research. When he accidentally exposes it to ancient blood, he begins transforming into a murderous Neanderthal man whenever the specimen is near. His transformation escalates until he becomes a dangerous caveman threat to the entire campus.",
+      "truth": "Professor Cromwell examines a coelacanth that reacts to ancient blood, causing him to transform into a violent Neanderthal. Students investigate and discover his link to the creature. The specimen is destroyed, ending Cromwell's transformations.",
+      "core": "1950s horror exploring science's hubris. Uses evolutionary regression as metaphor for primal violence. Early example of the scientist-as-monster trope with creative practical effects.",
+      "created_at": "2026-06-23 02:49:55",
       "watch_url": null
     },
     {
@@ -29737,6 +29773,24 @@
       "watch_url": "https://archive.org/details/turner_video_99"
     },
     {
+      "title": "The Monster That Challenged the World",
+      "year": 1957,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.82,
+      "total_ratings": 54,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Science, Evolution",
+      "image_filename": "The_Monster_That_Challenged_the_World_1957.jpg",
+      "pitch": "An earthquake releases giant intelligent mollusks from deep underground, and they begin hunting humans along the California coast. These creatures can survive any attack and communicate telepathically, planning to reclaim the surface world. Only a scientist and his daughter stand between the creatures and humanity's extinction.",
+      "truth": "An earthquake releases giant mollusks that emerge from underground. The creatures are intelligent and telepathic, planning to reclaim Earth. Scientists discover they can only be killed by radiation. A Navy officer sacrifices himself to deliver a nuclear device that destroys the creatures.",
+      "core": "Cold War paranoia meets sci-fi creature feature. The mollusks represent unseen threats beneath society. Early use of radiation as both threat and solution reflects atomic-age anxieties.",
+      "created_at": "2026-06-23 02:50:03",
+      "watch_url": null
+    },
+    {
       "title": "The Monster X Strikes Back: Attack the G8 Summit",
       "year": 2008,
       "medium": "Film",
@@ -36217,5 +36271,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2012
+  "count": 2015
 }
