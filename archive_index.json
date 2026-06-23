@@ -5921,6 +5921,22 @@
       "watch_url": null
     },
     {
+      "title": "Decoder",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Muscha",
+      "raw_score": 3.1,
+      "total_ratings": 41,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "Surveillance, Rebellion, Music",
+      "image_filename": "decoder_1984.jpg",
+      "pitch": "Government agent Jaeger suppresses dissent through controlling media exposure. When musician F.M. discovers that replacing muzak with industrial music sparks riots, he finds a sonic weapon for revolution. Lo-fi cyberpunk cult film featuring William S. Burroughs.",
+      "created_at": "2026-06-23 07:19:43",
+      "watch_url": null
+    },
+    {
       "title": "Deep Insanity",
       "year": 2021,
       "medium": "Anime",
@@ -9838,6 +9854,22 @@
       "image_filename": "Hard_to_Be_a_God_1964.jpg",
       "pitch": "In a distant future, Earth has achieved near-utopian heights, but a dark shadow looms over the galaxy: the planet Arkanar, a world trapped in its own brutal medieval period. Don Rumata, a highly evolved human from Earth, operates undercover on Arkanar as a noble's advisor, equipped with technology that makes him nearly godlike to the planet's oppressed populace. His mission: observe and document without interfering in the natural development of primitive civilizations\u2014a strict policy of non-intervention.\n\nBut Arkanar is no ordinary medieval world. It's a place where intellectuals are hunted, books are burned, and violence is worshipped as divine will. Rumata watches helplessly as the planet's small population of scholars, scientists, and free thinkers is systematically exterminated by a ruthless aristocracy and religious authorities. The temptation to use his superior abilities to save these innocent people grows unbearable, yet breaking the observational protocol could have galaxy-wide consequences.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Hard to Be a God",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Peter Fleischmann",
+      "raw_score": 3.05,
+      "total_ratings": 48,
+      "origin": "Germany",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Power, Violence, Morality",
+      "image_filename": "hard_to_be_a_god_1990.jpg",
+      "pitch": "An Earth scientist is sent to a medieval alien world as a disguised observer. Posing as noble don Rumata, he witnesses the brutal oppression of intellectuals by feudal forces. When the local resident is killed in a coup, he must decide whether to intervene or preserve his mission's non-interference principle.",
+      "created_at": "2026-06-23 07:19:51",
       "watch_url": null
     },
     {
@@ -23025,6 +23057,22 @@
       "watch_url": "https://archive.org/details/colossus-of-new-york"
     },
     {
+      "title": "The Coming Days",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Lars Kraume",
+      "raw_score": 2.45,
+      "total_ratings": 36,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, Family, Authoritarianism",
+      "image_filename": "the_coming_days_2010.jpg",
+      "pitch": "In the near-future Germany depicted in The Coming Days, social and international instability escalate from 2012 to 2020. The European Union collapses following the fourth Gulf War, while barricades keep illegal immigrants out of barely functioning cities. Two sisters must choose sides as their family is torn apart by rising extremism.",
+      "created_at": "2026-06-23 07:19:47",
+      "watch_url": null
+    },
+    {
       "title": "The Congress",
       "year": 2013,
       "medium": "Animated Film",
@@ -32561,5 +32609,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2035
+  "count": 2038
 }

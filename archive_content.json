@@ -6661,6 +6661,24 @@
       "watch_url": null
     },
     {
+      "title": "Decoder",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Muscha",
+      "raw_score": 3.1,
+      "total_ratings": 41,
+      "origin": "Germany",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "Surveillance, Rebellion, Music",
+      "image_filename": "decoder_1984.jpg",
+      "pitch": "Government agent Jaeger suppresses dissent through controlling media exposure. When musician F.M. discovers that replacing muzak with industrial music sparks riots, he finds a sonic weapon for revolution. Lo-fi cyberpunk cult film featuring William S. Burroughs.",
+      "truth": "Jaeger monitors media at H-Burger to suppress dissent. When F.M. discovers industrial music sparks rebellion, he uses it as a weapon. Jaeger's efforts fail as riots spread, forcing him to choose between duty and awakening.",
+      "core": "Prescient media manipulation and sonic surveillance from 1984. Draws on Burroughs' theories about consciousness control. Lo-fi production with countercultural cast gives underground authenticity.",
+      "created_at": "2026-06-23 07:19:43",
+      "watch_url": null
+    },
+    {
       "title": "Deep Insanity",
       "year": 2021,
       "medium": "Anime",
@@ -11068,6 +11086,24 @@
       "truth": "The novel follows Don Rumata, an agent of the Earth-based Institute of Experimental History, who has lived among the people of Arkanar for years. Operating under the alias of a nobleman, Rumata possesses advanced technology that allows him to appear as a figure of immense power and wisdom to the Arkanarians\u2014technology he carefully conceals to maintain his cover.\n\nArkanar exists in a state of perpetual darkness\u2014both literally, due to its dim star, and figuratively. The planet is ruled by a brutal hierarchy: the aristocracy controls the populace through fear and religious manipulation, while a monk-like order called the \"Holy Order\" persecutes anyone with knowledge or learning. Scholars, doctors, and scientists are hunted as heretics, their books destroyed, their works erased from history.\n\nRumata's greatest frustration comes from the Institute's strict protocol: \"basis theory\" mandates that advanced civilizations must not interfere with the natural development of less advanced societies, even when those societies are committing atrocities. The logic is that premature intervention breeds dependency and distorts the evolutionary path. Yet watching innocent people brutalized daily, Rumata struggles with whether this policy is ethical or merely convenient for those safely observing from afar.\n\nThe story intensifies as Rumata forms connections with several key Arkanarians\u2014a young warrior named Baron Pampa, a scholar named He-Lui, and a brave woman named Kira. He watches each of them face the brutal machinery of Arkanar's power structures. The political situation grows increasingly unstable as competing nobles wage war and the Holy Order consolidates power through fear.\n\nThe novel reaches its devastating climax when Rumata finally faces an impossible choice: continue his observation as scholars are burned alive, or intervene and potentially doom Earth's future generations through the \"butterfly effect\" of premature technological introduction. The ending is profoundly ambiguous and tragic, leaving questions about the nature of progress, the cost of non-intervention, and whether true ethics can exist without the power to act.",
       "core": "Hard to Be a God is a profound meditation on the ethics of intervention, the nature of progress, and the relationship between power and responsibility. The Strugatsky brothers, writing in Soviet-era Russia, crafted a work that functions on multiple levels\u2014as science fiction, as political allegory, and as philosophical inquiry.\n\nThe central question the novel poses is deceptively simple: if you have the power to prevent suffering, are you morally obligated to act, or does respecting the \"natural\" development of others take precedence? This tension between the idealistic basis theory and Rumata's growing despair forms the emotional core of the work. The authors seem to suggest that non-intervention is often just another form of complicity\u2014that observers who have the power to help but choose not to share some responsibility for the atrocities they witness.\n\nThe novel also explores the nature of violence and barbarism as cyclical forces. Arkanar's medieval darkness isn't an aberration but a pattern the galaxy has seen before and will likely see again. The Institute's observations serve not just to satisfy curiosity but to understand how civilizations fall into and emerge from such periods.\n\nCritically, the work can be read as the Strugatskys' commentary on Soviet society\u2014where the state controlled knowledge, suppressed intellectualism, and used fear and violence to maintain power. The Holy Order's persecution of scholars mirrors historical purges, while the common people's acceptance of their oppression reflects the authors' observations of societal complicity in authoritarian systems.\n\nWhat makes Hard to Be a God particularly haunting is its refusal to offer easy answers. Even at the end, we're left wondering if Rumata's restraint was wisdom or cowardice, if intervention would have helped or made things worse. The novel suggests that being godlike\u2014having power over others\u2014may be less a blessing than a terrible burden of impossible choices.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Hard to Be a God",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Peter Fleischmann",
+      "raw_score": 3.05,
+      "total_ratings": 48,
+      "origin": "Germany",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Power, Violence, Morality",
+      "image_filename": "hard_to_be_a_god_1990.jpg",
+      "pitch": "An Earth scientist is sent to a medieval alien world as a disguised observer. Posing as noble don Rumata, he witnesses the brutal oppression of intellectuals by feudal forces. When the local resident is killed in a coup, he must decide whether to intervene or preserve his mission's non-interference principle.",
+      "truth": "Earth's Institute of Experimental History sends an agent to a planet stuck in medieval times. Posing as don Rumata, he integrates with the local nobility while trying to contact the local resident. When the resident dies in a failed palace coup, Rumata must take their place and decide whether to use his advanced knowledge to help the oppressed intellectuals or maintain non-interference.",
+      "core": "An adaptation of the Strugatsky brothers' novel, exploring themes of power, knowledge, and the moral dilemma of observing suffering without intervening. The protagonist's god-like knowledge creates an impossible choice between passive observation and active revolution.",
+      "created_at": "2026-06-23 07:19:51",
       "watch_url": null
     },
     {
@@ -25903,6 +25939,24 @@
       "watch_url": "https://archive.org/details/colossus-of-new-york"
     },
     {
+      "title": "The Coming Days",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Lars Kraume",
+      "raw_score": 2.45,
+      "total_ratings": 36,
+      "origin": "Germany",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Politics, Family, Authoritarianism",
+      "image_filename": "the_coming_days_2010.jpg",
+      "pitch": "In the near-future Germany depicted in The Coming Days, social and international instability escalate from 2012 to 2020. The European Union collapses following the fourth Gulf War, while barricades keep illegal immigrants out of barely functioning cities. Two sisters must choose sides as their family is torn apart by rising extremism.",
+      "truth": "Laura Kuper's family is divided by the escalating crisis. Her father Walter is an energy executive, her sister Cecilia joins the Black Storm terrorist group, and Laura must navigate between her mother's moderate stance and her sister's radicalism. As society collapses, the family represents a microcosm of a society at war with itself.",
+      "core": "A German dystopian vision examining how families fracture under political collapse. The film uses the Kuper family as a microcosm for society-wide tensions between corporate power, terrorism, and complicit neutrality.",
+      "created_at": "2026-06-23 07:19:47",
+      "watch_url": null
+    },
+    {
       "title": "The Congress",
       "year": 2013,
       "medium": "Animated Film",
@@ -36631,5 +36685,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2035
+  "count": 2038
 }
