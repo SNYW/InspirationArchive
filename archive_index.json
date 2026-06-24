@@ -6385,6 +6385,22 @@
       "watch_url": null
     },
     {
+      "title": "Death Has Blue Eyes",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Panos H. Koutras",
+      "raw_score": 1.66,
+      "total_ratings": 16,
+      "origin": "Greece",
+      "mood": "Tense",
+      "sub_genres": "Thriller",
+      "topics": "Psychic Powers, Crime",
+      "image_filename": "Death_Has_Blue_Eyes_1976.jpg",
+      "pitch": "Two freelance bodyguards are hired to protect a young woman with terrifying psychic abilities - she can see violent deaths before they happen. Their straightforward security job becomes a deadly game.",
+      "created_at": "2026-06-24 16:40:43",
+      "watch_url": null
+    },
+    {
       "title": "Death Machine",
       "year": 1994,
       "medium": "Film",
@@ -35681,5 +35697,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2230
+  "count": 2231
 }
