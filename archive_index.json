@@ -4657,6 +4657,22 @@
       "watch_url": null
     },
     {
+      "title": "Captain Power and the Soldiers of the Future",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "MGM Television",
+      "raw_score": 3.75,
+      "total_ratings": 68,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Military, Cyberpunk",
+      "topics": "Robots, Rebellion, Virtual Reality",
+      "image_filename": "Captain_Power_and_the_Soldiers_of_the_Future_1987.jpg",
+      "pitch": "Canadian-American hybrid series merging live action with computer-generated animation. In 2156, Captain Power and his team of soldiers fight against the robotic regime of Lord Dread\u2014a half-man, half-machine tyrant who rules through fear and controls humanity through bio-chip implants. The soldiers use advanced technology and combat tactics to resist the machine empire.",
+      "created_at": "2026-06-24 13:20:36",
+      "watch_url": null
+    },
+    {
       "title": "Captain Scarlet and the Mysterons",
       "year": 1967,
       "medium": "TV Series",
@@ -14817,6 +14833,22 @@
       "watch_url": null
     },
     {
+      "title": "Max Headroom",
+      "year": 1987,
+      "medium": "TV Series",
+      "creator": "ABC/Netflix",
+      "raw_score": 3.45,
+      "total_ratings": 75,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Television, Corporate Power, AI",
+      "image_filename": "Max_Headroom_1987.jpg",
+      "pitch": "British-American cyberpunk TV series set in a near-future where television networks battle for ratings in a ruthless war. When reporter Edison Carter uncovers a deadly corporate conspiracy, he is nearly killed and his mind uploaded into a computer, creating Max Headroom\u2014a glitchy, sarcastic digital entity who becomes both ally and threat.",
+      "created_at": "2026-06-24 13:20:21",
+      "watch_url": null
+    },
+    {
       "title": "Max Payne",
       "year": 2001,
       "medium": "Video Game",
@@ -17406,6 +17438,22 @@
       "image_filename": "Once_There_Was_Brasilia_2017.jpg",
       "pitch": "A disgraced intergalactic agent from 1959 is sent to kill President Kubitschek on Bras\u00edlia's inauguration day but arrives in 2016 Ceil\u00e2ndia during Dilma Rousseff's impeachment crisis.",
       "created_at": "2026-06-17 00:08:26",
+      "watch_url": null
+    },
+    {
+      "title": "Once Upon a Time\u2026 Space",
+      "year": 1982,
+      "medium": "TV Series",
+      "creator": "Albert Barill\u00e9",
+      "raw_score": 3.7,
+      "total_ratings": 52,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Aliens, Ecology",
+      "image_filename": "Once_Upon_a_Time_Space_1982.jpg",
+      "pitch": "French-Japanese animated sci-fi series, the third in Albert Barill\u00e9's educational \\\"Il \u00e9tait une fois\u2026\\\" franchise. In a distant future where humanity has joined an interstellar confederation, the wise alien Maestro guides a diverse crew across the galaxy on missions of discovery and cooperation.",
+      "created_at": "2026-06-24 13:20:05",
       "watch_url": null
     },
     {
@@ -24418,6 +24466,22 @@
     },
     {
       "title": "The Big Bang",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Jean-Anne dest",
+      "raw_score": 2.25,
+      "total_ratings": 16,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Dystopia",
+      "topics": "War, Politics, Satire",
+      "image_filename": "The_Big_Bang_1984.jpg",
+      "pitch": "French satirical dystopian film depicting a fictional World War IV. After Italy annihilates Libya, which destroys Israel, and subsequent chain reactions of nuclear warfare between nations, only two continents remain. A darkly comic vision of escalating global conflict and the absurdity of war.",
+      "created_at": "2026-06-24 13:21:02",
+      "watch_url": null
+    },
+    {
+      "title": "The Big Bang",
       "year": 1987,
       "medium": "Animated Film",
       "creator": "Picha",
@@ -29518,6 +29582,22 @@
       "image_filename": "The_Pass_1988.jpg",
       "pitch": "The Pass (Pereval) is a 1988 Soviet animated short film from Soyuzmultfilm, directed by Vladimir Tarasov and written by Kir Bulychov. Based on the first chapter of Bulychov's novel \"The Settlement\" (translated as \"Those Who Survive\"), this 30-minute animated feature tells the story of Earth's first interstellar expedition gone tragically wrong. When a scientific spacecraft crash-lands on an uninhabited planet, the surviving crew must abandon their ship and establish a primitive settlement. Seventeen years later, a new generation\u2014born after the crash and knowing nothing but primitive survival\u2014embarks on a perilous journey back to the abandoned spacecraft to retrieve essential supplies and potentially send a rescue signal to Earth.",
       "created_at": "2026-03-01 14:03:58",
+      "watch_url": null
+    },
+    {
+      "title": "The Penultimate",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Jean-Anne dest",
+      "raw_score": 2.27,
+      "total_ratings": 16,
+      "origin": "France",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia",
+      "topics": "Survival, Isolation",
+      "image_filename": "The_Penultimate_1981.jpg",
+      "pitch": "French dystopian drama. A man wanders through a wrecked, post-apocalyptic city, finding violence everywhere he turns. The sparse, atmospheric film presents a haunting vision of societal collapse and individual isolation in a world without hope.",
+      "created_at": "2026-06-24 13:20:52",
       "watch_url": null
     },
     {
@@ -35297,5 +35377,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2206
+  "count": 2211
 }
