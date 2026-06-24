@@ -19314,6 +19314,22 @@
     },
     {
       "title": "Reigo: King of the Sea Monsters",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Shimpei \u6797\u5bb6\u3057\u3093\u5e73",
+      "raw_score": 3.05,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Horror",
+      "topics": "War, Survival, Military",
+      "image_filename": "Reigo_2005.jpg",
+      "pitch": "During World War II, the Japanese battleship Yamato and its fleet are attacked by a mysterious deep-sea monster \u2014 a legendary dragon called Reigo. After the fleet kills Reigo's offspring, the parent seeks revenge, sinking destroyers every night.",
+      "created_at": "2026-06-24 10:49:41",
+      "watch_url": null
+    },
+    {
+      "title": "Reigo: King of the Sea Monsters",
       "year": 2008,
       "medium": "Film",
       "creator": "Toho",
@@ -20132,15 +20148,15 @@
       "title": "Saikano: The Last Love Song on This Little Planet",
       "year": 2006,
       "medium": "Film",
-      "creator": "Taikan Suga",
+      "creator": "Takan Suga",
       "raw_score": 4.1,
       "total_ratings": 17,
       "origin": "Japan",
       "mood": "Melancholic",
-      "sub_genres": "Romance, Science Fiction, War Drama",
-      "topics": "Love, Loss, Transformation, War",
-      "image_filename": "saikano_2006.jpg",
-      "pitch": "When bombers attack Sapporo, shy student Chise is revealed as Japan's ultimate weapon - her body fused with wings by the JSDF. As war escalates, she must confront losing her humanity.",
+      "sub_genres": "Romance, Science Fiction",
+      "topics": "Love, War, Transhumanism",
+      "image_filename": "Saikano_2006.jpg",
+      "pitch": "In Hokkaido, high school student Shuji discovers his girlfriend Chise has been transformed into a weapon by Japan's Self-Defense Forces. As bombers attack, she fights with mechanized wings \u2014 but her humanity is fading.",
       "created_at": "2026-06-23 11:33:25",
       "watch_url": null
     },
@@ -35073,5 +35089,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2192
+  "count": 2193
 }

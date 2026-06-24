@@ -21728,6 +21728,24 @@
     },
     {
       "title": "Reigo: King of the Sea Monsters",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Shimpei \u6797\u5bb6\u3057\u3093\u5e73",
+      "raw_score": 3.05,
+      "total_ratings": 18,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Horror",
+      "topics": "War, Survival, Military",
+      "image_filename": "Reigo_2005.jpg",
+      "pitch": "During World War II, the Japanese battleship Yamato and its fleet are attacked by a mysterious deep-sea monster \u2014 a legendary dragon called Reigo. After the fleet kills Reigo's offspring, the parent seeks revenge, sinking destroyers every night.",
+      "truth": "In 1944, the Yamato and its fleet at Truk detect an enemy submarine. The Yamato fires and kills what turns out to be a baby Reigo \u2014 a legendary deep-sea dragon. The parent Reigo attacks nightly, sinking destroyers and decimating the fleet. Lt. Cmdr. Takeru Hido is tasked with destroying it.",
+      "core": "Reigo is a kaiju film in the tradition of Godzilla, but with evolved ancient creatures rather than radiation-created monsters. Part of a wave of new tokusatsu films after Godzilla's 50-year run ended in 2004.",
+      "created_at": "2026-06-24 10:49:41",
+      "watch_url": null
+    },
+    {
+      "title": "Reigo: King of the Sea Monsters",
       "year": 2008,
       "medium": "Film",
       "creator": "Toho",
@@ -22648,17 +22666,17 @@
       "title": "Saikano: The Last Love Song on This Little Planet",
       "year": 2006,
       "medium": "Film",
-      "creator": "Taikan Suga",
+      "creator": "Takan Suga",
       "raw_score": 4.1,
       "total_ratings": 17,
       "origin": "Japan",
       "mood": "Melancholic",
-      "sub_genres": "Romance, Science Fiction, War Drama",
-      "topics": "Love, Loss, Transformation, War",
-      "image_filename": "saikano_2006.jpg",
-      "pitch": "When bombers attack Sapporo, shy student Chise is revealed as Japan's ultimate weapon - her body fused with wings by the JSDF. As war escalates, she must confront losing her humanity.",
-      "truth": "Shuji dates the shy Chise who was frequently hospitalized. During bombing, he discovers she intercepts planes with mechanized wings - a JSDF weapon. As the system overtakes her, she loses warmth and heartbeat. He helps her reclaim humanity by proving only humans can love.",
-      "core": "Saikano explores what makes us human when our bodies change. Chise's transformation mirrors her emotional detachment, yet love persists as proof of retained humanity. The narrative critiques war's cost on ordinary citizens and questions creating weapons from unwilling people.",
+      "sub_genres": "Romance, Science Fiction",
+      "topics": "Love, War, Transhumanism",
+      "image_filename": "Saikano_2006.jpg",
+      "pitch": "In Hokkaido, high school student Shuji discovers his girlfriend Chise has been transformed into a weapon by Japan's Self-Defense Forces. As bombers attack, she fights with mechanized wings \u2014 but her humanity is fading.",
+      "truth": "Shuji and Chise's romance is fragile. When bombers attack Sapporo, he discovers she has wings and weaponry fused to her body. As the weapon system takes over, she loses her warmth and senses, becoming a merciless force. Her love for Shuji remains her only human connection.",
+      "core": "Saikano asks: what defines us \u2014 our bodies or our capacity to love? This 2006 film adaptation of Shin Takahashi's manga explores sacrifice and whether love can survive the loss of humanity, blending teenage romance with wartime drama.",
       "created_at": "2026-06-23 11:33:25",
       "watch_url": null
     },
@@ -39457,5 +39475,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2192
+  "count": 2193
 }
