@@ -25409,6 +25409,22 @@
       "watch_url": "https://archive.org/details/einsteinintersec0000samu"
     },
     {
+      "title": "The Element of Crime",
+      "year": 1984,
+      "medium": "Film",
+      "creator": "Lars von Trier",
+      "raw_score": 3.18,
+      "total_ratings": 228,
+      "origin": "Denmark",
+      "mood": "Gritty",
+      "sub_genres": "Noir, Horror",
+      "topics": "Crime, Investigation, Psychology",
+      "image_filename": "The_Element_of_Crime_1984.jpg",
+      "pitch": "Fisher, a burnt-out detective, takes one final case: a serial killer is murdering young girls in Copenhagen. Unable to crack the case himself, Fisher turns to Osbourne, a disgraced criminology professor who advocates empathizing with killers to understand them. As Fisher descends into the killer's mind, the line between investigator and investigated blurs.",
+      "created_at": "2026-06-24 08:22:04",
+      "watch_url": null
+    },
+    {
       "title": "The Empire",
       "year": 2024,
       "medium": "Film",
@@ -30913,6 +30929,22 @@
       "watch_url": null
     },
     {
+      "title": "The Twelve Months of the Summer",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 12,
+      "origin": "Sweden",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Corporate Power, Class Struggle",
+      "image_filename": "The_Twelve_Months_of_the_Summer_1988.jpg",
+      "pitch": "Roger and Lars, two traveling construction workers, are offered an extraordinarily generous contract: one year of work for a ten-year salary. Blindfolded and transported to a remote location, they discover they've been hired to build a mysterious complex in a place where summer lasts all year - but where the sun never sets and surveillance never sleeps.",
+      "created_at": "2026-06-24 08:21:40",
+      "watch_url": null
+    },
+    {
       "title": "The Twisted Tales of Felix the Cat",
       "year": 1995,
       "medium": "TV Series",
@@ -32414,6 +32446,22 @@
       "image_filename": "Tokyo_The_Last_Megalopolis_1988.jpg",
       "pitch": "Tokyo: The Last Megalopolis is a 1988 Japanese epic tokusatsu historical dark fantasy/science fiction film directed by Akio Jissoji and based on the award-winning novel Teito Monogatari by Hiroshi Aramata. With a budget of around 1 billion yen (roughly $8 million), it was one of the most expensive live-action Japanese special effects films of the decade. The film became a notable success in Japan, ranking among the top ten highest-grossing domestic motion pictures of 1988, and is now regarded as a respected cult classic.\n\nThe story spans from 1912 to 1927, depicting a mystical battle over Tokyo's destiny. In 1912, master onmyoji Yasumasa Hirai warns Baron Eiichi Shibusawa that the vengeful spirit of Taira no Masakado\u2014an ancient warlord turned vengeful spirit\u2014must not be disturbed, as its power could destroy the city. When Shibusawa allows the Tsuchimikado sect to bless Tokyo, they are opposed by Yasunori Kato, a former Imperial Army lieutenant who is actually an oni (demon) seeking to awaken Masakado's spirit and destroy Tokyo.",
       "created_at": "2026-03-06 22:16:06",
+      "watch_url": null
+    },
+    {
+      "title": "Tom et Lola",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Bertrand Arthuys",
+      "raw_score": 2.89,
+      "total_ratings": 20,
+      "origin": "France",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Children, Isolation, Survival",
+      "image_filename": "Tom_et_Lola_1990.jpg",
+      "pitch": "Two children with damaged immune systems live inside sealed plastic bubbles in a Paris hospital - protected yet imprisoned, never having felt human touch. Their only connection is each other. When they discover the deflate controls, they escape toward something more meaningful than sterile survival.",
+      "created_at": "2026-06-24 08:21:31",
       "watch_url": null
     },
     {
@@ -34801,5 +34849,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2175
+  "count": 2178
 }
