@@ -21889,6 +21889,22 @@
       "watch_url": "https://archive.org/details/sfcavin-brsubaanimes-legendado"
     },
     {
+      "title": "Space Goofs",
+      "year": 1997,
+      "medium": "Animated Film",
+      "creator": "Arthur Qwak",
+      "raw_score": 3.25,
+      "total_ratings": 23,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, Isolation, Survival",
+      "image_filename": "space_goofs.jpg",
+      "pitch": "Five peculiar monsters from a distant galaxy crash land on Earth and hide in the attic of an empty house. When the house goes up for rent, they must get creative to drive away each new tenant\u2014all while discovering that humans are stranger than they ever imagined.",
+      "created_at": "2026-06-24 14:37:18",
+      "watch_url": null
+    },
+    {
       "title": "Space Invaders",
       "year": 1978,
       "medium": "Video Game",
@@ -32641,6 +32657,22 @@
       "watch_url": null
     },
     {
+      "title": "Time Jam: Valerian & Laureline",
+      "year": 2007,
+      "medium": "Anime",
+      "creator": "Pierre Christin and Jean-Claude M\u00e9zi\u00e8res",
+      "raw_score": 2.95,
+      "total_ratings": 10,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Time Travel, Space Travel, Aliens, First Contact",
+      "image_filename": "time_jam_valerian_laureline.jpg",
+      "pitch": "When trainee space-time agent Valerian breaks the first rule of time travel to rescue Laureline from execution in 10th century France, his actions alter the universe\u2014Earth vanishes from the Solar System. Forced to become partners, they must explore the galaxy and find a way to rediscover Earth.",
+      "created_at": "2026-06-24 14:36:27",
+      "watch_url": null
+    },
+    {
       "title": "Time Masters",
       "year": 1982,
       "medium": "Animated Film",
@@ -33153,6 +33185,22 @@
       "watch_url": null
     },
     {
+      "title": "Transfers",
+      "year": 2017,
+      "medium": "TV Series",
+      "creator": "French TV production",
+      "raw_score": 3.45,
+      "total_ratings": 23,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Uploaded Minds, Identity, Technology",
+      "image_filename": "transfers.jpg",
+      "pitch": "After five years in a coma, Florian's mind is transferred into another body thanks to a revolutionary scientific breakthrough. Now he must hide his identity while working as an officer with BATI, the anti-transfers unit\u2014a job that becomes a dangerous balancing act between his old life and new existence.",
+      "created_at": "2026-06-24 14:37:02",
+      "watch_url": null
+    },
+    {
       "title": "Transformers: Zone",
       "year": 1990,
       "medium": "OVA",
@@ -33198,6 +33246,22 @@
       "image_filename": "Treasure_Planet_1982.jpg",
       "pitch": "Treasure Planet is a 1982 Bulgarian animated science fiction film and the first full-length animated feature produced in Bulgaria. Directed by Rumen Petkov and produced by the Sofia Animation Studio, this 62-minute film is a bold sci-fi adaptation of Robert Louis Stevenson's classic adventure novel \"Treasure Island.\" Set in a distant future where Earth has become entirely artificial and nature no longer exists, the story follows young Filipe as he embarks on a cosmic quest for Captain Flint's legendary treasure. Notably, this Bulgarian adaptation predates Disney's CGI version of \"Treasure Planet\" by exactly 20 years, making it a pioneering work in Eastern European animation that reimagines the pirate adventure genre for a spacefaring context.",
       "created_at": "2026-03-01 15:06:52",
+      "watch_url": null
+    },
+    {
+      "title": "Trepalium",
+      "year": 2016,
+      "medium": "TV Series",
+      "creator": "French TV production",
+      "raw_score": 2.8,
+      "total_ratings": 25,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia",
+      "topics": "Class Struggle, Authoritarianism, Surveillance",
+      "image_filename": "trepalium.jpg",
+      "pitch": "In a world where only 20% of the population has jobs, a wall divides the city from the Zone outside. The Actives live in comfort while the Jobless struggle in the wasteland. When the economic system crashes, both sides must face what they've been taught to fear.",
+      "created_at": "2026-06-24 14:37:36",
       "watch_url": null
     },
     {
@@ -35457,5 +35521,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2216
+  "count": 2220
 }
