@@ -2737,6 +2737,24 @@
       "watch_url": null
     },
     {
+      "title": "Arctic Blast",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.8,
+      "total_ratings": 209,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Climate, Survival, Ecology",
+      "image_filename": "Arctic_Blast_2010.jpg",
+      "pitch": "A solar eclipse sends a colossal blast of super chilled air toward Earth, triggering a catastrophic chain of events that threatens to plunge the world into a new Ice Age.",
+      "truth": "When a solar eclipse coincides with an unusual cosmic event, a massive blast of super-cooled air hits Earth. Temperatures plummet worldwide. Survivors must adapt to frozen wastelands as the ice age accelerates. The film follows various characters struggling to survive the unprecedented climate catastrophe.",
+      "core": "Arctic Blast offers disaster cinema with a climate change twist. The film uses hard science fiction premises to explore what happens when Earth's climate system fails catastrophically.",
+      "created_at": "2026-06-24 01:14:50",
+      "watch_url": null
+    },
+    {
       "title": "Aria the Avvenire",
       "year": 2015,
       "medium": "Anime Film",
@@ -21457,6 +21475,24 @@
       "watch_url": null
     },
     {
+      "title": "Risen",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.52,
+      "total_ratings": 182,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Aliens, Exploration, Discovery",
+      "image_filename": "Risen_2021.jpg",
+      "pitch": "A meteor strike devastates an Australian town, wiping out all life nearby. Exobiologist Lauren Stone investigates and uncovers evidence this may be humanity's first contact with an extraterrestrial threat.",
+      "truth": "Lauren discovers the meteor contains self-replicating organic matter that could consume all life on Earth. When more meteorites approach worldwide, she must decipher if this is a weapon, a warning, or something else entirely.",
+      "core": "Risen asks what happens when first contact turns out to be an unambiguous threat. The film grounds itself in scientific inquiry while exploring humanity's vulnerability in a universe that may not be empty.",
+      "created_at": "2026-06-24 01:14:34",
+      "watch_url": null
+    },
+    {
       "title": "Rising Storm",
       "year": 1989,
       "medium": "Film",
@@ -25792,6 +25828,24 @@
       "truth": "French-German sci-fi directed by Pierre-William Glenn, starring Johnny Hallyday, Karen Allen, J\u00fcrgen Prochnow. Released January 1987. Inspired by Mad Max 2, praised for props and sets.",
       "core": "Post-apocalyptic truck racing, AI failure, cloning revelation, survival against hostile wasteland",
       "created_at": "2026-06-23 06:34:45",
+      "watch_url": null
+    },
+    {
+      "title": "Terminus",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.54,
+      "total_ratings": 187,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "AI, Robots, Survival",
+      "image_filename": "Terminus_2015.jpg",
+      "pitch": "After a near-fatal accident, David Chamberlain makes a discovery that will determine the fate of his family and all of mankind.",
+      "truth": "David survives an accident that should have killed him. He discovers nanotech inside his body from a secret program. He must choose whether to reveal it or keep it hidden.",
+      "core": "Terminus explores transhumanism and the merging of human consciousness with technology. What defines humanity \u2014 our bodies or our choices?",
+      "created_at": "2026-06-24 01:14:46",
       "watch_url": null
     },
     {
@@ -38593,5 +38647,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2144
+  "count": 2147
 }

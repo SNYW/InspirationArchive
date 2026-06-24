@@ -2433,6 +2433,22 @@
       "watch_url": null
     },
     {
+      "title": "Arctic Blast",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.8,
+      "total_ratings": 209,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Climate, Survival, Ecology",
+      "image_filename": "Arctic_Blast_2010.jpg",
+      "pitch": "A solar eclipse sends a colossal blast of super chilled air toward Earth, triggering a catastrophic chain of events that threatens to plunge the world into a new Ice Age.",
+      "created_at": "2026-06-24 01:14:50",
+      "watch_url": null
+    },
+    {
       "title": "Aria the Avvenire",
       "year": 2015,
       "medium": "Anime Film",
@@ -19073,6 +19089,22 @@
       "watch_url": null
     },
     {
+      "title": "Risen",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.52,
+      "total_ratings": 182,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "Aliens, Exploration, Discovery",
+      "image_filename": "Risen_2021.jpg",
+      "pitch": "A meteor strike devastates an Australian town, wiping out all life nearby. Exobiologist Lauren Stone investigates and uncovers evidence this may be humanity's first contact with an extraterrestrial threat.",
+      "created_at": "2026-06-24 01:14:34",
+      "watch_url": null
+    },
+    {
       "title": "Rising Storm",
       "year": 1989,
       "medium": "Film",
@@ -22926,6 +22958,22 @@
       "image_filename": "terminus_1987.jpg",
       "pitch": "In 2037, drivers race armored trucks across a post-apocalyptic wasteland in a deadly sport. When the AI fails, pilot Gus enters uncharted territory where she's captured by leather-clad hoods. The twist: her young creator is a clone, watched by the sinister doctor who made him.",
       "created_at": "2026-06-23 06:34:45",
+      "watch_url": null
+    },
+    {
+      "title": "Terminus",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Australian",
+      "raw_score": 2.54,
+      "total_ratings": 187,
+      "origin": "Australia",
+      "mood": "Tense",
+      "sub_genres": "Hard-SF",
+      "topics": "AI, Robots, Survival",
+      "image_filename": "Terminus_2015.jpg",
+      "pitch": "After a near-fatal accident, David Chamberlain makes a discovery that will determine the fate of his family and all of mankind.",
+      "created_at": "2026-06-24 01:14:46",
       "watch_url": null
     },
     {
@@ -34305,5 +34353,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2144
+  "count": 2147
 }
