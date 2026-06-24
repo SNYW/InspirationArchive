@@ -10513,6 +10513,22 @@
       "watch_url": "https://archive.org/details/gunbuster-4k-remaster"
     },
     {
+      "title": "Gundam Reconguista in G",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "Yoshiyuki Tomino",
+      "raw_score": 3.7,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Mecha",
+      "topics": "Space Travel, Rebellion, Evolution",
+      "image_filename": "Gundam_Reconguista_in_G_2014.jpg",
+      "pitch": "In the Regild Century, 1,014 years after humanity colonized space, a young Capital Guard cadet encounters a mysterious mobile suit and its princess. Yoshiyuki Tomino's first Gundam since Turn A Gundam.",
+      "created_at": "2026-06-24 16:15:18",
+      "watch_url": null
+    },
+    {
       "title": "Gundam Wing: The Endless Waltz",
       "year": 1998,
       "medium": "Anime Film",
@@ -33841,6 +33857,22 @@
       "watch_url": "https://archive.org/details/ulysses-31-e-81"
     },
     {
+      "title": "Un-Go",
+      "year": 2011,
+      "medium": "Anime",
+      "creator": "Seiji Mizushima",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Surveillance, Politics, Aliens",
+      "image_filename": "Un-Go_2011.jpg",
+      "pitch": "In post-war Japan under state surveillance, detective Shinjur\u014d Yuki is mocked as \\\"The Defeated Detective\\\" for reaching conclusions the government wants buried. His partner Inga is a demon who forces truth from any witness. A 2011 noitamina series.",
+      "created_at": "2026-06-24 16:15:09",
+      "watch_url": null
+    },
+    {
       "title": "Under Electric Clouds",
       "year": 2015,
       "medium": "Film",
@@ -35649,5 +35681,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2228
+  "count": 2230
 }

@@ -11827,6 +11827,24 @@
       "watch_url": "https://archive.org/details/gunbuster-4k-remaster"
     },
     {
+      "title": "Gundam Reconguista in G",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "Yoshiyuki Tomino",
+      "raw_score": 3.7,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Mecha",
+      "topics": "Space Travel, Rebellion, Evolution",
+      "image_filename": "Gundam_Reconguista_in_G_2014.jpg",
+      "pitch": "In the Regild Century, 1,014 years after humanity colonized space, a young Capital Guard cadet encounters a mysterious mobile suit and its princess. Yoshiyuki Tomino's first Gundam since Turn A Gundam.",
+      "truth": "Bellri, a Capital Guard cadet, captures the G-Self mobile suit and learns he and pirate Aida are royal heirs. Their crew navigates war between Earth factions and the Moon's Dorette Fleet\u2014all seeking Photon Batteries.\n\nBellri discovers the war was orchestrated to strengthen humanity. A final battle forces ceasefire, and the crew begins a peace mission.",
+      "core": "Tomino celebrates and critiques the Gundam formula: understanding across enemy lines, the cost of war, hope for reconciliation. The Regild Century echoes colonialism and caste discrimination. Lighter in tone than most Gundam, reflecting Tomino's later work.",
+      "created_at": "2026-06-24 16:15:18",
+      "watch_url": null
+    },
+    {
       "title": "Gundam Wing: The Endless Waltz",
       "year": 1998,
       "medium": "Anime Film",
@@ -38071,6 +38089,24 @@
       "watch_url": "https://archive.org/details/ulysses-31-e-81"
     },
     {
+      "title": "Un-Go",
+      "year": 2011,
+      "medium": "Anime",
+      "creator": "Seiji Mizushima",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Science-Fantasy",
+      "topics": "Surveillance, Politics, Aliens",
+      "image_filename": "Un-Go_2011.jpg",
+      "pitch": "In post-war Japan under state surveillance, detective Shinjur\u014d Yuki is mocked as \\\"The Defeated Detective\\\" for reaching conclusions the government wants buried. His partner Inga is a demon who forces truth from any witness. A 2011 noitamina series.",
+      "truth": "After terrorist attacks, Japan adopts the Information Privacy Act. Tech executive Rinroku controls surveillance. Detective Shinjur\u014d\u2014derided as \\\"The Defeated Detective\\\"\u2014investigates sensitive cases with Inga, a truth-forcing demon. Each case reveals hidden truths.\n\nRinroku spins public narratives while Shinjur\u014d reaches uncomfortable conclusions. His nickname becomes a badge of integrity.",
+      "core": "Un-Go examines truth in an age of managed information\u2014a surveillance state where corporate interests control what the public knows. Adapted from Ango Sakaguchi's 1940s novel to comment on post-bubble Japan: economic stagnation, weakened pacifism, corporate power. Inga's truth power is metaphorical.",
+      "created_at": "2026-06-24 16:15:09",
+      "watch_url": null
+    },
+    {
       "title": "Under Electric Clouds",
       "year": 2015,
       "medium": "Film",
@@ -40105,5 +40141,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2228
+  "count": 2230
 }
