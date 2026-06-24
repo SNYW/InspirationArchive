@@ -10721,6 +10721,22 @@
       "watch_url": "https://archive.org/details/a-trip-to-mars-1918-holger-madsen"
     },
     {
+      "title": "Hinokio",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Takahiko Akiyama",
+      "raw_score": 3.3,
+      "total_ratings": 20,
+      "origin": "Japan",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Children, Family, Isolation, Friendship, VR",
+      "image_filename": "hinokio.jpg",
+      "pitch": "A grieving boy confined to a wheelchair after an accident is offered an unusual lifeline: a remote-controlled robot that attends school in his place. A tender Japanese drama about finding connection when physical presence seems impossible.",
+      "created_at": "2026-06-24 02:35:47",
+      "watch_url": null
+    },
+    {
       "title": "Hirak Rajar Deshe",
       "year": 1980,
       "medium": "Film",
@@ -34385,5 +34401,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2149
+  "count": 2150
 }
