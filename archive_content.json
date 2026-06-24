@@ -8335,6 +8335,24 @@
       "watch_url": null
     },
     {
+      "title": "D\u00e9sir\u00e9",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "Bernard Faroud",
+      "raw_score": 3.61,
+      "total_ratings": 11,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Dystopia",
+      "topics": "Birth, Genetic Engineering, Dystopia",
+      "image_filename": "Desire_1993.jpg",
+      "pitch": "In 2050 France, childbirth is routine and state-controlled\u2014every child genetically screened and medically delivered. But when D\u00e9sir\u00e9 is born, he is different: emotionally alive in ways the system never programmed. To the authorities, he is an error. To his mother, a miracle.",
+      "truth": "In 2050 France, the government controls reproduction. Parents never witness birth\u2014it happens in state facilities. When a woman gives birth to D\u00e9sir\u00e9, the staff hesitate. The child cries and responds unlike designed children. The system attempts to correct this anomaly, but the mother refuses to let go. The film asks: what was lost when birth was engineered?",
+      "core": "D\u00e9sir\u00e9 explores the dehumanization of reproduction and the cost of perfection. A world without randomness is progress or nightmare? The ironic title\u2014a child named Desire, born of a system that eliminated desire\u2014captures the surreal satire of bureaucratic control extended into human life.",
+      "created_at": "2026-06-24 06:16:16",
+      "watch_url": null
+    },
+    {
       "title": "D\u00fcnyay\u0131 Kurtaran Adam",
       "year": 1982,
       "medium": "Film",
@@ -39007,5 +39025,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2167
+  "count": 2168
 }
