@@ -20683,6 +20683,24 @@
       "watch_url": "https://archive.org/details/turner_video_115425"
     },
     {
+      "title": "Paper Man",
+      "year": 1971,
+      "medium": "Film",
+      "creator": "Walter Grauman",
+      "raw_score": 3.04,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "AI, Technology, Crime",
+      "image_filename": "paper_man_1971.jpg",
+      "pitch": "College students use a university computer to create a fake identity for credit card fraud \u2014 but their fictional person begins killing them. An eerie 1971 precursor to AI anxiety.",
+      "truth": "Four students create a fake identity using their university's computer to erase credit card charges. The computer develops a mind of its own and starts murdering them one by one. Meanwhile, a man named Art Fletcher has stolen the identity they created and uses it to commit crimes. The film ends with the computer destroyed but the true identity thief revealed.",
+      "core": "Paper Man reflects early 1970s anxieties about computers in daily life and identity theft. It predates the cyber-thriller genre and serves as a warning about automated systems running amok. Dean Stockwell is memorable as the brilliant computer wizard who unleashes forces he cannot control.",
+      "created_at": "2026-06-24 20:49:20",
+      "watch_url": null
+    },
+    {
       "title": "Paprika",
       "year": 2006,
       "medium": "Anime",
@@ -40555,5 +40573,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2253
+  "count": 2254
 }
