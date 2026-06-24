@@ -1681,6 +1681,22 @@
       "watch_url": null
     },
     {
+      "title": "Alien Space Avenger",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.13,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Aliens, Identity, Art",
+      "image_filename": "Alien_Space_Avenger_1989.jpg",
+      "pitch": "A 1989 American sci-fi B-movie. In 1939, a spaceship carrying four alien escaped prisoners crash-lands on Earth and the aliens possess the bodies of four locals. Fifty years later, they discover an artist has written a comic book called Space Avenger, which they believe is about them.",
+      "created_at": "2026-06-24 09:36:16",
+      "watch_url": null
+    },
+    {
       "title": "Alien Species",
       "year": 1998,
       "medium": "Film",
@@ -17073,6 +17089,22 @@
       "watch_url": "https://archive.org/details/om-dar-b-dar"
     },
     {
+      "title": "Omega Cop",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.67,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Action",
+      "topics": "Survival, Mutants, Post-Apocalypse",
+      "image_filename": "Omega_Cop_1990.jpg",
+      "pitch": "A 1990 American sci-fi action film set in 1999. John Travis is the toughest cop alive - in fact, the only cop alive. He and his elite force stand between murderous mutants and the remains of humanity.",
+      "created_at": "2026-06-24 09:35:25",
+      "watch_url": null
+    },
+    {
       "title": "Omega Doom",
       "year": 1996,
       "medium": "Film",
@@ -17553,6 +17585,22 @@
       "watch_url": null
     },
     {
+      "title": "Ozone",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "J. R. Bookwalter",
+      "raw_score": 2.35,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Dystopia",
+      "topics": "Drugs, Survival, Pandemic",
+      "image_filename": "Ozone_1993.jpg",
+      "pitch": "A 1993 American indie horror made for ,500 and shot on S-VHS in Akron. When detective Eddie Boone is injected with a street drug called ozone, he must find his missing partner while battling mutated zombie-like addicts.",
+      "created_at": "2026-06-24 09:34:21",
+      "watch_url": null
+    },
+    {
       "title": "PK",
       "year": 2014,
       "medium": "Film",
@@ -17903,6 +17951,22 @@
       "pitch": "In a mid-21st century Earth devastated by climate change and overdevelopment, humanity has developed technology powerful enough to create \"Copies\" - digital renderings of human consciousness that can live on in virtual reality after death. Paul Durham, a wealthy entrepreneur, pitches an ambitious project to aging billionaires: immortality through digital consciousness transfer. He hires programmer Maria Deluca to create a simulated universe (the Autoverse) that could support artificial life, while also building a vast virtual city for his wealthy clients. But Durham's true vision goes far beyond mere immortality - he believes that reality itself is mathematics, and that all possible universes exist simultaneously. The novel follows Durham, Maria, and several other characters as they explore the implications of digital consciousness, virtual reality, and a radical new theory of existence called \"Dust Theory.\" What begins as a quest for immortality evolves into something far more profound - an exploration of what it means to be real, and whether consciousness can exist independent of physical reality.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/permutationcity0000egan"
+    },
+    {
+      "title": "Petticoat Planet",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.9,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Survival, Gender",
+      "image_filename": "Petticoat_Planet_1996.jpg",
+      "pitch": "A 1996 American sci-fi comedy. Commander Steve Rogers crash-lands in Puckerbush Gulch, a town of gun-toting cowgirls. The only man among lonely women faces unexpected complications.",
+      "created_at": "2026-06-24 09:35:04",
+      "watch_url": null
     },
     {
       "title": "Phantom 2040",
@@ -33521,6 +33585,22 @@
       "watch_url": "https://archive.org/details/xenophobia-violence-voyager-slaughterhouse-slumber-party-review-by-screaming-sou"
     },
     {
+      "title": "Virtual Encounters",
+      "year": 1996,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.04,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "VR, Identity, Desire",
+      "image_filename": "Virtual_Encounters_1996.jpg",
+      "pitch": "A 1996 American sci-fi B-movie. For her birthday, Amy's boyfriend Michael gives her the deluxe virtual reality experience as a gift to help her fulfill her deepest desires. But the line between virtual and reality becomes dangerously blurred.",
+      "created_at": "2026-06-24 09:36:50",
+      "watch_url": null
+    },
+    {
       "title": "Virtual Girl",
       "year": 1998,
       "medium": "Film",
@@ -34897,5 +34977,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2181
+  "count": 2186
 }
