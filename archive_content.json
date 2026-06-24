@@ -1891,6 +1891,24 @@
       "watch_url": null
     },
     {
+      "title": "Alien Addiction",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.58,
+      "total_ratings": 12,
+      "origin": "New-Zealand",
+      "mood": "Optimistic",
+      "sub_genres": "Sci-Fi, Comedy",
+      "topics": "Aliens, First Contact, Media",
+      "image_filename": "Alien_Addiction_2018.jpg",
+      "pitch": "Riko lives in a small New Zealand town when aliens crash land near his house. An unlikely friendship develops between the local and the extraterrestrials, but their presence attracts a fame-hungry blogger determined to expose them to the world.",
+      "truth": "Riko is a recluse living in rural Waikato, New Zealand. When aliens crash land near his property, he's initially terrified but gradually forms an unexpected bond with the visitors. Meanwhile, a blogger obsessed with alien activity tracks the crash site and plans to reveal everything to the world, putting the aliens in danger.",
+      "core": "A charming New Zealand indie that flips the alien invasion trope on its head. Rather than fear, the film explores hospitality and acceptance of the other. The blogger represents modern media's hunger for sensational stories, while Riko shows genuine human connection transcends species.",
+      "created_at": "2026-06-24 19:09:24",
+      "watch_url": null
+    },
+    {
       "title": "Alien Arsenal",
       "year": 1998,
       "medium": "Film",
@@ -13391,6 +13409,24 @@
       "core": "In the Dust of the Stars operates on multiple thematic levels, blending adventure narrative with political commentary that would have resonated deeply with audiences in the Eastern Bloc while offering universal themes for any viewer.\n\n**The Critique of Authoritarianism:** Ronk represents the benevolent-seeming dictator who maintains power through manipulation and force. His elaborate deception\u2014the fake distress call, the memory erasure during the celebration, the hidden slave mines\u2014mirrors Cold War critiques of totalitarian regimes that presented themselves as progressive while oppressing their own people. The film suggests that appearances of hospitality and civilization can mask brutal exploitation, a theme that would have had particular resonance in East Germany and throughout the Eastern Bloc.\n\n**Moral Choice and Individual Responsibility:** The central dilemma of the film\u2014should the crew save themselves or stay to help the slaves\u2014poses fundamental questions about moral obligation. The film suggests that neutrality in the face of injustice is itself a choice, and that those with the power to help bear some responsibility for those who cannot help themselves. Suko's death in the slave revolt suggests that fighting for justice may require sacrifice.\n\n**First Contact and Cultural Misunderstanding:** The crashed spaceship and the misunderstanding of the distress call also comment on the difficulties of interstellar contact. The Cynro crew's radio waves interfere with their own vessel, suggesting that communication between fundamentally different civilizations can have unintended consequences. The film's depiction of alien society\u2014with its class divisions, political deception, and underground resistance\u2014offers a vision of extraterrestrial culture that is neither utopian nor simply monstrous.\n\n**East German Science Fiction Tradition:** As part of the DEFA film studio's science fiction output, In the Dust of the Stars represents a distinctively Eastern Bloc approach to the genre. Unlike American space operas of the same era, which often focused on American heroism and technological optimism, East German sci-fi frequently incorporated social criticism and questioning of authority. The film's production values and visual style also reflect the unique aesthetics of DEFA, with distinctive costume design and production design that evoke a particular era of Soviet-bloc filmmaking.\n\n**The Power of the Oppressed:** Ultimately, the film suggests that the oppressed themselves hold the power to change their conditions. It is the slaves' own revolt\u2014not the external intervention of the Cynro crew\u2014that brings about the film's climactic change. This theme of bottom-up revolution rather than rescue by outside heroes offers a more radical political message than typical adventure narratives.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/in_the_dust_of_the_stars"
+    },
+    {
+      "title": "Incident at Montauk",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.0,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Sci-Fi",
+      "topics": "Aliens, Government Conspiracy, First Contact",
+      "image_filename": "Incident_at_Montauk_2019.jpg",
+      "pitch": "After witnessing a UFO, Jed Logan discovers his sighting may be linked to a secret government project. This indie sci-fi thriller explores truth and deception when an ordinary citizen stumbles upon extraordinary secrets.",
+      "truth": "Jed Logan witnesses a UFO and initially dismisses it. But he soon learns his sighting connects to a secret government project. As he digs deeper, he enters a web of conspiracy involving military experiments and potential extraterrestrial contact.",
+      "core": "Explores American fascination with UFO cover-ups. The truth about alien contact may be hiding in plain sight, kept secret by those in power. A modest character study wrapped in sci-fi.",
+      "created_at": "2026-06-24 19:09:18",
+      "watch_url": null
     },
     {
       "title": "Incident at Raven's Gate",
@@ -40411,5 +40447,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2245
+  "count": 2247
 }
