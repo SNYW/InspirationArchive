@@ -4771,6 +4771,24 @@
       "watch_url": null
     },
     {
+      "title": "Buddy Complex",
+      "year": 2014,
+      "medium": "Anime",
+      "creator": "Hajime Yatate, Sunrise",
+      "raw_score": 2.55,
+      "total_ratings": 10,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Military-SF",
+      "topics": "Robots, Time Travel, Space Travel",
+      "image_filename": "Buddy_Complex_2014.jpg",
+      "pitch": "High school student Aoba is saved by a girl piloting a giant mecha during an attack on Tokyo. Thrust into an alliance fighting across multiple timelines, he must pilot the Bonus Driver.",
+      "truth": "Aoba Kazakana is an ordinary student until Dio rescues him during a city attack. He learns humanity was nearly wiped out by the Foundation in the future, and he must travel through time to prevent this catastrophe. Each trip creates alternate timelines. Aoba battles the Foundation across different periods.",
+      "core": "A Sunrise mecha series exploring time travel across parallel worlds. Combines action with questions about fate and choice. Compact 13-episode run handles timeline paradoxes effectively. Solid animation and mecha designs.",
+      "created_at": "2026-06-24 07:06:04",
+      "watch_url": null
+    },
+    {
       "title": "Bugonia",
       "year": 2025,
       "medium": "Film",
@@ -39043,5 +39061,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2169
+  "count": 2170
 }
