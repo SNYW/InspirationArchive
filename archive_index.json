@@ -21121,6 +21121,22 @@
       "watch_url": "https://archive.org/details/slow-bob-in-the-lower-dimensions"
     },
     {
+      "title": "Slyth: The Hunt Saga",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.86,
+      "total_ratings": 14,
+      "origin": "Thailand",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Aliens, Evolution",
+      "image_filename": "Slyth_The_Hunt_Saga_2023.jpg",
+      "pitch": "A post-apocalyptic Thai sci-fi film set in a world devastated by apocalyptic fires. When a group of friends encounters a mysterious reptilian creature, they discover it holds the key to human survival.",
+      "created_at": "2026-06-24 10:06:55",
+      "watch_url": null
+    },
+    {
       "title": "Snatcher",
       "year": 1988,
       "medium": "Video Game",
@@ -28794,9 +28810,9 @@
       "origin": "Czechoslovakia",
       "mood": "Satirical",
       "sub_genres": "Science-Fantasy",
-      "topics": "Science, Technology, Comedy",
+      "topics": "Science, Invention, Theater",
       "image_filename": "The_Mysterious_Castle_in_the_Carpathians_1981.jpg",
-      "pitch": "In 1897, at a mysterious castle in the Carpathian Mountains, the eccentric Professor Orfanik conducts bizarre scientific experiments\u2014including an early television and film camera\u2014while obsessed with opera. He keeps the preserved body of his favorite diva in a crypt beneath the castle. When Baron Robert Gorc arrives seeking hidden treasure, various characters scheme and compete for the prize amid mechanical contraptions, supernatural comedy, and operatic spectacles.\n\nThis Czechoslovak comedy blends Verne-style adventure with Czech humor and early cinematic wonder. Director Old\u0159ich Lipsk\u00fd creates a whimsical world where mad science meets theatrical spectacle.",
+      "pitch": "In 1897, an eccentric professor in a Carpathian castle experiments with early television while secretly preserving his favorite opera diva's corpse for a grand performance. Witty Czechoslovak comedy blending mad science with gothic fun.",
       "created_at": "2026-06-12 15:02:39",
       "watch_url": "https://archive.org/details/mysterious-castle-in-the-carpathians-the-1981"
     },
@@ -34977,5 +34993,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2186
+  "count": 2187
 }
