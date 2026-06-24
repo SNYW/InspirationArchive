@@ -10257,6 +10257,22 @@
       "watch_url": null
     },
     {
+      "title": "Goodnight Sweetheart",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "Gary Summers",
+      "raw_score": 3.6,
+      "total_ratings": 48,
+      "origin": "UK",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Romance, Comedy",
+      "image_filename": "Goodnight_Sweetheart_1993.jpg",
+      "pitch": "Gary Sparrow is an ordinary 1990s British bloke who discovers a portal to WWII-era London, beginning a dual life as an accidental time traveler.",
+      "created_at": "2026-06-24 12:56:10",
+      "watch_url": null
+    },
+    {
       "title": "Gorky 17",
       "year": 1999,
       "medium": "Video Game",
@@ -22081,6 +22097,22 @@
       "watch_url": "https://archive.org/details/les-mondes-engloutis-v-01"
     },
     {
+      "title": "Special Investigation Robo Janperson",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "K\u014dichi Takaish",
+      "raw_score": 3.9,
+      "total_ratings": 46,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Justice, Crime",
+      "image_filename": "Special_Investigation_Robo_Janperson_1993.jpg",
+      "pitch": "In 1993 Tokyo, Janperson is a robotic detective who patrols the streets fighting three underworld organizations that use advanced technology to control the masses.",
+      "created_at": "2026-06-24 12:56:00",
+      "watch_url": null
+    },
+    {
       "title": "Spectreman",
       "year": 1971,
       "medium": "TV Series",
@@ -32497,6 +32529,22 @@
       "watch_url": "https://archive.org/details/time-travellers_202502"
     },
     {
+      "title": "Time Trax",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "Harve Bennett",
+      "raw_score": 3.25,
+      "total_ratings": 31,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Crime, Justice",
+      "image_filename": "Time_Trax_1993.jpg",
+      "pitch": "In 2193, criminals escape to 1993 using time travel. Detective Darien Lambert is sent back to capture them, aided by SELMA \u2014 a powerful AI disguised as a credit card that projects holographic images.",
+      "created_at": "2026-06-24 12:54:39",
+      "watch_url": null
+    },
+    {
       "title": "Time Trip App",
       "year": 2014,
       "medium": "Film",
@@ -33793,6 +33841,22 @@
       "watch_url": "https://archive.org/details/vol-03-video-girl-ai"
     },
     {
+      "title": "Video Girl Ai",
+      "year": 1992,
+      "medium": "Manga",
+      "creator": "Masakazu Katsura",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "AI, Love, Memory",
+      "image_filename": "Video_Girl_Ai_1992.jpg",
+      "pitch": "Lonely high schooler Yota rents a mysterious video and Ai emerges from his TV to help him win his crush \u2014 but as time passes, she falls in love with him instead.",
+      "created_at": "2026-06-24 12:54:32",
+      "watch_url": null
+    },
+    {
       "title": "Vikram",
       "year": 1986,
       "medium": "Film",
@@ -34513,6 +34577,22 @@
       "watch_url": null
     },
     {
+      "title": "Wild Palms",
+      "year": 1993,
+      "medium": "TV Series",
+      "creator": "Bruce Zabel",
+      "raw_score": 3.12,
+      "total_ratings": 49,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Conspiracy, Media, Power",
+      "image_filename": "Wild_Palms_1993.jpg",
+      "pitch": "A man accepts the presidency of a TV company and uncovers a dangerous web of schemes and deceit in this cult 1990s sci-fi series.",
+      "created_at": "2026-06-24 12:56:22",
+      "watch_url": null
+    },
+    {
       "title": "Wild Zero",
       "year": 1999,
       "medium": "Film",
@@ -35217,5 +35297,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2201
+  "count": 2206
 }
