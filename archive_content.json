@@ -433,6 +433,24 @@
       "watch_url": null
     },
     {
+      "title": "3G",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "Mahesh Bhatt",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "India",
+      "mood": "Tense",
+      "sub_genres": "Horror, Thriller",
+      "topics": "Technology, Supernatural, Survival",
+      "image_filename": null,
+      "pitch": "A supernatural horror film set in the Fiji Islands where a 3G-enabled phone brings terrifying consequences. When Sam purchases a new phone, he begins receiving mysterious calls from unknown numbers, and unforeseen events threaten his life. The film explores the dark side of modern connectivity and the dangers that lurk in unfamiliar technological frontiers.",
+      "truth": "Sam and Sheena vacation in Fiji when Sam buys a 3G phone. He receives mysterious calls that intensify, endangering his life. The phone connects to something supernatural\u2014a presence using technology as a conduit. The climax exposes the source and the fate of those who answered.",
+      "core": "3G taps into contemporary fears about technology and the unknown. The phone becomes a metaphor for connectivity's dark side\u2014how devices can connect us to forces we don't understand. It reflects anxieties about being reachable anywhere, anytime, and vulnerability to new technology.",
+      "created_at": "2026-06-24 00:00:08",
+      "watch_url": null
+    },
+    {
       "title": "3G: A Killer Connection",
       "year": 2013,
       "medium": "Film",
@@ -13195,6 +13213,24 @@
       "watch_url": null
     },
     {
+      "title": "Japanese Connection",
+      "year": 1987,
+      "medium": "Film",
+      "creator": "Sedat Kapano\u011flu",
+      "raw_score": 2.9,
+      "total_ratings": 68,
+      "origin": "Turkey",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Robots, Love",
+      "image_filename": "Japanese_Connection_1987.jpg",
+      "pitch": "In 1980s Istanbul, the love-struck Veysel pines for singer Basak, who ignores him. His fortunes change when he saves a Japanese tourist, who sends him an extraordinary gift \u2014 a robot perfectly crafted to look exactly like Basak. The robot offers Veysel everything the real singer never did.",
+      "truth": "Veysel loves Basak, who never notices him. After saving a Japanese tourist, Veysel receives a humanoid robot identical to Basak. The robot gives him the attention she denies him. As he bonds with his artificial companion, he confronts whether love requires a human heart or if devotion matters more than its form.",
+      "core": "A Turkish take on the \"perfect double\" romantic trope with robotics themes. The robot becomes both comedic device and philosophical question: Is love about form or connection? The film suggests companionship matters more than its source \u2014 progressive for 1980s Turkish cinema.",
+      "created_at": "2026-06-24 00:07:07",
+      "watch_url": null
+    },
+    {
       "title": "Japon \u0130\u015fi",
       "year": 1987,
       "medium": "Film",
@@ -15766,6 +15802,24 @@
       "truth": "Josef (Milo\u0161 Kopeck\u00fd) is an upholsterer working at a rocket factory in Czechoslovakia in the 1960s. He makes the final adjustments to the first Czech spacecraft. During a test, he accidentally triggers the launch and is rocketed to the planet Blue Star. There he encounters Adam (Radovan Lukavsk\u00fd), a friendly alien inhabitant who decides to accompany him back to Earth.\n\nWhen they return to Earth, they discover that 600 years have passed. The world has changed dramatically, and Josef is institutionalised in a psychiatric hospital \u2014 doctors believe his story of time travel and alien contact is delusional. However, Adam, who is invisible to Earthlings, helps Josef escape. Together they attempt to find a way back to Josef's own time, with Adam using his alien technology to aid the confused time traveler.\n\nThe film ends with Josef either finding a way back or coming to terms with his strange fate, while Adam's presence serves as a commentary on how society treats those who think and see differently.",
       "core": "Man in Outer Space is a clever satirical comedy that uses science fiction tropes to comment on society and progress. By sending its protagonist 600 years into the future, director Old\u0159ich Lipsk\u00fd questions whether humanity truly progresses or simply repeats its mistakes in new forms.\n\nThe film satirises institutional power, bureaucracy, and the way society treats those who think differently. Josef's institutionalisation reflects the film's commentary on how radical ideas and experiences are often dismissed as delusion. The invisible alien Adam serves as a metaphor for truths that society cannot or will not see.\n\nLipsk\u00fd balances absurdist humor with genuine philosophical questions about time, memory, and what it means to be out of step with one's society. The comedy is gentle but pointed, making the film both entertaining and thought-provoking.",
       "created_at": "2026-02-28 19:56:50",
+      "watch_url": null
+    },
+    {
+      "title": "Man in Space",
+      "year": 1955,
+      "medium": "Short Film",
+      "creator": "John Hubley",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Hard-SF, Science Education",
+      "topics": "Space Travel, Science, Discovery",
+      "image_filename": null,
+      "pitch": "A pioneering animated short from 1955 using documentary footage and animation to explain rockets and space travel. Produced by John Hubley for the US Army, it was one of the earliest serious attempts to visualize space exploration. Bold geometric animation conveys rocketry's power when space travel was still theoretical.",
+      "truth": "The film traces rocket history from Chinese fire arrows to WWII V-2s, explaining physics with clear animation. It depicts a hypothetical mission: launch, weightlessness, orbital docking, and Moon travel. The crew conducts experiments. The film concludes with interplanetary travel, presaging Sputnik four years later.",
+      "core": "A bridge between Jules Verne's speculation and the emerging space age. Hubley's bold animation makes abstract physics tangible. Commissioned by the US Army during the Cold War, it transcends propaganda. Its influence shows in later NASA productions.",
+      "created_at": "2026-06-23 23:59:54",
       "watch_url": null
     },
     {
@@ -38431,5 +38485,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2135
+  "count": 2138
 }
