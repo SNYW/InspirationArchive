@@ -2289,6 +2289,22 @@
       "watch_url": null
     },
     {
+      "title": "Annihilator",
+      "year": 1986,
+      "medium": "TV Series",
+      "creator": "Michael Chapman",
+      "raw_score": 2.62,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Aliens, Robots, First Contact",
+      "image_filename": "Annihilator_1986.jpg",
+      "pitch": "A newspaper reporter discovers his girlfriend has been replaced by an android duplicate after a mysterious flight disappearance. An alien force hijacked Flight 508, abducted the passengers, and sent back perfect replicas to infiltrate Earth. Now Robert must expose the conspiracy before humanity is replaced.",
+      "created_at": "2026-06-24 17:53:56",
+      "watch_url": null
+    },
+    {
       "title": "Anodyne",
       "year": 2013,
       "medium": "Video Game",
@@ -5490,6 +5506,22 @@
     },
     {
       "title": "Contagion",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "John D. Lamond",
+      "raw_score": 2.96,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Horror",
+      "topics": "Supernatural, Demons",
+      "image_filename": "Contagion_1988.jpg",
+      "pitch": "A real estate agent is lured to a run-down mansion only to discover it is a trap. She becomes trapped and tortured by malevolent ghosts. A low-budget horror film from the era that explores supernatural vengeance.",
+      "created_at": "2026-06-24 17:54:51",
+      "watch_url": null
+    },
+    {
+      "title": "Contagion",
       "year": 2011,
       "medium": "Film",
       "creator": "Steven Soderbergh",
@@ -6398,6 +6430,22 @@
       "image_filename": "deadlands_2_trapped_2008.jpg",
       "pitch": "Six strangers become trapped inside a movie theater as a government nerve gas transforms the residents of a small Maryland city into zombie-like creatures. The survivors must survive the night while uncovering the dark secret behind the government's top secret experiment.",
       "created_at": "2026-06-16 23:40:43",
+      "watch_url": null
+    },
+    {
+      "title": "Deadly Weapon",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Michael Miner",
+      "raw_score": 2.17,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Technology, Survival, Class Struggle",
+      "image_filename": "Deadly_Weapon_1989.jpg",
+      "pitch": "A bullied teenager finds a lost experimental military weapon in a river and uses it to get even with his persecutors. An army team is sent to recover the weapon before its unstable reactor causes a meltdown. A sci-fi thriller about power and vulnerability.",
+      "created_at": "2026-06-24 17:55:04",
       "watch_url": null
     },
     {
@@ -11887,6 +11935,22 @@
       "pitch": "Insatiability (Polish: Nienasycenie) is a haunting speculative fiction novel written in 1927 and published in 1930 by the Polish polymath Stanis\u0142aw Ignacy Witkiewicz, known as \"Witkacy.\" Set in the near future circa 2000, the novel depicts Poland in the aftermath of a catastrophic Bolshevik-style revolution that has left the nation conquered by the army of the last Mongol conquest, led by the Chinese ruler Murti Bing. The conquerors impose a dystopian regime where citizens are forced to take a mind-control pill called \"DAVAMESK B 2,\" which eliminates their ability to think critically and resist authority. The story follows young protagonist Zip Kapen as he navigates this collapsed world, where Eastern and Western cultures have merged into \"faceless misery fueled by sexual instincts.\"\n\nWitkacy's only published novel during his lifetime is a extraordinary work\u2014part absurdist satire, part philosophical meditation, part apocalyptic vision. The novel combines chaotic action with deep political and philosophical commentary, predicting with unsettling accuracy the totalitarian mind control that would be exerted on Poland in the decades after its publication. Czes\u0142aw Mi\u0142osz famously discussed the \"Murti-Bing pill\" in The Captive Mind as a metaphor for Socialist Realism's demand that artists surrender their creativity. The book consists of two parts: \"Przebudzenie\" (Awakening) and \"Ob\u0142\u0119d\" (Madness).",
       "created_at": "2026-03-19 05:37:12",
       "watch_url": "https://pl.wikisource.org/wiki/Nienasycenie"
+    },
+    {
+      "title": "Interface",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Douglas Williams",
+      "raw_score": 1.71,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "AI, Computers, Surveillance",
+      "image_filename": "Interface_1985.jpg",
+      "pitch": "A master computer control room becomes the hunting ground for mysterious beings who kill people by remote control. When strange entities take over a central computer system, they use the technology to target and eliminate humans across the city. A horror film about technology run amok.",
+      "created_at": "2026-06-24 17:54:32",
+      "watch_url": null
     },
     {
       "title": "Interplanetary",
@@ -35761,5 +35825,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2235
+  "count": 2239
 }
