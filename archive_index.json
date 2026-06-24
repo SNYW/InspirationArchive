@@ -1585,6 +1585,22 @@
       "watch_url": null
     },
     {
+      "title": "Albatroz",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 4.7,
+      "total_ratings": 14,
+      "origin": "Portugal",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Identity, Reality, Terrorism",
+      "image_filename": "albatroz.jpg",
+      "pitch": "A photographer captures a terrorist attack in Jerusalem, and his grip on reality unravels. Dreams and waking blend as trauma distorts his perception.",
+      "created_at": "2026-06-24 17:04:45",
+      "watch_url": null
+    },
+    {
       "title": "Algol",
       "year": 1920,
       "medium": "Film",
@@ -1710,6 +1726,22 @@
       "image_filename": "Alien_Death_Fuck_2018.jpg",
       "pitch": "Alien Death Fuck is a Norwegian short film that defies easy categorization\u2014a berserk sci-fi horror comedy that throws together two unlikely protagonists: a rockabilly and a body-snatching alien. Directed by Thomas Lunde and released in 2018, this short film emerged from the Norwegian University of Science and Technology as a mixed-media prototype, blending retro 1950s aesthetic with cosmic horror.\n\nThe film has gained a modest cult following among fans of bizarre, low-budget genre cinema. Its unusual title and premise have made it a curiosity in the landscape of Scandinavian speculative film, standing as an example of how smaller film industries can produce genuinely strange, boundary-pushing work outside the mainstream.",
       "created_at": "2026-03-01 00:12:34",
+      "watch_url": null
+    },
+    {
+      "title": "Alien Implant",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.5,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Aliens, Revenge, Trauma",
+      "image_filename": "alienimplant.jpg",
+      "pitch": "A brilliant recluse sends a distress signal into space, luring the aliens who abducted her as a child. What arrives is not salvation but a trap built for revenge.",
+      "created_at": "2026-06-24 17:05:32",
       "watch_url": null
     },
     {
@@ -16225,6 +16257,22 @@
       "watch_url": null
     },
     {
+      "title": "Mutant Blast",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.95,
+      "total_ratings": 14,
+      "origin": "Portugal",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Zombies, Survival, Military",
+      "image_filename": "mutantblast.jpg",
+      "pitch": "A soldier and a superhuman survivor race through a zombie apocalypse caused by military experiments. With a nuclear bomb looming, they must reach safety.",
+      "created_at": "2026-06-24 17:05:10",
+      "watch_url": null
+    },
+    {
       "title": "Mutant Species",
       "year": 1995,
       "medium": "Film",
@@ -22894,6 +22942,22 @@
       "image_filename": "stormtrooper.jpg",
       "pitch": "A cyborg cop escapes from a corporation that created him, finding refuge with an abused woman.",
       "created_at": "2026-06-24 07:55:05",
+      "watch_url": null
+    },
+    {
+      "title": "Strange Beasts",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "VR, Identity, Technology",
+      "image_filename": "strangebeasts.jpg",
+      "pitch": "An augmented reality game lets players create and grow their own pets in a fantasy world. But some players choose to abandon reality entirely and live in their creations.",
+      "created_at": "2026-06-24 17:05:48",
       "watch_url": null
     },
     {
@@ -35697,5 +35761,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2231
+  "count": 2235
 }

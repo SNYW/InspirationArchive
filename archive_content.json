@@ -1783,6 +1783,24 @@
       "watch_url": null
     },
     {
+      "title": "Albatroz",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 4.7,
+      "total_ratings": 14,
+      "origin": "Portugal",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "Identity, Reality, Terrorism",
+      "image_filename": "albatroz.jpg",
+      "pitch": "A photographer captures a terrorist attack in Jerusalem, and his grip on reality unravels. Dreams and waking blend as trauma distorts his perception.",
+      "truth": "A photographer travels to Jerusalem and accidentally photographs a terrorist attack. The trauma causes his memories and perceptions to become unreliable, blurring reality and fantasy.",
+      "core": "Albatroz uses the camera as a metaphor for the distance between experience and documentation. The film questions whether capturing trauma protects or entraps us.",
+      "created_at": "2026-06-24 17:04:45",
+      "watch_url": null
+    },
+    {
       "title": "Algol",
       "year": 1920,
       "medium": "Film",
@@ -1924,6 +1942,24 @@
       "truth": "The film centers on a rockabilly\u2014a stylized 1950s-era musician with his signature pompadour and leather jacket\u2014who finds himself in a strange, isolated setting. His encounter with a body-snatching alien forms the core of the narrative, though the specifics of the plot remain shrouded in the film's deliberately chaotic, bonkers approach to storytelling.\n\nThe alien in question possesses the ability to infiltrate and take control of human bodies, adding a body-horror element to the otherwise retro-flavored proceedings. What begins as a potentially straightforward alien-invasion scenario devolves into a surreal nightmare as the rockabilly must navigate an increasingly bizarre series of confrontations with the shapeshifting extraterrestrial.\n\nThe tone balances horror\u2014particularly when the alien's true nature is revealed\u2014with moments of dark comedy, creating an unpredictable viewing experience. The rockabilly protagonist serves as an unlikely hero in this cosmic horror scenario, his retro persona completely out of place against the terrifying unknown of the alien threat.",
       "core": "**Alien Otherness and Body Invasion:** The body-snatching motif speaks to fears of invasion and loss of autonomy\u2014classic science fiction themes that take on particular resonance in an era of concerns about technological infiltration and loss of self. The alien represents the ultimate \"other,\" something that can only be understood by wearing human form while remaining fundamentally incomprehensible.\n\n**Retro Futurism and Genre Hybridity:** The rockabilly aesthetic creates an interesting tension with the cosmic horror elements. This collision of 1950s Americana with Lovecraftian extraterrestrial menace suggests a kind of temporal dislocation\u2014a refusal to settle into any single genre or era. The film embraces its own weirdness rather than trying to fit into established conventions.\n\n**Norwegian Underground Cinema:** As a product of NTNU's mixed-media program, Alien Death Fuck represents a particular strand of Scandinavian filmmaking that embraces extreme genre experimentation outside the formal industry structure. It's a reminder that interesting science fiction can emerge from unexpected places, not just from major film studios.",
       "created_at": "2026-03-01 00:12:34",
+      "watch_url": null
+    },
+    {
+      "title": "Alien Implant",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.5,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Aliens, Revenge, Trauma",
+      "image_filename": "alienimplant.jpg",
+      "pitch": "A brilliant recluse sends a distress signal into space, luring the aliens who abducted her as a child. What arrives is not salvation but a trap built for revenge.",
+      "truth": "A woman who was abducted as a child lives as a recluse, obsessed with contacting the aliens who took her. She broadcasts a fake distress signal, and when aliens arrive, they discover it's an elaborate revenge trap.",
+      "core": "Alien Implant inverts the first contact narrative. Instead of humans fearing alien invasion, the protagonist weaponizes her trauma to turn the tables on her abductors.",
+      "created_at": "2026-06-24 17:05:32",
       "watch_url": null
     },
     {
@@ -18253,6 +18289,24 @@
       "watch_url": null
     },
     {
+      "title": "Mutant Blast",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.95,
+      "total_ratings": 14,
+      "origin": "Portugal",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Zombies, Survival, Military",
+      "image_filename": "mutantblast.jpg",
+      "pitch": "A soldier and a superhuman survivor race through a zombie apocalypse caused by military experiments. With a nuclear bomb looming, they must reach safety.",
+      "truth": "Maria, a soldier, and TS-347, a man with superhuman strength, are pursued by the military that created the zombie plague. They meet Pedro, a hungover everyman, and together they seek safety as a nuclear bomb counts down.",
+      "core": "Mutant Blast combines zombie horror with military conspiracy. The film critiques how scientific experimentation can create the very catastrophes it meant to prevent.",
+      "created_at": "2026-06-24 17:05:10",
+      "watch_url": null
+    },
+    {
       "title": "Mutant Species",
       "year": 1995,
       "medium": "Film",
@@ -25756,6 +25810,24 @@
       "truth": "Stark is a cyborg created by the Tannis Corporation to be the ultimate law enforcement tool. Refusing to be treated as an experiment, he escapes \u2014 and stumbles upon Grace, a woman who has just murdered her abusive husband. As the corporation's army converges on Grace's house, she must choose which side of the law she's on.",
       "core": "A cyberpunk action film exploring identity and autonomy through the lens of a created being seeking freedom.",
       "created_at": "2026-06-24 07:55:05",
+      "watch_url": null
+    },
+    {
+      "title": "Strange Beasts",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.2,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "VR, Identity, Technology",
+      "image_filename": "strangebeasts.jpg",
+      "pitch": "An augmented reality game lets players create and grow their own pets in a fantasy world. But some players choose to abandon reality entirely and live in their creations.",
+      "truth": "A new AR game allows players to create fantastical creatures as pets. As the game grows in popularity, some players become so immersed they abandon real life entirely.",
+      "core": "Strange Beasts critiques escapist technology. It asks whether virtual fulfillment is truly fulfilling, and warns of the dangers of choosing synthetic worlds over reality.",
+      "created_at": "2026-06-24 17:05:48",
       "watch_url": null
     },
     {
@@ -40159,5 +40231,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2231
+  "count": 2235
 }
