@@ -916,15 +916,15 @@
       "title": "A Ticket to Space",
       "year": 2006,
       "medium": "Film",
-      "creator": "",
+      "creator": "Fabrice du Weltz",
       "raw_score": 2.6,
       "total_ratings": 151,
       "origin": "France",
-      "mood": "Satirical",
-      "sub_genres": "Comedy, Science-Fantasy",
-      "topics": "Space, Politics, Media",
+      "mood": "Optimistic",
+      "sub_genres": "Comedy",
+      "topics": "Space Travel, Satire, Media",
       "image_filename": "A_Ticket_to_Space_2006.jpg",
-      "pitch": "To combat French public skepticism about space research funding, the government runs a PR campaign. In partnership with the French space agency, they organize a lottery game - a scratch-off ticket that will allow two civilians to stay at the European space station. What could go wrong?",
+      "pitch": "When the French government launches a scratch-off lottery to fund the space program, two ordinary citizens win a trip to the European Space Station. This French comedy satirizes public apathy toward scientific funding by making space exploration a game show prize.",
       "created_at": "2026-06-18 06:56:51",
       "watch_url": null
     },
@@ -11441,6 +11441,22 @@
       "watch_url": null
     },
     {
+      "title": "Immortel",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Enki Bilal",
+      "raw_score": 2.85,
+      "total_ratings": 453,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Gods, Genetic Engineering, Immortality",
+      "image_filename": "immortel_2004.jpg",
+      "pitch": "In a dystopic future where ancient Egyptian gods walk among humans, Horus - condemned to die for loving a mortal - seeks a human host to continue his divine lineage. Enki Bilal adapts his own graphic novels in this singular French sci-fi film.",
+      "created_at": "2026-06-24 08:44:31",
+      "watch_url": null
+    },
+    {
       "title": "Impossible",
       "year": 2015,
       "medium": "Film",
@@ -13262,6 +13278,22 @@
       "image_filename": "Laika_2017.jpg",
       "pitch": "A stray dog in Soviet Russia is captured and forcibly trained to become the first animal astronaut in this surreal animated satire. Laika reimagines the true story of the space dog as a darkly comedic fable about sacrifice, exploitation, and humanity's reach for the stars.",
       "created_at": "2026-06-13 02:27:40",
+      "watch_url": null
+    },
+    {
+      "title": "Land of the Dead",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "George A. Romero",
+      "raw_score": 3.13,
+      "total_ratings": 1814,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Zombies, Survival, Class",
+      "image_filename": "landofthedead_2005.jpg",
+      "pitch": "In a world where the dead have risen, the living retreat to a fortified city while the undead roam the wasteland. Romero returns to his defining franchise with a tale of class warfare among the living.",
+      "created_at": "2026-06-24 08:45:40",
       "watch_url": null
     },
     {
@@ -17998,6 +18030,22 @@
       "image_filename": "Pilot_Pirx_Inquest_1979.jpg",
       "pitch": "Pilot Pirx's Inquest is a Polish-Soviet science fiction film directed by Marek Piestrak, based on a story by Stanis\u0142aw Lem. The film follows Pirx, an experienced pilot hired to evaluate \"nonlinears\"\u2014experimental android crewmembers\u2014for use on future space flights. Sent on a top-secret mission to launch two satellites into the rings of Saturn, Pirx must determine which member of his mixed human-robot crew is secretly a hostile machine. Upon returning to Earth, an inquest begins to determine if Pirx was responsible for an accident that occurred during the mission. The film explores themes of artificial intelligence, humanity versus machines, and the nature of consciousness through a tense psychological thriller narrative.",
       "created_at": "2026-03-06 14:41:16",
+      "watch_url": null
+    },
+    {
+      "title": "Pinocchio 3000",
+      "year": 2004,
+      "medium": "Animated Film",
+      "creator": "Daniel",
+      "raw_score": 2.2,
+      "total_ratings": 153,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Children",
+      "topics": "AI, Robots, Emotion",
+      "image_filename": "pinocchio3000_2004.jpg",
+      "pitch": "In the year 3000, a scientist creates Pinocchio 3000, a robot prototype capable of emotions. The little robot's greatest wish is to become a real boy, but he must first learn what it means to have a heart.",
+      "created_at": "2026-06-24 08:45:14",
       "watch_url": null
     },
     {
@@ -34849,5 +34897,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2178
+  "count": 2181
 }

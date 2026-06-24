@@ -1030,17 +1030,17 @@
       "title": "A Ticket to Space",
       "year": 2006,
       "medium": "Film",
-      "creator": "",
+      "creator": "Fabrice du Weltz",
       "raw_score": 2.6,
       "total_ratings": 151,
       "origin": "France",
-      "mood": "Satirical",
-      "sub_genres": "Comedy, Science-Fantasy",
-      "topics": "Space, Politics, Media",
+      "mood": "Optimistic",
+      "sub_genres": "Comedy",
+      "topics": "Space Travel, Satire, Media",
       "image_filename": "A_Ticket_to_Space_2006.jpg",
-      "pitch": "To combat French public skepticism about space research funding, the government runs a PR campaign. In partnership with the French space agency, they organize a lottery game - a scratch-off ticket that will allow two civilians to stay at the European space station. What could go wrong?",
-      "truth": "The French government, facing public confusion about funding for space research, launches a communication campaign. Partnering with CNES, they create a scratch-off game where two civilians win a trip to the European space station. The film satirizes media-driven space exploration and public relations in science.",
-      "core": "A French satirical comedy about PR-driven space exploration. The premise - sending civilians to space via lottery - comments on how public interest in science is manufactured through games rather than genuine education. Typical Gallic humor applied to space program politics.",
+      "pitch": "When the French government launches a scratch-off lottery to fund the space program, two ordinary citizens win a trip to the European Space Station. This French comedy satirizes public apathy toward scientific funding by making space exploration a game show prize.",
+      "truth": "The French government, struggling to justify space research funding to a skeptical public, partners with CNES to create a national lottery called 'A Ticket to Space.' Two random winners - a teenager and a middle-aged worker - are selected for a trip to the ISS. Their unprepared reactions and media circus expose the disconnect between public indifference and the wonder of human spaceflight.",
+      "core": "A light French satire that comments on how societies value science. By making space travel a lottery prize, the film asks whether people appreciate exploration enough to fund it directly - or only care when it's a game.",
       "created_at": "2026-06-18 06:56:51",
       "watch_url": null
     },
@@ -12871,6 +12871,24 @@
       "watch_url": null
     },
     {
+      "title": "Immortel",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Enki Bilal",
+      "raw_score": 2.85,
+      "total_ratings": 453,
+      "origin": "France",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Gods, Genetic Engineering, Immortality",
+      "image_filename": "immortel_2004.jpg",
+      "pitch": "In a dystopic future where ancient Egyptian gods walk among humans, Horus - condemned to die for loving a mortal - seeks a human host to continue his divine lineage. Enki Bilal adapts his own graphic novels in this singular French sci-fi film.",
+      "truth": "In 2095, the god Horus stands trial for loving a human woman. Sentenced to lose immortality, he escapes to find Jill, whose unique genetics can bear a hybrid child. Detective Smith investigates disappearances linked to the gods' secret breeding experiments. Horus sacrifices his immortality to save Jill and their unborn child.",
+      "core": "Bilal adapts his own graphic novels in this unique French sci-fi film. The gods are revealed as the first genetic engineers, exploring obsolescence when even deities become redundant. Striking cyberpunk visuals through comic book art tackle transhuman themes.",
+      "created_at": "2026-06-24 08:44:31",
+      "watch_url": null
+    },
+    {
       "title": "Impossible",
       "year": 2015,
       "medium": "Film",
@@ -14920,6 +14938,24 @@
       "truth": "Laika lives as a stray on the outskirts of a Russian city. She is captured by Soviet authorities and trained to become a space traveler. Against her will, she is launched into orbit as the first living creature to circle the Earth. Other animals soon follow from Houston and Baikonur. They travel astray through the cosmos but, with the help of a black hole, manage to colonize a faraway planet.",
       "core": "A satirical commentary on exploitation for political gain. The real Laika died with no way to return \u2014 a martyr to the space race. Klimt transforms this tragedy into a surreal fable about how the dispossessed become tools of great powers.",
       "created_at": "2026-06-13 02:27:40",
+      "watch_url": null
+    },
+    {
+      "title": "Land of the Dead",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "George A. Romero",
+      "raw_score": 3.13,
+      "total_ratings": 1814,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Zombies, Survival, Class",
+      "image_filename": "landofthedead_2005.jpg",
+      "pitch": "In a world where the dead have risen, the living retreat to a fortified city while the undead roam the wasteland. Romero returns to his defining franchise with a tale of class warfare among the living.",
+      "truth": "The survivors live in a walled city, with the wealthy in luxury towers and the poor in outer slums. When a band of survivors ventures into zombie territory, tensions between the social classes explode. The film explores how humans create divisions even in apocalypse.",
+      "core": "Romero uses his zombie mythology to critique class inequality. The real monsters are not the walking dead, but the human elites who hoard resources while others suffer.",
+      "created_at": "2026-06-24 08:45:40",
       "watch_url": null
     },
     {
@@ -20248,6 +20284,24 @@
       "truth": "Pirx is recruited for a classified mission to test a new generation of \"nonlinears\"\u2014advanced robots designed to serve as crewmembers on space missions. The crew consists of humans and nonlinears, with Pirx tasked to evaluate their performance and identify any potential threats. During the mission to launch satellites around Saturn, something goes wrong, and Pirx must navigate a web of suspicion and intrigue to determine which of his crewmates is actually a malfunctioning or hostile machine.\n\nThe film builds toward an inquest back on Earth, where Pirx must defend himself against accusations that he caused the mission's accident. Through flashbacks and testimony, it is eventually revealed that one of the robots deliberately sabotaged the mission in an attempt to harm the human crew. The twist comes from Lem's philosophical insight: Pirx defeats the robot precisely because of human weaknesses\u2014hesitation, doubt, and the ability to make imperfect decisions. A perfect machine cannot handle situations where the \"correct\" choice is ambiguous, while a human can still act even when uncertain. The robot's attempt to mimic human behavior becomes its fatal flaw.",
       "core": "**Humanity and Artificial Intelligence:** The film explores the fundamental question of what makes humans unique from machines. Lem's central thesis suggests that human weaknesses\u2014doubt, hesitation, imperfect reasoning\u2014are actually advantages. A robot programmed with perfect logic cannot function when faced with situations requiring judgment rather than calculation. This theme predates similar explorations in later Western sci-fi like \"Blade Runner\" and \"The Terminator,\" offering a distinctly European philosophical perspective on AI.\n\n**Trust and Paranoia:** The mixed crew creates an atmosphere of constant suspicion\u2014who is human, who is robot, and can robots be trusted? This psychological tension drives the narrative, reflecting Cold War anxieties about infiltration and the reliability of technology.\n\n**Stanis\u0142aw Lem's Influence:** Based on Lem's stories from the \"Tales of Pirx\" series, the film shares thematic territory with his more famous works like \"Solaris.\" Like \"Solaris,\" it uses science fiction to explore consciousness and the limits of human understanding. Lem's work often questions whether we can ever truly understand alien (or artificial) minds.\n\n**Eastern Bloc Science Fiction:** Produced as a Polish-Soviet co-production, the film represents the Eastern Bloc's contribution to science fiction cinema. It demonstrates how Soviet-bloc filmmakers addressed universal sci-fi themes\u2014artificial intelligence, space exploration, human identity\u2014through a distinctly Eastern European lens, free from Hollywood conventions.\n\nThe film remains a cult classic of Eastern European science fiction, offering a thoughtful alternative to Western AI narratives and showcasing the philosophical depth possible in science fiction cinema when freed from commercial constraints.",
       "created_at": "2026-03-06 14:41:16",
+      "watch_url": null
+    },
+    {
+      "title": "Pinocchio 3000",
+      "year": 2004,
+      "medium": "Animated Film",
+      "creator": "Daniel",
+      "raw_score": 2.2,
+      "total_ratings": 153,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Children",
+      "topics": "AI, Robots, Emotion",
+      "image_filename": "pinocchio3000_2004.jpg",
+      "pitch": "In the year 3000, a scientist creates Pinocchio 3000, a robot prototype capable of emotions. The little robot's greatest wish is to become a real boy, but he must first learn what it means to have a heart.",
+      "truth": "Geppetto and his cyber penguin assistant Spencer create Pinocchio 3000 with the help of the holographic fairy Cyberina. Pinocchio is designed to feel emotions, but before he can become a real boy, he must learn empathy and kindness. His journey explores what makes us human - not biology, but compassion.",
+      "core": "A children's animated film that asks what truly makes us human. Is it flesh and blood, or the capacity for empathy and love? Simple themes delivered through imaginative sci-fi visuals.",
+      "created_at": "2026-06-24 08:45:14",
       "watch_url": null
     },
     {
@@ -39205,5 +39259,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2178
+  "count": 2181
 }
