@@ -11053,6 +11053,24 @@
       "watch_url": "https://archive.org/details/turner_video_393370"
     },
     {
+      "title": "Gamera 3: Revenge of Iris",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Shusuke Kaneko",
+      "raw_score": 3.69,
+      "total_ratings": 132,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Kaiju",
+      "topics": "Evolution, Monsters, Identity",
+      "image_filename": "gamera_3_revenge_of_iris_1999.jpg",
+      "pitch": "The final Gamera trilogy entry. A girl whose parents Gamera killed raises Iris, a creature born from her grief, to destroy him. As collateral damage mounts, the film asks: is Gamera truly humanity's guardian\u2014or just another threat?",
+      "truth": "Ayana's hatred creates Iris. Gamera battles the creature at Kyoto Station. Ayana is absorbed but realizes her own anger spawned the monster. Gamera destroys Iris to save her, sacrificing his arm.",
+      "core": "The darkest Gamera entry questions whether protectors who destroy cities are truly guardians. Gamera's reframing as dangerous made the franchise commercially toxic, causing a 17-year hiatus.",
+      "created_at": "2026-06-24 20:03:26",
+      "watch_url": null
+    },
+    {
       "title": "Gamera the Brave",
       "year": 2006,
       "medium": "Anime Film",
@@ -11611,6 +11629,24 @@
       "watch_url": "https://archive.org/details/recordingvideo"
     },
     {
+      "title": "Godzilla vs. Destoroyah",
+      "year": 1995,
+      "medium": "Film",
+      "creator": "Takao Okawara",
+      "raw_score": 3.91,
+      "total_ratings": 297,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Kaiju",
+      "topics": "Monsters, Nuclear, Extinction",
+      "image_filename": "godzilla_vs_destoroyah_1995.jpg",
+      "pitch": "The final Heisei Godzilla film. Godzilla, in meltdown, faces Destoroyah\u2014creatures born from the Oxygen Destroyer that killed the original 1954 Godzilla. As both monsters threaten Earth, the JSDF must stop two apocalypses.",
+      "truth": "Godzilla's heart is melting down. Destoroyah creatures emerge from the sea, terrorizing Japan. The JSDF deploys the Super X III to freeze Godzilla while battling Destoroyah. Godzilla defeats Destoroyah but dies from his meltdown, passing his energy to Godzilla Junior.",
+      "core": "The film serves as a elegy for the Heisei era\u2014Godzilla's death marked the franchise's end until 1999. It explores nuclear metaphor: the monsters are products of humanity's weapons. The final shot of Godzilla Junior becoming the new Godzilla offers fragile hope.",
+      "created_at": "2026-06-24 20:03:50",
+      "watch_url": null
+    },
+    {
       "title": "Godzilla vs. Gigan",
       "year": 1972,
       "medium": "Film",
@@ -11645,6 +11681,24 @@
       "core": "Banno's directorial debut carries an explicit environmentalist message - Hedorah spawns from pollution. Has become a cult classic praised by Roger Ebert and Nicolas Cage. Broke franchise conventions with the controversial flying atomic breath.",
       "created_at": "2026-06-17 21:19:34",
       "watch_url": "https://archive.org/details/godzilla-vs-hedorah-kraken"
+    },
+    {
+      "title": "Godzilla vs. Mechagodzilla II",
+      "year": 1993,
+      "medium": "Film",
+      "creator": "Takao Okawara",
+      "raw_score": 3.65,
+      "total_ratings": 231,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Horror, Kaiju",
+      "topics": "Monsters, Robots, Battle",
+      "image_filename": "godzilla_vs_mechagodzilla_ii_1993.jpg",
+      "pitch": "The 20th Godzilla film introduces Mechagodzilla and Baby Godzilla. When Godzilla threatens a research team studying a giant egg, the UN builds two anti-Godzilla weapons: Garuda and Mechagodzilla. But the mecha is hijacked by an alien mind.",
+      "truth": "Godzilla attacks the team studying a Rodan fossil inside a giant egg. Baby Godzilla hatches and imprints on the researchers. The UNGCC builds Garuda and Mechagodzilla to stop Godzilla. Mechagodzilla is hijacked by a alien parasite, but Baby Godzilla's cries remind Godzilla of paternal instinct. Godzilla destroys Mechagodzilla to save Baby Godzilla.",
+      "core": "This entry explores parent-child bonds through Godzilla and Baby Godzilla, and the ethics of building weapons against nature. The film was a commercial hit and pioneered Dolby Digital in Japanese cinema. Mechagodzilla remains a franchise icon.",
+      "created_at": "2026-06-24 20:04:05",
+      "watch_url": null
     },
     {
       "title": "Godzilla vs. Megaguirus",
@@ -40501,5 +40555,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2250
+  "count": 2253
 }
