@@ -6230,6 +6230,24 @@
     },
     {
       "title": "Cube",
+      "year": 1998,
+      "medium": "Film",
+      "creator": "Vincenzo Natali",
+      "raw_score": 3.41,
+      "total_ratings": 5249,
+      "origin": "Canada",
+      "mood": "Tense",
+      "sub_genres": "Horror, Mystery",
+      "topics": "Isolation, Survival, Memory",
+      "image_filename": "Cube_1998.jpg",
+      "pitch": "Seven strangers awaken inside a massive structure of identical cube-shaped rooms. Some rooms are safe; others contain deadly traps. With no memory of how they arrived, they must navigate the maze while solving its logic before it kills them all.",
+      "truth": "Six people wake in a cube-shaped maze. Leaven discovers the numbers are coordinates. Rennes dies testing traps. Worth admits he designed the shell. Quentin kills Holloway. Leaven realizes traps are tagged by powers of prime numbers; Kazan calculates factorizations. They reach the edge but every room there is a trap.",
+      "core": "Cube is a Kafkaesque exploration of institutional absurdity\u2014a system designed by people who forgot why, trapping those inside without purpose or escape. Its low budget and stark visuals amplify the claustrophobia.",
+      "created_at": "2026-06-24 04:35:36",
+      "watch_url": null
+    },
+    {
+      "title": "Cube",
       "year": 2021,
       "medium": "Film",
       "creator": "Yasuhiro Kawarada",
@@ -8803,6 +8821,24 @@
       "watch_url": "https://archive.org/details/turner_video_7792"
     },
     {
+      "title": "Event Horizon",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Paul W.S. Anderson",
+      "raw_score": 3.29,
+      "total_ratings": 3310,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Hard-SF",
+      "topics": "Space Travel, Isolation, First Contact, Religion",
+      "image_filename": "Event_Horizon_1997.jpg",
+      "pitch": "In 2047, a rescue crew boards the Event Horizon, a starship that vanished seven years earlier. They discover its gravity drive has torn open a gateway to a hellish dimension. As hallucinations of their deepest fears consume the crew, the ship's Latin motto becomes prophecy.",
+      "truth": "Captain Miller leads the Lewis and Clark crew to rescue the Event Horizon. Upon boarding, they find the original crew dead. Hallucinations torment the crew. D.J. discovers the distress signal says liberta te tutemet ex inferis. Dr. Weir, corrupted, destroys their ship. Miller sacrifices himself to destroy the drive.",
+      "core": "Event Horizon explores technological ambition tearing open a door to something ancient and malevolent. Drawing on Lovecraftian cosmic horror while updating it for the space age, the film asks whether some doors should remain closed.",
+      "created_at": "2026-06-24 04:35:20",
+      "watch_url": null
+    },
+    {
       "title": "Exhalation",
       "year": 2008,
       "medium": "Short Story",
@@ -10456,6 +10492,24 @@
       "truth": "Tetsuro boards the 999 seeking a free mechanical body to kill Count Mecha. On his journey, he meets Maetel, who resembles his dead mother, and travels through space. He learns the train's final stop offers free mechanization\u2014but it's a trap. Maetel is princess of Andromeda, and those who arrive become part of the planet. Tetsuro destroys the planet with her father's pendant, escaping with Maetel.",
       "core": "Based on Leiji Matsumoto's manga, this was the highest-grossing film of 1979 in Japan. Directed by Rintaro, it explores identity, mortality, and what it means to be human. A melancholic space opera about choosing humanity over immortality.",
       "created_at": "2026-06-15 05:11:03",
+      "watch_url": null
+    },
+    {
+      "title": "Galaxy Quest",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Dean Parisot",
+      "raw_score": 3.54,
+      "total_ratings": 2533,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Space-Opera",
+      "topics": "Aliens, Fame, Exploration",
+      "image_filename": "Galaxy_Quest_1999.jpg",
+      "pitch": "The washed-up cast of a 1980s space-adventure TV series are mistaken for real astronauts by aliens who think the show is a documentary. They must impersonate their fictional characters to help the Thermians fight the evil warlord Sarris\u2014who wants the Omega 13, a superweapon never actually used in the show.",
+      "truth": "Jason Nesmith, the vain star of Galaxy Quest, is recruited by the Thermians who mistake his fictional character for real. He fakes his way through battle, accidentally defeating Sarris. When he realizes its real, he recruits his co-stars. They learn the Omega 13 is a time reset device that could save them. In the final battle, they use the toy communicator to reset time and truly defeat Sarris.",
+      "core": "Galaxy Quest is both affectionate parody and sharp satire of Star Trek and fan culture. It argues fiction can matter\u2014that stories have power to inspire real courage. The cast must become the heroes they played. It wins Hugo and Nebula awards, rare for comedy.",
+      "created_at": "2026-06-24 04:35:45",
       "watch_url": null
     },
     {
@@ -31573,6 +31627,24 @@
       "watch_url": null
     },
     {
+      "title": "The Martian Chronicles",
+      "year": 1980,
+      "medium": "TV Series",
+      "creator": "Michael Robinson",
+      "raw_score": 3.45,
+      "total_ratings": 44,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Drama, Dystopia",
+      "topics": "Aliens, Exploration, Ecology",
+      "image_filename": "The_Martian_Chronicles_1980.jpg",
+      "pitch": "A 1980 TV miniseries adaptation of Ray Bradbury's classic novel. It chronicles the exploration and settlement of Mars by Americans fleeing a nuclear-devastated Earth. Each expedition encounters the Martians differently\u2014with violence, wonder, or haunting absence.",
+      "truth": "First expeditions find Martians dead from disease. Americans colonize, building Earth-named towns. Martians appear as hallucinations. Nuclear war devastates Earth. The final episode shows the last Earth family arriving at Mars, ready to start fresh.",
+      "core": "The Martian Chronicles is a melancholy meditation on American imperialism and technology's double edge. Bradbury uses Mars as a mirror\u2014showing how humanity brings its flaws wherever it goes. The miniseries captures the poetic, wistful tone of Bradbury's prose.",
+      "created_at": "2026-06-24 04:36:04",
+      "watch_url": null
+    },
+    {
       "title": "The Master Key",
       "year": 2009,
       "medium": "Film",
@@ -38881,5 +38953,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2160
+  "count": 2164
 }
