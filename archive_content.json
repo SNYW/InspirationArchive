@@ -2089,6 +2089,24 @@
       "watch_url": "https://archive.org/details/allsystemsred0000well"
     },
     {
+      "title": "Alone",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.81,
+      "total_ratings": 524,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Children, Isolation",
+      "image_filename": "Alone_2017.jpg",
+      "pitch": "Five children wake up in an empty world. No adults. No answers. Just silence where a city should be. This French film drops its young cast into a haunting post-apocalyptic scenario: they must navigate an abandoned world where everyone has simply vanished. The mystery of the disappearances hangs over every frame, and the children are left to form their own fragile society.",
+      "truth": "The five children wake up in their apartment building to find every adult has disappeared. No one is dead \u2014 they simply ceased to exist. The children must learn to survive on their own, scavenging for food and forming a makeshift family. As they struggle to understand what happened, they confront the harsh realities of a world without adult protection.",
+      "core": "A meditation on childhood resilience and the terrifying freedom of a world without guardians. The film explores what happens when children are forced to become adults overnight, examining themes of abandonment, survival, and the construction of meaning in an inexplicable world.",
+      "created_at": "2026-06-24 15:49:59",
+      "watch_url": null
+    },
+    {
       "title": "Alphaville",
       "year": 1965,
       "medium": "Film",
@@ -33229,6 +33247,24 @@
       "watch_url": "https://archive.org/details/THENIGHTCALLER1965"
     },
     {
+      "title": "The Night Eats the World",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.02,
+      "total_ratings": 806,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Survival, Zombies, Isolation",
+      "image_filename": "The_Night_Eats_the_World_2018.jpg",
+      "pitch": "Sam wakes up from a hangover to find Paris transformed. The party guests are dead \u2014 or worse. As the living dead roam the streets below, he finds himself trapped in an apartment building, alone and surrounded. This French horror film rethinks the zombie genre through the lens of Parisian isolation and urban claustrophobia.",
+      "truth": "Sam wakes up in an apartment where a wild party took place the night before. Stepping into the hallway, he discovers the guests have become zombies. Trapped in the apartment, he must survive alone, barricaded, while the undead roam the building. The film follows his attempts to stay alive as the city falls to the horde outside.",
+      "core": "A solitary take on the zombie apocalypse, stripping the genre of its usual ensemble cast for a meditation on loneliness and survival. The film uses Paris as both backdrop and character \u2014 a city of lights become a city of the dead. It explores how isolation can be both curse and salvation.",
+      "created_at": "2026-06-24 15:50:11",
+      "watch_url": null
+    },
+    {
       "title": "The Nightmare Room",
       "year": 2001,
       "medium": "TV Series",
@@ -40069,5 +40105,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2226
+  "count": 2228
 }
