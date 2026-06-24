@@ -8577,6 +8577,22 @@
       "watch_url": "https://archive.org/details/farscape-s-02-e-38-the-locket-august-25-2000-australia-and-united-states"
     },
     {
+      "title": "Fast Color",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Julia Hart",
+      "raw_score": 2.97,
+      "total_ratings": 226,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Supernatural, Family",
+      "image_filename": null,
+      "pitch": "Ruth has supernatural abilities that could change the world\u2014but powerful forces want to control her. On the run, she returns home, confronting a past she left behind.",
+      "created_at": "2026-06-24 18:19:19",
+      "watch_url": null
+    },
+    {
       "title": "Fatal Sky",
       "year": 1990,
       "medium": "Film",
@@ -10289,6 +10305,22 @@
       "watch_url": "https://archive.org/details/godzilla-vs-hedorah-kraken"
     },
     {
+      "title": "Godzilla vs. Megaguirus",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "Masaaki Tezuka",
+      "raw_score": 3.34,
+      "total_ratings": 222,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Monsters, Ecology",
+      "image_filename": null,
+      "pitch": "In an alternate timeline, Godzilla has never been defeated\u2014returning repeatedly to feed on Japan's energy. A new Dimension Tide weapon aims to eliminate him, but may open a gateway to something worse.",
+      "created_at": "2026-06-24 18:19:28",
+      "watch_url": null
+    },
+    {
       "title": "Godzilla vs. Megalon",
       "year": 1973,
       "medium": "Film",
@@ -10830,6 +10862,22 @@
       "image_filename": "Hanussen_1988.jpg",
       "pitch": "A hypnotic tale of prophecy and power, Hanussen follows the true story of Erik Jan Hanussen \u2014 a clairvoyant who rose from obscurity to become Berlin's most celebrated mentalist in the 1920s and 30s, only to predict the rise of Adolf Hitler and pay the ultimate price.\n\nDirected by Istv\u00e1n Szab\u00f3 (Mephisto, Colonel Redl) and starring Klaus Maria Brandauer, this Hungarian-Austrian-German co-production is a haunting meditation on the nature of foresight, the seductions of power, and the terrible burden of seeing what others refuse to believe.",
       "created_at": "2026-06-12 23:57:41",
+      "watch_url": null
+    },
+    {
+      "title": "Harbinger Down",
+      "year": 2015,
+      "medium": "Film",
+      "creator": "Alec Gillis",
+      "raw_score": 2.27,
+      "total_ratings": 221,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Science",
+      "image_filename": null,
+      "pitch": "Graduate students aboard a fishing trawler in the Bering Sea recover a Soviet spacecraft frozen in ice\u2014only to unleash mutated tardigrades that evolved into lethal predators. A love letter to practical creature effects.",
+      "created_at": "2026-06-24 18:19:16",
       "watch_url": null
     },
     {
@@ -14497,6 +14545,22 @@
       "watch_url": null
     },
     {
+      "title": "Lucid Dream",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Kim Joon-sung",
+      "raw_score": 3.2,
+      "total_ratings": 226,
+      "origin": "South-Korea",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Thriller",
+      "topics": "Memory, VR, Crime",
+      "image_filename": null,
+      "pitch": "A journalist's son is abducted with no ransom demanded. Three years later, he learns lucid dreaming therapy lets him relive memories\u2014perhaps find the truth about his son's disappearance.",
+      "created_at": "2026-06-24 18:19:22",
+      "watch_url": null
+    },
+    {
       "title": "Lucky Sky Diamond",
       "year": 1989,
       "medium": "Anime Film",
@@ -14862,6 +14926,22 @@
       "image_filename": "Man_in_Space_1955.jpg",
       "pitch": "A pioneering animated short from 1955 using documentary footage and animation to explain rockets and space travel. Produced by John Hubley for the US Army, it was one of the earliest serious attempts to visualize space exploration. Bold geometric animation conveys rocketry's power when space travel was still theoretical.",
       "created_at": "2026-06-23 23:59:54",
+      "watch_url": null
+    },
+    {
+      "title": "Man-Thing",
+      "year": 2005,
+      "medium": "Film",
+      "creator": "Brett Leonard",
+      "raw_score": 2.15,
+      "total_ratings": 224,
+      "origin": "Australia",
+      "mood": "Gritty",
+      "sub_genres": "Horror",
+      "topics": "Monsters, Supernatural",
+      "image_filename": null,
+      "pitch": "A Louisiana sheriff investigates deaths in a swamp, encountering a Seminole legend: a shambling creature whose touch burns those who feel fear. Loosely based on Marvel's swamp monster.",
+      "created_at": "2026-06-24 18:19:25",
       "watch_url": null
     },
     {
@@ -35825,5 +35905,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2239
+  "count": 2244
 }
