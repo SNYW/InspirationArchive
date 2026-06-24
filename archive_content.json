@@ -127,6 +127,24 @@
       "watch_url": "https://www.youtube.com/watch?v=H0iQ_Q-jK5I"
     },
     {
+      "title": "18if",
+      "year": 2017,
+      "medium": "Anime",
+      "creator": "Gonzo",
+      "raw_score": 3.06,
+      "total_ratings": 22395,
+      "origin": "Japan",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "VR, Dreams, Mental Health",
+      "image_filename": "18if_2017.jpg",
+      "pitch": "A teenager wakes up in a dream world ruled by powerful Witches, where he must outsmart them with the help of a professor and a mysterious girl to return to reality.",
+      "truth": "Haruto Tsukishiro navigates a dream realm of Witches with Professor Kanzaki and Lily. The truth: Haruto was in a coma after an accident. He eventually escapes through a door while his physical body dies.",
+      "core": "A surreal exploration of coma states and dreams within dreams. Questions reality versus perception and what it means to truly wake up.",
+      "created_at": "2026-06-24 12:04:52",
+      "watch_url": null
+    },
+    {
       "title": "1984",
       "year": 1956,
       "medium": "Film",
@@ -5056,6 +5074,24 @@
       "truth": "Noera and Marcia are driving through the California desert when they happen upon the wreckage of a military convoy. Among the debris, they discover a strange, glowing object that they take with them. Almost immediately, they notice they're being followed by government agents.\n\nThe women are pursued across the desert as they try to understand what the object is and why the government wants it so badly. Their journey takes them deeper into the mystery, eventually leading them to a hidden facility in Death Valley where the true scale of the conspiracy is revealed.\n\nThe object turns out to be an advanced piece of technology\u2014or perhaps something far more dangerous. The film ends with the women facing a choice: expose the truth or become victims of the conspiracy themselves.",
       "core": "California Crisis: Gun Salvo is a fascinating artifact of 1980s Japanese B-movie cinema, offering a unique take on the American conspiracy thriller genre from an outsider's perspective. The film explores themes of government secrecy, the price of discovery, and the vulnerability of ordinary citizens caught in extraordinary circumstances.\n\nThe choice to set a Japanese film in California and cast American actresses gives the work an unusual cultural position\u2014neither fully Japanese nor authentically American, but a curious hybrid that reflects Japan's long history of engaging with American pop culture and Hollywood imagery.\n\nWhile the film is clearly a low-budget production, it compensates with genuine tension and a premise that anticipates many later conspiracy thrillers. The desert setting provides effective atmosphere, and the mysterious object at the center of the plot serves as a vehicle for exploring questions about technology, government power, and the cost of truth.",
       "created_at": "2026-06-13 06:43:28",
+      "watch_url": null
+    },
+    {
+      "title": "Caligula",
+      "year": 2018,
+      "medium": "Anime",
+      "creator": "Satelight",
+      "raw_score": 2.98,
+      "total_ratings": 27311,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "VR, Identity, Rebellion",
+      "image_filename": "Caligula_2018.jpg",
+      "pitch": "A high school student discovers his perfect world is a virtual construct called Mobius, created by sentient virtual idol \u03bc to shelter people from real-world suffering.",
+      "truth": "Ritsu Shikishima realizes his reality is Mobius, a digital paradise created by \u03bc. He forms the Go-Home Club with eight other students to return to the real world, facing the Ostinato Musicians who maintain the illusion.",
+      "core": "Explores themes of simulated reality, identity, and the ethics of escapism. A meditation on what makes us human\u2014our struggles and traumas, not our happy illusions.",
+      "created_at": "2026-06-24 12:04:47",
       "watch_url": null
     },
     {
@@ -37387,6 +37423,24 @@
       "watch_url": null
     },
     {
+      "title": "Uchuu Sentai Kyuranger",
+      "year": 2017,
+      "medium": "TV Series",
+      "creator": "TV Asahi, Toei Company",
+      "raw_score": 3.9,
+      "total_ratings": 13,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Aliens, Rebellion, Space Travel",
+      "image_filename": "Uchuu_Sentai_Kyuranger_2017.jpg",
+      "pitch": "The Jark Matter empire has conquered the galaxy. Nine heroes chosen by magical Kyu Globes must reclaim the universe from alien tyrants.",
+      "truth": "Nine warriors from across the galaxy become Kyurangers, each granted powers from celestial constellations. They battle Jark Matter across 48 episodes.",
+      "core": "Super Sentai goes space opera with nine heroes and constellation-based powers. Themes of destiny and rebellion.",
+      "created_at": "2026-06-24 12:04:43",
+      "watch_url": null
+    },
+    {
       "title": "Ukkonen",
       "year": 2001,
       "medium": "Short Film",
@@ -39511,5 +39565,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2195
+  "count": 2198
 }
