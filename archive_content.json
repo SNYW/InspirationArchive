@@ -14689,6 +14689,24 @@
       "watch_url": null
     },
     {
+      "title": "Laplace's Witch",
+      "year": 2018,
+      "medium": "Film",
+      "creator": "Hideo Nakata",
+      "raw_score": 3.15,
+      "total_ratings": 38,
+      "origin": "Japan",
+      "mood": "Cerebral",
+      "sub_genres": "Mystery",
+      "topics": "Discovery, Science Education",
+      "image_filename": "Laplace's_Witch_2018.jpg",
+      "pitch": "A 2018 Japanese mystery directed by Hideo Nakata. An environmental analyst investigates two poisoning deaths and encounters a mysterious young woman at both scenes.",
+      "truth": "Environmental analyst Yayoi Kudo investigates two deaths by hydrogen sulfide poisoning. At both scenes, she sees the same young woman named Ai. Through scientific analysis, she uncovers the deaths were connected.",
+      "core": "Explores Laplace's demon - can all events be calculated from atomic positions? Nakata applies atmospheric tension to this cerebral scientific mystery.",
+      "created_at": "2026-06-24 01:40:47",
+      "watch_url": null
+    },
+    {
       "title": "Laser Squad",
       "year": 1988,
       "medium": "Video Game",
@@ -38647,5 +38665,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2147
+  "count": 2148
 }
