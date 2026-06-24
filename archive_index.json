@@ -14001,6 +14001,22 @@
       "watch_url": "https://archive.org/details/lucky.-sky.-diamond_202310"
     },
     {
+      "title": "Lumina",
+      "year": 2024,
+      "medium": "Film",
+      "creator": "Gino McKoy",
+      "raw_score": 3.54,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, First Contact, Survival",
+      "image_filename": "Lumina_2024.jpg",
+      "pitch": "When a blinding light engulfs a mansion party, Alex's new girlfriend Tatiana vanishes. As authorities fail to help, Alex discovers a secret underground military base where alien forces threaten his life.",
+      "created_at": "2026-06-24 05:50:36",
+      "watch_url": null
+    },
+    {
       "title": "Luna",
       "year": 1965,
       "medium": "Film",
@@ -34657,5 +34673,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2166
+  "count": 2167
 }
