@@ -19025,6 +19025,22 @@
       "watch_url": "https://archive.org/details/a-1-t-00_20231215_2322"
     },
     {
+      "title": "Revengers Tragedy",
+      "year": 2002,
+      "medium": "Film",
+      "creator": "Alex Cox",
+      "raw_score": 2.88,
+      "total_ratings": 14,
+      "origin": "UK",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Noir",
+      "topics": "Revenge, Authoritarianism, Crime",
+      "image_filename": "Revengers_Tragedy_2002.jpg",
+      "pitch": "A 2002 British adaptation of Thomas Middleton's Jacobean revenge tragedy, relocated to post-apocalyptic Liverpool. Christopher Eccleston is Vindici, seeking revenge against the Duke who murdered his beloved. Director Alex Cox blends 1606 language with modern decay.",
+      "created_at": "2026-06-24 02:06:10",
+      "watch_url": null
+    },
+    {
       "title": "Rhea Gall Force",
       "year": 1989,
       "medium": "Anime",
@@ -34369,5 +34385,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2148
+  "count": 2149
 }
