@@ -24049,6 +24049,22 @@
       "watch_url": null
     },
     {
+      "title": "Tenchi Muyo! War on Geminar",
+      "year": 2009,
+      "medium": "OVA",
+      "creator": "Masaki Kajishima",
+      "raw_score": 3.79,
+      "total_ratings": 21,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Robots, Exploration",
+      "image_filename": "tenchi_muyo_war_on_geminar.jpg",
+      "pitch": "A 13-episode OVA spin-off from Tenchi Muyo! Kenshi Masaki is transported to the alternate world of Geminar, where ancient mecha called Sacred Mechanoids are used to wage wars. After being tricked into an assassination attempt, he becomes protector to the young ruler Lashara and attends an elite academy.",
+      "created_at": "2026-06-24 18:45:20",
+      "watch_url": null
+    },
+    {
       "title": "Tender Spots",
       "year": 1981,
       "medium": "Film",
@@ -35905,5 +35921,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2244
+  "count": 2245
 }
