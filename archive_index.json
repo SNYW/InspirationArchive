@@ -7793,6 +7793,22 @@
       "watch_url": "https://archive.org/details/ElHotelElectrico"
     },
     {
+      "title": "El-Hazard",
+      "year": 1995,
+      "medium": "OVA",
+      "creator": "AIC",
+      "raw_score": 3.21,
+      "total_ratings": 12,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Isekai",
+      "topics": "Magic, Other World, Adventure",
+      "image_filename": "El-Hazard_1995.jpg",
+      "pitch": "When Makoto Mizuhara discovers an old monument in his school, he accidentally awakens a beautiful woman \u2014 and alongside his teacher, worst enemy, and a friend, is transported to the magnificent world of El Hazard. There they discover they have received special powers.",
+      "created_at": "2026-06-24 13:44:35",
+      "watch_url": null
+    },
+    {
       "title": "Elaan",
       "year": 1971,
       "medium": "Film",
@@ -14433,6 +14449,22 @@
       "watch_url": "https://archive.org/details/Maburaho"
     },
     {
+      "title": "Macross II: Lovers Again",
+      "year": 1992,
+      "medium": "OVA",
+      "creator": "AIC",
+      "raw_score": 3.0,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Mecha",
+      "topics": "Aliens, War, First Contact",
+      "image_filename": "Macross_II_1992.jpg",
+      "pitch": "80 years after Space War I, a new alien threat called the Marduk appears in the Solar System. SNN rookie reporter Hibiki Kanzaki discovers Ishtar, an Emulator that enhances the Marduk's combat abilities. This OVA continues the Macross legacy with new characters and a new threat.",
+      "created_at": "2026-06-24 13:44:39",
+      "watch_url": null
+    },
+    {
       "title": "Mad Max",
       "year": 1979,
       "medium": "Film",
@@ -16638,6 +16670,22 @@
       "image_filename": "New_Eden_1994.jpg",
       "pitch": "Prisoners are dumped on a harsh sand planet called Earth 21-523, where most are killed by the sand people upon arrival. Survivors struggle to exist in the desert wasteland until a new prisoner arrives with revolutionary ideas \u2014 irrigation and cultivation.",
       "created_at": "2026-06-15 14:44:26",
+      "watch_url": null
+    },
+    {
+      "title": "New Legend of Madame White Snake",
+      "year": 1992,
+      "medium": "TV Series",
+      "creator": "Taiwan Television",
+      "raw_score": 4.3,
+      "total_ratings": 17,
+      "origin": "China",
+      "mood": "Melancholic",
+      "sub_genres": "Fantasy, Romance",
+      "topics": "Love, Mythology, Transformation",
+      "image_filename": "New_Legend_of_Madame_White_Snake_1992.jpg",
+      "pitch": "This 1992 Taiwanese TV series retells the classic Chinese folk legend of the White Snake. Based on the Legend of the White Snake, the series became a major hit when broadcast on CCTV in 1993.",
+      "created_at": "2026-06-24 13:44:49",
       "watch_url": null
     },
     {
@@ -23233,6 +23281,22 @@
       "watch_url": null
     },
     {
+      "title": "Tabaluga",
+      "year": 1997,
+      "medium": "TV Series",
+      "creator": "Flying Bark Animation",
+      "raw_score": 3.31,
+      "total_ratings": 17,
+      "origin": "Germany",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy, Children's",
+      "topics": "Dragons, Good vs Evil, Friendship",
+      "image_filename": "Tabaluga_1997.jpg",
+      "pitch": "Tabaluga is the last of the dragons and the crown-prince of Greenland, a magical place inhabited by talking animals. This German animated series follows Tabaluga as he defends his home from two rival kingdoms \u2014 a frigid arctic tundra ruled by the evil snowman Arktos and a searing desert kingdom.",
+      "created_at": "2026-06-24 13:44:44",
+      "watch_url": null
+    },
+    {
       "title": "Tajemnica Statuetki",
       "year": 1993,
       "medium": "Video Game",
@@ -29457,6 +29521,22 @@
       "watch_url": null
     },
     {
+      "title": "The Odyssey",
+      "year": 1992,
+      "medium": "TV Series",
+      "creator": "Omni Film Productions",
+      "raw_score": 3.6,
+      "total_ratings": 15,
+      "origin": "Canada",
+      "mood": "Optimistic",
+      "sub_genres": "Fantasy",
+      "topics": "Children, Dreams, Identity",
+      "image_filename": "The_Odyssey_1992.jpg",
+      "pitch": "After a fall leaves Jay in a coma, he awakens in Downworld \u2014 a surreal fantasy realm where children never grow past 15. This Canadian children's series follows Jay and his disabled friend Donna as they navigate a society of tribal clubs, the most powerful being the brutal Tower ruled by a 15-year-old despot.",
+      "created_at": "2026-06-24 13:44:32",
+      "watch_url": null
+    },
+    {
       "title": "The Ogre of Athens",
       "year": 1956,
       "medium": "Film",
@@ -35377,5 +35457,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2211
+  "count": 2216
 }
