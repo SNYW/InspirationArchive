@@ -15517,6 +15517,24 @@
       "watch_url": null
     },
     {
+      "title": "Lo que vendra",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Hugo Soto",
+      "raw_score": 3.0,
+      "total_ratings": 13,
+      "origin": "Argentina",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Rebellion, Politics, Survival",
+      "image_filename": "lo_que_vendra_1988.jpg",
+      "pitch": "In a dystopian near-future city, political activist Miguel Galvan is shot during a demonstration. Wounded and hunted by a policeman, he must survive the night with a vigilante entering the chase. A tense cat-and-mouse game explores oppression and survival.",
+      "truth": "Miguel Galvan is accidentally shot during a political demonstration in a dystopian city. Wounded, he must navigate dangerous streets while being pursued by a policeman. A vigilante also joins the hunt. The three characters become entangled in a desperate night of survival, each with their own moral motivations.",
+      "core": "An obscure Argentine dystopian film exploring the human cost of political oppression. The near-future setting serves as a commentary on authoritarian regimes and the psychological toll of living in a volatile society. The three-character structure blurs the lines between victim and aggressor.",
+      "created_at": "2026-06-24 07:35:46",
+      "watch_url": null
+    },
+    {
       "title": "Locke the Superman",
       "year": 1984,
       "medium": "Anime Film",
@@ -39061,5 +39079,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2170
+  "count": 2171
 }
