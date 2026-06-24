@@ -3985,6 +3985,22 @@
       "watch_url": null
     },
     {
+      "title": "Box Room",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.75,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Surreal",
+      "sub_genres": "Horror",
+      "topics": "Isolation, Supernatural, Coming-of-Age",
+      "image_filename": "Box_Room_2014.jpg",
+      "pitch": "Jerry is a strange, solitary boy who lives with his neglectful mother in a rundown apartment. While investigating a damp stain on his bedroom wall, he peels off wallpaper and discovers a seductive alien orifice growing behind the plaster. A surreal horror about loneliness and adolescence.",
+      "created_at": "2026-06-24 00:51:46",
+      "watch_url": null
+    },
+    {
       "title": "Brain Powerd",
       "year": 1998,
       "medium": "Anime",
@@ -6753,6 +6769,22 @@
       "watch_url": null
     },
     {
+      "title": "District C-11",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.55,
+      "total_ratings": 12,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Survival",
+      "image_filename": "District_C-11_2017.jpg",
+      "pitch": "In a near-future under martial law, two rookie cops are assigned to patrol District C-11 \u2014 a death sentence wrapped in a badge. As they navigate this brutal urban wasteland, they discover the regime maintaining order is built on lies. A lean, grim dystopian thriller.",
+      "created_at": "2026-06-24 00:51:22",
+      "watch_url": null
+    },
+    {
       "title": "Division 19",
       "year": 2017,
       "medium": "Film",
@@ -9007,6 +9039,22 @@
       "pitch": "In a post-apocalyptic future where World War III devastated Earth, a young boy named Conan was born on a remote island settlement formed by survivors of a failed space exodus. Raised by his elderly adoptive grandfather among the last remnants of humanity, Conan lives a simple life until a girl named Lana washes ashore\u2014the first stranger and person his own age he has ever seen. \n\nWhen Lana is kidnapped by the technologically advanced city-state of Industria, Conan sets sail across the dangerous ocean to rescue her, encountering allies and enemies in a world where humanity clings to survival among scattered islands. This 1978 series marks Hayao Miyazaki's directorial debut and established many themes he would later perfect in his Studio Ghibli masterpieces.\n\nWith its optimistic outlook and faith in the next generation, Future Boy Conan stands as a rare post-apocalyptic story that believes humanity can learn from its mistakes and build a better future.",
       "created_at": "2026-06-12 23:52:47",
       "watch_url": "https://archive.org/details/ConanOMeninoDoFuturoTVRipTVCulturaAntimateria"
+    },
+    {
+      "title": "Future Boyfriend",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.6,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Time-Travel, Love, Identity",
+      "image_filename": "Future_Boyfriend_2016.jpg",
+      "pitch": "Stuart and Kaylie are enjoying their third date until Stuart drops a bombshell: he's from the future. Is he telling the truth, or is it just science fiction? A brief, philosophical indie about truth, relationships, and whether we can ever truly know another person.",
+      "created_at": "2026-06-24 00:51:29",
+      "watch_url": null
     },
     {
       "title": "Future Fear",
@@ -16049,6 +16097,22 @@
       "watch_url": null
     },
     {
+      "title": "New World Order X",
+      "year": 2013,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.1,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Drugs, Identity",
+      "image_filename": "New_World_Order_X_2013.jpg",
+      "pitch": "In a dystopian future where pain and emotion have been suppressed by a government drug called Torpase, Joshua Barrett coasts through monotony until he's kidnapped by a rebellious priest who exposes him to a world beyond Torpase, changing everything he thought he knew about living.",
+      "created_at": "2026-06-24 00:51:41",
+      "watch_url": null
+    },
+    {
       "title": "News from Nowhere",
       "year": 1890,
       "medium": "Novel",
@@ -17838,6 +17902,22 @@
       "image_filename": "platinum_data.jpg",
       "pitch": "In 2017 Japan, a top DNA analyst becomes the prime suspect when the inventor of a DNA analysis system is murdered. His own DNA is found at the crime scene, and he must uncover a government conspiracy to control the people's DNA.",
       "created_at": "2026-06-23 08:35:48",
+      "watch_url": null
+    },
+    {
+      "title": "Plug",
+      "year": 2014,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.8,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Robots, AI",
+      "image_filename": "Plug_2014.jpg",
+      "pitch": "On a post-apocalyptic Earth, Leila Dawn is the only human survivor, raised by robots after humanity destroyed the planet with nuclear warfare. She cannot forget her parents or ignore her yearning to find other organic life. A hunt with her robot companion leads to a shocking discovery.",
+      "created_at": "2026-06-24 00:51:51",
       "watch_url": null
     },
     {
@@ -34225,5 +34305,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2139
+  "count": 2144
 }
