@@ -10477,6 +10477,24 @@
       "watch_url": "https://archive.org/details/turner_video_393370"
     },
     {
+      "title": "Gamera the Brave",
+      "year": 2006,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 3.5,
+      "total_ratings": 81,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Monster",
+      "topics": "Monsters, Redemption, Children",
+      "image_filename": "gamera_the_brave_2006.jpg",
+      "pitch": "The 2006 reboot of the classic kaiju franchise follows young Kotaro, who discovers an ancient egg on a beach. It hatches into a baby turtle that grows into a new, smaller Gamera - friendlier than his destructive predecessors. A deliberate shift toward a child-friendly monster hero.",
+      "truth": "Young Kotaro discovers an ancient egg on the beach and cares for the baby creature that hatches, naming him Kappa. As Kappa grows into the new Gamera, monsters emerge from the sea, with Zedus threatening the town. The military is powerless, and only Gamera can stop Zedus. During the climactic battle, Gamera is saved when the children inspire him with emotional support.",
+      "core": "A deliberate franchise reboot designed to attract younger audiences. Explores themes of childhood responsibility and the bond between humans and monsters. Unlike American monster films where the hero acts alone, Gamera draws strength from the community of children who believe in him.",
+      "created_at": "2026-06-24 03:19:51",
+      "watch_url": null
+    },
+    {
       "title": "Gamera vs. Barugon",
       "year": 1966,
       "medium": "Film",
@@ -32149,6 +32167,24 @@
       "watch_url": null
     },
     {
+      "title": "The Next Generation Patlabor: Tokyo War",
+      "year": 2015,
+      "medium": "Anime Film",
+      "creator": "",
+      "raw_score": 3.25,
+      "total_ratings": 31,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Police",
+      "topics": "Terrorism, Robots, Justice",
+      "image_filename": "patlabor_tokyo_war_2015.jpg",
+      "pitch": "The 2015 follow-up to the Patlabor franchise. When the fighter helicopter Gray Ghost attacks Rainbow Bridge in Odaiba, Tokyo, a stolen weapon is used in a terrorist strike. Two days earlier, the Gray Ghost was stolen by followers of Yukihito Tsuge, who planned a coup of Tokyo 13 years earlier.",
+      "truth": "An attack takes place on Rainbow Bridge in Odaiba, Tokyo by the fighter helicopter Gray Ghost. Two days earlier, the Gray Ghost was stolen. The perpetrators are followers of Yukihito Tsuge, who planned a coup of Tokyo 13 years earlier. The leader of Special Vehicle Section 2, Keiji Gotoda, sets out to stop the terrorists.",
+      "core": "A modern entry in the classic Patlabor franchise exploring themes of terrorism and police robotics. Continues the series' tradition of examining the relationship between humans and their machines in a Near Future Tokyo.",
+      "created_at": "2026-06-24 03:20:03",
+      "watch_url": null
+    },
+    {
       "title": "The Next One",
       "year": 1984,
       "medium": "Film",
@@ -38755,5 +38791,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2153
+  "count": 2155
 }
