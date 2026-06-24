@@ -8273,6 +8273,22 @@
       "watch_url": "https://archive.org/details/exhalation_202504"
     },
     {
+      "title": "Exorcist",
+      "year": 2017,
+      "medium": "TV Series",
+      "creator": "",
+      "raw_score": 3.4,
+      "total_ratings": 12,
+      "origin": "Poland",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Supernatural, Folklore",
+      "image_filename": "exorcist_2017.jpg",
+      "pitch": "Bogdan Boner is a handyman who moonlights as a self-taught exorcist in this Polish comedy. When not painting houses or mowing lawns, he uses his practical skills to battle demons plaguing Polish homes. The show treats supernatural infestations like messy renovation projects.",
+      "created_at": "2026-06-24 21:40:50",
+      "watch_url": null
+    },
+    {
       "title": "Exosquad",
       "year": 1993,
       "medium": "Animated Film",
@@ -36065,5 +36081,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2254
+  "count": 2255
 }
