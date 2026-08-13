@@ -3665,6 +3665,22 @@
       "watch_url": null
     },
     {
+      "title": "Beyond Atlantis",
+      "year": 1973,
+      "medium": "Film",
+      "creator": "James G. Reynolds",
+      "raw_score": 1.94,
+      "total_ratings": 27,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Adventure",
+      "topics": "Treasure, Survival, Exploration",
+      "image_filename": "Beyond_Atlantis_1973.jpg",
+      "pitch": "Beyond Atlantis (1973) is an adventure film. A group of treasure hunters invades a remote Pacific island inhabited by a native tribe, seeking buried gold. What begins as a simple treasure hunt becomes a fight for survival when the islanders fight back.",
+      "created_at": "2026-08-13 06:16:39",
+      "watch_url": null
+    },
+    {
       "title": "Beyond the Black Rainbow",
       "year": 2010,
       "medium": "Film",
@@ -6799,6 +6815,22 @@
       "pitch": "In 1990s Tokyo, a catastrophic \"Demon Quake\" destroys Shinjuku, transforming it into a demon-haunted wasteland. Ten years later, the city remains a twisted netherworld where supernatural entities roam the ruined skyscrapers. When the World President is targeted by a curse, his daughter recruits Kyoya Izayoi\u2014the son of a legendary hero who died fighting the demon lord Rebi Ra\u2014to venture into the heart of darkness. What awaits is a surreal journey through a city where the boundary between human and monster has dissolved completely.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/turner_video_394010"
+    },
+    {
+      "title": "Demonwarp",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "Harry Bromley",
+      "raw_score": 2.1,
+      "total_ratings": 23,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Survival, First Contact",
+      "image_filename": "Demonwarp_1988.jpg",
+      "pitch": "Demonwarp (1988) is a sci-fi horror film. A father and daughter camping in the woods encounter what they think is a Bigfoot creature\u2014but soon discover it's something far stranger. Their forest retreat hides an alien spacecraft and its deadly occupant.",
+      "created_at": "2026-08-13 06:17:10",
+      "watch_url": null
     },
     {
       "title": "Department S",
@@ -31601,6 +31633,22 @@
       "watch_url": "https://archive.org/details/subdl.com-the.stolen.airship.ukraden.vzducholod-82640"
     },
     {
+      "title": "The Story of Love",
+      "year": 1976,
+      "medium": "Film",
+      "creator": "Radu Gabrea",
+      "raw_score": 2.9,
+      "total_ratings": 10,
+      "origin": "Romania",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Love, Aliens, Fairy Tale",
+      "image_filename": "The_Story_of_Love_1976.jpg",
+      "pitch": "The Story of Love (1976) is a Romanian sci-fi fairy tale. A young boy has an extraordinary encounter with a UFO\u2014and meets a princess who changes his life. Years later as an adult, he searches for her again. A poetic blend of science fiction and fairy tale imagery from Romanian cinema.",
+      "created_at": "2026-08-13 06:16:25",
+      "watch_url": null
+    },
+    {
       "title": "The Stowaway",
       "year": 1978,
       "medium": "TV Series",
@@ -33185,6 +33233,22 @@
       "watch_url": null
     },
     {
+      "title": "This Is Not a Test",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "George Frederic",
+      "raw_score": 2.88,
+      "total_ratings": 25,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Nuclear War, Humanity",
+      "image_filename": "This_Is_Not_a_Test_1962.jpg",
+      "pitch": "This Is Not a Test (1962) is a Cold War thriller. A policeman sets up a roadblock on a rural highway late at night\u2014then tells the stopped drivers that nuclear war has begun. With only a massive truck as shelter, strangers must decide who survives.",
+      "created_at": "2026-08-13 06:17:35",
+      "watch_url": null
+    },
+    {
       "title": "This Island Earth",
       "year": 1955,
       "medium": "Film",
@@ -34737,6 +34801,22 @@
       "watch_url": "https://archive.org/details/vegas.in.-space.-ve"
     },
     {
+      "title": "Vehicle Force Voltron",
+      "year": 1984,
+      "medium": "TV Series",
+      "creator": "World Events Productions",
+      "raw_score": 3.85,
+      "total_ratings": 35,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Robots, Aliens, War",
+      "image_filename": "Vehicle_Force_Voltron_1984.jpg",
+      "pitch": "Vehicle Force Voltron (1984) is an animated series from Japanese footage. When the Galaxy Alliance's planets become overcrowded, explorers search for new worlds\u2014but the evil Drule Empire fights to stop them. The 15-vehicle Dairugger robot combines to defend humanity.",
+      "created_at": "2026-08-13 06:16:11",
+      "watch_url": null
+    },
+    {
       "title": "Venus Wars",
       "year": 1989,
       "medium": "Anime Film",
@@ -36273,5 +36353,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2267
+  "count": 2272
 }
