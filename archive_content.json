@@ -5023,6 +5023,24 @@
       "watch_url": null
     },
     {
+      "title": "Bubblegum Crash",
+      "year": 1991,
+      "medium": "OVA",
+      "creator": "Toshimichi Suzuki",
+      "raw_score": 3.03,
+      "total_ratings": 17,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Cyberpunk",
+      "topics": "AI, Megacorps, Robots",
+      "image_filename": "Bubblegum_Crash_1991.jpg",
+      "pitch": "Tokyo's Knight Sabers have disbanded\u2014until a mysterious AI begins orchestrating crimes through rogue Boomers. Sylia must reunite her team for one last mission.",
+      "truth": "In 2034 Tokyo, the Knight Sabers have gone separate ways. When mercenary Illegal Army raids tech companies, connected to murders and Boomer malfunctions, Sylia reunites her team. They discover a mysterious AI is orchestrating the attacks. The team destroys the AI, but the series was cut short due to legal disputes.",
+      "core": "A bittersweet cyberpunk coda about legacy and whether heroes can retire. The AI antagonist shows dangers of creating intelligence without accountability. Despite its three-episode run cut short by corporate legal battles, it delivers sharp action critiquing corporate power.",
+      "created_at": "2026-08-13 15:49:21",
+      "watch_url": null
+    },
+    {
       "title": "Bubblegum Crisis",
       "year": 1987,
       "medium": "Anime",
@@ -41131,5 +41149,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2285
+  "count": 2286
 }
