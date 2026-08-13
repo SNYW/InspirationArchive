@@ -31879,6 +31879,24 @@
       "watch_url": null
     },
     {
+      "title": "The Interceptor",
+      "year": 2009,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.07,
+      "total_ratings": 26,
+      "origin": "Russia",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction",
+      "topics": "AI, Surveillance, Secret Agents",
+      "image_filename": "The_Interceptor_2009.jpg",
+      "pitch": "A Russian agent transporting a psychic weapon is betrayed by his partner and presumed dead. Years later, he must return to stop the conspirators from using the weapon to seize power. A modest Russian sci-fi spy thriller with Cold War atmosphere.",
+      "truth": "Alexei is assigned to transport a psychic mind-control weapon but is betrayed by partner Konstantin, who leaves him for dead. Alexei assumes a new identity to disappear. When Konstantin uses the weapon to plot a government takeover, loyal agents find Alexei and recruit him one last time. He confronts Konstantin, destroys the weapon, and vanishes again.",
+      "core": "The film explores betrayal within intelligence services and the cost of serving a system that turns against its own. The psychic weapon symbolizes ultimate control over human will. A modest post-Soviet Russian sci-fi actioner reflecting Cold War-era paranoia.",
+      "created_at": "2026-08-13 20:49:35",
+      "watch_url": null
+    },
+    {
       "title": "The Invader",
       "year": 1997,
       "medium": "Film",
@@ -41239,5 +41257,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2291
+  "count": 2292
 }
