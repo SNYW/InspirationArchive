@@ -1617,6 +1617,22 @@
       "watch_url": null
     },
     {
+      "title": "Alfred J. Kwak",
+      "year": 1989,
+      "medium": "Anime",
+      "creator": "Herman van Veen",
+      "raw_score": 3.75,
+      "total_ratings": 44,
+      "origin": "Netherlands",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Family, Friendship, Adventure",
+      "image_filename": "Alfred_J_Kwak_1989.jpg",
+      "pitch": "A young duck loses his parents and is raised by a mole. Alfred J. Kwak goes on magical adventures around the world with his friends. A Dutch-Japanese co-production with a melancholic undercurrent.",
+      "created_at": "2026-08-13 21:40:24",
+      "watch_url": null
+    },
+    {
       "title": "Algol",
       "year": 1920,
       "medium": "Film",
@@ -13614,6 +13630,22 @@
       "image_filename": "Kingsajz_1988.jpg",
       "pitch": "Kingsajz is a 1988 Polish cult comedy fantasy film that serves as a biting allegory of the communist regime. The story follows Olo Jedlina, a gnome (krasnoludek) who serves the underground kingdom of Szuflandia (Drawerland), a hidden realm beneath the Quaternary Research Institute. When Olo is permitted to visit \"Kingsajz\" \u2014 the world of full-sized humans \u2014 he discovers a green potion that allows him to achieve human proportions. He decides to stay, becoming a journalist and living a peaceful life in the human world, regularly drinking Polo-Cockta to maintain his size.\n\nHis friend Ada\u015b Happs, the scientist who helped create the Kingsajz potion, rebels against the gnome government and escapes to Kingsajz. Working in a secret laboratory, he attempts to decode the potion formula so all gnomes can become human-sized. When authorities track him down, Olo must mount a rescue mission back into the underground kingdom \u2014 now at human size to confront the regime that sent agents to bring him back.",
       "created_at": "2026-03-03 10:03:23",
+      "watch_url": null
+    },
+    {
+      "title": "Kinnikuman",
+      "year": 1983,
+      "medium": "Anime",
+      "creator": "Yudetamago",
+      "raw_score": 3.9,
+      "total_ratings": 36,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sports, Friendship, Competition",
+      "image_filename": "Kinnikuman_1983.jpg",
+      "pitch": "A clumsy superhero discovers he's the missing prince of the planet Kinniku and must prove himself worthy through wrestling matches. A comedic superhero wrestling series with 183 episodes.",
+      "created_at": "2026-08-13 21:40:44",
       "watch_url": null
     },
     {
@@ -31169,6 +31201,22 @@
       "watch_url": null
     },
     {
+      "title": "The Ray Bradbury Theater",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "Ray Bradbury",
+      "raw_score": 3.45,
+      "total_ratings": 37,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Literature, Technology, Isolation",
+      "image_filename": "The_Ray_Bradbury_Theater_1985.jpg",
+      "pitch": "Anthology series adapting Ray Bradbury's short stories. Each episode brings a different tale\u2014haunting sci-fi, chilling horror, or poignant drama. Every episode written by Bradbury himself.",
+      "created_at": "2026-08-13 21:39:57",
+      "watch_url": null
+    },
+    {
       "title": "The Red Spectacles",
       "year": 1987,
       "medium": "Film",
@@ -33665,6 +33713,22 @@
       "watch_url": null
     },
     {
+      "title": "Thundarr the Barbarian",
+      "year": 1980,
+      "medium": "TV Series",
+      "creator": "Steve Gerber, Joe Ruby, Ken Spears",
+      "raw_score": 3.83,
+      "total_ratings": 42,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Post-Apocalypse, Science-Fantasy",
+      "topics": "Survival, Rebellion, Technology",
+      "image_filename": "Thundarr_the_Barbarian_1980.jpg",
+      "pitch": "A barbarian hero wanders a post-apocalyptic Earth with his companions Ariel and Ookla, fighting evil wherever they find it. Created by the minds behind Sha Na Na.",
+      "created_at": "2026-08-13 21:41:34",
+      "watch_url": null
+    },
+    {
       "title": "Thunderbird 6",
       "year": 1968,
       "medium": "Animated Film",
@@ -34974,6 +35038,22 @@
       "image_filename": "Uridium_1986.jpg",
       "pitch": "Uridium is a horizontally scrolling shooter designed by Andrew Braybrook for the Commodore 64 and published by Hewson Consultants in 1986. The game challenges players to destroy fifteen Super-Dreadnoughts orbiting each planet in a galactic sector, each draining mineral resources from planetary cores. Players control a Manta class Space Fighter, navigating through enemy defenses, destroying surface installations, and landing on massive motherships to extract fuel rods before escaping as the Dreadnought explodes. The game is notable for its innovative parallax scrolling technique on the Commodore 64 and was a critical success, winning Best Shooting Game of 1986 and earning a Golden Joystick Award.",
       "created_at": "2026-03-03 15:14:36",
+      "watch_url": null
+    },
+    {
+      "title": "Urusei Yatsura",
+      "year": 1981,
+      "medium": "Anime",
+      "creator": "Rumiko Takahashi",
+      "raw_score": 3.65,
+      "total_ratings": 44,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Romance, Aliens, Comedy",
+      "image_filename": "Urusei_Yatsura_1981.jpg",
+      "pitch": "An alien girl named Lum invades Earth and falls in love with a lecherous high schooler. One of Rumiko Takahashi's earliest and most beloved works, blending sci-fi with romantic comedy.",
+      "created_at": "2026-08-13 21:41:05",
       "watch_url": null
     },
     {
@@ -36689,5 +36769,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2293
+  "count": 2298
 }
