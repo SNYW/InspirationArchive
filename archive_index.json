@@ -14001,6 +14001,22 @@
       "watch_url": "https://archive.org/details/la-jetee-fra"
     },
     {
+      "title": "La Soupe aux choux",
+      "year": 1981,
+      "medium": "Film",
+      "creator": "Jean Girault",
+      "raw_score": 3.2,
+      "total_ratings": 954,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Rural Life, Tradition vs Modernity",
+      "image_filename": "La_Soupe_aux_choux_1981.jpg",
+      "pitch": "Two aging French farmers' flatulence accidentally summons an alien from the planet Oxo, who has traveled across the galaxy seeking new culinary experiences. This whimsical 1981 comedy marks one of Louis de Fun\u00e8s's final performances\u2014a charming blend of slapstick and sentiment about tradition versus progress.",
+      "created_at": "2026-08-13 16:16:01",
+      "watch_url": null
+    },
+    {
       "title": "La hora marcada",
       "year": 1988,
       "medium": "TV Series",
@@ -18961,6 +18977,22 @@
       "watch_url": null
     },
     {
+      "title": "Pet Shop",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "Hope Perello",
+      "raw_score": 2.35,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Aliens, Children, Family",
+      "image_filename": "Pet_Shop_1994.jpg",
+      "pitch": "Disguised aliens open a pet shop in a dusty Arizona town, offering free pets to local children. But these extraterrestrial critters are actually bait\u2014the aliens plan to capture the children and sell them on the alien pet market! A quirky 1994 children's sci-fi comedy.",
+      "created_at": "2026-08-13 16:17:01",
+      "watch_url": null
+    },
+    {
       "title": "Petticoat Planet",
       "year": 1996,
       "medium": "Film",
@@ -20846,6 +20878,22 @@
       "image_filename": "Rogue_Moon_1960.jpg",
       "pitch": "In 1960, legendary science fiction writer Algis Budrys delivered this haunting meditation on humanity's relationship with death and identity. When a massive alien artifact is discovered on the Moon, the U.S. Navy recruits Dr. Edward Hawks to lead a top-secret project investigating the mysterious structure\u2014which kills anyone who enters it. Hawks develops a revolutionary matter transmission system that allows explorers on Earth to share the experiences of their duplicates on the Moon, experiencing death second-hand as their clones navigate the alien labyrinth. The story follows Al Barker, a thrill-seeker who becomes the first to retain his sanity after dying in the artifact, as he pushes further into the structure with each iteration. Part hard science fiction puzzle, part existential meditation, Rogue Moon explores what it means to face death, create identity, and transcend the boundaries of human existence.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Rollerball",
+      "year": 1975,
+      "medium": "Film",
+      "creator": "Norman Jewison",
+      "raw_score": 3.13,
+      "total_ratings": 630,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Sports",
+      "topics": "Corporate Power, Individualism, Rebellion",
+      "image_filename": "Rollerball_1975.jpg",
+      "pitch": "In a future dominated by corporations, the brutal sport of Rollerball is used to keep the populace pacified. Jonathan E. is the star player whose growing popularity threatens the ruling powers\u2014and they'll change the rules to destroy him. A dystopian classic starring James Caan.",
+      "created_at": "2026-08-13 16:16:45",
       "watch_url": null
     },
     {
@@ -28031,6 +28079,22 @@
       "pitch": "An American action series set in the near future, following a mysterious group of lawmen in high-tech trucks who fight crime at the fringes of society. Created by Glen A. Larson, it stars Sam J. Jones as the enigmatic Highwayman, whose real name is never revealed.",
       "created_at": "2026-06-22 19:40:00",
       "watch_url": "https://archive.org/details/turner_video_99749"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 1981,
+      "medium": "TV Series",
+      "creator": "Douglas Adams",
+      "raw_score": 4.03,
+      "total_ratings": 40,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Comedy",
+      "topics": "Aliens, Bureaucracy, Space Travel, Satire",
+      "image_filename": "The_Hitchhikers_Guide_to_the_Galaxy_1981.jpg",
+      "pitch": "Arthur Dent's house is demolished to make way for a bypass\u2014and that's just the start. In this BBC adaptation of Douglas Adams's legendary series, Earth is destroyed to make room for a hyperspace bypass. Rescued by alien Ford Prefect, Arthur travels the galaxy with the two-headed Zaphod and depressed robot Marvin.",
+      "created_at": "2026-08-13 16:16:20",
+      "watch_url": null
     },
     {
       "title": "The Hobbits",
@@ -36577,5 +36641,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2286
+  "count": 2290
 }
