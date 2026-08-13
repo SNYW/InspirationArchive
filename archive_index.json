@@ -21745,6 +21745,22 @@
       "watch_url": "https://archive.org/details/singapore-sling"
     },
     {
+      "title": "Sins of the Fleshapoids",
+      "year": 1965,
+      "medium": "Film",
+      "creator": "Mike Kuchar",
+      "raw_score": 3.06,
+      "total_ratings": 17,
+      "origin": "USA",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Sentience, Robots, Rebellion",
+      "image_filename": "Sins_of_the_Fleshapoids_1965.jpg",
+      "pitch": "One million years in the future, humanity has created Fleshapoids\u2014human-looking androids\u2014to serve their every need. When Xar the android revolts against his masters, he triggers an uprising in this bizarre 1965 underground film. Told through word balloons instead of dialogue, it's a campy, surreal vision predating major sci-fi by decades.",
+      "created_at": "2026-08-13 01:41:05",
+      "watch_url": null
+    },
+    {
       "title": "Sirius",
       "year": 1942,
       "medium": "Film",
@@ -36081,5 +36097,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2255
+  "count": 2256
 }
