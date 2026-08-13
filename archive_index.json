@@ -12625,6 +12625,22 @@
       "watch_url": "https://archive.org/details/ItHappenedHere"
     },
     {
+      "title": "JUNG_E",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Yeon Sang-ho",
+      "raw_score": 3.04,
+      "total_ratings": 687,
+      "origin": "South-Korea",
+      "mood": "Melancholic",
+      "sub_genres": "Hard-SF, Cyberpunk",
+      "topics": "Cloning, AI, Memory, Family, War",
+      "image_filename": "JUNG_E_2023.jpg",
+      "pitch": "In 2135, climate change forces humanity to space shelters at war. Captain Yun Jung-yi becomes a mercenary to pay for her daughter's treatments. After she falls into a coma, a research institute clones her brain for an AI soldier. Decades later, her adult daughter leads the secret project\u2014and must decide what her mother's legacy truly means.",
+      "created_at": "2026-08-13 10:50:19",
+      "watch_url": null
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -36465,5 +36481,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2279
+  "count": 2280
 }

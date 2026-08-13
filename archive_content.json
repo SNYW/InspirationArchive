@@ -14203,6 +14203,24 @@
       "watch_url": "https://archive.org/details/ItHappenedHere"
     },
     {
+      "title": "JUNG_E",
+      "year": 2023,
+      "medium": "Film",
+      "creator": "Yeon Sang-ho",
+      "raw_score": 3.04,
+      "total_ratings": 687,
+      "origin": "South-Korea",
+      "mood": "Melancholic",
+      "sub_genres": "Hard-SF, Cyberpunk",
+      "topics": "Cloning, AI, Memory, Family, War",
+      "image_filename": "JUNG_E_2023.jpg",
+      "pitch": "In 2135, climate change forces humanity to space shelters at war. Captain Yun Jung-yi becomes a mercenary to pay for her daughter's treatments. After she falls into a coma, a research institute clones her brain for an AI soldier. Decades later, her adult daughter leads the secret project\u2014and must decide what her mother's legacy truly means.",
+      "truth": "In 2194, Dr. Seo-hyun leads the JUNG_E project cloning her mother's brain for AI mercenaries. The AI fails simulations just as the original did. When peace arrives and the project is cancelled, she discovers clones being misused. She escapes with a JUNG_E unit, pursued by the robot director\u2014who is himself an AI. Dying, she tells JUNG_E to survive. The AI shows unexpected emotion before escaping.",
+      "core": "JUNG_E explores memory and preserving loved ones. Director Yeon Sang-ho asks whether memorialization preserves capabilities or humanity. The film subverts the AI soldier trope\u2014JUNG_E is a vessel for grief. The twist that the director is an AI who believes he's human blurs consciousness boundaries.",
+      "created_at": "2026-08-13 10:50:19",
+      "watch_url": null
+    },
+    {
       "title": "Jabberwocky",
       "year": 1971,
       "medium": "Short Film",
@@ -41023,5 +41041,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2279
+  "count": 2280
 }
