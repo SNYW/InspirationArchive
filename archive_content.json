@@ -20557,6 +20557,24 @@
       "watch_url": null
     },
     {
+      "title": "Otherworld",
+      "year": 1985,
+      "medium": "TV Series",
+      "creator": "Roderick Taylor",
+      "raw_score": 2.85,
+      "total_ratings": 15,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Family, Aliens, First Contact",
+      "image_filename": "Otherworld_1985.jpg",
+      "pitch": "The Sterling family tours the Great Pyramid of Giza during a rare planetary conjunction and is transported to an alien planet called Thel. This world of isolated provinces and android servants is ruled by the Church of Artificial Intelligence. Pursued by Commander Kroll seeking their access crystal, the family must flee from zone to zone.",
+      "truth": "The series follows the Sterling family navigating a planet of isolated zones, each with its own government. Possessing an access crystal that allows movement between zones makes them targets of Commander Kroll, who pursues them seeking revenge and the crystal.",
+      "core": "A forgotten 1980s gem exploring parallel universes with dark undertones. Addresses religious fundamentalism, totalitarianism, and family unity. Egyptian-inspired aesthetics feel remarkably prescient.",
+      "created_at": "2026-08-13 05:24:59",
+      "watch_url": null
+    },
+    {
       "title": "Our Heavenly Bodies",
       "year": 1925,
       "medium": "Film",
@@ -40771,5 +40789,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2265
+  "count": 2266
 }
