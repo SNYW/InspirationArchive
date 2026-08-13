@@ -8545,6 +8545,22 @@
       "watch_url": null
     },
     {
+      "title": "Fafner in the Azure",
+      "year": 2004,
+      "medium": "Anime",
+      "creator": "Nobuyoshi Habara",
+      "raw_score": 3.27,
+      "total_ratings": 16,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Space-Opera",
+      "topics": "Aliens, Evolution, First Contact",
+      "image_filename": "Fafner_in_the_Azure_2004.jpg",
+      "pitch": "Fafner in the Azure is a 26-episode mecha anime from 2004. Children on a remote island must pilot giant mecha to defend Earth from shapeshifting aliens who assimilate everything they touch. A somber meditation on sacrifice.",
+      "created_at": "2026-08-13 03:20:24",
+      "watch_url": null
+    },
+    {
       "title": "Fahrenheit 451",
       "year": 1953,
       "medium": "Novel",
@@ -36209,5 +36225,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2263
+  "count": 2264
 }
