@@ -4138,7 +4138,7 @@
       "truth": "Adventurers travel to a remote Pacific island searching for buried treasure reported by a dying explorer. They encounter a native tribe that protects the island's secrets. The treasure hunters must survive tribal warfare, dangerous terrain, and their own greed as tensions escalate.",
       "core": "A low-budget 1970s adventure film showing the exploitation genre's typical themes: Western intruders versus indigenous peoples, the corrupting nature of treasurelust. Represents a particular era of island adventure cinema.",
       "created_at": "2026-08-13 06:16:39",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_11744"
     },
     {
       "title": "Beyond the Black Rainbow",
@@ -20071,6 +20071,24 @@
       "watch_url": null
     },
     {
+      "title": "Ocean Girl",
+      "year": 1994,
+      "medium": "TV Series",
+      "creator": "Jonathan M. Shiff",
+      "raw_score": 3.48,
+      "total_ratings": 13,
+      "origin": "Australia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Aliens, Friendship",
+      "image_filename": null,
+      "pitch": "Australian family sci-fi about Neri, a girl with extraordinary swimming abilities living alone on an island. When two brothers from an underwater research facility discover her, they form an unlikely friendship centered on deep ecology and whale communication.",
+      "truth": "Neri is an alien child who came to Earth with her father in a crashed spacecraft. After his death, she befriends a humpback whale and later the Bates brothers at ORCA underwater research center. A rival corporation threatens the ocean while seeking alien technology. Neri discovers her alien sister and learns her origins.",
+      "core": "Ocean Girl blends children's adventure with environmental sci-fi, presenting the ocean as a fragile ecosystem. The conflict between conservation and corporate exploitation mirrors real environmental debates. It offers thoughtful entertainment combining alien origins with emotional depth.",
+      "created_at": "2026-08-13 06:40:15",
+      "watch_url": "https://archive.org/details/ocean-girl"
+    },
+    {
       "title": "Odin: Starlight Mutiny",
       "year": 1985,
       "medium": "Anime Film",
@@ -35926,7 +35944,7 @@
       "truth": "Frank Hallaway creates a simulation of 1937 Colorado with AI characters. After his murder, prot\u00e9g\u00e9 Horton inherits it and learns our reality may be a simulation. Horton falls in love with a simulated woman who proves their world runs on the same code as ours. The twist: the \"future humans\" running our simulation are Hallaway's characters, now advanced enough to create our reality.",
       "core": "A meditation on recursion and consciousness, The Thirteenth Floor asks what makes consciousness real. The film prefigures modern simulation theory\u2014Hallaway plays god, but his \"children\" surpass him, creating their own reality in an endless loop.",
       "created_at": "2026-08-13 05:50:24",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_2844"
     },
     {
       "title": "The Thousand Wonders of the Universe",
@@ -39166,7 +39184,7 @@
       "truth": "The Galaxy Alliance sends the Explorer Fleet to find habitable worlds as their planets overcrow. Captain Montana leads the mission but faces sabotage from the evil Drule Empire led by Prince Lotor. The 15-vehicle Dairugger XV combines to defend against the Drules across 52 episodes.",
       "core": "An early example of Japanese anime reaching American TV, assembled from Dairugger XV footage. Shows how 1980s distributors repackaged mecha for Western audiences. Classic space opera themes of exploration and fighting oppression.",
       "created_at": "2026-08-13 06:16:11",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/voltron-vehicle-force"
     },
     {
       "title": "Venus Wars",
@@ -40897,5 +40915,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2272
+  "count": 2273
 }

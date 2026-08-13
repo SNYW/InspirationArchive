@@ -3678,7 +3678,7 @@
       "image_filename": "Beyond_Atlantis_1973.jpg",
       "pitch": "Beyond Atlantis (1973) is an adventure film. A group of treasure hunters invades a remote Pacific island inhabited by a native tribe, seeking buried gold. What begins as a simple treasure hunt becomes a fight for survival when the islanders fight back.",
       "created_at": "2026-08-13 06:16:39",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_11744"
     },
     {
       "title": "Beyond the Black Rainbow",
@@ -17841,6 +17841,22 @@
       "watch_url": null
     },
     {
+      "title": "Ocean Girl",
+      "year": 1994,
+      "medium": "TV Series",
+      "creator": "Jonathan M. Shiff",
+      "raw_score": 3.48,
+      "total_ratings": 13,
+      "origin": "Australia",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Ecology, Aliens, Friendship",
+      "image_filename": null,
+      "pitch": "Australian family sci-fi about Neri, a girl with extraordinary swimming abilities living alone on an island. When two brothers from an underwater research facility discover her, they form an unlikely friendship centered on deep ecology and whale communication.",
+      "created_at": "2026-08-13 06:40:15",
+      "watch_url": "https://archive.org/details/ocean-girl"
+    },
+    {
       "title": "Odin: Starlight Mutiny",
       "year": 1985,
       "medium": "Anime Film",
@@ -31934,7 +31950,7 @@
       "image_filename": "The_Thirteenth_Floor_1999.jpg",
       "pitch": "In 1999 Los Angeles, a computer scientist creates a simulated 1937 Colorado. When he's murdered, his prot\u00e9g\u00e9 inherits the project and discovers the simulated people may have achieved consciousness\u2014and our reality might be a simulation too.",
       "created_at": "2026-08-13 05:50:24",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/turner_video_2844"
     },
     {
       "title": "The Thousand Wonders of the Universe",
@@ -34814,7 +34830,7 @@
       "image_filename": "Vehicle_Force_Voltron_1984.jpg",
       "pitch": "Vehicle Force Voltron (1984) is an animated series from Japanese footage. When the Galaxy Alliance's planets become overcrowded, explorers search for new worlds\u2014but the evil Drule Empire fights to stop them. The 15-vehicle Dairugger robot combines to defend humanity.",
       "created_at": "2026-08-13 06:16:11",
-      "watch_url": null
+      "watch_url": "https://archive.org/details/voltron-vehicle-force"
     },
     {
       "title": "Venus Wars",
@@ -36353,5 +36369,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2272
+  "count": 2273
 }
