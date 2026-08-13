@@ -10593,6 +10593,22 @@
       "watch_url": "https://archive.org/details/goodnight-sweetheart_202509"
     },
     {
+      "title": "Gorath",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.14,
+      "total_ratings": 28,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Disaster",
+      "topics": "Space, Exploration, Survival, Catastrophe",
+      "image_filename": "Gorath_1962.jpg",
+      "pitch": "In 1980, astronomers discover Gorath, a rogue white dwarf star heading toward Earth. With two years until impact, humanity builds massive thrusters at the South Pole to move Earth out of orbit. But as Gorath approaches, causing tidal chaos and monster attacks, can humanity escape destruction?",
+      "created_at": "2026-08-13 02:05:19",
+      "watch_url": null
+    },
+    {
       "title": "Gorky 17",
       "year": 1999,
       "medium": "Video Game",
@@ -12257,6 +12273,22 @@
       "watch_url": "https://archive.org/details/turner_video_47551"
     },
     {
+      "title": "Invasion of the Neptune Men",
+      "year": 1961,
+      "medium": "Film",
+      "creator": "Koji Ota",
+      "raw_score": 1.54,
+      "total_ratings": 28,
+      "origin": "Japan",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fiction, Superhero",
+      "topics": "Aliens, War, Survival, First Contact",
+      "image_filename": "Invasion_of_the_Neptune_Men_1961.jpg",
+      "pitch": "Astronomer Shinichi Tachibana leads a double life as superhero Iron Sharp to defend Earth against metallic aliens called the Neptune Men. When the aliens announce their invasion, throwing the world into panic, Iron Sharp must stop their mothership from destroying civilization.",
+      "created_at": "2026-08-13 02:05:51",
+      "watch_url": null
+    },
+    {
       "title": "Invasion: Earth",
       "year": 1998,
       "medium": "TV Series",
@@ -13422,6 +13454,22 @@
       "image_filename": "Kingsajz_1988.jpg",
       "pitch": "Kingsajz is a 1988 Polish cult comedy fantasy film that serves as a biting allegory of the communist regime. The story follows Olo Jedlina, a gnome (krasnoludek) who serves the underground kingdom of Szuflandia (Drawerland), a hidden realm beneath the Quaternary Research Institute. When Olo is permitted to visit \"Kingsajz\" \u2014 the world of full-sized humans \u2014 he discovers a green potion that allows him to achieve human proportions. He decides to stay, becoming a journalist and living a peaceful life in the human world, regularly drinking Polo-Cockta to maintain his size.\n\nHis friend Ada\u015b Happs, the scientist who helped create the Kingsajz potion, rebels against the gnome government and escapes to Kingsajz. Working in a secret laboratory, he attempts to decode the potion formula so all gnomes can become human-sized. When authorities track him down, Olo must mount a rescue mission back into the underground kingdom \u2014 now at human size to confront the regime that sent agents to bring him back.",
       "created_at": "2026-03-03 10:03:23",
+      "watch_url": null
+    },
+    {
+      "title": "Kiss Me Monster",
+      "year": 1969,
+      "medium": "Film",
+      "creator": "Jes\u00fas Franco",
+      "raw_score": 2.34,
+      "total_ratings": 19,
+      "origin": "Germany",
+      "mood": "Surreal",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Science, Cloning, Crime",
+      "image_filename": "Kiss_Me_Monster_1969.jpg",
+      "pitch": "On a Caribbean island, a professor experiments with creating human clones. Meanwhile, a striptease troupe called The Red Lips becomes entangled in a web of Satanists and Sapphic sadists, all seeking the professor's secret formula. A 1969 Spanish-West German exploitation film from cult director Jes\u00fas Franco.",
+      "created_at": "2026-08-13 02:07:30",
       "watch_url": null
     },
     {
@@ -18926,6 +18974,22 @@
       "image_filename": "Planet_Raptor_2007.jpg",
       "pitch": "Planet Raptor is a 2007 sci-fi horror film and sequel to Raptor Island. In 2066, the Earth is entirely occupied by intelligent raptors. A group of marines is sent to investigate the planet, discovering a civilization of evolved dinosaurs that have developed technology and human-speak. They must survive the night against the raptors.",
       "created_at": "2026-06-15 00:35:00",
+      "watch_url": null
+    },
+    {
+      "title": "Planet of Storms",
+      "year": 1962,
+      "medium": "Film",
+      "creator": "Pavel Klushantsev",
+      "raw_score": 2.77,
+      "total_ratings": 53,
+      "origin": "Soviet-Union",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Adventure",
+      "topics": "Space, Exploration, First Contact, Survival",
+      "image_filename": "Planet_of_Storms_1962.jpg",
+      "pitch": "Soviet cosmonauts aboard the Sirius and Vega ships embark on humanity's first mission to land on Venus. After Capella is destroyed by a meteor, the remaining crew must continue alone. They descend through poisonous clouds to discover a world of carnivorous plants, dinosaur-like creatures, and alien life. But can they survive the hostile planet and return home?",
+      "created_at": "2026-08-13 02:06:57",
       "watch_url": null
     },
     {
@@ -27825,6 +27889,22 @@
       "watch_url": null
     },
     {
+      "title": "The Human Vapor",
+      "year": 1960,
+      "medium": "Film",
+      "creator": "Ishir\u014d Honda",
+      "raw_score": 3.55,
+      "total_ratings": 28,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Noir",
+      "topics": "Sentience, Crime, Love, Sacrifice",
+      "image_filename": "The_Human_Vapor_1960.jpg",
+      "pitch": "A librarian transforms into a gaseous being after a failed experiment. Using his powers, he robs banks to fund his lover's dancing career while evading police. A tense 1960 Japanese thriller about obsession and sacrifice.",
+      "created_at": "2026-08-13 02:04:40",
+      "watch_url": null
+    },
+    {
       "title": "The Humanoid",
       "year": 1979,
       "medium": "Film",
@@ -36097,5 +36177,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2256
+  "count": 2261
 }
