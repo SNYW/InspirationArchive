@@ -4951,6 +4951,24 @@
       "watch_url": null
     },
     {
+      "title": "Br\u00f8drene Dal og Spektralsteinene",
+      "year": 1982,
+      "medium": "TV Series",
+      "creator": "Tom Mathiesen",
+      "raw_score": 3.86,
+      "total_ratings": 19,
+      "origin": "Norway",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Family, Discovery, Space Travel",
+      "image_filename": "Broedrene_Dal_og_Spektralsteinene_1982.jpg",
+      "pitch": "Three Norwegian brothers discover an alien ring with blueprints while hunting for a meteorite. Their accidental activation launches them into adventures with time travel, aliens, and creatures from folklore.",
+      "truth": "The Dal brothers find a glowing stone and alien ring. When Romsdal activates their mysterious machine, they're launched into cosmic adventures. Each episode brings alien encounters, time paradoxes, and meetings with beings from mythology.",
+      "core": "A Norwegian blend of space-age optimism and traditional folklore. The brothers' DIY approach to alien tech suggests science is accessible to curious ordinary people. A unique Nordic vision of humanity's place in the cosmos.",
+      "created_at": "2026-08-13 10:06:57",
+      "watch_url": null
+    },
+    {
       "title": "Br\u00fcsel",
       "year": 1992,
       "medium": "Graphic Novel",
@@ -23041,6 +23059,24 @@
       "watch_url": null
     },
     {
+      "title": "Road to the Stars",
+      "year": 1957,
+      "medium": "Short Film",
+      "creator": "Pavel Klushantsev",
+      "raw_score": 2.95,
+      "total_ratings": 28,
+      "origin": "Soviet-Union",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy, Hard-SF",
+      "topics": "Space Travel, Exploration, Discovery",
+      "image_filename": "Road_to_the_Stars_1957.jpg",
+      "pitch": "A groundbreaking 1957 Soviet film depicting Tsiolkovsky's life and visionary ideas about space travel. The second half speculatively portrays crewed spaceflight, a wheel-shaped space station, and lunar colonization\u2014four years before Gagarin and eleven years before 2001.",
+      "truth": "The film combines biography and speculation. First half dramatizes Tsiolkovsky's life and rocket science. Second half shows speculative scenes: astronauts, a rotating space station, and humans on the Moon\u2014futures that proved remarkably prescient.",
+      "core": "Influenced Kubrick's 2001: A Space Odyssey in depicting weightlessness and rotating stations. This Soviet film achieved groundbreaking effects that predated Hollywood's most iconic space movie. Cold War space age optimism from behind the Iron Curtain.",
+      "created_at": "2026-08-13 10:07:21",
+      "watch_url": null
+    },
+    {
       "title": "Roadside Picnic",
       "year": 1972,
       "medium": "Novel",
@@ -32113,6 +32149,24 @@
       "watch_url": "https://archive.org/details/the-last-chase-1981_202512"
     },
     {
+      "title": "The Last Dinosaur",
+      "year": 1977,
+      "medium": "Film",
+      "creator": "William Beaudine",
+      "raw_score": 3.24,
+      "total_ratings": 20,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Adventure",
+      "topics": "Survival, Discovery, Prehistoric",
+      "image_filename": "The_Last_Dinosaur_1977.jpg",
+      "pitch": "A wealthy big game hunter and his expedition team discover a hidden valley where dinosaurs still roam. Trapped in prehistoric times, they must evade a ferocious predator while searching for a way back to the present. A classic adventure blending exploration with creature features.",
+      "truth": "Boone leads an expedition that stumbles upon a hidden valley cut off from the modern world. The team becomes trapped when their exit is destroyed, forcing them to survive against a fearsome dinosaur that stalks them through the ancient landscape.",
+      "core": "A product of its era's fascination with dinosaur discoveries and adventure fiction. Explores humanity's relationship with nature and the primal fear of being hunted. The dinosaur serves as both literal and metaphorical predator.",
+      "created_at": "2026-08-13 10:08:03",
+      "watch_url": null
+    },
+    {
       "title": "The Last Express",
       "year": 1997,
       "medium": "Video Game",
@@ -39043,6 +39097,24 @@
       "watch_url": "https://archive.org/details/turner_video_1346"
     },
     {
+      "title": "Urusei Yatsura: Only You",
+      "year": 1983,
+      "medium": "Anime Film",
+      "creator": "Mamoru Oshii",
+      "raw_score": 3.07,
+      "total_ratings": 45,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy, Comedy",
+      "topics": "Love, Identity, Fairy Tale",
+      "image_filename": "Urusei_Yatsura_Only_You_1983.jpg",
+      "pitch": "Mamoru Oshii's directorial debut adapts Rumiko Takahashi's beloved manga. Ataru's engagement to an alien princess triggers a crisis when his true love Lum confronts him. A charming romantic comedy that borrows from the Japanese fairy tale of Urashima Tar\u014d.",
+      "truth": "Ataru's marriage to alien princess Elle is disrupted when his true love Lum returns. The film follows Ataru's attempts to navigate between his obligations and his heart, featuring comedic misunderstandings, alien invasions, and magical interventions.",
+      "core": "Oshii's debut shows early hints of his later philosophical style within a comedic framework. The Urashima Tar\u014d influence explores fate versus choice in love. A key early work in the Urusei Yatsura franchise and in Oshii's career.",
+      "created_at": "2026-08-13 10:07:31",
+      "watch_url": null
+    },
+    {
       "title": "VR.5",
       "year": 1995,
       "medium": "TV Series",
@@ -40915,5 +40987,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2273
+  "count": 2277
 }
