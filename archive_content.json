@@ -23005,6 +23005,24 @@
       "watch_url": null
     },
     {
+      "title": "Rio 2096: A Story of Love and Fury",
+      "year": 2013,
+      "medium": "Animated Film",
+      "creator": "Luiz Bolognesi",
+      "raw_score": 3.6,
+      "total_ratings": 94,
+      "origin": "Brazil",
+      "mood": "Melancholic",
+      "sub_genres": "Science-Fantasy, Dystopia",
+      "topics": "Love, Time Travel, Ecology, History",
+      "image_filename": "Rio_2096_A_Story_of_Love_and_Fury_2013.jpg",
+      "pitch": "An immortal warrior searches for his lost love Jana\u00edna across 500 years of Brazilian history\u2014in 1566, 1825, 1968, and 2096. This visually stunning animated film explores how love persists through colonization, slavery, dictatorship, and environmental collapse. Brazil's Oscar submission for Best Animated Feature.",
+      "truth": "The warrior falls in love with Jana\u00edna in 1566 during Portuguese colonization. Cursed to live forever, he finds her reincarnated in each era: as a slave in 1825, a resistance fighter in 1968, and a rebel leader in 2096. In a future water-starved world, their eternal reunion offers hope amid humanity's struggles.",
+      "core": "A meditation on Brazilian identity showing how oppression repeats across centuries. The immortal warrior represents collective memory\u2014historical wounds that persist. Love becomes stubborn hope providing will to resist, not easy redemption.",
+      "created_at": "2026-08-13 10:26:31",
+      "watch_url": null
+    },
+    {
       "title": "Rise of the Dragon",
       "year": 1990,
       "medium": "Video Game",
@@ -40519,6 +40537,24 @@
       "watch_url": null
     },
     {
+      "title": "Yobi, The Five-Tailed Fox",
+      "year": 2007,
+      "medium": "Animated Film",
+      "creator": "Lee Seung-hyuk",
+      "raw_score": 3.27,
+      "total_ratings": 61,
+      "origin": "South-Korea",
+      "mood": "Optimistic",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Friendship, Isolation, Ecology",
+      "image_filename": "Yobi_The_Five-Tailed_Fox_2007.jpg",
+      "pitch": "Yobi, a five-tailed fox spirit, lives alone after her family is killed by fox hunters. She befriends crashed aliens and forms a found family. When a villager captures one of her alien friends, Yobi ventures into the human world to rescue him.",
+      "truth": "Yobi lives alone in the forest after her family is killed. She meets aliens who crashed near her home and they become family. When one alien is captured by a villager, Yobi must leave her forest and enter the human world to save him.",
+      "core": "Explores belonging through an otherworldly creature caught between supernatural and human worlds. The aliens represent outsiders, creating a found family story. Environmental message through forest vs civilization contrast. Empathy bridges different existences.",
+      "created_at": "2026-08-13 10:27:40",
+      "watch_url": null
+    },
+    {
       "title": "Yokohama Kaidashi Kikou",
       "year": 1998,
       "medium": "Anime",
@@ -40987,5 +41023,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2277
+  "count": 2279
 }
