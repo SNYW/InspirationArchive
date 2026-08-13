@@ -35857,6 +35857,24 @@
       "watch_url": null
     },
     {
+      "title": "The Thirteenth Floor",
+      "year": 1999,
+      "medium": "Film",
+      "creator": "Josef Rusnak",
+      "raw_score": 3.55,
+      "total_ratings": 1579,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fiction",
+      "topics": "VR, Simulation, Identity",
+      "image_filename": "The_Thirteenth_Floor_1999.jpg",
+      "pitch": "In 1999 Los Angeles, a computer scientist creates a simulated 1937 Colorado. When he's murdered, his prot\u00e9g\u00e9 inherits the project and discovers the simulated people may have achieved consciousness\u2014and our reality might be a simulation too.",
+      "truth": "Frank Hallaway creates a simulation of 1937 Colorado with AI characters. After his murder, prot\u00e9g\u00e9 Horton inherits it and learns our reality may be a simulation. Horton falls in love with a simulated woman who proves their world runs on the same code as ours. The twist: the \"future humans\" running our simulation are Hallaway's characters, now advanced enough to create our reality.",
+      "core": "A meditation on recursion and consciousness, The Thirteenth Floor asks what makes consciousness real. The film prefigures modern simulation theory\u2014Hallaway plays god, but his \"children\" surpass him, creating their own reality in an endless loop.",
+      "created_at": "2026-08-13 05:50:24",
+      "watch_url": null
+    },
+    {
       "title": "The Thousand Wonders of the Universe",
       "year": 1997,
       "medium": "Film",
@@ -40789,5 +40807,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2266
+  "count": 2267
 }
