@@ -31025,6 +31025,22 @@
       "watch_url": "https://standardebooks.org/ebooks/robert-sheckley/short-fiction"
     },
     {
+      "title": "The Prize of Peril",
+      "year": 1983,
+      "medium": "Film",
+      "creator": "Yves Boisset",
+      "raw_score": 3.25,
+      "total_ratings": 111,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Survival, Media, Corporate Power",
+      "image_filename": "The_Prize_of_Peril_1983.jpg",
+      "pitch": "In near-future France, a deadly TV game show offers contestants a million francs\u2014by being hunted by killers. This savage satire of reality television predates The Running Man by years.",
+      "created_at": "2026-08-13 22:06:08",
+      "watch_url": null
+    },
+    {
       "title": "The Projected Man",
       "year": 1966,
       "medium": "Film",
@@ -36769,5 +36785,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2298
+  "count": 2299
 }
