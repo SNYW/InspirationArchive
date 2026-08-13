@@ -5059,6 +5059,24 @@
       "watch_url": null
     },
     {
+      "title": "Bunker Palace Hotel",
+      "year": 1989,
+      "medium": "Film",
+      "creator": "Enki Bilal",
+      "raw_score": 3.13,
+      "total_ratings": 45,
+      "origin": "France",
+      "mood": "Pessimistic",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Authoritarianism, Rebellion, Power",
+      "image_filename": "Bunker_Palace_Hotel_1989.jpg",
+      "pitch": "A French post-apocalyptic film by comics artist Enki Bilal. When rebellion erupts, the ruling elites retreat to a luxurious underground bunker called the Bunker Palace Hotel. A rebel spy infiltrates and witnesses the decadent ruling class awaiting their missing leader.",
+      "truth": "When rebellion erupts in a dystopian future, the ruling elites retreat to an underground sanctuary called the Bunker Palace Hotel. A rebel spy infiltrates and observes the decadent class as they await their missing leader\u2014bickering in luxury while the world burns above.",
+      "core": "An allegory about the fall of authoritarian regimes. Bilal creates a surreal world where elites retreat to luxury bunkers while revolution unfolds above. A critique of those who build systems of control only to abandon them when crisis strikes.",
+      "created_at": "2026-08-13 02:36:06",
+      "watch_url": null
+    },
+    {
       "title": "Burn Cycle",
       "year": 1994,
       "medium": "Video Game",
@@ -40699,5 +40717,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2261
+  "count": 2262
 }
