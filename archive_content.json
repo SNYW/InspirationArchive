@@ -16561,6 +16561,24 @@
       "watch_url": "https://archive.org/details/iviaggifantasticidilonesloane"
     },
     {
+      "title": "Lone Wolves",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.7,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Survival, Isolation, Space Travel",
+      "image_filename": "Lone_Wolves_2016.jpg",
+      "pitch": "After an apocalypse devastates Earth, Private James Conroy survives alone near a radio tower. When he contacts Garry Freeman, an astronaut stranded on a space station, both must learn to trust each other to have any chance of salvation.",
+      "truth": "After an apocalyptic event, Conroy survives alone in a shack near a radio tower while Freeman is stranded on a space station. Through radio contact, they form an unlikely bond. Conroy ventures out to find better signal while Freeman works to return to Earth. Their collaboration becomes essential for survival.",
+      "core": "Lone Wolves explores how isolation affects the human mind and how connection\u2014even through impersonal radio\u2014can restore hope. The contrast between Conroy's earthbound survival and Freeman's space station isolation raises questions about what civilization means after collapse.",
+      "created_at": "2026-08-13 21:14:38",
+      "watch_url": null
+    },
+    {
       "title": "Long Distance Wireless Photography",
       "year": 1908,
       "medium": "Short Film",
@@ -41257,5 +41275,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2292
+  "count": 2293
 }
