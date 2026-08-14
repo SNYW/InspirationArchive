@@ -16049,6 +16049,22 @@
       "watch_url": null
     },
     {
+      "title": "Metal Skin Panic MADOX-01",
+      "year": 1987,
+      "medium": "OVA",
+      "creator": "Shinji Aramaki",
+      "raw_score": 3.05,
+      "total_ratings": 39,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Mecha, Science-Fiction",
+      "topics": "Robots, Technology, Military",
+      "image_filename": "metal_skin_panic_madox_01_1987.jpg",
+      "pitch": "A young mechanic gets trapped inside MADOX-01, a powerful military powered exoskeleton. Without knowing how to operate it, he becomes the target of a military recovery operation led by a vengeful tank commander who wants the weapon for himself.",
+      "created_at": "2026-08-14 06:49:31",
+      "watch_url": null
+    },
+    {
       "title": "Meteo",
       "year": 1989,
       "medium": "Film",
@@ -37041,5 +37057,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2315
+  "count": 2316
 }
