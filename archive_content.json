@@ -37045,6 +37045,24 @@
       "watch_url": null
     },
     {
+      "title": "The Tribe",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Raymond Thompson, Harry Duffin",
+      "raw_score": 3.48,
+      "total_ratings": 27,
+      "origin": "New-Zealand",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Survival, Children, Power, Rebellion",
+      "image_filename": "the_tribe_1999.jpg",
+      "pitch": "When a deadly virus wipes out all adults, children must survive in a post-apocalyptic city. The Mall Rats form a fragile community in an abandoned mall, facing rival tribes and searching for an antidote. A raw, often heartbreaking New Zealand series about youth thrust into adult roles.",
+      "truth": "Amber and Dal lead children to safety after the virus. They form the Mall Rats in an abandoned mall, competing with the Locos tribe. A second wave prompts a desperate search for an antidote. After key deaths at Eagle Mountain, Bray leads the Mall Rats to unite other tribes. The Chosen and later the Technos bring new threats. The series ends with evacuation as a new virus emerges.",
+      "core": "The Tribe examines power dynamics and community formation under pressure. It shows youth as complex\u2014capable of heroism and cruelty. Ebony's rise shows corruption; Bray's leadership shows growth potential. The Chosen arc explores cult mentality. It's about resilience despite endless conflict.",
+      "created_at": "2026-08-14 21:06:49",
+      "watch_url": null
+    },
+    {
       "title": "The Tripods",
       "year": 1984,
       "medium": "TV Series",
@@ -41923,5 +41941,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2329
+  "count": 2330
 }
