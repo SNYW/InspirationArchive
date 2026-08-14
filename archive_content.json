@@ -35533,6 +35533,24 @@
       "watch_url": null
     },
     {
+      "title": "The Rizen",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "Matt Mitchell",
+      "raw_score": 2.4,
+      "total_ratings": 17,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fantasy",
+      "topics": "Cold War, Secret Experiments, Aliens, Survival",
+      "image_filename": "The_Rizen_2017.jpg",
+      "pitch": "In 1955, NATO conducts secret occult experiments to win the Arms Race. When they succeed, they unleash something that threatens the world. One woman must lead survivors through horrors the military cannot control and close what should never have been opened.",
+      "truth": "In 1955, NATO runs classified experiments at a secret underground facility to harness occult forces. When the experiments go wrong, interdimensional creatures hunt down survivors. Frances leads them through dark corridors to seal the portal before ancient evil destroys everything.",
+      "core": "The Rizen critiques Cold War paranoia and government secrecy. It explores the dangers of unchecked scientific experimentation in pursuit of military advantage. The title suggests something rising\u2014interdimensional forces unleashed by military arrogance. A retro Brit sci-fi horror homage.",
+      "created_at": "2026-08-14 15:40:36",
+      "watch_url": null
+    },
+    {
       "title": "The Road Not Taken",
       "year": 1985,
       "medium": "Short Story",
@@ -41815,5 +41833,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2323
+  "count": 2324
 }
