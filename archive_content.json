@@ -41131,6 +41131,24 @@
       "watch_url": "https://archive.org/details/TheMonsterKiller3Jan2018_201801"
     },
     {
+      "title": "Wyrd Sisters",
+      "year": 1997,
+      "medium": "TV Series",
+      "creator": "Terry Pratchett",
+      "raw_score": 3.18,
+      "total_ratings": 18,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Magic, Politics",
+      "image_filename": "Wyrd_Sisters_1997.jpg",
+      "pitch": "When King Verence I of Lancre is murdered by his cousin Duke Felmet, the crown and infant heir are entrusted to three witches: Granny Weatherwax, Nanny Ogg, and Magrat Garlick. This animated adaptation of Terry Pratchett's Discworld novel brings his signature satirical fantasy to life.",
+      "truth": "King Verence is murdered by cousin Duke Felmet, who seizes the throne. A servant escapes with the infant son and crown, giving them to the three witches. They entrust the child to traveling actors, believing destiny will work itself out. Meanwhile, Duke Felmet discovers the grown Tomjon\u2014but he has no desire to be king.",
+      "core": "Pratchett uses fantasy to examine power and political ambition. The three witches represent different approaches to authority. The adaptation captures Pratchett's signature wit and the unique flavor of Discworld.",
+      "created_at": "2026-08-14 10:41:05",
+      "watch_url": null
+    },
+    {
       "title": "X: The Unknown",
       "year": 1956,
       "medium": "Film",
@@ -41707,5 +41725,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2317
+  "count": 2318
 }
