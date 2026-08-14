@@ -12439,6 +12439,24 @@
       "watch_url": null
     },
     {
+      "title": "HENRi",
+      "year": 2013,
+      "medium": "Short Film",
+      "creator": "Unknown",
+      "raw_score": 3.85,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Sentience, AI, Space Travel",
+      "image_filename": "HENRi_2013.jpg",
+      "pitch": "Set hundreds of years in the future, a derelict spacecraft floats aimlessly in the outer reaches of space. The ship is controlled and powered by a human brain - the last remnant of a human consciousness trapped in a cold mechanical prison, with no recollection of who they are.",
+      "truth": "A derelict spacecraft drifts through space, powered by a human brain with no memory of its former life. The trapped consciousness gradually questions its own existence and what it means to be a self-aware being alone in the universe.",
+      "core": "Explores consciousness, identity, and isolation through a human brain trapped in machinery. Questions what defines humanity - the body or the mind? Examines self-awareness when there's no reflection, only endless space and a solitary questioning mind.",
+      "created_at": "2026-08-14 05:35:39",
+      "watch_url": null
+    },
+    {
       "title": "Haibane Renmei",
       "year": 2002,
       "medium": "Anime",
@@ -21256,6 +21274,24 @@
       "truth": "Detective Inspector Rebecca Flint investigates mysterious images appearing in a scientist's lab showing future disasters. Each episode centers on preventing a different catastrophe before it unfolds. The five-episode series aired on BBC One in late 2009.",
       "core": "Paradox explores whether preventing tragedy is ever truly right. The show asks if altering fate might cause unintended consequences, using the police procedural format to ground temporal questions in relatable detective work.",
       "created_at": "2026-08-14 01:03:16",
+      "watch_url": null
+    },
+    {
+      "title": "Paradox Alice",
+      "year": 2012,
+      "medium": "Film",
+      "creator": "Unknown",
+      "raw_score": 3.36,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Space-Opera, Hard-SF",
+      "topics": "Space Travel, Ecology, Survival",
+      "image_filename": "Paradox_Alice_2012.jpg",
+      "pitch": "In a near-future Earth facing water collapse, a team journeys to Europa to extract water and save humanity. When their operation goes catastrophically wrong, the mission threatens not just the crew but possibly all life on Earth.",
+      "truth": "A team travels to Europa to extract water and save Earth from dying due to a global water crisis. When their drilling operation unexpectedly goes awry, it jeopardizes the crew and threatens Earth itself with potential human extinction.",
+      "core": "Examines humanity's desperate survival instinct and unforeseen consequences of our attempts to save ourselves. Uses space exploration to examine ecological collapse and the hubris of engineering our way out of disaster without understanding full consequences.",
+      "created_at": "2026-08-14 05:35:24",
       "watch_url": null
     },
     {
@@ -41581,5 +41617,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2310
+  "count": 2312
 }
