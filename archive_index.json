@@ -1793,6 +1793,22 @@
       "watch_url": null
     },
     {
+      "title": "Alien Nation",
+      "year": 1989,
+      "medium": "TV Series",
+      "creator": "Kenneth Johnson",
+      "raw_score": 3.5,
+      "total_ratings": 138,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science Fiction, Police Procedural",
+      "topics": "Aliens, Social Integration, Prejudice",
+      "image_filename": "Alien_Nation_1989.jpg",
+      "pitch": "Fox's 1989 series continued the story of LAPD detective Sikes and his alien partner Francisco, exploring racial allegory through the lens of Tenctonese integration into human society.",
+      "created_at": "2026-08-14 02:16:02",
+      "watch_url": null
+    },
+    {
       "title": "Alien Space Avenger",
       "year": 1989,
       "medium": "Film",
@@ -2735,6 +2751,22 @@
       "pitch": "Armitage: Dual Matrix is a 2002 cyberpunk anime film, the sequel to Armitage III. Naomi Armitage \u2014 a highly advanced Type-III android \u2014 and partner Ross Sylibus now live quietly on Mars with their daughter. When an android riot erupts on Earth, their hidden life is threatened.",
       "created_at": "2026-06-23 12:19:21",
       "watch_url": "https://archive.org/details/turner_video_109074"
+    },
+    {
+      "title": "Armored Police Metal Jack",
+      "year": 1991,
+      "medium": "Anime",
+      "creator": "Hajime Yatate",
+      "raw_score": 2.0,
+      "total_ratings": 1,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Mecha, Police Procedural",
+      "topics": "Robots, Law Enforcement, Cybernetics",
+      "image_filename": "Armored_Police_Metal_Jack_1991.jpg",
+      "pitch": "A 1991 Sunrise anime combining police procedural with mecha action. Officers pilot giant armored vehicles to combat criminal organizations in this 37-episode series.",
+      "created_at": "2026-08-14 02:16:13",
+      "watch_url": null
     },
     {
       "title": "Armored Trooper VOTOMS",
@@ -15441,6 +15473,22 @@
       "watch_url": null
     },
     {
+      "title": "Manimal",
+      "year": 1983,
+      "medium": "TV Series",
+      "creator": "Glen A. Larson",
+      "raw_score": 3.66,
+      "total_ratings": 139,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Superhero",
+      "topics": "Transhumanism, Survival, Identity",
+      "image_filename": "Manimal_1983.jpg",
+      "pitch": "Simon MacCorkindale starred as Jonathan Chase, a British college professor with the secret power to transform into any animal. NBC's 1983 superhero flop lasted only 8 episodes.",
+      "created_at": "2026-08-14 02:15:46",
+      "watch_url": null
+    },
+    {
       "title": "Mantera",
       "year": 2012,
       "medium": "Film",
@@ -22431,6 +22479,22 @@
       "pitch": "Twelve years ago, three animal biologists made a great discovery during a scientific expedition \u2014 but whatever killed them has awakened. Now the legend of the Ancient Snow Beast could prove to be more than just a legend.",
       "created_at": "2026-06-22 18:49:50",
       "watch_url": "https://archive.org/details/turner_video_12009"
+    },
+    {
+      "title": "So Weird",
+      "year": 1999,
+      "medium": "TV Series",
+      "creator": "Tom J. Astle",
+      "raw_score": 3.3,
+      "total_ratings": 21,
+      "origin": "Canada",
+      "mood": "Eerie",
+      "sub_genres": "Science Fiction, Supernatural",
+      "topics": "Paranormal, Family, Identity",
+      "image_filename": "So_Weird_1999.jpg",
+      "pitch": "Disney Channel's answer to The X-Files followed teen Fi Phillips, who investigated ghosts, UFOs and paranormal phenomena while touring with her rock-star mother. Dark for its era.",
+      "created_at": "2026-08-14 02:15:31",
+      "watch_url": null
     },
     {
       "title": "Sol Bianca",
@@ -35169,6 +35233,22 @@
       "watch_url": null
     },
     {
+      "title": "V",
+      "year": 1984,
+      "medium": "TV Series",
+      "creator": "Kenneth Johnson",
+      "raw_score": 3.57,
+      "total_ratings": 206,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science Fiction, Alien Invasion",
+      "topics": "Aliens, Survival, Rebellion",
+      "image_filename": "V_1984.jpg",
+      "pitch": "Kenneth Johnson's continuation of his alien invasion saga. Marc Singer starred as resistance leader, continuing the story from the original miniseries about reptilian aliens posing as friendly visitors.",
+      "created_at": "2026-08-14 02:16:51",
+      "watch_url": null
+    },
+    {
       "title": "VR.5",
       "year": 1995,
       "medium": "TV Series",
@@ -36849,5 +36929,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2303
+  "count": 2308
 }
