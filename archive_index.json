@@ -18801,6 +18801,22 @@
       "watch_url": null
     },
     {
+      "title": "Paradox",
+      "year": 2009,
+      "medium": "TV Series",
+      "creator": "BBC",
+      "raw_score": 3.4,
+      "total_ratings": 33,
+      "origin": "UK",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Surveillance, Police",
+      "image_filename": "paradox_2009.jpg",
+      "pitch": "A 2009 British sci-fi police drama where images from the future show catastrophic events before they happen. Detective Inspector Rebecca Flint must prevent disasters seen in advance.",
+      "created_at": "2026-08-14 01:03:16",
+      "watch_url": null
+    },
+    {
       "title": "Paranoia Agent",
       "year": 2004,
       "medium": "Anime",
@@ -36801,5 +36817,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2300
+  "count": 2301
 }
