@@ -32779,6 +32779,24 @@
       "watch_url": null
     },
     {
+      "title": "The Lesson",
+      "year": 1987,
+      "medium": "Short Film",
+      "creator": "Robert Sahakyants",
+      "raw_score": 2.03,
+      "total_ratings": 16,
+      "origin": "Soviet-Union",
+      "mood": "Cerebral",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Aliens, Evolution, First Contact",
+      "image_filename": "The_Lesson_1987.jpg",
+      "pitch": "A Soviet-Armenian animated short from 1987. A starship crew hunts alien creatures on an unexplored planet\u2014only to discover killers are reborn as their victims. A haunting parable about violence and consequence.",
+      "truth": "A starship crew lands on an alien world and hunts its strange fauna for sport. One woman discovers the local law: killing a creature reborn the killer as the victim. Most of the crew transform into the animals they killed. She tries to warn them but fails. The final image shows an abandoned clone frozen like The Thinker.",
+      "core": "A philosophical parable about cyclical violence. The film critiques humanity's exploitative relationship with nature\u2014what we do to nature, we do to ourselves. The central metaphor: hunters become the hunted. Refusing easy redemption, it suggests some actions cannot be undone.",
+      "created_at": "2026-08-14 01:24:40",
+      "watch_url": null
+    },
+    {
       "title": "The Library",
       "year": 2002,
       "medium": "Novella",
@@ -41419,5 +41437,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2301
+  "count": 2302
 }
