@@ -13357,6 +13357,24 @@
       "watch_url": "https://archive.org/details/hydrozagadka_202501"
     },
     {
+      "title": "Hyperdrive",
+      "year": 2006,
+      "medium": "TV Series",
+      "creator": "Kevin Cecil, Andy Riley",
+      "raw_score": 3.23,
+      "total_ratings": 33,
+      "origin": "UK",
+      "mood": "Satirical",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Satire, Space Travel, Aliens",
+      "image_filename": "Hyperdrive_2006.jpg",
+      "pitch": "British sci-fi sitcom (2006-2007) parodying Star Trek. Set in 2151, HMS Camden Lock protects British interests across the galaxy. Nick Frost stars as the idealistic but incompetent Space Commander Henderson, leading a ragtag crew through absurd missions with bizarre aliens.",
+      "truth": "Commander Henderson (Nick Frost) leads a crew aboard HMS Camden Lock: York (Kevin Eldon) a violent sociopath, Teal (Miranda Hart) a hopeless diplomat, Vine (Stephen Evans) who bought a planet called Vineworld, and Sandstrom (Petra Massey) a cyborg. They encounter the Glish (slime creatures), Lallakki (war-like aliens), and Red Shiny Robots of Vortis (Borg parody). 2 series, 12 episodes.",
+      "core": "Satire of British exceptionalism in space. Henderson embodies the naive imperial officer bumbling through diplomacy. Humor comes from treating trivial matters with excessive gravity. Clever critique of military logic and imperialism.",
+      "created_at": "2026-08-14 00:55:19",
+      "watch_url": null
+    },
+    {
       "title": "Hyperspace",
       "year": 1984,
       "medium": "Film",
@@ -41383,5 +41401,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2299
+  "count": 2300
 }
