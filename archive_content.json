@@ -3349,6 +3349,24 @@
       "watch_url": null
     },
     {
+      "title": "Attack from Space",
+      "year": 1965,
+      "medium": "Film",
+      "creator": "Teruo Ishii",
+      "raw_score": 2.55,
+      "total_ratings": 19,
+      "origin": "Japan",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera, Science-Fantasy",
+      "topics": "Aliens, Space Travel, Heroes",
+      "image_filename": "Attack_from_Space_1965.jpg",
+      "pitch": "Ken Utsui stars as Starman, a steel-skinned hero from the Emerald Planet sent to defend Earth against the warlike Sapphire Galaxy aliens. When Dr. Yamanaka is kidnapped to power an alien weapon, the superhero must rescue the scientist and save humanity.",
+      "truth": "Starman arrives on Earth to stop Sapphirean invaders. The aliens kidnap scientist Dr. Yamanaka to power their weapon against the planet. Starman battles the invaders, rescues the scientist and his family, defeats the Sapphireans, and saves Earth before returning to space.",
+      "core": "A Super Giant compilation reflecting 1960s space age optimism. Starman represents the ideal hero\u2014powerful, selfless, created from steel. The film demonstrates how Japanese tokusatsu exported hero narratives to Western markets through Americanized editing during the Cold War era.",
+      "created_at": "2026-08-14 22:14:33",
+      "watch_url": null
+    },
+    {
       "title": "Attack of the Mutant Camels",
       "year": 1983,
       "medium": "Video Game",
@@ -42031,5 +42049,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2335
+  "count": 2336
 }
