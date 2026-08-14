@@ -16481,6 +16481,22 @@
       "watch_url": null
     },
     {
+      "title": "Model Citizen",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.33,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Identity",
+      "image_filename": "Model_Citizen_2020.jpg",
+      "pitch": "In a future where citizens are genetically engineered for perfection, one woman begins to question the system. As she uncovers dark truths about the model citizen program, she must choose between conformity and freedom.",
+      "created_at": "2026-08-14 05:05:49",
+      "watch_url": null
+    },
+    {
       "title": "Moebius",
       "year": 1996,
       "medium": "Film",
@@ -36929,5 +36945,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2308
+  "count": 2309
 }

@@ -18541,6 +18541,24 @@
       "watch_url": null
     },
     {
+      "title": "Model Citizen",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.33,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia",
+      "topics": "Surveillance, Authoritarianism, Identity",
+      "image_filename": "Model_Citizen_2020.jpg",
+      "pitch": "In a future where citizens are genetically engineered for perfection, one woman begins to question the system. As she uncovers dark truths about the model citizen program, she must choose between conformity and freedom.",
+      "truth": "Citizen 7349 approaches her graduation assessment when she begins experiencing forbidden emotions and memories. She discovers the government secretly eliminates independent thinkers. Failing her loyalty test on purpose, she finds others like her in an underground facility and chooses to help them escape.",
+      "core": "The film explores what makes us human through identity and conformity. It argues that imperfections are essential, not bugs to eliminate. Mirroring surveillance anxieties, it poses: is perfection worth the price of individuality?",
+      "created_at": "2026-08-14 05:05:49",
+      "watch_url": null
+    },
+    {
       "title": "Moebius",
       "year": 1996,
       "medium": "Film",
@@ -41545,5 +41563,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2308
+  "count": 2309
 }
