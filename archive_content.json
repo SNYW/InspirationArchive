@@ -1603,6 +1603,24 @@
       "watch_url": null
     },
     {
+      "title": "Aftershock",
+      "year": 1990,
+      "medium": "Film",
+      "creator": "Frank Harris",
+      "raw_score": null,
+      "total_ratings": null,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Post-Apocalypse",
+      "topics": "Aliens, Rebellion, Authoritarianism",
+      "image_filename": null,
+      "pitch": "After World War III, a fascist regime controls post-apocalyptic America. An alien named Sabrina arrives expecting an ideal society but finds oppression. Captured by the regime's ruthless leader, she's imprisoned with rebel fighters and must help them overthrow the government while finding a way home.",
+      "truth": "Following WWIII, Commander Eastern rules fascist Eastern America. Citizens are branded with barcodes. Alien Sabrina arrives after misinterpreting NASA data. Captured by leader Oliver Quinn, she's imprisoned with rebels. She breaks out with Willie and Danny, helps the resistance hack enemy computers, and launches an attack. She returns home as rebels continue fighting.",
+      "core": "Post-apocalyptic cinema meets alien first-contact. The alien expected utopia but finds humanity destroyed itself through war and fascism. Barcode tattoos and propaganda evoke historical authoritarianism.",
+      "created_at": "2026-08-14 06:00:00",
+      "watch_url": null
+    },
+    {
       "title": "Age of Obscure: Boubaku Jidai",
       "year": 2016,
       "medium": "Anime Film",
@@ -6352,6 +6370,24 @@
       "truth": "The game casts the player as an explorer investigating a mysterious cave system rumored to be filled with treasure and gold. Based on Crowther's actual caving experiences in Mammoth Cave, Kentucky, the original version featured realistic cave geography with numerous locations to explore.\n\nThe player navigates the cave by typing one or two-word commands that the game's parser interprets. Commands include movement directions (north, south, east, west, up, down), actions (take, drop, open, look, inventory), and interactions with objects found throughout the cave. The parser understands natural language, allowing for flexible problem-solving approaches.\n\nThe original Crowther version (1976) focused on cave exploration with some fantasy elements. Woods' 1977 expansion dramatically increased the game's scope, adding numerous fantasy and mythological elements including a dragon, a magic bridge, a wizard's castle, and various magical items. The expanded game features multiple puzzles requiring careful inventory management and logical sequencing.\n\nKey locations include the cave entrance, various caverns and passages, a depressed troll, a massive treasure chamber, and areas requiring specific items to access. The game rewards thorough exploration and creative thinking, with many puzzles having multiple potential solutions.",
       "core": "**Birth of Interactive Fiction:** Colossal Cave Adventure established the adventure game genre and interactive fiction as a medium. Its text parser demonstrated that natural language could create immersive gaming experiences, influencing countless games that followed. The concept of \"verb-noun\" command parsing became a standard in adventure games for decades.\n\n**Exploration as Gameplay:** Unlike later games focused on combat or story, Adventure made exploration and discovery its core gameplay loop. The pleasure comes from mapping the cave, finding hidden passages, and gradually uncovering the game's secrets\u2014a design philosophy that influenced everything from text adventures to modern open-world games.\n\n**Player Imagination:** Without graphics, the game relied entirely on descriptive text to create atmosphere and immersion. This forced players to actively imagine the cave system, objects, and encounters, creating a more personal experience than any graphical game could achieve. This tradition of using text to spark player imagination persists in modern interactive fiction.\n\n**Technical Innovation:** The game's development of an English-language parser that could understand simple natural language commands was technically pioneering. It demonstrated that computers could engage in basic natural language processing, opening doors for future applications of AI in gaming and beyond.\n\n**Cultural Impact:** Adventure directly inspired the creation of Zork (1977), Adventureland (1978), Mystery House (1980), and the roguelike genre. In 2019, Colossal Cave Adventure was inducted into the World Video Game Hall of Fame, cementing its status as one of the most influential games in history.",
       "created_at": "2026-03-03 21:20:39",
+      "watch_url": null
+    },
+    {
+      "title": "Conceiving Ada",
+      "year": 1997,
+      "medium": "Film",
+      "creator": "Lynn Hershman Leeson",
+      "raw_score": 2.35,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF, Science-Fantasy",
+      "topics": "AI, Time-Travel, Uploaded Minds, Virtual Reality",
+      "image_filename": "Conceiving_Ada_1997.jpg",
+      "pitch": "A computer scientist develops a way to communicate across time with Ada Lovelace, the 19th-century mathematician who wrote the first computer algorithm. Through \\\"undying information waves,\\\" she reaches the Countess and discovers a kindred spirit.",
+      "truth": "Emmy Coer, pregnant and fearing her career will suffer, communicates with Ada Lovelace through \\\"undying information waves.\\\" She learns how the mathematician's work was stifled by Victorian society. Emmy wants to bring Ada into the present, but Ada refuses, telling Emmy to live her own life. The film ends with Emmy raising a daughter embedded with Ada's consciousness.",
+      "core": "A feminist meditation on erased history in computing. The film addresses how Ada Lovelace's pioneering work was forgotten until the computer age. The \\\"undying information waves\\\" anticipate debates about uploaded minds and digital consciousness.",
+      "created_at": "2026-08-14 06:05:18",
       "watch_url": null
     },
     {
@@ -41617,5 +41653,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2312
+  "count": 2314
 }
