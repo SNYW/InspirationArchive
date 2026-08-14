@@ -8065,6 +8065,22 @@
       "watch_url": "https://archive.org/details/turner_video_15942"
     },
     {
+      "title": "Echo Torch",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.45,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Discovery, Supernatural, Exploration",
+      "image_filename": "Echo_Torch_2016.jpg",
+      "pitch": "An inventor creates an electrical torch that reveals a hidden world layered upon our own - filled with beautiful spirits, strange creatures, and dangerous phantoms. A surreal exploration of hidden dimensions.",
+      "created_at": "2026-08-14 11:05:10",
+      "watch_url": null
+    },
+    {
       "title": "Eden Log",
       "year": 2007,
       "medium": "Film",
@@ -13103,6 +13119,22 @@
       "pitch": "Journey to the Center of the Earth is a 1959 American science fiction adventure film directed by Henry Levin and starring James Mason, Pat Boone, Arlene Dahl, and Diane Baker. Based on Jules Verne's classic 1864 novel, the film follows Professor Sir Oliver Lindenbrook, a geologist at the University of Edinburgh, who discovers a mysterious plumb bob with a cryptic inscription that leads him and his students on an epic journey to the center of the Earth via a volcanic passage in Iceland.\n\nThe film was a major commercial success and received critical acclaim, earning three Academy Award nominations. It is celebrated for its innovative special effects, Bernard Herrmann's sweeping score, and the breathtaking subterranean sequences featuring prehistoric creatures and the lost city of Atlantis.",
       "created_at": "2026-03-05 10:54:29",
       "watch_url": "https://archive.org/details/1967.-journey-to-the-center-of-the-earth-episode-17-trail-of-gold_202310"
+    },
+    {
+      "title": "Juarez 2045",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.55,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Megacorps, War, Technology",
+      "image_filename": "Juarez_2045_2017.jpg",
+      "pitch": "In 2045, the drug war between the US and Mexico has caused unprecedented chaos. When a robotics company loses a government contract, they sell advanced military technology to a cartel, sparking a high-tech conflict.",
+      "created_at": "2026-08-14 11:05:05",
+      "watch_url": null
     },
     {
       "title": "Junk",
@@ -31681,6 +31713,22 @@
       "watch_url": null
     },
     {
+      "title": "The Scientist",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.65,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Discovery, AI",
+      "image_filename": "The_Scientist_2010.jpg",
+      "pitch": "A reclusive physicist builds an infinite-energy machine in his basement that changes his life and all those around him. A contemplative hard sci-fi drama about breakthrough discovery.",
+      "created_at": "2026-08-14 11:04:55",
+      "watch_url": null
+    },
+    {
       "title": "The Screwfly Solution",
       "year": 1977,
       "medium": "Novella",
@@ -31886,6 +31934,22 @@
       "image_filename": "the_secret_of_the_third_planet.jpg",
       "pitch": "Captain Zelyony, Professor Seleznyov and his daughter Alisa set out from Earth aboard the Pegas starship, seeking rare animals for the Moscow Zoo. Their quest takes them to the Planet of Two Captains and beyond, uncovering a space pirate conspiracy.",
       "created_at": "2026-06-15 05:11:48",
+      "watch_url": null
+    },
+    {
+      "title": "The Sector",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.7,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Space-Opera",
+      "topics": "Survival, Rebellion, AI",
+      "image_filename": "The_Sector_2016.jpg",
+      "pitch": "In a dystopian world, a bounty hunter pursues outlaws through a world of multiverses to rescue a kidnapped father and daughter. But a mysterious figure called The Finisher has his own plans.",
+      "created_at": "2026-08-14 11:05:17",
       "watch_url": null
     },
     {
@@ -37089,5 +37153,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2318
+  "count": 2322
 }

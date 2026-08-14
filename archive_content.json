@@ -9073,6 +9073,24 @@
       "watch_url": "https://archive.org/details/turner_video_15942"
     },
     {
+      "title": "Echo Torch",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 3.45,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Eerie",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Discovery, Supernatural, Exploration",
+      "image_filename": "Echo_Torch_2016.jpg",
+      "pitch": "An inventor creates an electrical torch that reveals a hidden world layered upon our own - filled with beautiful spirits, strange creatures, and dangerous phantoms. A surreal exploration of hidden dimensions.",
+      "truth": "An inventor creates a special electrical torch that can see beyond the visible spectrum. When he activates the device, he discovers an invisible world overlaid on our own - populated by spirits, strange creatures, and dangerous phantoms. As he explores this hidden dimension, he must navigate its perils while keeping its existence secret.",
+      "core": "Echo Torch blends science fiction with fantasy elements, exploring the concept that reality may have hidden layers beyond human perception. The film suggests that what we see is only a fraction of existence.",
+      "created_at": "2026-08-14 11:05:10",
+      "watch_url": null
+    },
+    {
       "title": "Eden Log",
       "year": 2007,
       "medium": "Film",
@@ -14741,6 +14759,24 @@
       "core": "The film represents classic science-fiction adventure, blending Verne's speculative fiction with Hollywood spectacle. The journey downward functions as both literal exploration and psychological descent\u2014Lindenbrook and his companions must confront dangerous challenges, treacherous rivals, and the overwhelming forces of nature hidden beneath the Earth's surface.\n\nThe film emphasizes themes of scientific discovery, perseverance, and the human drive to explore the unknown. Unlike darker science fiction of the era, Journey to the Center of the Earth maintains an optimistic tone, celebrating human ingenuity and the triumph of curiosity over fear. The prehistoric creatures and lost civilizations encountered underground represent the mysteries of the past\u2014natural and mythological\u2014that await discovery through scientific exploration.\n\nThe success of this adaptation helped establish Jules Verne's works as a reliable source for big-screen science fiction adventures, leading to numerous other adaptations and inspiring generations of filmmakers and audiences interested in subterranean and speculative journeys.",
       "created_at": "2026-03-05 10:54:29",
       "watch_url": "https://archive.org/details/1967.-journey-to-the-center-of-the-earth-episode-17-trail-of-gold_202310"
+    },
+    {
+      "title": "Juarez 2045",
+      "year": 2017,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.55,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Cyberpunk, Dystopia",
+      "topics": "Megacorps, War, Technology",
+      "image_filename": "Juarez_2045_2017.jpg",
+      "pitch": "In 2045, the drug war between the US and Mexico has caused unprecedented chaos. When a robotics company loses a government contract, they sell advanced military technology to a cartel, sparking a high-tech conflict.",
+      "truth": "In 2045, Gear Side International, a robotics company, loses a government contract and faces bankruptcy. Desperate, they sell their advanced military robotics to the Malvado cartel. With cutting-edge weapons, the cartel challenges both governments, sparking a new era of high-tech warfare.",
+      "core": "Juarez 2045 is a cyberpunk dystopian action film exploring dangers of unregulated military technology and corporate greed. It warns how advanced weapons in wrong hands can destabilize regions.",
+      "created_at": "2026-08-14 11:05:05",
+      "watch_url": null
     },
     {
       "title": "Junk",
@@ -35641,6 +35677,24 @@
       "watch_url": null
     },
     {
+      "title": "The Scientist",
+      "year": 2010,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.65,
+      "total_ratings": 11,
+      "origin": "USA",
+      "mood": "Cerebral",
+      "sub_genres": "Hard-SF",
+      "topics": "Science, Discovery, AI",
+      "image_filename": "The_Scientist_2010.jpg",
+      "pitch": "A reclusive physicist builds an infinite-energy machine in his basement that changes his life and all those around him. A contemplative hard sci-fi drama about breakthrough discovery.",
+      "truth": "A reclusive physicist creates an infinite-energy machine in his basement. After years of isolation, his invention finally works and draws attention from corporate and government interests. The scientist must navigate competing factions while dealing with the consequences of his revolutionary technology.",
+      "core": "The film explores the relationship between scientific discovery and personal sacrifice. It asks whether humanity is ready for transformative technology, and what price innovators pay for breakthrough ideas.",
+      "created_at": "2026-08-14 11:04:55",
+      "watch_url": null
+    },
+    {
       "title": "The Screwfly Solution",
       "year": 1977,
       "medium": "Novella",
@@ -35872,6 +35926,24 @@
       "truth": "The crew seeks rare animals for Moscow Zoo. On the Planet of Two Captains, they meet Doctor Verkhovtsev, who refuses to show the Captains' diaries. On planet Bluk, they find a Chatterbird\u2014last owned by Captain Kim. They discover Verkhovtsev is Glot the space pirate in disguise. Captain Buran helps defeat the pirates.",
       "core": "Based on Kir Bulychev's story, this is a Soviet animated cult classic. Directed by Roman Kachanov, it won the USSR State Prize in 1982. A beloved children's sci-fi adventure, one of the most popular Soviet animated films internationally.",
       "created_at": "2026-06-15 05:11:48",
+      "watch_url": null
+    },
+    {
+      "title": "The Sector",
+      "year": 2016,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.7,
+      "total_ratings": 14,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Space-Opera",
+      "topics": "Survival, Rebellion, AI",
+      "image_filename": "The_Sector_2016.jpg",
+      "pitch": "In a dystopian world, a bounty hunter pursues outlaws through a world of multiverses to rescue a kidnapped father and daughter. But a mysterious figure called The Finisher has his own plans.",
+      "truth": "In a dystopian future, a skilled bounty hunter is hired to capture a ruthless band of outlaws who have kidnapped an important father and daughter. The hunt takes him through multiple dimensions and realities - a world of multiverses. Unbeknownst to both the outlaws and the bounty hunter, a more powerful figure known only as The Finisher watches from the shadows, with his own hidden agenda.",
+      "core": "The Sector is a dystopian action film exploring multiverse concepts within a bounty hunter narrative. It examines themes of pursuit, purpose, and the discovery that there are always bigger forces at work than one individual can comprehend.",
+      "created_at": "2026-08-14 11:05:17",
       "watch_url": null
     },
     {
@@ -41725,5 +41797,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2318
+  "count": 2322
 }
