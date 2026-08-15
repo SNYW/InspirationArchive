@@ -10753,6 +10753,22 @@
       "watch_url": null
     },
     {
+      "title": "Gog",
+      "year": 1954,
+      "medium": "Film",
+      "creator": "Herbert L. Strock",
+      "raw_score": 2.95,
+      "total_ratings": 30,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Robots, AI, Cold War, Sabotage, Space Travel",
+      "image_filename": "Gog_1954.jpg",
+      "pitch": "At a top-secret facility building America's first space station, scientists die mysteriously. OSI agent David Sheppard discovers an enemy robot aircraft controls two massive robots through the facility's supercomputer. This 1954 3D sci-fi thriller is the final film in Ivan Tors' OSI trilogy.",
+      "created_at": "2026-08-15 00:19:21",
+      "watch_url": null
+    },
+    {
       "title": "Goku Midnight Eye",
       "year": 1989,
       "medium": "OVA",
@@ -37393,5 +37409,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2337
+  "count": 2338
 }
