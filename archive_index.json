@@ -36369,6 +36369,22 @@
       "watch_url": "https://archive.org/details/virtual-sexuality-1999"
     },
     {
+      "title": "Virus",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "Kinji Fukasaku",
+      "raw_score": 3.15,
+      "total_ratings": 73,
+      "origin": "Japan",
+      "mood": "Pessimistic",
+      "sub_genres": "Post-Apocalypse, Dystopia",
+      "topics": "Pandemic, Survival, AI",
+      "image_filename": "Virus_1980.jpg",
+      "pitch": "A deadly virus escapes from an Antarctic lab and wipes out humanity. Immune survivors at the station must decide: rebuild civilization, or let it die?",
+      "created_at": "2026-08-15 12:24:23",
+      "watch_url": null
+    },
+    {
       "title": "Visionaries: Knights of the Magical Light",
       "year": 1987,
       "medium": "TV Series",
@@ -37793,5 +37809,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2362
+  "count": 2363
 }
