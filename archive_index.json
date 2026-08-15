@@ -25329,6 +25329,22 @@
       "watch_url": null
     },
     {
+      "title": "Terror in the Midnight Sun",
+      "year": 1959,
+      "medium": "Film",
+      "creator": "Virgil W. Vogel",
+      "raw_score": 2.02,
+      "total_ratings": 33,
+      "origin": "Sweden",
+      "mood": "Tense",
+      "sub_genres": "Horror",
+      "topics": "Aliens, Survival, Exploration",
+      "image_filename": "Terror_in_the_Midnight_Sun_1959.jpg",
+      "pitch": "1959 Swedish-American sci-fi. Olympic skater Diane joins her geologist uncle in Lapland to investigate a meteorite\u2014actually an alien spaceship releasing a hairy, tusked creature controlled by three aliens.",
+      "created_at": "2026-08-15 06:11:45",
+      "watch_url": null
+    },
+    {
       "title": "Test pilota Pirxa",
       "year": 1979,
       "medium": "Film",
@@ -37553,5 +37569,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2347
+  "count": 2348
 }
