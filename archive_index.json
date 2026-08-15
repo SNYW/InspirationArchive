@@ -17169,6 +17169,22 @@
       "watch_url": null
     },
     {
+      "title": "Mortel",
+      "year": 2019,
+      "medium": "TV Series",
+      "creator": "Fr\u00e9d\u00e9ric Garcia",
+      "raw_score": 3.64,
+      "total_ratings": 133,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Science-Fantasy, Horror",
+      "topics": "Supernatural, Friendship, Survival",
+      "image_filename": "Mortel_2019.jpg",
+      "pitch": "French Netflix series from 2019. Sofiane searches for his missing brother Reda and meets Victor, a shy classmate. They encounter Ob\u00e9, a mysterious voodoo god who grants them supernatural powers to find the truth.",
+      "created_at": "2026-08-15 11:38:52",
+      "watch_url": null
+    },
+    {
       "title": "Moscow-Cassiopeia",
       "year": 1974,
       "medium": "Film",
@@ -18753,6 +18769,22 @@
       "watch_url": null
     },
     {
+      "title": "Once Upon a Time... Space",
+      "year": 1982,
+      "medium": "TV Series",
+      "creator": "Albert Barill\u00e9",
+      "raw_score": 3.67,
+      "total_ratings": 54,
+      "origin": "France",
+      "mood": "Optimistic",
+      "sub_genres": "Space-Opera",
+      "topics": "Space Travel, Exploration, Aliens",
+      "image_filename": "Once_Upon_a_Time_Space_1982.jpg",
+      "pitch": "French animated sci-fi series from 1982, second in the 'Once Upon a Time...' franchise. 26 episodes following characters from Once Upon a Time... Man adapted to a space setting. Produced with multiple countries, animated in Japan by Eiken.",
+      "created_at": "2026-08-15 11:38:38",
+      "watch_url": null
+    },
+    {
       "title": "Once Upon a Time\u2026 Space",
       "year": 1982,
       "medium": "TV Series",
@@ -19310,6 +19342,22 @@
       "image_filename": "Paradox_Alice_2012.jpg",
       "pitch": "In a near-future Earth facing water collapse, a team journeys to Europa to extract water and save humanity. When their operation goes catastrophically wrong, the mission threatens not just the crew but possibly all life on Earth.",
       "created_at": "2026-08-14 05:35:24",
+      "watch_url": null
+    },
+    {
+      "title": "Paralleles",
+      "year": 2022,
+      "medium": "TV Series",
+      "creator": "Quoc Dang Tran",
+      "raw_score": 3.86,
+      "total_ratings": 158,
+      "origin": "France",
+      "mood": "Tense",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Multiverse, Friendship",
+      "image_filename": "Paralleles_2022.jpg",
+      "pitch": "French Disney+ series from 2022. Four friends in a mountain village are separated when a particle accelerator experiment causes reality to fracture, sending them into parallel dimensions where friends have vanished or aged 15 years.",
+      "created_at": "2026-08-15 11:39:04",
       "watch_url": null
     },
     {
@@ -22159,6 +22207,22 @@
       "pitch": "What if you could abandon your entire life and start fresh with a new face, new name, and new identity? That's the seductive offer made to Arthur Hamilton, a wealthy but emotionally dead banking executive in 1960s New York, by a mysterious organization called \"The Company.\" Transformed into the younger artist \"Tony Wilson,\" Arthur discovers that escaping your life is far easier than finding meaning in a new one. Rock Hudson delivers a haunting, career-redefining performance in this psychological sci-fi nightmare that explores identity, regret, and the hollow promise of reinvention.",
       "created_at": "2026-02-28 07:28:14",
       "watch_url": "https://archive.org/details/hugh_john_2nd_vid"
+    },
+    {
+      "title": "Section Z\u00e9ro",
+      "year": 2016,
+      "medium": "TV Series",
+      "creator": "Olivier Marchal",
+      "raw_score": 3.15,
+      "total_ratings": 35,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Cyberpunk",
+      "topics": "Megacorps, Surveillance, Rebellion",
+      "image_filename": "Section_Zero_2016.jpg",
+      "pitch": "French dystopian series from 2016. In 2024 Europe ruled by multinationals, Prom\u00e9th\u00e9e corporation deploys robot police. Commander Sirius Becker leads Section Z\u00e9ro, an elite resistance using illegal methods against corporate oppression.",
+      "created_at": "2026-08-15 11:38:26",
+      "watch_url": null
     },
     {
       "title": "Sector 7",
@@ -33697,6 +33761,22 @@
       "watch_url": "https://archive.org/details/the-visitor-1979-wp-comp"
     },
     {
+      "title": "The Visitor from the Future",
+      "year": 2009,
+      "medium": "TV Series",
+      "creator": "Fran\u00e7ois Descraques",
+      "raw_score": 4.05,
+      "total_ratings": 29,
+      "origin": "France",
+      "mood": "Satirical",
+      "sub_genres": "Comedy, Time-Travel",
+      "topics": "Time-Travel, First Contact",
+      "image_filename": "The_Visitor_from_the_Future_2009.jpg",
+      "pitch": "French web series from 2009 mixing sci-fi with comedy. Raph encounters a stranger from the future warning that small actions could doom humanity. Four seasons on Dailymotion and Nolife.",
+      "created_at": "2026-08-15 11:38:10",
+      "watch_url": null
+    },
+    {
       "title": "The Visitors",
       "year": 1983,
       "medium": "TV Series",
@@ -37697,5 +37777,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2356
+  "count": 2361
 }
