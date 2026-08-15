@@ -3985,6 +3985,22 @@
       "watch_url": "https://archive.org/details/bio-hunter-ova"
     },
     {
+      "title": "Biohazard: The Alien Force",
+      "year": 1994,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.3,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Horror, Science-Fiction",
+      "topics": "Genetic Engineering, Cloning, Survival",
+      "image_filename": "Biohazard_The_Alien_Force_1994.jpg",
+      "pitch": "Triton Industries creates a genetically-engineered creature using human DNA. When the host mother escapes from the laboratory, she gives birth to an intelligent mutant that hunts down its DNA donors - while trying to mate with its female donors.",
+      "created_at": "2026-08-15 06:34:51",
+      "watch_url": null
+    },
+    {
       "title": "Biomega",
       "year": 2004,
       "medium": "Manga",
@@ -8977,6 +8993,22 @@
       "watch_url": null
     },
     {
+      "title": "Fatal Conflict",
+      "year": 2000,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.31,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Gritty",
+      "sub_genres": "Science-Fiction, Action",
+      "topics": "Rebellion, Survival, Space Travel",
+      "image_filename": null,
+      "pitch": "In a lawless futuristic society, a rebel must prevent renegades from destroying Los Angeles with a hijacked space freighter. An ex-star pilot is forced to stop mad criminals after they've hi-jacked a huge space freighter with the intent of crashing it into the city.",
+      "created_at": "2026-08-15 06:35:17",
+      "watch_url": null
+    },
+    {
       "title": "Fatal Sky",
       "year": 1990,
       "medium": "Film",
@@ -12414,6 +12446,22 @@
       "image_filename": "In_Your_Image_2004.jpg",
       "pitch": "A woman haunted by her inability to have children decides to conceive through cloning. The daughter she gives birth to is nearly identical to her\u2014but the child begins to grow rapidly and slowly replaces her in the household.",
       "created_at": "2026-06-15 13:55:00",
+      "watch_url": null
+    },
+    {
+      "title": "In the Aftermath",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.4,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Melancholic",
+      "sub_genres": "Post-Apocalypse, Science-Fiction",
+      "topics": "Survival, Aliens, Ecology",
+      "image_filename": "In_the_Aftermath_1988.jpg",
+      "pitch": "In a radiation-soaked wasteland, two surviving soldiers search for essential supplies amid the rubble. One man is haunted by visions of an angelic young girl holding a giant egg - a refugee from another world altogether. Could the egg be the key to saving both their world?",
+      "created_at": "2026-08-15 06:34:42",
       "watch_url": null
     },
     {
@@ -27393,6 +27441,22 @@
       "watch_url": "https://archive.org/details/turner_video_12641"
     },
     {
+      "title": "The Eden Formula",
+      "year": 2006,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 1.4,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Monsters, Technology, Survival",
+      "image_filename": "The_Eden_Formula_2006.jpg",
+      "pitch": "When industry spies break into a top secret lab at Calgorin Industries, they accidentally let a T-Rex loose, which wreaks havoc into the lab before breaking out into the streets of Los Angeles.",
+      "created_at": "2026-08-15 06:35:08",
+      "watch_url": null
+    },
+    {
       "title": "The Einstein Intersection",
       "year": 1967,
       "medium": "Novel",
@@ -29246,6 +29310,22 @@
       "image_filename": "The_Kidnapping_of_a_Wizard_1989.jpg",
       "pitch": "A graduate student returns to her grandmother's village to write her dissertation, but two strangers arrive claiming to be time travelers from the 28th century. They're searching for historical geniuses whose brilliant lives were cut short, hoping to evacuate them to the future. Anna becomes entangled in their dangerous mission.",
       "created_at": "2026-06-18 06:35:16",
+      "watch_url": null
+    },
+    {
+      "title": "The Killings at Outpost Zeta",
+      "year": 1980,
+      "medium": "Film",
+      "creator": "",
+      "raw_score": 2.17,
+      "total_ratings": 12,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Science-Fiction, Horror",
+      "topics": "Isolation, Exploration, Survival",
+      "image_filename": "The_Killings_at_Outpost_Zeta_1980.jpg",
+      "pitch": "A team investigates mysterious deaths on a barren alien world where two previous expeditions met their end. This 1980 sci-fi horror delivers claustrophobic dread as the team uncovers clues that point to something far more terrifying than simple accidents.",
+      "created_at": "2026-08-15 06:34:33",
       "watch_url": null
     },
     {
@@ -37569,5 +37649,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2348
+  "count": 2353
 }
