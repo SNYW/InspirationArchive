@@ -1,6 +1,24 @@
 {
   "entries": [
     {
+      "title": "#Alive",
+      "year": 2020,
+      "medium": "Film",
+      "creator": "Cho Il-hyung",
+      "raw_score": 3.6,
+      "total_ratings": 2093,
+      "origin": "South-Korea",
+      "mood": "Tense",
+      "sub_genres": "Horror, Post-Apocalypse",
+      "topics": "Survival, Pandemic, Isolation",
+      "image_filename": "Alive_2020.jpg",
+      "pitch": "A streamer is trapped alone in his Seoul apartment during a zombie outbreak. With no power, food, or rescue coming, he must survive using his wits while the infected close in.",
+      "truth": "Joon-woo is live streaming games when zombies hit Seoul. Trapped in his apartment, he uses a homemade drone to scout the wasteland beyond his windows. Starving and hallucinating, he spots a survivor in a nearby building.",
+      "core": "A critique of digital identity: Joon-woo's life as a streamer means nothing when real survival begins. Urban Seoul becomes a trap; civilization is a thin veneer.",
+      "created_at": "2026-08-15 01:35:45",
+      "watch_url": null
+    },
+    {
       "title": "009-1",
       "year": 2006,
       "medium": "Anime",
@@ -8350,6 +8368,24 @@
       "truth": "In 1982, a massive alien spaceship appears over Johannesburg, South Africa. The craft is found to contain over a million malnourished insectoid aliens, referred to derisively as \"Prawns\" by locals. The South African government, unable to communicate with the aliens or understand their technology, forcibly relocates them to an internment camp called District 9, located in the slums outside Johannesburg. Over the next twenty years, District 9 becomes a slum overrun by violence, poverty, and alienation, with the aliens treated as second-class citizens.\n\nIn 2009, the government hires Multinational United (MNU), a private defense contractor, to oversee the relocation of the aliens to a new camp further from the city. Wikus van de Merwe (Sharlto Copley), a bureaucratic MNU employee and son-in-law of the company's executive, is put in charge of the relocation process. During the eviction, Wikus discovers a hidden laboratory containing alien technology, including a fluid that can be used to operate their weaponry. When he is exposed to the fluid during a raid, he begins to transform into a Prawn.\n\nAs Wikus slowly mutates into an alien, he becomes a target for both the South African government, who want to dissect him to learn his secrets, and MNU, who want to capture him to use his transformation for profit. He befriends Christopher Johnson, one of the aliens who has been secretly working on a way to return to his home planet. Together, they must evade the military, MNU mercenaries, and District 9 gangsters in a desperate attempt to reach Christopher's ship. Wikus sacrifices his humanity to help Christopher and his son escape Earth, staying behind as the ship departs.",
       "core": "District 9 functions primarily as an allegory for apartheid South Africa and the broader history of colonization and segregation. The film's title and premise draw direct inspiration from District Six, a neighborhood in Cape Town where over 60,000 Black residents were forcibly removed during apartheid. The aliens' treatment\u2014herded into camps, stripped of rights, used for labor\u2014mirrors the treatment of indigenous populations throughout colonial history. The use of the term \"Prawns\" (ironically derived from a local crustacean) to dehumanize the aliens parallels real-world racial slurs, creating an uncomfortable mirror for audiences to examine their own prejudices.\n\nThe film also explores themes of corporate power and exploitation. MNU represents the faceless, morally bankrupt multinational corporation that prioritizes profit over human (and alien) rights. Their interest in Christopher's technology isn't scientific curiosity\u2014it's military applications and profit. The film's critique of privatization extends to government agencies that outsourced dirty work to private contractors, allowing them to maintain plausible deniability while committing atrocities.\n\nWikus van de Merwe's transformation serves as the film's emotional core. Beginning as a bumbling, morally ambiguous bureaucrat who gleefully participates in alien oppression, his gradual transformation forces him to literally walk in the aliens' shoes. His metamorphosis is both physical and moral\u2014he gains empathy and courage he never possessed as a human. The film suggests that true understanding requires experiencing oppression firsthand, a controversial but powerful statement about the nature of empathy and moral growth.\n\nVisually, District 9 blends documentary-style realism with science fiction spectacle. The found-footage elements ground the fantastic story in gritty realism, while the action sequences showcase impressive practical effects and CGI. The film pioneered (alongside Avatar) the use of 3D stereoscopic photography in science fiction, adding immersion to the alien world. The Prawn designs, created by Weta Workshop, are genuinely alien\u2014insectoid and unsettling\u2014avoiding the humanoid aliens common in the genre.",
       "created_at": "2026-03-04 12:35:35",
+      "watch_url": null
+    },
+    {
+      "title": "District B13",
+      "year": 2004,
+      "medium": "Film",
+      "creator": "Pierre Morel",
+      "raw_score": 3.41,
+      "total_ratings": 2032,
+      "origin": "France",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Action",
+      "topics": "Survival, Class Struggle, Rebellion",
+      "image_filename": "DistrictB13_2004.jpg",
+      "pitch": "In dystopian 2010 Paris, the government walls off the poorest suburb, imprisoning two million. Parkour legend Le\u00efto teams with a cop to stop a terrorist with a dirty bomb.",
+      "truth": "Le\u00efto, a parkour expert in walled Banlieue 13, fights to destroy the wall. He discovers Taha, a terrorist planning to launch a dirty bomb on Paris. Teaming with cop Damien, they race through rooftops to stop the attack.",
+      "core": "Visceral critique of French class segregation. The walled ghetto represents extreme inequality; parkour becomes revolutionary resistance. Besson's script champions grassroots action over government.",
+      "created_at": "2026-08-15 01:36:03",
       "watch_url": null
     },
     {
@@ -17083,6 +17119,24 @@
       "watch_url": "https://archive.org/details/loupsgar"
     },
     {
+      "title": "Love Alarm",
+      "year": 2019,
+      "medium": "TV Series",
+      "creator": "Lee Na-jeong",
+      "raw_score": 4.12,
+      "total_ratings": 2041,
+      "origin": "South-Korea",
+      "mood": "Optimistic",
+      "sub_genres": "Romance, Dystopia",
+      "topics": "Love, Technology, Identity",
+      "image_filename": "LoveAlarm_2019.jpg",
+      "pitch": "Near-future Korea: an app tells users if someone nearby loves them. Three young people navigate love, jealousy, and social pressure in a world where attraction is public data.",
+      "truth": "Jojo refuses to install Love Alarm, preferring organic connection. Her friends Sun-oh and Hye-young both love her. When Sun-oh confesses, the app reveals his feelings, changing everything. The series explores tech-mediated romance and corporate manipulation.",
+      "core": "Critique of tech-mediated romance: app strips mystery, makes attraction quantifiable. Asks if knowing feelings beforehand is blessing or curse. Korean status anxiety makes this especially pointed.",
+      "created_at": "2026-08-15 01:36:34",
+      "watch_url": null
+    },
+    {
       "title": "Love Bites",
       "year": 2002,
       "medium": "TV Series",
@@ -25288,6 +25342,24 @@
       "truth": "In the late 21st century, all forests on Earth have been destroyed through environmental exploitation. To preserve plant and animal life, massive geodesic domes containing complete ecosystems have been attached to a fleet of eight cargo spaceships dubbed \"American Airlines Space Freighters,\" orbiting beyond Saturn. The Valley Forge is one such ship, carrying six biodomes filled with forests, crops, and wildlife.\n\nFreeman Lowell (Bruce Dern) is the botanist and ecologist aboard the Valley Forge. He devotes himself to maintaining the biodomes, cultivating plants and caring for the animals, dreaming of the day they can return to Earth. The ship is commanded by Captain Wolf, with crewmen Long, Barker, and Skip.\n\nWhen orders arrive to jettison and destroy all the biodomes and return the freighters to commercial service, the crew prepares to follow instructions. Four of the six Valley Forge domes are destroyed with nuclear charges. Horrified by this destruction, Lowell decides to act.\n\nWhen Wolf arrives to plant explosives in Lowell's favorite dome, a violent confrontation erupts. Lowell kills Wolf with a knife, though he's seriously wounded in the leg in the process. He then jettisons and destroys the remaining dome to trap and kill the other two crewmen who come to investigate. Now alone except for the ship's three service robots, Lowell stages a fake explosion and directs the Valley Forge toward Saturn.\n\nLowell reprograms the drones to perform emergency surgery on his leg, then sets a course through Saturn's rings. During the dangerous passage, one drone (Drone 3) is lost. Lowell names the surviving drones Dewey (Drone 1) and Huey (Drone 2), with the lost drone memorialized as Louie\u2014a nod to Disney's nephews.\n\nEmerging from the rings relatively intact, Lowell, Huey, and Dewey set out into deep space to maintain the last forest. Lowell teaches the robots to plant trees, play poker, and treats them as his children. He buries Wolf in the biodome. But time passes, and Lowell discovers with horror that his biodome is dying. The lack of sufficient light has restricted plant growth.\n\nWhen the Berkshire, another freighter, reestablishes contact to check on the Valley Forge's survival, Lowell knows his crimes will soon be discovered. But in this moment of crisis, he realizes the problem: insufficient light. He races to install artificial lamps, and the forest begins to recover. The film ends with Lowell broadcasting a message to any who might hear: \"This is Freeman Lowell, on the freighter Valley Forge. If anyone receives this, we've got the last forest. We've got the last forests. We're out among the stars. If you can hear us, we could use some help.\"",
       "core": "Silent Running is a profound meditation on environmentalism, sacrifice, and humanity's fractured relationship with nature. Released in 1972, amid growing environmental awareness following the first Earth Day (1970) and Rachel Carson's Silent Spring (1962), the film presents a bleak vision of a future where humanity has destroyed its own planet.\n\nThe film asks: What would we preserve if everything were lost? Lowell becomes both Christ-like savior and tragic hero\u2014a man willing to kill and die to protect the last remnants of Earth's natural world. His isolation among the stars mirrors humanity's potential future as an interplanetary species, carrying our ecological heritage into the cosmos.\n\nThe three robots\u2014Huey, Dewey, and Louie\u2014represent humanity's technological children. Lowell's reprogramming of them to tend the garden transforms them from tools into companions, suggesting technology could serve as caretakers of nature rather than its destroyer. The robots' growing sentience and emotional bonds (Dewey refusing to leave Huey during repairs) hint at consciousness emerging from devoted service.\n\nThe ending is deliberately ambiguous and hopeful yet precarious. Lowell's broadcast message suggests he's found a solution to the light problem, but the future remains uncertain. The film doesn't offer easy answers\u2014it presents preservation as both noble and costly, requiring sacrifice and solitude.\n\nDirector Douglas Trumbull, who later worked on 2001: A Space Odyssey's special effects, brings a visual sensibility that balances stark spaceship interiors with the lush, green life within the biodomes. The contrast between the sterile ship and the living forest becomes the film's central visual theme.",
       "created_at": "2026-02-28 07:28:14",
+      "watch_url": null
+    },
+    {
+      "title": "Silo",
+      "year": 2023,
+      "medium": "TV Series",
+      "creator": "Graham Yost",
+      "raw_score": 4.1,
+      "total_ratings": 2418,
+      "origin": "USA",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Mystery",
+      "topics": "Surveillance, Rebellion, Power",
+      "image_filename": "Silo_2023.jpg",
+      "pitch": "Thousands live in a massive underground silo. When the sheriff dies after breaking a cardinal rule, engineer Juliette investigates and uncovers shocking secrets about the silo's true purpose.",
+      "truth": "Juliette works as a mechanic in the silo. After the sheriff dies going outside \u2014 violating the rules \u2014 she uncovers that the world isn't toxic. The silo is an experiment controlled by AI. She must decide whether to reveal the truth.",
+      "core": "Examines controlled information creating compliant populations. The silo represents authoritarian control: safety through ignorance. Asks whether truth matters more than stability.",
+      "created_at": "2026-08-15 01:36:48",
       "watch_url": null
     },
     {
@@ -35353,6 +35425,24 @@
       "watch_url": "https://archive.org/details/the.-plague.-dogs"
     },
     {
+      "title": "The Platform",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Galder Gaztelu-Urrutia",
+      "raw_score": 3.48,
+      "total_ratings": 7940,
+      "origin": "Spain",
+      "mood": "Cerebral",
+      "sub_genres": "Dystopia, Thriller",
+      "topics": "Class Struggle, Survival, Power",
+      "image_filename": "ThePlatform_2019.jpg",
+      "pitch": "A vertical prison feeds prisoners from top to bottom. Those on upper floors eat everything; those below starve. A new prisoner on level 48 must understand the brutal system before he becomes food for those above.",
+      "truth": "Goreng wakes on level 48. His cellmate explains: food descends daily from the top; upper floors eat everything. Prisoners switch floors monthly. Over weeks, Goreng experiences both well-fed and starving levels. He meets a hidden child used to manipulate others into saving food.",
+      "core": "Sharp allegory for capitalism: vertical prison mirrors society. Those at top consume everything; system rewards selfishness. Minimalist setting forces confrontation with resource distribution truths.",
+      "created_at": "2026-08-15 01:36:20",
+      "watch_url": null
+    },
+    {
       "title": "The Pod Generation",
       "year": 2023,
       "medium": "Film",
@@ -42121,5 +42211,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2340
+  "count": 2345
 }
