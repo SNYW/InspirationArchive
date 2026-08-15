@@ -21953,6 +21953,22 @@
       "watch_url": "https://archive.org/details/samurai-commando-mission-1549"
     },
     {
+      "title": "Samurai Flamenco",
+      "year": 2013,
+      "medium": "Anime",
+      "creator": "Manglobe",
+      "raw_score": 2.21,
+      "total_ratings": 14,
+      "origin": "Japan",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Superhero, Identity, Satire",
+      "image_filename": "Samurai_Flamenco_2013.jpg",
+      "pitch": "A male model with no powers decides to become a real superhero in this Japanese anime. Masayoshi Hazama creates a costume and patrols Tokyo as Samurai Flamenco, learning that being a hero requires more than just courage \u2014 it demands sacrifice and understanding of true justice.",
+      "created_at": "2026-08-15 16:09:59",
+      "watch_url": null
+    },
+    {
       "title": "Samurai Princess",
       "year": 2009,
       "medium": "Film",
@@ -37937,5 +37953,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2371
+  "count": 2372
 }
