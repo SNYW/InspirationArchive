@@ -22849,6 +22849,22 @@
       "watch_url": "https://archive.org/details/turner_video_12009"
     },
     {
+      "title": "Snow, Tea and Love",
+      "year": 2021,
+      "medium": "Film",
+      "creator": "C\u0103t\u0103lin Bugean",
+      "raw_score": 3.15,
+      "total_ratings": 17,
+      "origin": "Romania",
+      "mood": "Satirical",
+      "sub_genres": "Science-Fantasy",
+      "topics": "Friendship, Crime",
+      "image_filename": "Snow_Tea_and_Love_2021.jpg",
+      "pitch": "Romania's first sci-fi comedy film follows three friends who land in jail and scheme an escape with a mobster's help. After their escape, a mysterious potion with strange effects and a $20 million diamond complicate their plans.",
+      "created_at": "2026-08-15 05:27:12",
+      "watch_url": null
+    },
+    {
       "title": "So Weird",
       "year": 1999,
       "medium": "TV Series",
@@ -37521,5 +37537,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2345
+  "count": 2346
 }
