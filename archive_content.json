@@ -41131,6 +41131,24 @@
       "watch_url": "https://archive.org/details/visitors-from-the-arkana-galaxy-gosti-iz-galaksije-1971-ljubisa-samardzic-zarko-"
     },
     {
+      "title": "Vivarium",
+      "year": 2019,
+      "medium": "Film",
+      "creator": "Lorcan Finnegan",
+      "raw_score": 3.04,
+      "total_ratings": 2674,
+      "origin": "Ireland",
+      "mood": "Eerie",
+      "sub_genres": "Dystopia, Horror",
+      "topics": "Isolation, Family, Mental Health",
+      "image_filename": "Vivarium_2019.jpg",
+      "pitch": "A couple searching for their dream home becomes trapped in a surreal housing development where streets repeat endlessly. When a mysterious child appears with instructions to raise it to be freed, they descend into a terrifying ordeal. This 2019 sci-fi psychological thriller explores the dehumanizing nature of modern suburbia.",
+      "truth": "Gemma and Tom visit Yonder housing development and cannot leave - they always return to house number 9. An infant appears with instructions to raise it for their freedom. The child rapidly ages while their escape attempts fail. Tom becomes ill and dies. The boy matures to adulthood, kills Gemma after she raises him, and the cycle continues with a new couple.",
+      "core": "A stark sci-fi parable about the dehumanizing nature of suburbia and forced conformity. Read as a dark exploration of postnatal depression and identity loss. The eternal recurrence suggests society perpetuates its own traps across generations.",
+      "created_at": "2026-08-15 16:37:20",
+      "watch_url": null
+    },
+    {
       "title": "Voice Over",
       "year": 2011,
       "medium": "Film",
@@ -42697,5 +42715,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2372
+  "count": 2373
 }
