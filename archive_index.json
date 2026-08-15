@@ -34177,6 +34177,22 @@
       "watch_url": null
     },
     {
+      "title": "They Live",
+      "year": 1988,
+      "medium": "Film",
+      "creator": "John Carpenter",
+      "raw_score": 3.65,
+      "total_ratings": 3569,
+      "origin": "USA",
+      "mood": "Satirical",
+      "sub_genres": "Satire, Horror",
+      "topics": "Aliens, Surveillance, Corporate Power, Propaganda",
+      "image_filename": "They_Live_1988.jpg",
+      "pitch": "A 1988 sci-fi horror satire by John Carpenter. A drifter discovers special sunglasses revealing aliens secretly control Earth through mass media. Famous for its iconic 'bubblegum' fight scene.",
+      "created_at": "2026-08-15 05:44:28",
+      "watch_url": null
+    },
+    {
       "title": "They Were Eleven",
       "year": 1975,
       "medium": "Manga",
@@ -37537,5 +37553,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2346
+  "count": 2347
 }
