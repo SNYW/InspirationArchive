@@ -26305,6 +26305,22 @@
       "watch_url": null
     },
     {
+      "title": "The Blue Yonder",
+      "year": 1985,
+      "medium": "Film",
+      "creator": "Mark Rosman",
+      "raw_score": 3.13,
+      "total_ratings": 13,
+      "origin": "USA",
+      "mood": "Optimistic",
+      "sub_genres": "Time-Travel",
+      "topics": "Time-Travel, Family, Children",
+      "image_filename": "The_Blue_Yonder_1985.jpg",
+      "pitch": "Eleven-year-old Jonathan Knicks travels back to 1927 via a time machine built from his grandfather's blueprints. His mission: meet the grandfather he never knew and stop him from dying in a fatal transatlantic flight attempt. A charming Disney adventure about family, time, and the legacies we leave behind.",
+      "created_at": "2026-08-15 11:12:27",
+      "watch_url": null
+    },
+    {
       "title": "The Body Stealers",
       "year": 1969,
       "medium": "Film",
@@ -37681,5 +37697,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2355
+  "count": 2356
 }
