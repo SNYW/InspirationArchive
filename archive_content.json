@@ -32833,6 +32833,24 @@
       "watch_url": null
     },
     {
+      "title": "The Inhabited Island",
+      "year": 2008,
+      "medium": "Film",
+      "creator": "Fyodor Bondarchuk",
+      "raw_score": 2.66,
+      "total_ratings": 114,
+      "origin": "Russia",
+      "mood": "Gritty",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Authoritarianism, Rebellion, Brainwashing",
+      "image_filename": "The_Inhabited_Island_2008.jpg",
+      "pitch": "In 2157, space explorer Maxim Kammerer crash-lands on planet Saraksh, ruled by the totalitarian \"Unknown Fathers\" who use mind-control towers. Trapped on this dystopian world, he must navigate a society of mass propaganda and rebel against the regime. A two-part Russian adaptation of Arkady and Boris Strugatsky's 1969 novel.",
+      "truth": "Space explorer Maxim Kammerer crash-lands on planet Saraksh under rule of the Unknown Fathers. He discovers their towers emit mind-control radiation, joins rebel \"degenerates\" immune to brainwashing, and ultimately destroys the control center to bring down the regime.",
+      "core": "Soviet-era hard SF adapted from the Strugatsky brothers' 1969 novel. The mind-control towers satirize propaganda and authoritarian thought control. Maxim destroys the control center rather than seize power, reflecting the authors' skepticism about utopian solutions.",
+      "created_at": "2026-08-15 15:19:55",
+      "watch_url": null
+    },
+    {
       "title": "The Interceptor",
       "year": 2009,
       "medium": "Film",
@@ -42571,5 +42589,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2365
+  "count": 2366
 }
