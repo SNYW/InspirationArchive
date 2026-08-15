@@ -39421,6 +39421,24 @@
       "watch_url": null
     },
     {
+      "title": "Time of the Apes",
+      "year": 1987,
+      "medium": "Anime Film",
+      "creator": "Sandy Frank",
+      "raw_score": 1.71,
+      "total_ratings": 29,
+      "origin": "Japan",
+      "mood": "Tense",
+      "sub_genres": "Dystopia, Post-Apocalypse",
+      "topics": "Time Travel, AI, Survival",
+      "image_filename": "Time_of_the_Apes_1987.jpg",
+      "pitch": "A 1987 American edit of a 1974 Japanese series. Three people frozen in 1974 wake up in 3714, where intelligent apes rule Earth. Cult classic thanks to Mystery Science Theater 3000.",
+      "truth": "Three people frozen in 1974 wake in 3714, ruled by intelligent apes. With ape child Pepe, they flee authorities and discover AI Yukomu caused humanity's downfall. The computer sends them to different fates\u2014some forward in time, others back to 1974.",
+      "core": "Japanese response to Planet of the Apes with AI themes ahead of its time. The supercomputer deliberately replaces humanity with apes. The edit's incoherence became its cult charm via MST3K, a beloved so-bad-it's-good classic.",
+      "created_at": "2026-08-15 17:04:38",
+      "watch_url": null
+    },
+    {
       "title": "Time to Hunt",
       "year": 2020,
       "medium": "Film",
@@ -42715,5 +42733,5 @@
       "watch_url": "https://vimeo.com/707236211"
     }
   ],
-  "count": 2373
+  "count": 2374
 }
